@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>RWpod - подкаст про мир Ruby и Web технологии</title>
+    <description>RWpod - подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле).</description>
+    <language>ru</language>
+    <link>http://www.rwpod.com</link>
+    <copyright>Copyright RWpod.</copyright>
+    <pubDate>Tue, 23 Dec 2014 00:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2014 00:00:00 +0200</lastBuildDate>
+    <atom:link href="http://feeds.rwpod.com/rwpod-screencasts" rel="self" type="application/rss+xml"/>
+    <itunes:author>RWpod команда</itunes:author>
+    <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="http://www.rwpod.com/images/favicons/apple-icon-2048x2048.png"/>
+    <itunes:owner>
+      <itunes:name>RWpod команда</itunes:name>
+      <itunes:email>rwpod.com@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <media:copyright>Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
+    <media:thumbnail url="http://www.rwpod.com/images/favicons/apple-icon-2048x2048.png"/>
+    <media:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>Работаем с multi_json в Ruby</title>
+  <description>&lt;p&gt;Добрый день.&lt;/p&gt;
+&lt;p&gt;Новый скринкаст &amp;ldquo;Работаем с multi_json в Ruby&amp;rdquo;. multi_json библиотека предоставляет единый API для самый популярных JSON парсеров в Ruby. В скринкасте показано небольшое введение в использование данной библиотеки.&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+
+&lt;div class="flex-video"&gt;
+  &lt;iframe width="640" height="360" src="http://www.youtube.com/embed/4a2p00joD44" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+</description>
+  <pubDate>Wed, 23 Jan 2013 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2013/01/23/working-with-multi-json.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2013/01/23/working-with-multi-json.html</guid>
+  <enclosure url="http://www.youtube.com/embed/4a2p00joD44" length="18511852" type="video/mp4"/>
+  <media:content url="http://www.youtube.com/embed/4a2p00joD44" fileSize="18511852" type="video/mp4"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день.
+Новый скринкаст “Работаем с multi_json в Ruby”. multi_json библиотека предоставляет единый API для самый популяр...</itunes:subtitle>
+  <itunes:summary>Добрый день.
+Новый скринкаст “Работаем с multi_json в Ruby”. multi_json библиотека предоставляет единый API для самый популярных JSON парсеров в Ruby. В скринкасте показано небольшое введение в использование данной библиотеки.
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/favicons/apple-touch-icon-152x152-precomposed.png"/>
+  <itunes:duration>00:04:12</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+  </channel>
+</rss>

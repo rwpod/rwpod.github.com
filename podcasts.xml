@@ -1,0 +1,1907 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:creativeCommons="http://cyber.law.harvard.edu/rss/creativeCommonsRssModule.html" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>RWpod - подкаст про мир Ruby и Web технологии</title>
+    <description>RWpod - подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле).</description>
+    <language>ru</language>
+    <link>http://www.rwpod.com</link>
+    <copyright>Copyright RWpod.</copyright>
+    <pubDate>Tue, 23 Dec 2014 00:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 23 Dec 2014 00:00:00 +0200</lastBuildDate>
+    <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
+    <itunes:author>RWpod команда</itunes:author>
+    <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
+    <itunes:explicit>clean</itunes:explicit>
+    <itunes:image href="http://www.rwpod.com/images/favicons/apple-icon-2048x2048.png"/>
+    <itunes:owner>
+      <itunes:name>RWpod команда</itunes:name>
+      <itunes:email>rwpod.com@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:block>no</itunes:block>
+    <itunes:category text="Technology">
+      <itunes:category text="Tech News"/>
+    </itunes:category>
+    <itunes:category text="Technology">
+      <itunes:category text="Software How-To"/>
+    </itunes:category>
+    <media:copyright>Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
+    <media:thumbnail url="http://www.rwpod.com/images/favicons/apple-icon-2048x2048.png"/>
+    <media:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
+    <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>43 выпуск 02 сезона. Релизы Rails 4.2, PostgreSQL 9.4, jQuery 1.11.2 и 2.1.3, Evil Icons, Converse.js и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релизы &lt;a href="http://weblog.rubyonrails.org/2014/12/19/Rails-4-2-final/"&gt;Rails 4.2&lt;/a&gt; и &lt;a href="http://www.postgresql.org/about/news/1557/"&gt;PostgreSQL 9.4&lt;/a&gt;. &lt;a href="https://github.com/blog/1938-git-client-vulnerability-announced"&gt;Vulnerability announced: update your Git clients&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.schneems.com/2014/12/15/hashie-considered-harmful.html"&gt;Hashie Considered Harmful&lt;/a&gt; и &lt;a href="https://p8952.info/ruby/2014/12/12/benchmarking-ruby-with-gcc-and-clang.html"&gt;Benchmarking Ruby with GCC (4.4, 4.7, 4.8, 4.9) and Clang (3.2, 3.3, 3.4, 3.5)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://brandonhilkert.com/blog/a-ruby-refactor-exploring-dependency-injection-options/"&gt;A Ruby refactor: exploring dependency injection options&lt;/a&gt; и &lt;a href="http://www.slothygeek.com/the-7-best-free-ruby-tutorials-for-beginners/"&gt;The 7 Best Free Ruby Tutorials for Beginners&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релиз &lt;a href="http://blog.jquery.com/2014/12/18/jquery-1-11-2-and-2-1-3-released-safari-fail-safe-edition/"&gt;jQuery 1.11.2 и 2.1.3&lt;/a&gt; и &lt;a href="http://libscore.com/"&gt;Libscore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sitepoint.com/5-most-popular-frontend-frameworks-compared/"&gt;The 5 Most Popular Frontend Frameworks of 2014 Compared&lt;/a&gt; и &lt;a href="https://conversejs.org/"&gt;Converse.js - a free and open-source XMPP chat client for your website&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://evil-icons.io/"&gt;Evil Icons&lt;/a&gt; и &lt;a href="http://samherbert.net/svg-loaders/"&gt;SVG Loaders&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Обсуждаем&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.elegantthemes.com/blog/resources/web-design-trends-to-look-out-for-in-2015"&gt;Web Design Trends To Look Out For In 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@addyosmani/javascript-application-architecture-on-the-road-to-2015-d8125811101b"&gt;JavaScript Application Architecture On The Road To 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@shijuvar/web-development-trends-for-2015-and-beyond-c2d3c1ef5718"&gt;Web Development Trends For 2015 And Beyond&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://tutorialzine.com/2014/12/the-languages-and-frameworks-that-you-should-learn-in-2015/"&gt;The Languages And Frameworks That You Should Learn In 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.htmlxprs.com/post/21/best-web-technologies-and-tools-for-2015"&gt;Best web technologies and tools for 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Tue, 23 Dec 2014 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2014/12/23/podcast-02-43.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/12/23/podcast-02-43.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/87/file/podfm_rwpod_my_43.mp3" length="67071705" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/87/file/podfm_rwpod_my_43.mp3" fileSize="67071705" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы Rails 4.2 и PostgreSQL 9.4. Vulnerability announced: update your Git clients
+Hashie Considered Harmful и Benchmarking Ruby with GCC (4.4, 4.7, 4.8, 4.9) and Clang (3.2, 3.3, 3.4, 3.5)
+A Ruby refactor: exploring dependency injection options и The 7 Best Free Ruby Tutorials for Beginners
+
+
+JavaScript
+
+
+Релиз jQuery 1.11.2 и 2.1.3 и Libscore
+The 5 Most Popular Frontend Frameworks of 2014 Compared и Converse.js - a free and open-source XMPP chat client for your website
+Evil Icons и SVG Loaders
+
+
+Обсуждаем
+
+
+Web Design Trends To Look Out For In 2015
+JavaScript Application Architecture On The Road To 2015
+Web Development Trends For 2015 And Beyond
+The Languages And Frameworks That You Should Learn In 2015
+Best web technologies and tools for 2015
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0243.png"/>
+  <itunes:duration>01:09:46</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>42 выпуск 02 сезона. JRuby 1.7.17, Rubinius Metrics meet InfluxDB, Traveling Ruby, TouchstoneJS, The offline cookbook и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релиз &lt;a href="http://jruby.org/2014/12/09/jruby-1-7-17.html"&gt;JRuby 1.7.17&lt;/a&gt; и &lt;a href="http://rubini.us/2014/12/10/rubinius-metrics-meets-influxdb/"&gt;Rubinius Metrics meet InfluxDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://crypt.codemancers.com/posts/2014-12-10-bower-with-rails/"&gt;Cake walk: Using bower with rails&lt;/a&gt; и &lt;a href="http://willschenk.com/middleman-tricks-and-hacks/"&gt;Middleman Tricks and Hacks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://phusion.github.io/traveling-ruby/"&gt;Traveling Ruby&lt;/a&gt; и &lt;a href="https://medium.com/@KamilLelonek/ruby-module-tricks-and-gravatar-url-generator-56235cb73403"&gt;DRY in you Ruby modules&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/elabs/refile"&gt;Refile - modern file upload library&lt;/a&gt; и &lt;a href="http://shiroyasha.github.io/progressbar-for-shell-apps.html"&gt;Progress bar for shell apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://confreaks.com/events/RubyConf2014"&gt;Ruby Conference 2014 videos&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blog.izs.me/post/104685388058/io-js"&gt;What is io.js?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://touchstonejs.io/"&gt;TouchstoneJS - ReactJS powered UI framework for developing beautiful hybrid mobile apps&lt;/a&gt; и &lt;a href="http://osvaldas.info/lazy-loading-google-maps"&gt;Lazy-loading Google Maps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jakearchibald.com/2014/offline-cookbook/"&gt;The offline cookbook&lt;/a&gt; и &lt;a href="http://pragmatic-backbone.com/"&gt;A pragmatic guide to Backbone.js apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://webdesign.tutsplus.com/tutorials/understanding-css-stats-how-to-make-the-most-of-the-numbers--cms-22756"&gt;Understanding CSS Stats: How to Make the Most of the Numbers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dev.hubspot.com/blog/async-fast"&gt;Async != Fast&lt;/a&gt; и &lt;a href="https://chadpaulson.github.io/react-cassette-player/"&gt;Simple ReactJS HTML5 audio player&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 15 Dec 2014 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2014/12/15/podcast-02-42.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/12/15/podcast-02-42.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/86/file/podfm_rwpod_my_42.mp3" length="48996683" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/86/file/podfm_rwpod_my_42.mp3" fileSize="48996683" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релиз </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релиз JRuby 1.7.17 и Rubinius Metrics meet InfluxDB
+Cake walk: Using bower with rails и Middleman Tricks and Hacks
+Traveling Ruby и DRY in you Ruby modules
+Refile - modern file upload library и Progress bar for shell apps
+Ruby Conference 2014 videos
+
+
+JavaScript
+
+
+What is io.js?
+TouchstoneJS - ReactJS powered UI framework for developing beautiful hybrid mobile apps и Lazy-loading Google Maps
+The offline cookbook и A pragmatic guide to Backbone.js apps
+Understanding CSS Stats: How to Make the Most of the Numbers
+Async != Fast и Simple ReactJS HTML5 audio player
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0242.png"/>
+  <itunes:duration>00:50:56</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>41 выпуск 02 сезона. Rails 4.2.0.rc2, Ruby 2.2.0-preview2, Ruby Object Mapper, Duktape, RoadTrafficSimulator и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релиз &lt;a href="http://weblog.rubyonrails.org/2014/12/5/Rails-4-2-0-rc2-has-been-released/"&gt;Rails 4.2.0.rc2&lt;/a&gt;, &lt;a href="https://www.ruby-lang.org/en/news/2014/11/28/ruby-2-2-0-preview2-released/"&gt;Ruby 2.2.0-preview2&lt;/a&gt; и &lt;a href="http://rom-rb.org/"&gt;Ruby Object Mapper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.engineyard.com/2014/doing-an-api-mashup-with-sinatra"&gt;Doing an API Mashup with Sinatra&lt;/a&gt; и &lt;a href="http://robots.thoughtbot.com/a-guide-to-caching-your-rails-application-with-fastly"&gt;A Guide to Caching Your Rails Application With Fastly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://robots.thoughtbot.com/testing-and-environment-variables"&gt;Testing and Environment Variables&lt;/a&gt; и &lt;a href="http://robots.thoughtbot.com/referential-integrity-with-foreign-keys"&gt;Have Some (Referential) Integrity with Foreign Keys&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/oozou/ruby-prof-flamegraph"&gt;Ruby-prof-flamegraph&lt;/a&gt; и &lt;a href="http://www.eventbrite.com/e/ruby-meditation-5-tickets-14219830897"&gt;Ruby Meditation 5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.infoworld.com/article/2855057/application-development/why-iojs-decided-to-fork-nodejs.html"&gt;Why io.js decided to fork Node.js&lt;/a&gt; и &lt;a href="http://jex.im/regulex/"&gt;Regulex - JavaScript Regular Expression Visualizer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://railsware.com/blog/2014/12/02/flexbox-as-a-solution-for-browser-reflow-optimization/"&gt;Flexbox as a solution for browser reflow optimization&lt;/a&gt;, &lt;a href="http://mtford.co.uk/siesta/"&gt;Siesta - Object Mapping for Javascript&lt;/a&gt; и &lt;a href="http://objectdb.kganser.com/"&gt;ObjectDB – an easier way to use indexedDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://duktape.org/"&gt;Duktape is an embeddable Javascript engine&lt;/a&gt;, &lt;a href="http://metricsgraphicsjs.org/"&gt;MetricsGraphics.js&lt;/a&gt; и &lt;a href="http://wellcaffeinated.net/PhysicsJS/"&gt;PhysicsJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://volkhin.com/RoadTrafficSimulator/"&gt;RoadTrafficSimulator&lt;/a&gt;, &lt;a href="http://photoswipe.com/"&gt;PhotoSwipe - JavaScript gallery&lt;/a&gt; и &lt;a href="http://tappy.pw/"&gt;Tappy - is a JavaScript library for recording and comparing rhythms&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://stateofwebtype.com/beta/"&gt;Can I Use для веб типографии&lt;/a&gt;, &lt;a href="http://git.aaronlumsden.com/material/"&gt;Material Design Preloader&lt;/a&gt; и &lt;a href="http://cssstats.com/"&gt;CSS Stats&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Tue, 09 Dec 2014 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2014/12/09/podcast-02-41.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/12/09/podcast-02-41.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/85/file/podfm_rwpod_my_41.mp3" length="63124566" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/85/file/podfm_rwpod_my_41.mp3" fileSize="63124566" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релиз </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релиз Rails 4.2.0.rc2, Ruby 2.2.0-preview2 и Ruby Object Mapper
+Doing an API Mashup with Sinatra и A Guide to Caching Your Rails Application With Fastly
+Testing and Environment Variables и Have Some (Referential) Integrity with Foreign Keys
+Ruby-prof-flamegraph и Ruby Meditation 5
+
+
+JavaScript
+
+
+Why io.js decided to fork Node.js и Regulex - JavaScript Regular Expression Visualizer
+Flexbox as a solution for browser reflow optimization, Siesta - Object Mapping for Javascript и ObjectDB – an easier way to use indexedDB
+Duktape is an embeddable Javascript engine, MetricsGraphics.js и PhysicsJS
+RoadTrafficSimulator, PhotoSwipe - JavaScript gallery и Tappy - is a JavaScript library for recording and comparing rhythms
+Can I Use для веб типографии, Material Design Preloader и CSS Stats
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0241.png"/>
+  <itunes:duration>01:05:39</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>40 выпуск 02 сезона. Rails 4.2.0.rc1, Flip Flop Operator in Ruby, Ferry, Front-end Tooling Workflows, 2 years with Angular и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релиз &lt;a href="http://weblog.rubyonrails.org/2014/11/28/Rails-4-2-0-rc1-has-been-released/"&gt;Rails 4.2.0.rc1&lt;/a&gt; и &lt;a href="http://nithinbekal.com/posts/ruby-flip-flop/"&gt;Flip Flop Operator in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.mikeperham.com/2014/11/26/building-a-binary-tree-with-enumerable/"&gt;Building a Binary Tree with Enumerable&lt;/a&gt; и &lt;a href="http://collectiveidea.com/blog/archives/2014/11/25/string-interpolation-the-bad-parts/"&gt;String Interpolation: The Bad Parts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.codeship.com/faster-rails-tests/"&gt;How I sped up our Rails Test Suite by 267%&lt;/a&gt; и &lt;a href="http://robots.thoughtbot.com/speed-up-javascript-capybara-specs-by-blacklisting-urls"&gt;Speed Up JavaScript Capybara Specs by Blacklisting URLs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cmu-is-projects.github.io/ferry/"&gt;Ferry - command-line tool rubygem designed for data migrations and manipulation&lt;/a&gt;, &lt;a href="https://github.com/louismullie/treat"&gt;Treat - natural language processing framework for Ruby&lt;/a&gt; и &lt;a href="https://www.youtube.com/watch?v=iul1fWHVU6A"&gt;React + Backbone + Middleman (screencast)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/addyosmani/front-end-tooling-workflows"&gt;Front-end Tooling Workflows&lt;/a&gt; и &lt;a href="https://cdnify.com/discover/web-performance-guide"&gt;A Guide to Optimising Website &amp;amp; Application Performance&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.fse.guru/2-years-with-angular"&gt;2 years with Angular. Verdict: good enough (not really)&lt;/a&gt; и &lt;a href="http://www.html5rocks.com/en/tutorials/casestudies/hobbit2014/"&gt;The Hobbit Experience 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://zencode.in/lining.js/"&gt;Lining.js — библиотека, дающая возможность управлять строками&lt;/a&gt;, &lt;a href="http://facedetection.jaysalvat.com/"&gt;Face Detection — jQuery/Zepto плагин для определения лиц в изображениях и видео&lt;/a&gt; и &lt;a href="http://serratus.github.io/quaggaJS/"&gt;QuaggaJS is an advanced barcode-reader written in JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/krasimir/atomus"&gt;Atomus - running client-side tests in Node.js environment&lt;/a&gt;, &lt;a href="http://deloreanjs.com/"&gt;Delorean - completely agnostic JavaScript framework to apply Flux concepts&lt;/a&gt; и &lt;a href="https://github.com/globocom/clappr"&gt;Clappr - an extensible media player for the web&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 01 Dec 2014 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2014/12/01/podcast-02-40.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/12/01/podcast-02-40.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/84/file/podfm_rwpod_my_40_84.mp3" length="48888850" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/84/file/podfm_rwpod_my_40_84.mp3" fileSize="48888850" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релиз </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релиз Rails 4.2.0.rc1 и Flip Flop Operator in Ruby
+Building a Binary Tree with Enumerable и String Interpolation: The Bad Parts
+How I sped up our Rails Test Suite by 267% и Speed Up JavaScript Capybara Specs by Blacklisting URLs
+Ferry - command-line tool rubygem designed for data migrations and manipulation, Treat - natural language processing framework for Ruby и React + Backbone + Middleman (screencast)
+
+
+JavaScript
+
+
+Front-end Tooling Workflows и A Guide to Optimising Website &amp;amp; Application Performance
+2 years with Angular. Verdict: good enough (not really) и The Hobbit Experience 2014
+Lining.js — библиотека, дающая возможность управлять строками, Face Detection — jQuery/Zepto плагин для определения лиц в изображениях и видео и QuaggaJS is an advanced barcode-reader written in JavaScript
+Atomus - running client-side tests in Node.js environment, Delorean - completely agnostic JavaScript framework to apply Flux concepts и Clappr - an extensible media player for the web
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0240.png"/>
+  <itunes:duration>00:50:49</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>39 выпуск 02 сезона. Will Ruby 3.0 Be Statically Typed?, Gradual Type Checking for Ruby, Flow, Why JavaScript needs types, Espresso.js, Spider language и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релизы &lt;a href="http://weblog.rubyonrails.org/2014/11/17/Rails-3-2-21-4-0-12-and-4-1-8-have-been-released/"&gt;Rails 3.2.21, 4.0.12, 4.1.8&lt;/a&gt; и &lt;a href="http://www.fastly.com/blog/accelerating-rails-part-1-built-in-caching/"&gt;Accelerating Rails, Part 1: Built-in Caching&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.omniref.com/blog/blog/2014/11/17/matz-at-rubyconf-2014-will-ruby-3-dot-0-be-statically-typed/"&gt;Will Ruby 3.0 Be Statically Typed?&lt;/a&gt; и &lt;a href="https://www.omniref.com/blog/blog/2014/11/18/ko1-at-rubyconf-2014-massive-garbage-collection-speedup-in-ruby-2-dot-2/"&gt;Massive Garbage Collection Speedup in Ruby 2.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.codeclimate.com/blog/2014/05/06/gradual-type-checking-for-ruby/"&gt;Gradual Type Checking for Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rubyraptor.org/pointer-tagging-linked-string-hash-tables-turbocaching-and-other-raptor-optimizations/"&gt;Pointer tagging, linked string hash tables, turbocaching and other Raptor optimizations&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://flowtype.org/"&gt;Flow - a static type checker for JavaScript&lt;/a&gt; и &lt;a href="http://victorsavkin.com/post/103211478761/why-javascript-needs-types"&gt;Why JavaScript needs types&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://semaphoreapp.com/blog/2014/11/19/meteorjs-getting-started.html"&gt;Meteor.js: Getting Started&lt;/a&gt; и &lt;a href="https://rawgit.com/techlayer/espresso.js/master/docs/index.html"&gt;Espresso.js - a tiny MVC framework inspired by Backbone and React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://spiderlang.org/"&gt;Spider language&lt;/a&gt; и &lt;a href="http://www.typegenius.com/"&gt;TypeGenius&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://webdesign.tutsplus.com/articles/introducing-zurbs-foundation-for-apps--cms-22540"&gt;A Sneak Peek at the Next Foundation for Apps&lt;/a&gt; и &lt;a href="http://webdesign.tutsplus.com/articles/7-css-units-you-might-not-know-about--cms-22573"&gt;7 CSS Units You Might Not Know About&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Tue, 25 Nov 2014 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2014/11/25/podcast-02-39.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/11/25/podcast-02-39.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/83/file/podfm_rwpod_my_39_83.mp3" length="61331105" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/83/file/podfm_rwpod_my_39_83.mp3" fileSize="61331105" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы Rails 3.2.21, 4.0.12, 4.1.8 и Accelerating Rails, Part 1: Built-in Caching
+Will Ruby 3.0 Be Statically Typed? и Massive Garbage Collection Speedup in Ruby 2.2
+Gradual Type Checking for Ruby
+Pointer tagging, linked string hash tables, turbocaching and other Raptor optimizations
+
+
+JavaScript
+
+
+Flow - a static type checker for JavaScript и Why JavaScript needs types
+Meteor.js: Getting Started и Espresso.js - a tiny MVC framework inspired by Backbone and React
+Spider language и TypeGenius
+A Sneak Peek at the Next Foundation for Apps и 7 CSS Units You Might Not Know About
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0239.png"/>
+  <itunes:duration>01:03:47</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>38 выпуск 02 сезона. Релизы Ruby 2.0.0-p598, 2.1.5, Healthy migration habits, Firefox Developer Edition, Imagejs и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релизы &lt;a href="https://www.ruby-lang.org/en/news/2014/11/13/ruby-1-9-3-p551-is-released/"&gt;Ruby 1.9.3-p551&lt;/a&gt;, &lt;a href="https://www.ruby-lang.org/en/news/2014/11/13/ruby-2-0-0-p598-is-released/"&gt;Ruby 2.0.0-p598&lt;/a&gt; и &lt;a href="https://www.ruby-lang.org/en/news/2014/11/13/ruby-2-1-5-is-released/"&gt;Ruby 2.1.5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.testdouble.com/posts/2014-11-04-healthy-migration-habits.html"&gt;Healthy migration habits&lt;/a&gt; и &lt;a href="http://omniref.com/blog/blog/2014/11/12/making-ruby-faster/"&gt;Making Ruby Faster&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rubyraptor.org/how-we-made-raptor-up-to-4x-faster-than-unicorn-and-up-to-2x-faster-than-puma-torquebox/"&gt;How we’ve made Raptor up to 4x faster than Unicorn, up to 2x faster than Puma, Torquebox&lt;/a&gt; и &lt;a href="http://www.saturnflyer.com/blog/jim/2014/11/15/shorter-simpler-code-with-forwardable/"&gt;Shorter, Simpler Code With Forwardable&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tombenner/ru"&gt;Ru - Ruby in your shell&lt;/a&gt; и &lt;a href="https://github.com/turnerba/lights"&gt;Lights - Ruby library for controlling Phillips Hue lightbulbs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.mozilla.org/en-US/firefox/developer/"&gt;Firefox Developer Edition&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://materializecss.com/"&gt;Materialize&lt;/a&gt; и &lt;a href="http://material-ui.com/"&gt;Material UI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://alistapart.com/article/responsive-images-in-practice"&gt;Responsive Images in Practice&lt;/a&gt; и &lt;a href="http://www.developerdrive.com/2014/11/15-essential-sass-mixins/"&gt;15 essential Sass mixins&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://maxwellito.github.io/vivus/"&gt;Vivus - a JavaScript class to make animating SVGs easy&lt;/a&gt; и &lt;a href="http://www.dexie.org/"&gt;Dexie.js - a Minimalistic Wrapper for IndexedDB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jklmnn.de/imagejs/"&gt;Imagejs&lt;/a&gt; и &lt;a href="http://fntneves.github.io/jquery-labelauty/"&gt;Labelauty jQuery Plugin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 17 Nov 2014 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2014/11/17/podcast-02-38.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/11/17/podcast-02-38.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/82/file/podfm_rwpod_my_38_82.mp3" length="55580226" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/82/file/podfm_rwpod_my_38_82.mp3" fileSize="55580226" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы Ruby 1.9.3-p551, Ruby 2.0.0-p598 и Ruby 2.1.5
+Healthy migration habits и Making Ruby Faster
+How we’ve made Raptor up to 4x faster than Unicorn, up to 2x faster than Puma, Torquebox и Shorter, Simpler Code With Forwardable
+Ru - Ruby in your shell и Lights - Ruby library for controlling Phillips Hue lightbulbs
+
+
+JavaScript
+
+
+Firefox Developer Edition
+Materialize и Material UI
+Responsive Images in Practice и 15 essential Sass mixins
+Vivus - a JavaScript class to make animating SVGs easy и Dexie.js - a Minimalistic Wrapper for IndexedDB
+Imagejs и Labelauty jQuery Plugin
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0238.png"/>
+  <itunes:duration>00:56:11</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>37 выпуск 02 сезона. Configure Ruby Module, Benchmarking Rack Middleware, All About Angular 2.0, LokiJS, Swing и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://kirillplatonov.com/2014/11/08/configure_ruby_module/"&gt;Configure Ruby Module&lt;/a&gt; и &lt;a href="http://kirillplatonov.com/2014/11/04/active_model_serializer_vs_jbuilder"&gt;ActiveModel::Serializers vs Jbuilder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.airpair.com/ruby-on-rails/posts/ember-vs-angular-with-rails"&gt;Rails JS frameworks: Ember.js vs. AngularJS&lt;/a&gt; и &lt;a href="http://www.airpair.com/ember.js/posts/top-mistakes-ember-rails#/uvit75xR6dAUoIbF.99"&gt;The Top Mistakes Developers Make Using Ember and Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://engineering.heroku.com/blogs/2014-11-03-benchmarking-rack-middleware"&gt;Benchmarking Rack Middleware&lt;/a&gt; и &lt;a href="http://silverhammermba.github.io/emberb/"&gt;The Definitive Guide to Ruby&amp;rsquo;s C API&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://chriskottom.com/blog/2014/10/4-fantastic-ways-to-set-up-state-in-minitest/"&gt;4 Fantastic Ways to Set Up State in Minitest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://eisenbergeffect.bluespire.com/all-about-angular-2-0/"&gt;All About Angular 2.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lokijs.org/"&gt;LokiJS - fast, in-memory document-oriented datastore for node.js and browser&lt;/a&gt; и &lt;a href="http://kenwheeler.github.io/mcfly/"&gt;McFly - Flux Architecture Made Easy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://svgpocketguide.com/book/"&gt;Pocket Guide to Writing SVG&lt;/a&gt;, &lt;a href="https://github.com/gajus/swing"&gt;Swing - swipeable cards interface&lt;/a&gt; и &lt;a href="http://tictic.issaqandil.com/"&gt;TicTic - your pregnancy ticker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://colintoh.com/blog/display-table-anti-hero"&gt;&amp;ldquo;Анти-герой&amp;rdquo; верстки в CSS — display:table&lt;/a&gt; и &lt;a href="http://asciimoo.github.io/cssplot/"&gt;Cssplot — графики на чистом CSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 10 Nov 2014 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2014/11/10/podcast-02-37.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/11/10/podcast-02-37.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/81/file/podfm_rwpod_my_37_81.mp3" length="49526640" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/81/file/podfm_rwpod_my_37_81.mp3" fileSize="49526640" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Configure Ruby Module и ActiveModel::Serializers vs Jbuilder
+Rails JS frameworks: Ember.js vs. AngularJS и The Top Mistakes Developers Make Using Ember and Rails
+Benchmarking Rack Middleware и The Definitive Guide to Ruby’s C API
+4 Fantastic Ways to Set Up State in Minitest
+
+
+JavaScript
+
+
+All About Angular 2.0
+LokiJS - fast, in-memory document-oriented datastore for node.js and browser и McFly - Flux Architecture Made Easy
+Pocket Guide to Writing SVG, Swing - swipeable cards interface и TicTic - your pregnancy ticker
+“Анти-герой” верстки в CSS — display:table и Cssplot — графики на чистом CSS
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0237.png"/>
+  <itunes:duration>00:51:32</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>36 выпуск 02 сезона. Rubinius 2.3.0, Lita 4.0, Zopfli-ffi, Kleisli, React 0.12, Walkway.js, Immutable.js и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релизы &lt;a href="http://weblog.rubyonrails.org/2014/10/30/Rails_3_2_20_4_0_11_4_1_7_and_4_2_0_beta3_have_been_released/"&gt;Rails 3.2.20, 4.0.11, 4.1.7, 4.2.0.beta3&lt;/a&gt;, &lt;a href="https://github.com/rubinius/rubinius/releases/tag/v2.3.0"&gt;Rubinius 2.3.0&lt;/a&gt; и &lt;a href="http://docs.lita.io/releases/4/"&gt;Lita 4.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://astonj.com/tech/ruby-is-about-to-get-red-hot-again/"&gt;Ruby is about to get red hot. Again&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gertgoet.com/2014/10/14/envied-or-how-i-stopped-worrying-about-ruby-s-env.html"&gt;ENVied, or how I stopped worrying about Ruby&amp;rsquo;s ENV&lt;/a&gt; и &lt;a href="http://leopard.in.ua/2014/10/29/zopfli-ffi/"&gt;Zopfli-ffi - Ruby wrapper for zopfli library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.txus.io/kleisli/"&gt;Kleisli - usable, idiomatic common monads in Ruby&lt;/a&gt;, &lt;a href="https://github.com/antlypls/ognivo"&gt;Ognivo&lt;/a&gt; и &lt;a href="http://osquery.io/"&gt;Osquery - SQL powered operating system instrumentation and analytics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://codebetter.com/johnvpetersen/2014/10/27/how-google-broke-the-oss-compact-with-angular-2-0/"&gt;How Google broke the OSS compact with Angular 2.0&lt;/a&gt; и &lt;a href="https://www.meteor.com/"&gt;Meteor 1.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.2ality.com/2014/10/typed-javascript.html"&gt;Statically typed JavaScript via Microsoft TypeScript, Facebook Flow and Google AtScript&lt;/a&gt; и &lt;a href="http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/"&gt;Why we should stop using Grunt and Gulp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://facebook.github.io/react/blog/2014/10/28/react-v0.12.html"&gt;React 0.12&lt;/a&gt; и &lt;a href="http://www.normative.com/react-and-why-its-awesome/"&gt;React (and why it’s awesome)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.connoratherton.com/walkway"&gt;Walkway.js - an easy way to animate SVG images consisting of line and path elements&lt;/a&gt; и &lt;a href="http://facebook.github.io/immutable-js/"&gt;Immutable.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=yf4m9LdO1zI"&gt;Tim Taubert: Keeping secrets with JavaScript (video)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 03 Nov 2014 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2014/11/03/podcast-02-36.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/11/03/podcast-02-36.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/80/file/podfm_rwpod_my_36_80.mp3" length="39644277" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/80/file/podfm_rwpod_my_36_80.mp3" fileSize="39644277" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы Rails 3.2.20, 4.0.11, 4.1.7, 4.2.0.beta3, Rubinius 2.3.0 и Lita 4.0
+Ruby is about to get red hot. Again
+ENVied, or how I stopped worrying about Ruby’s ENV и Zopfli-ffi - Ruby wrapper for zopfli library
+Kleisli - usable, idiomatic common monads in Ruby, Ognivo и Osquery - SQL powered operating system instrumentation and analytics
+
+
+JavaScript
+
+
+How Google broke the OSS compact with Angular 2.0 и Meteor 1.0
+Statically typed JavaScript via Microsoft TypeScript, Facebook Flow and Google AtScript и Why we should stop using Grunt and Gulp
+React 0.12 и React (and why it’s awesome)
+Walkway.js - an easy way to animate SVG images consisting of line and path elements и Immutable.js
+Tim Taubert: Keeping secrets with JavaScript (video)
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0236.png"/>
+  <itunes:duration>00:41:14</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>35 выпуск 02 сезона. POODLE Attack, Ruby's Unary Operators, Benefits of Writing a DSL in Ruby, AngularJS 1.3.0, Csstyle, Format.js и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релизы Ruby &lt;a href="https://www.ruby-lang.org/en/news/2014/10/27/ruby-1-9-3-p550-is-released/"&gt;1.9.3-p550&lt;/a&gt;, &lt;a href="https://www.ruby-lang.org/en/news/2014/10/27/ruby-2-0-0-p594-is-released/"&gt;2.0.0-p594&lt;/a&gt;, &lt;a href="https://www.ruby-lang.org/en/news/2014/10/27/ruby-2-1-4-released/"&gt;2.1.4&lt;/a&gt; и &lt;a href="https://poodle.io/"&gt;POODLE Attack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.rubyinside.com/rubys-unary-operators-and-how-to-redefine-their-functionality-5610.html"&gt;Ruby&amp;rsquo;s Unary Operators&lt;/a&gt; и &lt;a href="http://www.justinweiss.com/blog/2014/10/13/how-does-rails-handle-gems/"&gt;How Does Rails Handle Gems?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://engineering.zenpayroll.com/benefits-of-writing-a-dsl/?utm_source=rubyweekly&amp;amp;utm_medium=email"&gt;Benefits of Writing a DSL in Ruby&lt;/a&gt; и &lt;a href="http://www.rubyraptor.org/"&gt;Raptor - new Ruby web server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://practicingruby.com/"&gt;Practicing Ruby - delightful lessons for dedicated programmers&lt;/a&gt; и &lt;a href="https://www.youtube.com/watch?v=fGFM_UrSp70"&gt;Erik Michaels-Ober - Writing fast Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://angularjs.blogspot.de/2014/10/angularjs-130-superluminal-nudge.html"&gt;AngularJS 1.3.0&lt;/a&gt; и &lt;a href="http://blog.andrewray.me/reactjs-for-stupid-people/"&gt;ReactJS For Stupid People&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thinkful.com/learn/javascript-best-practices-1/"&gt;Javascript: best practices part 1&lt;/a&gt;, &lt;a href="http://joshbassett.info/2014/take-your-code-to-the-next-level-with-fkit/"&gt;Take Your Code to the Next Level with FKit&lt;/a&gt; и &lt;a href="http://jscc.info/"&gt;JavaScript compatibility checker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.csstyle.io/"&gt;Csstyle — легкий статический фреймворк, основанный на SASS-миксинах&lt;/a&gt;, &lt;a href="http://tristanedwards.me/sweetalert"&gt;Sweet alert&lt;/a&gt; и &lt;a href="http://cssnext.github.io/"&gt;Css:next — используйте синтаксис будущего CSS уже сегодня&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://formatjs.io/"&gt;Format.js - internationalize your web apps on the client and server&lt;/a&gt;, &lt;a href="https://github.com/lafikl/RWDPerf"&gt;RWDPerf — тестирование производительности адаптивных сайтов&lt;/a&gt; и &lt;a href="https://github.com/zeman/perfmap"&gt;Perfmap&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cylonjs.com/"&gt;Cylon.js - JavaScript Robotics&lt;/a&gt;, &lt;a href="http://quasimondo.com/ZorroSVG/"&gt;ZorroSVG&lt;/a&gt; и &lt;a href="http://jsdatav.is/intro.html"&gt;Data Visualization with JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 27 Oct 2014 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2014/10/27/podcast-02-35.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/10/27/podcast-02-35.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/79/file/podfm_rwpod_my_35_79.mp3" length="39363086" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/79/file/podfm_rwpod_my_35_79.mp3" fileSize="39363086" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы Ruby </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы Ruby 1.9.3-p550, 2.0.0-p594, 2.1.4 и POODLE Attack
+Ruby’s Unary Operators и How Does Rails Handle Gems?
+Benefits of Writing a DSL in Ruby и Raptor - new Ruby web server
+Practicing Ruby - delightful lessons for dedicated programmers и Erik Michaels-Ober - Writing fast Ruby
+
+
+JavaScript
+
+
+AngularJS 1.3.0 и ReactJS For Stupid People
+Javascript: best practices part 1, Take Your Code to the Next Level with FKit и JavaScript compatibility checker
+Csstyle — легкий статический фреймворк, основанный на SASS-миксинах, Sweet alert и Css:next — используйте синтаксис будущего CSS уже сегодня
+Format.js - internationalize your web apps on the client and server, RWDPerf — тестирование производительности адаптивных сайтов и Perfmap
+Cylon.js - JavaScript Robotics, ZorroSVG и Data Visualization with JavaScript
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0235.png"/>
+  <itunes:duration>00:40:57</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>RWPod Кафе 4: Александр Паладий и Elixir</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. В данном кафе поговорим c &lt;strong&gt;&amp;ldquo;Александром Паладием&amp;rdquo;&lt;/strong&gt; про Elixir:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://elixir-lang.org/"&gt;Elixir&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://elixir-lang.org/crash-course.html"&gt;Erlang/Elixir Syntax&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://elixir-lang.org/getting_started/mix_otp/1.html"&gt;Mix and OTP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hex.pm/"&gt;Hex - a package manager for the Erlang ecosystem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/elixir-lang/ecto"&gt;Ecto - Elixir database wrapper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/phoenixframework/phoenix"&gt;Phoenix&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pragprog.com/book/elixir/programming-elixir"&gt;Programming Elixir (book)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shop.oreilly.com/product/0636920030584.do"&gt;Introducing Elixir (book)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://learnyousomeerlang.com/content"&gt;Learn You Some Erlang for great good! (book, free)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://railsware.com/blog/2014/03/26/interconnecting-elixir-nodes/"&gt;Interconnecting Elixir nodes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/le0pard/redis_pool"&gt;Redis client with pool&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/le0pard/redis_pool"&gt;V8 engine (C wrapper) with pool&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Fri, 17 Oct 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/10/17/cafe-004.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/10/17/cafe-004.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/78/file/podfm_rwpod_my_20141017.mp3" length="45591210" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/78/file/podfm_rwpod_my_20141017.mp3" fileSize="45591210" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. В данном кафе поговорим c “Александром Паладием” про Elixir:
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. В данном кафе поговорим c “Александром Паладием” про Elixir:
+
+
+Elixir
+Erlang/Elixir Syntax
+Mix and OTP
+Hex - a package manager for the Erlang ecosystem
+Ecto - Elixir database wrapper
+Phoenix
+Programming Elixir (book)
+Introducing Elixir (book)
+Learn You Some Erlang for great good! (book, free)
+Interconnecting Elixir nodes
+Redis client with pool
+V8 engine (C wrapper) with pool
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/cafe/004.png"/>
+  <itunes:duration>00:47:26</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>34 выпуск 02 сезона. Adding a staging environment to Rails, Decorator Pattern in Ruby, Pronto, Basscss, FKit, Nunjucks и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.infinum.co/the-capsized-eight/articles/top-8-tools-for-ruby-on-rails-code-optimization-and-cleanup"&gt;Top 8 tools for Ruby on Rails code optimization and cleanup&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://emaxime.com/2014/adding-a-staging-environment-to-rails.html"&gt;Adding a staging environment to Rails&lt;/a&gt; и &lt;a href="http://codon.com/refactoring-ruby-with-monads"&gt;Refactoring Ruby with Monads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nithinbekal.com/posts/ruby-decorators/"&gt;Decorator Pattern in Ruby&lt;/a&gt;, &lt;a href="http://nithinbekal.com/posts/rails-presenters/"&gt;Presenters in Rails&lt;/a&gt; и &lt;a href="https://medium.com/@mitchocail/observer-pattern-in-ruby-e80ac3c1dac7"&gt;Observer Pattern in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/mmozuras/pronto"&gt;Pronto&lt;/a&gt; и &lt;a href="http://verse.github.io/"&gt;Verse 2.0 - network protocol for real-time sharing between graphical applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://medium.com/este-js-framework/whats-wrong-with-angular-js-97b0a787f903"&gt;What’s wrong with Angular.js&lt;/a&gt; и &lt;a href="http://addyosmani.com/blog/fixmyjs/"&gt;Explorations In Automatically Fixing JavaScript Linting-errors&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.basscss.com/"&gt;Basscss&lt;/a&gt;, &lt;a href="http://kenwheeler.github.io/slick/"&gt;Slick.js&lt;/a&gt; и &lt;a href="http://www.stripjs.com/"&gt;Strip.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nullobject.github.io/fkit/"&gt;FKit&lt;/a&gt;, &lt;a href="http://www.nightmarejs.org/"&gt;Nightmare.js&lt;/a&gt; и &lt;a href="http://virtjs.com/"&gt;Virt.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mozilla.github.io/nunjucks/"&gt;Nunjucks&lt;/a&gt; и &lt;a href="http://vimeo.com/105955605"&gt;Mary live-codes a JavaScript game from scratch – Mary Rose Cook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 12 Oct 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/10/12/podcast-02-34.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/10/12/podcast-02-34.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/77/file/podfm_rwpod_my_34_77.mp3" length="51899269" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/77/file/podfm_rwpod_my_34_77.mp3" fileSize="51899269" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Top 8 tools for Ruby on Rails code optimization and cleanup
+Adding a staging environment to Rails и Refactoring Ruby with Monads
+Decorator Pattern in Ruby, Presenters in Rails и Observer Pattern in Ruby
+Pronto и Verse 2.0 - network protocol for real-time sharing between graphical applications
+
+
+JavaScript
+
+
+What’s wrong with Angular.js и Explorations In Automatically Fixing JavaScript Linting-errors
+Basscss, Slick.js и Strip.js
+FKit, Nightmare.js и Virt.js
+Nunjucks и Mary live-codes a JavaScript game from scratch – Mary Rose Cook
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0234.png"/>
+  <itunes:duration>00:54:00</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>33 выпуск 02 сезона. 20000 Leagues Under ActiveRecord, Automatic eager loading in rails, Toshi, NPM 2.0.0, Waves.js, Kefir.js и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://patshaughnessy.net/2014/9/17/20000-leagues-under-activerecord"&gt;20,000 Leagues Under ActiveRecord&lt;/a&gt; и &lt;a href="http://patshaughnessy.net/2014/9/23/how-arel-converts-ruby-queries-into-sql-statements"&gt;How Arel Converts Ruby Queries Into SQL Statements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.salsify.com/engineering/automatic-eager-loading-rails"&gt;Automatic eager loading in rails&lt;/a&gt; и &lt;a href="http://robots.thoughtbot.com/active-record-eager-loading-with-query-objects-and-decorators"&gt;ActiveRecord Eager Loading with Query Objects and Decorators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.justinweiss.com/blog/2014/09/29/how-do-gems-work/"&gt;How Do Gems Work?&lt;/a&gt; и &lt;a href="https://blog.engineyard.com/2014/getting-started-with-active-job"&gt;Getting Started With Active Job&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.lostpropertyhq.com/postgres-full-text-search-is-good-enough/"&gt;Postgres full-text search is Good Enough!&lt;/a&gt; и &lt;a href="http://blog.versioneye.com/2014/09/24/rebuilding-capistrano-like-deployment-with-ansible/"&gt;Rebuilding Capistrano like deployment with Ansible&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://robots.thoughtbot.com/validating-json-schemas-with-an-rspec-matcher"&gt;Validating JSON Schemas with an RSpec Matcher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://toshi.io/"&gt;Toshi&lt;/a&gt;, &lt;a href="https://github.com/deivid-rodriguez/byebug"&gt;Byebug&lt;/a&gt; и &lt;a href="https://github.com/brooklynDev/airborne"&gt;Airborne&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blog.npmjs.org/post/98131109725/npm-2-0-0"&gt;NPM 2.0.0&lt;/a&gt; и &lt;a href="http://blog.jquery.com/2014/09/24/update-on-jquery-com-compromises/"&gt;Update on jQuery.com Compromises&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bootstrapbay.com/blog/bootstrap-vs-foundation/"&gt;Bootstrap vs. Foundation: Which Framework is Better?&lt;/a&gt; и &lt;a href="http://blog.cloudfour.com/dont-use-picture-most-of-the-time/"&gt;Don’t use &amp;lt;picture&amp;gt; (most of the time)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.firebase.com/blog/2014-09-30-vulcan.html"&gt;Vulcan: Inspect your database in your browser&lt;/a&gt; и &lt;a href="http://freedraw.herokuapp.com/"&gt;Leaflet.FreeDraw — рисуем слои поверх карты&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.mdnbar.com/javascript-common-tricks"&gt;JavaScript hacks explained&lt;/a&gt; и &lt;a href="http://www.luster.io/blog/9-29-14-mobile-web-checklist.html"&gt;Mobile Web App Checklist&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mateogianolio.github.io/waves-js/"&gt;Waves.js — text animation in javascript&lt;/a&gt;, &lt;a href="http://aerolab.github.io/midnight.js/"&gt;Midnight.js&lt;/a&gt; и &lt;a href="https://github.com/sindresorhus/pageres"&gt;Pageres&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://pozadi.github.io/kefir/"&gt;Kefir.js&lt;/a&gt;, &lt;a href="http://ramdajs.com/"&gt;Project Ramda&lt;/a&gt; и &lt;a href="https://github.com/filamentgroup/criticalCSS"&gt;CriticalCSS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Событие&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://garage48.org/lviv"&gt;Garage48 Lviv 2014&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sat, 04 Oct 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/10/04/podcast-02-33.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/10/04/podcast-02-33.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/76/file/podfm_rwpod_my_33_76.mp3" length="60824959" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/76/file/podfm_rwpod_my_33_76.mp3" fileSize="60824959" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+20,000 Leagues Under ActiveRecord и How Arel Converts Ruby Queries Into SQL Statements
+Automatic eager loading in rails и ActiveRecord Eager Loading with Query Objects and Decorators
+How Do Gems Work? и Getting Started With Active Job
+Postgres full-text search is Good Enough! и Rebuilding Capistrano like deployment with Ansible
+Validating JSON Schemas with an RSpec Matcher
+Toshi, Byebug и Airborne
+
+
+JavaScript
+
+
+NPM 2.0.0 и Update on jQuery.com Compromises
+Bootstrap vs. Foundation: Which Framework is Better? и Don’t use &amp;lt;picture&amp;gt; (most of the time)
+Vulcan: Inspect your database in your browser и Leaflet.FreeDraw — рисуем слои поверх карты
+JavaScript hacks explained и Mobile Web App Checklist
+Waves.js — text animation in javascript, Midnight.js и Pageres
+Kefir.js, Project Ramda и CriticalCSS
+
+
+Событие
+
+
+Garage48 Lviv 2014
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0233.png"/>
+  <itunes:duration>01:03:18</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>32 выпуск 02 сезона. Ruby 2.2.0-preview1, Ruby - the bad parts, Volt framework, Normalize-OpenType.css, iHover, KaTeX и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.ruby-lang.org/en/news/2014/09/19/ruby-2-0-0-p576-is-released/"&gt;Ruby 2.0.0-p576&lt;/a&gt;, &lt;a href="https://www.ruby-lang.org/en/news/2014/09/19/ruby-2-1-3-is-released/"&gt;Ruby 2.1.3&lt;/a&gt; и  &lt;a href="https://www.ruby-lang.org/en/news/2014/09/18/ruby-2.2.0-preview1-released/"&gt;Ruby 2.2.0-preview1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shayfrendt.com/posts/upgrading-github-to-rails-3-with-zero-downtime/"&gt;Upgrading GitHub to Rails 3 with Zero Downtime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.amberbit.com/blog/2014/9/9/ruby-the-bad-parts/"&gt;Ruby - the bad parts&lt;/a&gt; и &lt;a href="http://blog.nvisium.com/2014/09/understanding-protectfromforgery.html"&gt;Understanding Rails protect_from_forgery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://voltframework.com/"&gt;Volt framework&lt;/a&gt; и &lt;a href="https://www.upmin.com/admin-rails"&gt;Upmin Admin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://hacks.mozilla.org/2014/09/firefox-tools-adapter/"&gt;Firefox Add-on Enables Web Development Across Browsers and Devices&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.html5rocks.com/en/tutorials/responsive/picture-element/"&gt;Built-in Browser Support for Responsive Images&lt;/a&gt; и &lt;a href="http://kennethormandy.com/journal/normalize-opentype-css"&gt;Introducing Normalize-OpenType.css&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.html5rocks.com/en/tutorials/shapes/getting-started/"&gt;Getting Started with CSS Shapes&lt;/a&gt; и &lt;a href="http://theonion.github.io/comcastifyjs/"&gt;Comcastifyjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hmphry.com/gulp/"&gt;Learning Gulp&lt;/a&gt;, &lt;a href="http://gudh.github.io/ihover/dist/index.html"&gt;iHover&lt;/a&gt; и &lt;a href="http://khan.github.io/KaTeX/"&gt;KaTeX&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 22 Sep 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/09/22/podcast-02-32.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/09/22/podcast-02-32.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/75/file/podfm_rwpod_my_32_75.mp3" length="47991974" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/75/file/podfm_rwpod_my_32_75.mp3" fileSize="47991974" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Ruby 2.0.0-p576, Ruby 2.1.3 и  Ruby 2.2.0-preview1
+Upgrading GitHub to Rails 3 with Zero Downtime
+Ruby - the bad parts и Understanding Rails protect_from_forgery
+Volt framework и Upmin Admin
+
+
+JavaScript
+
+
+Firefox Add-on Enables Web Development Across Browsers and Devices
+Built-in Browser Support for Responsive Images и Introducing Normalize-OpenType.css
+Getting Started with CSS Shapes и Comcastifyjs
+Learning Gulp, iHover и KaTeX
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0232.png"/>
+  <itunes:duration>00:49:56</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>31 выпуск 02 сезона. Elixir 1.0.0, Asynchronous Integration Tests With Capybara, AMCSS, Fontface Ninja, Stylie и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/elixir-lang/elixir/releases/tag/v1.0.0"&gt;Elixir 1.0.0&lt;/a&gt; и &lt;a href="http://weblog.rubyonrails.org/2014/9/12/Rails-4-1-6-and-4-0-10-has-been-released/"&gt;Rails 4.0.10, 4.1.6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://christopherdbui.com/an-introduction-to-pry-a-ruby-repl/"&gt;An Introduction To Pry, A Ruby REPL&lt;/a&gt; и &lt;a href="http://www.justinweiss.com/blog/2014/09/08/rails-5-module-number-prepend-and-the-end-of-alias-method-chain/"&gt;Rails 5, Module prepend and the End of alias_method_chain&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://robots.thoughtbot.com/write-reliable-asynchronous-integration-tests-with-capybara"&gt;Write Reliable, Asynchronous Integration Tests With Capybara&lt;/a&gt; и &lt;a href="http://blog.codeship.io/2014/09/09/continuous-deployment-of-dns-records-with-dnsimple.html"&gt;Continuous Deployment of DNS Records with DNSimple&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.engineyard.com/2014/software-is-not-soft"&gt;Software is no longer soft&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/railslove/rack-tracker"&gt;Rack-Tracker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://amcss.github.io/"&gt;AMCSS - Attribute Modules for CSS&lt;/a&gt; и &lt;a href="http://glenmaddern.com/articles/introducing-am-css"&gt;Introducing AM - Attribute Modules for CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://seesparkbox.com/foundry/naming_css_stuff_is_really_hard"&gt;Naming CSS Stuff Is Really Hard&lt;/a&gt; и &lt;a href="http://maxsteenbergen.com/fibonacci/"&gt;Fibonacci Flexbox Composer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jackf.net/bezier-clock/"&gt;Bézier Clock&lt;/a&gt; и &lt;a href="http://www.fontface.ninja/"&gt;Fontface Ninja&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.espruino.com/"&gt;Espruino - JavaScript on Board&lt;/a&gt;, &lt;a href="http://adodson.com/hello.js/"&gt;Hello.js&lt;/a&gt; и &lt;a href="http://editor.froala.com/"&gt;Froala - jQuery WYSIWYG Editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jeremyckahn.github.io/stylie/"&gt;Stylie — песочница для тестирования анимаций&lt;/a&gt; (&lt;a href="http://easings.net/"&gt;Easing functions&lt;/a&gt;) и &lt;a href="http://www.kennethcachia.com/plain-pattern/"&gt;Plain Pattern — инструмент для создание векторных паттернов&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sat, 13 Sep 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/09/13/podcast-02-31.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/09/13/podcast-02-31.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/74/file/podfm_rwpod_my_31_74.mp3" length="49405150" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/74/file/podfm_rwpod_my_31_74.mp3" fileSize="49405150" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Elixir 1.0.0 и Rails 4.0.10, 4.1.6
+An Introduction To Pry, A Ruby REPL и Rails 5, Module prepend and the End of alias_method_chain
+Write Reliable, Asynchronous Integration Tests With Capybara и Continuous Deployment of DNS Records with DNSimple
+Software is no longer soft
+Rack-Tracker
+
+
+JavaScript
+
+
+AMCSS - Attribute Modules for CSS и Introducing AM - Attribute Modules for CSS
+Naming CSS Stuff Is Really Hard и Fibonacci Flexbox Composer
+Bézier Clock и Fontface Ninja
+Espruino - JavaScript on Board, Hello.js и Froala - jQuery WYSIWYG Editor
+Stylie — песочница для тестирования анимаций (Easing functions) и Plain Pattern — инструмент для создание векторных паттернов
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0231.png"/>
+  <itunes:duration>00:51:24</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>30 выпуск 02 сезона. RSpec 3.1, Programming with Nothing, Serialization Duck Type, TypeScript: The Bad Parts, JS Envy и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://myronmars.to/n/dev-blog/2014/09/rspec-3-1-has-been-released"&gt;RSpec 3.1&lt;/a&gt; и &lt;a href="http://dev.mikamai.com/post/96343027199/rails-4-2-new-gems-active-job-and-global-id"&gt;Rails 4.2 new gems: active job and global id&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://codon.com/programming-with-nothing"&gt;Programming with Nothing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@fbzga/clean-architecture-in-ruby-7eb3cd0fc145"&gt;7 steps to get started with Clean Architecture in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://monkeyandcrow.com/blog/ruby_ducks_serialization_duck_type/"&gt;Ruby Ducks - Serialization Duck Type&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.getharpoon.com/"&gt;Harpoon deploys static sites to S3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://j201.github.io/posts/2014-08-30-TypeScript-The-Bad-Parts.html"&gt;TypeScript: The Bad Parts&lt;/a&gt; и &lt;a href="http://uilang.com/"&gt;UILang&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.dantup.com/2014/08/you-have-ruined-html/"&gt;Вы разрушили HTML&lt;/a&gt; и &lt;a href="http://www.smashingmagazine.com/2014/08/28/responsive-web-design-google-analytics/"&gt;Работает ли ваш адаптивный дизайн? Google Analytics в курсе&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hacks.mozilla.org/2014/09/introducing-blast-js/"&gt;Introducing Blast.js&lt;/a&gt;, &lt;a href="http://pioneerjs.com/"&gt;Pioneerjs&lt;/a&gt;, &lt;a href="http://jsenvy.com/"&gt;JS Envy - try JS libraries in the console&lt;/a&gt; и &lt;a href="http://a.singlediv.com/"&gt;A Single Div&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/zendesk/cross-storage"&gt;Cross domain local storage&lt;/a&gt;, &lt;a href="http://www.michaelbromley.co.uk/horizonal/demo/"&gt;Horizonal.js&lt;/a&gt; и &lt;a href="http://tilomitra.github.io/bedrock/"&gt;Bedrock - a minimalist boilerplate for Express apps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 08 Sep 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/09/08/podcast-02-30.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/09/08/podcast-02-30.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/73/file/podfm_rwpod_my_30_73.mp3" length="43870242" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/73/file/podfm_rwpod_my_30_73.mp3" fileSize="43870242" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+RSpec 3.1 и Rails 4.2 new gems: active job and global id
+Programming with Nothing
+7 steps to get started with Clean Architecture in Ruby
+Ruby Ducks - Serialization Duck Type
+Harpoon deploys static sites to S3
+
+
+JavaScript
+
+
+TypeScript: The Bad Parts и UILang
+Вы разрушили HTML и Работает ли ваш адаптивный дизайн? Google Analytics в курсе
+Introducing Blast.js, Pioneerjs, JS Envy - try JS libraries in the console и A Single Div
+Cross domain local storage, Horizonal.js и Bedrock - a minimalist boilerplate for Express apps
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0230.png"/>
+  <itunes:duration>00:45:38</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>29 выпуск 02 сезона. Discourse 1.0, TimeWithZone, metal, Flux, Duo.js, JSON Resume и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blog.discourse.org/2014/08/introducing-discourse-1-0/"&gt;Discourse 1.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.justinweiss.com/blog/2014/08/25/the-lesser-known-features-in-rails-4-dot-2/"&gt;The Lesser-known Features in Rails 4.2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://monkeyandcrow.com/blog/reading_rails_time_with_zone/"&gt;Reading Rails - TimeWithZone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.found.no/foundation/optimizing-elasticsearch-searches/"&gt;Optimizing Elasticsearch Searches&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://red-badger.com/blog/2014/08/20/i-spent-3-days-with-sandi-metz-heres-what-i-learned/"&gt;I Spent 3 Days With Sandi Metz – Here’s What I Learned&lt;/a&gt; и &lt;a href="https://github.com/tenderlove/the_metal"&gt;The metal&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blog.stevensanderson.com/2014/08/18/knockout-3-2-0-released/"&gt;Knockout 3.2.0&lt;/a&gt;, &lt;a href="https://github.com/jashkenas/coffeescript/releases/tag/1.8.0"&gt;CoffeeScript 1.8.0&lt;/a&gt;, &lt;a href="http://underscorejs.org/#changelog"&gt;Underscore.js 1.7.0&lt;/a&gt;, &lt;a href="http://blog.sass-lang.com/posts/221239-sass-34-is-released"&gt;Sass 3.4&lt;/a&gt; и &lt;a href="http://emberjs.com/blog/2014/08/23/ember-1-7-0-released.html"&gt;Ember 1.7.0 and 1.8 beta&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hacks.mozilla.org/2014/08/black-box-driven-development-in-javascript/"&gt;Black Box Driven Development in JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://duojs.org/"&gt;Duo.js&lt;/a&gt;, &lt;a href="http://grabs.in/"&gt;Grabs&lt;/a&gt; и &lt;a href="http://a2labs.github.io/barekit/"&gt;Barekit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://facebook.github.io/flux/docs/overview.html#content"&gt;Flux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://antirek.github.io/pixi-editor/"&gt;Pixi-editor&lt;/a&gt;, &lt;a href="http://jsonresume.org/"&gt;JSON Resume&lt;/a&gt; и &lt;a href="http://gionkunz.github.io/chartist-js/"&gt;Chartist.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 31 Aug 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/08/31/podcast-02-29.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/08/31/podcast-02-29.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/72/file/podfm_rwpod_my_29_72.mp3" length="47145545" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/72/file/podfm_rwpod_my_29_72.mp3" fileSize="47145545" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Discourse 1.0
+The Lesser-known Features in Rails 4.2
+Reading Rails - TimeWithZone
+Optimizing Elasticsearch Searches
+I Spent 3 Days With Sandi Metz – Here’s What I Learned и The metal
+
+
+JavaScript
+
+
+Knockout 3.2.0, CoffeeScript 1.8.0, Underscore.js 1.7.0, Sass 3.4 и Ember 1.7.0 and 1.8 beta
+Black Box Driven Development in JavaScript
+Duo.js, Grabs и Barekit
+Flux
+Pixi-editor, JSON Resume и Chartist.js
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0229.png"/>
+  <itunes:duration>00:49:03</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>28 выпуск 02 сезона. Rails 4.0.9, 4.1.5 и 4.2.0 beta1, Rails on a diet, Transit-rails, CSS Guideline, CSS at Groupon, Marka, BeaverBird и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релизы &lt;a href="http://weblog.rubyonrails.org/2014/8/18/Rails_4_0_9_and_4_1_5_have_been_released/"&gt;Rails 4.0.9 and 4.1.5&lt;/a&gt; и &lt;a href="http://weblog.rubyonrails.org/2014/8/20/Rails-4-2-beta1/"&gt;Rails 4.2.0 beta1: Active Job, Deliver Later, Adequate Record, Web Console&lt;/a&gt;. И еще &lt;a href="https://groups.google.com/forum/m/#!msg/rack-devel/P8oOycVBaH0/1bm4eERJWPQJ"&gt;немного про Rack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://naturaily.com/blog/post/rails-on-a-diet"&gt;Rails on a diet&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://netguru.co/blog/posts/renewed-life-for-sti-with-postgresql-json-type"&gt;Renewed Life for STI with PostgreSQL JSON type&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.arkency.com/2014/08/apns-and-utf8/"&gt;Truncating UTF8 Input For APNS in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://net-engine.github.io/yabbie/"&gt;Yabbie is a gem to wrap SlimerJS&lt;/a&gt;, &lt;a href="https://github.com/jgdavey/transit-rails"&gt;Transit-rails&lt;/a&gt; и &lt;a href="https://github.com/rainforestapp/http-exceptions"&gt;Http::Exceptions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://cssguidelin.es/"&gt;CSS Guideline&lt;/a&gt;, &lt;a href="http://red-team-design.com/using-over-abusing-css/"&gt;Using and over abusing CSS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mikeaparicio.com/2014/08/10/css-at-groupon/"&gt;CSS at Groupon&lt;/a&gt; и &lt;a href="http://rileyjshaw.com/terra/"&gt;Terra.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://tjvantoll.com/2014/08/12/the-problem-with-using-html-imports-for-dependency-management/"&gt;The Problem With Using HTML Imports For Dependency Management&lt;/a&gt; и &lt;a href="https://github.com/sahat/satellizer"&gt;Satellizer - a simple to use, end-to-end, token-based authentication module for AngularJS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fian.my.id/marka/"&gt;Marka — анимированные иконки&lt;/a&gt;, &lt;a href="http://chestjs.com/"&gt;Chest.js - easy Metafile Manager&lt;/a&gt; и &lt;a href="http://beaverbird.com/"&gt;BeaverBird&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://webdesignerschecklist.com/"&gt;Visual Designers Checklist for the Web&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=0xx_dkv9DEY"&gt;Advanced performance tooling in Chrome DevTools&lt;/a&gt; и &lt;a href="https://www.youtube.com/watch?v=ZMfS-2ctYjw"&gt;Accelerate your Mobile Application with the GPU (video)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 24 Aug 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/08/24/podcast-02-28.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/08/24/podcast-02-28.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/71/file/podfm_rwpod_my_28_71.mp3" length="60353767" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/71/file/podfm_rwpod_my_28_71.mp3" fileSize="60353767" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы Rails 4.0.9 and 4.1.5 и Rails 4.2.0 beta1: Active Job, Deliver Later, Adequate Record, Web Console. И еще немного про Rack
+Rails on a diet
+Renewed Life for STI with PostgreSQL JSON type
+Truncating UTF8 Input For APNS in Ruby
+Yabbie is a gem to wrap SlimerJS, Transit-rails и Http::Exceptions
+
+
+JavaScript
+
+
+CSS Guideline, Using and over abusing CSS
+CSS at Groupon и Terra.js
+The Problem With Using HTML Imports For Dependency Management и Satellizer - a simple to use, end-to-end, token-based authentication module for AngularJS
+Marka — анимированные иконки, Chest.js - easy Metafile Manager и BeaverBird
+Visual Designers Checklist for the Web, Advanced performance tooling in Chrome DevTools и Accelerate your Mobile Application with the GPU (video)
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0228.png"/>
+  <itunes:duration>01:02:48</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>27 выпуск 02 сезона. Bayesian Filter Performance in Ruby, Happyhours, Rails-Param, Famo.us, X to Close, Tracking.js и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://rurounijones.github.io/blog/2014/08/11/bayesian-filter-performance-in-ruby/"&gt;Bayesian Filter Performance in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sndrs.ca/2014/08/12/asynchronous-programming-with-goroutines-in-ruby/"&gt;Asynchronous Programming with Goroutines in Ruby&lt;/a&gt; и &lt;a href="https://semaphoreapp.com/blog/2014/08/14/semaphore-gets-free.html"&gt;Semaphore Gets a Free Plan For Private and Open Source Projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://happyhours.io/"&gt;Happyhours - time registration that doesn&amp;rsquo;t suck&lt;/a&gt; (&lt;a href="https://github.com/DefactoSoftware/Hours/"&gt;исходники&lt;/a&gt;) и &lt;a href="http://cristianobetta.com/blog/2014/08/05/your-mini-heroku-with-dokku-and-dokkufy/"&gt;Your mini-Heroku with Dokku and Dokkufy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/nicolasblanco/rails_param"&gt;Rails-Param&lt;/a&gt;, &lt;a href="https://github.com/ankane/groupdate"&gt;Groupdate&lt;/a&gt; и &lt;a href="https://github.com/Sandthorn/sandthorn"&gt;Sandthorn Event Sourcing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://speakerdeck.com/headius/jruby-the-hard-parts"&gt;JRuby: The Hard Parts&lt;/a&gt; и &lt;a href="https://www.youtube.com/watch?v=CPoZJoHtuZ8"&gt;Yukihiro &amp;ldquo;Matz&amp;rdquo; Matsumoto - The future of Ruby (video)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://venturebeat.com/2014/08/13/famo-us-raises-25m-to-double-down-on-javascript-app-development-framework/"&gt;Famo.us raises $25M to double down on its innovative JavaScript framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/re-form/x-to-close-417936dfc0dc"&gt;X to Close&lt;/a&gt; и &lt;a href="http://gwendall.github.io/way/"&gt;Way.js -  javascript library that allows you to bind DOM elements to an in-memory datastore&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://framerjs.com/"&gt;Framer.js - Innovative Prototyping&lt;/a&gt; и &lt;a href="http://blendme.in/"&gt;Blendme - collection of vector assets&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://trackingjs.com/"&gt;Tracking.js - a modern approach for Computer Vision on the web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://maurizzzio.github.io/PojoViz/public/vulcanize.html#readme"&gt;PojoViz - Plain Old JavaScript Object Visualization&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 17 Aug 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/08/17/podcast-02-27.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/08/17/podcast-02-27.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/70/file/podfm_rwpod_my_27_70.mp3" length="36253002" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/70/file/podfm_rwpod_my_27_70.mp3" fileSize="36253002" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Bayesian Filter Performance in Ruby
+Asynchronous Programming with Goroutines in Ruby и Semaphore Gets a Free Plan For Private and Open Source Projects
+Happyhours - time registration that doesn’t suck (исходники) и Your mini-Heroku with Dokku and Dokkufy
+Rails-Param, Groupdate и Sandthorn Event Sourcing
+JRuby: The Hard Parts и Yukihiro “Matz” Matsumoto - The future of Ruby (video)
+
+
+JavaScript
+
+
+Famo.us raises $25M to double down on its innovative JavaScript framework
+X to Close и Way.js -  javascript library that allows you to bind DOM elements to an in-memory datastore
+Framer.js - Innovative Prototyping и Blendme - collection of vector assets
+Tracking.js - a modern approach for Computer Vision on the web
+PojoViz - Plain Old JavaScript Object Visualization
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0227.png"/>
+  <itunes:duration>00:37:42</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>26 выпуск 02 сезона. Roda, React and Rails, Oat, Slate, The State of the Componentised Web, URI.js, DalekJS, EtherCalc и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://roda.jeremyevans.net/"&gt;Roda - Routing Tree Web Framework&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rny.io/rails/react/2014/07/31/reactjs-and-rails.html"&gt;React and Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mauricio.github.io/2014/08/03/quick-tips-for-doing-io-with-ruby.html"&gt;Quick tips for doing IO with Ruby&lt;/a&gt; и &lt;a href="http://robots.thoughtbot.com/dns-cdn-origin"&gt;DNS to CDN to Origin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://new-bamboo.co.uk/blog/2013/11/21/oat-explicit-media-type-serializers-in-ruby"&gt;Oat: explicit media-type serializers in Ruby&lt;/a&gt; и &lt;a href="http://chriskottom.com/blog/2014/08/customize-minitest-assertions-and-expectations/"&gt;Customize Minitest Assertions and Expectations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/tripit/slate"&gt;Slate - beautiful static documentation for your API&lt;/a&gt;, &lt;a href="https://helloreverb.com/developers/swagger"&gt;Swagger&lt;/a&gt; и &lt;a href="https://github.com/heroku/starboard"&gt;Starboard is a tool which creates Trello boards&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.futureinsights.com/home/the-state-of-the-componentised-web.html"&gt;The State of the Componentised Web&lt;/a&gt; и &lt;a href="http://developer.telerik.com/featured/web-components-ready-production/"&gt;Why Web Components Are Ready For Production&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://eloquentjavascript.net/"&gt;Eloquent JavaScript&lt;/a&gt; и &lt;a href="http://modernweb.com/2014/08/04/choose-grunt-gulp-npm/"&gt;A javascript build system shootout: Grunt vs. Gulp vs. Npm&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://medialize.github.io/URI.js/"&gt;URI.js&lt;/a&gt;, &lt;a href="http://www.pixijs.com/"&gt;Pixi.JS&lt;/a&gt; и &lt;a href="http://www.ohsean.net/plugins/jogdial/"&gt;JogDial.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ethercalc.org/"&gt;EtherCalc is a web spreadsheet&lt;/a&gt; и &lt;a href="http://dalekjs.com/"&gt;DalekJS - automated cross browser testing with JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@daffl/javascript-the-weird-parts-8ff3da55798e"&gt;JavaScript — The weird parts&lt;/a&gt; и &lt;a href="https://www.youtube.com/watch?v=8J6EdpXdzqc"&gt;HTML5DevConf May 2014: Peter-Paul Koch: The Mobile Viewports&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Tue, 12 Aug 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/08/12/podcast-02-26.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/08/12/podcast-02-26.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/69/file/podfm_rwpod_my_26_69.mp3" length="48452683" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/69/file/podfm_rwpod_my_26_69.mp3" fileSize="48452683" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Roda - Routing Tree Web Framework
+React and Rails
+Quick tips for doing IO with Ruby и DNS to CDN to Origin
+Oat: explicit media-type serializers in Ruby и Customize Minitest Assertions and Expectations
+Slate - beautiful static documentation for your API, Swagger и Starboard is a tool which creates Trello boards
+
+
+JavaScript
+
+
+The State of the Componentised Web и Why Web Components Are Ready For Production
+Eloquent JavaScript и A javascript build system shootout: Grunt vs. Gulp vs. Npm
+URI.js, Pixi.JS и JogDial.js
+EtherCalc is a web spreadsheet и DalekJS - automated cross browser testing with JavaScript
+JavaScript — The weird parts и HTML5DevConf May 2014: Peter-Paul Koch: The Mobile Viewports
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0226.png"/>
+  <itunes:duration>00:50:25</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>25 выпуск 02 сезона. Understanding Timeouts in Ruby, SRP in Ruby, Know Ruby: clone and dup, Ember.js: Writing Google Maps Component, JahCode, Scroller.js и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://redgetan.cc/understanding-timeouts-in-cruby"&gt;Understanding Timeouts in Ruby (MRI)&lt;/a&gt; и &lt;a href="http://viget.com/extend/seven-useful-activemodel-validators"&gt;Seven Useful ActiveModel Validators&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://netguru.co/blog/posts/simplest-security-best-practices-for-servers-hosting-ruby-on-rails-apps"&gt;Simplest Security Best Practices&lt;/a&gt; и &lt;a href="http://littlelines.com/blog/2014/07/28/a-survival-guide-for-legacy-rails-apps/"&gt;A Survival Guide for Legacy Rails Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.justinweiss.com/blog/2014/07/28/4-simple-memoization-patterns-in-ruby-and-one-gem/"&gt;4 Simple Memoization Patterns in Ruby&lt;/a&gt; и &lt;a href="http://jjbohn.info/blog/2014/07/28/single-responsibility-principle-a-solid-week/"&gt;Single Responsibility Principle in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://aaronlasseigne.com/2014/07/16/know-ruby-clone-and-dup/"&gt;Know Ruby: clone and dup&lt;/a&gt; и &lt;a href="http://techblog.thescore.com/2014/07/19/3-ways-to-create-classes-in-ruby/"&gt;3 Ways to Create Classes in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.confreaks.com/videos/3451-goruco-how-to-debug-anything"&gt;How to Debug Anything (video)&lt;/a&gt; и &lt;a href="https://www.youtube.com/watch?v=d2QdITRRMHg"&gt;SpeedupRails, Speedup Your Code (video)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://journal.crushlovely.com/post/92649246643/7-patterns-to-refactor-javascript-applications-decorator"&gt;7 patterns to refactor javascript applications: decorators&lt;/a&gt; и &lt;a href="https://engineering.eventbrite.com/seat-designer-part-2-design-patterns/"&gt;Seat Designer (part 2): Design patterns&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://strongpoint.io/blog/2014/07/28/ember-js-writing-google-maps-component-part-1/"&gt;Ember.js: Writing Google Maps Component - Part1&lt;/a&gt; и &lt;a href="https://github.com/johnpapa/angularjs-styleguide"&gt;AngularJS Style Guide&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jahcode.com/"&gt;JahCode - Object Oriented Javascript done Right&lt;/a&gt; и &lt;a href="http://antimatter15.com/ocrad.js/demo.html"&gt;Ocrad.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://regularjs.github.io/"&gt;Regular.js&lt;/a&gt; и &lt;a href="http://buseca.github.io/patternbolt/"&gt;Patternbolt is a fine selection of SVG pattern background&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://scrollerjs.com/"&gt;Scroller.js&lt;/a&gt; (&lt;a href="https://www.youtube.com/watch?v=VAOPi9C8674"&gt;video&lt;/a&gt;) и &lt;a href="http://flexible.gs/"&gt;Flexible.gs - Flexible Grid System&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 04 Aug 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/08/04/podcast-02-25.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/08/04/podcast-02-25.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/68/file/podfm_rwpod_my_25_68.mp3" length="59845903" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/68/file/podfm_rwpod_my_25_68.mp3" fileSize="59845903" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Understanding Timeouts in Ruby (MRI) и Seven Useful ActiveModel Validators
+Simplest Security Best Practices и A Survival Guide for Legacy Rails Apps
+4 Simple Memoization Patterns in Ruby и Single Responsibility Principle in Ruby
+Know Ruby: clone and dup и 3 Ways to Create Classes in Ruby
+How to Debug Anything (video) и SpeedupRails, Speedup Your Code (video)
+
+
+JavaScript
+
+
+7 patterns to refactor javascript applications: decorators и Seat Designer (part 2): Design patterns
+Ember.js: Writing Google Maps Component - Part1 и AngularJS Style Guide
+JahCode - Object Oriented Javascript done Right и Ocrad.js
+Regular.js и Patternbolt is a fine selection of SVG pattern background
+Scroller.js (video) и Flexible.gs - Flexible Grid System
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0225.png"/>
+  <itunes:duration>01:02:17</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>RWPod Кафе 3: Node vs Golang</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. В данном кафе поговорим на тему &lt;strong&gt;&amp;ldquo;Golang vs Node.js&amp;rdquo;&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://medium.com/code-adventures/4ba9e7f3e52b"&gt;Farewell Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://yager.io/programming/go.html"&gt;Why Go Is Not Good&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jaxbot.me/articles/benchmarks_nodejs_vs_go_11_5_27_2013"&gt;Benchmarks: Node.js vs Go 1.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@ded/why-im-staying-with-node-e6fd3be62e34"&gt;Why I&amp;rsquo;m staying with Node&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.reddit.com/r/golang/comments/1ye3z6/go_vs_nodejs_for_servers/"&gt;Go vs Node.js for servers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.safaribooksonline.com/2013/02/22/go-as-an-alternative-to-node-js-for-very-fast-servers/"&gt;Go as an alternative to Node.js for Very Fast Servers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.polydaic.com/blog/go-vs-node-js"&gt;Golang vs Node.js: The Showdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=cN_DpYBzKso"&gt;Concurrency Is Not Parallelism (видео)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sat, 19 Jul 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/07/19/cafe-003.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/07/19/cafe-003.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/67/file/podfm_rwpod_my_20140719.mp3" length="54138534" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/67/file/podfm_rwpod_my_20140719.mp3" fileSize="54138534" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. В данном кафе поговорим на тему “Golang vs Node.js”:
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. В данном кафе поговорим на тему “Golang vs Node.js”:
+
+
+Farewell Node.js
+Why Go Is Not Good
+Benchmarks: Node.js vs Go 1.1
+Why I’m staying with Node
+Go vs Node.js for servers
+Go as an alternative to Node.js for Very Fast Servers
+Golang vs Node.js: The Showdown
+Concurrency Is Not Parallelism (видео)
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/cafe/003.png"/>
+  <itunes:duration>00:56:20</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>24 выпуск 02 сезона. Elixir vs Ruby, MessageEncryptor, App Server Arena, Breach, Ripple.js, Lollytin, Brain.js, Giflinks и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.littlelines.com/blog/2014/07/08/elixir-vs-ruby-showdown-phoenix-vs-rails/"&gt;Elixir vs Ruby Showdown - Phoenix vs Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://monkeyandcrow.com/blog/reading_rails_how_does_message_encryptor_work/"&gt;Reading Rails - How Does MessageEncryptor Work?&lt;/a&gt; и &lt;a href="http://www.chrisseaton.com/rubytruffle/pushing-pixels/"&gt;Pushing Pixels with JRuby+Truffle&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.engineyard.com/2014/ruby-app-server-arena-pt1"&gt;App Server Arena: Part 1, A Comparison of Popular Ruby Application Servers&lt;/a&gt; и &lt;a href="https://blog.engineyard.com/2014/ruby-app-server-arena-pt2"&gt;Part 2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gorails.com/episodes/keeping-track-with-annotate"&gt;Keeping track with Annotate&lt;/a&gt; и &lt;a href="http://railsware.com/blog/2014/07/09/share-rails-configuration-to-javascript/"&gt;Share Rails configuration to Javascript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gotealeaf.com/books/ruby"&gt;Introduction to Programming with Ruby&lt;/a&gt;, &lt;a href="https://github.com/rwz/adequate_exposure"&gt;Exposing things, adequately&lt;/a&gt; и &lt;a href="https://github.com/kslazarev/numbers_and_words"&gt;Convert numbers to words using I18N&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://breach.cc/"&gt;Breach - a browser for the HTML5 era&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lukehoban/es6features/blob/master/README.md"&gt;ECMAScript 6 features&lt;/a&gt; и &lt;a href="http://holloway.github.io/ripple/"&gt;Ripple.js - ripple effects on buttons and other clicks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lollyt.in/"&gt;Lollytin - builder for Bootstrap 3 templates&lt;/a&gt;, &lt;a href="http://vst.mn/selectordie/"&gt;Select or Die&lt;/a&gt; и &lt;a href="http://zenorocha.github.io/voice-elements/"&gt;Web Component voice elements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://htmlhint.com/"&gt;HTMLHint&lt;/a&gt; и &lt;a href="https://github.com/harthur/brain"&gt;Brain.js - neural networks in JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://danieltao.com/lazy.js/"&gt;Lazy.js - utility library for JavaScript with lazy evaluation&lt;/a&gt; и &lt;a href="http://tholman.com/giflinks/"&gt;Giflinks&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 13 Jul 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/07/13/podcast-02-24.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/07/13/podcast-02-24.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/66/file/podfm_rwpod_my_24_66.mp3" length="55633704" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/66/file/podfm_rwpod_my_24_66.mp3" fileSize="55633704" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Elixir vs Ruby Showdown - Phoenix vs Rails
+Reading Rails - How Does MessageEncryptor Work? и Pushing Pixels with JRuby+Truffle
+App Server Arena: Part 1, A Comparison of Popular Ruby Application Servers и Part 2
+Keeping track with Annotate и Share Rails configuration to Javascript
+Introduction to Programming with Ruby, Exposing things, adequately и Convert numbers to words using I18N
+
+
+JavaScript
+
+
+Breach - a browser for the HTML5 era
+ECMAScript 6 features и Ripple.js - ripple effects on buttons and other clicks
+Lollytin - builder for Bootstrap 3 templates, Select or Die и Web Component voice elements
+HTMLHint и Brain.js - neural networks in JavaScript
+Lazy.js - utility library for JavaScript with lazy evaluation и Giflinks
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0224.png"/>
+  <itunes:duration>00:57:53</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>23 выпуск 02 сезона. Rails 4.0.8, 4.1.4, Ruboto 1.1.1, Farewell Node.js, Ruby-possibly, Ampersand.js, Deb.js, Detect.js и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релизы &lt;a href="http://weblog.rubyonrails.org/2014/7/2/Rails_4_0_8_and_4_1_4_have_been_released/"&gt;Rails 4.0.8, 4.1.4&lt;/a&gt; и &lt;a href="http://ruboto.org/news/2014/07/01/Ruboto-1.1.1-release-doc.html"&gt;Ruboto 1.1.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/code-adventures/4ba9e7f3e52b"&gt;Farewell Node.js&lt;/a&gt; и &lt;a href="http://yager.io/programming/go.html"&gt;Why Go Is Not Good&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.plataformatec.com.br/2014/07/ruby-blocks-precedence/"&gt;Ruby blocks precedence&lt;/a&gt; и &lt;a href="http://dev.mikamai.com/post/90363293164/rubyjuice-public-private-protected-methods-in-ruby"&gt;Public, private, protected methods in ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/swordray/modular_migration"&gt;ModularMigration&lt;/a&gt;, &lt;a href="https://github.com/rap1ds/ruby-possibly"&gt;Ruby-possibly&lt;/a&gt;, &lt;a href="https://github.com/grobie/soundcloud2000/"&gt;Soundcloud2000&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://ampersandjs.com/"&gt;Ampersand.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@ded/why-im-staying-with-node-e6fd3be62e34"&gt;Why I&amp;rsquo;m staying with Node&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.atom.io/2014/07/02/moving-atom-to-react.html"&gt;Moving Atom To React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.chartjs.org/"&gt;Chart.js - simple, clean and engaging charts&lt;/a&gt;, &lt;a href="https://github.com/krasimir/deb.js"&gt;Deb.js - minimalistic JavaScript library for debugging in the browser&lt;/a&gt;, &lt;a href="https://github.com/darcyclarke/Detect.js"&gt;Detect.js - detect browser, os and device&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 06 Jul 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/07/06/podcast-02-23.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/07/06/podcast-02-23.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/65/file/podfm_rwpod_my_23_65.mp3" length="38673566" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/65/file/podfm_rwpod_my_23_65.mp3" fileSize="38673566" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы Rails 4.0.8, 4.1.4 и Ruboto 1.1.1
+Farewell Node.js и Why Go Is Not Good
+Ruby blocks precedence и Public, private, protected methods in ruby
+ModularMigration, Ruby-possibly, Soundcloud2000
+
+
+JavaScript
+
+
+Ampersand.js
+Why I’m staying with Node
+Moving Atom To React
+Chart.js - simple, clean and engaging charts, Deb.js - minimalistic JavaScript library for debugging in the browser, Detect.js - detect browser, os and device
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0223.png"/>
+  <itunes:duration>00:40:13</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>22 выпуск 02 сезона. Rails 4.0.6, 4.1.2, Mongoid 4.0.0, Lotus, N+1 Problem, Web Starter Kit, Odyssey.js, CDNperf, Mailin и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релизы &lt;a href="http://weblog.rubyonrails.org/2014/6/26/Rails-4-1-2-and-4-0-6-has-been-released/"&gt;Rails 4.0.6, 4.1.2&lt;/a&gt; и &lt;a href="https://github.com/mongoid/mongoid/blob/master/CHANGELOG.md#400"&gt;Mongoid 4.0.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lucaguidi.com/2014/06/23/introducing-lotus.html"&gt;Introducing Lotus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://marianposaceanu.com/articles/improve-rails-performance-by-adding-a-few-gems"&gt;Improve Rails performance by adding a few gems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=rJg3I-leoo4"&gt;N+1 Problem: Optimized Counts with Joins and Custom Select&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/applift/fast_attributes"&gt;FastAttributes&lt;/a&gt;, &lt;a href="https://github.com/grosser/wwtd"&gt;WWTD&lt;/a&gt;, &lt;a href="https://github.com/dtaniwaki/rack-secure-upload"&gt;Rack-secure-upload - upload files securely&lt;/a&gt; и &lt;a href="https://github.com/kbparagua/paloma"&gt;Paloma - page-specific javascript for Rails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://developers.google.com/web/starter-kit/"&gt;Web Starter Kit&lt;/a&gt; (&lt;a href="http://webdesign.tutsplus.com/tutorials/get-up-and-running-with-google-web-starter-kit--cms-21495"&gt;Get up and Running&lt;/a&gt;) и &lt;a href="https://github.com/dart-lang/chromedeveditor"&gt;Chrome Dev Editor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=bxHKRM9win0"&gt;Google I/O 2014 за 4 минуты&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=8OJ7ih8EE7s"&gt;Polymer and Web Components&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=3_bqLynJpWg"&gt;jQuery: Now Ideal For Low Bandwidth&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=hf1T_AONQJU"&gt;Redemption from Callback Hell&lt;/a&gt;, &lt;a href="http://tohtml.it/post/90068569218"&gt;Автоматизация фронтенда&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sitepoint.com/tips-help-level-up-sass/"&gt;Tips to Help You Level Up Your Sass&lt;/a&gt;, &lt;a href="http://cartodb.github.io/odyssey.js/"&gt;Odyssey.js&lt;/a&gt;, &lt;a href="http://mikefowler.me/smallworld.js/"&gt;Smallworld.js&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.cdnperf.com/"&gt;CDNperf - finds you fast and reliable JavaScript CDNs&lt;/a&gt;, &lt;a href="http://mailin.io/"&gt;Mailin - a node.js smtp server that listens for emails, parses them and posts them as json&lt;/a&gt;, &lt;a href="http://fastly.github.io/epoch/"&gt;Epoch - a general purpose real-time charting library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/codemix/fast.js"&gt;Faster user-land reimplementations for several common builtin native JavaScript functions&lt;/a&gt;, &lt;a href="https://github.com/abeisgreat/-_-.js"&gt;Replaces console.warn with less-vague name&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 29 Jun 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/06/29/podcast-02-22.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/06/29/podcast-02-22.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/64/file/podfm_rwpod_my_22_64.mp3" length="59444142" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/64/file/podfm_rwpod_my_22_64.mp3" fileSize="59444142" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы Rails 4.0.6, 4.1.2 и Mongoid 4.0.0
+Introducing Lotus
+Improve Rails performance by adding a few gems
+N+1 Problem: Optimized Counts with Joins and Custom Select
+FastAttributes, WWTD, Rack-secure-upload - upload files securely и Paloma - page-specific javascript for Rails
+
+
+JavaScript
+
+
+Web Starter Kit (Get up and Running) и Chrome Dev Editor
+Google I/O 2014 за 4 минуты, Polymer and Web Components
+jQuery: Now Ideal For Low Bandwidth, Redemption from Callback Hell, Автоматизация фронтенда
+Tips to Help You Level Up Your Sass, Odyssey.js, Smallworld.js
+CDNperf - finds you fast and reliable JavaScript CDNs, Mailin - a node.js smtp server that listens for emails, parses them and posts them as json, Epoch - a general purpose real-time charting library
+Faster user-land reimplementations for several common builtin native JavaScript functions, Replaces console.warn with less-vague name
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0222.png"/>
+  <itunes:duration>01:01:52</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>21 выпуск 02 сезона. Teatro.io, pg_query, Gemoji, Marionettejs, Mean.io, Hamlet и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://teatro.io/"&gt;Teatro.io - automatic stages for web applications&lt;/a&gt; Для слушателей нашего подкаста введите промокод &amp;ldquo;&lt;strong&gt;rwpod&lt;/strong&gt;&amp;rdquo; и получите план на 5 стейджей за $20 вместо $50&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://stormforger.com/"&gt;Stormforger - comprehensive load testing, using Ruby as DSL&lt;/a&gt;. А также вспоминали про &lt;a href="https://loader.io/"&gt;loader.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://pganalyze.com/blog/parse-postgresql-queries-in-ruby.html"&gt;Introducing pg_query: Parse PostgreSQL queries in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://engineering.moneybird.com/posts/2014/06/16/preserving-model-history-with-activerecord-and-postgresql/"&gt;Preserving Model History with ActiveRecord and PostgreSQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/github/gemoji"&gt;Gemoji - emoji images and names&lt;/a&gt;, &lt;a href="https://github.com/dtaniwaki/rack-dev-mark"&gt;Rack-dev-mark - show dev mark on development env&lt;/a&gt;, &lt;a href="https://github.com/excid3/stack_rescue"&gt;StackRescue - automatically search Google for exceptions&lt;/a&gt; и &lt;a href="https://github.com/rafalchmiel/postfiks"&gt;Postfiks - an implementation of the reverse Polish notation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/playlist?list=PL37ZVnwpeshFXOP2lqCUykYPXYNsK_fgN#jsconf2014"&gt;12 Videos from JSConf 2014&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Релиз &lt;a href="http://marionettejs.com"&gt;Marionettejs 2.0.1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.ng-newsletter.com/posts/"&gt;Ng-newsletter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mean.io/"&gt;Mean.io - Friendly &amp;amp; Fun Javascript Fullstack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hamlet.coffee/"&gt;Hamlet - simple and powerful reactive templating&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 22 Jun 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/06/22/podcast-02-21.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/06/22/podcast-02-21.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/63/file/podfm_rwpod_my_21_63.mp3" length="59623055" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/63/file/podfm_rwpod_my_21_63.mp3" fileSize="59623055" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Teatro.io - automatic stages for web applications Для слушателей нашего подкаста введите промокод “rwpod” и получите план на 5 стейджей за $20 вместо $50
+Stormforger - comprehensive load testing, using Ruby as DSL. А также вспоминали про loader.io
+Introducing pg_query: Parse PostgreSQL queries in Ruby
+Preserving Model History with ActiveRecord and PostgreSQL
+Gemoji - emoji images and names, Rack-dev-mark - show dev mark on development env, StackRescue - automatically search Google for exceptions и Postfiks - an implementation of the reverse Polish notation
+
+
+JavaScript
+
+
+12 Videos from JSConf 2014
+Релиз Marionettejs 2.0.1
+Ng-newsletter
+Mean.io - Friendly &amp;amp; Fun Javascript Fullstack
+Hamlet - simple and powerful reactive templating
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0221.png"/>
+  <itunes:duration>00:36:52</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>20 выпуск 02 сезона. Swift и Ruby, Invoker, Ruby Security Tools and Resources, Object.Observe и element.animate, DC.js, Beeplay.js и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blog.motioninmotion.tv/swift-still-won-t-replace-rubymotion"&gt;Swift Still Won&amp;rsquo;t Replace RubyMotion&lt;/a&gt; и &lt;a href="http://littlelines.com/blog/2014/06/11/why-rubyist-will-love-swift/"&gt;5 Reasons Why Rubyist Will Love Swift&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://vimeo.com/phusionnl/review/98027409/03ba678684"&gt;Phusion Passenger Code Walkthrough&lt;/a&gt; и &lt;a href="http://invoker.codemancers.com/"&gt;Invoker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://robots.thoughtbot.com/writing-a-domain-specific-language-in-ruby"&gt;Writing a Domain-Specific Language in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://hakiri.io/blog/ruby-security-tools-and-resources"&gt;Ruby Security Tools and Resources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://blog.abevoelker.com/rails-development-using-docker-and-vagrant/"&gt;Rails Development Using Docker and Vagrant&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://habrahabr.ru/post/225065/"&gt;Object.Observe&lt;/a&gt; (&lt;a href="http://www.html5rocks.com/en/tutorials/es7/observe/"&gt;оригинал&lt;/a&gt;) и &lt;a href="http://habrahabr.ru/post/226169/"&gt;element.animate&lt;/a&gt; (&lt;a href="http://updates.html5rocks.com/2014/05/Web-Animations---element-animate-is-now-in-Chrome-36"&gt;оригинал&lt;/a&gt;) в Chrome 36&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.smashingmagazine.com/2014/06/11/building-with-gulp/"&gt;Building With Gulp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;7 patterns to refactor javascript applications: &lt;a href="http://journal.crushlovely.com/post/88286828068/7-patterns-to-refactor-javascript-applications-value"&gt;value objects&lt;/a&gt; и &lt;a href="http://journal.crushlovely.com/post/88286835473/7-patterns-to-refactor-javascript-applications-service"&gt;service objects&lt;/a&gt; (упомянутая &lt;a href="http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/"&gt;Refactor Fat ActiveRecord Models&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://bouncejs.com/"&gt;bounce.js - create tasty CSS3 powered animations&lt;/a&gt; и &lt;a href="http://pazguille.github.io/github-card/"&gt;github-card webcomponent&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dc-js.github.io/dc.js/"&gt;DC.js - Dimensional Charting Javascript Library&lt;/a&gt;, &lt;a href="http://lafikl.github.io/steady.js/"&gt;Steady.js - main goal is to make the user scrolling jank-free&lt;/a&gt; и &lt;a href="http://watilde.github.io/beeplay/"&gt;Beeplay.js - write a song in JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 15 Jun 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/06/15/podcast-02-20.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/06/15/podcast-02-20.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/62/file/podfm_rwpod_my_20_62.mp3" length="59623055" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/62/file/podfm_rwpod_my_20_62.mp3" fileSize="59623055" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Swift Still Won’t Replace RubyMotion и 5 Reasons Why Rubyist Will Love Swift
+Phusion Passenger Code Walkthrough и Invoker
+Writing a Domain-Specific Language in Ruby
+Ruby Security Tools and Resources
+Rails Development Using Docker and Vagrant
+
+
+JavaScript
+
+
+Object.Observe (оригинал) и element.animate (оригинал) в Chrome 36
+Building With Gulp
+7 patterns to refactor javascript applications: value objects и service objects (упомянутая Refactor Fat ActiveRecord Models)
+bounce.js - create tasty CSS3 powered animations и github-card webcomponent
+DC.js - Dimensional Charting Javascript Library, Steady.js - main goal is to make the user scrolling jank-free и Beeplay.js - write a song in JavaScript
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0220.png"/>
+  <itunes:duration>01:02:03</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>19 выпуск 02 сезона. Rspec 2.99.0 и 3.0.0, Git 2.0, Dawn, JsNice, Dependency Injection with CoffeeScript, Card, Traceit.js и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релизы &lt;a href="http://myronmars.to/n/dev-blog/2014/06/rspec-2-99-0-and-3-0-0-have-been-released"&gt;Rspec 2.99.0 - 3.0.0&lt;/a&gt; и &lt;a href="https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes/2.0.0.txt"&gt;Git 2.0.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://robots.thoughtbot.com/how-to-share-a-session-between-sinatra-and-rails"&gt;How to Share a Session Between Sinatra and Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/"&gt;5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service&lt;/a&gt; и &lt;a href="http://leopard.in.ua/2013/10/13/binary-serialization-formats/"&gt;Binary serialization formats&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.pandurang-waghulde.com/2014/06/client-side-ssl-certificate.html"&gt;Client side SSL Certificate Authentication with Rails and Nginx&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/interagent/http-api-design"&gt;HTTP API Design Guide&lt;/a&gt; и &lt;a href="https://github.com/PharkMillups/beautiful-docs"&gt;Beautiful Docs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/dawn/dawn"&gt;Dawn - docker-based PaaS in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://habrahabr.ru/post/225367/"&gt;30 полезных сервисов для веб-разработчика&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.jsnice.org/"&gt;JsNice - statistical renaming, type inference and deobfuscation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sitepoint.com/using-sass-maps/"&gt;Using Sass Maps&lt;/a&gt; и &lt;a href="http://thesassway.com/advanced/inverse-trigonometric-functions-with-sass"&gt;Inverse trigonometric functions with Sass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://labs.vistarmedia.com/2014/05/22/dependency-injection-with-coffeescript.html"&gt;Dependency Injection with CoffeeScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.alexkras.com/summary-of-maintainable-javascript/"&gt;Summary of Maintainable JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.thepetedesign.com/demos/label_better_demo.html"&gt;jQuery Label Better&lt;/a&gt;, &lt;a href="http://jessepollak.github.io/card/"&gt;Card&lt;/a&gt; и &lt;a href="http://valleybazaar.org/#tracebox"&gt;Traceit.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 09 Jun 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/06/09/podcast-02-19.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/06/09/podcast-02-19.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/61/file/podfm_rwpod_my_19_61.mp3" length="46646523" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/61/file/podfm_rwpod_my_19_61.mp3" fileSize="46646523" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релизы Rspec 2.99.0 - 3.0.0 и Git 2.0.0
+How to Share a Session Between Sinatra and Rails
+5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service и Binary serialization formats
+Client side SSL Certificate Authentication with Rails and Nginx
+HTTP API Design Guide и Beautiful Docs
+Dawn - docker-based PaaS in Ruby
+
+
+JavaScript
+
+
+30 полезных сервисов для веб-разработчика
+JsNice - statistical renaming, type inference and deobfuscation
+Using Sass Maps и Inverse trigonometric functions with Sass
+Dependency Injection with CoffeeScript
+Summary of Maintainable JavaScript
+jQuery Label Better, Card и Traceit.js
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0219.png"/>
+  <itunes:duration>00:48:32</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>18 выпуск 02 сезона. Релиз Ruby 1.9.3-p547, Mocking and Ruby, Avatarly, Famo.us, JsAction и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релиз &lt;a href="https://www.ruby-lang.org/en/news/2014/05/16/ruby-1-9-3-p547-released/"&gt;Ruby 1.9.3-p547&lt;/a&gt; и &lt;a href="https://bugs.ruby-lang.org/issues/9711"&gt;удаление minitest с stdlib&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://myronmars.to/n/dev-blog/2014/05/notable-changes-in-rspec-3"&gt;Notable Changes in RSpec 3&lt;/a&gt; и &lt;a href="http://solnic.eu/2014/05/22/mocking-and-ruby.html"&gt;Mocking and Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://climber2002.github.io/blog/2014/05/18/postgis-and-google-maps-in-rails-part-1/"&gt;PostGIS and Google Maps in Rails Part 1&lt;/a&gt; и &lt;a href="http://reefpoints.dockyard.com/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql.html"&gt;Avoid Rails When Generating JSON responses with PostgreSQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/rails/activemodel-globalid"&gt;Active Model: GlobalID&lt;/a&gt; и &lt;a href="https://github.com/rails/activejob"&gt;Active Job - Make work happen later&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lucek/avatarly"&gt;Avatarly - a simple gem for creating gmail-like user avatars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://chef.leopard.in.ua/"&gt;Cooking Infrastructure by Chef (free book)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/"&gt;Script-injected &amp;ldquo;async scripts&amp;rdquo; considered harmful&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://famo.us/"&gt;Famo.us&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/facebook/fb-flo"&gt;Fb-flo - modify running web apps without reloading&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/google/jsaction"&gt;JsAction - a tiny event delegation library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/knrz/CSV.js"&gt;CSV.js - a simple, blazing-fast CSV parser and encoder&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rosulek.github.io/vamonos/demos/index.html"&gt;Vamonos - dynamic algorithm visualization in the browser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 01 Jun 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/06/01/podcast-02-18.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/06/01/podcast-02-18.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/60/file/podfm_rwpod_my_18_60.mp3" length="32276248" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/60/file/podfm_rwpod_my_18_60.mp3" fileSize="32276248" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релиз </itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Релиз Ruby 1.9.3-p547 и удаление minitest с stdlib
+Notable Changes in RSpec 3 и Mocking and Ruby
+PostGIS and Google Maps in Rails Part 1 и Avoid Rails When Generating JSON responses with PostgreSQL
+Active Model: GlobalID и Active Job - Make work happen later
+Avatarly - a simple gem for creating gmail-like user avatars
+Cooking Infrastructure by Chef (free book)
+
+
+JavaScript
+
+
+Script-injected “async scripts” considered harmful
+Famo.us
+Fb-flo - modify running web apps without reloading
+JsAction - a tiny event delegation library
+CSV.js - a simple, blazing-fast CSV parser and encoder
+Vamonos - dynamic algorithm visualization in the browser
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0218.png"/>
+  <itunes:duration>00:33:34</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>RWPod Кафе 2: Богдан Гусев и Open Source</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. В данном кафе поговорим c &lt;strong&gt;&amp;ldquo;Богданом Гусевым&amp;rdquo;&lt;/strong&gt; про Ruby и Open Source:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://gusiev.com/"&gt;Блог&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bogdan"&gt;Github&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://contributors.rubyonrails.org/contributors/bogdan-gusiev/commits"&gt;Contributing to Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bogdan/datagrid"&gt;DataGrid&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/railsware/js-routes"&gt;Js-Routes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bogdan/diffbench"&gt;Diffbench&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bogdan/accept_values_for"&gt;Accept_values_for&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/bogdan/ajaxsubmit"&gt;Ajaxsubmit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=TRn4O7pBX8E"&gt;Как контрибьютить в Ruby on Rails (видео)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sat, 24 May 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/05/24/cafe-002.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/05/24/cafe-002.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/59/file/podfm_rwpod_my_20140524.mp3" length="39585581" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/59/file/podfm_rwpod_my_20140524.mp3" fileSize="39585581" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. В данном кафе поговорим c “Богданом Гусевым” про Ruby и Open Source:
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. В данном кафе поговорим c “Богданом Гусевым” про Ruby и Open Source:
+
+
+Блог
+Github
+Contributing to Rails
+DataGrid
+Js-Routes
+Diffbench
+Accept_values_for
+Ajaxsubmit
+Как контрибьютить в Ruby on Rails (видео)
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/cafe/002.png"/>
+  <itunes:duration>00:41:11</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>17 выпуск 02 сезона. Ruby background processing reentrancy, RailsLTS, Jest, ApplePie и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://dev.mensfeld.pl/2014/05/ruby-rails-sinatra-background-processing-reentrancy-for-your-workers-is-a-must-be/"&gt;Ruby (Rails, Sinatra) background processing – Reentrancy for your workers is a must be!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://monkeyandcrow.com/blog/reading_rails_how_do_batched_queries_work/"&gt;Reading Rails - How Do Batched Queries Work?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://railslts.com/"&gt;RailsLTS&lt;/a&gt; и &lt;a href="http://rubybackports.com/"&gt;Backport ruby gems to old versions of rails or ruby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://codon.com/the-dhh-problem"&gt;The DHH Problem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=8-Zq2KUN6jM"&gt;Introduction to Polymer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://restivejs.com/"&gt;Restive.JS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://facebook.github.io/jest/"&gt;Jest - painless javascript unit testing&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.apppie.org/"&gt;ApplePie - Semantic CSS Approach&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://quilljs.com/"&gt;Quill Rich Text Editor&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Sun, 18 May 2014 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2014/05/18/podcast-02-17.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/05/18/podcast-02-17.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/58/file/podfm_rwpod_my_17_58.mp3" length="31800085" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/58/file/podfm_rwpod_my_17_58.mp3" fileSize="31800085" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Ruby (Rails, Sinatra) background processing – Reentrancy for your workers is a must be!
+Reading Rails - How Do Batched Queries Work?
+RailsLTS и Backport ruby gems to old versions of rails or ruby
+The DHH Problem
+
+
+JavaScript
+
+
+Introduction to Polymer
+Restive.JS
+Jest - painless javascript unit testing
+ApplePie - Semantic CSS Approach
+Quill Rich Text Editor
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/02/0217.png"/>
+  <itunes:duration>00:33:04</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+  </channel>
+</rss>
