@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Sun, 11 Jan 2015 00:00:00 +0200</pubDate>
-    <lastBuildDate>Sun, 11 Jan 2015 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 19 Jan 2015 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Jan 2015 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,80 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>02 выпуск 03 сезона. Debugging Super Methods with Ruby 2.2, Rbkit, Railsbox, IO.js 1.0.2, TypeScript 1.4, Hyhyhy и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://engineering.heroku.com/blogs/2014-01-14-debugging-super-methods-ruby22"&gt;Debugging Super Methods with Ruby 2.2&lt;/a&gt; и &lt;a href="http://chriskottom.com/blog/2015/01/code-quality-metrics-that-matter/"&gt;Code Quality: Metrics That Matter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://rbkit.codemancers.com/"&gt;Rbkit is a profiler built with ease of use in mind&lt;/a&gt; и &lt;a href="https://railsbox.io/"&gt;Railsbox&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://antoine.finkelstein.fr/go-in-ruby/"&gt;Using Go to improve your Ruby application&amp;rsquo;s performance&lt;/a&gt; и &lt;a href="https://www.krautcomputing.com/blog/2015/01/13/recalculate-counter-cache-columns-in-rails/"&gt;Recalculate counter cache columns in Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://devblog.avdi.org/2015/01/16/why-does-ruby-have-blocks/"&gt;Why does Ruby have blocks?&lt;/a&gt;, &lt;a href="http://blog.lunarlogic.io/2015/to-be-like-gauguin/"&gt;To be like Gauguin&lt;/a&gt; и &lt;a href="https://github.com/ianks/octodown"&gt;Octodown - github markdown previewing straight from your shell&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релизы &lt;a href="https://iojs.org/"&gt;IO.js 1.0.2&lt;/a&gt; и &lt;a href="http://blogs.msdn.com/b/typescript/archive/2015/01/16/announcing-typescript-1-4.aspx"&gt;TypeScript 1.4&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://hugogiraudel.com/2015/01/07/introducing-sass-guidelines/"&gt;Sass Guidelines&lt;/a&gt; и &lt;a href="http://narma.github.io/2015/redis-in-browser/"&gt;In-browser Redis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://maciejczyzewski.me/hyhyhy/"&gt;Hyhyhy - a tool for creating nice looking HTML5 presentations&lt;/a&gt; и &lt;a href="http://mte90.github.io/Mozilla-Presentation-Boilerplate/"&gt;Mozilla Presentation Boilerpalte&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://developer.telerik.com/featured/300-ms-click-delay-ios-8/"&gt;The 300 ms Click Delay and iOS 8&lt;/a&gt; и &lt;a href="http://uxmyths.com/"&gt;UX Myths&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://6to5.org/"&gt;6to5 turns ES6+ code into vanilla ES5&lt;/a&gt; и &lt;a href="http://gabinaureche.com/TheaterJS/"&gt;TheaterJS — автоматический набор текста, имитирующий поведение человека&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;Обсуждаем&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Мастер класс &lt;a href="http://smartme.com.ua/PostgreSQL"&gt;PostgreSQL - настраиваем и масштабируем&lt;/a&gt;. Используйте промокод &lt;strong&gt;rwpod_SM&lt;/strong&gt; для получения 10% скидки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 19 Jan 2015 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2015/01/19/podcast-03-02.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/01/19/podcast-03-02.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/89/file/podfm_rwpod_my_2_89.mp3" length="61155602" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/89/file/podfm_rwpod_my_2_89.mp3" fileSize="61155602" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Debugging Super Methods with Ruby 2.2 и Code Quality: Metrics That Matter
+Rbkit is a profiler built with ease of use in mind и Railsbox
+Using Go to improve your Ruby application’s performance и Recalculate counter cache columns in Rails
+Why does Ruby have blocks?, To be like Gauguin и Octodown - github markdown previewing straight from your shell
+
+
+JavaScript
+
+
+Релизы IO.js 1.0.2 и TypeScript 1.4
+Sass Guidelines и In-browser Redis
+Hyhyhy - a tool for creating nice looking HTML5 presentations и Mozilla Presentation Boilerpalte
+The 300 ms Click Delay and iOS 8 и UX Myths
+6to5 turns ES6+ code into vanilla ES5 и TheaterJS — автоматический набор текста, имитирующий поведение человека
+
+
+Обсуждаем
+
+
+Мастер класс PostgreSQL - настраиваем и масштабируем. Используйте промокод rwpod_SM для получения 10% скидки.
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/03/0302.png"/>
+  <itunes:duration>01:03:36</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>01 выпуск 03 сезона. Релиз Ruby 2.2.0, rubybench.org, Ginatra, Titon, Sheetsee.js, JSbooks и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -1853,52 +1927,6 @@ Vamonos - dynamic algorithm visualization in the browser
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/02/0218.png"/>
   <itunes:duration>00:33:34</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>RWPod Кафе 2: Богдан Гусев и Open Source</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. В данном кафе поговорим c &lt;strong&gt;&amp;ldquo;Богданом Гусевым&amp;rdquo;&lt;/strong&gt; про Ruby и Open Source:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://gusiev.com/"&gt;Блог&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/bogdan"&gt;Github&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://contributors.rubyonrails.org/contributors/bogdan-gusiev/commits"&gt;Contributing to Rails&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/bogdan/datagrid"&gt;DataGrid&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/railsware/js-routes"&gt;Js-Routes&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/bogdan/diffbench"&gt;Diffbench&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/bogdan/accept_values_for"&gt;Accept_values_for&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/bogdan/ajaxsubmit"&gt;Ajaxsubmit&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=TRn4O7pBX8E"&gt;Как контрибьютить в Ruby on Rails (видео)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-</description>
-  <pubDate>Sat, 24 May 2014 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2014/05/24/cafe-002.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/05/24/cafe-002.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/59/file/podfm_rwpod_my_20140524.mp3" length="39585581" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/59/file/podfm_rwpod_my_20140524.mp3" fileSize="39585581" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. В данном кафе поговорим c “Богданом Гусевым” про Ruby и Open Source:
-
-
-</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. В данном кафе поговорим c “Богданом Гусевым” про Ruby и Open Source:
-
-
-Блог
-Github
-Contributing to Rails
-DataGrid
-Js-Routes
-Diffbench
-Accept_values_for
-Ajaxsubmit
-Как контрибьютить в Ruby on Rails (видео)
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/cafe/002.png"/>
-  <itunes:duration>00:41:11</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
