@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 19 Jan 2015 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 19 Jan 2015 00:00:00 +0200</lastBuildDate>
+    <pubDate>Tue, 27 Jan 2015 00:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 27 Jan 2015 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,68 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>03 выпуск 03 сезона. Encryption on Rails, Symbol GC in Ruby 2.2, Gitcolony, Browserify VS Webpack, Lightning и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://product.reverb.com/2015/01/20/encryption-on-rails-a-primer/"&gt;Encryption on Rails – A Primer&lt;/a&gt;, &lt;a href="http://viget.com/extend/just-use-double-quoted-ruby-strings"&gt;Rubyists: Just use double-quoted strings&lt;/a&gt; и &lt;a href="https://dnlserrano.github.io/2015/01/11/debugging-ruby/"&gt;Debugging Ruby: killing puts one pry at a time&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sitepoint.com/symbol-gc-ruby-2-2/"&gt;Symbol GC in Ruby 2.2&lt;/a&gt; и &lt;a href="http://blog.8thlight.com/elizabeth-engelman/2015/01/22/single-responsibility-principle-why-does-it-matter.html"&gt;Single Responsibility Principle: Why Does it Matter?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.shopify.com/technology/16777156-tuning-rubys-global-method-cache"&gt;Tuning Ruby&amp;rsquo;s Global Method Cache&lt;/a&gt; и &lt;a href="http://blog.tdg5.com/tail-call-optimization-ruby-deep-dive/"&gt;Tail Call Optimization in Ruby: Deep Dive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/phusion/passenger-docker"&gt;Passenger-Docker - a Docker base image for Ruby, Python, Node.js and Meteor web apps&lt;/a&gt; и &lt;a href="https://www.gitcolony.com/"&gt;Gitcolony - new tool for improving code quality&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://blog.namangoel.com/browserify-vs-webpack-js-drama"&gt;Browserify VS Webpack - JS Drama&lt;/a&gt; и &lt;a href="http://www.smashingmagazine.com/2015/01/13/why-ajax-isnt-enough/"&gt;Why AJAX Isn’t Enough&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lyonbros.github.io/composer.js/"&gt;Composer.js - a javascript MVC library that provides a means to organize and scale complex single-page applications&lt;/a&gt; и &lt;a href="https://muut.com/riotjs/"&gt;Riot.js - a React-like user interface library&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.tuxedojs.org/"&gt;Tuxx is a feature complete framework built on the React view layer, Flux Architecture, and CommonJS modules&lt;/a&gt; и &lt;a href="https://dynamictyped.github.io/Griddle/"&gt;Griddle is a simple grid component for use with React&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lightning-viz.org/"&gt;Lightning - data visualization server&lt;/a&gt; и &lt;a href="http://brm.io/matter-js/"&gt;Matter.js - html5 javascript physics engine&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://leanpub.com/leaflet-tips-and-tricks/read"&gt;Leaflet Tips and Tricks (free book)&lt;/a&gt;, &lt;a href="http://bevacqua.github.io/insignia/"&gt;Insignia — плагин, позволяющий создавать поле для ввода тэгов&lt;/a&gt; и &lt;a href="http://rubaxa.github.io/Sortable/"&gt;Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Tue, 27 Jan 2015 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2015/01/27/podcast-03-03.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/01/27/podcast-03-03.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/90/file/podfm_rwpod_my_3_90.mp3" length="62904516" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/90/file/podfm_rwpod_my_3_90.mp3" fileSize="62904516" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Encryption on Rails – A Primer, Rubyists: Just use double-quoted strings и Debugging Ruby: killing puts one pry at a time
+Symbol GC in Ruby 2.2 и Single Responsibility Principle: Why Does it Matter?
+Tuning Ruby’s Global Method Cache и Tail Call Optimization in Ruby: Deep Dive
+Passenger-Docker - a Docker base image for Ruby, Python, Node.js and Meteor web apps и Gitcolony - new tool for improving code quality
+
+
+JavaScript
+
+
+Browserify VS Webpack - JS Drama и Why AJAX Isn’t Enough
+Composer.js - a javascript MVC library that provides a means to organize and scale complex single-page applications и Riot.js - a React-like user interface library
+Tuxx is a feature complete framework built on the React view layer, Flux Architecture, and CommonJS modules и Griddle is a simple grid component for use with React
+Lightning - data visualization server и Matter.js - html5 javascript physics engine
+Leaflet Tips and Tricks (free book), Insignia — плагин, позволяющий создавать поле для ввода тэгов и Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/03/0303.png"/>
+  <itunes:duration>01:05:25</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>02 выпуск 03 сезона. Debugging Super Methods with Ruby 2.2, Rbkit, Railsbox, IO.js 1.0.2, TypeScript 1.4, Hyhyhy и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -1859,74 +1921,6 @@ jQuery Label Better, Card и Traceit.js
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/02/0219.png"/>
   <itunes:duration>00:48:32</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>18 выпуск 02 сезона. Релиз Ruby 1.9.3-p547, Mocking and Ruby, Avatarly, Famo.us, JsAction и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Релиз &lt;a href="https://www.ruby-lang.org/en/news/2014/05/16/ruby-1-9-3-p547-released/"&gt;Ruby 1.9.3-p547&lt;/a&gt; и &lt;a href="https://bugs.ruby-lang.org/issues/9711"&gt;удаление minitest с stdlib&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://myronmars.to/n/dev-blog/2014/05/notable-changes-in-rspec-3"&gt;Notable Changes in RSpec 3&lt;/a&gt; и &lt;a href="http://solnic.eu/2014/05/22/mocking-and-ruby.html"&gt;Mocking and Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://climber2002.github.io/blog/2014/05/18/postgis-and-google-maps-in-rails-part-1/"&gt;PostGIS and Google Maps in Rails Part 1&lt;/a&gt; и &lt;a href="http://reefpoints.dockyard.com/2014/05/27/avoid-rails-when-generating-json-responses-with-postgresql.html"&gt;Avoid Rails When Generating JSON responses with PostgreSQL&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/rails/activemodel-globalid"&gt;Active Model: GlobalID&lt;/a&gt; и &lt;a href="https://github.com/rails/activejob"&gt;Active Job - Make work happen later&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/lucek/avatarly"&gt;Avatarly - a simple gem for creating gmail-like user avatars&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://chef.leopard.in.ua/"&gt;Cooking Infrastructure by Chef (free book)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/"&gt;Script-injected &amp;ldquo;async scripts&amp;rdquo; considered harmful&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://famo.us/"&gt;Famo.us&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/facebook/fb-flo"&gt;Fb-flo - modify running web apps without reloading&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/google/jsaction"&gt;JsAction - a tiny event delegation library&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/knrz/CSV.js"&gt;CSV.js - a simple, blazing-fast CSV parser and encoder&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://rosulek.github.io/vamonos/demos/index.html"&gt;Vamonos - dynamic algorithm visualization in the browser&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-</description>
-  <pubDate>Sun, 01 Jun 2014 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2014/06/01/podcast-02-18.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/06/01/podcast-02-18.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/60/file/podfm_rwpod_my_18_60.mp3" length="32276248" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/60/file/podfm_rwpod_my_18_60.mp3" fileSize="32276248" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-Релиз </itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-Релиз Ruby 1.9.3-p547 и удаление minitest с stdlib
-Notable Changes in RSpec 3 и Mocking and Ruby
-PostGIS and Google Maps in Rails Part 1 и Avoid Rails When Generating JSON responses with PostgreSQL
-Active Model: GlobalID и Active Job - Make work happen later
-Avatarly - a simple gem for creating gmail-like user avatars
-Cooking Infrastructure by Chef (free book)
-
-
-JavaScript
-
-
-Script-injected “async scripts” considered harmful
-Famo.us
-Fb-flo - modify running web apps without reloading
-JsAction - a tiny event delegation library
-CSV.js - a simple, blazing-fast CSV parser and encoder
-Vamonos - dynamic algorithm visualization in the browser
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/02/0218.png"/>
-  <itunes:duration>00:33:34</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
