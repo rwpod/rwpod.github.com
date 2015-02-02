@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 27 Jan 2015 00:00:00 +0200</pubDate>
-    <lastBuildDate>Tue, 27 Jan 2015 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 02 Feb 2015 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Feb 2015 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,70 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>03 выпуск 04 сезона. Ruby serialization formats, Feature Flags in Ruby, CoffeeScript 1.9, Vivaldi browser, React Native и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://azranel.github.io/programming/rubyserializationformats/"&gt;Ruby serialization formats&lt;/a&gt; и &lt;a href="http://szeliga.me/sorting-active-record-relation-by-postgresql-hstore-value/"&gt;Sorting an ActiveRecord relation by PostgreSQL hstore value with Arel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Feature Flags in Ruby &lt;a href="http://amcaplan.ninja/blog/2015/01/18/feature-flags-in-ruby-part-i-what-and-why/"&gt;Part I&lt;/a&gt;, &lt;a href="http://amcaplan.ninja/blog/2015/01/18/feature-flags-in-ruby-part-ii-how-and-where/"&gt;Part II&lt;/a&gt;, &lt;a href="http://amcaplan.ninja/blog/2015/01/19/feature-flags-in-ruby-part-iii-who-automate-feature-flipping/"&gt;Part III&lt;/a&gt; и &lt;a href="http://adamniedzielski.github.io/blog/2015/01/31/11-easy-to-fix-ruby-slash-ruby-on-rails-mistakes/"&gt;10 easy-to-fix Ruby / Ruby on Rails mistakes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://dev.housetrip.com/2014/01/14/session-store-and-security/"&gt;Session storage and security in Rails&lt;/a&gt; и &lt;a href="http://blog.arkency.com/2015/01/ruby-exceptions-equality/"&gt;Ruby Exceptions Equality&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://devise-async-stretch.onsimplybuilt.com/"&gt;Devise::Async::Stretch&lt;/a&gt; и &lt;a href="https://github.com/gramos/panthro"&gt;Panthro - the RubyGems Proxy Cache&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/allcentury/classy_json"&gt;ClassyJSON - dynamically create classes based on a JSON payload&lt;/a&gt; и &lt;a href="http://prometheus.io/"&gt;Prometheus - an open-source service monitoring system and time series database&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Релиз &lt;a href="http://coffeescript.org/#changelog"&gt;CoffeeScript 1.9&lt;/a&gt; и &lt;a href="https://vivaldi.com/"&gt;Vivaldi browser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/addyosmani/es6-equivalents-in-es5"&gt;ECMAScript 6 эквиваленты в ES5&lt;/a&gt; и &lt;a href="http://robots.thoughtbot.com/replace-coffeescript-with-es6"&gt;Replace CoffeeScript with ES6&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.smashingmagazine.com/2015/01/22/angularjs-internals-in-depth/"&gt;Глубинные особенности AngularJS&lt;/a&gt; и &lt;a href="http://ui.lumapps.com/"&gt;LumX — front-end фреймворк на AngularJS и Google Material Design&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://icecomm.io/"&gt;Icecomm.io - add serverless video chat and data transfer to your site&lt;/a&gt;, &lt;a href="http://tintui.com/"&gt;Tint UI — библиотека трендовых цветов с пипеткой&lt;/a&gt; и &lt;a href="http://wallabyjs.com/"&gt;Wallaby.JS - test runner for JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;React Native &lt;a href="https://www.youtube.com/watch?v=KVZ-P-ZI6W4"&gt;Keynote 1&lt;/a&gt;, &lt;a href="https://www.youtube.com/watch?v=7rDsRXj9-cU"&gt;Keynote 2&lt;/a&gt; и &lt;a href="http://vimeo.com/116807881"&gt;IO.js vs Node.js (video)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 02 Feb 2015 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2015/02/02/podcast-03-04.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/02/02/podcast-03-04.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/91/file/podfm_rwpod_my_3_91.mp3" length="63276517" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/91/file/podfm_rwpod_my_3_91.mp3" fileSize="63276517" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Ruby serialization formats и Sorting an ActiveRecord relation by PostgreSQL hstore value with Arel
+Feature Flags in Ruby Part I, Part II, Part III и 10 easy-to-fix Ruby / Ruby on Rails mistakes
+Session storage and security in Rails и Ruby Exceptions Equality
+Devise::Async::Stretch и Panthro - the RubyGems Proxy Cache
+ClassyJSON - dynamically create classes based on a JSON payload и Prometheus - an open-source service monitoring system and time series database
+
+
+JavaScript
+
+
+Релиз CoffeeScript 1.9 и Vivaldi browser
+ECMAScript 6 эквиваленты в ES5 и Replace CoffeeScript with ES6
+Глубинные особенности AngularJS и LumX — front-end фреймворк на AngularJS и Google Material Design
+Icecomm.io - add serverless video chat and data transfer to your site, Tint UI — библиотека трендовых цветов с пипеткой и Wallaby.JS - test runner for JavaScript
+React Native Keynote 1, Keynote 2 и IO.js vs Node.js (video)
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/03/0304.png"/>
+  <itunes:duration>01:05:48</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>03 выпуск 03 сезона. Encryption on Rails, Symbol GC in Ruby 2.2, Gitcolony, Browserify VS Webpack, Lightning и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -1853,74 +1917,6 @@ DC.js - Dimensional Charting Javascript Library, Steady.js - main goal is to mak
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/02/0220.png"/>
   <itunes:duration>01:02:03</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>19 выпуск 02 сезона. Rspec 2.99.0 и 3.0.0, Git 2.0, Dawn, JsNice, Dependency Injection with CoffeeScript, Card, Traceit.js и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Релизы &lt;a href="http://myronmars.to/n/dev-blog/2014/06/rspec-2-99-0-and-3-0-0-have-been-released"&gt;Rspec 2.99.0 - 3.0.0&lt;/a&gt; и &lt;a href="https://git.kernel.org/cgit/git/git.git/tree/Documentation/RelNotes/2.0.0.txt"&gt;Git 2.0.0&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://robots.thoughtbot.com/how-to-share-a-session-between-sinatra-and-rails"&gt;How to Share a Session Between Sinatra and Rails&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://blog.codeclimate.com/blog/2014/06/05/choose-protocol-buffers/"&gt;5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service&lt;/a&gt; и &lt;a href="http://leopard.in.ua/2013/10/13/binary-serialization-formats/"&gt;Binary serialization formats&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.pandurang-waghulde.com/2014/06/client-side-ssl-certificate.html"&gt;Client side SSL Certificate Authentication with Rails and Nginx&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/interagent/http-api-design"&gt;HTTP API Design Guide&lt;/a&gt; и &lt;a href="https://github.com/PharkMillups/beautiful-docs"&gt;Beautiful Docs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://github.com/dawn/dawn"&gt;Dawn - docker-based PaaS in Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://habrahabr.ru/post/225367/"&gt;30 полезных сервисов для веб-разработчика&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.jsnice.org/"&gt;JsNice - statistical renaming, type inference and deobfuscation&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.sitepoint.com/using-sass-maps/"&gt;Using Sass Maps&lt;/a&gt; и &lt;a href="http://thesassway.com/advanced/inverse-trigonometric-functions-with-sass"&gt;Inverse trigonometric functions with Sass&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://labs.vistarmedia.com/2014/05/22/dependency-injection-with-coffeescript.html"&gt;Dependency Injection with CoffeeScript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.alexkras.com/summary-of-maintainable-javascript/"&gt;Summary of Maintainable JavaScript&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.thepetedesign.com/demos/label_better_demo.html"&gt;jQuery Label Better&lt;/a&gt;, &lt;a href="http://jessepollak.github.io/card/"&gt;Card&lt;/a&gt; и &lt;a href="http://valleybazaar.org/#tracebox"&gt;Traceit.js&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;
-</description>
-  <pubDate>Mon, 09 Jun 2014 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2014/06/09/podcast-02-19.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2014/06/09/podcast-02-19.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/61/file/podfm_rwpod_my_19_61.mp3" length="46646523" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/61/file/podfm_rwpod_my_19_61.mp3" fileSize="46646523" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-Релизы </itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-Релизы Rspec 2.99.0 - 3.0.0 и Git 2.0.0
-How to Share a Session Between Sinatra and Rails
-5 Reasons to Use Protocol Buffers Instead of JSON For Your Next Service и Binary serialization formats
-Client side SSL Certificate Authentication with Rails and Nginx
-HTTP API Design Guide и Beautiful Docs
-Dawn - docker-based PaaS in Ruby
-
-
-JavaScript
-
-
-30 полезных сервисов для веб-разработчика
-JsNice - statistical renaming, type inference and deobfuscation
-Using Sass Maps и Inverse trigonometric functions with Sass
-Dependency Injection with CoffeeScript
-Summary of Maintainable JavaScript
-jQuery Label Better, Card и Traceit.js
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/02/0219.png"/>
-  <itunes:duration>00:48:32</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
