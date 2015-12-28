@@ -30,8 +30,8 @@
     <link rel="icon" type="image/ico" href="/images/favicons/favicon.ico" />
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
-    <link href="/css/application-8c4ad20f.css" rel="stylesheet" type="text/css" media="all" />
-    <script src="/js/application-a2c2e1e2.js" type="text/javascript"></script>
+    <link href="/css/application-9fc123a4.css" rel="stylesheet" media="all" />
+    <script src="/js/application-dd500687.js" async="async"></script>
     <!-- rss -->
     <link href="http://feeds.rwpod.com/rwpod" rel="alternate" title="RWpod - подкаст про мир Ruby и Web технологии" type="application/rss+xml">
     <!-- GA BEGIN -->
