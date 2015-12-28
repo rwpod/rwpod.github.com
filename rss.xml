@@ -107,7 +107,7 @@ Satyr.io - image placeholders with settings, Daterangepicker - date range picker
 &lt;ul&gt;
 &lt;li&gt;&lt;a href="http://angularjs.blogspot.com/2015/12/angular-2-beta.html"&gt;Angular 2 Beta&lt;/a&gt; и &lt;a href="http://v8project.blogspot.com/2015/12/theres-mathrandom-and-then-theres.html"&gt;There&amp;rsquo;s Math.random(), and then there&amp;rsquo;s Math.random()&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href="http://www.raymondcamden.com/2015/12/08/parsing-rss-feeds-in-javascript-options"&gt;Parsing RSS Feeds in JavaScript – Options&lt;/a&gt;, &lt;a href="https://github.com/qgustavor/signed-service-workers"&gt;Signed Service Workers&lt;/a&gt; и &lt;a href="https://www.youtube.com/watch?v=J6wUmQDQBkw"&gt;Benjamin De Cock - Lets move! (video)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://csnw.github.io/d3.compose/"&gt;D3.compose - compose complex, data-driven visualizations from reusable charts and components with d3&lt;/a&gt;, &lt;a href="http://mikaa123.github.io/linear-website/"&gt;Linear - ruler app made with Electron&lt;/a&gt; и &lt;a href="http://sachinchoolur.github.io/angular-trix/"&gt;Angular-trix - a rich wysiwyg text editor directive for angularjs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://csnw.github.io/d3.compose/"&gt;D3.compose - compose complex, data-driven visualizations from reusable charts and components with d3&lt;/a&gt;, &lt;a href="http://mikaa123.github.io/linear-website/"&gt;Linear - ruler app made with Electron&lt;/a&gt; и &lt;a href="http://sachinchoolur.github.io/angular-trix/"&gt;Angular-Trix - a rich wysiwyg text editor directive for angularjs&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;/p&gt;
@@ -140,7 +140,7 @@ JavaScript
 
 Angular 2 Beta и There’s Math.random(), and then there’s Math.random()
 Parsing RSS Feeds in JavaScript – Options, Signed Service Workers и Benjamin De Cock - Lets move! (video)
-D3.compose - compose complex, data-driven visualizations from reusable charts and components with d3, Linear - ruler app made with Electron и Angular-trix - a rich wysiwyg text editor directive for angularjs
+D3.compose - compose complex, data-driven visualizations from reusable charts and components with d3, Linear - ruler app made with Electron и Angular-Trix - a rich wysiwyg text editor directive for angularjs
 
 
 </itunes:summary>
