@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Sun, 27 Dec 2015 00:00:00 +0200</pubDate>
-    <lastBuildDate>Sun, 27 Dec 2015 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 11 Jan 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 Jan 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,68 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>01 выпуск 04 сезона. ROM 1.0.0, Assets For Lotus, Bytecode cache in Ruby 2.3, The Website Obesity Crisis, Searchkit и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://rom-rb.org/blog/2016/01/06/rom-1-0-0-released/"&gt;ROM 1.0.0 Released&lt;/a&gt;, &lt;a href="http://lotusrb.org/blog/2015/12/29/introducing-assets.html"&gt;Introducing Assets For Lotus&lt;/a&gt; и &lt;a href="http://rimuru.lunanet.gr.jp/blog/cruby-bytecode-cache-is-experimentally-released"&gt;Bytecode cache is experimentally released in Ruby 2.3&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/when-code-explodes/stream-comments-with-rails-5-and-actioncable-49176b8797c8"&gt;Stream Comments with Rails 5 and ActionCable&lt;/a&gt;, &lt;a href="https://rossta.net/blog/using-rspec-metadata.html"&gt;Using RSpec Metadata&lt;/a&gt; и &lt;a href="http://eftimov.net/refactoring-smelly-parameters-lists/"&gt;Refactoring in Ruby: Smelly Parameters Lists&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/little-programming-joys/how-to-compare-version-strings-in-ruby-ced0916a4b71"&gt;How to compare version strings in Ruby&lt;/a&gt;, &lt;a href="https://medium.com/little-programming-joys/the-filter-clause-in-postgres-9-4-3dd327d3c852"&gt;The FILTER clause in Postgres 9.4&lt;/a&gt; и &lt;a href="https://medium.com/little-programming-joys/ordering-by-nulls-on-postgres-57314b8285ca"&gt;Ordering by nulls on Postgres&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://masa331.github.io/2016/01/06/roda-etag-caching-gotcha.html"&gt;ETag caching gotcha in Roda + Nginx&lt;/a&gt;, &lt;a href="http://redningja.com/dev/rubys-object-tap-a-better-use/"&gt;Ruby&amp;rsquo;s Object#tap: a better use&lt;/a&gt; и &lt;a href="http://rubyfu.net/"&gt;Rubyfu - Ruby for hacker book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://www.sitepoint.com/javascript-2015-review/"&gt;JavaScript: 2015 in Review&lt;/a&gt;, &lt;a href="https://medium.com/javascript-scene/10-most-recommended-javascript-scene-articles-of-2015-292be655d6cc"&gt;10 Most Recommended JavaScript Scene Articles of 2015&lt;/a&gt;, &lt;a href="http://www.2ality.com/2016/01/web-technologies-2015.html"&gt;Looking back on 2015: six exciting web technologies&lt;/a&gt; и &lt;a href="https://medium.com/@cramforce/2016-will-be-the-year-of-concurrency-on-the-web-c39b1e99b30f"&gt;2016 will be the year of concurrency on the web&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://idlewords.com/talks/website_obesity.htm"&gt;The Website Obesity Crisis&lt;/a&gt;, &lt;a href="https://medium.com/ben-and-dion/web-components-are-dead-3988b31c380a"&gt;Web Components Are Dead?&lt;/a&gt; и &lt;a href="https://addyosmani.com/blog/getting-started-with-progressive-web-apps/"&gt;Getting started with Progressive Web Apps&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/mawie81/electron-window-state"&gt;Electron-window-state - a library to store and restore window sizes and positions for your Electron app&lt;/a&gt;, &lt;a href="http://searchkit.co/"&gt;Searchkit is a suite of React components that communicate directly with your Elasticsearch cluster&lt;/a&gt; и &lt;a href="http://djfarrelly.github.io/MailDev/"&gt;MailDev - SMTP Server + Web Interface for viewing and testing emails during development&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://schteppe.github.io/cannon.js/"&gt;Cannon.js - a lightweight 3D physics engine written in JavaScript&lt;/a&gt;, &lt;a href="http://community.algolia.com/docsearch/"&gt;DocSearch - the easiest way to add search to your documentation&lt;/a&gt; и &lt;a href="http://ellisonleao.github.io/sharer.js/"&gt;Sharer.js - create custom social share elements on DOM objects&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 11 Jan 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/01/11/podcast-04-01.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/01/11/podcast-04-01.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/137/file/podfm_rwpod_my_1_137.mp3" length="59382382" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/137/file/podfm_rwpod_my_1_137.mp3" fileSize="59382382" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+ROM 1.0.0 Released, Introducing Assets For Lotus...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+ROM 1.0.0 Released, Introducing Assets For Lotus и Bytecode cache is experimentally released in Ruby 2.3
+Stream Comments with Rails 5 and ActionCable, Using RSpec Metadata и Refactoring in Ruby: Smelly Parameters Lists
+How to compare version strings in Ruby, The FILTER clause in Postgres 9.4 и Ordering by nulls on Postgres
+ETag caching gotcha in Roda + Nginx, Ruby’s Object#tap: a better use и Rubyfu - Ruby for hacker book
+
+
+JavaScript
+
+
+JavaScript: 2015 in Review, 10 Most Recommended JavaScript Scene Articles of 2015, Looking back on 2015: six exciting web technologies и 2016 will be the year of concurrency on the web
+The Website Obesity Crisis, Web Components Are Dead? и Getting started with Progressive Web Apps
+Electron-window-state - a library to store and restore window sizes and positions for your Electron app, Searchkit is a suite of React components that communicate directly with your Elasticsearch cluster и MailDev - SMTP Server + Web Interface for viewing and testing emails during development
+Cannon.js - a lightweight 3D physics engine written in JavaScript, DocSearch - the easiest way to add search to your documentation и Sharer.js - create custom social share elements on DOM objects
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0401.png"/>
+  <itunes:duration>01:01:45</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>48 выпуск 03 сезона. Ruby 2.3.0, Rails 5 Attributes, Compiling to WebAssembly, Javascript Fatigue, Satyr.io и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2496,80 +2558,6 @@ Angular Basics (free book) и Your First Meteor Application (free book)
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0311.png"/>
   <itunes:duration>00:52:14</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>10 выпуск 03 сезона. InfraRuby 3.6, Numeric Bases and Defining Your Own, Regexy, Churn, ArchieML, LocalFont, CSS Sans и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://infraruby.com/blog/infraruby-3-6-released"&gt;InfraRuby 3.6 - a statically-typed Ruby which compiles into Java Bytecode&lt;/a&gt;, &lt;a href="https://blog.phusion.nl/2015/03/12/passenger-5-0-4/"&gt;Phusion Passenger 5.0.4&lt;/a&gt; и &lt;a href="http://coding-is-art.com/rails-4-performance-tips/"&gt;Rails 4 Performance Tips&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://6ftdan.com/allyourdev/2015/03/06/numeric-bases-and-defining-your-own/"&gt;Numeric Bases and Defining Your Own&lt;/a&gt; и &lt;a href="http://teotti.com/ignore-query-strings-in-ruby-on-rails-caching-with-rack-cache/"&gt;Ignore query strings in Ruby on Rails caching with rack-cache&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://speakerdeck.com/a_matsuda/the-recipe-for-the-worlds-largest-rails-monolith"&gt;The Recipe for the World&amp;rsquo;s Largest Rails Monolith&lt;/a&gt; и &lt;a href="http://www.openmindedinnovations.com/blogs/3-ways-to-integrate-ruby-on-rails-react-flux"&gt;3 ways to integrate Ruby on Rails + React + Flux&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.leighhalliday.com/creating-ruby-dsl"&gt;Creating a Ruby DSL&lt;/a&gt; и &lt;a href="https://github.com/vladimir-tikhonov/regexy"&gt;Regexy - collection of useful regular expressions for ruby and rails&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://facebook.github.io/react/blog/2015/03/10/react-v0.13.html"&gt;React v0.13&lt;/a&gt; и &lt;a href="https://www.pandastrike.com/posts/20150311-react-bad-idea"&gt;React Is A Terrible Idea&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://pothibo.com/2015/3/churn"&gt;Churn&lt;/a&gt; и &lt;a href="http://pouchdb.com/2015/03/05/taming-the-async-beast-with-es7.html"&gt;Taming the asynchronous beast with ES7&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://archieml.org/"&gt;ArchieML - a structured text format optimized for human writability&lt;/a&gt;, &lt;a href="http://jaicab.com/localFont/"&gt;LocalFont - Implement localStorage web font caching in seconds&lt;/a&gt; и &lt;a href="http://yusugomori.com/projects/css-sans/fonts"&gt;CSS Sans - a font made only with CSS&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://philipwalton.com/articles/side-effects-in-css/"&gt;Side Effects in CSS&lt;/a&gt; и &lt;a href="http://karmazzin.gitbooks.io/eloquentjavascript_ru/"&gt;Выразительный Javascript (перевод на русский)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;Обсуждение&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://leopard.in.ua/presentations/smartme_postgresql_2015/index.html"&gt;Слайды с мастер-класса &amp;ldquo;PostgreSQL - настраиваем и масштабируем&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-</description>
-  <pubDate>Tue, 17 Mar 2015 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2015/03/17/podcast-03-10.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/03/17/podcast-03-10.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/97/file/podfm_rwpod_my_10_97.mp3" length="61699681" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/97/file/podfm_rwpod_my_10_97.mp3" fileSize="61699681" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-InfraRuby 3.6 - a statically-typed Ruby which co...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-InfraRuby 3.6 - a statically-typed Ruby which compiles into Java Bytecode, Phusion Passenger 5.0.4 и Rails 4 Performance Tips
-Numeric Bases and Defining Your Own и Ignore query strings in Ruby on Rails caching with rack-cache
-The Recipe for the World’s Largest Rails Monolith и 3 ways to integrate Ruby on Rails + React + Flux
-Creating a Ruby DSL и Regexy - collection of useful regular expressions for ruby and rails
-
-
-JavaScript
-
-
-React v0.13 и React Is A Terrible Idea
-Churn и Taming the asynchronous beast with ES7
-ArchieML - a structured text format optimized for human writability, LocalFont - Implement localStorage web font caching in seconds и CSS Sans - a font made only with CSS
-Side Effects in CSS и Выразительный Javascript (перевод на русский)
-
-
-Обсуждение
-
-
-Слайды с мастер-класса “PostgreSQL - настраиваем и масштабируем”
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0310.png"/>
-  <itunes:duration>01:04:10</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
