@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 11 Jan 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 11 Jan 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Tue, 19 Jan 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 19 Jan 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,64 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>02 выпуск 04 сезона. Future of Rails, Scenic, 10th Anniversary of jQuery, ChakraCore, React.run и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://thepracticaldev.com/dhh-on-the-future-of-rails"&gt;David Heinemeier Hansson on the Future of Rails&lt;/a&gt; и &lt;a href="http://tenderlovemaking.com/2015/01/23/my-experience-with-minitest-and-rspec.html"&gt;My experience with Minitest and RSpec&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://robots.thoughtbot.com/announcing-scenic--versioned-database-views-for-rails"&gt;Announcing Scenic - Versioned Database Views for Rails&lt;/a&gt; и &lt;a href="https://github.com/customink/secondbase"&gt;Seamless second database integration for Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://jakeyesbeck.com/2016/01/03/passages/"&gt;Passages Rails Engine&lt;/a&gt; и &lt;a href="https://medium.com/@vincedevendra/transforming-hashes-which-way-is-best-8f2122577984"&gt;Transforming Hashes — Which Way is Best?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://ejohn.org/blog/10th-anniversary-of-jquery/"&gt;10th Anniversary of jQuery&lt;/a&gt;, &lt;a href="http://blog.jquery.com/2016/01/08/jquery-2-2-and-1-12-released/"&gt;jQuery 2.2 and 1.12 Released&lt;/a&gt;, &lt;a href="http://blog.jquery.com/2016/01/14/jquery-3-0-beta-released/"&gt;jQuery 3.0 Beta&lt;/a&gt;, &lt;a href="https://github.com/lodash/lodash/releases/tag/4.0.0/"&gt;Lodash v4.0.0&lt;/a&gt; и &lt;a href="https://github.com/Microsoft/ChakraCore"&gt;ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://medium.com/@stilkov/why-i-hate-your-single-page-app-f08bb4ff9134"&gt;Why I hate your Single Page App&lt;/a&gt; и &lt;a href="https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-when-const-isnt-constant"&gt;Constant Variables in JavaScript, or: When &amp;ldquo;const&amp;rdquo; Isn&amp;rsquo;t Constant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lucasmreis.github.io/blog/centralized-state-design-patterns/"&gt;Centralized State Design Patterns&lt;/a&gt; и &lt;a href="http://www.react.run/VJizwkL_x/1"&gt;React.run - The fastest way to create React components, right in the browser&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Tue, 19 Jan 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/01/19/podcast-04-02.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/01/19/podcast-04-02.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/138/file/podfm_rwpod_my_2_138.mp3" length="40076542" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/138/file/podfm_rwpod_my_2_138.mp3" fileSize="40076542" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+David Heinemeier Hansson on the Future of Rails ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+David Heinemeier Hansson on the Future of Rails и My experience with Minitest and RSpec
+Announcing Scenic - Versioned Database Views for Rails и Seamless second database integration for Rails
+Passages Rails Engine и Transforming Hashes — Which Way is Best?
+
+
+JavaScript
+
+
+10th Anniversary of jQuery, jQuery 2.2 and 1.12 Released, jQuery 3.0 Beta, Lodash v4.0.0 и ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge
+Why I hate your Single Page App и Constant Variables in JavaScript, or: When “const” Isn’t Constant
+Centralized State Design Patterns и React.run - The fastest way to create React components, right in the browser
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0402.png"/>
+  <itunes:duration>00:41:38</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>01 выпуск 04 сезона. ROM 1.0.0, Assets For Lotus, Bytecode cache in Ruby 2.3, The Website Obesity Crisis, Searchkit и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2492,72 +2550,6 @@ React Native &amp;amp; Relay: Bringing Modern Web Techniques to Mobile (video) �
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0312.png"/>
   <itunes:duration>01:16:41</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>11 выпуск 03 сезона. Ruby Together, Simple Neural Network, Regression Driven Tests, Textures.js, MuJS, Hamsa и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Релизы &lt;a href="http://weblog.rubyonrails.org/2015/3/19/Rails-4-2-1-and-4-1-10-have-been-released/"&gt;Rails: 4.2.1, 4.1.10&lt;/a&gt; и &lt;a href="https://rubytogether.org/"&gt;Ruby Together&lt;/a&gt; (&lt;a href="http://habrahabr.ru/post/253703/"&gt;подробнее на русском&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.rubylab.io/2015/03/18/simple-neural-network-implenentation-in-ruby/"&gt;Simple Neural Network implementation in Ruby via the nmatrix gem&lt;/a&gt; и &lt;a href="http://blog.diatomenterprises.com/rails-and-neo4j/"&gt;Using Neo4j with Ruby on Rails&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.monkeyandcrow.com/blog/reading_rails_time_travel/"&gt;Reading Rails - Time Travel&lt;/a&gt; и &lt;a href="http://www.bignerdranch.com/blog/no-date-today-its-datetime/"&gt;No Date.today? It&amp;rsquo;s DateTime!&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://jdurand.com/blog/2015/03/02/regression-driven-tests/"&gt;Regression Driven Tests&lt;/a&gt; и &lt;a href="https://netguru.co/blog/why-feature-testing-important"&gt;Why Feature Testing is Important&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://flushentitypacket.github.io/ruby/2015/02/21/ruby-timeout-how-does-it-even-work.html"&gt;Ruby Timeout, how does it even work?&lt;/a&gt; и &lt;a href="http://blog.arkency.com/2015/03/tracking-down-unused-templates/"&gt;Tracking down unused templates&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="https://developer.chrome.com/apps/chrome_apps_on_mobile"&gt;Run Chrome Apps on Mobile Using Apache Cordova&lt;/a&gt; и &lt;a href="http://gethamsa.com/"&gt;Hamsa - a dead simple, data-binding and observable model&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://mujs.com/"&gt;MuJS is a lightweight Javascript interpreter designed for embedding in other software to extend them with scripting capabilities&lt;/a&gt; и &lt;a href="http://danielrapp.github.io/doppler/"&gt;Motion sensing using the doppler effect&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.designyourway.net/blog/resources/svg-tools-and-resources-you-might-want-to-see/"&gt;SVG Tools And Resources You Might Want To See&lt;/a&gt; и &lt;a href="http://riccardoscalco.github.io/textures/"&gt;Textures.js - SVG patterns for Data Visualization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://anicollection.github.io/"&gt;AniCollection - коллекция CSS-анимаций&lt;/a&gt; и &lt;a href="https://www.youtube.com/watch?v=avwDj3KRuLc"&gt;We Will All Be Game Programmers (video)&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.angularjsbook.com/"&gt;Angular Basics (free book)&lt;/a&gt; и &lt;a href="http://meteortips.com/"&gt;Your First Meteor Application (free book)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-</description>
-  <pubDate>Mon, 23 Mar 2015 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2015/03/23/podcast-03-11.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/03/23/podcast-03-11.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/98/file/podfm_rwpod_my_11_98.mp3" length="50247875" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/98/file/podfm_rwpod_my_11_98.mp3" fileSize="50247875" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-Релизы Rails: 4.2.1, 4.1.10 и Ruby Together (под...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-Релизы Rails: 4.2.1, 4.1.10 и Ruby Together (подробнее на русском)
-Simple Neural Network implementation in Ruby via the nmatrix gem и Using Neo4j with Ruby on Rails
-Reading Rails - Time Travel и No Date.today? It’s DateTime!
-Regression Driven Tests и Why Feature Testing is Important
-Ruby Timeout, how does it even work? и Tracking down unused templates
-
-
-JavaScript
-
-
-Run Chrome Apps on Mobile Using Apache Cordova и Hamsa - a dead simple, data-binding and observable model
-MuJS is a lightweight Javascript interpreter designed for embedding in other software to extend them with scripting capabilities и Motion sensing using the doppler effect
-SVG Tools And Resources You Might Want To See и Textures.js - SVG patterns for Data Visualization
-AniCollection - коллекция CSS-анимаций и We Will All Be Game Programmers (video)
-Angular Basics (free book) и Your First Meteor Application (free book)
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0311.png"/>
-  <itunes:duration>00:52:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
