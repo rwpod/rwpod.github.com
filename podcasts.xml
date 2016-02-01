@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 25 Jan 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 01 Feb 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Feb 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,68 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>04 выпуск 04 сезона. Rails 5.0.0.beta1.1, V8 Release 4.9, Increment_with_sql, Babel Handbook, Voxel.css и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://weblog.rubyonrails.org/2016/1/25/Rails-5-0-0-beta1-1-4-2-5-1-4-1-14-1-3-2-22-1-and-rails-html-sanitizer-1-0-3-have-been-released/"&gt;Rails 5.0.0.beta1.1, 4.2.5.1, 4.1.14.1, 3.2.22.1, and rails-html-sanitizer 1.0.3 have been released!&lt;/a&gt;, &lt;a href="https://nvisium.com/blog/2016/01/26/rails-dynamic-render-to-rce-cve-2016-0752/"&gt;Rails Dynamic Render to RCE (CVE-2016-0752)&lt;/a&gt; и &lt;a href="http://blog.bigbinary.com/2016/01/25/caching-in-development-environment-in-rails5.html"&gt;Caching in development environment in Rails 5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://thepracticaldev.com/chris-seaton-making-ruby-fast"&gt;Chris Seaton on Massively Improving Ruby Performance with JRuby+Truffle&lt;/a&gt; и &lt;a href="https://semaphoreci.com/community/tutorials/stubbing-external-services-in-rails"&gt;Stubbing External Services in Rails&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ilyabylich.svbtle.com/ruby-marshalling-from-a-to-z"&gt;Ruby Marshalling from A to Z&lt;/a&gt; и &lt;a href="http://jakeyesbeck.com/2016/01/24/ruby-private-class-methods/"&gt;Ruby Private Class Methods&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://nandovieira.com/replacing-pingdom-with-ruby-and-heroku"&gt;Replacing Pingdom with Ruby and Heroku&lt;/a&gt; и &lt;a href="https://github.com/mrkamel/increment_with_sql"&gt;Increment_with_sql - provides increment_with_sql! and decrement_with_sql! for ActiveRecord models&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="http://v8project.blogspot.com.au/2016/01/v8-release-49.html"&gt;V8 Release 4.9&lt;/a&gt;, &lt;a href="http://apmblog.dynatrace.com/2015/11/04/understanding-garbage-collection-and-hunting-memory-leaks-in-node-js/"&gt;Understanding Garbage Collection and hunting Memory Leaks in Node.js&lt;/a&gt; и &lt;a href="https://github.com/relatedcode/ParseAlternatives"&gt;Parse alternatives&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ponyfoo.com/articles/controversial-state-of-javascript-tooling"&gt;The Controversial State of JavaScript Tooling&lt;/a&gt; и &lt;a href="https://medium.com/@morgler/angular-2-is-ugly-ce7066fe4d8b"&gt;Angular 2 is ugly!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://facebook.github.io/react/blog/2016/01/12/discontinuing-ie8-support.html"&gt;Discontinuing IE 8 Support in React DOM&lt;/a&gt;, &lt;a href="https://blog.searchkit.co/what-we-have-learnt-from-searchkit-testing-7cb7c951db7c"&gt;What we learnt from testing Searchkit’s React Components&lt;/a&gt; и &lt;a href="https://github.com/thejameskyle/babel-handbook"&gt;Babel Handbook&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/sadcitizen/awesome-marionette"&gt;Awesome Marionette.js&lt;/a&gt;, &lt;a href="https://yabwe.github.io/medium-editor/"&gt;MediumEditor - a lightweight inline text editor inspired by the editor from the Medium blogging platform&lt;/a&gt;, &lt;a href="http://kushagragour.in/lab/hint/"&gt;Hint.css - a pure CSS tooltip library for your lovely websites&lt;/a&gt; и &lt;a href="http://www.voxelcss.com/"&gt;Voxel.css makes 3D rendering easy&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+</description>
+  <pubDate>Mon, 01 Feb 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/02/01/podcast-04-04.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/02/01/podcast-04-04.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/140/file/podfm_rwpod_my_4_140.mp3" length="35437069" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/140/file/podfm_rwpod_my_4_140.mp3" fileSize="35437069" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Rails 5.0.0.beta1.1, 4.2.5.1, 4.1.14.1, 3.2.22.1...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+Rails 5.0.0.beta1.1, 4.2.5.1, 4.1.14.1, 3.2.22.1, and rails-html-sanitizer 1.0.3 have been released!, Rails Dynamic Render to RCE (CVE-2016-0752) и Caching in development environment in Rails 5
+Chris Seaton on Massively Improving Ruby Performance with JRuby+Truffle и Stubbing External Services in Rails
+Ruby Marshalling from A to Z и Ruby Private Class Methods
+Replacing Pingdom with Ruby and Heroku и Increment_with_sql - provides increment_with_sql! and decrement_with_sql! for ActiveRecord models
+
+
+JavaScript
+
+
+V8 Release 4.9, Understanding Garbage Collection and hunting Memory Leaks in Node.js и Parse alternatives
+The Controversial State of JavaScript Tooling и Angular 2 is ugly!
+Discontinuing IE 8 Support in React DOM, What we learnt from testing Searchkit’s React Components и Babel Handbook
+Awesome Marionette.js, MediumEditor - a lightweight inline text editor inspired by the editor from the Medium blogging platform, Hint.css - a pure CSS tooltip library for your lovely websites и Voxel.css makes 3D rendering easy
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0404.png"/>
+  <itunes:duration>00:36:48</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>03 выпуск 04 сезона. New Rails identity, Thread Safety With Ruby, DeltaDB, Pressure.js, Feature.js и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2483,68 +2545,6 @@ Let Links Be Links и Fixing the ‘Blank Text’ Problem
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0314.png"/>
   <itunes:duration>01:11:15</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>13 выпуск 03 сезона. Crystal, Redis 3, Debugging memory leaks in Ruby, Aesthetic Sass, Primer, JointJS и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://crystal-lang.org/"&gt;Crystal - Ruby-Inspired Compiled Language&lt;/a&gt; и &lt;a href="https://github.com/antirez/redis/blob/3.0/00-RELEASENOTES"&gt;Redis 3.0.0&lt;/a&gt; (&lt;a href="http://redis.io/topics/cluster-tutorial"&gt;Redis cluster tutorial&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://samsaffron.com/archive/2015/03/31/debugging-memory-leaks-in-ruby"&gt;Debugging memory leaks in Ruby&lt;/a&gt;, &lt;a href="http://climber2002.github.io/blog/2015/03/29/customize-devise-to-support-subdomain-authentication/"&gt;Customize Devise to Support Multitenancy Authentication&lt;/a&gt; и &lt;a href="http://bundler.io/blog/2015/03/20/moving-bins-to-exe.html"&gt;Bundler template moves bins to exe&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.blackbytes.info/2015/03/caesar-cipher-in-ruby/"&gt;How to write your own Caesar cipher encoder&lt;/a&gt; и &lt;a href="https://robots.thoughtbot.com/functional-ciphers-in-ruby"&gt;Functional Ciphers in Ruby&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://www.gopherjs.org/"&gt;GopherJS - build client side apps with the language you already trust on the backend&lt;/a&gt;, &lt;a href="http://pollenpub.com/"&gt;Pollen - The book is a program&lt;/a&gt; и &lt;a href="https://semaphoreci.com/community/tutorials/setting-up-the-bdd-stack-on-a-new-rails-4-application"&gt;Setting Up the BDD Stack on a New Rails 4 Application&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href="http://moduscreate.com/react_native_custom_components_ios/"&gt;Building Custom React Native Components From Scratch&lt;/a&gt; и &lt;a href="https://scotch.io/tutorials/aesthetic-sass-1-architecture-and-style-organization"&gt;Aesthetic Sass 1: Architecture and Style Organization&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="https://medium.com/@jeffwhelpley/use-cases-for-server-side-rendering-2fc6389b3f7d"&gt;Use Cases for Server Side Rendering&lt;/a&gt; и &lt;a href="http://keithclark.co.uk/articles/loading-css-without-blocking-render/"&gt;Loading CSS without blocking render&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://primercss.io/"&gt;Primer - the CSS toolkit and guidelines that power GitHub&lt;/a&gt; и &lt;a href="http://jointjs.com/"&gt;JointJS - a modern HTML 5 JavaScript library for visualization and interaction with diagrams and graphs&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href="http://semver.npmjs.com/"&gt;SemVer Checker&lt;/a&gt; и &lt;a href="http://www.svidget.com/"&gt;Svidget - Rapidly build and deploy SVG Widgets&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-</description>
-  <pubDate>Mon, 06 Apr 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/04/06/podcast-03-13.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/04/06/podcast-03-13.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/100/file/podfm_rwpod_my_13_100.mp3" length="61868359" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/100/file/podfm_rwpod_my_13_100.mp3" fileSize="61868359" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-Crystal - Ruby-Inspired Compiled Language и Redi...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-Crystal - Ruby-Inspired Compiled Language и Redis 3.0.0 (Redis cluster tutorial)
-Debugging memory leaks in Ruby, Customize Devise to Support Multitenancy Authentication и Bundler template moves bins to exe
-How to write your own Caesar cipher encoder и Functional Ciphers in Ruby
-GopherJS - build client side apps with the language you already trust on the backend, Pollen - The book is a program и Setting Up the BDD Stack on a New Rails 4 Application
-
-
-JavaScript
-
-
-Building Custom React Native Components From Scratch и Aesthetic Sass 1: Architecture and Style Organization
-Use Cases for Server Side Rendering и Loading CSS without blocking render
-Primer - the CSS toolkit and guidelines that power GitHub и JointJS - a modern HTML 5 JavaScript library for visualization and interaction with diagrams and graphs
-SemVer Checker и Svidget - Rapidly build and deploy SVG Widgets
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0313.png"/>
-  <itunes:duration>01:04:20</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
