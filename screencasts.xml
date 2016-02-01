@@ -35,13 +35,14 @@
   <title>Работаем с multi_json в Ruby</title>
   <description>&lt;p&gt;Добрый день.&lt;/p&gt;
 
-&lt;p&gt;Новый скринкаст &amp;ldquo;Работаем с multi_json в Ruby&amp;rdquo;. multi_json библиотека предоставляет единый API для самый популярных JSON парсеров в Ruby. В скринкасте показано небольшое введение в использование данной библиотеки.&lt;/p&gt;
+&lt;p&gt;Новый скринкаст “Работаем с multi_json в Ruby”. multi_json библиотека предоставляет единый API для самый популярных JSON парсеров в Ruby. В скринкасте показано небольшое введение в использование данной библиотеки.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;
 
 &lt;div class="flex-video"&gt;
-  &lt;iframe width="640" height="360" src="http://www.youtube.com/embed/4a2p00joD44" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+  &lt;iframe width="640" height="360" src="http://www.youtube.com/embed/4a2p00joD44" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
 &lt;/div&gt;
+
 </description>
   <pubDate>Wed, 23 Jan 2013 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2013/01/23/working-with-multi-json.html</link>
