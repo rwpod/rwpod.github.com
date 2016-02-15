@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 08 Feb 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 08 Feb 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 15 Feb 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 15 Feb 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,65 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>06 выпуск 04 сезона. Kill Your Dependencies, Is Ruby 2.3 Faster?, Fundamentals Then Frameworks, MJML, AMP и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://blog.arkency.com/2016/02/where-and-why-im-still-using-rails/"&gt;Where and why I’m still using Rails&lt;/a&gt; и &lt;a href="http://dev.mikamai.com/post/139103991189/why-do-you-need-arel"&gt;Why do you need Arel?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.mikeperham.com/2016/02/09/kill-your-dependencies/"&gt;Kill Your Dependencies&lt;/a&gt; и &lt;a href="http://cookieshq.co.uk/posts/common-problems-when-starting-with-docker-and-rails/"&gt;Common problems when starting with Docker and Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://blog.bigbinary.com/2016/02/09/configuring-bundler-using-bundle-config.html"&gt;Configuring bundler using bundle config&lt;/a&gt;, &lt;a href="https://www.leighhalliday.com/building-cli-ruby-with-gli"&gt;Building a CLI in Ruby with GLI&lt;/a&gt; и &lt;a href="http://ruby-performance-book.com/blog/2016/02/is-ruby-2-3-faster-rails-erb-template-rendering-performance.html"&gt;Is Ruby 2.3 Faster? Rails ERB Template Rendering Performance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://gruntjs.com/blog/2016-02-11-grunt-1.0.0-rc1-released"&gt;Grunt 1.0.0 rc1 released&lt;/a&gt;, &lt;a href="http://www.2ality.com/2016/02/js-fatigue-fatigue.html"&gt;JavaScript fatigue fatigue&lt;/a&gt;, &lt;a href="https://medium.com/@sharifsbeat/fundamentals-then-frameworks-c35697d291e8"&gt;Fundamentals Then Frameworks&lt;/a&gt; и &lt;a href="https://medium.com/@richardanaya/learn-ideas-not-frameworks-how-to-avoid-javascript-burnout-1e75a28d2082"&gt;Learn Ideas Not Frameworks: How to avoid Javascript Fatigue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://www.ag-grid.com/understanding-packaging-for-javascript-typescript-commonjs-and-everything-else/"&gt;Understand Packaging for Javascript, TypesScript, CommonJS and Everything Else&lt;/a&gt;,  &lt;a href="https://blog.newrelic.com/2016/02/09/http2-best-practices-web-performance/"&gt;How HTTP/2 Is Changing Web Performance Best Practices&lt;/a&gt; и &lt;a href="http://walkercoderanger.com/blog/2014/02/javascript-minefield/"&gt;The JavaScript Minefield&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://mjml.io/"&gt;MJML: the only framework that makes responsive-email easy&lt;/a&gt;, &lt;a href="https://github.com/mgechev/angular2-style-guide"&gt;Angular 2 Style Guide&lt;/a&gt; и &lt;a href="https://www.ampproject.org/"&gt;AMP (Accelerated Mobile Pages)&lt;/a&gt; (&lt;a href="https://www.youtube.com/watch?v=lBTCB7yLs8Y"&gt;video&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>Mon, 15 Feb 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/02/15/podcast-04-06.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/02/15/podcast-04-06.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/142/file/podfm_rwpod_my_6_142.mp3" length="27971690" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/142/file/podfm_rwpod_my_6_142.mp3" fileSize="27971690" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Where and why I’m still using Rails и Why do y...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Where and why I’m still using Rails и Why do you need Arel?
+  Kill Your Dependencies и Common problems when starting with Docker and Rails
+  Configuring bundler using bundle config, Building a CLI in Ruby with GLI и Is Ruby 2.3 Faster? Rails ERB Template Rendering Performance
+
+
+JavaScript
+
+
+  Grunt 1.0.0 rc1 released, JavaScript fatigue fatigue, Fundamentals Then Frameworks и Learn Ideas Not Frameworks: How to avoid Javascript Fatigue
+  Understand Packaging for Javascript, TypesScript, CommonJS and Everything Else,  How HTTP/2 Is Changing Web Performance Best Practices и The JavaScript Minefield
+  MJML: the only framework that makes responsive-email easy, Angular 2 Style Guide и AMP (Accelerated Mobile Pages) (video)
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0406.png"/>
+  <itunes:duration>00:29:02</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>05 выпуск 04 сезона. Rails 5.0.0.beta2, Angular 1.5.0, Scientist, Abbrev, ES2015 Proxies, jQuery.sheet и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2517,70 +2576,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0316.png"/>
   <itunes:duration>01:02:38</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>15 выпуск 03 сезона. Ruby 2.2.2, RethinkDB 2.0, Ensnare, Amok, Image Formats: the nerdy parts, You Don't Know JS и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://www.ruby-lang.org/en/news/2015/04/13/ruby-2-2-2-released/"&gt;Ruby 2.2.2&lt;/a&gt;, &lt;a href="http://www.flyoverworks.com/posts/storytime-2-0-a-combined-rails-cms-blog-admin-engine"&gt;Storytime 2.0&lt;/a&gt; и &lt;a href="http://rethinkdb.com/blog/2.0-release/"&gt;RethinkDB 2.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://brewhouse.io/blog/2015/04/13/elegant-tests-with-truth-tables.html"&gt;Elegant tests with Truth Tables&lt;/a&gt; и &lt;a href="http://rubyfunbox.com/"&gt;Ruby Fun Box - a handful of basic ruby problems with solutions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://ilyabylich.svbtle.com/redis-cluster-quick-overview"&gt;Redis cluster. Quick overview&lt;/a&gt; и &lt;a href="http://kubernetes.io/"&gt;Kubernetes - manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://solnic.github.io/transproc/"&gt;Transproc - transform Ruby objects in functional style&lt;/a&gt;, &lt;a href="https://github.com/ahoernecke/ensnare"&gt;Ensnare - rubygem for Ruby on Rails which allow configuring a basic malicious behavior detection and response scheme&lt;/a&gt; и &lt;a href="https://github.com/stompesi/gemput"&gt;Gemput - freezing Gemfile&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://www.npmjs.com/private-modules"&gt;Npm Private Modules&lt;/a&gt;,  &lt;a href="http://www.rapydscript.com/"&gt;RapydScript - pythonic JavaScript that doesn’t suck&lt;/a&gt; и &lt;a href="http://amokjs.com/"&gt;Amok - No Reload Live Editing for JavaScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html"&gt;Change And Its Detection In JavaScript Frameworks&lt;/a&gt; и &lt;a href="http://ericleads.com/2013/04/youre-optimizing-the-wrong-things/"&gt;You’re Optimizing The Wrong Things&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://speakerdeck.com/lara/image-formats-the-nerdy-parts"&gt;Image Formats: the nerdy parts&lt;/a&gt; и &lt;a href="http://highlandjs.org/"&gt;Highland.js - the high-level streams library for Node.js and the browser&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://github.com/getify/You-Dont-Know-JS"&gt;You Don’t Know JS (book series)&lt;/a&gt; и &lt;a href="http://learnjsdata.com/"&gt;Learn JS Data: Data manipulation, munging, and processing in JavaScript&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-</description>
-  <pubDate>Tue, 21 Apr 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/04/21/podcast-03-15.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/04/21/podcast-03-15.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/102/file/podfm_rwpod_my_15_102.mp3" length="51101794" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/102/file/podfm_rwpod_my_15_102.mp3" fileSize="51101794" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.2.2, Storytime 2.0 и RethinkDB 2.0
-  El...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.2.2, Storytime 2.0 и RethinkDB 2.0
-  Elegant tests with Truth Tables и Ruby Fun Box - a handful of basic ruby problems with solutions
-  Redis cluster. Quick overview и Kubernetes - manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops
-  Transproc - transform Ruby objects in functional style, Ensnare - rubygem for Ruby on Rails which allow configuring a basic malicious behavior detection and response scheme и Gemput - freezing Gemfile
-
-
-JavaScript
-
-
-  Npm Private Modules,  RapydScript - pythonic JavaScript that doesn’t suck и Amok - No Reload Live Editing for JavaScript
-  Change And Its Detection In JavaScript Frameworks и You’re Optimizing The Wrong Things
-  Image Formats: the nerdy parts и Highland.js - the high-level streams library for Node.js and the browser
-  You Don’t Know JS (book series) и Learn JS Data: Data manipulation, munging, and processing in JavaScript
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0315.png"/>
-  <itunes:duration>00:53:07</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
