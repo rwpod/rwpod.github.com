@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 15 Feb 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 22 Feb 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,65 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>07 выпуск 04 сезона. Active Support Improvements in Rails 5, New Versioning Scheme, Bricks.js, Sticky Elements и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.zmwolski.com/3-how-to-speed-up-ruby-on-rails-updates-using-postgresql"&gt;How to speed up Ruby on Rails updates using PostgreSQL&lt;/a&gt;, &lt;a href="http://blog.bigbinary.com/2016/02/17/active-support-improvements-in-Rails-5.html"&gt;Active Support Improvements in Rails 5&lt;/a&gt; и &lt;a href="http://blog.bigbinary.com/2016/02/13/rails-5-does-not-halt-callback-chain-when-false-is-returned.html"&gt;Rails 5 does not halt callback chain when false is returned&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://blog.jbr.me/a-brief-tour-of-nokogiri-decorators/"&gt;A brief tour of nokogiri decorators&lt;/a&gt; и &lt;a href="http://aserafin.pl/2016/02/19/side-effects-of-using-first-or-create-at-scale/"&gt;Side effects of using .first_or_create! at scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://teotti.com/use-of-the-specification-pattern/"&gt;Use of the specification pattern&lt;/a&gt; и &lt;a href="https://blog.arkency.com/2016/02/private-classes-in-ruby/"&gt;Private classes in Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/@pistacchio/i-m-a-web-developer-and-i-ve-been-stuck-with-the-simplest-app-for-the-last-10-days-fb5c50917df"&gt;I’m a web developer and I’ve been stuck with the simplest app for the last 10 days&lt;/a&gt;, &lt;a href="http://www.sitepoint.com/cleaning-house-after-internet-explorer/"&gt;Cleaning House after Internet Explorer&lt;/a&gt; и &lt;a href="https://jakearchibald.com/2016/link-in-body/"&gt;The future of loading CSS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://facebook.github.io/react/blog/2016/02/19/new-versioning-scheme.html"&gt;New Versioning Scheme&lt;/a&gt; и &lt;a href="https://github.com/reactjs/redux/issues/1392"&gt;Moved Redux, React Router and other community projects over to reactjs Github org&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://callmecavs.com/bricks.js/"&gt;Bricks.js - a blazing fast masonry layout generator for fixed width elements&lt;/a&gt;, &lt;a href="http://design.iamvdo.me/stickyElements/"&gt;Sticky Elements - everything can stick&lt;/a&gt; и &lt;a href="http://codeology.braintreepayments.com/"&gt;Codeology is an open-source project that brings to life the art and science of code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>Mon, 22 Feb 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/02/22/podcast-04-07.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/02/22/podcast-04-07.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/143/file/podfm_rwpod_my_7_143.mp3" length="30911331" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/143/file/podfm_rwpod_my_7_143.mp3" fileSize="30911331" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  How to speed up Ruby on Rails updates using Po...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  How to speed up Ruby on Rails updates using PostgreSQL, Active Support Improvements in Rails 5 и Rails 5 does not halt callback chain when false is returned
+  A brief tour of nokogiri decorators и Side effects of using .first_or_create! at scale
+  Use of the specification pattern и Private classes in Ruby
+
+
+JavaScript
+
+
+  I’m a web developer and I’ve been stuck with the simplest app for the last 10 days, Cleaning House after Internet Explorer и The future of loading CSS
+  New Versioning Scheme и Moved Redux, React Router and other community projects over to reactjs Github org
+  Bricks.js - a blazing fast masonry layout generator for fixed width elements, Sticky Elements - everything can stick и Codeology is an open-source project that brings to life the art and science of code
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0407.png"/>
+  <itunes:duration>00:32:05</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>06 выпуск 04 сезона. Kill Your Dependencies, Is Ruby 2.3 Faster?, Fundamentals Then Frameworks, MJML, AMP и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2513,69 +2572,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0317.png"/>
   <itunes:duration>00:56:24</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>16 выпуск 03 сезона. Videos of RailsConf 2015 talks, Behavior-driven development, Electron, JSBlocks, ITCSS и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://www.amberbit.com/blog/2015/4/22/why-rails-5-turbolinks-3-action-cable-matter-and-why-dhh-was-right-all-along/"&gt;Why Rails 5 / Turbolinks 3.0 / Action Cable matter, and why @dhh was right all along&lt;/a&gt;, &lt;a href="http://wyeworks.com/blog/2015/4/20/rails-api-is-going-to-be-included-in-rails-5/"&gt;Rails Api to be part of Rails 5&lt;/a&gt; и &lt;a href="https://gist.github.com/seapy/8bc4e8a667578de8dffb"&gt;Videos of RailsConf 2015 talks&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://labs.kollegorna.se/blog/2015/04/build-an-api-now/"&gt;Build an API in your Rails app now!&lt;/a&gt;, &lt;a href="https://www.amberbit.com/blog/2015/4/23/seo-basics-for-rails-developers/"&gt;SEO basics for Rails developers&lt;/a&gt; и &lt;a href="http://blog.arkency.com/2015/04/the-event-store-for-rails-developers/"&gt;The Event Store for Rails developers&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.codeschool.com/blog/2015/04/24/7-deadly-sins-of-ruby-metaprogramming/"&gt;7 Deadly Sins of Ruby Metaprogramming&lt;/a&gt; и &lt;a href="https://semaphoreci.com/community/tutorials/behavior-driven-development"&gt;Behavior-driven development&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://github.com/pasberth/EndlessRuby"&gt;EndlessRuby&lt;/a&gt;, &lt;a href="https://github.com/elabs/pundit/blob/master/CHANGELOG.md"&gt;Pundit 1.0.0&lt;/a&gt; и &lt;a href="https://github.com/dhruvrajvanshi/Moonshine"&gt;Moonshine - simple web framework for Crystal language&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://electron.atom.io/"&gt;Atom Shell is now Electron&lt;/a&gt; и &lt;a href="http://jsblocks.com/"&gt;JSBlocks - faster than AngularJS and ReactJS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.creativebloq.com/web-design/manage-large-scale-web-projects-new-css-architecture-itcss-41514731"&gt;Manage large-scale web projects with new CSS architecture ITCSS&lt;/a&gt;, &lt;a href="http://penguin.docs.bqws.io/"&gt;Penguin — легкий и расширяемый стартовый набор для фронтенд-разработчика&lt;/a&gt; и &lt;a href="http://www.meteorpostgres.com/"&gt;Meteor Postgres&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://egghead.io/series/react-native-fundamentals"&gt;React Native Fundamentals&lt;/a&gt; (&lt;a href="http://www.ex.ua/view/89905005"&gt;videos&lt;/a&gt;), &lt;a href="http://blog.tryolabs.com/2015/04/21/drag-and-drop-in-react/"&gt;Drag and Drop in React&lt;/a&gt; и &lt;a href="http://kenwheeler.github.io/nuka-carousel/"&gt;Nuka - Pure ReactJS carousel component&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://foam-framework.github.io/foam/"&gt;FOAM Framework&lt;/a&gt; и &lt;a href="http://thatmikeflynn.com/egg.js/"&gt;Egg.js - a Simple Way to add Easter Eggs to your site&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-</description>
-  <pubDate>Tue, 28 Apr 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/04/28/podcast-03-16.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/04/28/podcast-03-16.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/103/file/podfm_rwpod_my_16_103.mp3" length="60237794" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/103/file/podfm_rwpod_my_16_103.mp3" fileSize="60237794" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Why Rails 5 / Turbolinks 3.0 / Action Cable ma...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Why Rails 5 / Turbolinks 3.0 / Action Cable matter, and why @dhh was right all along, Rails Api to be part of Rails 5 и Videos of RailsConf 2015 talks
-  Build an API in your Rails app now!, SEO basics for Rails developers и The Event Store for Rails developers
-  7 Deadly Sins of Ruby Metaprogramming и Behavior-driven development
-  EndlessRuby, Pundit 1.0.0 и Moonshine - simple web framework for Crystal language
-
-
-JavaScript
-
-
-  Atom Shell is now Electron и JSBlocks - faster than AngularJS and ReactJS
-  Manage large-scale web projects with new CSS architecture ITCSS, Penguin — легкий и расширяемый стартовый набор для фронтенд-разработчика и Meteor Postgres
-  React Native Fundamentals (videos), Drag and Drop in React и Nuka - Pure ReactJS carousel component
-  FOAM Framework и Egg.js - a Simple Way to add Easter Eggs to your site
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0316.png"/>
-  <itunes:duration>01:02:38</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
