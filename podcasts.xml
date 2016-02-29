@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 22 Feb 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 29 Feb 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 29 Feb 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,65 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>08 выпуск 04 сезона. To gem, or not to gem, Mrusty, Table flipper, Preload: What Is It Good For?, Draft.js, FlippyJS, CSSCO и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.ruby-lang.org/en/news/2016/02/24/support-plan-of-ruby-2-0-0-and-2-1/"&gt;Support plans for Ruby 2.0.0 and Ruby 2.1&lt;/a&gt; и &lt;a href="http://blog.bigbinary.com/2016/02/26/rails-5-allows-configuring-queue-name-for-mailers"&gt;Rails 5 allows configuring queue name for mailers&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://engineering.heroku.com/blogs/2016-02-18-speeding-up-sprockets/"&gt;Speeding up Sprockets&lt;/a&gt;, &lt;a href="https://robots.thoughtbot.com/to-gem-or-not-to-gem"&gt;To gem, or not to gem&lt;/a&gt; и &lt;a href="https://blog.arkency.com/2016/02/using-anonymous-modules-and-prepend-to-work-with-generated-code/"&gt;Using anonymous modules and prepend to work with generated code&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/anima-engine/mrusty"&gt;Mrusty - mruby safe bindings for Rust&lt;/a&gt;, &lt;a href="http://ngx.mruby.org/"&gt;Ngx_mruby - is a fast and memory-efficient TCP Load Balancing and Web Server Extension Mechanism Using Scripting Language mruby for nginx&lt;/a&gt; и &lt;a href="https://github.com/iridakos/table_flipper"&gt;Table flipper (╯°□°）╯︵ ┻━┻ - a useless gem that prepends the table flipper on Exception messages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://github.com/blog/2112-delivering-octicons-with-svg"&gt;Delivering Octicons with SVG&lt;/a&gt;, &lt;a href="https://css-tricks.com/squigglevision-in-css-and-svg/"&gt;Squigglevision&lt;/a&gt; и &lt;a href="https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/"&gt;Preload: What Is It Good For?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://facebook.github.io/draft-js/"&gt;Draft.js - rich text editor framework for React&lt;/a&gt;, &lt;a href="http://birjolaxew.github.io/flippy.js/"&gt;FlippyJS - FLIP animation helper; animate DOM changes with ease&lt;/a&gt;, &lt;a href="http://mrrio.github.io/jsPDF/"&gt;jsPDF - HTML5 JavaScript PDF generation library&lt;/a&gt; и &lt;a href="http://www.cssco.co/"&gt;CSSCO - photographic filters made with css&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://copy.sh/v86/"&gt;V86 is a x86 emulator build on node that can run in your browser&lt;/a&gt;, &lt;a href="https://github.com/dthree/cash/"&gt;Cash - a cross-platform implementation of Unix shell commands written in pure ES6&lt;/a&gt;, &lt;a href="http://ricostacruz.com/scour/"&gt;Scour.js - traverse objects and arrays immutably&lt;/a&gt; и &lt;a href="https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY#reactjsconf2016"&gt;React.js Conf 2016 (videos)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>Mon, 29 Feb 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/02/29/podcast-04-08.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/02/29/podcast-04-08.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/144/file/podfm_rwpod_my_8_144.mp3" length="22518778" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/144/file/podfm_rwpod_my_8_144.mp3" fileSize="22518778" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Support plans for Ruby 2.0.0 and Ruby 2.1 и Ra...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Support plans for Ruby 2.0.0 and Ruby 2.1 и Rails 5 allows configuring queue name for mailers
+  Speeding up Sprockets, To gem, or not to gem и Using anonymous modules and prepend to work with generated code
+  Mrusty - mruby safe bindings for Rust, Ngx_mruby - is a fast and memory-efficient TCP Load Balancing and Web Server Extension Mechanism Using Scripting Language mruby for nginx и Table flipper (╯°□°）╯︵ ┻━┻ - a useless gem that prepends the table flipper on Exception messages
+
+
+JavaScript
+
+
+  Delivering Octicons with SVG, Squigglevision и Preload: What Is It Good For?
+  Draft.js - rich text editor framework for React, FlippyJS - FLIP animation helper; animate DOM changes with ease, jsPDF - HTML5 JavaScript PDF generation library и CSSCO - photographic filters made with css
+  V86 is a x86 emulator build on node that can run in your browser, Cash - a cross-platform implementation of Unix shell commands written in pure ES6, Scour.js - traverse objects and arrays immutably и React.js Conf 2016 (videos)
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0408.png"/>
+  <itunes:duration>00:23:21</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>07 выпуск 04 сезона. Active Support Improvements in Rails 5, New Versioning Scheme, Bricks.js, Sticky Elements и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2507,71 +2566,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0318.png"/>
   <itunes:duration>01:08:00</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>17 выпуск 03 сезона. JRuby 9.0.0.0-pre2, Better Persistence with ROM, HTTP2, Build 2015, Vorlon.JS, Clusterize.js и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://jruby.org/2015/04/28/jruby-9-0-0-0-pre2.html"&gt;JRuby 9.0.0.0-pre2 Released&lt;/a&gt;, &lt;a href="http://brewhouse.io/blog/2015/04/27/fixing-a-slow-rails-development-server.html"&gt;Fixing a slow Rails development server&lt;/a&gt; и &lt;a href="https://coderwall.com/p/kb97gg/secure-tokens-from-rails-5-to-rails-4-x-and-3-x"&gt;Secure Tokens From Rails 5 to Rails 4.x and 3.x&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://hawkins.io/2015/04/better-persistence-with-rom/"&gt;Better Persistence with ROM&lt;/a&gt;, &lt;a href="http://www.rubylab.io/2015/04/28/denoising-autoencoder-tutorial/"&gt;Denoising AutoEncoders in Ruby&lt;/a&gt; и &lt;a href="http://www.blackbytes.info/2015/04/ruby-network-programming/"&gt;Ruby Network Programming&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://blog.arkency.com/2015/04/on-my-radar-rethinkdb-plus-react-dot-js-plus-rails/"&gt;On my radar: RethinkDB + React.js + Rails&lt;/a&gt; и &lt;a href="http://fazibear.github.io/blog/2015/04/29/having-fun-with-opal-and-sprockets/"&gt;Having fun with Opal and Sprockets&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://rubylogs.com/how-to-write-rspec-formatters-from-scratch/"&gt;How to write RSpec formatters from scratch&lt;/a&gt;, &lt;a href="https://github.com/planetruby/awesome-activerecord"&gt;Awesome-ActiveRecord - a collection of awesome ActiveRecord goodies, libraries, tools, extensions, guides&lt;/a&gt; и &lt;a href="https://www.youtube.com/watch?v=fJ0C4zN5uOQ"&gt;HTTP2 in 5 Minutes (video)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://github.com/substack/node-browserify/blob/master/changelog.markdown"&gt;Browserify 10.0.0&lt;/a&gt;,  &lt;a href="http://blogs.msdn.com/b/typescript/archive/2015/04/30/announcing-typescript-1-5-beta.aspx"&gt;TypeScript 1.5 Beta&lt;/a&gt; и Build 2015: &lt;a href="http://habrahabr.ru/company/microsoft/blog/257029/"&gt;часть 1&lt;/a&gt; и &lt;a href="http://habrahabr.ru/company/microsoft/blog/257083/"&gt;часть 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://medium.com/@cassiozen/flux-cargo-culting-3cae9ff27c0c"&gt;Flux Cargo-Culting&lt;/a&gt; и &lt;a href="http://www.alexkras.com/11-tips-to-improve-angularjs-performance/"&gt;11 Tips to Improve AngularJS Performance&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://lucono.com/post/117486285002/fixing-the-ugly-javascript-and-es6-nan-problem"&gt;Fixing the ugly JavaScript and ES6 NaN problem&lt;/a&gt; и &lt;a href="http://www.vorlonjs.com/"&gt;Vorlon.JS - an open source, extensible, platform-agnostic tool for remotely debugging and testing JS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://trackira.github.io/trackira/"&gt;Trackira - Virtual DOM experiment&lt;/a&gt; и &lt;a href="http://vdom-benchmark.github.io/vdom-benchmark/"&gt;Virtual DOM Benchmark&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://nexts.github.io/Clusterize.js/"&gt;Clusterize.js - a tiny plugin to display large data sets easily&lt;/a&gt; и &lt;a href="http://www.rich-harris.co.uk/ramjet/"&gt;Ramjet.js - morph DOM elements into each other&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-</description>
-  <pubDate>Mon, 04 May 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/05/04/podcast-03-17.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/05/04/podcast-03-17.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/104/file/podfm_rwpod_my_17_104.mp3" length="54252832" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/104/file/podfm_rwpod_my_17_104.mp3" fileSize="54252832" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  JRuby 9.0.0.0-pre2 Released, Fixing a slow Rai...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  JRuby 9.0.0.0-pre2 Released, Fixing a slow Rails development server и Secure Tokens From Rails 5 to Rails 4.x and 3.x
-  Better Persistence with ROM, Denoising AutoEncoders in Ruby и Ruby Network Programming
-  On my radar: RethinkDB + React.js + Rails и Having fun with Opal and Sprockets
-  How to write RSpec formatters from scratch, Awesome-ActiveRecord - a collection of awesome ActiveRecord goodies, libraries, tools, extensions, guides и HTTP2 in 5 Minutes (video)
-
-
-JavaScript
-
-
-  Browserify 10.0.0,  TypeScript 1.5 Beta и Build 2015: часть 1 и часть 2
-  Flux Cargo-Culting и 11 Tips to Improve AngularJS Performance
-  Fixing the ugly JavaScript and ES6 NaN problem и Vorlon.JS - an open source, extensible, platform-agnostic tool for remotely debugging and testing JS
-  Trackira - Virtual DOM experiment и Virtual DOM Benchmark
-  Clusterize.js - a tiny plugin to display large data sets easily и Ramjet.js - morph DOM elements into each other
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0317.png"/>
-  <itunes:duration>00:56:24</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
