@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 29 Feb 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 29 Feb 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 07 Mar 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 07 Mar 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,81 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>09 выпуск 04 сезона. Rails 4.2.5.2, Thread Pool, Opal-Phaser, AMP Project, MJML, Enzyme, Fetch-it, Dsxyliea и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://weblog.rubyonrails.org/2016/2/29/Rails-4-2-5-2-4-1-14-2-3-2-22-2-have-been-released/"&gt;Rails 4.2.5.2, 4.1.14.2 and 3.2.22.2 have been released!&lt;/a&gt;, &lt;a href="http://blog.bigbinary.com/2016/03/01/migrations-are-versioned-in-rails-5.html"&gt;Migrations are versioned in Rails 5&lt;/a&gt;, &lt;a href="http://blog.bigbinary.com/2016/03/02/use-file_fixture-to-access-test-files-rails-5.html"&gt;Use file_fixture to access test files in Rails 5&lt;/a&gt; и &lt;a href="http://blog.bigbinary.com/2016/02/29/rails-5-improves-redirect_to_back-with-redirect-back.html"&gt;Rails 5 improves redirect_to :back with new redirect_back method&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/@devlucky/ruby-time-parsing-optimization-524622354201"&gt;Premature optimizations are evil(?)&lt;/a&gt;, &lt;a href="http://blog.plataformatec.com.br/2016/02/experimenting-with-explicit-contracts-with-ruby/"&gt;Experimenting with explicit contracts with Ruby&lt;/a&gt; и &lt;a href="https://www.amberbit.com/blog/2016/2/28/on-migrations-jsonb-and-databases-in-general/"&gt;On migrations, JSONB and databases in general&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://rossta.net/blog/a-ruby-antihero-thread-pool.html"&gt;Thread Pool - A Ruby Antihero&lt;/a&gt; и &lt;a href="http://readysteadycode.com/howto-access-amazon-dynamodb-with-ruby"&gt;HOWTO access Amazon DynamoDB with Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://developer.zendesk.com/blog/introducing-stronger-parameters"&gt;Introducing Stronger Parameters&lt;/a&gt;, &lt;a href="https://github.com/acorncache/acorn-cache"&gt;AcornCache is a Ruby HTTP proxy caching library&lt;/a&gt; и &lt;a href="http://opalphaser.com/"&gt;Opal-Phaser - Opal-Phaser is an Opal wrapper for the Phaser framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b"&gt;State of the Art JavaScript in 2016&lt;/a&gt;, &lt;a href="https://www.igvita.com/2016/03/01/control-groups-cgroups-for-the-web/"&gt;Control Groups (cgroups) for the Web?&lt;/a&gt; и &lt;a href="http://www.sitepoint.com/eight-html5-tags-you-might-not-know/"&gt;Do You Know These Eight HTML5 Tags?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://webdesign.tutsplus.com/articles/amp-project-will-it-make-your-sites-faster--cms-25853"&gt;AMP Project: Will it Make Your Sites Faster?&lt;/a&gt; и &lt;a href="http://webuilddesign.com/introducing-mjml-first-open-source-markup-language-for-responsive-email/"&gt;Introducing MJML : First open source markup language for responsive email&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f"&gt;Enzyme: JavaScript Testing utilities for React&lt;/a&gt; и &lt;a href="https://github.com/tryolabs/fetch-it"&gt;Fetch-it - an enhanced HTTP client based on fetch.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://kamranahmed.info/toast"&gt;Jquery Toast Plugin - a plugin to show highly customizable notifications to the user&lt;/a&gt;, &lt;a href="http://forsigner.com/beside/"&gt;Beside - a library to make an element beside another&lt;/a&gt; и &lt;a href="http://geon.github.io/programming/2016/03/03/dsxyliea"&gt;Dsxyliea&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="conferences"&gt;Conferences&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://rubymeditation7.eventbrite.com"&gt;RubyMeditation #7&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>Mon, 07 Mar 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/03/07/podcast-04-09.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/03/07/podcast-04-09.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/145/file/podfm_rwpod_my_9_145.mp3" length="56371578" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/145/file/podfm_rwpod_my_9_145.mp3" fileSize="56371578" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 4.2.5.2, 4.1.14.2 and 3.2.22.2 have been...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 4.2.5.2, 4.1.14.2 and 3.2.22.2 have been released!, Migrations are versioned in Rails 5, Use file_fixture to access test files in Rails 5 и Rails 5 improves redirect_to :back with new redirect_back method
+  Premature optimizations are evil(?), Experimenting with explicit contracts with Ruby и On migrations, JSONB and databases in general
+  Thread Pool - A Ruby Antihero и HOWTO access Amazon DynamoDB with Ruby
+  Introducing Stronger Parameters, AcornCache is a Ruby HTTP proxy caching library и Opal-Phaser - Opal-Phaser is an Opal wrapper for the Phaser framework
+
+
+JavaScript
+
+
+  State of the Art JavaScript in 2016, Control Groups (cgroups) for the Web? и Do You Know These Eight HTML5 Tags?
+  AMP Project: Will it Make Your Sites Faster? и Introducing MJML : First open source markup language for responsive email
+  Enzyme: JavaScript Testing utilities for React и Fetch-it - an enhanced HTTP client based on fetch.
+  Jquery Toast Plugin - a plugin to show highly customizable notifications to the user, Beside - a library to make an element beside another и Dsxyliea
+
+
+Conferences
+
+
+  RubyMeditation #7
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0409.png"/>
+  <itunes:duration>00:58:37</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>08 выпуск 04 сезона. To gem, or not to gem, Mrusty, Table flipper, Preload: What Is It Good For?, Draft.js, FlippyJS, CSSCO и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2503,69 +2578,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0319.png"/>
   <itunes:duration>00:37:03</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>18 выпуск 03 сезона. Ruby: The Last Eight Years, Fruity Bat, Rust v Crystal, NativeScript 1.0.0, JavaScript-based DDoS и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://www.informit.com/articles/article.aspx?p=2350703"&gt;Ruby: The Last Eight Years&lt;/a&gt;, &lt;a href="http://tonyarcieri.com/an-open-letter-to-matz-on-ruby-type-systems"&gt;An open letter to Matz on Ruby type systems&lt;/a&gt; и &lt;a href="https://medium.com/evil-martians/the-rails-5-post-9c76dbac8fc"&gt;Rails 5: what’s new&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://tomdebruijn.com/posts/gems-on-the-command-line/"&gt;How Ruby gems work on the command line&lt;/a&gt;, &lt;a href="https://intercityup.com/blog/integrate-rubocop-in-your-workflow.html"&gt;Integrate Rubocop in your workflow&lt;/a&gt; и &lt;a href="http://chriskottom.com/blog/2015/05/minitest-benchmark-a-practical-example/"&gt;Minitest::Benchmark: A Practical Example&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.tomdalling.com/blog/ruby/fruity-bat-flappy-bird-clone-in-ruby/"&gt;Making Fruity Bat (a Flappy Bird clone) in Ruby&lt;/a&gt;, &lt;a href="https://blog.arkency.com/2015/05/how-to-store-emoji-in-a-rails-app-with-a-mysql-database/"&gt;How to store emoji in a Rails app with a MySQL database&lt;/a&gt; и &lt;a href="http://blog.ragnarson.com/2015/05/06/problems-with-nil.html"&gt;Problems with nil and how to avoid them&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://github.com/TheBlasfem/ruby-patterns"&gt;Examples of Ruby Patterns&lt;/a&gt;, &lt;a href="https://github.com/edelpero/lupa"&gt;Lupa - simple, robust and scaleable search filters with ease using regular Ruby classes and object oriented design patterns&lt;/a&gt;, &lt;a href="https://gist.github.com/Synatra/33929cc8c0800dc9739c"&gt;Rust v Crystal “Hello world” benchmark&lt;/a&gt; и &lt;a href="https://www.bloc.io/ruby-warrior/#/"&gt;Ruby Warrior - a fun way to learn Ruby the interactive way&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://blog.mozilla.org/security/files/2015/05/HTTPS-FAQ.pdf"&gt;Mozilla объявляет устаревшим HTTP&lt;/a&gt;, &lt;a href="https://www.nativescript.org/blog/nativescript-1.0.0-is-now-available"&gt;NativeScript 1.0.0&lt;/a&gt; и &lt;a href="https://www.nativescript.org/blog/details/angular-2.0-running-in-a-native-mobile-app-using-nativescript"&gt;Angular 2.0 Running in a native mobile app using NativeScript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.codeschool.com/blog/2015/05/08/whats-new-in-io-js-2-0-0/"&gt;What’s new in io.js 2.0.0&lt;/a&gt;, &lt;a href="https://blog.cloudflare.com/an-introduction-to-javascript-based-ddos/"&gt;An introduction to JavaScript-based DDoS&lt;/a&gt; и &lt;a href="http://codepen.io/Tigt/blog/inline-svg-fallback-without-javascript-take-2"&gt;Inline SVG fallback without JavaScript; Take 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/"&gt;The React.js Way: Flux Architecture with Immutable.js&lt;/a&gt;, &lt;a href="https://medium.com/@nextminds/replaying-bugs-with-flux-52f6bd8c8307"&gt;Replaying bugs with Flux&lt;/a&gt; и &lt;a href="http://www.developerdrive.com/2015/04/8-ways-to-be-the-perfect-web-developer/"&gt;8 ways to be the perfect web developer&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://victorsavkin.com/post/118372404541/the-core-concepts-of-angular-2"&gt;The core concepts of Angular 2&lt;/a&gt;, &lt;a href="https://github.com/google/lovefield"&gt;Lovefield - a cross-browser, SQL-like, relational query engine for Web in pure JavaScript&lt;/a&gt; и &lt;a href="http://bitshadow.github.io/iconate/"&gt;Iconate.js - transform your icons with animations&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-</description>
-  <pubDate>Tue, 12 May 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/05/12/podcast-03-18.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/05/12/podcast-03-18.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/105/file/podfm_rwpod_my_18_105.mp3" length="65386459" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/105/file/podfm_rwpod_my_18_105.mp3" fileSize="65386459" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby: The Last Eight Years, An open letter to ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby: The Last Eight Years, An open letter to Matz on Ruby type systems и Rails 5: what’s new
-  How Ruby gems work on the command line, Integrate Rubocop in your workflow и Minitest::Benchmark: A Practical Example
-  Making Fruity Bat (a Flappy Bird clone) in Ruby, How to store emoji in a Rails app with a MySQL database и Problems with nil and how to avoid them
-  Examples of Ruby Patterns, Lupa - simple, robust and scaleable search filters with ease using regular Ruby classes and object oriented design patterns, Rust v Crystal “Hello world” benchmark и Ruby Warrior - a fun way to learn Ruby the interactive way
-
-
-JavaScript
-
-
-  Mozilla объявляет устаревшим HTTP, NativeScript 1.0.0 и Angular 2.0 Running in a native mobile app using NativeScript
-  What’s new in io.js 2.0.0, An introduction to JavaScript-based DDoS и Inline SVG fallback without JavaScript; Take 2
-  The React.js Way: Flux Architecture with Immutable.js, Replaying bugs with Flux и 8 ways to be the perfect web developer
-  The core concepts of Angular 2, Lovefield - a cross-browser, SQL-like, relational query engine for Web in pure JavaScript и Iconate.js - transform your icons with animations
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0318.png"/>
-  <itunes:duration>01:08:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
