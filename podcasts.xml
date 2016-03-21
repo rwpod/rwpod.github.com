@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 14 Mar 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 21 Mar 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Mar 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,65 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>11 выпуск 04 сезона. Mastering Concurrency, LeSSL, Spreadsheet Architect, WebAssembly Milestone, Insight, Hashids и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://blog.appsignal.com/blog/2016/03/17/ruby-magic-mastering-concurrency.html"&gt;Mastering Concurrency&lt;/a&gt; и &lt;a href="http://www.ombulabs.com/blog/rails/maintenance/ten-steps-to-evaluate-a-rails-project.html"&gt;10 Steps to Evaluate a Rails Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://blog.codeship.com/how-to-set-up-mutual-tls-authentication/"&gt;How to Set Up Mutual TLS Authentication to Protect Your Admin Console&lt;/a&gt; и &lt;a href="https://subvisual.co/blog/posts/74-ruby-bits-each-with-object"&gt;Ruby Bits: Each with object&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/"&gt;Fast Search Using PostgreSQL Trigram Indexes&lt;/a&gt;, &lt;a href="https://github.com/tobiasfeistmantl/LeSSL"&gt;LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA&lt;/a&gt; и &lt;a href="https://github.com/westonganger/spreadsheet_architect"&gt;Spreadsheet Architect&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://hacks.mozilla.org/2016/03/a-webassembly-milestone/"&gt;A WebAssembly Milestone: Experimental Support in Multiple Browsers&lt;/a&gt; и &lt;a href="https://segment.com/blog/the-deep-roots-of-js-fatigue/"&gt;The Deep Roots of Javascript Fatigue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/javascript-non-grata/javascript-is-a-dysfunctional-programming-language-a1f4866e186f"&gt;JavaScript is a Dysfunctional Programming Language&lt;/a&gt; и &lt;a href="https://medium.com/@jayphelps/please-stop-referring-to-proposed-javascript-features-as-es7-cad29f9dcc4b"&gt;Please stop referring to proposed JavaScript features as ES7&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/3Dparallax/insight/"&gt;Insight - a WebGL debugging toolkit&lt;/a&gt;, &lt;a href="http://hashids.org/"&gt;Hashids - a small open-source library that generates short, unique, non-sequential ids from numbers&lt;/a&gt;, &lt;a href="https://github.com/DKirwan/calendar-heatmap"&gt;D3 Calendar Heatmap&lt;/a&gt; и &lt;a href="http://substance.io/"&gt;Substance - a JavaScript library for web-based content editing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>Mon, 21 Mar 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/03/21/podcast-04-11.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/03/21/podcast-04-11.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/147/file/podfm_rwpod_my_11_147.mp3" length="41040224" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/147/file/podfm_rwpod_my_11_147.mp3" fileSize="41040224" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Mastering Concurrency и 10 Steps to Evaluate a...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Mastering Concurrency и 10 Steps to Evaluate a Rails Project
+  How to Set Up Mutual TLS Authentication to Protect Your Admin Console и Ruby Bits: Each with object
+  Fast Search Using PostgreSQL Trigram Indexes, LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA и Spreadsheet Architect
+
+
+JavaScript
+
+
+  A WebAssembly Milestone: Experimental Support in Multiple Browsers и The Deep Roots of Javascript Fatigue
+  JavaScript is a Dysfunctional Programming Language и Please stop referring to proposed JavaScript features as ES7
+  Insight - a WebGL debugging toolkit, Hashids - a small open-source library that generates short, unique, non-sequential ids from numbers, D3 Calendar Heatmap и Substance - a JavaScript library for web-based content editing
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0411.png"/>
+  <itunes:duration>00:42:39</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>10 выпуск 04 сезона. Rails 4.2.6, 4.1.15, React v15.0rc, GraphQL Ruby, DuckRails, Artillery, Freezeframe.js и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2514,70 +2573,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0321.png"/>
   <itunes:duration>00:45:46</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>20 выпуск 03 сезона. Phusion Passenger 5.0.8, Block Range Indexes in PostgreSQL, Cakery, T3, Stylecow, Bio.js и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="https://blog.phusion.nl/2015/05/20/phusion-passenger-5-0-8-new-debian-packages-red-hat-packages-bug-fixes/"&gt;Phusion Passenger 5.0.8&lt;/a&gt;, &lt;a href="http://yorickpeterse.com/articles/oga-1-0-released/"&gt;Oga 1.0&lt;/a&gt; и &lt;a href="http://rom-rb.org/blog/2015/05/18/rom-0-7-0-released/"&gt;ROM 0.7.0&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://sahandsaba.com/nine-anti-patterns-every-programmer-should-be-aware-of-with-examples.html"&gt;9 Anti-Patterns Every Programmer Should Be Aware Of&lt;/a&gt;, &lt;a href="http://vaidehijoshi.github.io/blog/2015/05/19/the-secret-life-of-your-database-part-1-migrations/"&gt;The Secret Life of Your Database, Part 1: Migrations&lt;/a&gt; и &lt;a href="http://pythonsweetness.tumblr.com/post/119568339102/block-range-brin-indexes-in-postgresql-9-5"&gt;Block Range (BRIN) Indexes in PostgreSQL 9.5&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://shuber.io/porting-activerecord-soft-delete-behavior-to-postgres/"&gt;Porting ActiveRecord “soft delete” behavior to Postgres&lt;/a&gt; и &lt;a href="http://shuber.io/porting-activerecord-counter-cache-behavior-to-postgres/"&gt;Porting ActiveRecord “counter cache” behavior to Postgres&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://datamelon.io/blog/2015/building-a-chat-app-in-volt.html"&gt;Build a Realtime Chat App with Ruby and Volt&lt;/a&gt;, &lt;a href="https://github.com/sotownsend/cakery"&gt;Cakery - an asset compiler framework&lt;/a&gt; и &lt;a href="http://ondra-m.github.io/ruby-spark/"&gt;Ruby-Spark&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html"&gt;We have a problem with promises&lt;/a&gt;, &lt;a href="https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918"&gt;JSX Looks Like An Abomination&lt;/a&gt; и &lt;a href="http://vilcins.lv/blog/2015/CSS-hacks-you-may-not-know/"&gt;CSS hacks you may not know&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.jsgraphs.com/"&gt;JavaScript Grpahs&lt;/a&gt;, &lt;a href="http://t3js.org/"&gt;T3 - a minimalist JavaScript framework&lt;/a&gt; и &lt;a href="http://wwwhere.io/"&gt;Список полезных ссылок для веб разработчиков&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://stylecow.github.io/"&gt;Stylecow — постпроцессор для CSS&lt;/a&gt;, &lt;a href="http://biojs.net/"&gt;Bio.js - library of JavaScript components to represent biological data&lt;/a&gt; и &lt;a href="https://www.inboxsdk.com/"&gt;InboxSDK – build Apps inside Gmail&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://aerolab.github.io/readremaining.js/"&gt;ReadRemaining.js — плагин, рассчитывающий время на прочтение материала по мере прокрутки страницы&lt;/a&gt;, &lt;a href="http://asvd.github.io/viewport/"&gt;Viewport.js - reflect scrolling position on the navigation menu&lt;/a&gt; и &lt;a href="http://banago.github.io/Stickr.js/"&gt;Stickr.js — contained sticky scrolling jQuery plugin&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-</description>
-  <pubDate>Mon, 25 May 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/05/25/podcast-03-20.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/05/25/podcast-03-20.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/107/file/podfm_rwpod_my_20_107.mp3" length="41553242" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/107/file/podfm_rwpod_my_20_107.mp3" fileSize="41553242" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Phusion Passenger 5.0.8, Oga 1.0 и ROM 0.7.0
- ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Phusion Passenger 5.0.8, Oga 1.0 и ROM 0.7.0
-  9 Anti-Patterns Every Programmer Should Be Aware Of, The Secret Life of Your Database, Part 1: Migrations и Block Range (BRIN) Indexes in PostgreSQL 9.5
-  Porting ActiveRecord “soft delete” behavior to Postgres и Porting ActiveRecord “counter cache” behavior to Postgres
-  Build a Realtime Chat App with Ruby and Volt, Cakery - an asset compiler framework и Ruby-Spark
-
-
-JavaScript
-
-
-  We have a problem with promises, JSX Looks Like An Abomination и CSS hacks you may not know
-  JavaScript Grpahs, T3 - a minimalist JavaScript framework и Список полезных ссылок для веб разработчиков
-  Stylecow — постпроцессор для CSS, Bio.js - library of JavaScript components to represent biological data и InboxSDK – build Apps inside Gmail
-  ReadRemaining.js — плагин, рассчитывающий время на прочтение материала по мере прокрутки страницы, Viewport.js - reflect scrolling position on the navigation menu и Stickr.js — contained sticky scrolling jQuery plugin
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0320.png"/>
-  <itunes:duration>00:43:11</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
