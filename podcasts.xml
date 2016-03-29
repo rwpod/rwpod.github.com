@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 21 Mar 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 21 Mar 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Wed, 30 Mar 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Wed, 30 Mar 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,65 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>12 выпуск 04 сезона. How to upgrade to Rails 5, NotImplementedError, Left_pad, PassiveRecord, Hain и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/@tair/how-to-upgrade-to-rails-5-657b3bfd83"&gt;How to upgrade to Rails 5&lt;/a&gt;, &lt;a href="http://www.akitaonrails.com/2016/03/23/improving-your-microservices-integration-performance-with-memcache-and-etags"&gt;Improving your Microservices Integration Performance with Memcache and ETAGs&lt;/a&gt; и &lt;a href="https://robots.thoughtbot.com/rebuilding-git-in-ruby"&gt;Rebuilding Git in Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/"&gt;Custom type-casting with ActiveRecord, Virtus and dry-types&lt;/a&gt;, &lt;a href="http://chrisstump.online/2016/03/23/stop-abusing-notimplementederror/"&gt;Please Stop Abusing NotImplementedError&lt;/a&gt; и &lt;a href="https://aaronprice.ca/the-hidden-cost-of-indexes"&gt;The hidden cost of indexes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/atipugin/left_pad"&gt;Left_pad - Ruby implementation of famous npm package&lt;/a&gt;, &lt;a href="https://github.com/deepcerulean/passive_record"&gt;PassiveRecord - an extremely lightweight in-memory pseudo-relational algebra&lt;/a&gt; и &lt;a href="http://www.flyingmachinestudios.com/programming/timeless-tools/"&gt;Timeless Programming Tools&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://arc.applause.com/2016/03/22/javascript-is-the-worlds-dominant-programming-language/"&gt;It’s Official: JavaScript Is The Most Commonly Used Programming Language On Earth&lt;/a&gt;, &lt;a href="http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos"&gt;How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript&lt;/a&gt; и &lt;a href="http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm"&gt;kik, left-pad, and npm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/@richtr/apple-is-bad-news-for-the-future-of-the-web-6027b000b0c4"&gt;Apple is bad news for the future of the Web&lt;/a&gt;, &lt;a href="http://www.heydonworks.com/article/progressive-enhancement-makes-me-sad"&gt;Progressive Enhancement Makes Me Sad&lt;/a&gt; и &lt;a href="https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha"&gt;Testing React Components with Enzyme and Mocha&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://github.com/appetizermonster/hain"&gt;Hain - an alternative to Alfred for Windows, built with Electron&lt;/a&gt;, &lt;a href="http://www.kri.gs/eventcontrol/"&gt;EventControl - jQuery timeline control with support for stacking events&lt;/a&gt; и &lt;a href="https://github.com/soenkekluth/sticky-state"&gt;StickyState adds state to position:sticky elements and also polyfills the missing native sticky feature&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>Wed, 30 Mar 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/03/30/podcast-04-12.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/03/30/podcast-04-12.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/148/file/podfm_rwpod_my_12_148.mp3" length="41040224" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/148/file/podfm_rwpod_my_12_148.mp3" fileSize="41040224" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  How to upgrade to Rails 5, Improving your Micr...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  How to upgrade to Rails 5, Improving your Microservices Integration Performance with Memcache and ETAGs и Rebuilding Git in Ruby
+  Custom type-casting with ActiveRecord, Virtus and dry-types, Please Stop Abusing NotImplementedError и The hidden cost of indexes
+  Left_pad - Ruby implementation of famous npm package, PassiveRecord - an extremely lightweight in-memory pseudo-relational algebra и Timeless Programming Tools
+
+
+JavaScript
+
+
+  It’s Official: JavaScript Is The Most Commonly Used Programming Language On Earth, How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript и kik, left-pad, and npm
+  Apple is bad news for the future of the Web, Progressive Enhancement Makes Me Sad и Testing React Components with Enzyme and Mocha
+  Hain - an alternative to Alfred for Windows, built with Electron, EventControl - jQuery timeline control with support for stacking events и StickyState adds state to position:sticky elements and also polyfills the missing native sticky feature
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0412.png"/>
+  <itunes:duration>00:42:39</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>11 выпуск 04 сезона. Mastering Concurrency, LeSSL, Spreadsheet Architect, WebAssembly Milestone, Insight, Hashids и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2514,65 +2573,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0322.png"/>
   <itunes:duration>00:43:13</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>21 выпуск 03 сезона. Make Your Own Rack Server, Waterfall, Polymer 1.0, Telescope, TremulaJS, Pavlov.js и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://www.blrice.net/blog/2015/05/31/make-your-own-rack-server/"&gt;Make Your Own Rack Server&lt;/a&gt; и &lt;a href="http://blog.honeybadger.io/ruby-exception-vs-standarderror-whats-the-difference/"&gt;Ruby’s Exception vs StandardError: What’s the difference?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers"&gt;React.js - A guide for Rails developers&lt;/a&gt; и &lt;a href="http://www.leighhalliday.com/recursion-in-ruby"&gt;Recursion in Ruby&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.akitaonrails.com/2015/05/20/dynamic-site-as-fast-as-a-static-generated-one-with-raptor"&gt;Dynamic Site as fast as a Static Generated One with Raptor&lt;/a&gt; и &lt;a href="https://github.com/apneadiving/waterfall"&gt;Waterfall - a slice of functional programming to chain ruby services and blocks&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://googledevelopers.blogspot.com/2015/05/polymer-10-released.html"&gt;Polymer 1.0&lt;/a&gt;, &lt;a href="http://gofore.com/ohjelmistokehitys/stop-using-bower/"&gt;Why We Should Stop Using Bower&lt;/a&gt; и &lt;a href="http://taha-sh.com/blog/everything-you-need-to-know-about-strings-in-javascript"&gt;Everything You Need to Know About Strings in Javascript&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://scotch.io/tutorials/building-a-slack-clone-in-meteor-js-getting-started"&gt;Building a Slack Clone in Meteor.js: Getting Started&lt;/a&gt; и &lt;a href="http://www.telescopeapp.org/"&gt;Telescope - an open-source social news app built with Meteor&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://garris.github.io/TremulaJS/"&gt;TremulaJS: Picture Streams + Momentum Engine + Bézier Paths&lt;/a&gt;, &lt;a href="https://jariz.github.io/vibrant.js/"&gt;Vibrant.js - extract prominent colors from an image&lt;/a&gt; и &lt;a href="https://github.com/NathanEpstein/Pavlov.js"&gt;Pavlov.js - reinforcement learning using Markov Decision Processes&lt;/a&gt; (&lt;a href="http://setosa.io/blog/2014/07/26/markov-chains/index.html"&gt;Markov Chains&lt;/a&gt;)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-</description>
-  <pubDate>Tue, 02 Jun 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/06/02/podcast-03-21.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/06/02/podcast-03-21.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/108/file/podfm_rwpod_my_21_108.mp3" length="44042079" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/108/file/podfm_rwpod_my_21_108.mp3" fileSize="44042079" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Make Your Own Rack Server и Ruby’s Exception v...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Make Your Own Rack Server и Ruby’s Exception vs StandardError: What’s the difference?
-  React.js - A guide for Rails developers и Recursion in Ruby
-  Dynamic Site as fast as a Static Generated One with Raptor и Waterfall - a slice of functional programming to chain ruby services and blocks
-
-
-JavaScript
-
-
-  Polymer 1.0, Why We Should Stop Using Bower и Everything You Need to Know About Strings in Javascript
-  Building a Slack Clone in Meteor.js: Getting Started и Telescope - an open-source social news app built with Meteor
-  TremulaJS: Picture Streams + Momentum Engine + Bézier Paths, Vibrant.js - extract prominent colors from an image и Pavlov.js - reinforcement learning using Markov Decision Processes (Markov Chains)
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0321.png"/>
-  <itunes:duration>00:45:46</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
