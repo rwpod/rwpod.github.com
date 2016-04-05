@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Wed, 30 Mar 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Wed, 30 Mar 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 05 Apr 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,65 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>13 выпуск 04 сезона. Query Composer, Trailblazer, npm's unpublish policy, Safari Technology Preview и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://blog.bigbinary.com/2016/03/29/rails-5-changed-default-active-job-adapter-to-async.html"&gt;Rails 5 changed Active Job default adapter from Inline to Async&lt;/a&gt; и &lt;a href="http://weblog.jamisbuck.org/2016/3/26/introducing-query-composer.html"&gt;Introducing the Query Composer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://dalibornasevic.com/posts/68-processing-large-csv-files-with-ruby"&gt;Processing large CSV files with Ruby&lt;/a&gt; и &lt;a href="http://eftimov.net/your-first-rubygems-plugin"&gt;Write your first Rubygems plugin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://trailblazer.to/"&gt;Trailblazer gives you a high-level architecture for web applications&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://nodejs.org/en/blog/vulnerability/npm-tokens-leak-march-2016/"&gt;NPM security vulnerability with leaking authentication headers&lt;/a&gt;, &lt;a href="http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy"&gt;Changes to npm’s unpublish policy&lt;/a&gt; и &lt;a href="https://webkit.org/blog/6017/introducing-safari-technology-preview/"&gt;Introducing Safari Technology Preview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://thenewcode.com/895/JavaScript-Rounding-Recipes"&gt;JavaScript Rounding Recipes&lt;/a&gt; и &lt;a href="https://www.kriasoft.com/babel-starter-kit/recipes/throwing-errors-with-fbjs-invariant"&gt;Throwing errors with FB’s invariant library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://evanw.github.io/thinscript/"&gt;Thinscript - language that compiles to both WebAssembly and JavaScript&lt;/a&gt; и &lt;a href="http://yiom.github.io/sketchpad/"&gt;Sketchpad - a simple sketchpad library&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>Tue, 05 Apr 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/04/05/podcast-04-13.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/04/05/podcast-04-13.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/149/file/podfm_rwpod_my_13_149.mp3" length="25438567" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/149/file/podfm_rwpod_my_13_149.mp3" fileSize="25438567" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 changed Active Job default adapter fro...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 changed Active Job default adapter from Inline to Async и Introducing the Query Composer
+  Processing large CSV files with Ruby и Write your first Rubygems plugin
+  Trailblazer gives you a high-level architecture for web applications
+
+
+JavaScript
+
+
+  NPM security vulnerability with leaking authentication headers, Changes to npm’s unpublish policy и Introducing Safari Technology Preview
+  JavaScript Rounding Recipes и Throwing errors with FB’s invariant library
+  Thinscript - language that compiles to both WebAssembly and JavaScript и Sketchpad - a simple sketchpad library
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0413.png"/>
+  <itunes:duration>00:26:23</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>12 выпуск 04 сезона. How to upgrade to Rails 5, NotImplementedError, Left_pad, PassiveRecord, Hain и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2514,65 +2573,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/cafe/005.png"/>
   <itunes:duration>00:57:34</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>22 выпуск 03 сезона. Benchmarking Ruby Dispatch Strategies, Limitations of Language, Is ReactJS really fast?, Watcher.js и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://devblog.avdi.org/2015/06/03/benchmarking-ruby-dispatch-strategies/"&gt;Benchmarking Ruby Dispatch Strategies&lt;/a&gt; и &lt;a href="http://thingsinabucket.com/2015/05/27/hash_default_proc/"&gt;Hash and default_proc&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://idiosyncratic-ruby.com/29-limitations-of-language.html"&gt;Limitations of Language&lt;/a&gt;, &lt;a href="http://nithinbekal.com/posts/homeopathic-code-optimizations/"&gt;Demystifying @tenderlove’s homeopathic code optimizations&lt;/a&gt; и &lt;a href="https://github.com/rails/rails/pull/20350"&gt;Enumerable#pluck&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://www.codeschool.com/blog/2015/06/04/how-a-bug-in-my-ruby-code-cost-code-school-13000/"&gt;How a Bug in My Ruby Code Cost Code School $13,000&lt;/a&gt;, &lt;a href="http://dabrorius.github.io/2015/06/two-modules-one-method.html"&gt;Two modules, one method&lt;/a&gt; и &lt;a href="https://netguru.co/blog/ruby-rails-books"&gt;10 RoR Books You Must Have on Your Bookshelf&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://jamesknelson.com/are-es6-promises-swallowing-your-errors/"&gt;Are JavaScript Promises swallowing your errors?&lt;/a&gt; и &lt;a href="http://blog.500tech.com/is-reactjs-fast/"&gt;Is ReactJS really fast?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://leo.github.io/blog/no-more-css-grid-frameworks/"&gt;No more CSS grid frameworks&lt;/a&gt;, &lt;a href="http://www.patrick-wied.at/static/nudejs/"&gt;Nudity detection with JavaScript and HTMLCanvas&lt;/a&gt; и &lt;a href="http://martijnwelker.github.io/Watcher.js/"&gt;Watcher.js - an easy to set-up javascript security/motion detection camera&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://elijahmanor.com/javascript-smells/"&gt;JavaScript Code Smells&lt;/a&gt;, &lt;a href="http://mauriciosoares.github.io/pin.js/"&gt;Pin.js - dependency free plugin to Pin elements as you scroll&lt;/a&gt; и &lt;a href="http://shivganesh.com/2015/05/notifyme-js-a-simple-notification-library/"&gt;NotifyMe.js – A Simple Notification Library&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-</description>
-  <pubDate>Sun, 07 Jun 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/06/07/podcast-03-22.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/06/07/podcast-03-22.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/109/file/podfm_rwpod_my_22_109.mp3" length="41592726" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/109/file/podfm_rwpod_my_22_109.mp3" fileSize="41592726" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Benchmarking Ruby Dispatch Strategies и Hash a...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Benchmarking Ruby Dispatch Strategies и Hash and default_proc
-  Limitations of Language, Demystifying @tenderlove’s homeopathic code optimizations и Enumerable#pluck
-  How a Bug in My Ruby Code Cost Code School $13,000, Two modules, one method и 10 RoR Books You Must Have on Your Bookshelf
-
-
-JavaScript
-
-
-  Are JavaScript Promises swallowing your errors? и Is ReactJS really fast?
-  No more CSS grid frameworks, Nudity detection with JavaScript and HTMLCanvas и Watcher.js - an easy to set-up javascript security/motion detection camera
-  JavaScript Code Smells, Pin.js - dependency free plugin to Pin elements as you scroll и NotifyMe.js – A Simple Notification Library
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0322.png"/>
-  <itunes:duration>00:43:13</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
