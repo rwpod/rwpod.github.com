@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 05 Apr 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 05 Apr 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,77 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>14 выпуск 04 сезона. RubyGems.org vulnerability, React v15.0.1, Grunt 1.0.0, Picguard, Glio.js, SassMe и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://blog.rubygems.org/2016/04/06/gem-replacement-vulnerability-and-mitigation.html"&gt;RubyGems.org gem replacement vulnerability and mitigation&lt;/a&gt; и &lt;a href="http://til.seansellek.com/chunk_while/"&gt;Implementing Ruby 2.3.0: Enumerable’s chunk_while&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://jakeyesbeck.com/2016/04/03/how-to-deal-with-timezones-the-active-support-way/"&gt;How to Deal with Timezones the Active Support Way&lt;/a&gt; и &lt;a href="http://andrewmarkle.com/2016/04/06/multitenancy-with-pundit.html"&gt;Simple Multitenancy with Rails and Pundit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://gavinmiller.io/2016/a-tale-of-security-gone-wrong/"&gt;A Tale of Security Gone Wrong&lt;/a&gt;, &lt;a href="http://patshaughnessy.net/2016/4/2/two-dumb-ruby-mistakes"&gt;Two Dumb Ruby Mistakes&lt;/a&gt; и &lt;a href="https://www.netguru.co/blog/image-processing-for-rails"&gt;Netguru Presents: Picguard - Visual Content Processing In Rails&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://facebook.github.io/react/blog/2016/04/08/react-v15.0.1.html"&gt;React v15.0.1&lt;/a&gt;, &lt;a href="http://gruntjs.com/blog/2016-04-04-grunt-1.0.0-released"&gt;Grunt 1.0.0&lt;/a&gt; и &lt;a href="https://github.com/WICG/IntersectionObserver/blob/master/explainer.md"&gt;Chrome 51 adds Intersection Observer: Get visibility of DOM elements relative to a viewport without polling&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9"&gt;Webpack - The Confusing Parts&lt;/a&gt;, &lt;a href="https://auth0.com/blog/2016/03/15/javascript-module-systems-showdown/"&gt;JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015&lt;/a&gt;, &lt;a href="https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/"&gt;4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them&lt;/a&gt; и &lt;a href="https://addyosmani.com/blog/using-npm-offline/"&gt;Offline installation of npm packages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://code.flickr.net/2016/04/05/our-justified-layout-goes-open-source/"&gt;Our Justified Layout Goes Open Source&lt;/a&gt;, &lt;a href="https://fezvrasta.github.io/popper.js/"&gt;Popper.js - a library used to create poppers in web applications&lt;/a&gt;, &lt;a href="http://luisvinicius167.github.io/gliojs/"&gt;Glio.js - detects if the mouse of an user leaves the viewport/document borders of your website&lt;/a&gt;, &lt;a href="https://github.com/charto/cwait"&gt;Cwait - limit number of promises running in parallel&lt;/a&gt; и &lt;a href="http://sassme.arc90.com/"&gt;SassMe - visualize SASS color functions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="section"&gt;Скринкасты&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="https://www.youtube.com/channel/UC_CA1uZFuVdBfLSHf2qEwyg"&gt;RWpod скринкасты&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>Tue, 12 Apr 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/04/12/podcast-04-14.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/04/12/podcast-04-14.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/150/file/podfm_rwpod_my_14_150.mp3" length="48556786" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/150/file/podfm_rwpod_my_14_150.mp3" fileSize="48556786" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  RubyGems.org gem replacement vulnerability and...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  RubyGems.org gem replacement vulnerability and mitigation и Implementing Ruby 2.3.0: Enumerable’s chunk_while
+  How to Deal with Timezones the Active Support Way и Simple Multitenancy with Rails and Pundit
+  A Tale of Security Gone Wrong, Two Dumb Ruby Mistakes и Netguru Presents: Picguard - Visual Content Processing In Rails
+
+
+JavaScript
+
+
+  React v15.0.1, Grunt 1.0.0 и Chrome 51 adds Intersection Observer: Get visibility of DOM elements relative to a viewport without polling
+  Webpack - The Confusing Parts, JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015, 4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them и Offline installation of npm packages
+  Our Justified Layout Goes Open Source, Popper.js - a library used to create poppers in web applications, Glio.js - detects if the mouse of an user leaves the viewport/document borders of your website, Cwait - limit number of promises running in parallel и SassMe - visualize SASS color functions
+
+
+Скринкасты
+
+
+  RWpod скринкасты
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0414.png"/>
+  <itunes:duration>00:50:28</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>13 выпуск 04 сезона. Query Composer, Trailblazer, npm's unpublish policy, Safari Technology Preview и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2503,76 +2574,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0323.png"/>
   <itunes:duration>00:44:28</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>RWPod Кафе 5: React.js, Flux, React Native, React-Router, ImmutableJS, Flow, Babel</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. В данном кафе поговорим про React.js, Flux, React Native, React-Router, ImmutableJS, Flow, Babel:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://facebook.github.io/react/"&gt;React.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.normative.com/react-and-why-its-awesome/"&gt;React (and why it’s awesome)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://medium.com/javascript-scene/jsx-looks-like-an-abomination-1c1ec351a918"&gt;JSX Looks Like An Abomination&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://blog.500tech.com/is-reactjs-fast/"&gt;Is ReactJS really fast?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://tonyfreed.com/blog/what_is_virtual_dom"&gt;What is Virtual DOM&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://vdom-benchmark.github.io/vdom-benchmark/"&gt;Virtual DOM Benchmark&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.smashingmagazine.com/2015/04/21/react-to-the-future-with-isomorphic-apps/"&gt;React To The Future With Isomorphic Apps&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://bensmithett.github.io/going-isomorphic-with-react/"&gt;Going Isomorphic with React&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://facebook.github.io/flux/"&gt;Flux&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://scotch.io/tutorials/creating-a-simple-shopping-cart-with-react-js-and-flux"&gt;Creating A Simple Shopping Cart with React.js and Flux&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://medium.com/@nextminds/replaying-bugs-with-flux-52f6bd8c8307"&gt;Replaying bugs with Flux&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://github.com/rackt/react-router"&gt;React-Router&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://facebook.github.io/immutable-js/"&gt;ImmutableJS&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://blog.risingstack.com/the-react-js-way-flux-architecture-with-immutable-js/"&gt;The React.js Way: Flux Architecture with Immutable.js&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://flowtype.org/"&gt;Flow&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://formatjs.io/react/"&gt;React Intl&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://babeljs.io/"&gt;Babel&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="https://facebook.github.io/react-native/"&gt;React Native&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://herman.asia/building-a-flashcard-app-with-react-native"&gt;Diary of Building an iOS App with React Native&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-</description>
-  <pubDate>Thu, 11 Jun 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/06/11/cafe-005.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/06/11/cafe-005.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/110/file/podfm_rwpod_my_20150611.mp3" length="55366943" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/110/file/podfm_rwpod_my_20150611.mp3" fileSize="55366943" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. В данном кафе поговорим про React.js, Flux, React Native, React-Router, ImmutableJS, Flow, Babel:
-
-
-  React.js
-  R...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. В данном кафе поговорим про React.js, Flux, React Native, React-Router, ImmutableJS, Flow, Babel:
-
-
-  React.js
-  React (and why it’s awesome)
-  JSX Looks Like An Abomination
-  Is ReactJS really fast?
-  What is Virtual DOM
-  Virtual DOM Benchmark
-  React To The Future With Isomorphic Apps
-  Going Isomorphic with React
-  Flux
-  Creating A Simple Shopping Cart with React.js and Flux
-  Replaying bugs with Flux
-  React-Router
-  ImmutableJS
-  The React.js Way: Flux Architecture with Immutable.js
-  Flow
-  React Intl
-  Babel
-  React Native
-  Diary of Building an iOS App with React Native
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/cafe/005.png"/>
-  <itunes:duration>00:57:34</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
