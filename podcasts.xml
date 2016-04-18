@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 12 Apr 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 18 Apr 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 18 Apr 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -31,6 +31,65 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>15 выпуск 04 сезона. Why You Should Taste Grape, Ruby Methods, Rodauth, Why Javascript Development is Crazy и прочее</title>
+  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
+
+&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://blog.bigbinary.com/2016/04/13/rails-5-adds-option-to-log-warning-when-fetching-big-result-sets.html"&gt;Rails 5 adds warning when fetching big result set with Active Record&lt;/a&gt;, &lt;a href="http://blog.bigbinary.com/2016/04/12/rails-5-allows-to-send-log-to-stdout-via-environment-variable.html"&gt;Rails 5 allows to send log to STDOUT via environment variable&lt;/a&gt; и &lt;a href="http://glaucocustodio.com/2016/04/14/why-you-should-taste-grape/"&gt;Why You Should Taste Grape&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://prograils.com/posts/ruby-methods-differences-load-require-include-extend"&gt;Ruby Methods: differences between load, require, include and extend in Ruby&lt;/a&gt;, &lt;a href="http://www.blackbytes.info/2016/04/metaprogramming-in-the-wild/"&gt;Metaprogramming in The Wild&lt;/a&gt; и &lt;a href="https://blog.codeship.com/optimists-guide-pessimistic-library-versioning/"&gt;The Optimist’s Guide to Pessimistic Library Versioning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="https://infinum.co/the-capsized-eight/articles/whitelisting-with-the-lesser-known-presence-in-method"&gt;Whitelisting with the lesser - known #presence_in method&lt;/a&gt;, &lt;a href="http://technology.customink.com/blog/2016/04/07/introducing-the-activerecord-collection-cache-key-gem/"&gt;Introducing the activerecord-collection_cache_key gem&lt;/a&gt;, &lt;a href="http://rodauth.jeremyevans.net/"&gt;Rodauth - an authentication and account management framework for Rack applications&lt;/a&gt; и &lt;a href="http://ruby.libhunt.com/"&gt;Awesome Ruby&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href="http://www.planningforaliens.com/blog/2016/04/11/why-js-development-is-crazy/"&gt;Why Javascript Development is Crazy&lt;/a&gt; и &lt;a href="http://chrismm.com/blog/the-other-kind-of-javascript-fatigue/"&gt;The other kind of JavaScript fatigue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://www.sohamkamani.com/blog/2016/04/09/stop-using-gifs/"&gt;Why we should stop using GIFs&lt;/a&gt; и &lt;a href="https://www.bramstein.com/writing/web-font-loading-patterns.html"&gt;Web Font Loading Patterns&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href="http://js.libhunt.com/"&gt;Awesome JavaScript&lt;/a&gt;, &lt;a href="http://tympanus.net/codrops/2016/04/13/interactive-3d-mall-map/"&gt;Interactive 3D Mall Map&lt;/a&gt; и &lt;a href="https://github.com/teropa/to-sting"&gt;Object.toSting() polyfill&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+</description>
+  <pubDate>Mon, 18 Apr 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/04/18/podcast-04-15.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/04/18/podcast-04-15.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/151/file/podfm_rwpod_my_15_151.mp3" length="48556786" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/151/file/podfm_rwpod_my_15_151.mp3" fileSize="48556786" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 adds warning when fetching big result ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 adds warning when fetching big result set with Active Record, Rails 5 allows to send log to STDOUT via environment variable и Why You Should Taste Grape
+  Ruby Methods: differences between load, require, include and extend in Ruby, Metaprogramming in The Wild и The Optimist’s Guide to Pessimistic Library Versioning
+  Whitelisting with the lesser - known #presence_in method, Introducing the activerecord-collection_cache_key gem, Rodauth - an authentication and account management framework for Rack applications и Awesome Ruby
+
+
+JavaScript
+
+
+  Why Javascript Development is Crazy и The other kind of JavaScript fatigue
+  Why we should stop using GIFs и Web Font Loading Patterns
+  Awesome JavaScript, Interactive 3D Mall Map и Object.toSting() polyfill
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0415.png"/>
+  <itunes:duration>00:41:08</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>14 выпуск 04 сезона. RubyGems.org vulnerability, React v15.0.1, Grunt 1.0.0, Picguard, Glio.js, SassMe и прочее</title>
   <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
@@ -2515,65 +2574,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0324.png"/>
   <itunes:duration>00:35:39</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>23 выпуск 03 сезона. The Rubyist's Guide to Environment Variables, Cells 4.0, Angular Classy, Chakram, BackstopJS и прочее</title>
-  <description>&lt;p&gt;Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:&lt;/p&gt;
-
-&lt;h2 id="ruby"&gt;Ruby&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://blog.honeybadger.io/ruby-guide-environment-variables/"&gt;The Rubyist’s Guide to Environment Variables&lt;/a&gt; и &lt;a href="http://pothibo.com/2015/6/now-i-understand-a-little-bit-how-docker-works"&gt;Now I understand a little bit how docker works&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://blog.codeship.com/how-arel-converts-ruby-queries-into-sql-statements/"&gt;How Arel Converts Ruby Queries Into SQL Statements&lt;/a&gt;, &lt;a href="http://aokolish.me/blog/2015/05/26/how-to-simplify-active-record-scopes-that-reference-other-tables/"&gt;How to simplify Active Record scopes that reference other models&lt;/a&gt; и &lt;a href="http://codingwithaxe.com/the-problem-with-dependency-injection/"&gt;The problem with dependency injection&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://www.essentialtdd.com/"&gt;TDD Basics for Beginners&lt;/a&gt;, &lt;a href="http://nicksda.apotomo.de/2015/06/cells-4-0-goodbye-rails-hello-ruby/"&gt;Cells 4.0 – Goodbye Rails! Hello Ruby!&lt;/a&gt; и &lt;a href="http://ilyabylich.svbtle.com/apipie-amazing-tool-for-documenting-your-rails-api"&gt;Apipie - amazing tool for documenting your Rails API&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href="http://gofore.com/ohjelmistokehitys/react-native-share-application-logic-web-mobile/"&gt;React Native – Share Your Application Logic on Web and Mobile&lt;/a&gt; и &lt;a href="http://www.breck-mckye.com/blog/2015/06/writing-a-non-blocking-javascript-quicksort/"&gt;Writing a non-blocking JavaScript quicksort&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://davej.github.io/angular-classy/"&gt;Angular Classy&lt;/a&gt;, &lt;a href="https://github.com/jacobp100/state-transitions"&gt;React State Transitions&lt;/a&gt; и &lt;a href="http://blog.teamtreehouse.com/learn-javascript-photoshop-game"&gt;Learn JavaScript and Up Your Photoshop Game&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href="http://dareid.github.io/chakram/"&gt;Chakram - a REST API testing framework&lt;/a&gt;, &lt;a href="https://garris.github.io/BackstopJS/"&gt;BackstopJS - automates CSS regression testing of your responsive web UI by comparing DOM screenshots at various viewport sizes&lt;/a&gt; и &lt;a href="https://paulb.gd/canvas-walking-simulater/"&gt;Canvas: walking simulater (sidescroller)&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;/p&gt;
-
-</description>
-  <pubDate>Mon, 15 Jun 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/06/15/podcast-03-23.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/06/15/podcast-03-23.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/111/file/podfm_rwpod_my_23_111.mp3" length="42799212" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/111/file/podfm_rwpod_my_23_111.mp3" fileSize="42799212" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  The Rubyist’s Guide to Environment Variables и...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  The Rubyist’s Guide to Environment Variables и Now I understand a little bit how docker works
-  How Arel Converts Ruby Queries Into SQL Statements, How to simplify Active Record scopes that reference other models и The problem with dependency injection
-  TDD Basics for Beginners, Cells 4.0 – Goodbye Rails! Hello Ruby! и Apipie - amazing tool for documenting your Rails API
-
-
-JavaScript
-
-
-  React Native – Share Your Application Logic on Web and Mobile и Writing a non-blocking JavaScript quicksort
-  Angular Classy, React State Transitions и Learn JavaScript and Up Your Photoshop Game
-  Chakram - a REST API testing framework, BackstopJS - automates CSS regression testing of your responsive web UI by comparing DOM screenshots at various viewport sizes и Canvas: walking simulater (sidescroller)
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0323.png"/>
-  <itunes:duration>00:44:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
