@@ -33,17 +33,19 @@
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 <item>
   <title>Работаем с multi_json в Ruby</title>
-  <description>&lt;p&gt;Добрый день.&lt;/p&gt;
+  <description>
+    <![CDATA[<p>Добрый день.</p>
 
-&lt;p&gt;Новый скринкаст “Работаем с multi_json в Ruby”. multi_json библиотека предоставляет единый API для самый популярных JSON парсеров в Ruby. В скринкасте показано небольшое введение в использование данной библиотеки.&lt;/p&gt;
+<p>Новый скринкаст “Работаем с multi_json в Ruby”. multi_json библиотека предоставляет единый API для самый популярных JSON парсеров в Ruby. В скринкасте показано небольшое введение в использование данной библиотеки.</p>
 
-&lt;p&gt;&lt;/p&gt;
+<p></p>
 
-&lt;div class="flex-video"&gt;
-  &lt;iframe width="640" height="360" src="http://www.youtube.com/embed/4a2p00joD44" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
-&lt;/div&gt;
+<div class="flex-video">
+  <iframe width="640" height="360" src="http://www.youtube.com/embed/4a2p00joD44" frameborder="0" allowfullscreen=""></iframe>
+</div>
 
-</description>
+]]>
+  </description>
   <pubDate>Wed, 23 Jan 2013 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2013/01/23/working-with-multi-json.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2013/01/23/working-with-multi-json.html</guid>
