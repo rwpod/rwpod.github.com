@@ -31,7 +31,7 @@
 
     <!-- Place favicon.ico and apple-touch-icon.png in the root directory -->
     <link href="/css/application-9fc123a4.css" rel="stylesheet" media="all" />
-    <script src="/js/application-c225634f.js" async="async"></script>
+    <script src="/js/application-5d0822e0.js" async="async"></script>
     <!-- rss -->
     <link href="http://feeds.rwpod.com/rwpod" rel="alternate" title="RWpod - подкаст про мир Ruby и Web технологии" type="application/rss+xml">
     <!-- GA BEGIN -->

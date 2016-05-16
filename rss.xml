@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 09 May 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 09 May 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 17 May 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 17 May 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>18 выпуск 04 сезона. Electron 1.0, Nginx+Mruby, Helix: Rust + Ruby, NW.js &amp; Electron Compared, Talisman и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39">Today I accept that Rails is yesterday’s software</a>, <a href="http://www.codethinked.com/it-takes-all-kinds">It Takes All Kinds</a>, <a href="http://blog.bigbinary.com/2016/05/12/Rails-5-supports-bi-directional-destroy-dependency.html">Rails 5 supports bi-directional destroy dependency</a>, <a href="http://blog.bigbinary.com/2016/05/09/rails-5-allows-updating-without-updating-timestamps.html">Rails 5 allows updating a record without updating timestamps</a>, <a href="http://blog.bigbinary.com/2016/05/13/rails-5-accepts-1-or-true-for-acceptance-validation.html">Rails 5 accepts 1 or true for acceptance validation</a> и <a href="http://blog.iempire.ru/2016/05/09/railsconf-2016/">My notes from RailsConf 2016</a></li>
+  <li><a href="http://hokstadconsulting.com/nginx/mruby-virtualhosts">Routing HTTP requests with Nginx+Mruby</a>, <a href="http://blog.skylight.io/introducing-helix/">Introducing Helix: Rust + Ruby, Without The Glue</a> и <a href="http://undefined-reference.org/2016/05/14/writing-rubygem-in-rust.html">Writing Ruby gem in Rust</a></li>
+  <li><a href="http://www.sitepoint.com/use-react-today-in-ruby-by-heading-to-cuba/">Use React Today in Ruby by Heading to Cuba</a>, <a href="https://github.com/discourse/mini_racer">MiniRacer - minimal, modern embedded V8 for Ruby</a>, <a href="https://github.com/gregnavis/active_record_doctor">Active Record Doctor helps to keep the database in a good shape</a> и <a href="https://github.com/telegram-bot-rb/telegram-bot">Telegram::Bot</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://electron.atom.io/blog/2016/05/11/electron-1-0">Electron 1.0</a>, <a href="http://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition">NW.js &amp; Electron Compared (2016 Edition)</a> и <a href="https://github.com/railsware/bozon">Bozon</a></li>
+  <li><a href="https://medium.com/javascript-non-grata/the-three-big-lies-about-javascript-e227cabe3beb">The Three Big Lies About JavaScript</a>, <a href="https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/">12 Extremely Useful Hacks for JavaScript</a>, <a href="http://www.barbarianmeetscoding.com/blog/2016/05/12/a-look-at-es6-sets/">A Look at ES6 Sets</a> и <a href="https://css-tricks.com/want-make-postcss-plugin/">So you want to make a PostCSS plugin</a></li>
+  <li><a href="https://yomguithereal.github.io/talisman/">Talisman - a straightforward &amp; modular NLP, machine learning &amp; fuzzy matching library for JavaScript</a>, <a href="https://www.javapoly.com/">JavaPoly.js is a library that polyfills native JVM support in the browser</a>, <a href="http://stevefaulkner.github.io/HTML5accessibility/">HTML5 Accessibility</a> и <a href="https://github.com/garbles/why-did-you-update">Why did you update? - a function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://medium.com/@deathdisco/today-i-accept-that-rails-is-yesterday-s-software-b5af35c9af39">Today I accept that Rails is yesterday’s software</a>, <a href="http://www.codethinked.com/it-takes-all-kinds">It Takes All Kinds</a>, <a href="http://blog.bigbinary.com/2016/05/12/Rails-5-supports-bi-directional-destroy-dependency.html">Rails 5 supports bi-directional destroy dependency</a>, <a href="http://blog.bigbinary.com/2016/05/09/rails-5-allows-updating-without-updating-timestamps.html">Rails 5 allows updating a record without updating timestamps</a>, <a href="http://blog.bigbinary.com/2016/05/13/rails-5-accepts-1-or-true-for-acceptance-validation.html">Rails 5 accepts 1 or true for acceptance validation</a> и <a href="http://blog.iempire.ru/2016/05/09/railsconf-2016/">My notes from RailsConf 2016</a></li>
+  <li><a href="http://hokstadconsulting.com/nginx/mruby-virtualhosts">Routing HTTP requests with Nginx+Mruby</a>, <a href="http://blog.skylight.io/introducing-helix/">Introducing Helix: Rust + Ruby, Without The Glue</a> и <a href="http://undefined-reference.org/2016/05/14/writing-rubygem-in-rust.html">Writing Ruby gem in Rust</a></li>
+  <li><a href="http://www.sitepoint.com/use-react-today-in-ruby-by-heading-to-cuba/">Use React Today in Ruby by Heading to Cuba</a>, <a href="https://github.com/discourse/mini_racer">MiniRacer - minimal, modern embedded V8 for Ruby</a>, <a href="https://github.com/gregnavis/active_record_doctor">Active Record Doctor helps to keep the database in a good shape</a> и <a href="https://github.com/telegram-bot-rb/telegram-bot">Telegram::Bot</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://electron.atom.io/blog/2016/05/11/electron-1-0">Electron 1.0</a>, <a href="http://tangiblejs.com/posts/nw-js-and-electron-compared-2016-edition">NW.js &amp; Electron Compared (2016 Edition)</a> и <a href="https://github.com/railsware/bozon">Bozon</a></li>
+  <li><a href="https://medium.com/javascript-non-grata/the-three-big-lies-about-javascript-e227cabe3beb">The Three Big Lies About JavaScript</a>, <a href="https://blog.jscrambler.com/12-extremely-useful-hacks-for-javascript/">12 Extremely Useful Hacks for JavaScript</a>, <a href="http://www.barbarianmeetscoding.com/blog/2016/05/12/a-look-at-es6-sets/">A Look at ES6 Sets</a> и <a href="https://css-tricks.com/want-make-postcss-plugin/">So you want to make a PostCSS plugin</a></li>
+  <li><a href="https://yomguithereal.github.io/talisman/">Talisman - a straightforward &amp; modular NLP, machine learning &amp; fuzzy matching library for JavaScript</a>, <a href="https://www.javapoly.com/">JavaPoly.js is a library that polyfills native JVM support in the browser</a>, <a href="http://stevefaulkner.github.io/HTML5accessibility/">HTML5 Accessibility</a> и <a href="https://github.com/garbles/why-did-you-update">Why did you update? - a function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 17 May 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/05/17/podcast-04-18.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/05/17/podcast-04-18.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/154/file/podfm_rwpod_my_18_154.mp3" length="52053235" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/154/file/podfm_rwpod_my_18_154.mp3" fileSize="52053235" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Today I accept that Rails is yesterday’s softw...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Today I accept that Rails is yesterday’s software, It Takes All Kinds, Rails 5 supports bi-directional destroy dependency, Rails 5 allows updating a record without updating timestamps, Rails 5 accepts 1 or true for acceptance validation и My notes from RailsConf 2016
+  Routing HTTP requests with Nginx+Mruby, Introducing Helix: Rust + Ruby, Without The Glue и Writing Ruby gem in Rust
+  Use React Today in Ruby by Heading to Cuba, MiniRacer - minimal, modern embedded V8 for Ruby, Active Record Doctor helps to keep the database in a good shape и Telegram::Bot
+
+
+JavaScript
+
+
+  Electron 1.0, NW.js &amp;amp; Electron Compared (2016 Edition) и Bozon
+  The Three Big Lies About JavaScript, 12 Extremely Useful Hacks for JavaScript, A Look at ES6 Sets и So you want to make a PostCSS plugin
+  Talisman - a straightforward &amp;amp; modular NLP, machine learning &amp;amp; fuzzy matching library for JavaScript, JavaPoly.js is a library that polyfills native JVM support in the browser, HTML5 Accessibility и Why did you update? - a function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0418.png"/>
+  <itunes:duration>00:54:07</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>17 выпуск 04 сезона. Rails 5.0.0.rc1, Node v6.1.0, ImageMagick Is On Fire, Parsing XML, Target=_blank, Algebrite, Grafi.js и прочее</title>
   <description>
@@ -3584,96 +3668,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0327.png"/>
   <itunes:duration>00:51:16</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>26 выпуск 03 сезона. Action Cable, JRuby - Just Ruby, The Evolution of Go, jQuery 3.0 Alpha, Incremental DOM, Pure UI и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://devblog.avdi.org/2015/07/08/ruby-is-defined-by-terrible-tools/">Ruby is defined by terrible tools</a>, <a href="https://github.com/rails/actioncable">Action Cable – Integrated websockets for Rails</a> и <a href="http://blog.skylight.io/4-easy-ways-to-speed-up-your-rails-app/">4 Easy Ways to Speed Up Your Rails App</a></li>
-  <li><a href="http://blog.eurucamp.org/2015/07/08/jruby-just-ruby/">JRuby - Just Ruby</a>, <a href="http://rubylogs.com/writing-rails-middleware/">How to write Rails middleware</a> и <a href="http://www.sitepoint.com/license-to-sigkill/">License to SIGKILL</a></li>
-  <li><a href="http://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/">Unleash the Power of Storing JSON in Postgres</a> и <a href="https://www.madetech.com/news/5-tdd-antipatterns">5 TDD Antipatterns</a></li>
-  <li><a href="https://sourcegraph.com/blog/live/gophercon2015/123645585015">The Evolution of Go</a> (<a href="http://habrahabr.ru/post/262295/">перевод</a>) и <a href="https://sourcegraph.com/blog/live/gophercon2015/123574706480">Go GC: Solving the Latency Problem in Go 1.5</a> (<a href="http://habrahabr.ru/post/262335/">перевод</a>)</li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.jquery.com/2015/07/13/jquery-3-0-and-jquery-compat-3-0-alpha-versions-released/">jQuery 3.0 and jQuery Compat 3.0 Alpha Versions Released</a> и <a href="https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f">Introducing Incremental DOM</a></li>
-  <li><a href="http://www.dzinerslane.com/20-best-javascript-frameworks-for-programmers/">20 best javascript frameworks for programmers</a> и <a href="http://stats.js.org/">Статистика по наиболее популярным JS проектам на GitHub</a></li>
-  <li><a href="https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/">How fast are web workers?</a>, <a href="http://alexeisavca.github.io/keyframes.js/">Keyframes.js - a functional reactive animation library</a> и <a href="https://github.com/reddit/reddit-mobile/issues/247">Аудит производительности мобильной версии reddit от Пола Айриша</a></li>
-  <li><a href="http://rauchg.com/2015/pure-ui/">Pure UI</a> и <a href="http://marksheet.io/">MarkSheet - a free guide to learn HTML and CSS</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://devblog.avdi.org/2015/07/08/ruby-is-defined-by-terrible-tools/">Ruby is defined by terrible tools</a>, <a href="https://github.com/rails/actioncable">Action Cable – Integrated websockets for Rails</a> и <a href="http://blog.skylight.io/4-easy-ways-to-speed-up-your-rails-app/">4 Easy Ways to Speed Up Your Rails App</a></li>
-  <li><a href="http://blog.eurucamp.org/2015/07/08/jruby-just-ruby/">JRuby - Just Ruby</a>, <a href="http://rubylogs.com/writing-rails-middleware/">How to write Rails middleware</a> и <a href="http://www.sitepoint.com/license-to-sigkill/">License to SIGKILL</a></li>
-  <li><a href="http://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/">Unleash the Power of Storing JSON in Postgres</a> и <a href="https://www.madetech.com/news/5-tdd-antipatterns">5 TDD Antipatterns</a></li>
-  <li><a href="https://sourcegraph.com/blog/live/gophercon2015/123645585015">The Evolution of Go</a> (<a href="http://habrahabr.ru/post/262295/">перевод</a>) и <a href="https://sourcegraph.com/blog/live/gophercon2015/123574706480">Go GC: Solving the Latency Problem in Go 1.5</a> (<a href="http://habrahabr.ru/post/262335/">перевод</a>)</li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.jquery.com/2015/07/13/jquery-3-0-and-jquery-compat-3-0-alpha-versions-released/">jQuery 3.0 and jQuery Compat 3.0 Alpha Versions Released</a> и <a href="https://medium.com/google-developers/introducing-incremental-dom-e98f79ce2c5f">Introducing Incremental DOM</a></li>
-  <li><a href="http://www.dzinerslane.com/20-best-javascript-frameworks-for-programmers/">20 best javascript frameworks for programmers</a> и <a href="http://stats.js.org/">Статистика по наиболее популярным JS проектам на GitHub</a></li>
-  <li><a href="https://hacks.mozilla.org/2015/07/how-fast-are-web-workers/">How fast are web workers?</a>, <a href="http://alexeisavca.github.io/keyframes.js/">Keyframes.js - a functional reactive animation library</a> и <a href="https://github.com/reddit/reddit-mobile/issues/247">Аудит производительности мобильной версии reddit от Пола Айриша</a></li>
-  <li><a href="http://rauchg.com/2015/pure-ui/">Pure UI</a> и <a href="http://marksheet.io/">MarkSheet - a free guide to learn HTML and CSS</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 14 Jul 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/07/14/podcast-03-26.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/07/14/podcast-03-26.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/114/file/podfm_rwpod_my_26_114.mp3" length="59660040" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/114/file/podfm_rwpod_my_26_114.mp3" fileSize="59660040" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby is defined by terrible tools, Action Cabl...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby is defined by terrible tools, Action Cable – Integrated websockets for Rails и 4 Easy Ways to Speed Up Your Rails App
-  JRuby - Just Ruby, How to write Rails middleware и License to SIGKILL
-  Unleash the Power of Storing JSON in Postgres и 5 TDD Antipatterns
-  The Evolution of Go (перевод) и Go GC: Solving the Latency Problem in Go 1.5 (перевод)
-
-
-JavaScript
-
-
-  jQuery 3.0 and jQuery Compat 3.0 Alpha Versions Released и Introducing Incremental DOM
-  20 best javascript frameworks for programmers и Статистика по наиболее популярным JS проектам на GitHub
-  How fast are web workers?, Keyframes.js - a functional reactive animation library и Аудит производительности мобильной версии reddit от Пола Айриша
-  Pure UI и MarkSheet - a free guide to learn HTML and CSS
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0326.png"/>
-  <itunes:duration>01:02:02</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
