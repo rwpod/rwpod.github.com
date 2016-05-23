@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 17 May 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 17 May 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 23 May 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 23 May 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>19 выпуск 04 сезона. ActiveRecord Suppress, Type Wars, JWT Authentication, Firebase 2.0, Horizon и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/05/15/rails-5-allows-to-inherit-activejob-queue-adapter.html">Rails 5 supports configuring Active Job backend adapter for each job</a>, <a href="http://blog.bigbinary.com/2016/05/18/rails-5-add-a-hidden-field-on-collection-radio-buttons.html">Rails 5 adds a hidden field on collection radio buttons</a> и <a href="https://medium.com/spritle-software/rails-5-activerecord-suppress-a-step-too-far-d7ec2e4ed027">Rails 5 — ActiveRecord Suppress — a step too far?</a></li>
+  <li><a href="http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html">Type Wars</a>, <a href="http://labs.ig.com/static-typing-promise">The promise of static typing</a>, <a href="http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html">My time with Rails is up</a> и <a href="https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7">Ruby has been fast enough for 13 years</a></li>
+  <li><a href="https://www.sitepoint.com/introduction-to-using-jwt-in-rails/">An Introduction to Using JWT Authentication in Rails</a>, <a href="http://blog.rubygems.org/2016/05/19/simplifying-our-stack.html">Rubygems.org: Simplifying our stack</a> и <a href="http://eftimov.net/decorators-and-presenters">A bit about decorators and presenters</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://www.theverge.com/2016/5/18/11701030/google-io-2016-keynote-highlights-announcements-recap">The 10 biggest announcements from Google I/O 2016</a>, <a href="https://firebase.google.com/">Firebase 2.0</a> и <a href="http://blog.jquery.com/2016/05/20/jquery-3-0-release-candidate-released/">jQuery 3.0 Release Candidate</a></li>
+  <li><a href="http://martinfowler.com/articles/refactoring-video-store-js/">Refactoring a javascript video store</a>, <a href="http://csswizardry.com/2016/05/the-importance-of-important/">The Importance of !important: Forcing Immutability in CSS</a> и <a href="https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec">5 Easy Steps to Understanding JSON Web Tokens (JWT)</a></li>
+  <li><a href="http://horizon.io/">Horizon is a realtime, open-source backend for JavaScript apps</a>, <a href="http://nativebase.io/">NativeBase - the missing piece of React Native</a>, <a href="http://javier.xyz/visual-center/">Visual Center - a tool that will find the visual center of your images</a> и <a href="http://felicegattuso.com/projects/timedropper/">Timedropper - a jQuery UI timepicker</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/05/15/rails-5-allows-to-inherit-activejob-queue-adapter.html">Rails 5 supports configuring Active Job backend adapter for each job</a>, <a href="http://blog.bigbinary.com/2016/05/18/rails-5-add-a-hidden-field-on-collection-radio-buttons.html">Rails 5 adds a hidden field on collection radio buttons</a> и <a href="https://medium.com/spritle-software/rails-5-activerecord-suppress-a-step-too-far-d7ec2e4ed027">Rails 5 — ActiveRecord Suppress — a step too far?</a></li>
+  <li><a href="http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html">Type Wars</a>, <a href="http://labs.ig.com/static-typing-promise">The promise of static typing</a>, <a href="http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html">My time with Rails is up</a> и <a href="https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7">Ruby has been fast enough for 13 years</a></li>
+  <li><a href="https://www.sitepoint.com/introduction-to-using-jwt-in-rails/">An Introduction to Using JWT Authentication in Rails</a>, <a href="http://blog.rubygems.org/2016/05/19/simplifying-our-stack.html">Rubygems.org: Simplifying our stack</a> и <a href="http://eftimov.net/decorators-and-presenters">A bit about decorators and presenters</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://www.theverge.com/2016/5/18/11701030/google-io-2016-keynote-highlights-announcements-recap">The 10 biggest announcements from Google I/O 2016</a>, <a href="https://firebase.google.com/">Firebase 2.0</a> и <a href="http://blog.jquery.com/2016/05/20/jquery-3-0-release-candidate-released/">jQuery 3.0 Release Candidate</a></li>
+  <li><a href="http://martinfowler.com/articles/refactoring-video-store-js/">Refactoring a javascript video store</a>, <a href="http://csswizardry.com/2016/05/the-importance-of-important/">The Importance of !important: Forcing Immutability in CSS</a> и <a href="https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec">5 Easy Steps to Understanding JSON Web Tokens (JWT)</a></li>
+  <li><a href="http://horizon.io/">Horizon is a realtime, open-source backend for JavaScript apps</a>, <a href="http://nativebase.io/">NativeBase - the missing piece of React Native</a>, <a href="http://javier.xyz/visual-center/">Visual Center - a tool that will find the visual center of your images</a> и <a href="http://felicegattuso.com/projects/timedropper/">Timedropper - a jQuery UI timepicker</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Mon, 23 May 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/05/23/podcast-04-19.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/05/23/podcast-04-19.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/155/file/podfm_rwpod_my_19_155.mp3" length="58845470" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/155/file/podfm_rwpod_my_19_155.mp3" fileSize="58845470" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 supports configuring Active Job backen...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 supports configuring Active Job backend adapter for each job, Rails 5 adds a hidden field on collection radio buttons и Rails 5 — ActiveRecord Suppress — a step too far?
+  Type Wars, The promise of static typing, My time with Rails is up и Ruby has been fast enough for 13 years
+  An Introduction to Using JWT Authentication in Rails, Rubygems.org: Simplifying our stack и A bit about decorators and presenters
+
+
+JavaScript
+
+
+  The 10 biggest announcements from Google I/O 2016, Firebase 2.0 и jQuery 3.0 Release Candidate
+  Refactoring a javascript video store, The Importance of !important: Forcing Immutability in CSS и 5 Easy Steps to Understanding JSON Web Tokens (JWT)
+  Horizon is a realtime, open-source backend for JavaScript apps, NativeBase - the missing piece of React Native, Visual Center - a tool that will find the visual center of your images и Timedropper - a jQuery UI timepicker
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0419.png"/>
+  <itunes:duration>01:01:11</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>18 выпуск 04 сезона. Electron 1.0, Nginx+Mruby, Helix: Rust + Ruby, NW.js &amp; Electron Compared, Talisman и прочее</title>
   <description>
@@ -3578,96 +3662,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0328.png"/>
   <itunes:duration>00:27:59</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>27 выпуск 03 сезона. Bundler 1.10, TypeScript 1.5, RMagick, GC in Python and Ruby, Crayon.css, Belle и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://bundler.io/blog/2015/06/24/version-1-10-released.html">Bundler 1.10</a>, <a href="http://octopress.org/2015/01/15/octopress-3.0-is-coming/">Octopress 3.0 Is Coming</a> и <a href="http://linduxed.com/blog/2015/07/19/rmagick-a-year-later/">RMagick - A year later</a></li>
-  <li><a href="https://medium.com/evil-martians/new-feature-in-rails-5-render-views-outside-of-actions-2fc1181e86a8">New feature in Rails 5: render views outside of actions</a>, <a href="http://blog.honeybadger.io/how-unicorn-talks-to-nginx-an-introduction-to-unix-sockets-in-ruby/">How unicorn talks to nginx – an introduction to unix sockets in Ruby</a> и <a href="http://engineering.kapost.com/2015/07/decoupling-ruby-applications-with-amazon-sns-sqs/">Decoupling Ruby Applications with Amazon SNS &amp; SQS</a></li>
-  <li><a href="http://blog.codeship.com/generational-gc-python-ruby/">Generational GC in Python and Ruby</a> и <a href="http://technology.customink.com/blog/2015/07/16/colorized-sql-log-backport-for-activerecord/">Colorized SQL Log Backport for ActiveRecord</a></li>
-  <li><a href="http://julienblanchard.com/2015/contracts-with-ruby/">How I upgraded my Ruby with Contracts</a>, <a href="http://rubyonwindowsguides.github.io/">Ruby on Windows Guides</a> и <a href="https://subvisual.co/blog/posts/63-deploying-a-crystal-application-to-heroku">Deploying a Crystal application to Heroku</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blogs.msdn.com/b/typescript/archive/2015/07/20/announcing-typescript-1-5.aspx">TypeScript 1.5</a> и <a href="http://www.brucelawson.co.uk/2015/is-html-complete/">Is HTML ‘complete’?</a> (<a href="http://css-live.ru/articles/gotov-li-html.html">перевод</a>)</li>
-  <li><a href="http://teropa.info/blog/2015/07/15/overcoming-javascript-framework-fatigue.html">Overcoming JavaScript Framework Fatigue</a> и <a href="http://www.drlongghost.com/wordpress/food-food/">‘food’ != ‘food’</a></li>
-  <li><a href="http://reactkungfu.com/2015/07/going-mobile-with-react-native/">Going mobile with React Native</a>, <a href="http://nikgraf.github.io/belle/#/guide/introducing-belle">Introducing Belle</a> и <a href="http://riccardoscalco.github.io/crayon/">Crayon.css - because colors have a name</a></li>
-  <li><a href="https://github.com/DrBoolean/mostly-adequate-guide">Mostly adequate guide to FP (in javascript)</a>, <a href="http://www.washington.edu/accessibility/web/">Developing accessible websites</a> и <a href="http://bitsofco.de/2015/jquery-ui-events/">jQuery UI Events Cheatsheet</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://bundler.io/blog/2015/06/24/version-1-10-released.html">Bundler 1.10</a>, <a href="http://octopress.org/2015/01/15/octopress-3.0-is-coming/">Octopress 3.0 Is Coming</a> и <a href="http://linduxed.com/blog/2015/07/19/rmagick-a-year-later/">RMagick - A year later</a></li>
-  <li><a href="https://medium.com/evil-martians/new-feature-in-rails-5-render-views-outside-of-actions-2fc1181e86a8">New feature in Rails 5: render views outside of actions</a>, <a href="http://blog.honeybadger.io/how-unicorn-talks-to-nginx-an-introduction-to-unix-sockets-in-ruby/">How unicorn talks to nginx – an introduction to unix sockets in Ruby</a> и <a href="http://engineering.kapost.com/2015/07/decoupling-ruby-applications-with-amazon-sns-sqs/">Decoupling Ruby Applications with Amazon SNS &amp; SQS</a></li>
-  <li><a href="http://blog.codeship.com/generational-gc-python-ruby/">Generational GC in Python and Ruby</a> и <a href="http://technology.customink.com/blog/2015/07/16/colorized-sql-log-backport-for-activerecord/">Colorized SQL Log Backport for ActiveRecord</a></li>
-  <li><a href="http://julienblanchard.com/2015/contracts-with-ruby/">How I upgraded my Ruby with Contracts</a>, <a href="http://rubyonwindowsguides.github.io/">Ruby on Windows Guides</a> и <a href="https://subvisual.co/blog/posts/63-deploying-a-crystal-application-to-heroku">Deploying a Crystal application to Heroku</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blogs.msdn.com/b/typescript/archive/2015/07/20/announcing-typescript-1-5.aspx">TypeScript 1.5</a> и <a href="http://www.brucelawson.co.uk/2015/is-html-complete/">Is HTML ‘complete’?</a> (<a href="http://css-live.ru/articles/gotov-li-html.html">перевод</a>)</li>
-  <li><a href="http://teropa.info/blog/2015/07/15/overcoming-javascript-framework-fatigue.html">Overcoming JavaScript Framework Fatigue</a> и <a href="http://www.drlongghost.com/wordpress/food-food/">‘food’ != ‘food’</a></li>
-  <li><a href="http://reactkungfu.com/2015/07/going-mobile-with-react-native/">Going mobile with React Native</a>, <a href="http://nikgraf.github.io/belle/#/guide/introducing-belle">Introducing Belle</a> и <a href="http://riccardoscalco.github.io/crayon/">Crayon.css - because colors have a name</a></li>
-  <li><a href="https://github.com/DrBoolean/mostly-adequate-guide">Mostly adequate guide to FP (in javascript)</a>, <a href="http://www.washington.edu/accessibility/web/">Developing accessible websites</a> и <a href="http://bitsofco.de/2015/jquery-ui-events/">jQuery UI Events Cheatsheet</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 21 Jul 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/07/21/podcast-03-27.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/07/21/podcast-03-27.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/115/file/podfm_rwpod_my_27_115.mp3" length="49325561" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/115/file/podfm_rwpod_my_27_115.mp3" fileSize="49325561" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Bundler 1.10, Octopress 3.0 Is Coming и RMagic...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Bundler 1.10, Octopress 3.0 Is Coming и RMagick - A year later
-  New feature in Rails 5: render views outside of actions, How unicorn talks to nginx – an introduction to unix sockets in Ruby и Decoupling Ruby Applications with Amazon SNS &amp;amp; SQS
-  Generational GC in Python and Ruby и Colorized SQL Log Backport for ActiveRecord
-  How I upgraded my Ruby with Contracts, Ruby on Windows Guides и Deploying a Crystal application to Heroku
-
-
-JavaScript
-
-
-  TypeScript 1.5 и Is HTML ‘complete’? (перевод)
-  Overcoming JavaScript Framework Fatigue и ‘food’ != ‘food’
-  Going mobile with React Native, Introducing Belle и Crayon.css - because colors have a name
-  Mostly adequate guide to FP (in javascript), Developing accessible websites и jQuery UI Events Cheatsheet
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0327.png"/>
-  <itunes:duration>00:51:16</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
