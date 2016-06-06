@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 31 May 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 31 May 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 07 Jun 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 07 Jun 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>21 выпуск 04 сезона. Ruby concurrency, dropping IE8 support, Barba.js, Drape, gDoc.js, AnyPixel.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/06/01/rails-5-introduces-helpers-for-country-zones.html">Rails 5 introduces country_zones helper method to ActiveSupport::TimeZone</a> и <a href="https://www.ziptask.com/10-Ways-to-Secure-a-Ruby-on-Rails-Website">10 Ways to Secure a Ruby on Rails Website</a></li>
+  <li><a href="https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_the_mutex/">Ruby concurrency: in praise of the mutex</a> и <a href="http://www.akitaonrails.com/2016/05/31/flirting-with-crystal-a-rubyist-perspective">Flirting with Crystal, a Rubyist Perspective</a></li>
+  <li><a href="http://www.rubypigeon.com/posts/4-ways-to-avoid-monkey-patching/">4 Ways To Avoid Monkey Patching</a>, <a href="http://www.ombulabs.com/blog/ruby/imap/a-comprehensive-guide-to-interacting-with-imap-using-ruby.html">A comprehensive guide to interacting with IMAP using Ruby</a> и <a href="http://aserafin.pl/2016/06/06/fast-csv-imports-with-rails-and-postgresql/">Really fast CSV imports with Rails and PostgreSQL</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://tech.trivago.com/2016/06/01/dropping-ie8-support-consequences-for-javascript/">Dropping IE8 Support: Consequences for JavaScript</a>, <a href="https://testmysite.thinkwithgoogle.com/">Test how mobile-friendly your site is</a> и <a href="http://jeffcarp.github.io/frontend-hyperpolyglot/">Front-end Hyperpolyglot</a></li>
+  <li><a href="https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060">How to write your own Virtual DOM</a> и <a href="https://egghead.io/courses/building-react-applications-with-idiomatic-redux">Building React Applications with Idiomatic Redux</a></li>
+  <li><a href="http://barbajs.org/">Barba.js - a small, flexible and dependency free library that helps you creating fluid and smooth transitions between your website’s pages</a>, <a href="http://aatishb.github.io/drape/">Drape - a fabric design and simulation tool, built in three.js</a>, <a href="https://github.com/jadeallencook/gDoc.js">gDoc.js - use Google Spreadsheets as your CMS</a> и <a href="http://googlecreativelab.github.io/anypixel/">AnyPixel.js is an open-source software and hardware library that makes it possible to use the web to create big, unusual, interactive displays out of all kinds of things</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/06/01/rails-5-introduces-helpers-for-country-zones.html">Rails 5 introduces country_zones helper method to ActiveSupport::TimeZone</a> и <a href="https://www.ziptask.com/10-Ways-to-Secure-a-Ruby-on-Rails-Website">10 Ways to Secure a Ruby on Rails Website</a></li>
+  <li><a href="https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_the_mutex/">Ruby concurrency: in praise of the mutex</a> и <a href="http://www.akitaonrails.com/2016/05/31/flirting-with-crystal-a-rubyist-perspective">Flirting with Crystal, a Rubyist Perspective</a></li>
+  <li><a href="http://www.rubypigeon.com/posts/4-ways-to-avoid-monkey-patching/">4 Ways To Avoid Monkey Patching</a>, <a href="http://www.ombulabs.com/blog/ruby/imap/a-comprehensive-guide-to-interacting-with-imap-using-ruby.html">A comprehensive guide to interacting with IMAP using Ruby</a> и <a href="http://aserafin.pl/2016/06/06/fast-csv-imports-with-rails-and-postgresql/">Really fast CSV imports with Rails and PostgreSQL</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://tech.trivago.com/2016/06/01/dropping-ie8-support-consequences-for-javascript/">Dropping IE8 Support: Consequences for JavaScript</a>, <a href="https://testmysite.thinkwithgoogle.com/">Test how mobile-friendly your site is</a> и <a href="http://jeffcarp.github.io/frontend-hyperpolyglot/">Front-end Hyperpolyglot</a></li>
+  <li><a href="https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060">How to write your own Virtual DOM</a> и <a href="https://egghead.io/courses/building-react-applications-with-idiomatic-redux">Building React Applications with Idiomatic Redux</a></li>
+  <li><a href="http://barbajs.org/">Barba.js - a small, flexible and dependency free library that helps you creating fluid and smooth transitions between your website’s pages</a>, <a href="http://aatishb.github.io/drape/">Drape - a fabric design and simulation tool, built in three.js</a>, <a href="https://github.com/jadeallencook/gDoc.js">gDoc.js - use Google Spreadsheets as your CMS</a> и <a href="http://googlecreativelab.github.io/anypixel/">AnyPixel.js is an open-source software and hardware library that makes it possible to use the web to create big, unusual, interactive displays out of all kinds of things</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 07 Jun 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/06/07/podcast-04-21.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/07/podcast-04-21.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/157/file/podfm_rwpod_my_21_157.mp3" length="41395438" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/157/file/podfm_rwpod_my_21_157.mp3" fileSize="41395438" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 introduces country_zones helper method...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 introduces country_zones helper method to ActiveSupport::TimeZone и 10 Ways to Secure a Ruby on Rails Website
+  Ruby concurrency: in praise of the mutex и Flirting with Crystal, a Rubyist Perspective
+  4 Ways To Avoid Monkey Patching, A comprehensive guide to interacting with IMAP using Ruby и Really fast CSV imports with Rails and PostgreSQL
+
+
+JavaScript
+
+
+  Dropping IE8 Support: Consequences for JavaScript, Test how mobile-friendly your site is и Front-end Hyperpolyglot
+  How to write your own Virtual DOM и Building React Applications with Idiomatic Redux
+  Barba.js - a small, flexible and dependency free library that helps you creating fluid and smooth transitions between your website’s pages, Drape - a fabric design and simulation tool, built in three.js, gDoc.js - use Google Spreadsheets as your CMS и AnyPixel.js is an open-source software and hardware library that makes it possible to use the web to create big, unusual, interactive displays out of all kinds of things
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0421.png"/>
+  <itunes:duration>00:43:01</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>20 выпуск 04 сезона. Rails 5 Features and Changes, Rails has won, MIND Patterns, Stylelint, Pepperoni, Microlight.js и прочее</title>
   <description>
@@ -3583,96 +3667,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0330.png"/>
   <itunes:duration>01:06:42</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>29 выпуск 03 сезона. Phoenix Framework, RubySpec, Errno exceptions, JerryScript, FANN, Mind, VexFlow, Monoid и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.elpassion.com/playing-with-phoenix-framework-rails-younger-brother/">Playing with Phoenix Framework – Rails’ younger brother</a>, <a href="http://lucasnogueira.me/en/Cassandra-&amp;-Ruby/">Cassandra &amp; Ruby</a> и <a href="http://sorentwo.com/2015/07/27/optimizing-redis-usage-for-caching.html">Optimizing Redis Usage For Caching</a></li>
-  <li><a href="http://www.blackbytes.info/2015/08/static-analysis-in-ruby/">Static Analysis in Ruby</a>, <a href="http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html">RubySpec is Reborn!</a> и <a href="https://www.madetech.com/news/focus-with-well-structured-rspec-tests">Focus with well structured RSpec tests</a></li>
-  <li><a href="http://www.markphelps.me/2015/07/30/wrap-your-dependencies.html">Wrap Your Dependencies</a> и <a href="http://blog.honeybadger.io/understanding-rubys-strange-errno-exceptions/">Understanding Ruby’s strange “Errno” exceptions</a></li>
-  <li><a href="http://southdesign.de/blog/rack.html">What is Rack, please?</a>, <a href="https://mattbrictson.com/gzipped-assets-nginx-rails-42">Generating Gzipped Assets for Nginx in Rails 4.2</a> и <a href="https://github.com/GoodLife/rails-patch-json-encode">Rails::Patch::Json::Encode</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://info.meteor.com/blog/comparing-performance-of-blaze-react-angular-meteor-and-angular-2-with-meteor">Comparing Performance of Blaze, React, Angular-Meteor and Angular 2 with Meteor</a>, <a href="https://strongloop.com/strongblog/introduction-to-es6-iterators/">An Introduction to JavaScript ES6 Iterators</a> и <a href="https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/">ES6 In Depth: let and const</a></li>
-  <li><a href="http://samsung.github.io/jerryscript/">JerryScript - JavaScript engine for Internet of Things</a>, <a href="https://samsung.github.io/iotjs/">IoT.js - a framework for Internet of Things</a>, <a href="https://github.com/louisstow/fann.js/">FANN (Fast Artificial Neural Network) library compiled through Emscripten</a> и <a href="http://www.mindjs.net/">Mind - flexible neural networks in JavaScript</a></li>
-  <li><a href="http://www.vexflow.com/">VexFlow - a online music notation rendering API</a> и <a href="http://bolatovumar.github.io/captionify/">Captionify - caption images without jQuery</a></li>
-  <li><a href="http://danrschlosser.github.io/substituteteacher.js/">Substituteteacher.js - a JavaScript library that lets you substitute sentences for each other, swapping only the words necessary</a>, <a href="https://github.com/dthree/vantage/">Vantage - interactive CLI for Node</a> и <a href="http://larsenwork.com/monoid/">Monoid - Open Source Coding Font</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.elpassion.com/playing-with-phoenix-framework-rails-younger-brother/">Playing with Phoenix Framework – Rails’ younger brother</a>, <a href="http://lucasnogueira.me/en/Cassandra-&amp;-Ruby/">Cassandra &amp; Ruby</a> и <a href="http://sorentwo.com/2015/07/27/optimizing-redis-usage-for-caching.html">Optimizing Redis Usage For Caching</a></li>
-  <li><a href="http://www.blackbytes.info/2015/08/static-analysis-in-ruby/">Static Analysis in Ruby</a>, <a href="http://eregon.github.io/rubyspec/2015/07/29/rubyspec-is-reborn.html">RubySpec is Reborn!</a> и <a href="https://www.madetech.com/news/focus-with-well-structured-rspec-tests">Focus with well structured RSpec tests</a></li>
-  <li><a href="http://www.markphelps.me/2015/07/30/wrap-your-dependencies.html">Wrap Your Dependencies</a> и <a href="http://blog.honeybadger.io/understanding-rubys-strange-errno-exceptions/">Understanding Ruby’s strange “Errno” exceptions</a></li>
-  <li><a href="http://southdesign.de/blog/rack.html">What is Rack, please?</a>, <a href="https://mattbrictson.com/gzipped-assets-nginx-rails-42">Generating Gzipped Assets for Nginx in Rails 4.2</a> и <a href="https://github.com/GoodLife/rails-patch-json-encode">Rails::Patch::Json::Encode</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://info.meteor.com/blog/comparing-performance-of-blaze-react-angular-meteor-and-angular-2-with-meteor">Comparing Performance of Blaze, React, Angular-Meteor and Angular 2 with Meteor</a>, <a href="https://strongloop.com/strongblog/introduction-to-es6-iterators/">An Introduction to JavaScript ES6 Iterators</a> и <a href="https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/">ES6 In Depth: let and const</a></li>
-  <li><a href="http://samsung.github.io/jerryscript/">JerryScript - JavaScript engine for Internet of Things</a>, <a href="https://samsung.github.io/iotjs/">IoT.js - a framework for Internet of Things</a>, <a href="https://github.com/louisstow/fann.js/">FANN (Fast Artificial Neural Network) library compiled through Emscripten</a> и <a href="http://www.mindjs.net/">Mind - flexible neural networks in JavaScript</a></li>
-  <li><a href="http://www.vexflow.com/">VexFlow - a online music notation rendering API</a> и <a href="http://bolatovumar.github.io/captionify/">Captionify - caption images without jQuery</a></li>
-  <li><a href="http://danrschlosser.github.io/substituteteacher.js/">Substituteteacher.js - a JavaScript library that lets you substitute sentences for each other, swapping only the words necessary</a>, <a href="https://github.com/dthree/vantage/">Vantage - interactive CLI for Node</a> и <a href="http://larsenwork.com/monoid/">Monoid - Open Source Coding Font</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 03 Aug 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/08/03/podcast-03-29.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/08/03/podcast-03-29.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/117/file/podfm_rwpod_my_29_117.mp3" length="53375368" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/117/file/podfm_rwpod_my_29_117.mp3" fileSize="53375368" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Playing with Phoenix Framework – Rails’ younge...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Playing with Phoenix Framework – Rails’ younger brother, Cassandra &amp;amp; Ruby и Optimizing Redis Usage For Caching
-  Static Analysis in Ruby, RubySpec is Reborn! и Focus with well structured RSpec tests
-  Wrap Your Dependencies и Understanding Ruby’s strange “Errno” exceptions
-  What is Rack, please?, Generating Gzipped Assets for Nginx in Rails 4.2 и Rails::Patch::Json::Encode
-
-
-JavaScript
-
-
-  Comparing Performance of Blaze, React, Angular-Meteor and Angular 2 with Meteor, An Introduction to JavaScript ES6 Iterators и ES6 In Depth: let and const
-  JerryScript - JavaScript engine for Internet of Things, IoT.js - a framework for Internet of Things, FANN (Fast Artificial Neural Network) library compiled through Emscripten и Mind - flexible neural networks in JavaScript
-  VexFlow - a online music notation rendering API и Captionify - caption images without jQuery
-  Substituteteacher.js - a JavaScript library that lets you substitute sentences for each other, swapping only the words necessary, Vantage - interactive CLI for Node и Monoid - Open Source Coding Font
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0329.png"/>
-  <itunes:duration>00:55:29</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
