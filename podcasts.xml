@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 07 Jun 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 07 Jun 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 14 Jun 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 14 Jun 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>22 выпуск 04 сезона. Duck-typing with #to_proc, FasterPath, jQuery 3.0, Shadow DOM v1, Bootstrap 4, Sabertooth и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/06/06/rails-5-provides-finish-option-for-find-in-batches.html">Rails 5 adds finish option in find_in_batches</a> и <a href="https://lucaguidi.com/2016/06/07/the-penguin-that-cannot-fly.html">The Penguin That Can’t Fly</a></li>
+  <li><a href="http://ducktypelabs.com/how-to-keep-your-controllers-thin-with-form-objects/">How To Keep Your Controllers Thin with Form Objects</a> и <a href="http://jbodah.github.io/blog/2016/06/09/ducktyping-toproc/">Duck-typing with #to_proc</a></li>
+  <li><a href="http://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv/">How to spy on a Ruby program</a> и <a href="https://github.com/danielpclark/faster_path">FasterPath - improve performance in the most heavily used areas of Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/">jQuery 3.0 Final Released</a>, <a href="http://hayato.io/2016/shadowdomv1/">What’s New in Shadow DOM v1 (by examples)</a> и <a href="https://medium.com/wdstack/bootstrap-4-whats-new-visual-guide-c84dd81d8387">Bootstrap 4: A Visual Guide</a></li>
+  <li><a href="https://medium.com/javascript-scene/the-shocking-secret-about-static-types-514d39bf30a3">The Shocking Secret About Static Types</a> и <a href="https://blog.cloudflare.com/cf-ui/">Open Sourcing CloudFlare’s UI Framework</a></li>
+  <li><a href="https://github.com/cesanta/v7">V7: Embedded JavaScript engine</a>, <a href="https://sabertooth-io.github.io/">Sabertooth - a Javascript Library for interacting with Bluetooth Low Energy Devices</a>, <a href="https://salesforce-ux.github.io/sass-deprecate/">Deprecate() is a Sass mixin that helps managing code deprecation</a>, <a href="https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa">ReactEurope 2016 - Day 1</a> и <a href="https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof">ReactEurope 2016 - Day 2</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/06/06/rails-5-provides-finish-option-for-find-in-batches.html">Rails 5 adds finish option in find_in_batches</a> и <a href="https://lucaguidi.com/2016/06/07/the-penguin-that-cannot-fly.html">The Penguin That Can’t Fly</a></li>
+  <li><a href="http://ducktypelabs.com/how-to-keep-your-controllers-thin-with-form-objects/">How To Keep Your Controllers Thin with Form Objects</a> и <a href="http://jbodah.github.io/blog/2016/06/09/ducktyping-toproc/">Duck-typing with #to_proc</a></li>
+  <li><a href="http://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv/">How to spy on a Ruby program</a> и <a href="https://github.com/danielpclark/faster_path">FasterPath - improve performance in the most heavily used areas of Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/">jQuery 3.0 Final Released</a>, <a href="http://hayato.io/2016/shadowdomv1/">What’s New in Shadow DOM v1 (by examples)</a> и <a href="https://medium.com/wdstack/bootstrap-4-whats-new-visual-guide-c84dd81d8387">Bootstrap 4: A Visual Guide</a></li>
+  <li><a href="https://medium.com/javascript-scene/the-shocking-secret-about-static-types-514d39bf30a3">The Shocking Secret About Static Types</a> и <a href="https://blog.cloudflare.com/cf-ui/">Open Sourcing CloudFlare’s UI Framework</a></li>
+  <li><a href="https://github.com/cesanta/v7">V7: Embedded JavaScript engine</a>, <a href="https://sabertooth-io.github.io/">Sabertooth - a Javascript Library for interacting with Bluetooth Low Energy Devices</a>, <a href="https://salesforce-ux.github.io/sass-deprecate/">Deprecate() is a Sass mixin that helps managing code deprecation</a>, <a href="https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa">ReactEurope 2016 - Day 1</a> и <a href="https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof">ReactEurope 2016 - Day 2</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 14 Jun 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/06/14/podcast-04-22.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/14/podcast-04-22.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/158/file/podfm_rwpod_my_22_158.mp3" length="47241279" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/158/file/podfm_rwpod_my_22_158.mp3" fileSize="47241279" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 adds finish option in find_in_batches ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 adds finish option in find_in_batches и The Penguin That Can’t Fly
+  How To Keep Your Controllers Thin with Form Objects и Duck-typing with #to_proc
+  How to spy on a Ruby program и FasterPath - improve performance in the most heavily used areas of Ruby
+
+
+JavaScript
+
+
+  jQuery 3.0 Final Released, What’s New in Shadow DOM v1 (by examples) и Bootstrap 4: A Visual Guide
+  The Shocking Secret About Static Types и Open Sourcing CloudFlare’s UI Framework
+  V7: Embedded JavaScript engine, Sabertooth - a Javascript Library for interacting with Bluetooth Low Energy Devices, Deprecate() is a Sass mixin that helps managing code deprecation, ReactEurope 2016 - Day 1 и ReactEurope 2016 - Day 2
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0422.png"/>
+  <itunes:duration>00:49:06</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>21 выпуск 04 сезона. Ruby concurrency, dropping IE8 support, Barba.js, Drape, gDoc.js, AnyPixel.js и прочее</title>
   <description>
@@ -3577,96 +3661,6 @@ JavaScript
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0331.png"/>
   <itunes:duration>01:02:07</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>30 выпуск 03 сезона. IO.js 3.0.0, Patching Rails Performance, Gem Gem, Inch, TypeScript vs Haxe, Butler.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.codeship.com/use-ask-dont-tell-policy-ruby/">Use An Ask, Don’t Tell Policy With Ruby</a> и <a href="http://engineering.heroku.com/blogs/2015-08-06-patching-rails-performance/">Patching Rails Performance</a></li>
-  <li><a href="http://blog.honeybadger.io/benchmarking-exceptions-in-ruby-yep-theyre-slow/">Benchmarking exceptions in Ruby – yep, they’re slow</a> и <a href="http://homeonrails.com/2015/08/from-ruby-to-erlang/">From Ruby to Erlang. Beginner’s Mistakes</a></li>
-  <li><a href="http://xavier.nayrac.eu/2015/08/03/do-you-know-the-gem-gem/">Do You Know The Gem Gem?</a> и <a href="https://robots.thoughtbot.com/better-commit-messages-with-a-gitmessage-template">Better Commit Messages with a .gitmessage Template</a></li>
-  <li><a href="http://blog.excelwithcode.com/define-quality-software.html">What’s does quality software mean?</a>, <a href="http://trivelop.de/inch/">Inch - a documentation measurement tool for Ruby</a> и <a href="https://github.com/ndea/rstreamor">Rstreamor - stream your data using HTTP/1.1 range requests and partial responses</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/nodejs/io.js/blob/master/CHANGELOG.md">io.js 3.0.0</a>, <a href="http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html">Stop pushing the web forward</a> и <a href="https://dev.opera.com/articles/on-a-moratorium-on-new-browser-features/">On PPK’s moratorium on new browser features</a></li>
-  <li><a href="http://blog.onthewings.net/2015/08/05/typescript-vs-haxe/">TypeScript vs Haxe, Which is the Better Compile-to-JS Language?</a> и <a href="http://developer.telerik.com/featured/the-javascript-looping-evolution/">The JavaScript Looping Evolution</a></li>
-  <li><a href="http://arqex.com/1072/7-tips-to-publish-your-react-components">7 tips to publish your React components</a>, <a href="http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html">New React Devtools Beta</a>, <a href="http://react.parts/native-ios">React.parts – a catalog of React components</a> и <a href="http://postcss.parts/">PostCSS.parts - a searchable catalog of PostCSS plugins</a></li>
-  <li><a href="https://github.com/720kb/butler">Butler.js is the voice driven, portable butler for your personal needs</a>, <a href="http://alves.im/minigrid/">Minigrid - minimal 2kb zero dependency cascading grid layout</a>, <a href="http://os.js.org/">OS.js - JavaScript Web/Cloud Desktop Platform</a> и <a href="http://sixrevisions.com/javascript/free-javascript-books/">10 Free JavaScript Books</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.codeship.com/use-ask-dont-tell-policy-ruby/">Use An Ask, Don’t Tell Policy With Ruby</a> и <a href="http://engineering.heroku.com/blogs/2015-08-06-patching-rails-performance/">Patching Rails Performance</a></li>
-  <li><a href="http://blog.honeybadger.io/benchmarking-exceptions-in-ruby-yep-theyre-slow/">Benchmarking exceptions in Ruby – yep, they’re slow</a> и <a href="http://homeonrails.com/2015/08/from-ruby-to-erlang/">From Ruby to Erlang. Beginner’s Mistakes</a></li>
-  <li><a href="http://xavier.nayrac.eu/2015/08/03/do-you-know-the-gem-gem/">Do You Know The Gem Gem?</a> и <a href="https://robots.thoughtbot.com/better-commit-messages-with-a-gitmessage-template">Better Commit Messages with a .gitmessage Template</a></li>
-  <li><a href="http://blog.excelwithcode.com/define-quality-software.html">What’s does quality software mean?</a>, <a href="http://trivelop.de/inch/">Inch - a documentation measurement tool for Ruby</a> и <a href="https://github.com/ndea/rstreamor">Rstreamor - stream your data using HTTP/1.1 range requests and partial responses</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/nodejs/io.js/blob/master/CHANGELOG.md">io.js 3.0.0</a>, <a href="http://www.quirksmode.org/blog/archives/2015/07/stop_pushing_th.html">Stop pushing the web forward</a> и <a href="https://dev.opera.com/articles/on-a-moratorium-on-new-browser-features/">On PPK’s moratorium on new browser features</a></li>
-  <li><a href="http://blog.onthewings.net/2015/08/05/typescript-vs-haxe/">TypeScript vs Haxe, Which is the Better Compile-to-JS Language?</a> и <a href="http://developer.telerik.com/featured/the-javascript-looping-evolution/">The JavaScript Looping Evolution</a></li>
-  <li><a href="http://arqex.com/1072/7-tips-to-publish-your-react-components">7 tips to publish your React components</a>, <a href="http://facebook.github.io/react/blog/2015/08/03/new-react-devtools-beta.html">New React Devtools Beta</a>, <a href="http://react.parts/native-ios">React.parts – a catalog of React components</a> и <a href="http://postcss.parts/">PostCSS.parts - a searchable catalog of PostCSS plugins</a></li>
-  <li><a href="https://github.com/720kb/butler">Butler.js is the voice driven, portable butler for your personal needs</a>, <a href="http://alves.im/minigrid/">Minigrid - minimal 2kb zero dependency cascading grid layout</a>, <a href="http://os.js.org/">OS.js - JavaScript Web/Cloud Desktop Platform</a> и <a href="http://sixrevisions.com/javascript/free-javascript-books/">10 Free JavaScript Books</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 11 Aug 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/08/11/podcast-03-30.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/08/11/podcast-03-30.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/118/file/podfm_rwpod_my_30_118.mp3" length="64142693" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/118/file/podfm_rwpod_my_30_118.mp3" fileSize="64142693" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Use An Ask, Don’t Tell Policy With Ruby и Patc...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Use An Ask, Don’t Tell Policy With Ruby и Patching Rails Performance
-  Benchmarking exceptions in Ruby – yep, they’re slow и From Ruby to Erlang. Beginner’s Mistakes
-  Do You Know The Gem Gem? и Better Commit Messages with a .gitmessage Template
-  What’s does quality software mean?, Inch - a documentation measurement tool for Ruby и Rstreamor - stream your data using HTTP/1.1 range requests and partial responses
-
-
-JavaScript
-
-
-  io.js 3.0.0, Stop pushing the web forward и On PPK’s moratorium on new browser features
-  TypeScript vs Haxe, Which is the Better Compile-to-JS Language? и The JavaScript Looping Evolution
-  7 tips to publish your React components, New React Devtools Beta, React.parts – a catalog of React components и PostCSS.parts - a searchable catalog of PostCSS plugins
-  Butler.js is the voice driven, portable butler for your personal needs, Minigrid - minimal 2kb zero dependency cascading grid layout, OS.js - JavaScript Web/Cloud Desktop Platform и 10 Free JavaScript Books
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0330.png"/>
-  <itunes:duration>01:06:42</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
