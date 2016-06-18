@@ -94,17 +94,28 @@ Ruby
 Ruby
 
 
-  Rails 5 adds finish option in find_in_batches и The Penguin That Can’t Fly
-  How To Keep Your Controllers Thin with Form Objects и Duck-typing with #to_proc
-  How to spy on a Ruby program и FasterPath - improve performance in the most heavily used areas of Ruby
+  
+Rails 5 adds finish option in find_in_batches и The Penguin That Can’t Fly
+
+  
+How To Keep Your Controllers Thin with Form Objects и Duck-typing with #to_proc
+
+  
+How to spy on a Ruby program и FasterPath - improve performance in the most heavily used areas of Ruby
+
 
 
 JavaScript
 
 
-  jQuery 3.0 Final Released, What’s New in Shadow DOM v1 (by examples) и Bootstrap 4: A Visual Guide
-  The Shocking Secret About Static Types и Open Sourcing CloudFlare’s UI Framework
-  V7: Embedded JavaScript engine, Sabertooth - a Javascript Library for interacting with Bluetooth Low Energy Devices, Deprecate() is a Sass mixin that helps managing code deprecation, ReactEurope 2016 - Day 1 и ReactEurope 2016 - Day 2
+  
+jQuery 3.0 Final Released, What’s New in Shadow DOM v1 (by examples) и Bootstrap 4: A Visual Guide
+
+  
+The Shocking Secret About Static Types и Open Sourcing CloudFlare’s UI Framework
+
+  
+V7: Embedded JavaScript engine, Sabertooth - a Javascript Library for interacting with Bluetooth Low Energy Devices, Deprecate() is a Sass mixin that helps managing code deprecation, ReactEurope 2016 - Day 1 и ReactEurope 2016 - Day 2
 
 
 </itunes:summary>
@@ -178,17 +189,28 @@ Ruby
 Ruby
 
 
-  Rails 5 introduces country_zones helper method to ActiveSupport::TimeZone и 10 Ways to Secure a Ruby on Rails Website
-  Ruby concurrency: in praise of the mutex и Flirting with Crystal, a Rubyist Perspective
-  4 Ways To Avoid Monkey Patching, A comprehensive guide to interacting with IMAP using Ruby и Really fast CSV imports with Rails and PostgreSQL
+  
+Rails 5 introduces country_zones helper method to ActiveSupport::TimeZone и 10 Ways to Secure a Ruby on Rails Website
+
+  
+Ruby concurrency: in praise of the mutex и Flirting with Crystal, a Rubyist Perspective
+
+  
+4 Ways To Avoid Monkey Patching, A comprehensive guide to interacting with IMAP using Ruby и Really fast CSV imports with Rails and PostgreSQL
+
 
 
 JavaScript
 
 
-  Dropping IE8 Support: Consequences for JavaScript, Test how mobile-friendly your site is и Front-end Hyperpolyglot
-  How to write your own Virtual DOM и Building React Applications with Idiomatic Redux
-  Barba.js - a small, flexible and dependency free library that helps you creating fluid and smooth transitions between your website’s pages, Drape - a fabric design and simulation tool, built in three.js, gDoc.js - use Google Spreadsheets as your CMS и AnyPixel.js is an open-source software and hardware library that makes it possible to use the web to create big, unusual, interactive displays out of all kinds of things
+  
+Dropping IE8 Support: Consequences for JavaScript, Test how mobile-friendly your site is и Front-end Hyperpolyglot
+
+  
+How to write your own Virtual DOM и Building React Applications with Idiomatic Redux
+
+  
+Barba.js - a small, flexible and dependency free library that helps you creating fluid and smooth transitions between your website’s pages, Drape - a fabric design and simulation tool, built in three.js, gDoc.js - use Google Spreadsheets as your CMS и AnyPixel.js is an open-source software and hardware library that makes it possible to use the web to create big, unusual, interactive displays out of all kinds of things
 
 
 </itunes:summary>
@@ -274,24 +296,35 @@ Ruby
 Ruby
 
 
-  A Detailed Look at Rails 5 Features and Changes, Rails 5 adds ArrayInquirer and provides friendlier way to check contents in an array, Rails 5 renamed transactional fixtures to transactional tests и Rails has won: The Elephant in the Room
-  How To Implement Simple Authentication Without Devise, 4 ways to filter has_many associations и Know Ruby: with_index
-  Sidekiq for Crystal, Reactive Ruby: Building Real-time Apps with JRuby and Ratpack и TimeMath2 - a small, no-dependencies library attempting to make time arithmetics easier
+  
+A Detailed Look at Rails 5 Features and Changes, Rails 5 adds ArrayInquirer and provides friendlier way to check contents in an array, Rails 5 renamed transactional fixtures to transactional tests и Rails has won: The Elephant in the Room
+
+  
+How To Implement Simple Authentication Without Devise, 4 ways to filter has_many associations и Know Ruby: with_index
+
+  
+Sidekiq for Crystal, Reactive Ruby: Building Real-time Apps with JRuby and Ratpack и TimeMath2 - a small, no-dependencies library attempting to make time arithmetics easier
+
 
 
 JavaScript
 
 
-  MIND Patterns - Accessibility Patterns for the Web, Stylelint: The Style Sheet Linter We’ve Always Wanted, Family.scss - a set of smart Sass mixins which will help you to manage the style of :nth-child elements и Service Workers 101
-  React Tutorial: Cloning Yelp, Getting Started with TDD in React и Pepperoni - React Native App Starter Kit for Android and iOS
-  Microlight.js is a micro-library which improves readability of code snippets by highlighting, WebGazer.js is an eye tracking library, Bideo.js - a JS library that makes it super easy to add fullscreen background videos и Replicator - an advanced JavaScript objects serialization
+  
+MIND Patterns - Accessibility Patterns for the Web, Stylelint: The Style Sheet Linter We’ve Always Wanted, Family.scss - a set of smart Sass mixins which will help you to manage the style of :nth-child elements и Service Workers 101
+
+  
+React Tutorial: Cloning Yelp, Getting Started with TDD in React и Pepperoni - React Native App Starter Kit for Android and iOS
+
+  
+Microlight.js is a micro-library which improves readability of code snippets by highlighting, WebGazer.js is an eye tracking library, Bideo.js - a JS library that makes it super easy to add fullscreen background videos и Replicator - an advanced JavaScript objects serialization
+
 
 
 Скринкаст
 
 
   Service Worker и Application Cache
-
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
@@ -364,17 +397,28 @@ Ruby
 Ruby
 
 
-  Rails 5 supports configuring Active Job backend adapter for each job, Rails 5 adds a hidden field on collection radio buttons и Rails 5 — ActiveRecord Suppress — a step too far?
-  Type Wars, The promise of static typing, My time with Rails is up и Ruby has been fast enough for 13 years
-  An Introduction to Using JWT Authentication in Rails, Rubygems.org: Simplifying our stack и A bit about decorators and presenters
+  
+Rails 5 supports configuring Active Job backend adapter for each job, Rails 5 adds a hidden field on collection radio buttons и Rails 5 — ActiveRecord Suppress — a step too far?
+
+  
+Type Wars, The promise of static typing, My time with Rails is up и Ruby has been fast enough for 13 years
+
+  
+An Introduction to Using JWT Authentication in Rails, Rubygems.org: Simplifying our stack и A bit about decorators and presenters
+
 
 
 JavaScript
 
 
-  The 10 biggest announcements from Google I/O 2016, Firebase 2.0 и jQuery 3.0 Release Candidate
-  Refactoring a javascript video store, The Importance of !important: Forcing Immutability in CSS и 5 Easy Steps to Understanding JSON Web Tokens (JWT)
-  Horizon is a realtime, open-source backend for JavaScript apps, NativeBase - the missing piece of React Native, Visual Center - a tool that will find the visual center of your images и Timedropper - a jQuery UI timepicker
+  
+The 10 biggest announcements from Google I/O 2016, Firebase 2.0 и jQuery 3.0 Release Candidate
+
+  
+Refactoring a javascript video store, The Importance of !important: Forcing Immutability in CSS и 5 Easy Steps to Understanding JSON Web Tokens (JWT)
+
+  
+Horizon is a realtime, open-source backend for JavaScript apps, NativeBase - the missing piece of React Native, Visual Center - a tool that will find the visual center of your images и Timedropper - a jQuery UI timepicker
 
 
 </itunes:summary>
@@ -448,17 +492,28 @@ Ruby
 Ruby
 
 
-  Today I accept that Rails is yesterday’s software, It Takes All Kinds, Rails 5 supports bi-directional destroy dependency, Rails 5 allows updating a record without updating timestamps, Rails 5 accepts 1 or true for acceptance validation и My notes from RailsConf 2016
-  Routing HTTP requests with Nginx+Mruby, Introducing Helix: Rust + Ruby, Without The Glue и Writing Ruby gem in Rust
-  Use React Today in Ruby by Heading to Cuba, MiniRacer - minimal, modern embedded V8 for Ruby, Active Record Doctor helps to keep the database in a good shape и Telegram::Bot
+  
+Today I accept that Rails is yesterday’s software, It Takes All Kinds, Rails 5 supports bi-directional destroy dependency, Rails 5 allows updating a record without updating timestamps, Rails 5 accepts 1 or true for acceptance validation и My notes from RailsConf 2016
+
+  
+Routing HTTP requests with Nginx+Mruby, Introducing Helix: Rust + Ruby, Without The Glue и Writing Ruby gem in Rust
+
+  
+Use React Today in Ruby by Heading to Cuba, MiniRacer - minimal, modern embedded V8 for Ruby, Active Record Doctor helps to keep the database in a good shape и Telegram::Bot
+
 
 
 JavaScript
 
 
-  Electron 1.0, NW.js &amp;amp; Electron Compared (2016 Edition) и Bozon
-  The Three Big Lies About JavaScript, 12 Extremely Useful Hacks for JavaScript, A Look at ES6 Sets и So you want to make a PostCSS plugin
-  Talisman - a straightforward &amp;amp; modular NLP, machine learning &amp;amp; fuzzy matching library for JavaScript, JavaPoly.js is a library that polyfills native JVM support in the browser, HTML5 Accessibility и Why did you update? - a function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur
+  
+Electron 1.0, NW.js &amp;amp; Electron Compared (2016 Edition) и Bozon
+
+  
+The Three Big Lies About JavaScript, 12 Extremely Useful Hacks for JavaScript, A Look at ES6 Sets и So you want to make a PostCSS plugin
+
+  
+Talisman - a straightforward &amp;amp; modular NLP, machine learning &amp;amp; fuzzy matching library for JavaScript, JavaPoly.js is a library that polyfills native JVM support in the browser, HTML5 Accessibility и Why did you update? - a function that monkey patches React and notifies you in the console when potentially unnecessary re-renders occur
 
 
 </itunes:summary>
@@ -548,26 +603,41 @@ Ruby
 Ruby
 
 
-  Rails 5.0.0.rc1, Rails 5 adds a way to get information about types of failed validations, Bundler v1.12 и ImageMagick Is On Fire — CVE-2016–3714
-  The biggest Rails code smell you should avoid to keep your app healthy и Improving Large Rails Apps with Service Objects
-  How to specify local Ruby gems in your Gemfile, How Changing WebFonts Made Rubygems.org 10x Faster и Parsing XML: XPath vs Object
-  How to Generate Weighted Random Numbers, No More Errors и Make Ruby Great Again
+  
+Rails 5.0.0.rc1, Rails 5 adds a way to get information about types of failed validations, Bundler v1.12 и ImageMagick Is On Fire — CVE-2016–3714
+
+  
+The biggest Rails code smell you should avoid to keep your app healthy и Improving Large Rails Apps with Service Objects
+
+  
+How to specify local Ruby gems in your Gemfile, How Changing WebFonts Made Rubygems.org 10x Faster и Parsing XML: XPath vs Object
+
+  
+How to Generate Weighted Random Numbers, No More Errors и Make Ruby Great Again
+
 
 
 JavaScript
 
 
-  Node v6.1.0, After a year of using NodeJS in production и Target=”_blank” — the most underestimated vulnerability ever
-  ES6, ES7, and beyond и Turbocharged JavaScript refactoring with codemods
-  Curated tutorial and resource links I’ve collected on React, Redux, ES6, React-Compose и React makes me sad
-  Algebrite is a Javascript library for symbolic mathematics, Grafi.js is a library intended for learning about how image processing works, Styleguide helps you create, share, and automate a living visual style library of your brand и DOM Features You Didn’t Know Existed (Video &amp;amp; Slides)
+  
+Node v6.1.0, After a year of using NodeJS in production и Target=”_blank” — the most underestimated vulnerability ever
+
+  
+ES6, ES7, and beyond и Turbocharged JavaScript refactoring with codemods
+
+  
+Curated tutorial and resource links I’ve collected on React, Redux, ES6, React-Compose и React makes me sad
+
+  
+Algebrite is a Javascript library for symbolic mathematics, Grafi.js is a library intended for learning about how image processing works, Styleguide helps you create, share, and automate a living visual style library of your brand и DOM Features You Didn’t Know Existed (Video &amp;amp; Slides)
+
 
 
 Конференции
 
 
   Ruby Meditation 9
-
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
@@ -640,17 +710,28 @@ Ruby
 Ruby
 
 
-  Ruby 2.3.1, 2.2.5 Released, Changes to test controllers in Rails 5, Rails 5 officially supports MariaDB и The Road to Sinatra 2.0
-  How I hunted the most odd ruby bug, When to avoid the DRY principle и 6 Reasons to Choose Ruby on Rails (RoR) to Build Web Application
-  Using Webpack with Middleman, How to Find Ruby Code Smells with Reek и Thredded is a Rails 4.2+ forum/messageboard engine
+  
+Ruby 2.3.1, 2.2.5 Released, Changes to test controllers in Rails 5, Rails 5 officially supports MariaDB и The Road to Sinatra 2.0
+
+  
+How I hunted the most odd ruby bug, When to avoid the DRY principle и 6 Reasons to Choose Ruby on Rails (RoR) to Build Web Application
+
+  
+Using Webpack with Middleman, How to Find Ruby Code Smells with Reek и Thredded is a Rails 4.2+ forum/messageboard engine
+
 
 
 JavaScript
 
 
-  V8 Release 5.1, Finally, CSS In JavaScript! Meet CSSX и Jarvis: an Amazon Echo clone in your browser with PageNodes
-  LazyDOM — an experiment to bring virtual DOM to the browser natively, Tabular Input - one-line text fields in a tabular format, Kewler is a simple functional and immutable color manipulation library, Chart.js 2.0 и Scrollbear is a tool that maintains the container scroll position when images loaded
-  Awesome ESLint, TypeScript Deep Dive (book), MaintainableCSS (book) и EmberConf 2016 (videos)
+  
+V8 Release 5.1, Finally, CSS In JavaScript! Meet CSSX и Jarvis: an Amazon Echo clone in your browser with PageNodes
+
+  
+LazyDOM — an experiment to bring virtual DOM to the browser natively, Tabular Input - one-line text fields in a tabular format, Kewler is a simple functional and immutable color manipulation library, Chart.js 2.0 и Scrollbear is a tool that maintains the container scroll position when images loaded
+
+  
+Awesome ESLint, TypeScript Deep Dive (book), MaintainableCSS (book) и EmberConf 2016 (videos)
 
 
 </itunes:summary>
@@ -724,17 +805,28 @@ Ruby
 Ruby
 
 
-  Rails 5 adds warning when fetching big result set with Active Record, Rails 5 allows to send log to STDOUT via environment variable и Why You Should Taste Grape
-  Ruby Methods: differences between load, require, include and extend in Ruby, Metaprogramming in The Wild и The Optimist’s Guide to Pessimistic Library Versioning
-  Whitelisting with the lesser - known #presence_in method, Introducing the activerecord-collection_cache_key gem, Rodauth - an authentication and account management framework for Rack applications и Awesome Ruby
+  
+Rails 5 adds warning when fetching big result set with Active Record, Rails 5 allows to send log to STDOUT via environment variable и Why You Should Taste Grape
+
+  
+Ruby Methods: differences between load, require, include and extend in Ruby, Metaprogramming in The Wild и The Optimist’s Guide to Pessimistic Library Versioning
+
+  
+Whitelisting with the lesser - known #presence_in method, Introducing the activerecord-collection_cache_key gem, Rodauth - an authentication and account management framework for Rack applications и Awesome Ruby
+
 
 
 JavaScript
 
 
-  Why Javascript Development is Crazy и The other kind of JavaScript fatigue
-  Why we should stop using GIFs и Web Font Loading Patterns
-  Awesome JavaScript, Interactive 3D Mall Map и Object.toSting() polyfill
+  
+Why Javascript Development is Crazy и The other kind of JavaScript fatigue
+
+  
+Why we should stop using GIFs и Web Font Loading Patterns
+
+  
+Awesome JavaScript, Interactive 3D Mall Map и Object.toSting() polyfill
 
 
 </itunes:summary>
@@ -820,24 +912,35 @@ Ruby
 Ruby
 
 
-  RubyGems.org gem replacement vulnerability and mitigation и Implementing Ruby 2.3.0: Enumerable’s chunk_while
-  How to Deal with Timezones the Active Support Way и Simple Multitenancy with Rails and Pundit
-  A Tale of Security Gone Wrong, Two Dumb Ruby Mistakes и Netguru Presents: Picguard - Visual Content Processing In Rails
+  
+RubyGems.org gem replacement vulnerability and mitigation и Implementing Ruby 2.3.0: Enumerable’s chunk_while
+
+  
+How to Deal with Timezones the Active Support Way и Simple Multitenancy with Rails and Pundit
+
+  
+A Tale of Security Gone Wrong, Two Dumb Ruby Mistakes и Netguru Presents: Picguard - Visual Content Processing In Rails
+
 
 
 JavaScript
 
 
-  React v15.0.1, Grunt 1.0.0 и Chrome 51 adds Intersection Observer: Get visibility of DOM elements relative to a viewport without polling
-  Webpack - The Confusing Parts, JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015, 4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them и Offline installation of npm packages
-  Our Justified Layout Goes Open Source, Popper.js - a library used to create poppers in web applications, Glio.js - detects if the mouse of an user leaves the viewport/document borders of your website, Cwait - limit number of promises running in parallel и SassMe - visualize SASS color functions
+  
+React v15.0.1, Grunt 1.0.0 и Chrome 51 adds Intersection Observer: Get visibility of DOM elements relative to a viewport without polling
+
+  
+Webpack - The Confusing Parts, JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015, 4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them и Offline installation of npm packages
+
+  
+Our Justified Layout Goes Open Source, Popper.js - a library used to create poppers in web applications, Glio.js - detects if the mouse of an user leaves the viewport/document borders of your website, Cwait - limit number of promises running in parallel и SassMe - visualize SASS color functions
+
 
 
 Скринкасты
 
 
   RWpod скринкасты
-
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
@@ -910,17 +1013,26 @@ Ruby
 Ruby
 
 
-  Rails 5 changed Active Job default adapter from Inline to Async и Introducing the Query Composer
-  Processing large CSV files with Ruby и Write your first Rubygems plugin
+  
+Rails 5 changed Active Job default adapter from Inline to Async и Introducing the Query Composer
+
+  
+Processing large CSV files with Ruby и Write your first Rubygems plugin
+
   Trailblazer gives you a high-level architecture for web applications
 
 
 JavaScript
 
 
-  NPM security vulnerability with leaking authentication headers, Changes to npm’s unpublish policy и Introducing Safari Technology Preview
-  JavaScript Rounding Recipes и Throwing errors with FB’s invariant library
-  Thinscript - language that compiles to both WebAssembly and JavaScript и Sketchpad - a simple sketchpad library
+  
+NPM security vulnerability with leaking authentication headers, Changes to npm’s unpublish policy и Introducing Safari Technology Preview
+
+  
+JavaScript Rounding Recipes и Throwing errors with FB’s invariant library
+
+  
+Thinscript - language that compiles to both WebAssembly and JavaScript и Sketchpad - a simple sketchpad library
 
 
 </itunes:summary>
@@ -994,17 +1106,28 @@ Ruby
 Ruby
 
 
-  How to upgrade to Rails 5, Improving your Microservices Integration Performance with Memcache and ETAGs и Rebuilding Git in Ruby
-  Custom type-casting with ActiveRecord, Virtus and dry-types, Please Stop Abusing NotImplementedError и The hidden cost of indexes
-  Left_pad - Ruby implementation of famous npm package, PassiveRecord - an extremely lightweight in-memory pseudo-relational algebra и Timeless Programming Tools
+  
+How to upgrade to Rails 5, Improving your Microservices Integration Performance with Memcache and ETAGs и Rebuilding Git in Ruby
+
+  
+Custom type-casting with ActiveRecord, Virtus and dry-types, Please Stop Abusing NotImplementedError и The hidden cost of indexes
+
+  
+Left_pad - Ruby implementation of famous npm package, PassiveRecord - an extremely lightweight in-memory pseudo-relational algebra и Timeless Programming Tools
+
 
 
 JavaScript
 
 
-  It’s Official: JavaScript Is The Most Commonly Used Programming Language On Earth, How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript и kik, left-pad, and npm
-  Apple is bad news for the future of the Web, Progressive Enhancement Makes Me Sad и Testing React Components with Enzyme and Mocha
-  Hain - an alternative to Alfred for Windows, built with Electron, EventControl - jQuery timeline control with support for stacking events и StickyState adds state to position:sticky elements and also polyfills the missing native sticky feature
+  
+It’s Official: JavaScript Is The Most Commonly Used Programming Language On Earth, How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript и kik, left-pad, and npm
+
+  
+Apple is bad news for the future of the Web, Progressive Enhancement Makes Me Sad и Testing React Components with Enzyme and Mocha
+
+  
+Hain - an alternative to Alfred for Windows, built with Electron, EventControl - jQuery timeline control with support for stacking events и StickyState adds state to position:sticky elements and also polyfills the missing native sticky feature
 
 
 </itunes:summary>
@@ -1078,17 +1201,28 @@ Ruby
 Ruby
 
 
-  Mastering Concurrency и 10 Steps to Evaluate a Rails Project
-  How to Set Up Mutual TLS Authentication to Protect Your Admin Console и Ruby Bits: Each with object
-  Fast Search Using PostgreSQL Trigram Indexes, LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA и Spreadsheet Architect
+  
+Mastering Concurrency и 10 Steps to Evaluate a Rails Project
+
+  
+How to Set Up Mutual TLS Authentication to Protect Your Admin Console и Ruby Bits: Each with object
+
+  
+Fast Search Using PostgreSQL Trigram Indexes, LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA и Spreadsheet Architect
+
 
 
 JavaScript
 
 
-  A WebAssembly Milestone: Experimental Support in Multiple Browsers и The Deep Roots of Javascript Fatigue
-  JavaScript is a Dysfunctional Programming Language и Please stop referring to proposed JavaScript features as ES7
-  Insight - a WebGL debugging toolkit, Hashids - a small open-source library that generates short, unique, non-sequential ids from numbers, D3 Calendar Heatmap и Substance - a JavaScript library for web-based content editing
+  
+A WebAssembly Milestone: Experimental Support in Multiple Browsers и The Deep Roots of Javascript Fatigue
+
+  
+JavaScript is a Dysfunctional Programming Language и Please stop referring to proposed JavaScript features as ES7
+
+  
+Insight - a WebGL debugging toolkit, Hashids - a small open-source library that generates short, unique, non-sequential ids from numbers, D3 Calendar Heatmap и Substance - a JavaScript library for web-based content editing
 
 
 </itunes:summary>
@@ -1166,19 +1300,34 @@ Ruby
 Ruby
 
 
-  Rails 4.2.6 and 4.1.15 have been released, Suppress save events in Rails 5 и Rails 5 switches from strong etags to weak etags
-  PostgreSQL and Rails, sitting in a tree и GraphQL Ruby: Clean Up your Query Type
-  Adventures in Production Rails Debugging и Surrogate WebSockets Alongside Rails
-  DuckRails - is a development tool, which allow developers to quickly mock API endpoints, Unicode::Confusable - compares two strings if they are visually confusable и URN Build Status - Ruby library to validate and normalize URNs according to RFC 2141
+  
+Rails 4.2.6 and 4.1.15 have been released, Suppress save events in Rails 5 и Rails 5 switches from strong etags to weak etags
+
+  
+PostgreSQL and Rails, sitting in a tree и GraphQL Ruby: Clean Up your Query Type
+
+  
+Adventures in Production Rails Debugging и Surrogate WebSockets Alongside Rails
+
+  
+DuckRails - is a development tool, which allow developers to quickly mock API endpoints, Unicode::Confusable - compares two strings if they are visually confusable и URN Build Status - Ruby library to validate and normalize URNs according to RFC 2141
+
 
 
 JavaScript
 
 
-  React v15.0 Release Candidate и The end of the magic of Meteor
-  Service Workers: save your user’s data using the save-data header,  и 5 Tips For Writing More Maintainable JavaScript Code
-  Become a 10x programmer. Sharpen your Axe, Styling Broken Images и Enduring CSS (book)
-  Artillery is a tool for load-testing HTTP and WebSocket-based applications, CryptoIdentity.js - a library for simple crypto identity in the browser и Freezeframe.js is a script that pauses animated .gifs
+  
+React v15.0 Release Candidate и The end of the magic of Meteor
+
+  
+Service Workers: save your user’s data using the save-data header,  и 5 Tips For Writing More Maintainable JavaScript Code
+
+  
+Become a 10x programmer. Sharpen your Axe, Styling Broken Images и Enduring CSS (book)
+
+  
+Artillery is a tool for load-testing HTTP and WebSocket-based applications, CryptoIdentity.js - a library for simple crypto identity in the browser и Freezeframe.js is a script that pauses animated .gifs
 
 
 </itunes:summary>
@@ -1268,26 +1417,41 @@ Ruby
 Ruby
 
 
-  Rails 4.2.5.2, 4.1.14.2 and 3.2.22.2 have been released!, Migrations are versioned in Rails 5, Use file_fixture to access test files in Rails 5 и Rails 5 improves redirect_to :back with new redirect_back method
-  Premature optimizations are evil(?), Experimenting with explicit contracts with Ruby и On migrations, JSONB and databases in general
-  Thread Pool - A Ruby Antihero и HOWTO access Amazon DynamoDB with Ruby
-  Introducing Stronger Parameters, AcornCache is a Ruby HTTP proxy caching library и Opal-Phaser - Opal-Phaser is an Opal wrapper for the Phaser framework
+  
+Rails 4.2.5.2, 4.1.14.2 and 3.2.22.2 have been released!, Migrations are versioned in Rails 5, Use file_fixture to access test files in Rails 5 и Rails 5 improves redirect_to :back with new redirect_back method
+
+  
+Premature optimizations are evil(?), Experimenting with explicit contracts with Ruby и On migrations, JSONB and databases in general
+
+  
+Thread Pool - A Ruby Antihero и HOWTO access Amazon DynamoDB with Ruby
+
+  
+Introducing Stronger Parameters, AcornCache is a Ruby HTTP proxy caching library и Opal-Phaser - Opal-Phaser is an Opal wrapper for the Phaser framework
+
 
 
 JavaScript
 
 
-  State of the Art JavaScript in 2016, Control Groups (cgroups) for the Web? и Do You Know These Eight HTML5 Tags?
-  AMP Project: Will it Make Your Sites Faster? и Introducing MJML : First open source markup language for responsive email
-  Enzyme: JavaScript Testing utilities for React и Fetch-it - an enhanced HTTP client based on fetch.
-  Jquery Toast Plugin - a plugin to show highly customizable notifications to the user, Beside - a library to make an element beside another и Dsxyliea
+  
+State of the Art JavaScript in 2016, Control Groups (cgroups) for the Web? и Do You Know These Eight HTML5 Tags?
+
+  
+AMP Project: Will it Make Your Sites Faster? и Introducing MJML : First open source markup language for responsive email
+
+  
+Enzyme: JavaScript Testing utilities for React и Fetch-it - an enhanced HTTP client based on fetch.
+
+  
+Jquery Toast Plugin - a plugin to show highly customizable notifications to the user, Beside - a library to make an element beside another и Dsxyliea
+
 
 
 Conferences
 
 
   RubyMeditation #7
-
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
@@ -1360,17 +1524,28 @@ Ruby
 Ruby
 
 
-  Support plans for Ruby 2.0.0 and Ruby 2.1 и Rails 5 allows configuring queue name for mailers
-  Speeding up Sprockets, To gem, or not to gem и Using anonymous modules and prepend to work with generated code
-  Mrusty - mruby safe bindings for Rust, Ngx_mruby - is a fast and memory-efficient TCP Load Balancing and Web Server Extension Mechanism Using Scripting Language mruby for nginx и Table flipper (╯°□°）╯︵ ┻━┻ - a useless gem that prepends the table flipper on Exception messages
+  
+Support plans for Ruby 2.0.0 and Ruby 2.1 и Rails 5 allows configuring queue name for mailers
+
+  
+Speeding up Sprockets, To gem, or not to gem и Using anonymous modules and prepend to work with generated code
+
+  
+Mrusty - mruby safe bindings for Rust, Ngx_mruby - is a fast and memory-efficient TCP Load Balancing and Web Server Extension Mechanism Using Scripting Language mruby for nginx и Table flipper (╯°□°）╯︵ ┻━┻ - a useless gem that prepends the table flipper on Exception messages
+
 
 
 JavaScript
 
 
-  Delivering Octicons with SVG, Squigglevision и Preload: What Is It Good For?
-  Draft.js - rich text editor framework for React, FlippyJS - FLIP animation helper; animate DOM changes with ease, jsPDF - HTML5 JavaScript PDF generation library и CSSCO - photographic filters made with css
-  V86 is a x86 emulator build on node that can run in your browser, Cash - a cross-platform implementation of Unix shell commands written in pure ES6, Scour.js - traverse objects and arrays immutably и React.js Conf 2016 (videos)
+  
+Delivering Octicons with SVG, Squigglevision и Preload: What Is It Good For?
+
+  
+Draft.js - rich text editor framework for React, FlippyJS - FLIP animation helper; animate DOM changes with ease, jsPDF - HTML5 JavaScript PDF generation library и CSSCO - photographic filters made with css
+
+  
+V86 is a x86 emulator build on node that can run in your browser, Cash - a cross-platform implementation of Unix shell commands written in pure ES6, Scour.js - traverse objects and arrays immutably и React.js Conf 2016 (videos)
 
 
 </itunes:summary>
@@ -1444,17 +1619,28 @@ Ruby
 Ruby
 
 
-  How to speed up Ruby on Rails updates using PostgreSQL, Active Support Improvements in Rails 5 и Rails 5 does not halt callback chain when false is returned
-  A brief tour of nokogiri decorators и Side effects of using .first_or_create! at scale
-  Use of the specification pattern и Private classes in Ruby
+  
+How to speed up Ruby on Rails updates using PostgreSQL, Active Support Improvements in Rails 5 и Rails 5 does not halt callback chain when false is returned
+
+  
+A brief tour of nokogiri decorators и Side effects of using .first_or_create! at scale
+
+  
+Use of the specification pattern и Private classes in Ruby
+
 
 
 JavaScript
 
 
-  I’m a web developer and I’ve been stuck with the simplest app for the last 10 days, Cleaning House after Internet Explorer и The future of loading CSS
-  New Versioning Scheme и Moved Redux, React Router and other community projects over to reactjs Github org
-  Bricks.js - a blazing fast masonry layout generator for fixed width elements, Sticky Elements - everything can stick и Codeology is an open-source project that brings to life the art and science of code
+  
+I’m a web developer and I’ve been stuck with the simplest app for the last 10 days, Cleaning House after Internet Explorer и The future of loading CSS
+
+  
+New Versioning Scheme и Moved Redux, React Router and other community projects over to reactjs Github org
+
+  
+Bricks.js - a blazing fast masonry layout generator for fixed width elements, Sticky Elements - everything can stick и Codeology is an open-source project that brings to life the art and science of code
 
 
 </itunes:summary>
@@ -1528,18 +1714,28 @@ Ruby
 Ruby
 
 
-  Where and why I’m still using Rails и Why do you need Arel?
-  Kill Your Dependencies и Common problems when starting with Docker and Rails
-  Configuring bundler using bundle config, Building a CLI in Ruby with GLI и Is Ruby 2.3 Faster? Rails ERB Template Rendering Performance
+  
+Where and why I’m still using Rails и Why do you need Arel?
+
+  
+Kill Your Dependencies и Common problems when starting with Docker and Rails
+
+  
+Configuring bundler using bundle config, Building a CLI in Ruby with GLI и Is Ruby 2.3 Faster? Rails ERB Template Rendering Performance
+
 
 
 JavaScript
 
 
-  Grunt 1.0.0 rc1 released, JavaScript fatigue fatigue, Fundamentals Then Frameworks и Learn Ideas Not Frameworks: How to avoid Javascript Fatigue
-  Understand Packaging for Javascript, TypesScript, CommonJS and Everything Else,  How HTTP/2 Is Changing Web Performance Best Practices и The JavaScript Minefield
-  MJML: the only framework that makes responsive-email easy, Angular 2 Style Guide и AMP (Accelerated Mobile Pages) (video)
+  
+Grunt 1.0.0 rc1 released, JavaScript fatigue fatigue, Fundamentals Then Frameworks и Learn Ideas Not Frameworks: How to avoid Javascript Fatigue
 
+  
+Understand Packaging for Javascript, TypesScript, CommonJS and Everything Else,  How HTTP/2 Is Changing Web Performance Best Practices и The JavaScript Minefield
+
+  
+MJML: the only framework that makes responsive-email easy, Angular 2 Style Guide и AMP (Accelerated Mobile Pages) (video)
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
@@ -1612,17 +1808,28 @@ Ruby
 Ruby
 
 
-  Rails 5.0.0.beta2: Slashed Action Cable dependencies, fixes galore, Scientist: Measure Twice, Cut Over Once и Caching result sets and collection in Rails 5
-  Ruby: Bindings Across Inheritance, Abbrev from ruby standard lib и I am a puts debuggerer
-  Recurring events in Ruby - introducing the Montrose gem, ValueInspect - provides implementation of #inspect that is more readable и Datetime-scopes - date/time scopes for ActiveRecord models
+  
+Rails 5.0.0.beta2: Slashed Action Cable dependencies, fixes galore, Scientist: Measure Twice, Cut Over Once и Caching result sets and collection in Rails 5
+
+  
+Ruby: Bindings Across Inheritance, Abbrev from ruby standard lib и I am a puts debuggerer
+
+  
+Recurring events in Ruby - introducing the Montrose gem, ValueInspect - provides implementation of #inspect that is more readable и Datetime-scopes - date/time scopes for ActiveRecord models
+
 
 
 JavaScript
 
 
-  Angular 1.5.0 - ennoblement-facilitation has been released!, Introducing ES2015 Proxies и Investigating the overhead cost of compiled es2015
-  Record audio and video with MediaRecorder и Web Audio, the ugly click and the human ear
-  Test your CSS Performance, jQuery.sheet - Easy &amp;amp; Wicked Fast spreadsheets for the web, Isolated Core - a library for seamless in-page cold updates using iframes и GrapesJS - Free and Open source Web Template Editor
+  
+Angular 1.5.0 - ennoblement-facilitation has been released!, Introducing ES2015 Proxies и Investigating the overhead cost of compiled es2015
+
+  
+Record audio and video with MediaRecorder и Web Audio, the ugly click and the human ear
+
+  
+Test your CSS Performance, jQuery.sheet - Easy &amp;amp; Wicked Fast spreadsheets for the web, Isolated Core - a library for seamless in-page cold updates using iframes и GrapesJS - Free and Open source Web Template Editor
 
 
 </itunes:summary>
@@ -1700,19 +1907,34 @@ Ruby
 Ruby
 
 
-  Rails 5.0.0.beta1.1, 4.2.5.1, 4.1.14.1, 3.2.22.1, and rails-html-sanitizer 1.0.3 have been released!, Rails Dynamic Render to RCE (CVE-2016-0752) и Caching in development environment in Rails 5
-  Chris Seaton on Massively Improving Ruby Performance with JRuby+Truffle и Stubbing External Services in Rails
-  Ruby Marshalling from A to Z и Ruby Private Class Methods
-  Replacing Pingdom with Ruby and Heroku и Increment_with_sql - provides increment_with_sql! and decrement_with_sql! for ActiveRecord models
+  
+Rails 5.0.0.beta1.1, 4.2.5.1, 4.1.14.1, 3.2.22.1, and rails-html-sanitizer 1.0.3 have been released!, Rails Dynamic Render to RCE (CVE-2016-0752) и Caching in development environment in Rails 5
+
+  
+Chris Seaton on Massively Improving Ruby Performance with JRuby+Truffle и Stubbing External Services in Rails
+
+  
+Ruby Marshalling from A to Z и Ruby Private Class Methods
+
+  
+Replacing Pingdom with Ruby and Heroku и Increment_with_sql - provides increment_with_sql! and decrement_with_sql! for ActiveRecord models
+
 
 
 JavaScript
 
 
-  V8 Release 4.9, Understanding Garbage Collection and hunting Memory Leaks in Node.js и Parse alternatives
-  The Controversial State of JavaScript Tooling и Angular 2 is ugly!
-  Discontinuing IE 8 Support in React DOM, What we learnt from testing Searchkit’s React Components и Babel Handbook
-  Awesome Marionette.js, MediumEditor - a lightweight inline text editor inspired by the editor from the Medium blogging platform, Hint.css - a pure CSS tooltip library for your lovely websites и Voxel.css makes 3D rendering easy
+  
+V8 Release 4.9, Understanding Garbage Collection and hunting Memory Leaks in Node.js и Parse alternatives
+
+  
+The Controversial State of JavaScript Tooling и Angular 2 is ugly!
+
+  
+Discontinuing IE 8 Support in React DOM, What we learnt from testing Searchkit’s React Components и Babel Handbook
+
+  
+Awesome Marionette.js, MediumEditor - a lightweight inline text editor inspired by the editor from the Medium blogging platform, Hint.css - a pure CSS tooltip library for your lovely websites и Voxel.css makes 3D rendering easy
 
 
 </itunes:summary>
@@ -1790,19 +2012,34 @@ Ruby
 Ruby
 
 
-  New Rails identity, The Rails Doctrine и Lotus is now Hanami
-  Trends in Ruby - analyzing rubygems stats for 2015 и Upgrading to Rails 5 Beta - The Hard Way
-  Thread Safety With Ruby и Understanding Reactive Programming with RxRuby
-  What’s new in Ruby 2.3 Enumerable, Kafka for Rubyists - Part 2 и 22 Vim Plugins every (Ruby) Developer should use
+  
+New Rails identity, The Rails Doctrine и Lotus is now Hanami
+
+  
+Trends in Ruby - analyzing rubygems stats for 2015 и Upgrading to Rails 5 Beta - The Hard Way
+
+  
+Thread Safety With Ruby и Understanding Reactive Programming with RxRuby
+
+  
+What’s new in Ruby 2.3 Enumerable, Kafka for Rubyists - Part 2 и 22 Vim Plugins every (Ruby) Developer should use
+
 
 
 JavaScript
 
 
-  Brave (подробности), Microsoft отправила запрос на аппрув реализации поддержки ChakraCore в Node.js наряду с движком V8 (pull request) и Why The Hell Would I Use Node.js?
-  The Sad State of Entitled Web Developers, Do Not Let JavaScript Fatigue Become A Buzzword и Getting Started With DeltaDB
-  9 things every React.js beginner should know, Redux in Plain English: A Workflow, ReactJS is better without Flux/Redux/RxJS и Thoughts on the future of mobile app development
-  Pressure.js is a JavaScript library for handling both Force Touch and 3D Touch through a single API, jsPsych is a JavaScript library for creating and running behavioral experiments in a web browser и Feature.js is a fast, simple and lightweight browser feature detection library in 1kb
+  
+Brave (подробности), Microsoft отправила запрос на аппрув реализации поддержки ChakraCore в Node.js наряду с движком V8 (pull request) и Why The Hell Would I Use Node.js?
+
+  
+The Sad State of Entitled Web Developers, Do Not Let JavaScript Fatigue Become A Buzzword и Getting Started With DeltaDB
+
+  
+9 things every React.js beginner should know, Redux in Plain English: A Workflow, ReactJS is better without Flux/Redux/RxJS и Thoughts on the future of mobile app development
+
+  
+Pressure.js is a JavaScript library for handling both Force Touch and 3D Touch through a single API, jsPsych is a JavaScript library for creating and running behavioral experiments in a web browser и Feature.js is a fast, simple and lightweight browser feature detection library in 1kb
 
 
 </itunes:summary>
@@ -1876,17 +2113,28 @@ Ruby
 Ruby
 
 
-  David Heinemeier Hansson on the Future of Rails и My experience with Minitest and RSpec
-  Announcing Scenic - Versioned Database Views for Rails и Seamless second database integration for Rails
-  Passages Rails Engine и Transforming Hashes — Which Way is Best?
+  
+David Heinemeier Hansson on the Future of Rails и My experience with Minitest and RSpec
+
+  
+Announcing Scenic - Versioned Database Views for Rails и Seamless second database integration for Rails
+
+  
+Passages Rails Engine и Transforming Hashes — Which Way is Best?
+
 
 
 JavaScript
 
 
-  10th Anniversary of jQuery, jQuery 2.2 and 1.12 Released, jQuery 3.0 Beta, Lodash v4.0.0 и ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge
-  Why I hate your Single Page App и Constant Variables in JavaScript, or: When “const” Isn’t Constant
-  Centralized State Design Patterns и React.run - The fastest way to create React components, right in the browser
+  
+10th Anniversary of jQuery, jQuery 2.2 and 1.12 Released, jQuery 3.0 Beta, Lodash v4.0.0 и ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge
+
+  
+Why I hate your Single Page App и Constant Variables in JavaScript, or: When “const” Isn’t Constant
+
+  
+Centralized State Design Patterns и React.run - The fastest way to create React components, right in the browser
 
 
 </itunes:summary>
@@ -1964,19 +2212,34 @@ Ruby
 Ruby
 
 
-  ROM 1.0.0 Released, Introducing Assets For Lotus и Bytecode cache is experimentally released in Ruby 2.3
-  Stream Comments with Rails 5 and ActionCable, Using RSpec Metadata и Refactoring in Ruby: Smelly Parameters Lists
-  How to compare version strings in Ruby, The FILTER clause in Postgres 9.4 и Ordering by nulls on Postgres
-  ETag caching gotcha in Roda + Nginx, Ruby’s Object#tap: a better use и Rubyfu - Ruby for hacker book
+  
+ROM 1.0.0 Released, Introducing Assets For Lotus и Bytecode cache is experimentally released in Ruby 2.3
+
+  
+Stream Comments with Rails 5 and ActionCable, Using RSpec Metadata и Refactoring in Ruby: Smelly Parameters Lists
+
+  
+How to compare version strings in Ruby, The FILTER clause in Postgres 9.4 и Ordering by nulls on Postgres
+
+  
+ETag caching gotcha in Roda + Nginx, Ruby’s Object#tap: a better use и Rubyfu - Ruby for hacker book
+
 
 
 JavaScript
 
 
-  JavaScript: 2015 in Review, 10 Most Recommended JavaScript Scene Articles of 2015, Looking back on 2015: six exciting web technologies и 2016 will be the year of concurrency on the web
-  The Website Obesity Crisis, Web Components Are Dead? и Getting started with Progressive Web Apps
-  Electron-window-state - a library to store and restore window sizes and positions for your Electron app, Searchkit is a suite of React components that communicate directly with your Elasticsearch cluster и MailDev - SMTP Server + Web Interface for viewing and testing emails during development
-  Cannon.js - a lightweight 3D physics engine written in JavaScript, DocSearch - the easiest way to add search to your documentation и Sharer.js - create custom social share elements on DOM objects
+  
+JavaScript: 2015 in Review, 10 Most Recommended JavaScript Scene Articles of 2015, Looking back on 2015: six exciting web technologies и 2016 will be the year of concurrency on the web
+
+  
+The Website Obesity Crisis, Web Components Are Dead? и Getting started with Progressive Web Apps
+
+  
+Electron-window-state - a library to store and restore window sizes and positions for your Electron app, Searchkit is a suite of React components that communicate directly with your Elasticsearch cluster и MailDev - SMTP Server + Web Interface for viewing and testing emails during development
+
+  
+Cannon.js - a lightweight 3D physics engine written in JavaScript, DocSearch - the easiest way to add search to your documentation и Sharer.js - create custom social share elements on DOM objects
 
 
 </itunes:summary>
@@ -2050,17 +2313,28 @@ Ruby
 Ruby
 
 
-  Ruby 2.3.0 Released, Upgrading to Ruby on Rails 5.0 from Rails 4.2 – application use case и Introduction to Rails 5 Attributes
-  Composing Microscopic Rails Views With Cells, How Ruby 2.2 can cause an out-of-memory server crash и Simple encryption of ActiveRecord fields
-  DRY with_options, How does ARGV get set in Ruby? и BioRuby - open source bioinformatics library for Ruby
+  
+Ruby 2.3.0 Released, Upgrading to Ruby on Rails 5.0 from Rails 4.2 – application use case и Introduction to Rails 5 Attributes
+
+  
+Composing Microscopic Rails Views With Cells, How Ruby 2.2 can cause an out-of-memory server crash и Simple encryption of ActiveRecord fields
+
+  
+DRY with_options, How does ARGV get set in Ruby? и BioRuby - open source bioinformatics library for Ruby
+
 
 
 JavaScript
 
 
-  Compiling to WebAssembly: It’s Happening! и Simple Guide to Finding a JavaScript Memory Leak in Node.js
-  Javascript Fatigue, Victory - an ecosystem of modular data visualization components for React и React Refetch - a simple, declarative, and composable way to fetch data for React components
-  Satyr.io - image placeholders with settings, Daterangepicker - date range picker component и Colorify.js - a simple, customizable, tiny javascript color extractor
+  
+Compiling to WebAssembly: It’s Happening! и Simple Guide to Finding a JavaScript Memory Leak in Node.js
+
+  
+Javascript Fatigue, Victory - an ecosystem of modular data visualization components for React и React Refetch - a simple, declarative, and composable way to fetch data for React components
+
+  
+Satyr.io - image placeholders with settings, Daterangepicker - date range picker component и Colorify.js - a simple, customizable, tiny javascript color extractor
 
 
 </itunes:summary>
@@ -2136,18 +2410,31 @@ Ruby
 Ruby
 
 
-  Ruby 2.2.4 Released, Rails 5.0.0.beta1: Action Cable, API mode, Rails command и Getting started with Distributed Ruby (DRb)
-  Rails, Secure Cookies, HSTS and friends, Handling Paginated Resources in Ruby и How to Test Multithreaded Code
-  Ruby Time &amp;amp; Date Classes, Avoiding “Call Super” with Callbacks и HOWTO access the Google Analytics API with Ruby
-  Kafka for Rubyists - Part 1, Cass_schema - a gem for managing multiple cassandra schemas across multiple clusters и Everything You Know About the GIL is Wrong (video)
+  
+Ruby 2.2.4 Released, Rails 5.0.0.beta1: Action Cable, API mode, Rails command и Getting started with Distributed Ruby (DRb)
+
+  
+Rails, Secure Cookies, HSTS and friends, Handling Paginated Resources in Ruby и How to Test Multithreaded Code
+
+  
+Ruby Time &amp;amp; Date Classes, Avoiding “Call Super” with Callbacks и HOWTO access the Google Analytics API with Ruby
+
+  
+Kafka for Rubyists - Part 1, Cass_schema - a gem for managing multiple cassandra schemas across multiple clusters и Everything You Know About the GIL is Wrong (video)
+
 
 
 JavaScript
 
 
-  Angular 2 Beta и There’s Math.random(), and then there’s Math.random()
-  Parsing RSS Feeds in JavaScript – Options, Signed Service Workers и Benjamin De Cock - Lets move! (video)
-  D3.compose - compose complex, data-driven visualizations from reusable charts and components with d3, Linear - ruler app made with Electron и Angular-Trix - a rich wysiwyg text editor directive for angularjs
+  
+Angular 2 Beta и There’s Math.random(), and then there’s Math.random()
+
+  
+Parsing RSS Feeds in JavaScript – Options, Signed Service Workers и Benjamin De Cock - Lets move! (video)
+
+  
+D3.compose - compose complex, data-driven visualizations from reusable charts and components with d3, Linear - ruler app made with Electron и Angular-Trix - a rich wysiwyg text editor directive for angularjs
 
 
 </itunes:summary>
@@ -2221,17 +2508,28 @@ Ruby
 Ruby
 
 
-  Immutable strings in Ruby 2.3, 25,000+ Req/s for Rack JSON API with MRuby и Passenger security advisory: CVE-2015-7519 header overwriting
-  Rails Anti-Pattern: Fat Decorator, 4 ways to get the most out of your rails logs и Speeding Up Bulk Imports in Rails
-  Ensure you understand ensure, Tips for Upgrading Rails 3.2 to Rails 4.2.5, How to Crash an Airplane by Nickolas Means (video) и Your own ‘Images as a Service’ by Andy Croll (video)
+  
+Immutable strings in Ruby 2.3, 25,000+ Req/s for Rack JSON API with MRuby и Passenger security advisory: CVE-2015-7519 header overwriting
+
+  
+Rails Anti-Pattern: Fat Decorator, 4 ways to get the most out of your rails logs и Speeding Up Bulk Imports in Rails
+
+  
+Ensure you understand ensure, Tips for Upgrading Rails 3.2 to Rails 4.2.5, How to Crash an Airplane by Nickolas Means (video) и Your own ‘Images as a Service’ by Andy Croll (video)
+
 
 
 JavaScript
 
 
-  December Security Release Summary (node.js), ES7 Proposal: The Pipeline Operator и Explaining few strange behavior of setTimeout() with code snippet
-  Websocket task queue, The “Blur Up” Technique for Loading Background Images и Twitter’s Heart Animation in Full CSS
-  Documentation.js - documentation generation system, Viewer - a simple jQuery image viewing plugin и KharkivJS #5 2015 (videos)
+  
+December Security Release Summary (node.js), ES7 Proposal: The Pipeline Operator и Explaining few strange behavior of setTimeout() with code snippet
+
+  
+Websocket task queue, The “Blur Up” Technique for Loading Background Images и Twitter’s Heart Animation in Full CSS
+
+  
+Documentation.js - documentation generation system, Viewer - a simple jQuery image viewing plugin и KharkivJS #5 2015 (videos)
 
 
 </itunes:summary>
@@ -2309,19 +2607,34 @@ Ruby
 Ruby
 
 
-  Architecting Rails Apps as Microservices и Ask DTrace: Why are my tests so slow?
-  SemVer for Library Maintainers и An Interview with Jose Valim
-  Let’s Encrypt entering Public Beta, Install Let’s Encrypt and create a free ssl certificate, Swift is now open source и Getting Started with Swift on Linux
-  Gemstash is both a cache for remote servers and a private gem source, GeoipRedis - puts MaxMind GeoIP2 database to Redis и Changing the Unchangeable… by Brad Urani (video)
+  
+Architecting Rails Apps as Microservices и Ask DTrace: Why are my tests so slow?
+
+  
+SemVer for Library Maintainers и An Interview with Jose Valim
+
+  
+Let’s Encrypt entering Public Beta, Install Let’s Encrypt and create a free ssl certificate, Swift is now open source и Getting Started with Swift on Linux
+
+  
+Gemstash is both a cache for remote servers and a private gem source, GeoipRedis - puts MaxMind GeoIP2 database to Redis и Changing the Unchangeable… by Brad Urani (video)
+
 
 
 JavaScript
 
 
-  SVG without SMIL: Google Chrome Kills Support, “I Hate JavaScript” и Introducing Pokedex.org: a progressive webapp for Pokémon fans
-  Getting Started with Redux и Understanding Redux Middleware
-  Flexbox froggy, Split.js - a lightweight, unopinionated utility for creating adjustable split views or panes и Labella.js - labels should be beautiful
-  What Web Can Do Today, Simplified JavaScript Jargon, A Guide to 2016 Front End Conferences и Debugging Node.js in Production (video)
+  
+SVG without SMIL: Google Chrome Kills Support, “I Hate JavaScript” и Introducing Pokedex.org: a progressive webapp for Pokémon fans
+
+  
+Getting Started with Redux и Understanding Redux Middleware
+
+  
+Flexbox froggy, Split.js - a lightweight, unopinionated utility for creating adjustable split views or panes и Labella.js - labels should be beautiful
+
+  
+What Web Can Do Today, Simplified JavaScript Jargon, A Guide to 2016 Front End Conferences и Debugging Node.js in Production (video)
 
 
 </itunes:summary>
@@ -2395,17 +2708,28 @@ Ruby
 Ruby
 
 
-  First Beta of ROM 1.0.0 Has Been Released, Infinite Sequences in Ruby и Is it nil?
-  Choosing my editor for Ruby on Rails, Sidekiq Best Practices и A curated list of lists of interview questions
-  Startup Playbook (free book), Keynote and Q&amp;amp;A: Matz (RubyConf 2015, video) и NeuralTalk and Walk
+  
+First Beta of ROM 1.0.0 Has Been Released, Infinite Sequences in Ruby и Is it nil?
+
+  
+Choosing my editor for Ruby on Rails, Sidekiq Best Practices и A curated list of lists of interview questions
+
+  
+Startup Playbook (free book), Keynote and Q&amp;amp;A: Matz (RubyConf 2015, video) и NeuralTalk and Walk
+
 
 
 JavaScript
 
 
-  Refactoring a JavaScript Application to Use Microservices: What we Learned With Backbone and Marionette, The Story Behind the New WordPress.com и Dance to Calypso
-  How do Promises Work?, 10 things to know about Gulp и How PostCSS became 1.5x faster by changing 2 lines of code
-  Documentcss - create live style guides with interactive examples, that change as your design does, Responsify.js - a jquery plugin that makes images truly responsive и The Silver Bullet Syndrome by Hadi Hariri (video)
+  
+Refactoring a JavaScript Application to Use Microservices: What we Learned With Backbone and Marionette, The Story Behind the New WordPress.com и Dance to Calypso
+
+  
+How do Promises Work?, 10 things to know about Gulp и How PostCSS became 1.5x faster by changing 2 lines of code
+
+  
+Documentcss - create live style guides with interactive examples, that change as your design does, Responsify.js - a jquery plugin that makes images truly responsive и The Silver Bullet Syndrome by Hadi Hariri (video)
 
 
 </itunes:summary>
@@ -2483,19 +2807,34 @@ Ruby
 Ruby
 
 
-  Ruby 3x3: Ruby 3 will be 3 times faster, Snappier Development Mode in Rails 5 и Five Active Record Features You Should Be Using
-  How to write better code using mutation testing, Lexical scoping and Ruby class variables, Debugging Randomness и Spying on running Ruby processes
-  Phoenix is not Rails и Quantum Computing with Ruby
-  Ruby Tricks, Idiomatic Ruby, Refactorings and Best Practices и Gemify your assets in less than 10 minutes
+  
+Ruby 3x3: Ruby 3 will be 3 times faster, Snappier Development Mode in Rails 5 и Five Active Record Features You Should Be Using
+
+  
+How to write better code using mutation testing, Lexical scoping and Ruby class variables, Debugging Randomness и Spying on running Ruby processes
+
+  
+Phoenix is not Rails и Quantum Computing with Ruby
+
+  
+Ruby Tricks, Idiomatic Ruby, Refactorings and Best Practices и Gemify your assets in less than 10 minutes
+
 
 
 JavaScript
 
 
-  Foundation 6 Is Here!, The Yeti’s Back! Foundation for Sites 6 is Leaner, Faster, and Better, Tips for Creating and Exporting Better SVGs for the Web и TIFU by using Math.random()
-  GraphQL is the King. Long Live the King! (R.I.P. REST), Flux VS Single State Tree, React Virtual DOM vs Incremental DOM vs Ember’s Glimmer: Fight и React Cheat Sheet
-  Mo.js – motion graphics for the web, Pamatcher - a pattern matching library for JavaScript iterators и Simulacra.js - one-way data binding for web applications
-  Offline Recipes for Service Workers, ServiceWorker Cookbook, Let’s learn how to use JavaScript responsibly and stay up-to-date и Chrome Dev Summit 2015
+  
+Foundation 6 Is Here!, The Yeti’s Back! Foundation for Sites 6 is Leaner, Faster, and Better, Tips for Creating and Exporting Better SVGs for the Web и TIFU by using Math.random()
+
+  
+GraphQL is the King. Long Live the King! (R.I.P. REST), Flux VS Single State Tree, React Virtual DOM vs Incremental DOM vs Ember’s Glimmer: Fight и React Cheat Sheet
+
+  
+Mo.js – motion graphics for the web, Pamatcher - a pattern matching library for JavaScript iterators и Simulacra.js - one-way data binding for web applications
+
+  
+Offline Recipes for Service Workers, ServiceWorker Cookbook, Let’s learn how to use JavaScript responsibly and stay up-to-date и Chrome Dev Summit 2015
 
 
 </itunes:summary>
@@ -2585,26 +2924,40 @@ Ruby
 Ruby
 
 
-  Ruby 2.3.0-preview1 Released, Notable features in Ruby 2.3.0-preview1 explained и Hash Comparison in Ruby 2.3
-  Slicing and Dicing Ruby Enumerables, Implement a Lazy Hash in Ruby и How We Migrated to Active Record 4
-  Introducing Godmin 1.0 и D has no vision. Go is out of its depth. Rust skipped leg day
-  TensorFlow - an open source software library for numerical computation using data flow graphs, Distributed Machine Learning Toolkit и Leaf - Open Machine Intelligence Framework
+  
+Ruby 2.3.0-preview1 Released, Notable features in Ruby 2.3.0-preview1 explained и Hash Comparison in Ruby 2.3
+
+  
+Slicing and Dicing Ruby Enumerables, Implement a Lazy Hash in Ruby и How We Migrated to Active Record 4
+
+  
+Introducing Godmin 1.0 и D has no vision. Go is out of its depth. Rust skipped leg day
+
+  
+TensorFlow - an open source software library for numerical computation using data flow graphs, Distributed Machine Learning Toolkit и Leaf - Open Machine Intelligence Framework
+
 
 
 JavaScript
 
 
-  The Cost of Frameworks, 10 Habits of a Happy Node Hacker и Bower Development Effectively Stopped
-  Face Proximity Detection with JavaScript и Supercharging JavaScript performance with asm.js (demo)
-  Anatomy of a large Angular application и Patterns for scaling CSS
-  Babel plugin handbook, jsCodeStructure - analyse the structure of your js project и Notie.js - a clean and simple notification plugin (alert/growl style) for javascript
+  
+The Cost of Frameworks, 10 Habits of a Happy Node Hacker и Bower Development Effectively Stopped
+
+  
+Face Proximity Detection with JavaScript и Supercharging JavaScript performance with asm.js (demo)
+  
+Anatomy of a large Angular application и Patterns for scaling CSS
+
+  
+Babel plugin handbook, jsCodeStructure - analyse the structure of your js project и Notie.js - a clean and simple notification plugin (alert/growl style) for javascript
+
 
 
 Обсуждаем
 
 
   Belarus Ruby User Group
-
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
@@ -2689,24 +3042,36 @@ Ruby
 Ruby
 
 
-  Rubinius Analyst - Know Your App, How Ruby Interprets and Runs Your Programs и How constant lookup and resolution works in Ruby on Rails
-  Introduce “Safe navigation operator”, Announcing Administrate и Sidekiq 4.0
-  Продуманная оптимизация (книга) и Skynet for Beginners, by Rin Raeuber (video)
+  
+Rubinius Analyst - Know Your App, How Ruby Interprets and Runs Your Programs и How constant lookup and resolution works in Ruby on Rails
+
+  
+Introduce “Safe navigation operator”, Announcing Administrate и Sidekiq 4.0
+
+  
+Продуманная оптимизация (книга) и Skynet for Beginners, by Rin Raeuber (video)
+
 
 
 JavaScript
 
 
-  JavaScript Is Eating The World и Object.observe proposal withdrawn
-  Will Angular 2 be a success? You bet!, 7 Reasons to Use Ember.js и Why Static Website Generators Are The Next Big Thing
-  Maria - The MVC Framework for JavaScript Application, Scooter - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox и NW.js - an app runtime based on Chromium and node.js
+  
+JavaScript Is Eating The World и Object.observe proposal withdrawn
+
+  
+Will Angular 2 be a success? You bet!, 7 Reasons to Use Ember.js и Why Static Website Generators Are The Next Big Thing
+
+  
+Maria - The MVC Framework for JavaScript Application, Scooter - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox и NW.js - an app runtime based on Chromium and node.js
+
 
 
 Обсуждаю
 
 
-  RWpodPlayer on React Native (исходники)
-
+  
+RWpodPlayer on React Native (исходники)
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
@@ -2791,24 +3156,35 @@ Ruby
 Ruby
 
 
-  Rubinius, Inc - A Benefit Company, Deploying Your Docker Rails App и Fixing File Access Vulnerabilities in Ruby/Rails
-  Rails 5 allows setting custom HTTP Headers for assets и Why you should avoid SSL for your next application
-  Polo - travels through your database and creates sample snapshots и Dasherize - material-based dashboard for your projects
+  
+Rubinius, Inc - A Benefit Company, Deploying Your Docker Rails App и Fixing File Access Vulnerabilities in Ruby/Rails
+
+  
+Rails 5 allows setting custom HTTP Headers for assets и Why you should avoid SSL for your next application
+
+  
+Polo - travels through your database and creates sample snapshots и Dasherize - material-based dashboard for your projects
+
 
 
 JavaScript
 
 
-  Node v5.0.0, Babel.js 6.0.0 и Vue.js 1.0.0
-  When JavaScript (books) had no closures и Five Questions
-  Incremental DOM, Virtual DOM Benchmark и Graph-scroll.js - simple scrolling events for d3 graphics
+  
+Node v5.0.0, Babel.js 6.0.0 и Vue.js 1.0.0
+
+  
+When JavaScript (books) had no closures и Five Questions
+
+  
+Incremental DOM, Virtual DOM Benchmark и Graph-scroll.js - simple scrolling events for d3 graphics
+
 
 
 Обсуждаем
 
 
   Startups Timelines - History of innovations
-
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
@@ -2901,19 +3277,35 @@ Ruby
 Ruby
 
 
-  Fixing SQL Injection Vulnerabilities in Ruby/Rails, Functional Service Objects on Rails, Optimizing Sidekiq и Should you use Celluloid?
-  Rust to the rescue (of Ruby), Accelerated Rails Downloads with NGINX и Speed up with Materialized Views on PostgreSQL and Rails
-  Scaling On The Cheap, Why Auto Increment Is A Terrible Idea и Default UUID’s In Rails
-  Inesita - little princess among the frontend frameworks, MailChecker - cross-language temporary (disposable/throwaway) email detection library, Trix - a rich text editor for everyday writing и EuRuKo 2015 Review – conference in a nutshell
+  
+Fixing SQL Injection Vulnerabilities in Ruby/Rails, Functional Service Objects on Rails, Optimizing Sidekiq и Should you use Celluloid?
+
+  
+Rust to the rescue (of Ruby), Accelerated Rails Downloads with NGINX и Speed up with Materialized Views on PostgreSQL and Rails
+
+  
+Scaling On The Cheap, Why Auto Increment Is A Terrible Idea и Default UUID’s In Rails
+
+  
+Inesita - little princess among the frontend frameworks, MailChecker - cross-language temporary (disposable/throwaway) email detection library, Trix - a rich text editor for everyday writing и EuRuKo 2015 Review – conference in a nutshell
+
 
 
 JavaScript
 
 
-  Node v4.2.1 (LTS), Node.js Security Checklist и Bootstrap Studio
-  7 Things You Should Know About WebAssembly, Incremental DOM 101: What is it and why I should care? и Introducing GSS: Grid Style Sheets
-  Bridge - Dart full stack modular web framework, Cropperjs - JavaScript image cropper, Smartcrop.js - content aware image cropping, Drool - automated memory leak detection и Printliminator - a bookmarklet to makes websites print better
-  Front-end Developer Handbook, PostCSS Tutorials (video) и MoscowJS 15 (video)
+  
+Node v4.2.1 (LTS), Node.js Security Checklist и Bootstrap Studio
+
+  
+7 Things You Should Know About WebAssembly, Incremental DOM 101: What is it and why I should care? и Introducing GSS: Grid Style Sheets
+
+  
+Bridge - Dart full stack modular web framework, Cropperjs - JavaScript image cropper, Smartcrop.js - content aware image cropping, Drool - automated memory leak detection и Printliminator - a bookmarklet to makes websites print better
+
+  
+Front-end Developer Handbook, PostCSS Tutorials (video) и MoscowJS 15 (video)
+
 
 
 Обсуждаем
@@ -2922,7 +3314,6 @@ JavaScript
   Remote-First vs. Remote-Friendly
   The Difference Between Remote and Distributed Teams in Startups
   Remote versus Co-located Work
-
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
@@ -3007,24 +3398,35 @@ Ruby
 Ruby
 
 
-  Database Sharding, Let’s Build a Sinatra и Generating quines in Ruby
-  Effectively Debugging Capybara Feature Specs, Enhancing Logs With Cache Timing и A Small Case Study in Threading
-  Writing Ruby extensions in Go - an in depth review, Dashed - a Ruby library for interacting with Amazon Dash button presses и Transactify - run your methods in database transaction
+  
+Database Sharding, Let’s Build a Sinatra и Generating quines in Ruby
+
+  
+Effectively Debugging Capybara Feature Specs, Enhancing Logs With Cache Timing и A Small Case Study in Threading
+
+  
+Writing Ruby extensions in Go - an in depth review, Dashed - a Ruby library for interacting with Amazon Dash button presses и Transactify - run your methods in database transaction
+
 
 
 JavaScript
 
 
-  React v0.14, Announcing Meteor Galaxy и Getting Started with Relay
-  Compile to JavaScript: The 10 Best JavaScript Alternative Languages, Artyom.js - a voice control - voice commands - speech recognition javascript library и Panic.js - error handling done right
-  Mercer - 3D Interactive Data Visualizations, Cake-chart - interactive multi-layer pie chart, Highlight Text Inside a Textarea и HTTP 203: The Future of JavaScript (video)
+  
+React v0.14, Announcing Meteor Galaxy и Getting Started with Relay
+
+  
+Compile to JavaScript: The 10 Best JavaScript Alternative Languages, Artyom.js - a voice control - voice commands - speech recognition javascript library и Panic.js - error handling done right
+
+  
+Mercer - 3D Interactive Data Visualizations, Cake-chart - interactive multi-layer pie chart, Highlight Text Inside a Textarea и HTTP 203: The Future of JavaScript (video)
+
 
 
 Мастер класс
 
 
   Postgresql - настраиваем и масштабируем. Используйте “RWPOD_15” промокод для 15% скидки
-
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
@@ -3097,17 +3499,28 @@ Ruby
 Ruby
 
 
-  Lotus v0.5.0 и Why you should upgrade Celluloid ASAP to 0.17.2 (or downgrade to 0.16.0)
-  Image Processing in Rails using AWS Lambda, Folding Postgres Window Functions into Rails и N-gram Analysis for Fun and Profit
-  Micro-optimizing Ruby (video) и Nothing is Something, by Sandi Metz (video)
+  
+Lotus v0.5.0 и Why you should upgrade Celluloid ASAP to 0.17.2 (or downgrade to 0.16.0)
+
+  
+Image Processing in Rails using AWS Lambda, Folding Postgres Window Functions into Rails и N-gram Analysis for Fun and Profit
+
+  
+Micro-optimizing Ruby (video) и Nothing is Something, by Sandi Metz (video)
+
 
 
 JavaScript
 
 
-  Shadow DOM v1 и How GraphQL taught me to code client apps
-  Async/Await: The Hero JavaScript Deserved и FLIF - Free Lossless Image Format
-  AniJS - a Library to Raise your Web Design without Coding, Popmotion - 12kb JavaScript motion engine и Clipboard.js - a modern approach to copy text to clipboard
+  
+Shadow DOM v1 и How GraphQL taught me to code client apps
+
+  
+Async/Await: The Hero JavaScript Deserved и FLIF - Free Lossless Image Format
+
+  
+AniJS - a Library to Raise your Web Design without Coding, Popmotion - 12kb JavaScript motion engine и Clipboard.js - a modern approach to copy text to clipboard
 
 
 </itunes:summary>
@@ -3181,17 +3594,28 @@ Ruby
 Ruby
 
 
-  Ruby 3 MRI and GIL, What’s new in Rails 5? и Building a JSON API with Rails 5
-  How I spent two weeks hunting a memory leak in Ruby и Fixing Command Injection Vulnerabilities in Ruby/Rails
-  Engines Before Services, Using ES6 with Asset Pipeline on Ruby on Rails и Respect HTTP Caching
+  
+Ruby 3 MRI and GIL, What’s new in Rails 5? и Building a JSON API with Rails 5
+
+  
+How I spent two weeks hunting a memory leak in Ruby и Fixing Command Injection Vulnerabilities in Ruby/Rails
+
+  
+Engines Before Services, Using ES6 with Asset Pipeline on Ruby on Rails и Respect HTTP Caching
+
 
 
 JavaScript
 
 
-  Node.js v4.1.1, Why Performance Matters: The Perception Of Time и Learn Raw React — no JSX, no Flux, no ES6, no Webpack…
-  Rune.js - a JavaScript library for programming graphic design systems with SVG, PhearJS - render any dynamic Javascript webpage to JSON и Книжная полка фронтендера
-  LvivJS 2015 (video) и Nordic.js 2015 (video)
+  
+Node.js v4.1.1, Why Performance Matters: The Perception Of Time и Learn Raw React — no JSX, no Flux, no ES6, no Webpack…
+
+  
+Rune.js - a JavaScript library for programming graphic design systems with SVG, PhearJS - render any dynamic Javascript webpage to JSON и Книжная полка фронтендера
+
+  
+LvivJS 2015 (video) и Nordic.js 2015 (video)
 
 
 </itunes:summary>
@@ -3269,19 +3693,34 @@ Ruby
 Ruby
 
 
-  Elixir v1.0, Ruby and Go Sitting in a Tree и 3 Steps to Fix Encoding Problems in Ruby
-  StackProf: The Holy Grail of Rails Profiling и How to debug Ruby memory issues
-  Why I wouldn’t use rails for a new company и Awesome Rails Gem - collection of awesome Ruby Gems for Rails development
-  Git punish, Decontaminator - Ruby HTML sanitizer based on a lightweight Oga parser, Jobless - ruby DSL for generating CVs и Twemoji - Twitter emoji in Ruby
+  
+Elixir v1.0, Ruby and Go Sitting in a Tree и 3 Steps to Fix Encoding Problems in Ruby
+
+  
+StackProf: The Holy Grail of Rails Profiling и How to debug Ruby memory issues
+
+  
+Why I wouldn’t use rails for a new company и Awesome Rails Gem - collection of awesome Ruby Gems for Rails development
+
+  
+Git punish, Decontaminator - Ruby HTML sanitizer based on a lightweight Oga parser, Jobless - ruby DSL for generating CVs и Twemoji - Twitter emoji in Ruby
+
 
 
 JavaScript
 
 
-  Node.js v4.1.0, ESLint v1.4.0 и React Native for Android
-  Runtime.js — JavaScript library OS, Bosonic - a practical collection of everyday Web Components и StarCraft - HTML5 version of StarCraft game
-  Creating Cel Animations With SVG, How I Live-Coded My Most-Hearted Pen, Subresource Integrity и Speck.js - comments that automagically convert into full test spec files
-  Micromono - write microservices in monolithic style, Gotham - simple Coffeescript framework, End-To-End is a Chrome extension that helps you encrypt, decrypt, digitally sign, and verify signed messages within the browser using OpenPGP и SQLite Viewer
+  
+Node.js v4.1.0, ESLint v1.4.0 и React Native for Android
+
+  
+Runtime.js — JavaScript library OS, Bosonic - a practical collection of everyday Web Components и StarCraft - HTML5 version of StarCraft game
+
+  
+Creating Cel Animations With SVG, How I Live-Coded My Most-Hearted Pen, Subresource Integrity и Speck.js - comments that automagically convert into full test spec files
+
+  
+Micromono - write microservices in monolithic style, Gotham - simple Coffeescript framework, End-To-End is a Chrome extension that helps you encrypt, decrypt, digitally sign, and verify signed messages within the browser using OpenPGP и SQLite Viewer
 
 
 </itunes:summary>
@@ -3359,19 +3798,34 @@ Ruby
 Ruby
 
 
-  Best Rails image uploader - Paperclip vs. Carrierwave vs. Refile, Turning the Tables: How to Get Along with your Object-Relational Mapper
-  Having No Fun with Rubygems, Systemd, Docker and Networking, Know Your Sidekiq Testing Rights и Understanding method missing
-  Volt Promise Objects, Print and Mail Custom Postcards using HTML, CSS, and Ruby on Rails и Little Things: Heredocs
-  Camaleon CMS - The Latest RoR Content Management System, Wpdb_activerecord - a wrapper for the WordPress database, using ActiveRecord и Staying relevant as a programmer (video)
+  
+Best Rails image uploader - Paperclip vs. Carrierwave vs. Refile, Turning the Tables: How to Get Along with your Object-Relational Mapper
+
+  
+Having No Fun with Rubygems, Systemd, Docker and Networking, Know Your Sidekiq Testing Rights и Understanding method missing
+
+  
+Volt Promise Objects, Print and Mail Custom Postcards using HTML, CSS, and Ruby on Rails и Little Things: Heredocs
+
+  
+Camaleon CMS - The Latest RoR Content Management System, Wpdb_activerecord - a wrapper for the WordPress database, using ActiveRecord и Staying relevant as a programmer (video)
+
 
 
 JavaScript
 
 
-  Node v4.0.0, 7 Reasons to Upgrade to Node v4 Now, Modernizr 3: A new release and website и Golang 1.5.1
-  The State of Front-End Tooling – 2015, Cracking captchas with neural networks и Full-Stack Redux Tutorial
-  Jets.js - native CSS search engine, Photoshop HTML Block и Javascript learning
-  Видео с Frontend Union Conf 2015, The State of Animation in React (video) и Lovefield: A JavaScript Relational Database (video)
+  
+Node v4.0.0, 7 Reasons to Upgrade to Node v4 Now, Modernizr 3: A new release and website и Golang 1.5.1
+
+  
+The State of Front-End Tooling – 2015, Cracking captchas with neural networks и Full-Stack Redux Tutorial
+
+  
+Jets.js - native CSS search engine, Photoshop HTML Block и Javascript learning
+
+  
+Видео с Frontend Union Conf 2015, The State of Animation in React (video) и Lovefield: A JavaScript Relational Database (video)
 
 
 </itunes:summary>
@@ -3453,21 +3907,40 @@ Ruby
 Ruby
 
 
-  Machine Learning made simple with Ruby и The plugin system of Sequel and Roda
-  Active Support and Time и Application directories named as architectural patterns antipattern
-  Extending Objects’ Behavior With Module#prepend и How to exit a Ruby program
-  CarrierWave::BombShelter - is a module which protects your uploaders from image bombs, Restful-client - HTTP framework for micro-services based environment, build on top of typhoeus and servicejynx и Grape::Attack - a middleware for Grape to add endpoint-specific throttling
-  The Soul of Software by Avdi Grimm (video) и Webinar: Phoenix Web Framework, with José Valim
+  
+Machine Learning made simple with Ruby и The plugin system of Sequel and Roda
+
+  
+Active Support and Time и Application directories named as architectural patterns antipattern
+
+  
+Extending Objects’ Behavior With Module#prepend и How to exit a Ruby program
+
+  
+CarrierWave::BombShelter - is a module which protects your uploaders from image bombs, Restful-client - HTTP framework for micro-services based environment, build on top of typhoeus and servicejynx и Grape::Attack - a middleware for Grape to add endpoint-specific throttling
+
+  
+The Soul of Software by Avdi Grimm (video) и Webinar: Phoenix Web Framework, with José Valim
+
 
 
 JavaScript
 
 
-  jQuery Foundation and Dojo Foundation to Merge, Node.js 4.0.0rc1, CoffeeScript 1.10.0 и TypeScript 1.6 Beta
-  Stop Using React for EVERYTHING!, React CSS Modules и How to miss the point when comparing web framework performance
-  5 Questions Every Unit Test Must Answer, Upup - a tiny script that makes sure your site is always there for your users и Webm.js - a simple one-page application that allows you to convert videos to WebM format right into your browser
-  Telepat - an open-source backend stack, designed to deliver information and information updates in real-time to clients, while allowing for flexible deployment and simple scaling и Chocolat.js - the lightbox jquery plugin
-  Wallop – a minimal JavaScript library for showing &amp;amp; hiding elements, Jotun - convert JS objects into vectors и HTML5 Deck of Cards
+  
+jQuery Foundation and Dojo Foundation to Merge, Node.js 4.0.0rc1, CoffeeScript 1.10.0 и TypeScript 1.6 Beta
+
+  
+Stop Using React for EVERYTHING!, React CSS Modules и How to miss the point when comparing web framework performance
+
+  
+5 Questions Every Unit Test Must Answer, Upup - a tiny script that makes sure your site is always there for your users и Webm.js - a simple one-page application that allows you to convert videos to WebM format right into your browser
+
+  
+Telepat - an open-source backend stack, designed to deliver information and information updates in real-time to clients, while allowing for flexible deployment and simple scaling и Chocolat.js - the lightbox jquery plugin
+
+  
+Wallop – a minimal JavaScript library for showing &amp;amp; hiding elements, Jotun - convert JS objects into vectors и HTML5 Deck of Cards
 
 
 </itunes:summary>
@@ -3550,21 +4023,40 @@ Ruby
 Ruby
 
 
-  Ruby 2.2.3 и Rails 4.2.4 and 4.1.13
-  Avoid these traps when nesting Ruby modules, Associative arrays in Ruby…what? и DRY up your specs using RSpec’s shared_examples_for
-  Introduction to Roda и Managing Redis Reconnections From Ruby
-  Fixing That Mysterious Slow Request in Your Rails App и Karafka – Ruby micro-framework for building Apache Kafka message-based applications
-  Microservices 101 и GitCompound - git submodules alternative written in Ruby
+  
+Ruby 2.2.3 и Rails 4.2.4 and 4.1.13
+
+  
+Avoid these traps when nesting Ruby modules, Associative arrays in Ruby…what? и DRY up your specs using RSpec’s shared_examples_for
+
+  
+Introduction to Roda и Managing Redis Reconnections From Ruby
+
+  
+Fixing That Mysterious Slow Request in Your Rails App и Karafka – Ruby micro-framework for building Apache Kafka message-based applications
+
+  
+Microservices 101 и GitCompound - git submodules alternative written in Ruby
+
 
 
 JavaScript
 
 
-  Falcor - a JavaScript library for efficient data fetching и Getting Started With Falcor
-  Using requestIdleCallback и querySelectorAll from an element probably doesn’t do what you think it does
-  Imba - a new programming language for the web that compiles to performant and readable JavaScript и Type­set.js - a ty­po­graphic pre-proces­sor for your html
-  Lazy load responsive images, “Scribble” Image Reveal with SVG and Blend Modes и Create an Apple device with only CSS. No image, just code
-  Benjamin Gruenbaum - io.js and the future of server side JavaScript (video) и Recent Conference Talks Worth Watching
+  
+Falcor - a JavaScript library for efficient data fetching и Getting Started With Falcor
+
+  
+Using requestIdleCallback и querySelectorAll from an element probably doesn’t do what you think it does
+
+  
+Imba - a new programming language for the web that compiles to performant and readable JavaScript и Type­set.js - a ty­po­graphic pre-proces­sor for your html
+
+  
+Lazy load responsive images, “Scribble” Image Reveal with SVG and Blend Modes и Create an Apple device with only CSS. No image, just code
+
+  
+Benjamin Gruenbaum - io.js and the future of server side JavaScript (video) и Recent Conference Talks Worth Watching
 
 
 </itunes:summary>
@@ -3642,19 +4134,34 @@ Ruby
 Ruby
 
 
-  A Survey of Non-Rails Frameworks in Ruby: Cuba, Sinatra, Padrino, Lotus, Test Doubles: in theory, in Minitest and in RSpec и Faster TDD in Rails with Bundler’s ‘require: false’
-  We have Markov noodles for dinner и How to develop a social network using Ruby on Rails
-  Untangle your Domain Model from the Database и Efficient Redis Caching Through Hashing
-  MatlabRuby - Ruby interface to the MATLAB Engine API and to the C/C++ Matrix Library API и Videos of eurucamp 2015
+  
+A Survey of Non-Rails Frameworks in Ruby: Cuba, Sinatra, Padrino, Lotus, Test Doubles: in theory, in Minitest and in RSpec и Faster TDD in Rails with Bundler’s ‘require: false’
+
+  
+We have Markov noodles for dinner и How to develop a social network using Ruby on Rails
+
+  
+Untangle your Domain Model from the Database и Efficient Redis Caching Through Hashing
+
+  
+MatlabRuby - Ruby interface to the MATLAB Engine API and to the C/C++ Matrix Library API и Videos of eurucamp 2015
+
 
 
 JavaScript
 
 
-  Ember.js 2.0, Redux 1.0, Relay Technical Preview и Relay
-  Longevity (or Lack Thereof) in JavaScript Frameworks и Building a desktop application with Electron
-  Algebra.js - build, display, and solve algebraic equations in JavaScript и Math.js - an extensive math library for JavaScript and Node.js
-  Peaks.js - browser-based audio waveform visualisation и NovaeCalc - a lightning browserbased spreadsheet software
+  
+Ember.js 2.0, Redux 1.0, Relay Technical Preview и Relay
+
+  
+Longevity (or Lack Thereof) in JavaScript Frameworks и Building a desktop application with Electron
+
+  
+Algebra.js - build, display, and solve algebraic equations in JavaScript и Math.js - an extensive math library for JavaScript and Node.js
+
+  
+Peaks.js - browser-based audio waveform visualisation и NovaeCalc - a lightning browserbased spreadsheet software
 
 
 </itunes:summary>
