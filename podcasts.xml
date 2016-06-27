@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 21 Jun 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 21 Jun 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 28 Jun 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 28 Jun 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>24 выпуск 04 сезона. Ruby 2.4.0-preview1, Npm-rails, strange bug ever in V8, Flatpickr, Beautiful Programming и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2016/06/20/ruby-2-4-0-preview1-released/">Ruby 2.4.0-preview1 Released</a>, <a href="https://wyeworks.com/blog/2016/6/22/behavior-changes-in-ruby-2.4/">Behavior changes in Ruby 2.4</a>, <a href="http://blog.bigbinary.com/2016/06/26/rails-add-helpers-method-to-ease-usage-of-helper-modules-in-controllers.html">Rails 5 adds helpers method in controllers to ease usage of helper modules in controllers</a> и <a href="http://blog.bigbinary.com/2016/06/21/rails-5-supports-adding-comments-migrations.html">Rails 5 supports adding comments in migrations</a></li>
+  <li><a href="http://marianposaceanu.com/articles/making-rails-asset-pipeline-faster">Making Rails asset pipeline faster</a> и <a href="https://codebrahma.com/implementing-upsert-in-rails/">Implementing Upsert in Rails</a></li>
+  <li><a href="https://buildtoship.com/tab-bar-native-hybrid-app-with-xcode-storyboards-and-turbolinks-5/">Tab Bar native-hybrid app with Xcode storyboards and Turbolinks 5</a> и <a href="https://github.com/endenwer/npm-rails">Npm-rails - NPM support for Rails projects</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.ghaiklor.com/strange-bug-ever-in-v8-2e6e9deda320">Strange bug ever in V8</a> и <a href="http://rainsoft.io/how-three-dots-changed-javascript/">How three dots changed JavaScript</a></li>
+  <li><a href="https://eager.io/blog/everything-I-know-about-the-script-tag/">Everything I Know About The Script Tag</a> и <a href="https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3">12 Books Every JavaScript Developer Should Read</a></li>
+  <li><a href="https://chmln.github.io/flatpickr/">Flatpickr - a lightweight &amp; powerful datetimepicker</a>, <a href="https://github.com/SamyPesse/gitkit-js">GitKit.js - pure JavaScript implementation of Git backed</a>, <a href="http://typographyhandbook.com/">Typography Handbook</a> и <a href="http://beautifulprogramming.com/">Beautiful Programming - an Exploration of Aesthetics via Instruction</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2016/06/20/ruby-2-4-0-preview1-released/">Ruby 2.4.0-preview1 Released</a>, <a href="https://wyeworks.com/blog/2016/6/22/behavior-changes-in-ruby-2.4/">Behavior changes in Ruby 2.4</a>, <a href="http://blog.bigbinary.com/2016/06/26/rails-add-helpers-method-to-ease-usage-of-helper-modules-in-controllers.html">Rails 5 adds helpers method in controllers to ease usage of helper modules in controllers</a> и <a href="http://blog.bigbinary.com/2016/06/21/rails-5-supports-adding-comments-migrations.html">Rails 5 supports adding comments in migrations</a></li>
+  <li><a href="http://marianposaceanu.com/articles/making-rails-asset-pipeline-faster">Making Rails asset pipeline faster</a> и <a href="https://codebrahma.com/implementing-upsert-in-rails/">Implementing Upsert in Rails</a></li>
+  <li><a href="https://buildtoship.com/tab-bar-native-hybrid-app-with-xcode-storyboards-and-turbolinks-5/">Tab Bar native-hybrid app with Xcode storyboards and Turbolinks 5</a> и <a href="https://github.com/endenwer/npm-rails">Npm-rails - NPM support for Rails projects</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.ghaiklor.com/strange-bug-ever-in-v8-2e6e9deda320">Strange bug ever in V8</a> и <a href="http://rainsoft.io/how-three-dots-changed-javascript/">How three dots changed JavaScript</a></li>
+  <li><a href="https://eager.io/blog/everything-I-know-about-the-script-tag/">Everything I Know About The Script Tag</a> и <a href="https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3">12 Books Every JavaScript Developer Should Read</a></li>
+  <li><a href="https://chmln.github.io/flatpickr/">Flatpickr - a lightweight &amp; powerful datetimepicker</a>, <a href="https://github.com/SamyPesse/gitkit-js">GitKit.js - pure JavaScript implementation of Git backed</a>, <a href="http://typographyhandbook.com/">Typography Handbook</a> и <a href="http://beautifulprogramming.com/">Beautiful Programming - an Exploration of Aesthetics via Instruction</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 28 Jun 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/06/28/podcast-04-24.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/28/podcast-04-24.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/160/file/podfm_rwpod_my_24_160.mp3" length="40179962" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/160/file/podfm_rwpod_my_24_160.mp3" fileSize="40179962" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.4.0-preview1 Released, Behavior changes...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.4.0-preview1 Released, Behavior changes in Ruby 2.4, Rails 5 adds helpers method in controllers to ease usage of helper modules in controllers и Rails 5 supports adding comments in migrations
+
+  
+Making Rails asset pipeline faster и Implementing Upsert in Rails
+
+  
+Tab Bar native-hybrid app with Xcode storyboards and Turbolinks 5 и Npm-rails - NPM support for Rails projects
+
+
+
+JavaScript
+
+
+  
+Strange bug ever in V8 и How three dots changed JavaScript
+
+  
+Everything I Know About The Script Tag и 12 Books Every JavaScript Developer Should Read
+
+  
+Flatpickr - a lightweight &amp; powerful datetimepicker, GitKit.js - pure JavaScript implementation of Git backed, Typography Handbook и Beautiful Programming - an Exploration of Aesthetics via Instruction
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0424.png"/>
+  <itunes:duration>00:41:45</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>23 выпуск 04 сезона. Elixir over Ruby, PostgreSQL Exercises, Headless Chrome, Kakapo.js, AOS и прочее</title>
   <description>
@@ -4060,122 +4155,6 @@ Wallop – a minimal JavaScript library for showing &amp; hiding elements, Jotun
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0333.png"/>
   <itunes:duration>00:49:49</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>32 выпуск 03 сезона. Ruby 2.2.3, Rails 4.2.4 и 4.1.13, Karafka, Falcor, requestIdleCallback, Imba, Type­set.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2015/08/18/ruby-2-2-3-released/">Ruby 2.2.3</a> и <a href="http://weblog.rubyonrails.org/2015/8/24/Rails-4-2-4-and-4-1-13-have-been-released/">Rails 4.2.4 and 4.1.13</a></li>
-  <li><a href="http://blog.honeybadger.io/avoid-these-traps-when-nesting-ruby-modules/">Avoid these traps when nesting Ruby modules</a>, <a href="http://blog.honeybadger.io/associative-arrays-in-ruby-what/">Associative arrays in Ruby…what?</a> и <a href="https://niallburkley.com/blog/rspecs-shared_examples_for/">DRY up your specs using RSpec’s <code>shared_examples_for</code></a></li>
-  <li><a href="http://twin.github.io/introduction-to-roda/">Introduction to Roda</a> и <a href="http://sorentwo.com/2015/08/25/managing-redis-reconnections-from-ruby.html">Managing Redis Reconnections From Ruby</a></li>
-  <li><a href="http://blog.skylight.io/fixing-the-mysterious-slow-request/">Fixing That Mysterious Slow Request in Your Rails App</a> и <a href="http://dev.mensfeld.pl/2015/08/karafka-ruby-micro-framework-for-building-apache-kafka-message-based-applications/">Karafka – Ruby micro-framework for building Apache Kafka message-based applications</a></li>
-  <li><a href="http://bits.citrusbyte.com/microservices/">Microservices 101</a> и <a href="https://github.com/grzesiek/git_compound">GitCompound - git submodules alternative written in Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://netflix.github.io/falcor/">Falcor - a JavaScript library for efficient data fetching</a> и <a href="https://auth0.com/blog/2015/08/28/getting-started-with-falcor/">Getting Started With Falcor</a></li>
-  <li><a href="https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback">Using requestIdleCallback</a> и <a href="https://www.lvh.io/posts/queryselectorall-from-an-element-probably-doesnt-do-what-you-think-it-does.html">querySelectorAll from an element probably doesn’t do what you think it does</a></li>
-  <li><a href="http://imba.io/">Imba - a new programming language for the web that compiles to performant and readable JavaScript</a> и <a href="https://blot.im/typeset/">Type­set.js - a ty­po­graphic pre-proces­sor for your html</a></li>
-  <li><a href="http://ivopetkov.com/b/lazy-load-responsive-images/">Lazy load responsive images</a>, <a href="http://thenewcode.com/1062/Scribble-Image-Reveal-with-SVG-and-Blend-Modes">“Scribble” Image Reveal with SVG and Blend Modes</a> и <a href="http://purecssapple.com/">Create an Apple device with only CSS. No image, just code</a></li>
-  <li><a href="https://www.youtube.com/watch?v=LGpmUyFnyuQ">Benjamin Gruenbaum - io.js and the future of server side JavaScript (video)</a> и <a href="https://css-tricks.com/recent-conference-talks-worth-watching/">Recent Conference Talks Worth Watching</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2015/08/18/ruby-2-2-3-released/">Ruby 2.2.3</a> и <a href="http://weblog.rubyonrails.org/2015/8/24/Rails-4-2-4-and-4-1-13-have-been-released/">Rails 4.2.4 and 4.1.13</a></li>
-  <li><a href="http://blog.honeybadger.io/avoid-these-traps-when-nesting-ruby-modules/">Avoid these traps when nesting Ruby modules</a>, <a href="http://blog.honeybadger.io/associative-arrays-in-ruby-what/">Associative arrays in Ruby…what?</a> и <a href="https://niallburkley.com/blog/rspecs-shared_examples_for/">DRY up your specs using RSpec’s <code>shared_examples_for</code></a></li>
-  <li><a href="http://twin.github.io/introduction-to-roda/">Introduction to Roda</a> и <a href="http://sorentwo.com/2015/08/25/managing-redis-reconnections-from-ruby.html">Managing Redis Reconnections From Ruby</a></li>
-  <li><a href="http://blog.skylight.io/fixing-the-mysterious-slow-request/">Fixing That Mysterious Slow Request in Your Rails App</a> и <a href="http://dev.mensfeld.pl/2015/08/karafka-ruby-micro-framework-for-building-apache-kafka-message-based-applications/">Karafka – Ruby micro-framework for building Apache Kafka message-based applications</a></li>
-  <li><a href="http://bits.citrusbyte.com/microservices/">Microservices 101</a> и <a href="https://github.com/grzesiek/git_compound">GitCompound - git submodules alternative written in Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://netflix.github.io/falcor/">Falcor - a JavaScript library for efficient data fetching</a> и <a href="https://auth0.com/blog/2015/08/28/getting-started-with-falcor/">Getting Started With Falcor</a></li>
-  <li><a href="https://developers.google.com/web/updates/2015/08/27/using-requestidlecallback">Using requestIdleCallback</a> и <a href="https://www.lvh.io/posts/queryselectorall-from-an-element-probably-doesnt-do-what-you-think-it-does.html">querySelectorAll from an element probably doesn’t do what you think it does</a></li>
-  <li><a href="http://imba.io/">Imba - a new programming language for the web that compiles to performant and readable JavaScript</a> и <a href="https://blot.im/typeset/">Type­set.js - a ty­po­graphic pre-proces­sor for your html</a></li>
-  <li><a href="http://ivopetkov.com/b/lazy-load-responsive-images/">Lazy load responsive images</a>, <a href="http://thenewcode.com/1062/Scribble-Image-Reveal-with-SVG-and-Blend-Modes">“Scribble” Image Reveal with SVG and Blend Modes</a> и <a href="http://purecssapple.com/">Create an Apple device with only CSS. No image, just code</a></li>
-  <li><a href="https://www.youtube.com/watch?v=LGpmUyFnyuQ">Benjamin Gruenbaum - io.js and the future of server side JavaScript (video)</a> и <a href="https://css-tricks.com/recent-conference-talks-worth-watching/">Recent Conference Talks Worth Watching</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 01 Sep 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/09/01/podcast-03-32.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/09/01/podcast-03-32.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/120/file/podfm_rwpod_my_32_120.mp3" length="50330975" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/120/file/podfm_rwpod_my_32_120.mp3" fileSize="50330975" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.2.3 и Rails 4.2.4 and 4.1.13
-  Avoid th...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.2.3 и Rails 4.2.4 and 4.1.13
-
-  
-Avoid these traps when nesting Ruby modules, Associative arrays in Ruby…what? и DRY up your specs using RSpec’s shared_examples_for
-
-  
-Introduction to Roda и Managing Redis Reconnections From Ruby
-
-  
-Fixing That Mysterious Slow Request in Your Rails App и Karafka – Ruby micro-framework for building Apache Kafka message-based applications
-
-  
-Microservices 101 и GitCompound - git submodules alternative written in Ruby
-
-
-
-JavaScript
-
-
-  
-Falcor - a JavaScript library for efficient data fetching и Getting Started With Falcor
-
-  
-Using requestIdleCallback и querySelectorAll from an element probably doesn’t do what you think it does
-
-  
-Imba - a new programming language for the web that compiles to performant and readable JavaScript и Type­set.js - a ty­po­graphic pre-proces­sor for your html
-
-  
-Lazy load responsive images, “Scribble” Image Reveal with SVG and Blend Modes и Create an Apple device with only CSS. No image, just code
-
-  
-Benjamin Gruenbaum - io.js and the future of server side JavaScript (video) и Recent Conference Talks Worth Watching
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0332.png"/>
-  <itunes:duration>00:52:19</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
