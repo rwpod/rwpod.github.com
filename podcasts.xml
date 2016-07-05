@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 28 Jun 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 28 Jun 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 05 Jul 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 05 Jul 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>25 выпуск 04 сезона. Rails 5.0, RSpec 3.5, ESLint 3.0.0, D3 4.1.0, Unused, Null pointer exceptions hell и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/">Rails 5.0: Action Cable, API mode, and so much more</a>, <a href="http://blog.bigbinary.com/2016/06/27/rails-5-makes-sql-statements-even-more-colorful.html">Rails 5 makes sql statements even more colorful</a>, <a href="http://rspec.info/blog/2016/07/rspec-3-5-has-been-released/">RSpec 3.5 has been released</a> и <a href="http://www.eq8.eu/blogs/27-rspec-be_within-matcher">RSpec be_within matcher</a></li>
+  <li><a href="http://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/">Avoid Mutation – Functional Style In Ruby</a> и <a href="http://sorentwo.com/2016/06/28/effectively-scaling-sidekiq-workers.html">Effectively Scaling Sidekiq Workers</a></li>
+  <li><a href="https://unused.codes/">Unused - a command line tool to identify unused code</a> и <a href="https://github.com/choonkeat/active_params">ActiveParams - stop manually defining strong_parameters</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://eslint.org/blog/2016/07/eslint-v3.0.0-released">ESLint v3.0.0 released</a>, <a href="https://github.com/d3/d3/releases/tag/v4.1.0">D3 v4.1.0</a> и <a href="http://dobegin.com/npe-hell/">Null pointer exceptions hell</a></li>
+  <li><a href="https://medium.com/@marianojmiguel/battle-of-the-architectures-30c512d542a4">Battle of the architectures</a>, <a href="https://eager.io/blog/communicating-between-javascript-and-css-with-css-variables/">Communicating Between JavaScript and CSS Using CSS Variables</a> и <a href="https://eager.io/blog/three-real-world-use-cases-for-mutation-observer/">Three Real-World Uses for Mutation Observer</a></li>
+  <li><a href="https://github.com/Raathigesh/Atmo">Atmo - Server Side Api Mocking made easy with UI</a>, <a href="http://anime-js.com/">Anime - a flexible yet lightweight JavaScript animation library</a> и <a href="https://dvlden.github.io/Vidage/">Vidage - a solution to full-screen background video and image combined</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/">Rails 5.0: Action Cable, API mode, and so much more</a>, <a href="http://blog.bigbinary.com/2016/06/27/rails-5-makes-sql-statements-even-more-colorful.html">Rails 5 makes sql statements even more colorful</a>, <a href="http://rspec.info/blog/2016/07/rspec-3-5-has-been-released/">RSpec 3.5 has been released</a> и <a href="http://www.eq8.eu/blogs/27-rspec-be_within-matcher">RSpec be_within matcher</a></li>
+  <li><a href="http://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/">Avoid Mutation – Functional Style In Ruby</a> и <a href="http://sorentwo.com/2016/06/28/effectively-scaling-sidekiq-workers.html">Effectively Scaling Sidekiq Workers</a></li>
+  <li><a href="https://unused.codes/">Unused - a command line tool to identify unused code</a> и <a href="https://github.com/choonkeat/active_params">ActiveParams - stop manually defining strong_parameters</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://eslint.org/blog/2016/07/eslint-v3.0.0-released">ESLint v3.0.0 released</a>, <a href="https://github.com/d3/d3/releases/tag/v4.1.0">D3 v4.1.0</a> и <a href="http://dobegin.com/npe-hell/">Null pointer exceptions hell</a></li>
+  <li><a href="https://medium.com/@marianojmiguel/battle-of-the-architectures-30c512d542a4">Battle of the architectures</a>, <a href="https://eager.io/blog/communicating-between-javascript-and-css-with-css-variables/">Communicating Between JavaScript and CSS Using CSS Variables</a> и <a href="https://eager.io/blog/three-real-world-use-cases-for-mutation-observer/">Three Real-World Uses for Mutation Observer</a></li>
+  <li><a href="https://github.com/Raathigesh/Atmo">Atmo - Server Side Api Mocking made easy with UI</a>, <a href="http://anime-js.com/">Anime - a flexible yet lightweight JavaScript animation library</a> и <a href="https://dvlden.github.io/Vidage/">Vidage - a solution to full-screen background video and image combined</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 05 Jul 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/07/05/podcast-04-25.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/05/podcast-04-25.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/161/file/podfm_rwpod_my_25_161.mp3" length="42808931" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/161/file/podfm_rwpod_my_25_161.mp3" fileSize="42808931" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.0: Action Cable, API mode, and so much...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.0: Action Cable, API mode, and so much more, Rails 5 makes sql statements even more colorful, RSpec 3.5 has been released и RSpec be_within matcher
+
+  
+Avoid Mutation – Functional Style In Ruby и Effectively Scaling Sidekiq Workers
+
+  
+Unused - a command line tool to identify unused code и ActiveParams - stop manually defining strong_parameters
+
+
+
+JavaScript
+
+
+  
+ESLint v3.0.0 released, D3 v4.1.0 и Null pointer exceptions hell
+
+  
+Battle of the architectures, Communicating Between JavaScript and CSS Using CSS Variables и Three Real-World Uses for Mutation Observer
+
+  
+Atmo - Server Side Api Mocking made easy with UI, Anime - a flexible yet lightweight JavaScript animation library и Vidage - a solution to full-screen background video and image combined
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0425.png"/>
+  <itunes:duration>00:44:29</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>24 выпуск 04 сезона. Ruby 2.4.0-preview1, Npm-rails, strange bug ever in V8, Flatpickr, Beautiful Programming и прочее</title>
   <description>
@@ -4040,121 +4135,6 @@ Jets.js - native CSS search engine, Photoshop HTML Block и Javascript learning
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0334.png"/>
   <itunes:duration>01:01:12</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>33 выпуск 03 сезона. Machine Learning, CarrierWave::BombShelter, CoffeeScript 1.10.0, Upup, Telepat, Jotun и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/">Machine Learning made simple with Ruby</a> и <a href="http://twin.github.io/the-plugin-system-of-sequel-and-roda/">The plugin system of Sequel and Roda</a></li>
-  <li><a href="http://jakeyesbeck.com/2015/08/30/active-support-and-time/">Active Support and Time</a> и <a href="http://teotti.com/application-directories-named-as-architectural-patterns-antipattern/">Application directories named as architectural patterns antipattern</a></li>
-  <li><a href="http://blog.ragnarson.com/2015/08/28/extending-objects-behavior-with-module-prepend.html">Extending Objects’ Behavior With Module#prepend</a> и <a href="http://blog.honeybadger.io/how-to-exit-a-ruby-program/">How to exit a Ruby program</a></li>
-  <li><a href="https://github.com/DarthSim/carrierwave-bombshelter">CarrierWave::BombShelter - is a module which protects your uploaders from image bombs</a>, <a href="https://github.com/AvnerCohen/restful-client">Restful-client - HTTP framework for micro-services based environment, build on top of typhoeus and servicejynx</a> и <a href="https://github.com/gottfrois/grape-attack">Grape::Attack - a middleware for Grape to add endpoint-specific throttling</a></li>
-  <li><a href="https://www.youtube.com/watch?v=zs0E4E83_X8">The Soul of Software by Avdi Grimm (video)</a> и <a href="https://www.youtube.com/watch?v=Af-gTdlQoUM">Webinar: Phoenix Web Framework, with José Valim</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.jquery.com/2015/09/01/jquery-foundation-and-dojo-foundation-to-merge/">jQuery Foundation and Dojo Foundation to Merge</a>, <a href="https://nodejs.org/download/rc/v4.0.0-rc.1/">Node.js 4.0.0rc1</a>, <a href="http://coffeescript.org/#changelog">CoffeeScript 1.10.0</a> и <a href="http://blogs.msdn.com/b/typescript/archive/2015/09/02/announcing-typescript-1-6-beta-react-jsx-better-error-checking-and-more.aspx">TypeScript 1.6 Beta</a></li>
-  <li><a href="https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644">Stop Using React for EVERYTHING!</a>, <a href="https://github.com/gajus/react-css-modules">React CSS Modules</a> и <a href="https://medium.com/@djsmith42/how-to-miss-the-point-when-comparing-web-framework-performance-50ac0d8d9d71">How to miss the point when comparing web framework performance</a></li>
-  <li><a href="https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d">5 Questions Every Unit Test Must Answer</a>, <a href="https://www.talater.com/upup/">Upup - a tiny script that makes sure your site is always there for your users</a> и <a href="https://kagami.github.io/webm.js/">Webm.js - a simple one-page application that allows you to convert videos to WebM format right into your browser</a></li>
-  <li><a href="http://telepat.io/">Telepat - an open-source backend stack, designed to deliver information and information updates in real-time to clients, while allowing for flexible deployment and simple scaling</a> и <a href="http://chocolat.insipi.de/">Chocolat.js - the lightbox jquery plugin</a></li>
-  <li><a href="http://designhooks.com/wallop-a-minimal-javascript-library-for-showing-hiding-elements/">Wallop – a minimal JavaScript library for showing &amp; hiding elements</a>, <a href="http://techfort.github.io/jotun/">Jotun - convert JS objects into vectors</a> и <a href="http://pakastin.github.io/deck-of-cards/">HTML5 Deck of Cards</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.leanpanda.com/blog/2015/08/24/machine-learning-automatic-classification/">Machine Learning made simple with Ruby</a> и <a href="http://twin.github.io/the-plugin-system-of-sequel-and-roda/">The plugin system of Sequel and Roda</a></li>
-  <li><a href="http://jakeyesbeck.com/2015/08/30/active-support-and-time/">Active Support and Time</a> и <a href="http://teotti.com/application-directories-named-as-architectural-patterns-antipattern/">Application directories named as architectural patterns antipattern</a></li>
-  <li><a href="http://blog.ragnarson.com/2015/08/28/extending-objects-behavior-with-module-prepend.html">Extending Objects’ Behavior With Module#prepend</a> и <a href="http://blog.honeybadger.io/how-to-exit-a-ruby-program/">How to exit a Ruby program</a></li>
-  <li><a href="https://github.com/DarthSim/carrierwave-bombshelter">CarrierWave::BombShelter - is a module which protects your uploaders from image bombs</a>, <a href="https://github.com/AvnerCohen/restful-client">Restful-client - HTTP framework for micro-services based environment, build on top of typhoeus and servicejynx</a> и <a href="https://github.com/gottfrois/grape-attack">Grape::Attack - a middleware for Grape to add endpoint-specific throttling</a></li>
-  <li><a href="https://www.youtube.com/watch?v=zs0E4E83_X8">The Soul of Software by Avdi Grimm (video)</a> и <a href="https://www.youtube.com/watch?v=Af-gTdlQoUM">Webinar: Phoenix Web Framework, with José Valim</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.jquery.com/2015/09/01/jquery-foundation-and-dojo-foundation-to-merge/">jQuery Foundation and Dojo Foundation to Merge</a>, <a href="https://nodejs.org/download/rc/v4.0.0-rc.1/">Node.js 4.0.0rc1</a>, <a href="http://coffeescript.org/#changelog">CoffeeScript 1.10.0</a> и <a href="http://blogs.msdn.com/b/typescript/archive/2015/09/02/announcing-typescript-1-6-beta-react-jsx-better-error-checking-and-more.aspx">TypeScript 1.6 Beta</a></li>
-  <li><a href="https://medium.com/@zackargyle/stop-using-react-for-everything-c8297ac1a644">Stop Using React for EVERYTHING!</a>, <a href="https://github.com/gajus/react-css-modules">React CSS Modules</a> и <a href="https://medium.com/@djsmith42/how-to-miss-the-point-when-comparing-web-framework-performance-50ac0d8d9d71">How to miss the point when comparing web framework performance</a></li>
-  <li><a href="https://medium.com/javascript-scene/what-every-unit-test-needs-f6cd34d9836d">5 Questions Every Unit Test Must Answer</a>, <a href="https://www.talater.com/upup/">Upup - a tiny script that makes sure your site is always there for your users</a> и <a href="https://kagami.github.io/webm.js/">Webm.js - a simple one-page application that allows you to convert videos to WebM format right into your browser</a></li>
-  <li><a href="http://telepat.io/">Telepat - an open-source backend stack, designed to deliver information and information updates in real-time to clients, while allowing for flexible deployment and simple scaling</a> и <a href="http://chocolat.insipi.de/">Chocolat.js - the lightbox jquery plugin</a></li>
-  <li><a href="http://designhooks.com/wallop-a-minimal-javascript-library-for-showing-hiding-elements/">Wallop – a minimal JavaScript library for showing &amp; hiding elements</a>, <a href="http://techfort.github.io/jotun/">Jotun - convert JS objects into vectors</a> и <a href="http://pakastin.github.io/deck-of-cards/">HTML5 Deck of Cards</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 07 Sep 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/09/07/podcast-03-33.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/09/07/podcast-03-33.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/121/file/podfm_rwpod_my_33_121.mp3" length="47926746" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/121/file/podfm_rwpod_my_33_121.mp3" fileSize="47926746" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Machine Learning made simple with Ruby и The p...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Machine Learning made simple with Ruby и The plugin system of Sequel and Roda
-
-  
-Active Support and Time и Application directories named as architectural patterns antipattern
-
-  
-Extending Objects’ Behavior With Module#prepend и How to exit a Ruby program
-
-  
-CarrierWave::BombShelter - is a module which protects your uploaders from image bombs, Restful-client - HTTP framework for micro-services based environment, build on top of typhoeus and servicejynx и Grape::Attack - a middleware for Grape to add endpoint-specific throttling
-
-  
-The Soul of Software by Avdi Grimm (video) и Webinar: Phoenix Web Framework, with José Valim
-
-
-
-JavaScript
-
-
-  
-jQuery Foundation and Dojo Foundation to Merge, Node.js 4.0.0rc1, CoffeeScript 1.10.0 и TypeScript 1.6 Beta
-
-  
-Stop Using React for EVERYTHING!, React CSS Modules и How to miss the point when comparing web framework performance
-
-  
-5 Questions Every Unit Test Must Answer, Upup - a tiny script that makes sure your site is always there for your users и Webm.js - a simple one-page application that allows you to convert videos to WebM format right into your browser
-
-  
-Telepat - an open-source backend stack, designed to deliver information and information updates in real-time to clients, while allowing for flexible deployment and simple scaling и Chocolat.js - the lightbox jquery plugin
-
-  
-Wallop – a minimal JavaScript library for showing &amp; hiding elements, Jotun - convert JS objects into vectors и HTML5 Deck of Cards
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0333.png"/>
-  <itunes:duration>00:49:49</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
