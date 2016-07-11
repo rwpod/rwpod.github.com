@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 05 Jul 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 05 Jul 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 12 Jul 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 12 Jul 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>26 выпуск 04 сезона. ActionCable under stress, AGC source code, Trumpify, jQuery 3.1.0, Zingtouch, LambCI и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.phusion.nl/2016/07/07/actioncable-under-stress-p1/">ActionCable under stress: fixing data corruption and socket leak issues in Rails 5</a>, <a href="http://blog.bigbinary.com/2016/07/07/errors-can-be-indexed-with-nested-attrbutes-in-rails-5.html">Errors can be indexed with nested attributes in Rails 5</a>, <a href="http://railshurts.com/quiz/">Ruby or Rails? quiz</a> и <a href="https://github.com/rickr/trumpify">Trumpify - make ruby great again</a></li>
+  <li><a href="https://medium.com/@Bakku1505/playing-with-symmetric-encryption-algorithms-in-ruby-8652f105341e">Playing with symmetric encryption algorithms in Ruby</a>, <a href="https://apotonick.wordpress.com/2016/07/06/schemaless-models-with-hash-fields-or-jsonb/">Schemaless Models With Hash Fields or JSONB</a> и <a href="http://aaronlasseigne.com/2016/07/08/5-tips-for-writing-a-legible-regexp/">5 Tips for Writing a Legible Regexp</a></li>
+  <li><a href="https://zachholman.com/posts/deploying-software">How to Deploy Software</a>, <a href="https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7">Go’s march to low-latency GC</a> и <a href="https://github.com/chrislgarry/Apollo-11">Original Apollo 11 Guidance Computer (AGC) source code</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.bugsnag.com/a-warning-about-jquery-3">A Warning About jQuery 3</a>, <a href="https://blog.jquery.com/2016/07/07/jquery-3-1-0-released-no-more-silent-errors/">jQuery 3.1.0 Released – No More Silent Errors</a> и <a href="https://medium.com/webpack/webpack-its-getting-real-92c60fca1db1">Webpack: It’s getting real</a></li>
+  <li><a href="https://medium.com/unhandled-exception/you-may-not-want-to-use-hip-js-framework-708f6358da95">You may not want to use [hip_js_framework]</a> и <a href="https://medium.com/outsystems-experts/beyond-console-debugging-tricks-f7d0d7f5df4">Beyond Console Debugging Tricks</a></li>
+  <li><a href="https://zingchart.github.io/zingtouch/">Zingtouch - JavaScript gesture detection library for the modern web</a>, <a href="https://github.com/lambci/lambci">LambCI - serverless continuous integration</a>, <a href="http://lmgonzalves.github.io/segment/">Segment - little JavaScript class (without dependencies) to draw and animate SVG path strokes</a> и <a href="http://pattle.github.io/simpsons-in-css/">The Simpsons in CSS</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.phusion.nl/2016/07/07/actioncable-under-stress-p1/">ActionCable under stress: fixing data corruption and socket leak issues in Rails 5</a>, <a href="http://blog.bigbinary.com/2016/07/07/errors-can-be-indexed-with-nested-attrbutes-in-rails-5.html">Errors can be indexed with nested attributes in Rails 5</a>, <a href="http://railshurts.com/quiz/">Ruby or Rails? quiz</a> и <a href="https://github.com/rickr/trumpify">Trumpify - make ruby great again</a></li>
+  <li><a href="https://medium.com/@Bakku1505/playing-with-symmetric-encryption-algorithms-in-ruby-8652f105341e">Playing with symmetric encryption algorithms in Ruby</a>, <a href="https://apotonick.wordpress.com/2016/07/06/schemaless-models-with-hash-fields-or-jsonb/">Schemaless Models With Hash Fields or JSONB</a> и <a href="http://aaronlasseigne.com/2016/07/08/5-tips-for-writing-a-legible-regexp/">5 Tips for Writing a Legible Regexp</a></li>
+  <li><a href="https://zachholman.com/posts/deploying-software">How to Deploy Software</a>, <a href="https://blog.twitch.tv/gos-march-to-low-latency-gc-a6fa96f06eb7">Go’s march to low-latency GC</a> и <a href="https://github.com/chrislgarry/Apollo-11">Original Apollo 11 Guidance Computer (AGC) source code</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.bugsnag.com/a-warning-about-jquery-3">A Warning About jQuery 3</a>, <a href="https://blog.jquery.com/2016/07/07/jquery-3-1-0-released-no-more-silent-errors/">jQuery 3.1.0 Released – No More Silent Errors</a> и <a href="https://medium.com/webpack/webpack-its-getting-real-92c60fca1db1">Webpack: It’s getting real</a></li>
+  <li><a href="https://medium.com/unhandled-exception/you-may-not-want-to-use-hip-js-framework-708f6358da95">You may not want to use [hip_js_framework]</a> и <a href="https://medium.com/outsystems-experts/beyond-console-debugging-tricks-f7d0d7f5df4">Beyond Console Debugging Tricks</a></li>
+  <li><a href="https://zingchart.github.io/zingtouch/">Zingtouch - JavaScript gesture detection library for the modern web</a>, <a href="https://github.com/lambci/lambci">LambCI - serverless continuous integration</a>, <a href="http://lmgonzalves.github.io/segment/">Segment - little JavaScript class (without dependencies) to draw and animate SVG path strokes</a> и <a href="http://pattle.github.io/simpsons-in-css/">The Simpsons in CSS</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 12 Jul 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/07/12/podcast-04-26.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/12/podcast-04-26.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/162/file/podfm_rwpod_my_26_162.mp3" length="45220788" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/162/file/podfm_rwpod_my_26_162.mp3" fileSize="45220788" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  ActionCable under stress: fixing data corrupti...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+ActionCable under stress: fixing data corruption and socket leak issues in Rails 5, Errors can be indexed with nested attributes in Rails 5, Ruby or Rails? quiz и Trumpify - make ruby great again
+
+  
+Playing with symmetric encryption algorithms in Ruby, Schemaless Models With Hash Fields or JSONB и 5 Tips for Writing a Legible Regexp
+
+  
+How to Deploy Software, Go’s march to low-latency GC и Original Apollo 11 Guidance Computer (AGC) source code
+
+
+
+JavaScript
+
+
+  
+A Warning About jQuery 3, jQuery 3.1.0 Released – No More Silent Errors и Webpack: It’s getting real
+
+  
+You may not want to use [hip_js_framework] и Beyond Console Debugging Tricks
+
+  
+Zingtouch - JavaScript gesture detection library for the modern web, LambCI - serverless continuous integration, Segment - little JavaScript class (without dependencies) to draw and animate SVG path strokes и The Simpsons in CSS
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0426.png"/>
+  <itunes:duration>00:47:00</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>25 выпуск 04 сезона. Rails 5.0, RSpec 3.5, ESLint 3.0.0, D3 4.1.0, Unused, Null pointer exceptions hell и прочее</title>
   <description>
@@ -4030,111 +4125,6 @@ Micromono - write microservices in monolithic style, Gotham - simple Coffeescrip
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0335.png"/>
   <itunes:duration>00:34:41</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>34 выпуск 03 сезона. Node v4, Modernizr 3, Golang 1.5.1, Volt Promise Objects, Camaleon CMS, Photoshop HTML Block и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://infinum.co/the-capsized-eight/articles/best-rails-image-uploader-paperclip-carrierwave-refile">Best Rails image uploader - Paperclip vs. Carrierwave vs. Refile</a>, <a href="https://medium.com/@bradurani/turning-the-tables-how-to-get-along-with-your-object-relational-mapper-e5d2d6a76573">Turning the Tables: How to Get Along with your Object-Relational Mapper</a></li>
-  <li><a href="https://www.fedux.org/articles/2015/09/09/having-no-fun-with-rubygems-systemd-docker-and-networking.html">Having No Fun with Rubygems, Systemd, Docker and Networking</a>, <a href="http://blog.codeship.com/know-your-sidekiq-testing-rights/">Know Your Sidekiq Testing Rights</a> и <a href="http://www.leighhalliday.com/understanding-method-missing">Understanding method missing</a></li>
-  <li><a href="http://datamelon.io/blog/2015/volt-promise-objects.html">Volt Promise Objects</a>, <a href="https://lob.com/blog/print-mail-custom-postcards-using-html-css-ruby-on-rails/">Print and Mail Custom Postcards using HTML, CSS, and Ruby on Rails</a> и <a href="http://weblog.jamisbuck.org/2015/9/12/little-things-heredocs.html">Little Things: Heredocs</a></li>
-  <li><a href="http://railscarma.com/blog/technical-articles/camaleon-cms/">Camaleon CMS - The Latest RoR Content Management System</a>, <a href="https://github.com/hothero/wpdb_activerecord">Wpdb_activerecord - a wrapper for the WordPress database, using ActiveRecord</a> и <a href="https://www.youtube.com/watch?v=ZZUY37RQS-k">Staying relevant as a programmer (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v4.0.0/">Node v4.0.0</a>, <a href="http://www.cli-nerd.com/2015/09/09/7-reasons-to-upgrade-to-node-v4-now.html">7 Reasons to Upgrade to Node v4 Now</a>, <a href="https://modernizr.com/news/modernizr-3-new-release-site">Modernizr 3: A new release and website</a> и <a href="https://golang.org/doc/devel/release.html#go1.5.minor">Golang 1.5.1</a></li>
-  <li><a href="http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results">The State of Front-End Tooling – 2015</a>, <a href="http://codepen.io/birjolaxew/blog/cracking-captchas-with-neural-networks">Cracking captchas with neural networks</a> и <a href="http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html">Full-Stack Redux Tutorial</a></li>
-  <li><a href="http://nexts.github.io/Jets.js/">Jets.js - native CSS search engine</a>, <a href="http://bg-d.net/htmlblock/">Photoshop HTML Block</a> и <a href="http://devleaks.com/tag/javascript-learning">Javascript learning</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLYWZNd96EXDaR2QNAggAC0FwiHcfWhCBD">Видео с Frontend Union Conf 2015</a>, <a href="https://www.youtube.com/watch?v=1tavDv5hXpo">The State of Animation in React (video)</a> и <a href="https://www.youtube.com/watch?v=S1AUIq8GA1k">Lovefield: A JavaScript Relational Database (video)</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://infinum.co/the-capsized-eight/articles/best-rails-image-uploader-paperclip-carrierwave-refile">Best Rails image uploader - Paperclip vs. Carrierwave vs. Refile</a>, <a href="https://medium.com/@bradurani/turning-the-tables-how-to-get-along-with-your-object-relational-mapper-e5d2d6a76573">Turning the Tables: How to Get Along with your Object-Relational Mapper</a></li>
-  <li><a href="https://www.fedux.org/articles/2015/09/09/having-no-fun-with-rubygems-systemd-docker-and-networking.html">Having No Fun with Rubygems, Systemd, Docker and Networking</a>, <a href="http://blog.codeship.com/know-your-sidekiq-testing-rights/">Know Your Sidekiq Testing Rights</a> и <a href="http://www.leighhalliday.com/understanding-method-missing">Understanding method missing</a></li>
-  <li><a href="http://datamelon.io/blog/2015/volt-promise-objects.html">Volt Promise Objects</a>, <a href="https://lob.com/blog/print-mail-custom-postcards-using-html-css-ruby-on-rails/">Print and Mail Custom Postcards using HTML, CSS, and Ruby on Rails</a> и <a href="http://weblog.jamisbuck.org/2015/9/12/little-things-heredocs.html">Little Things: Heredocs</a></li>
-  <li><a href="http://railscarma.com/blog/technical-articles/camaleon-cms/">Camaleon CMS - The Latest RoR Content Management System</a>, <a href="https://github.com/hothero/wpdb_activerecord">Wpdb_activerecord - a wrapper for the WordPress database, using ActiveRecord</a> и <a href="https://www.youtube.com/watch?v=ZZUY37RQS-k">Staying relevant as a programmer (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v4.0.0/">Node v4.0.0</a>, <a href="http://www.cli-nerd.com/2015/09/09/7-reasons-to-upgrade-to-node-v4-now.html">7 Reasons to Upgrade to Node v4 Now</a>, <a href="https://modernizr.com/news/modernizr-3-new-release-site">Modernizr 3: A new release and website</a> и <a href="https://golang.org/doc/devel/release.html#go1.5.minor">Golang 1.5.1</a></li>
-  <li><a href="http://ashleynolan.co.uk/blog/frontend-tooling-survey-2015-results">The State of Front-End Tooling – 2015</a>, <a href="http://codepen.io/birjolaxew/blog/cracking-captchas-with-neural-networks">Cracking captchas with neural networks</a> и <a href="http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html">Full-Stack Redux Tutorial</a></li>
-  <li><a href="http://nexts.github.io/Jets.js/">Jets.js - native CSS search engine</a>, <a href="http://bg-d.net/htmlblock/">Photoshop HTML Block</a> и <a href="http://devleaks.com/tag/javascript-learning">Javascript learning</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLYWZNd96EXDaR2QNAggAC0FwiHcfWhCBD">Видео с Frontend Union Conf 2015</a>, <a href="https://www.youtube.com/watch?v=1tavDv5hXpo">The State of Animation in React (video)</a> и <a href="https://www.youtube.com/watch?v=S1AUIq8GA1k">Lovefield: A JavaScript Relational Database (video)</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 15 Sep 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/09/15/podcast-03-34.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/09/15/podcast-03-34.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/122/file/podfm_rwpod_my_34_122.mp3" length="58860942" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/122/file/podfm_rwpod_my_34_122.mp3" fileSize="58860942" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Best Rails image uploader - Paperclip vs. Carr...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Best Rails image uploader - Paperclip vs. Carrierwave vs. Refile, Turning the Tables: How to Get Along with your Object-Relational Mapper
-
-  
-Having No Fun with Rubygems, Systemd, Docker and Networking, Know Your Sidekiq Testing Rights и Understanding method missing
-
-  
-Volt Promise Objects, Print and Mail Custom Postcards using HTML, CSS, and Ruby on Rails и Little Things: Heredocs
-
-  
-Camaleon CMS - The Latest RoR Content Management System, Wpdb_activerecord - a wrapper for the WordPress database, using ActiveRecord и Staying relevant as a programmer (video)
-
-
-
-JavaScript
-
-
-  
-Node v4.0.0, 7 Reasons to Upgrade to Node v4 Now, Modernizr 3: A new release and website и Golang 1.5.1
-
-  
-The State of Front-End Tooling – 2015, Cracking captchas with neural networks и Full-Stack Redux Tutorial
-
-  
-Jets.js - native CSS search engine, Photoshop HTML Block и Javascript learning
-
-  
-Видео с Frontend Union Conf 2015, The State of Animation in React (video) и Lovefield: A JavaScript Relational Database (video)
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0334.png"/>
-  <itunes:duration>01:01:12</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
