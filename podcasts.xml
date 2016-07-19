@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 12 Jul 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 12 Jul 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 19 Jul 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,91 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>27 выпуск 04 сезона. Replaced React with Phoenix, TypeScript 2.0 Beta, Imperative vs Declarative Programming и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/07/14/rails-5-partial-template-name-need-not-be-a-valid-ruby-identifier.html">Partial template name need not be a valid Ruby identifier in Rails 5</a>, <a href="https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix">How We Replaced React with Phoenix</a> и <a href="https://blog.codeship.com/why-you-shouldnt-roll-your-own-authentication/">Why You Shouldn’t Roll Your Own Authentication</a></li>
+  <li><a href="http://blog.ragnarson.com/2016/07/14/multi-model-searching-elasticsearch-2.html">Multi-model searching using Elasticsearch vol. 2</a>, <a href="http://blog.scoutapp.com/articles/2016/07/12/how-to-make-text-searches-in-postgresql-faster-with-trigram-similarity">Faster PostgreSQL Searches with Trigrams</a> и <a href="https://karolgalanciak.com/blog/2016/07/10/scaling-up-rails-applications-with-postgresql-table-partitioning-part-3/">Scaling Up Rails Applications With PostgreSQL Table Partitioning - Part 3</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta/">Announcing TypeScript 2.0 Beta</a>, <a href="https://paul.kinlan.me/serverless-sync-in-web-apps/">Serverless Data Sync in Web Apps with Bit Torrent</a> и <a href="https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea">Imperative vs Declarative Programming</a></li>
+  <li><a href="https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html">Mixins Considered Harmful</a>, <a href="https://medium.com/horrible-hacks/things-i-wish-i-knew-about-redux-9924abf2f9e0">Things I wish I knew about Redux</a> и <a href="http://nosir.github.io/cleave.js/">Cleave.js - format input text content automatically</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/07/14/rails-5-partial-template-name-need-not-be-a-valid-ruby-identifier.html">Partial template name need not be a valid Ruby identifier in Rails 5</a>, <a href="https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix">How We Replaced React with Phoenix</a> и <a href="https://blog.codeship.com/why-you-shouldnt-roll-your-own-authentication/">Why You Shouldn’t Roll Your Own Authentication</a></li>
+  <li><a href="http://blog.ragnarson.com/2016/07/14/multi-model-searching-elasticsearch-2.html">Multi-model searching using Elasticsearch vol. 2</a>, <a href="http://blog.scoutapp.com/articles/2016/07/12/how-to-make-text-searches-in-postgresql-faster-with-trigram-similarity">Faster PostgreSQL Searches with Trigrams</a> и <a href="https://karolgalanciak.com/blog/2016/07/10/scaling-up-rails-applications-with-postgresql-table-partitioning-part-3/">Scaling Up Rails Applications With PostgreSQL Table Partitioning - Part 3</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta/">Announcing TypeScript 2.0 Beta</a>, <a href="https://paul.kinlan.me/serverless-sync-in-web-apps/">Serverless Data Sync in Web Apps with Bit Torrent</a> и <a href="https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea">Imperative vs Declarative Programming</a></li>
+  <li><a href="https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html">Mixins Considered Harmful</a>, <a href="https://medium.com/horrible-hacks/things-i-wish-i-knew-about-redux-9924abf2f9e0">Things I wish I knew about Redux</a> и <a href="http://nosir.github.io/cleave.js/">Cleave.js - format input text content automatically</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 19 Jul 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/07/19/podcast-04-27.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/19/podcast-04-27.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/163/file/podfm_rwpod_my_27_163.mp3" length="37108458" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/163/file/podfm_rwpod_my_27_163.mp3" fileSize="37108458" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Partial template name need not be a valid Ruby...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Partial template name need not be a valid Ruby identifier in Rails 5, How We Replaced React with Phoenix и Why You Shouldn’t Roll Your Own Authentication
+
+  
+Multi-model searching using Elasticsearch vol. 2, Faster PostgreSQL Searches with Trigrams и Scaling Up Rails Applications With PostgreSQL Table Partitioning - Part 3
+
+
+
+JavaScript
+
+
+  
+Announcing TypeScript 2.0 Beta, Serverless Data Sync in Web Apps with Bit Torrent и Imperative vs Declarative Programming
+
+  
+Mixins Considered Harmful, Things I wish I knew about Redux и Cleave.js - format input text content automatically
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0427.png"/>
+  <itunes:duration>00:38:33</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>26 выпуск 04 сезона. ActionCable under stress, AGC source code, Trumpify, jQuery 3.1.0, Zingtouch, LambCI и прочее</title>
   <description>
@@ -4020,111 +4105,6 @@ LvivJS 2015 (video) и Nordic.js 2015 (video)
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0336.png"/>
   <itunes:duration>00:47:15</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>35 выпуск 03 сезона. Elixir 1.0, Node.js 4.1.0, Ruby and Go, StackProf, Git punish, React Native for Android, Runtime.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://elixir-lang.org/blog/2014/09/18/elixir-v1-0-0-released/">Elixir v1.0</a>, <a href="http://blog.paracode.com/2015/08/28/ruby-and-go-sitting-in-a-tree">Ruby and Go Sitting in a Tree</a> и <a href="http://www.justinweiss.com/blog/2015/09/15/3-steps-to-fix-encoding-problems-in-ruby/">3 Steps to Fix Encoding Problems in Ruby</a></li>
-  <li><a href="http://blog.scoutapp.com/articles/2015/09/16/profiling-rails-with-stackprof">StackProf: The Holy Grail of Rails Profiling</a> и <a href="http://eng.rightscale.com/2015/09/16/how-to-debug-ruby-memory-issues.html">How to debug Ruby memory issues</a></li>
-  <li><a href="http://blog.jaredfriedman.com/2015/09/15/why-i-wouldnt-use-rails-for-a-new-company/">Why I wouldn’t use rails for a new company</a> и <a href="https://github.com/hothero/awesome-rails-gem">Awesome Rails Gem - collection of awesome Ruby Gems for Rails development</a></li>
-  <li><a href="http://git-punish.io/">Git punish</a>, <a href="https://github.com/altmetric/decontaminator">Decontaminator - Ruby HTML sanitizer based on a lightweight Oga parser</a>, <a href="https://github.com/dabrorius/jobless">Jobless - ruby DSL for generating CVs</a> и <a href="https://github.com/jollygoodcode/twemoji">Twemoji - Twitter emoji in Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v4.1.0/">Node.js v4.1.0</a>, <a href="http://eslint.org/blog/2015/09/eslint-v1.4.0-released/">ESLint v1.4.0</a> и <a href="https://code.facebook.com/posts/1189117404435352/">React Native for Android</a></li>
-  <li><a href="https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c">Runtime.js — JavaScript library OS</a>, <a href="http://bosonic.github.io/">Bosonic - a practical collection of everyday Web Components</a> и <a href="https://github.com/gloomyson/StarCraft">StarCraft - HTML5 version of StarCraft game</a></li>
-  <li><a href="http://www.smashingmagazine.com/2015/09/creating-cel-animations-with-svg/">Creating Cel Animations With SVG</a>, <a href="https://css-tricks.com/how-i-live-coded-my-most-hearted-codepen-demo/">How I Live-Coded My Most-Hearted Pen</a>, <a href="http://githubengineering.com/subresource-integrity/">Subresource Integrity</a> и <a href="http://speckjs.github.io/">Speck.js - comments that automagically convert into full test spec files</a></li>
-  <li><a href="http://micromono.io/">Micromono - write microservices in monolithic style</a>, <a href="http://gothamjs.io/">Gotham - simple Coffeescript framework</a>, <a href="https://github.com/google/end-to-end">End-To-End is a Chrome extension that helps you encrypt, decrypt, digitally sign, and verify signed messages within the browser using OpenPGP</a> и <a href="https://github.com/inloop/sqlite-viewer">SQLite Viewer</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://elixir-lang.org/blog/2014/09/18/elixir-v1-0-0-released/">Elixir v1.0</a>, <a href="http://blog.paracode.com/2015/08/28/ruby-and-go-sitting-in-a-tree">Ruby and Go Sitting in a Tree</a> и <a href="http://www.justinweiss.com/blog/2015/09/15/3-steps-to-fix-encoding-problems-in-ruby/">3 Steps to Fix Encoding Problems in Ruby</a></li>
-  <li><a href="http://blog.scoutapp.com/articles/2015/09/16/profiling-rails-with-stackprof">StackProf: The Holy Grail of Rails Profiling</a> и <a href="http://eng.rightscale.com/2015/09/16/how-to-debug-ruby-memory-issues.html">How to debug Ruby memory issues</a></li>
-  <li><a href="http://blog.jaredfriedman.com/2015/09/15/why-i-wouldnt-use-rails-for-a-new-company/">Why I wouldn’t use rails for a new company</a> и <a href="https://github.com/hothero/awesome-rails-gem">Awesome Rails Gem - collection of awesome Ruby Gems for Rails development</a></li>
-  <li><a href="http://git-punish.io/">Git punish</a>, <a href="https://github.com/altmetric/decontaminator">Decontaminator - Ruby HTML sanitizer based on a lightweight Oga parser</a>, <a href="https://github.com/dabrorius/jobless">Jobless - ruby DSL for generating CVs</a> и <a href="https://github.com/jollygoodcode/twemoji">Twemoji - Twitter emoji in Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v4.1.0/">Node.js v4.1.0</a>, <a href="http://eslint.org/blog/2015/09/eslint-v1.4.0-released/">ESLint v1.4.0</a> и <a href="https://code.facebook.com/posts/1189117404435352/">React Native for Android</a></li>
-  <li><a href="https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c">Runtime.js — JavaScript library OS</a>, <a href="http://bosonic.github.io/">Bosonic - a practical collection of everyday Web Components</a> и <a href="https://github.com/gloomyson/StarCraft">StarCraft - HTML5 version of StarCraft game</a></li>
-  <li><a href="http://www.smashingmagazine.com/2015/09/creating-cel-animations-with-svg/">Creating Cel Animations With SVG</a>, <a href="https://css-tricks.com/how-i-live-coded-my-most-hearted-codepen-demo/">How I Live-Coded My Most-Hearted Pen</a>, <a href="http://githubengineering.com/subresource-integrity/">Subresource Integrity</a> и <a href="http://speckjs.github.io/">Speck.js - comments that automagically convert into full test spec files</a></li>
-  <li><a href="http://micromono.io/">Micromono - write microservices in monolithic style</a>, <a href="http://gothamjs.io/">Gotham - simple Coffeescript framework</a>, <a href="https://github.com/google/end-to-end">End-To-End is a Chrome extension that helps you encrypt, decrypt, digitally sign, and verify signed messages within the browser using OpenPGP</a> и <a href="https://github.com/inloop/sqlite-viewer">SQLite Viewer</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 21 Sep 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/09/21/podcast-03-35.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/09/21/podcast-03-35.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/123/file/podfm_rwpod_my_35_123.mp3" length="33396072" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/123/file/podfm_rwpod_my_35_123.mp3" fileSize="33396072" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Elixir v1.0, Ruby and Go Sitting in a Tree и 3...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Elixir v1.0, Ruby and Go Sitting in a Tree и 3 Steps to Fix Encoding Problems in Ruby
-
-  
-StackProf: The Holy Grail of Rails Profiling и How to debug Ruby memory issues
-
-  
-Why I wouldn’t use rails for a new company и Awesome Rails Gem - collection of awesome Ruby Gems for Rails development
-
-  
-Git punish, Decontaminator - Ruby HTML sanitizer based on a lightweight Oga parser, Jobless - ruby DSL for generating CVs и Twemoji - Twitter emoji in Ruby
-
-
-
-JavaScript
-
-
-  
-Node.js v4.1.0, ESLint v1.4.0 и React Native for Android
-
-  
-Runtime.js — JavaScript library OS, Bosonic - a practical collection of everyday Web Components и StarCraft - HTML5 version of StarCraft game
-
-  
-Creating Cel Animations With SVG, How I Live-Coded My Most-Hearted Pen, Subresource Integrity и Speck.js - comments that automagically convert into full test spec files
-
-  
-Micromono - write microservices in monolithic style, Gotham - simple Coffeescript framework, End-To-End is a Chrome extension that helps you encrypt, decrypt, digitally sign, and verify signed messages within the browser using OpenPGP и SQLite Viewer
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0335.png"/>
-  <itunes:duration>00:34:41</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
