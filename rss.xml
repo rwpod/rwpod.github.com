@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 19 Jul 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 19 Jul 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 26 Jul 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 26 Jul 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>28 выпуск 04 сезона. New Features in Ruby 2.4, AutoReloader, React.js in patterns, D4, Howler.js, Jets.js, Dio и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/07/21/rails-5-fixes-ambiguous-cloumn-name-for-projected-fields-in-group-by-query.html">Rails 5 fixes ambiguous column issue for projected fields in group by query</a>, <a href="https://blog.blockscore.com/new-features-in-ruby-2-4/">New Features in Ruby 2.4</a> и <a href="http://aspiringwebdev.com/consider-turbolinks-5-for-your-next-rails-project/">Consider Turbolinks 5 for your next Rails project</a></li>
+  <li><a href="https://blog.phusion.nl/2016/07/21/web-applications-on-phusion-passenger-are-not-vulnerable-to-httpoxy/">Web applications on Phusion Passenger are not vulnerable to HTTPoxy</a>, <a href="http://rwdtow.stdout.in/">Ruby Web Dev The Other Way</a> и <a href="http://www.rubypigeon.com/posts/isolate-side-effects-functional-style-in-ruby/">Isolate Side Effects – Functional Style in Ruby</a></li>
+  <li><a href="http://stackoverflow.com/tour/documentation">Stack Overflow Documentation</a>, <a href="https://github.com/rosenfeld/auto_reloader">AutoReloader - a lightweight code reloader intended to be used specially in development mode of server applications</a> и <a href="https://github.com/rosenfeld/rack_web_console">Rack Web Console - a simple Rack app class that allows one to run arbitrary Ruby code on a given binding</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.engadget.com/2016/07/18/opera-browser-sold-to-a-chinese-consortium-for-600-million/">Opera browser sold to a Chinese consortium for $600 million</a>, <a href="https://auth0.com/blog/2016/07/19/building-serverless-apps-with-aws-lambda/">Building Serverless Apps with AWS Lambda</a> и <a href="https://azurelogic.com/posts/web-scraping-with-nightmare-js/">Web scraping with Nightmare.js</a></li>
+  <li><a href="http://krasimirtsonev.com/blog/article/react-js-in-design-patterns">React.js in patterns</a>, <a href="https://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/">ES5 Objects vs. ES6 Maps – The differences and similarities</a> и <a href="https://rainsoft.io/why-object-literals-in-javascript-are-cool/">Why object literals in JavaScript are cool</a></li>
+  <li><a href="https://d4.js.org/">D4 - Declarative Data-Driven Documents</a>, <a href="https://howlerjs.com/">Howler.js - an audio library for the modern web</a>, <a href="https://jets.js.org/">Jets.js - native CSS search engine</a>, <a href="http://thysultan.com/dio/">Dio is a lightweight (~6kb) Virtual DOM framework</a> и <a href="https://github.com/zzarcon/maggie">Maggie - returns information about the image selected in a html input file</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/07/21/rails-5-fixes-ambiguous-cloumn-name-for-projected-fields-in-group-by-query.html">Rails 5 fixes ambiguous column issue for projected fields in group by query</a>, <a href="https://blog.blockscore.com/new-features-in-ruby-2-4/">New Features in Ruby 2.4</a> и <a href="http://aspiringwebdev.com/consider-turbolinks-5-for-your-next-rails-project/">Consider Turbolinks 5 for your next Rails project</a></li>
+  <li><a href="https://blog.phusion.nl/2016/07/21/web-applications-on-phusion-passenger-are-not-vulnerable-to-httpoxy/">Web applications on Phusion Passenger are not vulnerable to HTTPoxy</a>, <a href="http://rwdtow.stdout.in/">Ruby Web Dev The Other Way</a> и <a href="http://www.rubypigeon.com/posts/isolate-side-effects-functional-style-in-ruby/">Isolate Side Effects – Functional Style in Ruby</a></li>
+  <li><a href="http://stackoverflow.com/tour/documentation">Stack Overflow Documentation</a>, <a href="https://github.com/rosenfeld/auto_reloader">AutoReloader - a lightweight code reloader intended to be used specially in development mode of server applications</a> и <a href="https://github.com/rosenfeld/rack_web_console">Rack Web Console - a simple Rack app class that allows one to run arbitrary Ruby code on a given binding</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.engadget.com/2016/07/18/opera-browser-sold-to-a-chinese-consortium-for-600-million/">Opera browser sold to a Chinese consortium for $600 million</a>, <a href="https://auth0.com/blog/2016/07/19/building-serverless-apps-with-aws-lambda/">Building Serverless Apps with AWS Lambda</a> и <a href="https://azurelogic.com/posts/web-scraping-with-nightmare-js/">Web scraping with Nightmare.js</a></li>
+  <li><a href="http://krasimirtsonev.com/blog/article/react-js-in-design-patterns">React.js in patterns</a>, <a href="https://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/">ES5 Objects vs. ES6 Maps – The differences and similarities</a> и <a href="https://rainsoft.io/why-object-literals-in-javascript-are-cool/">Why object literals in JavaScript are cool</a></li>
+  <li><a href="https://d4.js.org/">D4 - Declarative Data-Driven Documents</a>, <a href="https://howlerjs.com/">Howler.js - an audio library for the modern web</a>, <a href="https://jets.js.org/">Jets.js - native CSS search engine</a>, <a href="http://thysultan.com/dio/">Dio is a lightweight (~6kb) Virtual DOM framework</a> и <a href="https://github.com/zzarcon/maggie">Maggie - returns information about the image selected in a html input file</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 26 Jul 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/07/26/podcast-04-28.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/26/podcast-04-28.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/164/file/podfm_rwpod_my_28_164.mp3" length="45448788" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/164/file/podfm_rwpod_my_28_164.mp3" fileSize="45448788" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 fixes ambiguous column issue for proje...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5 fixes ambiguous column issue for projected fields in group by query, New Features in Ruby 2.4 и Consider Turbolinks 5 for your next Rails project
+
+  
+Web applications on Phusion Passenger are not vulnerable to HTTPoxy, Ruby Web Dev The Other Way и Isolate Side Effects – Functional Style in Ruby
+
+  
+Stack Overflow Documentation, AutoReloader - a lightweight code reloader intended to be used specially in development mode of server applications и Rack Web Console - a simple Rack app class that allows one to run arbitrary Ruby code on a given binding
+
+
+
+JavaScript
+
+
+  
+Opera browser sold to a Chinese consortium for $600 million, Building Serverless Apps with AWS Lambda и Web scraping with Nightmare.js
+
+  
+React.js in patterns, ES5 Objects vs. ES6 Maps – The differences and similarities и Why object literals in JavaScript are cool
+
+  
+D4 - Declarative Data-Driven Documents, Howler.js - an audio library for the modern web, Jets.js - native CSS search engine, Dio is a lightweight (~6kb) Virtual DOM framework и Maggie - returns information about the image selected in a html input file
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0428.png"/>
+  <itunes:duration>00:47:14</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>27 выпуск 04 сезона. Replaced React with Phoenix, TypeScript 2.0 Beta, Imperative vs Declarative Programming и прочее</title>
   <description>
@@ -4010,101 +4105,6 @@ AniJS - a Library to Raise your Web Design without Coding, Popmotion - 12kb Java
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0337.png"/>
   <itunes:duration>00:45:35</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>36 выпуск 03 сезона. Node.js v4.1.1, Ruby 3 MRI and GIL, learn Raw React, Rune.js, PhearJS, LvivJS 2015 и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@franzejr/ruby-3-mri-and-gil-a302577c6634">Ruby 3 MRI and GIL</a>, <a href="http://blog.michelada.io/whats-new-in-rails-5">What’s new in Rails 5?</a> и <a href="http://blog.codeship.com/building-a-json-api-with-rails-5/">Building a JSON API with Rails 5</a></li>
-  <li><a href="http://www.be9.io/2015/09/21/memory-leak/">How I spent two weeks hunting a memory leak in Ruby</a> и <a href="http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/">Fixing Command Injection Vulnerabilities in Ruby/Rails</a></li>
-  <li><a href="http://www.markphelps.me/2015/09/20/engines_before_services.html">Engines Before Services</a>, <a href="http://nandovieira.com/using-es6-with-asset-pipeline-on-ruby-on-rails">Using ES6 with Asset Pipeline on Ruby on Rails</a> и <a href="http://techblog.thescore.com/2015/09/24/respect-http-caching/">Respect HTTP Caching</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v4.1.1/">Node.js v4.1.1</a>, <a href="http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/">Why Performance Matters: The Perception Of Time</a> и <a href="http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/">Learn Raw React — no JSX, no Flux, no ES6, no Webpack…</a></li>
-  <li><a href="http://runemadsen.github.io/rune.js/">Rune.js - a JavaScript library for programming graphic design systems with SVG</a>, <a href="http://phear.io/">PhearJS - render any dynamic Javascript webpage to JSON</a> и <a href="http://frontendbookshelf.ru/">Книжная полка фронтендера</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLhWWkV_LkwjBNxy4tEviupt-SZnyBsMhE">LvivJS 2015 (video)</a> и <a href="https://www.youtube.com/playlist?list=PLGP3VO5jDf8y5yRtyQ4SU2JW6m9NLoNle">Nordic.js 2015 (video)</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@franzejr/ruby-3-mri-and-gil-a302577c6634">Ruby 3 MRI and GIL</a>, <a href="http://blog.michelada.io/whats-new-in-rails-5">What’s new in Rails 5?</a> и <a href="http://blog.codeship.com/building-a-json-api-with-rails-5/">Building a JSON API with Rails 5</a></li>
-  <li><a href="http://www.be9.io/2015/09/21/memory-leak/">How I spent two weeks hunting a memory leak in Ruby</a> и <a href="http://gavinmiller.io/2015/fixing-command-injection-vulnerabilities/">Fixing Command Injection Vulnerabilities in Ruby/Rails</a></li>
-  <li><a href="http://www.markphelps.me/2015/09/20/engines_before_services.html">Engines Before Services</a>, <a href="http://nandovieira.com/using-es6-with-asset-pipeline-on-ruby-on-rails">Using ES6 with Asset Pipeline on Ruby on Rails</a> и <a href="http://techblog.thescore.com/2015/09/24/respect-http-caching/">Respect HTTP Caching</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v4.1.1/">Node.js v4.1.1</a>, <a href="http://www.smashingmagazine.com/2015/09/why-performance-matters-the-perception-of-time/">Why Performance Matters: The Perception Of Time</a> и <a href="http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/">Learn Raw React — no JSX, no Flux, no ES6, no Webpack…</a></li>
-  <li><a href="http://runemadsen.github.io/rune.js/">Rune.js - a JavaScript library for programming graphic design systems with SVG</a>, <a href="http://phear.io/">PhearJS - render any dynamic Javascript webpage to JSON</a> и <a href="http://frontendbookshelf.ru/">Книжная полка фронтендера</a></li>
-  <li><a href="https://www.youtube.com/playlist?list=PLhWWkV_LkwjBNxy4tEviupt-SZnyBsMhE">LvivJS 2015 (video)</a> и <a href="https://www.youtube.com/playlist?list=PLGP3VO5jDf8y5yRtyQ4SU2JW6m9NLoNle">Nordic.js 2015 (video)</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 28 Sep 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/09/28/podcast-03-36.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/09/28/podcast-03-36.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/124/file/podfm_rwpod_my_36_124.mp3" length="45470900" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/124/file/podfm_rwpod_my_36_124.mp3" fileSize="45470900" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 3 MRI and GIL, What’s new in Rails 5? и B...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 3 MRI and GIL, What’s new in Rails 5? и Building a JSON API with Rails 5
-
-  
-How I spent two weeks hunting a memory leak in Ruby и Fixing Command Injection Vulnerabilities in Ruby/Rails
-
-  
-Engines Before Services, Using ES6 with Asset Pipeline on Ruby on Rails и Respect HTTP Caching
-
-
-
-JavaScript
-
-
-  
-Node.js v4.1.1, Why Performance Matters: The Perception Of Time и Learn Raw React — no JSX, no Flux, no ES6, no Webpack…
-
-  
-Rune.js - a JavaScript library for programming graphic design systems with SVG, PhearJS - render any dynamic Javascript webpage to JSON и Книжная полка фронтендера
-
-  
-LvivJS 2015 (video) и Nordic.js 2015 (video)
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0336.png"/>
-  <itunes:duration>00:47:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
