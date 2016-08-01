@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 26 Jul 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 26 Jul 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 02 Aug 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 02 Aug 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>29 выпуск 04 сезона. Spark Release 2.0.0, Flynn 1.0, ROM 2.0.0, Aurelia 1.0, Ember.js 2.7 and 2.8 Beta, Puma-dev, iziModal и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://spark.apache.org/releases/spark-release-2-0-0.html">Spark Release 2.0.0</a>, <a href="https://mesos.apache.org/blog/mesos-1-0-0-released/">Apache Mesos 1.0.0 Released</a>, <a href="https://flynn.io/blog/one-point-oh">Flynn 1.0 is here!</a> и <a href="http://rom-rb.org/blog/rom-2-0-0-released/">ROM 2.0.0 Released</a></li>
+  <li><a href="http://www.blackbytes.info/2016/07/numbers-in-ruby/">Behind The Scenes: How Numbers Work in Ruby</a>, <a href="https://bowild.wordpress.com/2016/07/31/the-dark-side-of-the-rack/">The dark side of the Rack and Websockets dreams</a> и <a href="http://nithinbekal.com/posts/rails-user-timezones/">Rails: Automatically Set User Timezone During Signup</a></li>
+  <li><a href="http://sorentwo.com/2016/08/01/strategies-for-selective-cache-expiration.html">Strategies For Selective Cache Expiration</a>, <a href="http://blog.stackoverflow.com/2016/07/salary-transparency/">Salary transparency at Stack Overflow</a> и <a href="https://github.com/puma/puma-dev">Puma-dev: A development server for OS X and Linux</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.durandal.io/2016/07/27/aurelia-1-0-is-here/">Aurelia 1.0 is Here</a>, <a href="http://emberjs.com/blog/2016/07/25/ember-2-7-and-2-8-beta-released.html">Ember.js 2.7 and 2.8 Beta Released</a> и <a href="https://medium.com/@timrwood/moment-endof-term-522d8965689">moment().endOf(‘term’)</a></li>
+  <li><a href="https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours/">Why our website is faster than yours</a>, <a href="https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/">The Illusion Of Life: An SVG Animation Case Study</a>, <a href="https://daveceddia.com/react-gotchas/">React Gotchas</a> и <a href="https://medium.com/@computer.guy/chaining-is-not-the-answer-6c4143ebb64d">Chaining Is Not The Answer</a></li>
+  <li><a href="http://izimodal.marcelodolce.com/">iziModal - elegant, responsive, flexible and lightweight modal plugin with jQuery</a>, <a href="https://joshuajohnson.co.uk/Choices/">Choices.js - a lightweight, configurable select box/text input plugin</a> и <a href="https://sachinchoolur.github.io/lightgallery.js/">lightGallery - full featured javascript lightbox gallery</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://spark.apache.org/releases/spark-release-2-0-0.html">Spark Release 2.0.0</a>, <a href="https://mesos.apache.org/blog/mesos-1-0-0-released/">Apache Mesos 1.0.0 Released</a>, <a href="https://flynn.io/blog/one-point-oh">Flynn 1.0 is here!</a> и <a href="http://rom-rb.org/blog/rom-2-0-0-released/">ROM 2.0.0 Released</a></li>
+  <li><a href="http://www.blackbytes.info/2016/07/numbers-in-ruby/">Behind The Scenes: How Numbers Work in Ruby</a>, <a href="https://bowild.wordpress.com/2016/07/31/the-dark-side-of-the-rack/">The dark side of the Rack and Websockets dreams</a> и <a href="http://nithinbekal.com/posts/rails-user-timezones/">Rails: Automatically Set User Timezone During Signup</a></li>
+  <li><a href="http://sorentwo.com/2016/08/01/strategies-for-selective-cache-expiration.html">Strategies For Selective Cache Expiration</a>, <a href="http://blog.stackoverflow.com/2016/07/salary-transparency/">Salary transparency at Stack Overflow</a> и <a href="https://github.com/puma/puma-dev">Puma-dev: A development server for OS X and Linux</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.durandal.io/2016/07/27/aurelia-1-0-is-here/">Aurelia 1.0 is Here</a>, <a href="http://emberjs.com/blog/2016/07/25/ember-2-7-and-2-8-beta-released.html">Ember.js 2.7 and 2.8 Beta Released</a> и <a href="https://medium.com/@timrwood/moment-endof-term-522d8965689">moment().endOf(‘term’)</a></li>
+  <li><a href="https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours/">Why our website is faster than yours</a>, <a href="https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/">The Illusion Of Life: An SVG Animation Case Study</a>, <a href="https://daveceddia.com/react-gotchas/">React Gotchas</a> и <a href="https://medium.com/@computer.guy/chaining-is-not-the-answer-6c4143ebb64d">Chaining Is Not The Answer</a></li>
+  <li><a href="http://izimodal.marcelodolce.com/">iziModal - elegant, responsive, flexible and lightweight modal plugin with jQuery</a>, <a href="https://joshuajohnson.co.uk/Choices/">Choices.js - a lightweight, configurable select box/text input plugin</a> и <a href="https://sachinchoolur.github.io/lightgallery.js/">lightGallery - full featured javascript lightbox gallery</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 02 Aug 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/08/02/podcast-04-29.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/02/podcast-04-29.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/165/file/podfm_rwpod_my_29_165.mp3" length="55549324" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/165/file/podfm_rwpod_my_29_165.mp3" fileSize="55549324" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Spark Release 2.0.0, Apache Mesos 1.0.0 Releas...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Spark Release 2.0.0, Apache Mesos 1.0.0 Released, Flynn 1.0 is here! и ROM 2.0.0 Released
+
+  
+Behind The Scenes: How Numbers Work in Ruby, The dark side of the Rack and Websockets dreams и Rails: Automatically Set User Timezone During Signup
+
+  
+Strategies For Selective Cache Expiration, Salary transparency at Stack Overflow и Puma-dev: A development server for OS X and Linux
+
+
+
+JavaScript
+
+
+  
+Aurelia 1.0 is Here, Ember.js 2.7 and 2.8 Beta Released и moment().endOf(‘term’)
+
+  
+Why our website is faster than yours, The Illusion Of Life: An SVG Animation Case Study, React Gotchas и Chaining Is Not The Answer
+
+  
+iziModal - elegant, responsive, flexible and lightweight modal plugin with jQuery, Choices.js - a lightweight, configurable select box/text input plugin и lightGallery - full featured javascript lightbox gallery
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0429.png"/>
+  <itunes:duration>00:57:45</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>28 выпуск 04 сезона. New Features in Ruby 2.4, AutoReloader, React.js in patterns, D4, Howler.js, Jets.js, Dio и прочее</title>
   <description>
@@ -4010,101 +4105,6 @@ Mercer - 3D Interactive Data Visualizations, Cake-chart - interactive multi-laye
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0338.png"/>
   <itunes:duration>00:35:37</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>37 выпуск 03 сезона. Lotus v0.5.0, upgrade Celluloid ASAP, Shadow DOM v1, AniJS, Popmotion и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://lotusrb.org/blog/2015/09/30/announcing-lotus-050.html">Lotus v0.5.0</a> и <a href="https://gist.github.com/gazay/3b518f72266b5a7e88ff">Why you should upgrade Celluloid ASAP to 0.17.2 (or downgrade to 0.16.0)</a></li>
-  <li><a href="https://medium.com/@WoloxEngineering/image-processing-in-rails-using-aws-lambda-43b5b268019f">Image Processing in Rails using AWS Lambda</a>, <a href="https://blog.codeship.com/folding-postgres-window-functions-into-rails/">Folding Postgres Window Functions into Rails</a> и <a href="http://www.blackbytes.info/2015/09/ngram-analysis-ruby/">N-gram Analysis for Fun and Profit</a></li>
-  <li><a href="https://www.youtube.com/watch?v=3HpjZPbBS-s">Micro-optimizing Ruby (video)</a> и <a href="https://www.youtube.com/watch?v=9mLK_8hKii8">Nothing is Something, by Sandi Metz (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://twitter.com/polymer/status/644193936140042240">Shadow DOM v1</a> и <a href="https://medium.com/@gregoryziegan/how-graphql-taught-me-to-code-client-apps-1c631a9953bd">How GraphQL taught me to code client apps</a></li>
-  <li><a href="https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html">Async/Await: The Hero JavaScript Deserved</a> и <a href="http://flif.info/">FLIF - Free Lossless Image Format</a></li>
-  <li><a href="http://anijs.github.io/">AniJS - a Library to Raise your Web Design without Coding</a>, <a href="http://popmotion.io/">Popmotion - 12kb JavaScript motion engine</a> и <a href="http://zenorocha.github.io/clipboard.js/">Clipboard.js - a modern approach to copy text to clipboard</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://lotusrb.org/blog/2015/09/30/announcing-lotus-050.html">Lotus v0.5.0</a> и <a href="https://gist.github.com/gazay/3b518f72266b5a7e88ff">Why you should upgrade Celluloid ASAP to 0.17.2 (or downgrade to 0.16.0)</a></li>
-  <li><a href="https://medium.com/@WoloxEngineering/image-processing-in-rails-using-aws-lambda-43b5b268019f">Image Processing in Rails using AWS Lambda</a>, <a href="https://blog.codeship.com/folding-postgres-window-functions-into-rails/">Folding Postgres Window Functions into Rails</a> и <a href="http://www.blackbytes.info/2015/09/ngram-analysis-ruby/">N-gram Analysis for Fun and Profit</a></li>
-  <li><a href="https://www.youtube.com/watch?v=3HpjZPbBS-s">Micro-optimizing Ruby (video)</a> и <a href="https://www.youtube.com/watch?v=9mLK_8hKii8">Nothing is Something, by Sandi Metz (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://twitter.com/polymer/status/644193936140042240">Shadow DOM v1</a> и <a href="https://medium.com/@gregoryziegan/how-graphql-taught-me-to-code-client-apps-1c631a9953bd">How GraphQL taught me to code client apps</a></li>
-  <li><a href="https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html">Async/Await: The Hero JavaScript Deserved</a> и <a href="http://flif.info/">FLIF - Free Lossless Image Format</a></li>
-  <li><a href="http://anijs.github.io/">AniJS - a Library to Raise your Web Design without Coding</a>, <a href="http://popmotion.io/">Popmotion - 12kb JavaScript motion engine</a> и <a href="http://zenorocha.github.io/clipboard.js/">Clipboard.js - a modern approach to copy text to clipboard</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 06 Oct 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/10/06/podcast-03-37.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/10/06/podcast-03-37.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/125/file/podfm_rwpod_my_37_125.mp3" length="45470900" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/125/file/podfm_rwpod_my_37_125.mp3" fileSize="45470900" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Lotus v0.5.0 и Why you should upgrade Celluloi...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Lotus v0.5.0 и Why you should upgrade Celluloid ASAP to 0.17.2 (or downgrade to 0.16.0)
-
-  
-Image Processing in Rails using AWS Lambda, Folding Postgres Window Functions into Rails и N-gram Analysis for Fun and Profit
-
-  
-Micro-optimizing Ruby (video) и Nothing is Something, by Sandi Metz (video)
-
-
-
-JavaScript
-
-
-  
-Shadow DOM v1 и How GraphQL taught me to code client apps
-
-  
-Async/Await: The Hero JavaScript Deserved и FLIF - Free Lossless Image Format
-
-  
-AniJS - a Library to Raise your Web Design without Coding, Popmotion - 12kb JavaScript motion engine и Clipboard.js - a modern approach to copy text to clipboard
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0337.png"/>
-  <itunes:duration>00:45:35</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
