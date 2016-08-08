@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 02 Aug 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 02 Aug 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 09 Aug 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 09 Aug 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,91 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>30 выпуск 04 сезона. Rake gem explained, Advanced SQL in Rails, React Server, React Monocle, Bulma, EQCSS и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.phusion.nl/2016/08/04/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app/">Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App</a>, <a href="https://medium.com/@rudyyazdi/rake-gem-explained-ebee7e6e6f72">Rake gem explained</a> и <a href="https://blog.codeship.com/ruby-refinements/">The Pros and Cons of Ruby Refinements</a></li>
+  <li><a href="http://brewhouse.io/2016/08/04/sql-in-rails.html">Advanced SQL in Rails - Part 1</a>, <a href="http://ducktypelabs.com/3-ways-to-work-with-time-in-postgres-and-ar/">3 ways to work with time in Postgres (&amp; ActiveRecord)</a> и <a href="https://blog.codeship.com/an-introduction-to-crystal-fast-as-c-slick-as-ruby/">An Introduction to Crystal: Fast as C, Slick as Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/acdlite/react-fiber-architecture">React Fiber Architecture</a>, <a href="https://react-server.io/">React Server - React framework with server render for blazing fast page load and seamless transitions between pages in the browser</a>, <a href="https://github.com/facebookincubator/create-react-app">Create React apps with no build configuration</a> и <a href="https://github.com/team-gryff/react-monocle">React Monocle is a developer tool for generating visual representations of your React app’s component hierarchy</a></li>
+  <li><a href="http://thejsguy.com/2016/07/30/javascript-for-loop-vs-array-foreach.html">The for Loop vs. forEach in JavaScript</a>, <a href="https://dev.to/ben/this-image-is-also-an-html-webpage">This Image is Also an HTML Webpage</a>, <a href="http://bulma.io/">Bulma - a modern CSS framework based on Flexbox</a> и <a href="http://elementqueries.com/">EQCSS - a CSS Extension for Element Queries &amp; More</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.phusion.nl/2016/08/04/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app/">Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App</a>, <a href="https://medium.com/@rudyyazdi/rake-gem-explained-ebee7e6e6f72">Rake gem explained</a> и <a href="https://blog.codeship.com/ruby-refinements/">The Pros and Cons of Ruby Refinements</a></li>
+  <li><a href="http://brewhouse.io/2016/08/04/sql-in-rails.html">Advanced SQL in Rails - Part 1</a>, <a href="http://ducktypelabs.com/3-ways-to-work-with-time-in-postgres-and-ar/">3 ways to work with time in Postgres (&amp; ActiveRecord)</a> и <a href="https://blog.codeship.com/an-introduction-to-crystal-fast-as-c-slick-as-ruby/">An Introduction to Crystal: Fast as C, Slick as Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/acdlite/react-fiber-architecture">React Fiber Architecture</a>, <a href="https://react-server.io/">React Server - React framework with server render for blazing fast page load and seamless transitions between pages in the browser</a>, <a href="https://github.com/facebookincubator/create-react-app">Create React apps with no build configuration</a> и <a href="https://github.com/team-gryff/react-monocle">React Monocle is a developer tool for generating visual representations of your React app’s component hierarchy</a></li>
+  <li><a href="http://thejsguy.com/2016/07/30/javascript-for-loop-vs-array-foreach.html">The for Loop vs. forEach in JavaScript</a>, <a href="https://dev.to/ben/this-image-is-also-an-html-webpage">This Image is Also an HTML Webpage</a>, <a href="http://bulma.io/">Bulma - a modern CSS framework based on Flexbox</a> и <a href="http://elementqueries.com/">EQCSS - a CSS Extension for Element Queries &amp; More</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 09 Aug 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/08/09/podcast-04-30.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/09/podcast-04-30.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/166/file/podfm_rwpod_my_30_166.mp3" length="37819827" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/166/file/podfm_rwpod_my_30_166.mp3" fileSize="37819827" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Using Rails 5 ActionCable and RethinkDB to bui...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App, Rake gem explained и The Pros and Cons of Ruby Refinements
+
+  
+Advanced SQL in Rails - Part 1, 3 ways to work with time in Postgres (&amp; ActiveRecord) и An Introduction to Crystal: Fast as C, Slick as Ruby
+
+
+
+JavaScript
+
+
+  
+React Fiber Architecture, React Server - React framework with server render for blazing fast page load and seamless transitions between pages in the browser, Create React apps with no build configuration и React Monocle is a developer tool for generating visual representations of your React app’s component hierarchy
+
+  
+The for Loop vs. forEach in JavaScript, This Image is Also an HTML Webpage, Bulma - a modern CSS framework based on Flexbox и EQCSS - a CSS Extension for Element Queries &amp; More
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0430.png"/>
+  <itunes:duration>00:39:17</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>29 выпуск 04 сезона. Spark Release 2.0.0, Flynn 1.0, ROM 2.0.0, Aurelia 1.0, Ember.js 2.7 and 2.8 Beta, Puma-dev, iziModal и прочее</title>
   <description>
@@ -3992,119 +4077,6 @@ Front-end Developer Handbook, PostCSS Tutorials (video) и MoscowJS 15 (video)
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0339.png"/>
   <itunes:duration>01:28:39</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>38 выпуск 03 сезона. React v0.14, Meteor Galaxy, Database Sharding, Quines in Ruby, Dashed, Mercer и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://development.wombatsecurity.com/development/2015/09/30/database-sharding/">Database Sharding</a>, <a href="https://robots.thoughtbot.com/lets-build-a-sinatra">Let’s Build a Sinatra</a> и <a href="http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html">Generating quines in Ruby</a></li>
-  <li><a href="https://tech.greenhouse.io/2015/10/07/effectively-debugging-capybara-feature-specs.html">Effectively Debugging Capybara Feature Specs</a>, <a href="http://sorentwo.com/2015/10/07/enhancing-logs-with-cache-timing.html">Enhancing Logs With Cache Timing</a> и <a href="http://rubini.us/2015/09/29/a-small-case-study-in-threading/">A Small Case Study in Threading</a></li>
-  <li><a href="http://dev.mikamai.com/post/130986121064/writing-ruby-extensions-in-go-an-in-depth-review">Writing Ruby extensions in Go - an in depth review</a>, <a href="https://github.com/kenyonj/dashed">Dashed - a Ruby library for interacting with Amazon Dash button presses</a> и <a href="https://github.com/igorkasyanchuk/transactify">Transactify - run your methods in database transaction</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://facebook.github.io/react/blog/2015/10/07/react-v0.14.html">React v0.14</a>, <a href="http://info.meteor.com/blog/announcing-meteor-galaxy">Announcing Meteor Galaxy</a> и <a href="https://auth0.com/blog/2015/10/06/getting-started-with-relay/">Getting Started with Relay</a></li>
-  <li><a href="http://noeticforce.com/alternative-programming-languages-that-compile-to-javascript">Compile to JavaScript: The 10 Best JavaScript Alternative Languages</a>, <a href="https://github.com/sdkcarlos/artyom.js/">Artyom.js - a voice control - voice commands - speech recognition javascript library</a> и <a href="http://xpl.github.io/useless/">Panic.js - error handling done right</a></li>
-  <li><a href="http://gmarland.github.io/mercer/">Mercer - 3D Interactive Data Visualizations</a>, <a href="https://github.com/alexkuz/cake-chart">Cake-chart - interactive multi-layer pie chart</a>, <a href="http://codersblock.com/blog/highlight-text-inside-a-textarea/">Highlight Text Inside a Textarea</a> и <a href="https://www.youtube.com/watch?v=pLLLf1QPgoU">HTTP 203: The Future of JavaScript (video)</a></li>
-</ul>
-
-<h2 id="section">Мастер класс</h2>
-
-<ul>
-  <li><a href="http://smartme.university/workshop/postgresql-nastraivaem-i-masshtabiruem-na-bis/">Postgresql - настраиваем и масштабируем. Используйте “RWPOD_15” промокод для 15% скидки</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://development.wombatsecurity.com/development/2015/09/30/database-sharding/">Database Sharding</a>, <a href="https://robots.thoughtbot.com/lets-build-a-sinatra">Let’s Build a Sinatra</a> и <a href="http://blog.chaps.io/2015/10/01/generating-quines-in-ruby.html">Generating quines in Ruby</a></li>
-  <li><a href="https://tech.greenhouse.io/2015/10/07/effectively-debugging-capybara-feature-specs.html">Effectively Debugging Capybara Feature Specs</a>, <a href="http://sorentwo.com/2015/10/07/enhancing-logs-with-cache-timing.html">Enhancing Logs With Cache Timing</a> и <a href="http://rubini.us/2015/09/29/a-small-case-study-in-threading/">A Small Case Study in Threading</a></li>
-  <li><a href="http://dev.mikamai.com/post/130986121064/writing-ruby-extensions-in-go-an-in-depth-review">Writing Ruby extensions in Go - an in depth review</a>, <a href="https://github.com/kenyonj/dashed">Dashed - a Ruby library for interacting with Amazon Dash button presses</a> и <a href="https://github.com/igorkasyanchuk/transactify">Transactify - run your methods in database transaction</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://facebook.github.io/react/blog/2015/10/07/react-v0.14.html">React v0.14</a>, <a href="http://info.meteor.com/blog/announcing-meteor-galaxy">Announcing Meteor Galaxy</a> и <a href="https://auth0.com/blog/2015/10/06/getting-started-with-relay/">Getting Started with Relay</a></li>
-  <li><a href="http://noeticforce.com/alternative-programming-languages-that-compile-to-javascript">Compile to JavaScript: The 10 Best JavaScript Alternative Languages</a>, <a href="https://github.com/sdkcarlos/artyom.js/">Artyom.js - a voice control - voice commands - speech recognition javascript library</a> и <a href="http://xpl.github.io/useless/">Panic.js - error handling done right</a></li>
-  <li><a href="http://gmarland.github.io/mercer/">Mercer - 3D Interactive Data Visualizations</a>, <a href="https://github.com/alexkuz/cake-chart">Cake-chart - interactive multi-layer pie chart</a>, <a href="http://codersblock.com/blog/highlight-text-inside-a-textarea/">Highlight Text Inside a Textarea</a> и <a href="https://www.youtube.com/watch?v=pLLLf1QPgoU">HTTP 203: The Future of JavaScript (video)</a></li>
-</ul>
-
-<h2 id="section">Мастер класс</h2>
-
-<ul>
-  <li><a href="http://smartme.university/workshop/postgresql-nastraivaem-i-masshtabiruem-na-bis/">Postgresql - настраиваем и масштабируем. Используйте “RWPOD_15” промокод для 15% скидки</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 12 Oct 2015 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2015/10/12/podcast-03-38.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/10/12/podcast-03-38.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/126/file/podfm_rwpod_my_38_126.mp3" length="34301678" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/126/file/podfm_rwpod_my_38_126.mp3" fileSize="34301678" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Database Sharding, Let’s Build a Sinatra и Gen...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Database Sharding, Let’s Build a Sinatra и Generating quines in Ruby
-
-  
-Effectively Debugging Capybara Feature Specs, Enhancing Logs With Cache Timing и A Small Case Study in Threading
-
-  
-Writing Ruby extensions in Go - an in depth review, Dashed - a Ruby library for interacting with Amazon Dash button presses и Transactify - run your methods in database transaction
-
-
-
-JavaScript
-
-
-  
-React v0.14, Announcing Meteor Galaxy и Getting Started with Relay
-
-  
-Compile to JavaScript: The 10 Best JavaScript Alternative Languages, Artyom.js - a voice control - voice commands - speech recognition javascript library и Panic.js - error handling done right
-
-  
-Mercer - 3D Interactive Data Visualizations, Cake-chart - interactive multi-layer pie chart, Highlight Text Inside a Textarea и HTTP 203: The Future of JavaScript (video)
-
-
-
-Мастер класс
-
-
-  Postgresql - настраиваем и масштабируем. Используйте “RWPOD_15” промокод для 15% скидки
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0338.png"/>
-  <itunes:duration>00:35:37</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
