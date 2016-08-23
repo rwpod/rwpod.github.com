@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 15 Aug 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 15 Aug 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 23 Aug 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 23 Aug 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,91 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>32 выпуск 04 сезона. The Ruby Community and Reputation, LeSSL, Serverless Scheduled Tasks, Webpack-Dashboard и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/08/18/new-framework-defaults-in-rails-5-to-make-upgrade-easier.html">New framework defaults in Rails 5 to make upgrade easier</a>, <a href="http://www.akitaonrails.com/2016/08/19/the-ruby-community-and-reputation">The Ruby Community and Reputation</a> и <a href="https://medium.com/@rubinius/rubinius-takes-the-fun-out-of-ruby-21db64ce87a6">Rubinius takes the fun out of Ruby</a></li>
+  <li><a href="https://github.com/endofunky/oprah">Oprah - opinionated presenters for Rails 5</a>, <a href="https://github.com/tobiasfeistmantl/LeSSL">LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA</a> и <a href="https://github.com/jazzonmymind/zchannel.rb">Zchannel - a library that assists with InterProcess Communication</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/@parall.ax/tutorial-serverless-scheduled-tasks-3c2abdd1e158">Tutorial: Serverless Scheduled Tasks</a>, <a href="https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/">30K Page Views for $0.21: A Serverless Story</a> и <a href="http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs">The rise of functional programming &amp; the decline of Angular 2.0</a></li>
+  <li><a href="https://github.com/FormidableLabs/webpack-dashboard">Webpack-Dashboard - a CLI dashboard for your webpack dev server</a>, <a href="https://github.com/airbnb/react-dates">React-dates - an accessible, easily internationalizable, mobile-friendly datepicker library for the web</a>, <a href="http://recharts.org/">Recharts - a composable charting library built on React components</a> и <a href="http://papaparse.com/">Papa Parse - the powerful, in-browser CSV parser for big boys and girls</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/08/18/new-framework-defaults-in-rails-5-to-make-upgrade-easier.html">New framework defaults in Rails 5 to make upgrade easier</a>, <a href="http://www.akitaonrails.com/2016/08/19/the-ruby-community-and-reputation">The Ruby Community and Reputation</a> и <a href="https://medium.com/@rubinius/rubinius-takes-the-fun-out-of-ruby-21db64ce87a6">Rubinius takes the fun out of Ruby</a></li>
+  <li><a href="https://github.com/endofunky/oprah">Oprah - opinionated presenters for Rails 5</a>, <a href="https://github.com/tobiasfeistmantl/LeSSL">LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA</a> и <a href="https://github.com/jazzonmymind/zchannel.rb">Zchannel - a library that assists with InterProcess Communication</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/@parall.ax/tutorial-serverless-scheduled-tasks-3c2abdd1e158">Tutorial: Serverless Scheduled Tasks</a>, <a href="https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/">30K Page Views for $0.21: A Serverless Story</a> и <a href="http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs">The rise of functional programming &amp; the decline of Angular 2.0</a></li>
+  <li><a href="https://github.com/FormidableLabs/webpack-dashboard">Webpack-Dashboard - a CLI dashboard for your webpack dev server</a>, <a href="https://github.com/airbnb/react-dates">React-dates - an accessible, easily internationalizable, mobile-friendly datepicker library for the web</a>, <a href="http://recharts.org/">Recharts - a composable charting library built on React components</a> и <a href="http://papaparse.com/">Papa Parse - the powerful, in-browser CSV parser for big boys and girls</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 23 Aug 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/08/23/podcast-04-32.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/23/podcast-04-32.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/168/file/podfm_rwpod_my_32_168.mp3" length="33336862" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/168/file/podfm_rwpod_my_32_168.mp3" fileSize="33336862" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  New framework defaults in Rails 5 to make upgr...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+New framework defaults in Rails 5 to make upgrade easier, The Ruby Community and Reputation и Rubinius takes the fun out of Ruby
+
+  
+Oprah - opinionated presenters for Rails 5, LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA и Zchannel - a library that assists with InterProcess Communication
+
+
+
+JavaScript
+
+
+  
+Tutorial: Serverless Scheduled Tasks, 30K Page Views for $0.21: A Serverless Story и The rise of functional programming &amp; the decline of Angular 2.0
+
+  
+Webpack-Dashboard - a CLI dashboard for your webpack dev server, React-dates - an accessible, easily internationalizable, mobile-friendly datepicker library for the web, Recharts - a composable charting library built on React components и Papa Parse - the powerful, in-browser CSV parser for big boys and girls
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0432.png"/>
+  <itunes:duration>00:34:37</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>31 выпуск 04 сезона. Rails 5.0.0.1, 4.2.7.1, 3.2.22.3, dry-system, SVG 2 new features, ShiftJS, JSON.is, WAUD.js и прочее</title>
   <description>
@@ -3930,119 +4015,6 @@ RWpodPlayer on React Native (исходники)
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0341.png"/>
   <itunes:duration>00:38:41</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>40 выпуск 03 сезона. Deploying Your Docker Rails App, Node v5.0.0, Babel.js 6, Vue.js 1.0.0, Graph-scroll.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://rubini.us/2015/10/27/rubinius-inc-a-benefit-company/">Rubinius, Inc - A Benefit Company</a>, <a href="http://blog.codeship.com/deploying-docker-rails-app/">Deploying Your Docker Rails App</a> и <a href="http://gavinmiller.io/2015/fixing-file-access-vulnerabilities-in-ruby-and-rails/">Fixing File Access Vulnerabilities in Ruby/Rails</a></li>
-  <li><a href="http://blog.bigbinary.com/2015/10/31/rails-5-allows-setting-custom-http-headers-for-assets.html">Rails 5 allows setting custom HTTP Headers for assets</a> и <a href="https://www.cossacklabs.com/avoid-ssl-for-your-next-app.html">Why you should avoid SSL for your next application</a></li>
-  <li><a href="https://github.com/IFTTT/polo">Polo - travels through your database and creates sample snapshots</a> и <a href="https://www.dasherize.com/">Dasherize - material-based dashboard for your projects</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v5.0.0/">Node v5.0.0</a>, <a href="http://babeljs.io/blog/2015/10/29/6.0.0/">Babel.js 6.0.0</a> и <a href="http://vuejs.org/2015/10/26/1.0.0-release/">Vue.js 1.0.0</a></li>
-  <li><a href="http://itturnsout.com/when-javascript-books-had-no-closures/">When JavaScript (books) had no closures</a> и <a href="http://rmurphey.com/blog/2015/10/08/five-questions/">Five Questions</a></li>
-  <li><a href="http://google.github.io/incremental-dom/#about">Incremental DOM</a>, <a href="http://vdom-benchmark.github.io/vdom-benchmark/">Virtual DOM Benchmark</a> и <a href="http://1wheel.github.io/graph-scroll/">Graph-scroll.js - simple scrolling events for d3 graphics</a></li>
-</ul>
-
-<h2 id="section">Обсуждаем</h2>
-
-<ul>
-  <li><a href="http://www.startlin.es/">Startups Timelines - History of innovations</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://rubini.us/2015/10/27/rubinius-inc-a-benefit-company/">Rubinius, Inc - A Benefit Company</a>, <a href="http://blog.codeship.com/deploying-docker-rails-app/">Deploying Your Docker Rails App</a> и <a href="http://gavinmiller.io/2015/fixing-file-access-vulnerabilities-in-ruby-and-rails/">Fixing File Access Vulnerabilities in Ruby/Rails</a></li>
-  <li><a href="http://blog.bigbinary.com/2015/10/31/rails-5-allows-setting-custom-http-headers-for-assets.html">Rails 5 allows setting custom HTTP Headers for assets</a> и <a href="https://www.cossacklabs.com/avoid-ssl-for-your-next-app.html">Why you should avoid SSL for your next application</a></li>
-  <li><a href="https://github.com/IFTTT/polo">Polo - travels through your database and creates sample snapshots</a> и <a href="https://www.dasherize.com/">Dasherize - material-based dashboard for your projects</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v5.0.0/">Node v5.0.0</a>, <a href="http://babeljs.io/blog/2015/10/29/6.0.0/">Babel.js 6.0.0</a> и <a href="http://vuejs.org/2015/10/26/1.0.0-release/">Vue.js 1.0.0</a></li>
-  <li><a href="http://itturnsout.com/when-javascript-books-had-no-closures/">When JavaScript (books) had no closures</a> и <a href="http://rmurphey.com/blog/2015/10/08/five-questions/">Five Questions</a></li>
-  <li><a href="http://google.github.io/incremental-dom/#about">Incremental DOM</a>, <a href="http://vdom-benchmark.github.io/vdom-benchmark/">Virtual DOM Benchmark</a> и <a href="http://1wheel.github.io/graph-scroll/">Graph-scroll.js - simple scrolling events for d3 graphics</a></li>
-</ul>
-
-<h2 id="section">Обсуждаем</h2>
-
-<ul>
-  <li><a href="http://www.startlin.es/">Startups Timelines - History of innovations</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 03 Nov 2015 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2015/11/03/podcast-03-40.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/11/03/podcast-03-40.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/128/file/podfm_rwpod_my_40_128.mp3" length="50464240" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/128/file/podfm_rwpod_my_40_128.mp3" fileSize="50464240" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rubinius, Inc - A Benefit Company, Deploying Y...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rubinius, Inc - A Benefit Company, Deploying Your Docker Rails App и Fixing File Access Vulnerabilities in Ruby/Rails
-
-  
-Rails 5 allows setting custom HTTP Headers for assets и Why you should avoid SSL for your next application
-
-  
-Polo - travels through your database and creates sample snapshots и Dasherize - material-based dashboard for your projects
-
-
-
-JavaScript
-
-
-  
-Node v5.0.0, Babel.js 6.0.0 и Vue.js 1.0.0
-
-  
-When JavaScript (books) had no closures и Five Questions
-
-  
-Incremental DOM, Virtual DOM Benchmark и Graph-scroll.js - simple scrolling events for d3 graphics
-
-
-
-Обсуждаем
-
-
-  Startups Timelines - History of innovations
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0340.png"/>
-  <itunes:duration>00:52:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
