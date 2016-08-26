@@ -5,6 +5,9 @@
   background: #fff; }
   .author .photo {
     position: absolute; }
+    .author .photo img {
+      width: 200px;
+      height: 350px; }
   .author .bio {
     box-sizing: border-box;
     border-top: 5px solid #087c78;
@@ -14,8 +17,8 @@
     .author .contacts a {
       display: inline-block;
       text-align: center;
-      width: 34px;
-      padding: 9px 0;
+      padding: 7px 0 0 0;
+      width: 35px;
       background: #faf6ec;
       color: #d26748;
       border-radius: 50%;
@@ -23,6 +26,12 @@
       transition: background 0.3s ease; }
       .author .contacts a:hover {
         background: #ead9af; }
+        .author .contacts a:hover .svg-icon {
+          fill: #a54529; }
+      .author .contacts a .svg-icon {
+        width: 20px;
+        height: 20px;
+        fill: #d26748; }
   .author.inverse .bio {
     padding: 30px 230px 30px 30px;
     border-top: 5px solid #d26748; }
