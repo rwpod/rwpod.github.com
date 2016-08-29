@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 23 Aug 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 23 Aug 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 29 Aug 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 29 Aug 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>33 выпуск 04 сезона. Sinatra Two Point Oh, Journey of a Trailblazer, Marionette.js v3, Carbide, Odoo, In-view.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/08/23/rails-5-trims-session-storage-by-discarding-some-flash-messages.html">Rails 5 trims session storage by discarding some flash messages</a> и <a href="http://zzak.io/log/2016-08-22-sinatra-two-point-oh.html">Sinatra Two Point Oh!</a></li>
+  <li><a href="http://www.norydev.com/writing/journey-of-a-trailblazer-part-1">Journey of a Trailblazer (1)</a>, <a href="http://www.norydev.com/writing/journey-of-a-trailblazer-part-2">Journey of a Trailblazer (2)</a>, <a href="https://semaphoreci.com/community/tutorials/how-to-reduce-controller-bloat-with-interactors-in-ruby">How to Reduce Controller Bloat with Interactors in Ruby</a> и <a href="http://jaszczurowski.com/avoid-using-exceptions-for-flow-control/">Avoid using exceptions for flow control</a></li>
+  <li><a href="http://cloudless.studio/articles/25-phoenix-vs-rails-views-and-helpers">Phoenix vs Rails: Views and helpers</a>, <a href="http://nithinbekal.com/posts/bit-arrays-ruby/">Bit Array Data Structure in Ruby</a> и <a href="https://www.driftingruby.com/episodes/antivirus-uploads-with-clamby">Antivirus Uploads with Clamby (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.marionettejs.com/2016/08/23/marionette-v3/index.html">Marionette.js v3. Getting started with new version</a> и <a href="https://medium.com/@gammons/the-case-of-the-missing-react-framework-ab45c4e71b91">The Case of the Missing React Framework</a></li>
+  <li><a href="http://codepen.io/tigt/post/performance-means-progressive-enhancement">Performance Means Progressive Enhancement</a> и <a href="https://github.com/blog/2231-building-your-first-atom-plugin">Building your first Atom plugin</a></li>
+  <li><a href="http://alpha.trycarbide.com/">Carbide - an interactive JS programming environment</a>, <a href="https://github.com/coderitual/odoo">Odoo: SVG Odometer Effect Library</a>, <a href="http://benhowdle.im/grade/">Grade.js - JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images</a> и <a href="https://camwiegert.github.io/in-view/">In-view.js - get notified when a DOM element enters or exits the viewport</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/08/23/rails-5-trims-session-storage-by-discarding-some-flash-messages.html">Rails 5 trims session storage by discarding some flash messages</a> и <a href="http://zzak.io/log/2016-08-22-sinatra-two-point-oh.html">Sinatra Two Point Oh!</a></li>
+  <li><a href="http://www.norydev.com/writing/journey-of-a-trailblazer-part-1">Journey of a Trailblazer (1)</a>, <a href="http://www.norydev.com/writing/journey-of-a-trailblazer-part-2">Journey of a Trailblazer (2)</a>, <a href="https://semaphoreci.com/community/tutorials/how-to-reduce-controller-bloat-with-interactors-in-ruby">How to Reduce Controller Bloat with Interactors in Ruby</a> и <a href="http://jaszczurowski.com/avoid-using-exceptions-for-flow-control/">Avoid using exceptions for flow control</a></li>
+  <li><a href="http://cloudless.studio/articles/25-phoenix-vs-rails-views-and-helpers">Phoenix vs Rails: Views and helpers</a>, <a href="http://nithinbekal.com/posts/bit-arrays-ruby/">Bit Array Data Structure in Ruby</a> и <a href="https://www.driftingruby.com/episodes/antivirus-uploads-with-clamby">Antivirus Uploads with Clamby (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.marionettejs.com/2016/08/23/marionette-v3/index.html">Marionette.js v3. Getting started with new version</a> и <a href="https://medium.com/@gammons/the-case-of-the-missing-react-framework-ab45c4e71b91">The Case of the Missing React Framework</a></li>
+  <li><a href="http://codepen.io/tigt/post/performance-means-progressive-enhancement">Performance Means Progressive Enhancement</a> и <a href="https://github.com/blog/2231-building-your-first-atom-plugin">Building your first Atom plugin</a></li>
+  <li><a href="http://alpha.trycarbide.com/">Carbide - an interactive JS programming environment</a>, <a href="https://github.com/coderitual/odoo">Odoo: SVG Odometer Effect Library</a>, <a href="http://benhowdle.im/grade/">Grade.js - JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images</a> и <a href="https://camwiegert.github.io/in-view/">In-view.js - get notified when a DOM element enters or exits the viewport</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Mon, 29 Aug 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/08/29/podcast-04-33.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/29/podcast-04-33.html</guid>
+  <enclosure url="https://github.com/rwpod/mirror/releases/download/04.33/0433.mp3" length="30429572" type="audio/mpeg"/>
+  <media:content url="https://github.com/rwpod/mirror/releases/download/04.33/0433.mp3" fileSize="30429572" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5 trims session storage by discarding so...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5 trims session storage by discarding some flash messages и Sinatra Two Point Oh!
+
+  
+Journey of a Trailblazer (1), Journey of a Trailblazer (2), How to Reduce Controller Bloat with Interactors in Ruby и Avoid using exceptions for flow control
+
+  
+Phoenix vs Rails: Views and helpers, Bit Array Data Structure in Ruby и Antivirus Uploads with Clamby (video)
+
+
+
+JavaScript
+
+
+  
+Marionette.js v3. Getting started with new version и The Case of the Missing React Framework
+
+  
+Performance Means Progressive Enhancement и Building your first Atom plugin
+
+  
+Carbide - an interactive JS programming environment, Odoo: SVG Odometer Effect Library, Grade.js - JavaScript library produces complementary gradients generated from the top 2 dominant colours in supplied images и In-view.js - get notified when a DOM element enters or exits the viewport
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0433.png"/>
+  <itunes:duration>00:31:35</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>32 выпуск 04 сезона. The Ruby Community and Reputation, LeSSL, Serverless Scheduled Tasks, Webpack-Dashboard и прочее</title>
   <description>
@@ -3901,120 +3996,6 @@ Babel plugin handbook, jsCodeStructure - analyse the structure of your js projec
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0342.png"/>
   <itunes:duration>01:09:00</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>41 выпуск 03 сезона. Rubinius Analyst, Administrate, Skynet for Beginners, Object.observe, Maria, NW.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://rubini.us/2015/11/04/rubinius-analyst-know-your-app/">Rubinius Analyst - Know Your App</a>, <a href="http://blog.honeybadger.io/how-ruby-interprets-and-runs-your-programs/">How Ruby Interprets and Runs Your Programs</a> и <a href="http://blog.bigbinary.com/2015/11/05/how-constant-lookup-happens-in-rails.html">How constant lookup and resolution works in Ruby on Rails</a></li>
-  <li><a href="https://bugs.ruby-lang.org/issues/11537">Introduce “Safe navigation operator”</a>, <a href="https://robots.thoughtbot.com/announcing-administrate">Announcing Administrate</a> и <a href="https://github.com/mperham/sidekiq/blob/master/4.0-Upgrade.md">Sidekiq 4.0</a></li>
-  <li><a href="http://optimization.guide/">Продуманная оптимизация (книга)</a> и <a href="https://www.youtube.com/watch?v=KlDMZyEwRzk">Skynet for Beginners, by Rin Raeuber (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://arc.applause.com/2015/11/06/javascript-is-eating-the-world/">JavaScript Is Eating The World</a> и <a href="https://mail.mozilla.org/pipermail/es-discuss/2015-November/044684.html">Object.observe proposal withdrawn</a></li>
-  <li><a href="http://developer.telerik.com/featured/will-angular-2-be-a-success-you-bet/">Will Angular 2 be a success? You bet!</a>, <a href="http://blog.codeschool.io/2015/10/26/7-reasons-to-use-ember-js/">7 Reasons to Use Ember.js</a> и <a href="http://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/">Why Static Website Generators Are The Next Big Thing</a></li>
-  <li><a href="http://peter.michaux.ca/maria/">Maria - The MVC Framework for JavaScript Application</a>, <a href="http://dropbox.github.io/scooter/">Scooter - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox</a> и <a href="http://nwjs.io/">NW.js - an app runtime based on Chromium and node.js</a></li>
-</ul>
-
-<h2 id="section">Обсуждаю</h2>
-
-<ul>
-  <li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1053885042&amp;mt=8">RWpodPlayer on React Native</a> (<a href="https://github.com/rwpod/RWpodPlayer">исходники</a>)</li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://rubini.us/2015/11/04/rubinius-analyst-know-your-app/">Rubinius Analyst - Know Your App</a>, <a href="http://blog.honeybadger.io/how-ruby-interprets-and-runs-your-programs/">How Ruby Interprets and Runs Your Programs</a> и <a href="http://blog.bigbinary.com/2015/11/05/how-constant-lookup-happens-in-rails.html">How constant lookup and resolution works in Ruby on Rails</a></li>
-  <li><a href="https://bugs.ruby-lang.org/issues/11537">Introduce “Safe navigation operator”</a>, <a href="https://robots.thoughtbot.com/announcing-administrate">Announcing Administrate</a> и <a href="https://github.com/mperham/sidekiq/blob/master/4.0-Upgrade.md">Sidekiq 4.0</a></li>
-  <li><a href="http://optimization.guide/">Продуманная оптимизация (книга)</a> и <a href="https://www.youtube.com/watch?v=KlDMZyEwRzk">Skynet for Beginners, by Rin Raeuber (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://arc.applause.com/2015/11/06/javascript-is-eating-the-world/">JavaScript Is Eating The World</a> и <a href="https://mail.mozilla.org/pipermail/es-discuss/2015-November/044684.html">Object.observe proposal withdrawn</a></li>
-  <li><a href="http://developer.telerik.com/featured/will-angular-2-be-a-success-you-bet/">Will Angular 2 be a success? You bet!</a>, <a href="http://blog.codeschool.io/2015/10/26/7-reasons-to-use-ember-js/">7 Reasons to Use Ember.js</a> и <a href="http://www.smashingmagazine.com/2015/11/modern-static-website-generators-next-big-thing/">Why Static Website Generators Are The Next Big Thing</a></li>
-  <li><a href="http://peter.michaux.ca/maria/">Maria - The MVC Framework for JavaScript Application</a>, <a href="http://dropbox.github.io/scooter/">Scooter - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox</a> и <a href="http://nwjs.io/">NW.js - an app runtime based on Chromium and node.js</a></li>
-</ul>
-
-<h2 id="section">Обсуждаю</h2>
-
-<ul>
-  <li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1053885042&amp;mt=8">RWpodPlayer on React Native</a> (<a href="https://github.com/rwpod/RWpodPlayer">исходники</a>)</li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 10 Nov 2015 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2015/11/10/podcast-03-41.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/11/10/podcast-03-41.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/129/file/podfm_rwpod_my_41_129.mp3" length="37243583" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/129/file/podfm_rwpod_my_41_129.mp3" fileSize="37243583" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rubinius Analyst - Know Your App, How Ruby Int...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rubinius Analyst - Know Your App, How Ruby Interprets and Runs Your Programs и How constant lookup and resolution works in Ruby on Rails
-
-  
-Introduce “Safe navigation operator”, Announcing Administrate и Sidekiq 4.0
-
-  
-Продуманная оптимизация (книга) и Skynet for Beginners, by Rin Raeuber (video)
-
-
-
-JavaScript
-
-
-  
-JavaScript Is Eating The World и Object.observe proposal withdrawn
-
-  
-Will Angular 2 be a success? You bet!, 7 Reasons to Use Ember.js и Why Static Website Generators Are The Next Big Thing
-
-  
-Maria - The MVC Framework for JavaScript Application, Scooter - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox и NW.js - an app runtime based on Chromium and node.js
-
-
-
-Обсуждаю
-
-
-  
-RWpodPlayer on React Native (исходники)
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0341.png"/>
-  <itunes:duration>00:38:41</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
