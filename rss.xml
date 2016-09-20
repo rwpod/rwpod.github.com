@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 13 Sep 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 13 Sep 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 20 Sep 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 20 Sep 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>36 выпуск 04 сезона. Ruby 2.4.0-preview2, Angular 2.0.0, N+1 is a Rails feature, OpenType Variable Fonts, Reframe.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2016/09/08/ruby-2-4-0-preview2-released/">Ruby 2.4.0-preview2 Released</a>, <a href="http://dev.mensfeld.pl/2016/09/ruby-hash-default-value-be-cautious-when-you-use-it/">Ruby: Hash default value – be cautious when you use it</a> и <a href="http://www.rubypigeon.com/posts/raise-on-developer-mistake/">Raise On Developer Mistake</a></li>
+  <li><a href="https://buildtoship.com/devicetoken-and-turbolinks-ios/">DeviceToken and turbolinks-ios</a>, <a href="https://rossta.net/blog/n+1-is-a-rails-feature.html">N+1 is a Rails feature, not a bug</a> и <a href="https://www.twilio.com/blog/2016/09/send-sms-messages-like-emails-in-rails-with-textris.html">Send SMS messages like emails in Rails with Textris</a></li>
+  <li><a href="https://github.com/mperham/sidekiq/blob/master/Changes.md#421">Sidekiq 4.2.1</a>, <a href="https://github.com/github/graphql-client">Graphql-Client - GraphQL Client is a Ruby library for declaring, composing and executing GraphQL queries</a>, <a href="https://swift.org/blog/swift-3-0-released/">Swift 3.0 Released</a> и <a href="http://vapor.codes/">Vapor - a web framework and server for Swift that works on macOS and Ubuntu</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://angularjs.blogspot.com/2016/09/angular2-final.html">Angular 2.0.0 officially released</a>, <a href="http://developer.telerik.com/featured/you-have-seriously-underestimated-angular/">We Have Seriously Underestimated Angular</a>, <a href="https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18">Dependency Injection in Angular 1 and Angular 2</a> и <a href="https://hacks.mozilla.org/2016/09/introducing-debugger-html/">Introducing debugger.html</a></li>
+  <li><a href="https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/">Three JavaScript performance fundamentals that make Bluebird fast</a>, <a href="https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369">Introducing OpenType Variable Fonts</a> и <a href="https://css-tricks.com/nerds-guide-color-web/">A Nerd’s Guide to Color on the Web</a></li>
+  <li><a href="https://github.com/FormidableLabs/react-game-kit">React-game-kit - make games with React &amp; React Native</a>, <a href="https://dollarshaveclub.github.io/reframe.js/">Reframe.js - a javascript plugin that makes unresponsive elements responsive</a>, <a href="http://www.graphicsjs.org/">GraphicsJS - a lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology</a> и <a href="https://www.youtube.com/watch?v=QHs55-5FzgA">Dmitry Baranovskiy: Zen of JavaScript (video)</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2016/09/08/ruby-2-4-0-preview2-released/">Ruby 2.4.0-preview2 Released</a>, <a href="http://dev.mensfeld.pl/2016/09/ruby-hash-default-value-be-cautious-when-you-use-it/">Ruby: Hash default value – be cautious when you use it</a> и <a href="http://www.rubypigeon.com/posts/raise-on-developer-mistake/">Raise On Developer Mistake</a></li>
+  <li><a href="https://buildtoship.com/devicetoken-and-turbolinks-ios/">DeviceToken and turbolinks-ios</a>, <a href="https://rossta.net/blog/n+1-is-a-rails-feature.html">N+1 is a Rails feature, not a bug</a> и <a href="https://www.twilio.com/blog/2016/09/send-sms-messages-like-emails-in-rails-with-textris.html">Send SMS messages like emails in Rails with Textris</a></li>
+  <li><a href="https://github.com/mperham/sidekiq/blob/master/Changes.md#421">Sidekiq 4.2.1</a>, <a href="https://github.com/github/graphql-client">Graphql-Client - GraphQL Client is a Ruby library for declaring, composing and executing GraphQL queries</a>, <a href="https://swift.org/blog/swift-3-0-released/">Swift 3.0 Released</a> и <a href="http://vapor.codes/">Vapor - a web framework and server for Swift that works on macOS and Ubuntu</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://angularjs.blogspot.com/2016/09/angular2-final.html">Angular 2.0.0 officially released</a>, <a href="http://developer.telerik.com/featured/you-have-seriously-underestimated-angular/">We Have Seriously Underestimated Angular</a>, <a href="https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18">Dependency Injection in Angular 1 and Angular 2</a> и <a href="https://hacks.mozilla.org/2016/09/introducing-debugger-html/">Introducing debugger.html</a></li>
+  <li><a href="https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/">Three JavaScript performance fundamentals that make Bluebird fast</a>, <a href="https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369">Introducing OpenType Variable Fonts</a> и <a href="https://css-tricks.com/nerds-guide-color-web/">A Nerd’s Guide to Color on the Web</a></li>
+  <li><a href="https://github.com/FormidableLabs/react-game-kit">React-game-kit - make games with React &amp; React Native</a>, <a href="https://dollarshaveclub.github.io/reframe.js/">Reframe.js - a javascript plugin that makes unresponsive elements responsive</a>, <a href="http://www.graphicsjs.org/">GraphicsJS - a lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology</a> и <a href="https://www.youtube.com/watch?v=QHs55-5FzgA">Dmitry Baranovskiy: Zen of JavaScript (video)</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 20 Sep 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/09/20/podcast-04-36.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/09/20/podcast-04-36.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/172/file/podfm_rwpod_my_36_172.mp3" length="37776907" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/172/file/podfm_rwpod_my_36_172.mp3" fileSize="37776907" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.4.0-preview2 Released, Ruby: Hash defau...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.4.0-preview2 Released, Ruby: Hash default value – be cautious when you use it и Raise On Developer Mistake
+
+  
+DeviceToken and turbolinks-ios, N+1 is a Rails feature, not a bug и Send SMS messages like emails in Rails with Textris
+
+  
+Sidekiq 4.2.1, Graphql-Client - GraphQL Client is a Ruby library for declaring, composing and executing GraphQL queries, Swift 3.0 Released и Vapor - a web framework and server for Swift that works on macOS and Ubuntu
+
+
+
+JavaScript
+
+
+  
+Angular 2.0.0 officially released, We Have Seriously Underestimated Angular, Dependency Injection in Angular 1 and Angular 2 и Introducing debugger.html
+
+  
+Three JavaScript performance fundamentals that make Bluebird fast, Introducing OpenType Variable Fonts и A Nerd’s Guide to Color on the Web
+
+  
+React-game-kit - make games with React &amp; React Native, Reframe.js - a javascript plugin that makes unresponsive elements responsive, GraphicsJS - a lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology и Dmitry Baranovskiy: Zen of JavaScript (video)
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0436.png"/>
+  <itunes:duration>00:39:15</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>35 выпуск 04 сезона. Five Rails Gotchas, Vim 8.0, Quill 1.0, Node.js Best Practices, Awesome Grid, Radiobox.css и прочее</title>
   <description>
@@ -3864,101 +3959,6 @@ What Web Can Do Today, Simplified JavaScript Jargon, A Guide to 2016 Front End C
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0345.png"/>
   <itunes:duration>00:54:14</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>44 выпуск 03 сезона. ROM 1.0.0 Beta, Is it nil?, Startup Playbook, Calypso, Documentcss, Responsify.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://rom-rb.org/blog/2015/11/24/first-beta-of-rom-1-0-0-has-been-released/">First Beta of ROM 1.0.0 Has Been Released</a>, <a href="https://rossta.net/blog/infinite-sequences-in-ruby.html">Infinite Sequences in Ruby</a> и <a href="https://www.leighhalliday.com/is-it-nil">Is it nil?</a></li>
-  <li><a href="http://davidmles.com/blog/editor-ruby-rails/">Choosing my editor for Ruby on Rails</a>, <a href="https://medium.com/handy-tech/sidekiq-best-practices-cbc2d070a7d4">Sidekiq Best Practices</a> и <a href="https://github.com/MaximAbramchuck/awesome-interviews">A curated list of lists of interview questions</a></li>
-  <li><a href="http://playbook.samaltman.com/">Startup Playbook (free book)</a>, <a href="https://www.youtube.com/watch?v=LE0g2TUsJ4U">Keynote and Q&amp;A: Matz (RubyConf 2015, video)</a> и <a href="https://vimeo.com/146492001">NeuralTalk and Walk</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.safaribooksonline.com/blog/2015/11/24/refactoring-javascript-microservice-backbone-marionette/">Refactoring a JavaScript Application to Use Microservices: What we Learned With Backbone and Marionette</a>, <a href="https://developer.wordpress.com/2015/11/23/the-story-behind-the-new-wordpress-com/">The Story Behind the New WordPress.com</a> и <a href="http://ma.tt/2015/11/dance-to-calypso/">Dance to Calypso</a></li>
-  <li><a href="http://robotlolita.me/2015/11/15/how-do-promises-work.html">How do Promises Work?</a>, <a href="http://engineroom.teamwork.com/10-things-to-know-about-gulp/">10 things to know about Gulp</a> и <a href="https://evilmartians.com/chronicles/postcss-1_5x-faster">How PostCSS became 1.5x faster by changing 2 lines of code</a></li>
-  <li><a href="http://documentcss.com/">Documentcss - create live style guides with interactive examples, that change as your design does</a>, <a href="http://responsifyjs.space/">Responsify.js - a jquery plugin that makes images truly responsive</a> и <a href="https://www.youtube.com/watch?v=3wyd6J3yjcs">The Silver Bullet Syndrome by Hadi Hariri (video)</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://rom-rb.org/blog/2015/11/24/first-beta-of-rom-1-0-0-has-been-released/">First Beta of ROM 1.0.0 Has Been Released</a>, <a href="https://rossta.net/blog/infinite-sequences-in-ruby.html">Infinite Sequences in Ruby</a> и <a href="https://www.leighhalliday.com/is-it-nil">Is it nil?</a></li>
-  <li><a href="http://davidmles.com/blog/editor-ruby-rails/">Choosing my editor for Ruby on Rails</a>, <a href="https://medium.com/handy-tech/sidekiq-best-practices-cbc2d070a7d4">Sidekiq Best Practices</a> и <a href="https://github.com/MaximAbramchuck/awesome-interviews">A curated list of lists of interview questions</a></li>
-  <li><a href="http://playbook.samaltman.com/">Startup Playbook (free book)</a>, <a href="https://www.youtube.com/watch?v=LE0g2TUsJ4U">Keynote and Q&amp;A: Matz (RubyConf 2015, video)</a> и <a href="https://vimeo.com/146492001">NeuralTalk and Walk</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.safaribooksonline.com/blog/2015/11/24/refactoring-javascript-microservice-backbone-marionette/">Refactoring a JavaScript Application to Use Microservices: What we Learned With Backbone and Marionette</a>, <a href="https://developer.wordpress.com/2015/11/23/the-story-behind-the-new-wordpress-com/">The Story Behind the New WordPress.com</a> и <a href="http://ma.tt/2015/11/dance-to-calypso/">Dance to Calypso</a></li>
-  <li><a href="http://robotlolita.me/2015/11/15/how-do-promises-work.html">How do Promises Work?</a>, <a href="http://engineroom.teamwork.com/10-things-to-know-about-gulp/">10 things to know about Gulp</a> и <a href="https://evilmartians.com/chronicles/postcss-1_5x-faster">How PostCSS became 1.5x faster by changing 2 lines of code</a></li>
-  <li><a href="http://documentcss.com/">Documentcss - create live style guides with interactive examples, that change as your design does</a>, <a href="http://responsifyjs.space/">Responsify.js - a jquery plugin that makes images truly responsive</a> и <a href="https://www.youtube.com/watch?v=3wyd6J3yjcs">The Silver Bullet Syndrome by Hadi Hariri (video)</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 30 Nov 2015 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2015/11/30/podcast-03-44.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/11/30/podcast-03-44.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/132/file/podfm_rwpod_my_44_132.mp3" length="66027731" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/132/file/podfm_rwpod_my_44_132.mp3" fileSize="66027731" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  First Beta of ROM 1.0.0 Has Been Released, Inf...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-First Beta of ROM 1.0.0 Has Been Released, Infinite Sequences in Ruby и Is it nil?
-
-  
-Choosing my editor for Ruby on Rails, Sidekiq Best Practices и A curated list of lists of interview questions
-
-  
-Startup Playbook (free book), Keynote and Q&amp;A: Matz (RubyConf 2015, video) и NeuralTalk and Walk
-
-
-
-JavaScript
-
-
-  
-Refactoring a JavaScript Application to Use Microservices: What we Learned With Backbone and Marionette, The Story Behind the New WordPress.com и Dance to Calypso
-
-  
-How do Promises Work?, 10 things to know about Gulp и How PostCSS became 1.5x faster by changing 2 lines of code
-
-  
-Documentcss - create live style guides with interactive examples, that change as your design does, Responsify.js - a jquery plugin that makes images truly responsive и The Silver Bullet Syndrome by Hadi Hariri (video)
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0344.png"/>
-  <itunes:duration>01:08:40</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
