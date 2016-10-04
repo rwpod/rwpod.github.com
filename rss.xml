@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 27 Sep 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 27 Sep 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 04 Oct 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 04 Oct 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,91 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>38 выпуск 04 сезона. Leaflet 1.0, Concurrency in Ruby 3 with Guilds, 45 Ruby Blogs, Layzr.js, IronNode и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://olivierlacan.com/posts/concurrency-in-ruby-3-with-guilds/">Concurrency in Ruby 3 with Guilds</a>, <a href="http://travisofthenorth.com/blog/2016/10/2/beware-the-orm">Beware the ORM: Locking and Joins</a> и <a href="http://blog.honeypot.io/45-ruby-blogs/">45 Ruby Blogs</a></li>
+  <li><a href="http://littlelines.com/blog/2016/09/27/using-phoenix-with-a-legagy-rails-app/">Using Phoenix with Legacy Rails Applications</a> и <a href="https://github.com/somaticio/tensorflow.rb">Tensorflow.rb</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://leafletjs.com/2016/09/27/leaflet-1.0-final.html">Meet Leaflet 1.0</a>, <a href="http://www.pixelstech.net/article/1474790035-Loading-images-progressively-using-Gaussian-blur">Loading images progressively using Gaussian blur</a> и <a href="https://photography.tutsplus.com/tutorials/who-needs-amp-how-to-lazy-load-responsive-images-quick-and-easy-with-layzr--cms-27221">Who Needs AMP? How to Lazy Load Responsive Images Quick and Easy with Layzr.js</a></li>
+  <li><a href="https://facebook.github.io/react/contributing/codebase-overview.html">Codebase Overview</a>, <a href="https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools">Node.js debugging with Chrome DevTools (in parallel with browser JavaScript)</a> и <a href="http://s-a.github.io/iron-node/">IronNode - JavaScript debugging for Node.js</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://olivierlacan.com/posts/concurrency-in-ruby-3-with-guilds/">Concurrency in Ruby 3 with Guilds</a>, <a href="http://travisofthenorth.com/blog/2016/10/2/beware-the-orm">Beware the ORM: Locking and Joins</a> и <a href="http://blog.honeypot.io/45-ruby-blogs/">45 Ruby Blogs</a></li>
+  <li><a href="http://littlelines.com/blog/2016/09/27/using-phoenix-with-a-legagy-rails-app/">Using Phoenix with Legacy Rails Applications</a> и <a href="https://github.com/somaticio/tensorflow.rb">Tensorflow.rb</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://leafletjs.com/2016/09/27/leaflet-1.0-final.html">Meet Leaflet 1.0</a>, <a href="http://www.pixelstech.net/article/1474790035-Loading-images-progressively-using-Gaussian-blur">Loading images progressively using Gaussian blur</a> и <a href="https://photography.tutsplus.com/tutorials/who-needs-amp-how-to-lazy-load-responsive-images-quick-and-easy-with-layzr--cms-27221">Who Needs AMP? How to Lazy Load Responsive Images Quick and Easy with Layzr.js</a></li>
+  <li><a href="https://facebook.github.io/react/contributing/codebase-overview.html">Codebase Overview</a>, <a href="https://blog.hospodarets.com/nodejs-debugging-in-chrome-devtools">Node.js debugging with Chrome DevTools (in parallel with browser JavaScript)</a> и <a href="http://s-a.github.io/iron-node/">IronNode - JavaScript debugging for Node.js</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 04 Oct 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/10/04/podcast-04-38.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/04/podcast-04-38.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/174/file/podfm_rwpod_my_38_174.mp3" length="20342189" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/174/file/podfm_rwpod_my_38_174.mp3" fileSize="20342189" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Concurrency in Ruby 3 with Guilds, Beware the ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Concurrency in Ruby 3 with Guilds, Beware the ORM: Locking and Joins и 45 Ruby Blogs
+
+  
+Using Phoenix with Legacy Rails Applications и Tensorflow.rb
+
+
+
+JavaScript
+
+
+  
+Meet Leaflet 1.0, Loading images progressively using Gaussian blur и Who Needs AMP? How to Lazy Load Responsive Images Quick and Easy with Layzr.js
+
+  
+Codebase Overview, Node.js debugging with Chrome DevTools (in parallel with browser JavaScript) и IronNode - JavaScript debugging for Node.js
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0438.png"/>
+  <itunes:duration>00:21:05</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>37 выпуск 04 сезона. Euruko 2016, Homebrew 1.0.0, TypeScript 2.0, Introduction to Big Data, You Might Not Need Redux и прочее</title>
   <description>
@@ -3855,101 +3940,6 @@ D3.compose - compose complex, data-driven visualizations from reusable charts an
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0347.png"/>
   <itunes:duration>00:51:15</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>46 выпуск 03 сезона. Immutable strings in Ruby 2.3, Rails Anti-Pattern: Fat Decorator, Websocket task queue и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://wyeworks.com/blog/2015/12/1/immutable-strings-in-ruby-2-dot-3/">Immutable strings in Ruby 2.3</a>, <a href="http://lucaguidi.com/2015/12/09/25000-requests-per-second-for-rack-json-api-with-mruby.html">25,000+ Req/s for Rack JSON API with MRuby</a> и <a href="https://blog.phusion.nl/2015/12/07/cve-2015-7519/">Passenger security advisory: CVE-2015-7519 header overwriting</a></li>
-  <li><a href="http://craftingruby.com/posts/2015/12/09/rails-antipattern-fat-decorator.html">Rails Anti-Pattern: Fat Decorator</a>, <a href="http://blog.scoutapp.com/articles/2015/12/09/4-ways-to-get-the-most-out-of-your-rails-logs">4 ways to get the most out of your rails logs</a> и <a href="http://blog.codeship.com/speeding-up-bulk-imports-in-rails/">Speeding Up Bulk Imports in Rails</a></li>
-  <li><a href="http://undefined-reference.org/2015/12/13/ensure-you-understand-ensure.html">Ensure you understand ensure</a>, <a href="https://www.rubyplus.com/articles/2881">Tips for Upgrading Rails 3.2 to Rails 4.2.5</a>, <a href="https://www.youtube.com/watch?v=S2FUSr3WlPk">How to Crash an Airplane by Nickolas Means (video)</a> и <a href="https://www.youtube.com/watch?v=zhW1E6_YpC4">Your own ‘Images as a Service’ by Andy Croll (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/vulnerability/december-2015-security-releases/">December Security Release Summary (node.js)</a>, <a href="https://github.com/mindeavor/es-pipeline-operator">ES7 Proposal: The Pipeline Operator</a> и <a href="http://voidcanvas.com/strange-settimeout/">Explaining few strange behavior of setTimeout() with code snippet</a></li>
-  <li><a href="http://wsq.rocks/">Websocket task queue</a>, <a href="https://css-tricks.com/the-blur-up-technique-for-loading-background-images/">The “Blur Up” Technique for Loading Background Images</a> и <a href="https://medium.com/@OxyDesign/twitter-s-heart-animation-in-full-css-b1c00ca5b774">Twitter’s Heart Animation in Full CSS</a></li>
-  <li><a href="http://documentation.js.org/">Documentation.js - documentation generation system</a>, <a href="http://fengyuanchen.github.io/viewer/">Viewer - a simple jQuery image viewing plugin</a> и <a href="https://www.youtube.com/playlist?list=PLnkLrCUX4Qh5I-IJ30tf51EQYmWTPWPx2">KharkivJS #5 2015 (videos)</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://wyeworks.com/blog/2015/12/1/immutable-strings-in-ruby-2-dot-3/">Immutable strings in Ruby 2.3</a>, <a href="http://lucaguidi.com/2015/12/09/25000-requests-per-second-for-rack-json-api-with-mruby.html">25,000+ Req/s for Rack JSON API with MRuby</a> и <a href="https://blog.phusion.nl/2015/12/07/cve-2015-7519/">Passenger security advisory: CVE-2015-7519 header overwriting</a></li>
-  <li><a href="http://craftingruby.com/posts/2015/12/09/rails-antipattern-fat-decorator.html">Rails Anti-Pattern: Fat Decorator</a>, <a href="http://blog.scoutapp.com/articles/2015/12/09/4-ways-to-get-the-most-out-of-your-rails-logs">4 ways to get the most out of your rails logs</a> и <a href="http://blog.codeship.com/speeding-up-bulk-imports-in-rails/">Speeding Up Bulk Imports in Rails</a></li>
-  <li><a href="http://undefined-reference.org/2015/12/13/ensure-you-understand-ensure.html">Ensure you understand ensure</a>, <a href="https://www.rubyplus.com/articles/2881">Tips for Upgrading Rails 3.2 to Rails 4.2.5</a>, <a href="https://www.youtube.com/watch?v=S2FUSr3WlPk">How to Crash an Airplane by Nickolas Means (video)</a> и <a href="https://www.youtube.com/watch?v=zhW1E6_YpC4">Your own ‘Images as a Service’ by Andy Croll (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/vulnerability/december-2015-security-releases/">December Security Release Summary (node.js)</a>, <a href="https://github.com/mindeavor/es-pipeline-operator">ES7 Proposal: The Pipeline Operator</a> и <a href="http://voidcanvas.com/strange-settimeout/">Explaining few strange behavior of setTimeout() with code snippet</a></li>
-  <li><a href="http://wsq.rocks/">Websocket task queue</a>, <a href="https://css-tricks.com/the-blur-up-technique-for-loading-background-images/">The “Blur Up” Technique for Loading Background Images</a> и <a href="https://medium.com/@OxyDesign/twitter-s-heart-animation-in-full-css-b1c00ca5b774">Twitter’s Heart Animation in Full CSS</a></li>
-  <li><a href="http://documentation.js.org/">Documentation.js - documentation generation system</a>, <a href="http://fengyuanchen.github.io/viewer/">Viewer - a simple jQuery image viewing plugin</a> и <a href="https://www.youtube.com/playlist?list=PLnkLrCUX4Qh5I-IJ30tf51EQYmWTPWPx2">KharkivJS #5 2015 (videos)</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 15 Dec 2015 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2015/12/15/podcast-03-46.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/12/15/podcast-03-46.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/134/file/podfm_rwpod_my_46.mp3" length="25872763" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/134/file/podfm_rwpod_my_46.mp3" fileSize="25872763" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Immutable strings in Ruby 2.3, 25,000+ Req/s f...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Immutable strings in Ruby 2.3, 25,000+ Req/s for Rack JSON API with MRuby и Passenger security advisory: CVE-2015-7519 header overwriting
-
-  
-Rails Anti-Pattern: Fat Decorator, 4 ways to get the most out of your rails logs и Speeding Up Bulk Imports in Rails
-
-  
-Ensure you understand ensure, Tips for Upgrading Rails 3.2 to Rails 4.2.5, How to Crash an Airplane by Nickolas Means (video) и Your own ‘Images as a Service’ by Andy Croll (video)
-
-
-
-JavaScript
-
-
-  
-December Security Release Summary (node.js), ES7 Proposal: The Pipeline Operator и Explaining few strange behavior of setTimeout() with code snippet
-
-  
-Websocket task queue, The “Blur Up” Technique for Loading Background Images и Twitter’s Heart Animation in Full CSS
-
-  
-Documentation.js - documentation generation system, Viewer - a simple jQuery image viewing plugin и KharkivJS #5 2015 (videos)
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0346.png"/>
-  <itunes:duration>00:26:51</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
