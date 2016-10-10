@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 04 Oct 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 04 Oct 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 10 Oct 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 10 Oct 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>39 выпуск 04 сезона. Battle of Interpreters, React on Rails, Whirly, Hyperloop, KUTE.js, iTunes Remote и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://www.blackbytes.info/2016/10/mri-vs-jruby-vs-rubinius/">Battle of Interpreters: MRI vs JRuby vs Rubinius</a>, <a href="http://janjiss.com/walkthrough-of-my-vimrc-file-for-ruby-development/">Walkthrough of my .vimrc file for Ruby development</a> и <a href="http://collectiveidea.com/blog/archives/2016/10/06/bundlers-multiple-source-security-vulnerability/">Bundler’s Multiple Source Security Vulnerability</a></li>
+  <li><a href="http://www.blazeboy.me/deploy-rails-application-with-docker-compose-and-capistrano.html">Deploy rails application with docker compose and capistrano</a>, <a href="https://medium.com/@eric.programmer/the-sql-alternative-to-counter-caches-59e2098b7d7">The SQL Alternative To Counter Caches</a> и <a href="http://dalibornasevic.com/posts/72-auto-increment-counter-not-persisted-on-disk-with-innodb">Auto-increment counter not persisted on disk with InnoDB</a></li>
+  <li><a href="https://product.reverb.com/react-on-rails-9936283aea07">React on Rails</a>, <a href="http://ruby-hyperloop.io/">Hyperloop - React on Ruby</a> и <a href="https://github.com/janlelis/whirly">Whirly - a simple, colorful and customizable terminal spinner library for Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f">How it feels to learn JavaScript in 2016</a>, <a href="https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce">JavaScript Fatigue Fatigue</a>, <a href="http://www.macwright.org/2016/10/04/everything-is-fine-with-javascript.html">Everything is fine with JavaScript</a> и <a href="https://medium.com/@simonlc/javascript-fatigue-is-not-real-b1580b3bb776">JavaScript fatigue is not real</a></li>
+  <li><a href="http://v8project.blogspot.in/2016/10/fall-cleaning-optimizing-v8-memory.html">Fall cleaning: Optimizing V8 memory consumption</a>, <a href="https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9">Firebase with Redux</a> и <a href="https://rethinkdb.com/blog/rethinkdb-shutdown/">RethinkDB is shutting down</a></li>
+  <li><a href="https://webkit.org/blog/6978/javascript-internationalization-api/">JavaScript Internationalization API</a>, <a href="http://thednp.github.io/kute.js/">KUTE.js - a native Javascript animation engine featuring badass performance</a> и <a href="https://github.com/Siddharth11/iTunes-Remote">iTunes Remote - control iTunes on Mac with other devices on same network</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://www.blackbytes.info/2016/10/mri-vs-jruby-vs-rubinius/">Battle of Interpreters: MRI vs JRuby vs Rubinius</a>, <a href="http://janjiss.com/walkthrough-of-my-vimrc-file-for-ruby-development/">Walkthrough of my .vimrc file for Ruby development</a> и <a href="http://collectiveidea.com/blog/archives/2016/10/06/bundlers-multiple-source-security-vulnerability/">Bundler’s Multiple Source Security Vulnerability</a></li>
+  <li><a href="http://www.blazeboy.me/deploy-rails-application-with-docker-compose-and-capistrano.html">Deploy rails application with docker compose and capistrano</a>, <a href="https://medium.com/@eric.programmer/the-sql-alternative-to-counter-caches-59e2098b7d7">The SQL Alternative To Counter Caches</a> и <a href="http://dalibornasevic.com/posts/72-auto-increment-counter-not-persisted-on-disk-with-innodb">Auto-increment counter not persisted on disk with InnoDB</a></li>
+  <li><a href="https://product.reverb.com/react-on-rails-9936283aea07">React on Rails</a>, <a href="http://ruby-hyperloop.io/">Hyperloop - React on Ruby</a> и <a href="https://github.com/janlelis/whirly">Whirly - a simple, colorful and customizable terminal spinner library for Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f">How it feels to learn JavaScript in 2016</a>, <a href="https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce">JavaScript Fatigue Fatigue</a>, <a href="http://www.macwright.org/2016/10/04/everything-is-fine-with-javascript.html">Everything is fine with JavaScript</a> и <a href="https://medium.com/@simonlc/javascript-fatigue-is-not-real-b1580b3bb776">JavaScript fatigue is not real</a></li>
+  <li><a href="http://v8project.blogspot.in/2016/10/fall-cleaning-optimizing-v8-memory.html">Fall cleaning: Optimizing V8 memory consumption</a>, <a href="https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9">Firebase with Redux</a> и <a href="https://rethinkdb.com/blog/rethinkdb-shutdown/">RethinkDB is shutting down</a></li>
+  <li><a href="https://webkit.org/blog/6978/javascript-internationalization-api/">JavaScript Internationalization API</a>, <a href="http://thednp.github.io/kute.js/">KUTE.js - a native Javascript animation engine featuring badass performance</a> и <a href="https://github.com/Siddharth11/iTunes-Remote">iTunes Remote - control iTunes on Mac with other devices on same network</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Mon, 10 Oct 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/10/10/podcast-04-39.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/10/podcast-04-39.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/175/file/podfm_rwpod_my_39_175.mp3" length="32569547" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/175/file/podfm_rwpod_my_39_175.mp3" fileSize="32569547" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Battle of Interpreters: MRI vs JRuby vs Rubini...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Battle of Interpreters: MRI vs JRuby vs Rubinius, Walkthrough of my .vimrc file for Ruby development и Bundler’s Multiple Source Security Vulnerability
+
+  
+Deploy rails application with docker compose and capistrano, The SQL Alternative To Counter Caches и Auto-increment counter not persisted on disk with InnoDB
+
+  
+React on Rails, Hyperloop - React on Ruby и Whirly - a simple, colorful and customizable terminal spinner library for Ruby
+
+
+
+JavaScript
+
+
+  
+How it feels to learn JavaScript in 2016, JavaScript Fatigue Fatigue, Everything is fine with JavaScript и JavaScript fatigue is not real
+
+  
+Fall cleaning: Optimizing V8 memory consumption, Firebase with Redux и RethinkDB is shutting down
+
+  
+JavaScript Internationalization API, KUTE.js - a native Javascript animation engine featuring badass performance и iTunes Remote - control iTunes on Mac with other devices on same network
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0439.png"/>
+  <itunes:duration>00:33:49</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>38 выпуск 04 сезона. Leaflet 1.0, Concurrency in Ruby 3 with Guilds, 45 Ruby Blogs, Layzr.js, IronNode и прочее</title>
   <description>
@@ -3840,106 +3935,6 @@ Satyr.io - image placeholders with settings, Daterangepicker - date range picker
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/03/0348.png"/>
   <itunes:duration>00:49:28</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>47 выпуск 03 сезона. Ruby 2.2.4, Rails 5.0.0.beta1, Angular 2 Beta, Cass_schema, Math.random(), Linear и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2015/12/16/ruby-2-2-4-released/">Ruby 2.2.4 Released</a>, <a href="http://weblog.rubyonrails.org/2015/12/18/Rails-5-0-beta1/">Rails 5.0.0.beta1: Action Cable, API mode, Rails command</a> и <a href="http://nithinbekal.com/posts/distributed-ruby/">Getting started with Distributed Ruby (DRb)</a></li>
-  <li><a href="http://eftimov.net/rails-tls-hsts-cookies/">Rails, Secure Cookies, HSTS and friends</a>, <a href="https://rossta.net/blog/paginated-resources-in-ruby.html">Handling Paginated Resources in Ruby</a> и <a href="http://www.mikeperham.com/2015/12/14/how-to-test-multithreaded-code/">How to Test Multithreaded Code</a></li>
-  <li><a href="http://www.blackbytes.info/2015/12/ruby-time/">Ruby Time &amp; Date Classes</a>, <a href="http://weblog.jamisbuck.org/2015/12/19/avoiding-call-super-with-callbacks.html">Avoiding “Call Super” with Callbacks</a> и <a href="http://readysteadycode.com/howto-access-the-google-analytics-api-with-ruby">HOWTO access the Google Analytics API with Ruby</a></li>
-  <li><a href="http://www.markphelps.me/2015/12/14/kafka-for-rubyists.html">Kafka for Rubyists - Part 1</a>, <a href="https://github.com/datto/cass_schema">Cass_schema - a gem for managing multiple cassandra schemas across multiple clusters</a> и <a href="https://www.youtube.com/watch?v=dP4U1yI1WZ0">Everything You Know About the GIL is Wrong (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://angularjs.blogspot.com/2015/12/angular-2-beta.html">Angular 2 Beta</a> и <a href="http://v8project.blogspot.com/2015/12/theres-mathrandom-and-then-theres.html">There’s Math.random(), and then there’s Math.random()</a></li>
-  <li><a href="http://www.raymondcamden.com/2015/12/08/parsing-rss-feeds-in-javascript-options">Parsing RSS Feeds in JavaScript – Options</a>, <a href="https://github.com/qgustavor/signed-service-workers">Signed Service Workers</a> и <a href="https://www.youtube.com/watch?v=J6wUmQDQBkw">Benjamin De Cock - Lets move! (video)</a></li>
-  <li><a href="http://csnw.github.io/d3.compose/">D3.compose - compose complex, data-driven visualizations from reusable charts and components with d3</a>, <a href="http://mikaa123.github.io/linear-website/">Linear - ruler app made with Electron</a> и <a href="http://sachinchoolur.github.io/angular-trix/">Angular-Trix - a rich wysiwyg text editor directive for angularjs</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2015/12/16/ruby-2-2-4-released/">Ruby 2.2.4 Released</a>, <a href="http://weblog.rubyonrails.org/2015/12/18/Rails-5-0-beta1/">Rails 5.0.0.beta1: Action Cable, API mode, Rails command</a> и <a href="http://nithinbekal.com/posts/distributed-ruby/">Getting started with Distributed Ruby (DRb)</a></li>
-  <li><a href="http://eftimov.net/rails-tls-hsts-cookies/">Rails, Secure Cookies, HSTS and friends</a>, <a href="https://rossta.net/blog/paginated-resources-in-ruby.html">Handling Paginated Resources in Ruby</a> и <a href="http://www.mikeperham.com/2015/12/14/how-to-test-multithreaded-code/">How to Test Multithreaded Code</a></li>
-  <li><a href="http://www.blackbytes.info/2015/12/ruby-time/">Ruby Time &amp; Date Classes</a>, <a href="http://weblog.jamisbuck.org/2015/12/19/avoiding-call-super-with-callbacks.html">Avoiding “Call Super” with Callbacks</a> и <a href="http://readysteadycode.com/howto-access-the-google-analytics-api-with-ruby">HOWTO access the Google Analytics API with Ruby</a></li>
-  <li><a href="http://www.markphelps.me/2015/12/14/kafka-for-rubyists.html">Kafka for Rubyists - Part 1</a>, <a href="https://github.com/datto/cass_schema">Cass_schema - a gem for managing multiple cassandra schemas across multiple clusters</a> и <a href="https://www.youtube.com/watch?v=dP4U1yI1WZ0">Everything You Know About the GIL is Wrong (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://angularjs.blogspot.com/2015/12/angular-2-beta.html">Angular 2 Beta</a> и <a href="http://v8project.blogspot.com/2015/12/theres-mathrandom-and-then-theres.html">There’s Math.random(), and then there’s Math.random()</a></li>
-  <li><a href="http://www.raymondcamden.com/2015/12/08/parsing-rss-feeds-in-javascript-options">Parsing RSS Feeds in JavaScript – Options</a>, <a href="https://github.com/qgustavor/signed-service-workers">Signed Service Workers</a> и <a href="https://www.youtube.com/watch?v=J6wUmQDQBkw">Benjamin De Cock - Lets move! (video)</a></li>
-  <li><a href="http://csnw.github.io/d3.compose/">D3.compose - compose complex, data-driven visualizations from reusable charts and components with d3</a>, <a href="http://mikaa123.github.io/linear-website/">Linear - ruler app made with Electron</a> и <a href="http://sachinchoolur.github.io/angular-trix/">Angular-Trix - a rich wysiwyg text editor directive for angularjs</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Sun, 20 Dec 2015 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2015/12/20/podcast-03-47.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/12/20/podcast-03-47.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/135/file/podfm_rwpod_my_47.mp3" length="49298728" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/135/file/podfm_rwpod_my_47.mp3" fileSize="49298728" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.2.4 Released, Rails 5.0.0.beta1: Action...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.2.4 Released, Rails 5.0.0.beta1: Action Cable, API mode, Rails command и Getting started with Distributed Ruby (DRb)
-
-  
-Rails, Secure Cookies, HSTS and friends, Handling Paginated Resources in Ruby и How to Test Multithreaded Code
-
-  
-Ruby Time &amp; Date Classes, Avoiding “Call Super” with Callbacks и HOWTO access the Google Analytics API with Ruby
-
-  
-Kafka for Rubyists - Part 1, Cass_schema - a gem for managing multiple cassandra schemas across multiple clusters и Everything You Know About the GIL is Wrong (video)
-
-
-
-JavaScript
-
-
-  
-Angular 2 Beta и There’s Math.random(), and then there’s Math.random()
-
-  
-Parsing RSS Feeds in JavaScript – Options, Signed Service Workers и Benjamin De Cock - Lets move! (video)
-
-  
-D3.compose - compose complex, data-driven visualizations from reusable charts and components with d3, Linear - ruler app made with Electron и Angular-Trix - a rich wysiwyg text editor directive for angularjs
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0347.png"/>
-  <itunes:duration>00:51:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
