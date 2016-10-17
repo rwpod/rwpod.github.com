@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 10 Oct 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 10 Oct 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 17 Oct 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 17 Oct 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,91 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>40 выпуск 04 сезона. Tips for Writing Fast Rails, Yarn, Marionette v3.1.0, You Might Not Need JavaScript, RE:DOM и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://dev.mikamai.com/post/151608679809/euruko-2016-ruby-is-dead-long-live-ruby">Euruko 2016 - Ruby is dead, long live Ruby!</a> и <a href="http://www.ombulabs.com/blog/performance/rails/writing-fast-rails.html">Tips for Writing Fast Rails: Part 1</a></li>
+  <li><a href="http://t-a-w.blogspot.com/2016/10/design-patterns-for-parsing-binary.html">Design patterns for parsing binary files in Ruby</a> и <a href="https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8">10 Modern Software Over-Engineering Mistakes</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://code.facebook.com/posts/1840075619545360">Yarn: A new package manager for JavaScript</a>, <a href="http://blog.marionettejs.com/2016/10/13/v310-release/index.html">Marionette v3.1.0 Released</a>, <a href="http://angularjs.blogspot.com/2016/10/angular-210-now-available.html">Angular 2.1.0</a> и <a href="https://www.christianheilmann.com/2016/10/14/we-need-javascript-to-fix-the-web/">We need JavaScript to fix the web</a></li>
+  <li><a href="https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f">Stupid ES6 tricks</a>, <a href="http://youmightnotneedjs.com/">You Might Not Need JavaScript - examples of common UI elements and interactions with HTML and CSS alone</a>, <a href="http://tesseract.projectnaptha.com/">Tesseract.js - a pure Javascript port of the popular Tesseract OCR engine</a> и <a href="https://redom.js.org/">RE:DOM - Tiny UI library</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://dev.mikamai.com/post/151608679809/euruko-2016-ruby-is-dead-long-live-ruby">Euruko 2016 - Ruby is dead, long live Ruby!</a> и <a href="http://www.ombulabs.com/blog/performance/rails/writing-fast-rails.html">Tips for Writing Fast Rails: Part 1</a></li>
+  <li><a href="http://t-a-w.blogspot.com/2016/10/design-patterns-for-parsing-binary.html">Design patterns for parsing binary files in Ruby</a> и <a href="https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8">10 Modern Software Over-Engineering Mistakes</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://code.facebook.com/posts/1840075619545360">Yarn: A new package manager for JavaScript</a>, <a href="http://blog.marionettejs.com/2016/10/13/v310-release/index.html">Marionette v3.1.0 Released</a>, <a href="http://angularjs.blogspot.com/2016/10/angular-210-now-available.html">Angular 2.1.0</a> и <a href="https://www.christianheilmann.com/2016/10/14/we-need-javascript-to-fix-the-web/">We need JavaScript to fix the web</a></li>
+  <li><a href="https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f">Stupid ES6 tricks</a>, <a href="http://youmightnotneedjs.com/">You Might Not Need JavaScript - examples of common UI elements and interactions with HTML and CSS alone</a>, <a href="http://tesseract.projectnaptha.com/">Tesseract.js - a pure Javascript port of the popular Tesseract OCR engine</a> и <a href="https://redom.js.org/">RE:DOM - Tiny UI library</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Mon, 17 Oct 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/10/17/podcast-04-40.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/17/podcast-04-40.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/176/file/podfm_rwpod_my_40_176.mp3" length="25973089" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/176/file/podfm_rwpod_my_40_176.mp3" fileSize="25973089" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Euruko 2016 - Ruby is dead, long live Ruby! и ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Euruko 2016 - Ruby is dead, long live Ruby! и Tips for Writing Fast Rails: Part 1
+
+  
+Design patterns for parsing binary files in Ruby и 10 Modern Software Over-Engineering Mistakes
+
+
+
+JavaScript
+
+
+  
+Yarn: A new package manager for JavaScript, Marionette v3.1.0 Released, Angular 2.1.0 и We need JavaScript to fix the web
+
+  
+Stupid ES6 tricks, You Might Not Need JavaScript - examples of common UI elements and interactions with HTML and CSS alone, Tesseract.js - a pure Javascript port of the popular Tesseract OCR engine и RE:DOM - Tiny UI library
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0440.png"/>
+  <itunes:duration>00:26:57</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>39 выпуск 04 сезона. Battle of Interpreters, React on Rails, Whirly, Hyperloop, KUTE.js, iTunes Remote и прочее</title>
   <description>
@@ -3840,101 +3925,6 @@ Cannon.js - a lightweight 3D physics engine written in JavaScript, DocSearch - t
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0401.png"/>
   <itunes:duration>01:01:45</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>48 выпуск 03 сезона. Ruby 2.3.0, Rails 5 Attributes, Compiling to WebAssembly, Javascript Fatigue, Satyr.io и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released/">Ruby 2.3.0 Released</a>, <a href="http://dev.mensfeld.pl/2015/12/upgrading-to-ruby-on-rails-5-0-from-rails-4-2-application-use-case/">Upgrading to Ruby on Rails 5.0 from Rails 4.2 – application use case</a> и <a href="http://jakeyesbeck.com/2015/12/20/rails-5-attributes/">Introduction to Rails 5 Attributes</a></li>
-  <li><a href="http://vaidehijoshi.github.io/blog/2015/12/22/composing-microscopic-rails-views-with-cells/">Composing Microscopic Rails Views With Cells</a>, <a href="https://evilmartians.com/chronicles/ruby-2_2-oom">How Ruby 2.2 can cause an out-of-memory server crash</a> и <a href="http://blog.iempire.ru/2015/12/18/simple-rails-encryption/">Simple encryption of ActiveRecord fields</a></li>
-  <li><a href="http://undefined-reference.org/2015/12/26/drying_your_classes_with_options.html">DRY with_options</a>, <a href="http://blog.honeybadger.io/what-does-argv-mean-in-ruby/">How does ARGV get set in Ruby?</a> и <a href="http://www.bioruby.org/">BioRuby - open source bioinformatics library for Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2015/12/compiling-to-webassembly-its-happening/">Compiling to WebAssembly: It’s Happening!</a> и <a href="http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/">Simple Guide to Finding a JavaScript Memory Leak in Node.js</a></li>
-  <li><a href="https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4">Javascript Fatigue</a>, <a href="http://victory.formidable.com/">Victory - an ecosystem of modular data visualization components for React</a> и <a href="https://github.com/heroku/react-refetch">React Refetch - a simple, declarative, and composable way to fetch data for React components</a></li>
-  <li><a href="http://satyr.io/">Satyr.io - image placeholders with settings</a>, <a href="https://sensortower.github.io/daterangepicker/">Daterangepicker - date range picker component</a> и <a href="http://colorify.rocks/">Colorify.js - a simple, customizable, tiny javascript color extractor</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2015/12/25/ruby-2-3-0-released/">Ruby 2.3.0 Released</a>, <a href="http://dev.mensfeld.pl/2015/12/upgrading-to-ruby-on-rails-5-0-from-rails-4-2-application-use-case/">Upgrading to Ruby on Rails 5.0 from Rails 4.2 – application use case</a> и <a href="http://jakeyesbeck.com/2015/12/20/rails-5-attributes/">Introduction to Rails 5 Attributes</a></li>
-  <li><a href="http://vaidehijoshi.github.io/blog/2015/12/22/composing-microscopic-rails-views-with-cells/">Composing Microscopic Rails Views With Cells</a>, <a href="https://evilmartians.com/chronicles/ruby-2_2-oom">How Ruby 2.2 can cause an out-of-memory server crash</a> и <a href="http://blog.iempire.ru/2015/12/18/simple-rails-encryption/">Simple encryption of ActiveRecord fields</a></li>
-  <li><a href="http://undefined-reference.org/2015/12/26/drying_your_classes_with_options.html">DRY with_options</a>, <a href="http://blog.honeybadger.io/what-does-argv-mean-in-ruby/">How does ARGV get set in Ruby?</a> и <a href="http://www.bioruby.org/">BioRuby - open source bioinformatics library for Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2015/12/compiling-to-webassembly-its-happening/">Compiling to WebAssembly: It’s Happening!</a> и <a href="http://www.alexkras.com/simple-guide-to-finding-a-javascript-memory-leak-in-node-js/">Simple Guide to Finding a JavaScript Memory Leak in Node.js</a></li>
-  <li><a href="https://medium.com/@ericclemmons/javascript-fatigue-48d4011b6fc4">Javascript Fatigue</a>, <a href="http://victory.formidable.com/">Victory - an ecosystem of modular data visualization components for React</a> и <a href="https://github.com/heroku/react-refetch">React Refetch - a simple, declarative, and composable way to fetch data for React components</a></li>
-  <li><a href="http://satyr.io/">Satyr.io - image placeholders with settings</a>, <a href="https://sensortower.github.io/daterangepicker/">Daterangepicker - date range picker component</a> и <a href="http://colorify.rocks/">Colorify.js - a simple, customizable, tiny javascript color extractor</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Sun, 27 Dec 2015 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2015/12/27/podcast-03-48.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2015/12/27/podcast-03-48.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/136/file/podfm_rwpod_my_48.mp3" length="47592478" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/136/file/podfm_rwpod_my_48.mp3" fileSize="47592478" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.3.0 Released, Upgrading to Ruby on Rail...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.3.0 Released, Upgrading to Ruby on Rails 5.0 from Rails 4.2 – application use case и Introduction to Rails 5 Attributes
-
-  
-Composing Microscopic Rails Views With Cells, How Ruby 2.2 can cause an out-of-memory server crash и Simple encryption of ActiveRecord fields
-
-  
-DRY with_options, How does ARGV get set in Ruby? и BioRuby - open source bioinformatics library for Ruby
-
-
-
-JavaScript
-
-
-  
-Compiling to WebAssembly: It’s Happening! и Simple Guide to Finding a JavaScript Memory Leak in Node.js
-
-  
-Javascript Fatigue, Victory - an ecosystem of modular data visualization components for React и React Refetch - a simple, declarative, and composable way to fetch data for React components
-
-  
-Satyr.io - image placeholders with settings, Daterangepicker - date range picker component и Colorify.js - a simple, customizable, tiny javascript color extractor
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/03/0348.png"/>
-  <itunes:duration>00:49:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
