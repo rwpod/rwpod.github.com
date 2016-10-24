@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 17 Oct 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 17 Oct 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 25 Oct 2016 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 25 Oct 2016 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,122 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>41 выпуск 04 сезона. DDoS Attack on DNS, Npm 4.0.0, Overcoming Primitive Obsession, JS Foundation, Pulp, TestCafe и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.hackread.com/ddos-attack-dns-sites-suffer-outage/">DDoS Attack on DNS; Major sites including GitHub PSN, Twitter Suffering Outage</a>, <a href="http://blog.bigbinary.com/2016/10/24/hash-compact-and-hash-compact-now-part-of-ruby-2-4.html">Hash#compact and Hash#compact! now part of Ruby 2.4</a> и <a href="https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf">Unlocking Horizontal Scalability in Our Web Serving Tier</a></li>
+  <li><a href="http://www.techoalien.com/2016/10/ruby-memoization-using-singleton-method.html">Ruby Memoization using Singleton Method</a>, <a href="http://stevenyue.com/blogs/tracking-sql-queries-in-rails/">Tracking SQL queries in Rails</a> и <a href="http://naturaily.com/blog/post/ruby-on-rails-implementation-of-a-ranking-system-using-postgresql-window-functions">Ruby on Rails implementation of a ranking system using PostgreSQL window functions</a></li>
+  <li><a href="https://blog.dnsimple.com/2016/10/overcoming-primitive-obsession/">Overcoming Primitive Obsession</a>, <a href="http://techblog.netflix.com/2016/10/netflix-chaos-monkey-upgraded.html">Netflix Chaos Monkey Upgraded</a> и <a href="http://blogs.microsoft.com/next/2016/10/18/historic-achievement-microsoft-researchers-reach-human-parity-conversational-speech-recognition/">Historic Achievement: Microsoft researchers reach human parity in conversational speech recognition</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/npm/npm/releases/tag/v4.0.0">Npm 4.0.0 released</a>, <a href="http://thenewstack.io/javascript-grows-gets-foundation/">JavaScript Grows Up and Gets Its Own Foundation</a>, <a href="https://www.sitepoint.com/yarn-vs-npm/">Yarn vs npm: Everything You Need to Know</a> и <a href="https://www.berriart.com/blog/2016/10/npm-yarn-benchmark/">NPM vs Yarn benchmark</a></li>
+  <li><a href="https://medium.com/front-end-hacking/your-code-is-probably-good-enough-5d15b4df5ac6">Your code is probably good enough</a>, <a href="https://about.gitlab.com/2016/10/20/why-we-chose-vue/">Why We Chose Vue.js</a> и <a href="https://blog.jscrambler.com/hashing-algorithms/">Hashing Algorithms</a></li>
+  <li><a href="http://pulp.glitchpack.com/">Pulp - create responsive email templates</a>, <a href="https://devexpress.github.io/testcafe/">TestCafe - a pure node.js solution for testing web apps</a>, <a href="http://purplejs.io/">PurpleJS - a JavaScript application framework running on the Java Virtual Machine</a> и <a href="http://www.cachep2p.com/">CacheP2P - a highly distributed cache platform based on WebTorrent and runs only in the browser</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://www.facebook.com/events/343671329299576/">Ruby Meditation #12</a></li>
+  <li><a href="https://www.facebook.com/events/556566704546455/">Elixir Meetup 3.1</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.hackread.com/ddos-attack-dns-sites-suffer-outage/">DDoS Attack on DNS; Major sites including GitHub PSN, Twitter Suffering Outage</a>, <a href="http://blog.bigbinary.com/2016/10/24/hash-compact-and-hash-compact-now-part-of-ruby-2-4.html">Hash#compact and Hash#compact! now part of Ruby 2.4</a> и <a href="https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf">Unlocking Horizontal Scalability in Our Web Serving Tier</a></li>
+  <li><a href="http://www.techoalien.com/2016/10/ruby-memoization-using-singleton-method.html">Ruby Memoization using Singleton Method</a>, <a href="http://stevenyue.com/blogs/tracking-sql-queries-in-rails/">Tracking SQL queries in Rails</a> и <a href="http://naturaily.com/blog/post/ruby-on-rails-implementation-of-a-ranking-system-using-postgresql-window-functions">Ruby on Rails implementation of a ranking system using PostgreSQL window functions</a></li>
+  <li><a href="https://blog.dnsimple.com/2016/10/overcoming-primitive-obsession/">Overcoming Primitive Obsession</a>, <a href="http://techblog.netflix.com/2016/10/netflix-chaos-monkey-upgraded.html">Netflix Chaos Monkey Upgraded</a> и <a href="http://blogs.microsoft.com/next/2016/10/18/historic-achievement-microsoft-researchers-reach-human-parity-conversational-speech-recognition/">Historic Achievement: Microsoft researchers reach human parity in conversational speech recognition</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/npm/npm/releases/tag/v4.0.0">Npm 4.0.0 released</a>, <a href="http://thenewstack.io/javascript-grows-gets-foundation/">JavaScript Grows Up and Gets Its Own Foundation</a>, <a href="https://www.sitepoint.com/yarn-vs-npm/">Yarn vs npm: Everything You Need to Know</a> и <a href="https://www.berriart.com/blog/2016/10/npm-yarn-benchmark/">NPM vs Yarn benchmark</a></li>
+  <li><a href="https://medium.com/front-end-hacking/your-code-is-probably-good-enough-5d15b4df5ac6">Your code is probably good enough</a>, <a href="https://about.gitlab.com/2016/10/20/why-we-chose-vue/">Why We Chose Vue.js</a> и <a href="https://blog.jscrambler.com/hashing-algorithms/">Hashing Algorithms</a></li>
+  <li><a href="http://pulp.glitchpack.com/">Pulp - create responsive email templates</a>, <a href="https://devexpress.github.io/testcafe/">TestCafe - a pure node.js solution for testing web apps</a>, <a href="http://purplejs.io/">PurpleJS - a JavaScript application framework running on the Java Virtual Machine</a> и <a href="http://www.cachep2p.com/">CacheP2P - a highly distributed cache platform based on WebTorrent and runs only in the browser</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://www.facebook.com/events/343671329299576/">Ruby Meditation #12</a></li>
+  <li><a href="https://www.facebook.com/events/556566704546455/">Elixir Meetup 3.1</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 25 Oct 2016 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2016/10/25/podcast-04-41.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/25/podcast-04-41.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/177/file/podfm_rwpod_my_41_177.mp3" length="36794018" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/177/file/podfm_rwpod_my_41_177.mp3" fileSize="36794018" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  DDoS Attack on DNS; Major sites including GitH...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+DDoS Attack on DNS; Major sites including GitHub PSN, Twitter Suffering Outage, Hash#compact and Hash#compact! now part of Ruby 2.4 и Unlocking Horizontal Scalability in Our Web Serving Tier
+
+  
+Ruby Memoization using Singleton Method, Tracking SQL queries in Rails и Ruby on Rails implementation of a ranking system using PostgreSQL window functions
+
+  
+Overcoming Primitive Obsession, Netflix Chaos Monkey Upgraded и Historic Achievement: Microsoft researchers reach human parity in conversational speech recognition
+
+
+
+JavaScript
+
+
+  
+Npm 4.0.0 released, JavaScript Grows Up and Gets Its Own Foundation, Yarn vs npm: Everything You Need to Know и NPM vs Yarn benchmark
+
+  
+Your code is probably good enough, Why We Chose Vue.js и Hashing Algorithms
+
+  
+Pulp - create responsive email templates, TestCafe - a pure node.js solution for testing web apps, PurpleJS - a JavaScript application framework running on the Java Virtual Machine и CacheP2P - a highly distributed cache platform based on WebTorrent and runs only in the browser
+
+
+
+Conferences
+
+
+  Ruby Meditation #12
+  Elixir Meetup 3.1
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0441.png"/>
+  <itunes:duration>00:51:06</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>40 выпуск 04 сезона. Tips for Writing Fast Rails, Yarn, Marionette v3.1.0, You Might Not Need JavaScript, RE:DOM и прочее</title>
   <description>
@@ -3820,111 +3936,6 @@ Centralized State Design Patterns и React.run - The fastest way to create React
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0402.png"/>
   <itunes:duration>00:41:38</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>01 выпуск 04 сезона. ROM 1.0.0, Assets For Lotus, Bytecode cache in Ruby 2.3, The Website Obesity Crisis, Searchkit и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://rom-rb.org/blog/2016/01/06/rom-1-0-0-released/">ROM 1.0.0 Released</a>, <a href="http://lotusrb.org/blog/2015/12/29/introducing-assets.html">Introducing Assets For Lotus</a> и <a href="http://rimuru.lunanet.gr.jp/blog/cruby-bytecode-cache-is-experimentally-released">Bytecode cache is experimentally released in Ruby 2.3</a></li>
-  <li><a href="https://medium.com/when-code-explodes/stream-comments-with-rails-5-and-actioncable-49176b8797c8">Stream Comments with Rails 5 and ActionCable</a>, <a href="https://rossta.net/blog/using-rspec-metadata.html">Using RSpec Metadata</a> и <a href="http://eftimov.net/refactoring-smelly-parameters-lists/">Refactoring in Ruby: Smelly Parameters Lists</a></li>
-  <li><a href="https://medium.com/little-programming-joys/how-to-compare-version-strings-in-ruby-ced0916a4b71">How to compare version strings in Ruby</a>, <a href="https://medium.com/little-programming-joys/the-filter-clause-in-postgres-9-4-3dd327d3c852">The FILTER clause in Postgres 9.4</a> и <a href="https://medium.com/little-programming-joys/ordering-by-nulls-on-postgres-57314b8285ca">Ordering by nulls on Postgres</a></li>
-  <li><a href="http://masa331.github.io/2016/01/06/roda-etag-caching-gotcha.html">ETag caching gotcha in Roda + Nginx</a>, <a href="http://redningja.com/dev/rubys-object-tap-a-better-use/">Ruby’s Object#tap: a better use</a> и <a href="http://rubyfu.net/">Rubyfu - Ruby for hacker book</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://www.sitepoint.com/javascript-2015-review/">JavaScript: 2015 in Review</a>, <a href="https://medium.com/javascript-scene/10-most-recommended-javascript-scene-articles-of-2015-292be655d6cc">10 Most Recommended JavaScript Scene Articles of 2015</a>, <a href="http://www.2ality.com/2016/01/web-technologies-2015.html">Looking back on 2015: six exciting web technologies</a> и <a href="https://medium.com/@cramforce/2016-will-be-the-year-of-concurrency-on-the-web-c39b1e99b30f">2016 will be the year of concurrency on the web</a></li>
-  <li><a href="http://idlewords.com/talks/website_obesity.htm">The Website Obesity Crisis</a>, <a href="https://medium.com/ben-and-dion/web-components-are-dead-3988b31c380a">Web Components Are Dead?</a> и <a href="https://addyosmani.com/blog/getting-started-with-progressive-web-apps/">Getting started with Progressive Web Apps</a></li>
-  <li><a href="https://github.com/mawie81/electron-window-state">Electron-window-state - a library to store and restore window sizes and positions for your Electron app</a>, <a href="http://searchkit.co/">Searchkit is a suite of React components that communicate directly with your Elasticsearch cluster</a> и <a href="http://djfarrelly.github.io/MailDev/">MailDev - SMTP Server + Web Interface for viewing and testing emails during development</a></li>
-  <li><a href="http://schteppe.github.io/cannon.js/">Cannon.js - a lightweight 3D physics engine written in JavaScript</a>, <a href="http://community.algolia.com/docsearch/">DocSearch - the easiest way to add search to your documentation</a> и <a href="http://ellisonleao.github.io/sharer.js/">Sharer.js - create custom social share elements on DOM objects</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://rom-rb.org/blog/2016/01/06/rom-1-0-0-released/">ROM 1.0.0 Released</a>, <a href="http://lotusrb.org/blog/2015/12/29/introducing-assets.html">Introducing Assets For Lotus</a> и <a href="http://rimuru.lunanet.gr.jp/blog/cruby-bytecode-cache-is-experimentally-released">Bytecode cache is experimentally released in Ruby 2.3</a></li>
-  <li><a href="https://medium.com/when-code-explodes/stream-comments-with-rails-5-and-actioncable-49176b8797c8">Stream Comments with Rails 5 and ActionCable</a>, <a href="https://rossta.net/blog/using-rspec-metadata.html">Using RSpec Metadata</a> и <a href="http://eftimov.net/refactoring-smelly-parameters-lists/">Refactoring in Ruby: Smelly Parameters Lists</a></li>
-  <li><a href="https://medium.com/little-programming-joys/how-to-compare-version-strings-in-ruby-ced0916a4b71">How to compare version strings in Ruby</a>, <a href="https://medium.com/little-programming-joys/the-filter-clause-in-postgres-9-4-3dd327d3c852">The FILTER clause in Postgres 9.4</a> и <a href="https://medium.com/little-programming-joys/ordering-by-nulls-on-postgres-57314b8285ca">Ordering by nulls on Postgres</a></li>
-  <li><a href="http://masa331.github.io/2016/01/06/roda-etag-caching-gotcha.html">ETag caching gotcha in Roda + Nginx</a>, <a href="http://redningja.com/dev/rubys-object-tap-a-better-use/">Ruby’s Object#tap: a better use</a> и <a href="http://rubyfu.net/">Rubyfu - Ruby for hacker book</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://www.sitepoint.com/javascript-2015-review/">JavaScript: 2015 in Review</a>, <a href="https://medium.com/javascript-scene/10-most-recommended-javascript-scene-articles-of-2015-292be655d6cc">10 Most Recommended JavaScript Scene Articles of 2015</a>, <a href="http://www.2ality.com/2016/01/web-technologies-2015.html">Looking back on 2015: six exciting web technologies</a> и <a href="https://medium.com/@cramforce/2016-will-be-the-year-of-concurrency-on-the-web-c39b1e99b30f">2016 will be the year of concurrency on the web</a></li>
-  <li><a href="http://idlewords.com/talks/website_obesity.htm">The Website Obesity Crisis</a>, <a href="https://medium.com/ben-and-dion/web-components-are-dead-3988b31c380a">Web Components Are Dead?</a> и <a href="https://addyosmani.com/blog/getting-started-with-progressive-web-apps/">Getting started with Progressive Web Apps</a></li>
-  <li><a href="https://github.com/mawie81/electron-window-state">Electron-window-state - a library to store and restore window sizes and positions for your Electron app</a>, <a href="http://searchkit.co/">Searchkit is a suite of React components that communicate directly with your Elasticsearch cluster</a> и <a href="http://djfarrelly.github.io/MailDev/">MailDev - SMTP Server + Web Interface for viewing and testing emails during development</a></li>
-  <li><a href="http://schteppe.github.io/cannon.js/">Cannon.js - a lightweight 3D physics engine written in JavaScript</a>, <a href="http://community.algolia.com/docsearch/">DocSearch - the easiest way to add search to your documentation</a> и <a href="http://ellisonleao.github.io/sharer.js/">Sharer.js - create custom social share elements on DOM objects</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 11 Jan 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/01/11/podcast-04-01.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/01/11/podcast-04-01.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/137/file/podfm_rwpod_my_1_137.mp3" length="59382382" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/137/file/podfm_rwpod_my_1_137.mp3" fileSize="59382382" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  ROM 1.0.0 Released, Introducing Assets For Lot...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-ROM 1.0.0 Released, Introducing Assets For Lotus и Bytecode cache is experimentally released in Ruby 2.3
-
-  
-Stream Comments with Rails 5 and ActionCable, Using RSpec Metadata и Refactoring in Ruby: Smelly Parameters Lists
-
-  
-How to compare version strings in Ruby, The FILTER clause in Postgres 9.4 и Ordering by nulls on Postgres
-
-  
-ETag caching gotcha in Roda + Nginx, Ruby’s Object#tap: a better use и Rubyfu - Ruby for hacker book
-
-
-
-JavaScript
-
-
-  
-JavaScript: 2015 in Review, 10 Most Recommended JavaScript Scene Articles of 2015, Looking back on 2015: six exciting web technologies и 2016 will be the year of concurrency on the web
-
-  
-The Website Obesity Crisis, Web Components Are Dead? и Getting started with Progressive Web Apps
-
-  
-Electron-window-state - a library to store and restore window sizes and positions for your Electron app, Searchkit is a suite of React components that communicate directly with your Elasticsearch cluster и MailDev - SMTP Server + Web Interface for viewing and testing emails during development
-
-  
-Cannon.js - a lightweight 3D physics engine written in JavaScript, DocSearch - the easiest way to add search to your documentation и Sharer.js - create custom social share elements on DOM objects
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0401.png"/>
-  <itunes:duration>01:01:45</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
