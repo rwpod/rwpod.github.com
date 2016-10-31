@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 25 Oct 2016 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 25 Oct 2016 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 01 Nov 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>42 выпуск 04 сезона. HexaPDF, Helpy, TZOffset, Redux without React, Next.js, Swip, Shave, MathJax, JS Ipsum и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/10/28/string-array-concat-and-string-prepend-take-multiple-arguments-in-ruby-2-4.html">String#concat, Array#concat and String#prepend take multiple arguments in Ruby 2.4</a>, <a href="http://ducktypelabs.com/do-i-really-need-to-upgrade-my-rails-apps/">Do I really need to patch my Rails apps? (Understanding CVE-2016-6316)</a> и <a href="https://robots.thoughtbot.com/is-your-site-leaking-password-reset-links">Is Your Site Leaking Password Reset Links?</a></li>
+  <li><a href="http://brandonhilkert.com/blog/monitoring-sidekiq-using-aws-lambda-and-slack/">Monitoring Sidekiq Using AWS Lambda and Slack</a>, <a href="https://blog.rebased.pl/2016/10/25/computer-vision-2.html">A Photo Gallery that Automatically Tags Your Images</a> и <a href="http://blog.ragnarson.com/2016/10/26/validation-outside-activemodel.html">Validation outside ActiveModel</a></li>
+  <li><a href="http://gettalong.org/blog/2016/hexapdf-code-and-first-version-released.html">HexaPDF Code and First Version Released</a>, <a href="https://helpy.io/blog/helpy-1.0/">Helpy is 1.0!</a>, <a href="https://github.com/molybdenum-99/tz_offset">TZOffset - simple abstraction of a timezone offset</a> и <a href="http://www.rubypigeon.com/posts/screencast-debugging-with-byebug/">Screencast: Debugging With Byebug</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://nodejs.org/en/blog/release/v7.0.0/">Node v7.0.0</a>, <a href="https://hacks.mozilla.org/2016/10/whats-new-in-indexeddb-2-0/">What’s new in IndexedDB 2.0?</a>, <a href="https://medium.com/js-dojo/vue-js-is-easier-to-learn-than-jquery-abbbb9c12cf8">Vue.js is easier to learn than jQuery</a> и <a href="https://envato.com/blog/rising-trends-in-javascript/">Rising Trends in In JavaScript: A Comprehensive Guide to Libraries &amp; Frameworks</a></li>
+  <li><a href="https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/">Redux without React — State Management in Vanilla JavaScript</a>, <a href="https://medium.com/@shakiba/redux-is-overhyped-3ad6e42b7730">Redux is Overhyped</a> и <a href="https://workiva.github.io/over_react/">OverReact - React for Dart</a></li>
+  <li><a href="https://zeit.co/blog/next">Next.js – small framework for server-rendered universal JavaScript apps</a>, <a href="https://www.mathjax.org/">MathJax - beautiful math in all browsers</a>, <a href="https://github.com/paulsonnentag/swip">Swip - a library to create multi device experiments</a>, <a href="https://dollarshaveclub.github.io/shave/">Shave - a  javascript plugin that truncates multi-line text to fit within an html element based on a set max-height</a> и <a href="http://jsipsum.lunarlogic.io/">JS Ipsum - generate your own JS gibberish</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/10/28/string-array-concat-and-string-prepend-take-multiple-arguments-in-ruby-2-4.html">String#concat, Array#concat and String#prepend take multiple arguments in Ruby 2.4</a>, <a href="http://ducktypelabs.com/do-i-really-need-to-upgrade-my-rails-apps/">Do I really need to patch my Rails apps? (Understanding CVE-2016-6316)</a> и <a href="https://robots.thoughtbot.com/is-your-site-leaking-password-reset-links">Is Your Site Leaking Password Reset Links?</a></li>
+  <li><a href="http://brandonhilkert.com/blog/monitoring-sidekiq-using-aws-lambda-and-slack/">Monitoring Sidekiq Using AWS Lambda and Slack</a>, <a href="https://blog.rebased.pl/2016/10/25/computer-vision-2.html">A Photo Gallery that Automatically Tags Your Images</a> и <a href="http://blog.ragnarson.com/2016/10/26/validation-outside-activemodel.html">Validation outside ActiveModel</a></li>
+  <li><a href="http://gettalong.org/blog/2016/hexapdf-code-and-first-version-released.html">HexaPDF Code and First Version Released</a>, <a href="https://helpy.io/blog/helpy-1.0/">Helpy is 1.0!</a>, <a href="https://github.com/molybdenum-99/tz_offset">TZOffset - simple abstraction of a timezone offset</a> и <a href="http://www.rubypigeon.com/posts/screencast-debugging-with-byebug/">Screencast: Debugging With Byebug</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://nodejs.org/en/blog/release/v7.0.0/">Node v7.0.0</a>, <a href="https://hacks.mozilla.org/2016/10/whats-new-in-indexeddb-2-0/">What’s new in IndexedDB 2.0?</a>, <a href="https://medium.com/js-dojo/vue-js-is-easier-to-learn-than-jquery-abbbb9c12cf8">Vue.js is easier to learn than jQuery</a> и <a href="https://envato.com/blog/rising-trends-in-javascript/">Rising Trends in In JavaScript: A Comprehensive Guide to Libraries &amp; Frameworks</a></li>
+  <li><a href="https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/">Redux without React — State Management in Vanilla JavaScript</a>, <a href="https://medium.com/@shakiba/redux-is-overhyped-3ad6e42b7730">Redux is Overhyped</a> и <a href="https://workiva.github.io/over_react/">OverReact - React for Dart</a></li>
+  <li><a href="https://zeit.co/blog/next">Next.js – small framework for server-rendered universal JavaScript apps</a>, <a href="https://www.mathjax.org/">MathJax - beautiful math in all browsers</a>, <a href="https://github.com/paulsonnentag/swip">Swip - a library to create multi device experiments</a>, <a href="https://dollarshaveclub.github.io/shave/">Shave - a  javascript plugin that truncates multi-line text to fit within an html element based on a set max-height</a> и <a href="http://jsipsum.lunarlogic.io/">JS Ipsum - generate your own JS gibberish</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 01 Nov 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/11/01/podcast-04-42.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/01/podcast-04-42.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/178/file/podfm_rwpod_my_42_178.mp3" length="41889690" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/178/file/podfm_rwpod_my_42_178.mp3" fileSize="41889690" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  String#concat, Array#concat and String#prepend...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+String#concat, Array#concat and String#prepend take multiple arguments in Ruby 2.4, Do I really need to patch my Rails apps? (Understanding CVE-2016-6316) и Is Your Site Leaking Password Reset Links?
+
+  
+Monitoring Sidekiq Using AWS Lambda and Slack, A Photo Gallery that Automatically Tags Your Images и Validation outside ActiveModel
+
+  
+HexaPDF Code and First Version Released, Helpy is 1.0!, TZOffset - simple abstraction of a timezone offset и Screencast: Debugging With Byebug
+
+
+
+JavaScript
+
+
+  
+Node v7.0.0, What’s new in IndexedDB 2.0?, Vue.js is easier to learn than jQuery и Rising Trends in In JavaScript: A Comprehensive Guide to Libraries &amp; Frameworks
+
+  
+Redux without React — State Management in Vanilla JavaScript, Redux is Overhyped и OverReact - React for Dart
+
+  
+Next.js – small framework for server-rendered universal JavaScript apps, MathJax - beautiful math in all browsers, Swip - a library to create multi device experiments, Shave - a  javascript plugin that truncates multi-line text to fit within an html element based on a set max-height и JS Ipsum - generate your own JS gibberish
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0442.png"/>
+  <itunes:duration>00:58:02</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>41 выпуск 04 сезона. DDoS Attack on DNS, Npm 4.0.0, Overcoming Primitive Obsession, JS Foundation, Pulp, TestCafe и прочее</title>
   <description>
@@ -3841,101 +3936,6 @@ Pressure.js is a JavaScript library for handling both Force Touch and 3D Touch t
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0403.png"/>
   <itunes:duration>01:14:48</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>02 выпуск 04 сезона. Future of Rails, Scenic, 10th Anniversary of jQuery, ChakraCore, React.run и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://thepracticaldev.com/dhh-on-the-future-of-rails">David Heinemeier Hansson on the Future of Rails</a> и <a href="http://tenderlovemaking.com/2015/01/23/my-experience-with-minitest-and-rspec.html">My experience with Minitest and RSpec</a></li>
-  <li><a href="https://robots.thoughtbot.com/announcing-scenic--versioned-database-views-for-rails">Announcing Scenic - Versioned Database Views for Rails</a> и <a href="https://github.com/customink/secondbase">Seamless second database integration for Rails</a></li>
-  <li><a href="http://jakeyesbeck.com/2016/01/03/passages/">Passages Rails Engine</a> и <a href="https://medium.com/@vincedevendra/transforming-hashes-which-way-is-best-8f2122577984">Transforming Hashes — Which Way is Best?</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://ejohn.org/blog/10th-anniversary-of-jquery/">10th Anniversary of jQuery</a>, <a href="http://blog.jquery.com/2016/01/08/jquery-2-2-and-1-12-released/">jQuery 2.2 and 1.12 Released</a>, <a href="http://blog.jquery.com/2016/01/14/jquery-3-0-beta-released/">jQuery 3.0 Beta</a>, <a href="https://github.com/lodash/lodash/releases/tag/4.0.0/">Lodash v4.0.0</a> и <a href="https://github.com/Microsoft/ChakraCore">ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge</a></li>
-  <li><a href="https://medium.com/@stilkov/why-i-hate-your-single-page-app-f08bb4ff9134">Why I hate your Single Page App</a> и <a href="https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-when-const-isnt-constant">Constant Variables in JavaScript, or: When “const” Isn’t Constant</a></li>
-  <li><a href="http://lucasmreis.github.io/blog/centralized-state-design-patterns/">Centralized State Design Patterns</a> и <a href="http://www.react.run/VJizwkL_x/1">React.run - The fastest way to create React components, right in the browser</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://thepracticaldev.com/dhh-on-the-future-of-rails">David Heinemeier Hansson on the Future of Rails</a> и <a href="http://tenderlovemaking.com/2015/01/23/my-experience-with-minitest-and-rspec.html">My experience with Minitest and RSpec</a></li>
-  <li><a href="https://robots.thoughtbot.com/announcing-scenic--versioned-database-views-for-rails">Announcing Scenic - Versioned Database Views for Rails</a> и <a href="https://github.com/customink/secondbase">Seamless second database integration for Rails</a></li>
-  <li><a href="http://jakeyesbeck.com/2016/01/03/passages/">Passages Rails Engine</a> и <a href="https://medium.com/@vincedevendra/transforming-hashes-which-way-is-best-8f2122577984">Transforming Hashes — Which Way is Best?</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://ejohn.org/blog/10th-anniversary-of-jquery/">10th Anniversary of jQuery</a>, <a href="http://blog.jquery.com/2016/01/08/jquery-2-2-and-1-12-released/">jQuery 2.2 and 1.12 Released</a>, <a href="http://blog.jquery.com/2016/01/14/jquery-3-0-beta-released/">jQuery 3.0 Beta</a>, <a href="https://github.com/lodash/lodash/releases/tag/4.0.0/">Lodash v4.0.0</a> и <a href="https://github.com/Microsoft/ChakraCore">ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge</a></li>
-  <li><a href="https://medium.com/@stilkov/why-i-hate-your-single-page-app-f08bb4ff9134">Why I hate your Single Page App</a> и <a href="https://blog.mariusschulz.com/2015/12/31/constant-variables-in-javascript-or-when-const-isnt-constant">Constant Variables in JavaScript, or: When “const” Isn’t Constant</a></li>
-  <li><a href="http://lucasmreis.github.io/blog/centralized-state-design-patterns/">Centralized State Design Patterns</a> и <a href="http://www.react.run/VJizwkL_x/1">React.run - The fastest way to create React components, right in the browser</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 19 Jan 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/01/19/podcast-04-02.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/01/19/podcast-04-02.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/138/file/podfm_rwpod_my_2_138.mp3" length="40076542" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/138/file/podfm_rwpod_my_2_138.mp3" fileSize="40076542" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  David Heinemeier Hansson on the Future of Rail...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-David Heinemeier Hansson on the Future of Rails и My experience with Minitest and RSpec
-
-  
-Announcing Scenic - Versioned Database Views for Rails и Seamless second database integration for Rails
-
-  
-Passages Rails Engine и Transforming Hashes — Which Way is Best?
-
-
-
-JavaScript
-
-
-  
-10th Anniversary of jQuery, jQuery 2.2 and 1.12 Released, jQuery 3.0 Beta, Lodash v4.0.0 и ChakraCore is the core part of the Chakra Javascript engine that powers Microsoft Edge
-
-  
-Why I hate your Single Page App и Constant Variables in JavaScript, or: When “const” Isn’t Constant
-
-  
-Centralized State Design Patterns и React.run - The fastest way to create React components, right in the browser
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0402.png"/>
-  <itunes:duration>00:41:38</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
