@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 01 Nov 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Tue, 08 Nov 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 08 Nov 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>43 выпуск 04 сезона. Duck typing vs type safety in Ruby, Rack::Attack, Migrating to Webpack 2, Egjs, Turbo.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/11/04/ruby-2-4-implements-regexp-match-without-polluting-global-variables.html">Ruby 2.4 implements Regexp#match? without polluting global variables</a>, <a href="http://blog.bigbinary.com/2016/11/02/ruby-2-4-introduces-enumerable-sum.html">Ruby 2.4 implements Enumerable#sum</a> и <a href="http://solnic.eu/2016/11/02/duck-typing-vs-type-safety-in-ruby.html">Duck typing vs type safety in Ruby</a></li>
+  <li><a href="https://christoph.luppri.ch/articles/2016/11/06/getting-rid-of-before_filter-from-your-applicationcontroller-with-cells/">Getting rid of before_filter from your ApplicationController with cells</a> и <a href="https://blog.dnsimple.com/2016/11/purposes-and-properties-of-value-objects/">Purposes &amp; Properties of Value Objects</a></li>
+  <li><a href="https://blog.ragnarson.com/2016/11/02/introduction-to-fragment-caching-in-rails.html">Introduction to fragment caching in Rails</a> и <a href="https://www.driftingruby.com/episodes/rails-api-throttling-with-rack-attack">Rails API - Throttling with Rack::Attack</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://cssence.com/blog/2016-11-the-javascript-wars">The JavaScript Wars: How did we get here?</a>, <a href="https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d">What programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ</a> и <a href="http://v8project.blogspot.ru/2016/10/webassembly-browser-preview.html">WebAssembly Browser Preview</a></li>
+  <li><a href="http://www.quirksmode.org/blog/archives/2016/11/viewports_resea.html">Viewports research, part umpteen</a>, <a href="https://blog.hitchhq.com/graphql-3-reasons-not-to-use-it-7715f60cb934">GraphQL: 3 reasons not to use it</a> и <a href="http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/">Migrating to Webpack 2</a></li>
+  <li><a href="https://www.twilio.com/blog/2016/11/a-simple-way-to-ocr-images-from-a-url-with-tesseract-js.html">Tesseract.js: How To OCR Remote Images from a URL in Node</a>, <a href="https://naver.github.io/egjs/">Egjs - a jQuery-based JavaScript library consisting of UI interactions, effects, and utilities</a>, <a href="https://turbo.github.io/">Turbo.js - a small library that makes it easier to perform complex calculations that can be done in parallel</a> и <a href="https://github.com/jareware/css-architecture">8 simple rules for a robust, scalable CSS architecture</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/11/04/ruby-2-4-implements-regexp-match-without-polluting-global-variables.html">Ruby 2.4 implements Regexp#match? without polluting global variables</a>, <a href="http://blog.bigbinary.com/2016/11/02/ruby-2-4-introduces-enumerable-sum.html">Ruby 2.4 implements Enumerable#sum</a> и <a href="http://solnic.eu/2016/11/02/duck-typing-vs-type-safety-in-ruby.html">Duck typing vs type safety in Ruby</a></li>
+  <li><a href="https://christoph.luppri.ch/articles/2016/11/06/getting-rid-of-before_filter-from-your-applicationcontroller-with-cells/">Getting rid of before_filter from your ApplicationController with cells</a> и <a href="https://blog.dnsimple.com/2016/11/purposes-and-properties-of-value-objects/">Purposes &amp; Properties of Value Objects</a></li>
+  <li><a href="https://blog.ragnarson.com/2016/11/02/introduction-to-fragment-caching-in-rails.html">Introduction to fragment caching in Rails</a> и <a href="https://www.driftingruby.com/episodes/rails-api-throttling-with-rack-attack">Rails API - Throttling with Rack::Attack</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://cssence.com/blog/2016-11-the-javascript-wars">The JavaScript Wars: How did we get here?</a>, <a href="https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-%CA%87d%C4%B1%C9%B9%C9%94s%C9%90%CA%8C%C9%90%C9%BE-%C9%B9%C7%9D%CA%8Dsu%C9%90-19a33b0a467d">What programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ</a> и <a href="http://v8project.blogspot.ru/2016/10/webassembly-browser-preview.html">WebAssembly Browser Preview</a></li>
+  <li><a href="http://www.quirksmode.org/blog/archives/2016/11/viewports_resea.html">Viewports research, part umpteen</a>, <a href="https://blog.hitchhq.com/graphql-3-reasons-not-to-use-it-7715f60cb934">GraphQL: 3 reasons not to use it</a> и <a href="http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/">Migrating to Webpack 2</a></li>
+  <li><a href="https://www.twilio.com/blog/2016/11/a-simple-way-to-ocr-images-from-a-url-with-tesseract-js.html">Tesseract.js: How To OCR Remote Images from a URL in Node</a>, <a href="https://naver.github.io/egjs/">Egjs - a jQuery-based JavaScript library consisting of UI interactions, effects, and utilities</a>, <a href="https://turbo.github.io/">Turbo.js - a small library that makes it easier to perform complex calculations that can be done in parallel</a> и <a href="https://github.com/jareware/css-architecture">8 simple rules for a robust, scalable CSS architecture</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 08 Nov 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/11/08/podcast-04-43.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/08/podcast-04-43.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/179/file/podfm_rwpod_my_43_179.mp3" length="20994674" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/179/file/podfm_rwpod_my_43_179.mp3" fileSize="20994674" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.4 implements Regexp#match? without poll...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.4 implements Regexp#match? without polluting global variables, Ruby 2.4 implements Enumerable#sum и Duck typing vs type safety in Ruby
+
+  
+Getting rid of before_filter from your ApplicationController with cells и Purposes &amp; Properties of Value Objects
+
+  
+Introduction to fragment caching in Rails и Rails API - Throttling with Rack::Attack
+
+
+
+JavaScript
+
+
+  
+The JavaScript Wars: How did we get here?, What programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ и WebAssembly Browser Preview
+
+  
+Viewports research, part umpteen, GraphQL: 3 reasons not to use it и Migrating to Webpack 2
+
+  
+Tesseract.js: How To OCR Remote Images from a URL in Node, Egjs - a jQuery-based JavaScript library consisting of UI interactions, effects, and utilities, Turbo.js - a small library that makes it easier to perform complex calculations that can be done in parallel и 8 simple rules for a robust, scalable CSS architecture
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0443.png"/>
+  <itunes:duration>00:29:01</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>42 выпуск 04 сезона. HexaPDF, Helpy, TZOffset, Redux without React, Next.js, Swip, Shave, MathJax, JS Ipsum и прочее</title>
   <description>
@@ -3831,111 +3926,6 @@ Awesome Marionette.js, MediumEditor - a lightweight inline text editor inspired 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0404.png"/>
   <itunes:duration>00:36:48</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>03 выпуск 04 сезона. New Rails identity, Thread Safety With Ruby, DeltaDB, Pressure.js, Feature.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/1/19/new-rails-identity/">New Rails identity</a>, <a href="http://rubyonrails.org/doctrine/">The Rails Doctrine</a> и <a href="http://hanamirb.org/blog/2016/01/22/lotus-is-now-hanami.html">Lotus is now Hanami</a></li>
-  <li><a href="https://infinum.co/the-capsized-eight/articles/analyzing-rubygems-stats-v2015">Trends in Ruby - analyzing rubygems stats for 2015</a> и <a href="https://blog.heroku.com/archives/2016/1/22/rails-5-beta-upgrade">Upgrading to Rails 5 Beta - The Hard Way</a></li>
-  <li><a href="http://lucaguidi.com/2014/03/27/thread-safety-with-ruby.html">Thread Safety With Ruby</a> и <a href="http://eftimov.net/reactive-programming-rxruby/">Understanding Reactive Programming with RxRuby</a></li>
-  <li><a href="https://rossta.net/blog/whats-new-in-ruby-2-3-enumerable.html">What’s new in Ruby 2.3 Enumerable</a>, <a href="http://www.markphelps.me/2016/01/17/kafka-for-rubyists-2.html">Kafka for Rubyists - Part 2</a> и <a href="https://need.computer/2016/01/21/22-vim-plugins-every-ruby-developer-should-use.html">22 Vim Plugins every (Ruby) Developer should use</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.brave.com/">Brave</a> (<a href="http://www.opennet.ru/opennews/art.shtml?num=43711">подробности</a>), <a href="https://habrahabr.ru/post/275779/">Microsoft отправила запрос на аппрув реализации поддержки ChakraCore в Node.js наряду с движком V8</a> (<a href="https://github.com/nodejs/node/pull/4765">pull request</a>) и <a href="http://blog.apcelent.com/why-use-nodejs-tutorial.html">Why The Hell Would I Use Node.js?</a></li>
-  <li><a href="https://medium.com/swlh/the-sad-state-of-entitled-web-developers-e4f314764dd">The Sad State of Entitled Web Developers</a>, <a href="http://thepracticaldev.com/javascript-fatigue-buzzword">Do Not Let JavaScript Fatigue Become A Buzzword</a> и <a href="https://medium.com/@redgeoff/getting-started-with-deltadb-137359111282">Getting Started With DeltaDB</a></li>
-  <li><a href="https://camjackson.net/post/9-things-every-reactjs-beginner-should-know">9 things every React.js beginner should know</a>, <a href="https://quickleft.com/blog/redux-plain-english-workflow/">Redux in Plain English: A Workflow</a>, <a href="https://medium.com/@puppybits/react-without-flux-a76236d1e1d">ReactJS is better without Flux/Redux/RxJS</a> и <a href="https://getsiphon.com/blog/2016/01/20/future-of-app-development/">Thoughts on the future of mobile app development</a></li>
-  <li><a href="http://pressurejs.com/">Pressure.js is a JavaScript library for handling both Force Touch and 3D Touch through a single API</a>, <a href="http://www.jspsych.org/">jsPsych is a JavaScript library for creating and running behavioral experiments in a web browser</a> и <a href="http://featurejs.com/">Feature.js is a fast, simple and lightweight browser feature detection library in 1kb</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/1/19/new-rails-identity/">New Rails identity</a>, <a href="http://rubyonrails.org/doctrine/">The Rails Doctrine</a> и <a href="http://hanamirb.org/blog/2016/01/22/lotus-is-now-hanami.html">Lotus is now Hanami</a></li>
-  <li><a href="https://infinum.co/the-capsized-eight/articles/analyzing-rubygems-stats-v2015">Trends in Ruby - analyzing rubygems stats for 2015</a> и <a href="https://blog.heroku.com/archives/2016/1/22/rails-5-beta-upgrade">Upgrading to Rails 5 Beta - The Hard Way</a></li>
-  <li><a href="http://lucaguidi.com/2014/03/27/thread-safety-with-ruby.html">Thread Safety With Ruby</a> и <a href="http://eftimov.net/reactive-programming-rxruby/">Understanding Reactive Programming with RxRuby</a></li>
-  <li><a href="https://rossta.net/blog/whats-new-in-ruby-2-3-enumerable.html">What’s new in Ruby 2.3 Enumerable</a>, <a href="http://www.markphelps.me/2016/01/17/kafka-for-rubyists-2.html">Kafka for Rubyists - Part 2</a> и <a href="https://need.computer/2016/01/21/22-vim-plugins-every-ruby-developer-should-use.html">22 Vim Plugins every (Ruby) Developer should use</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.brave.com/">Brave</a> (<a href="http://www.opennet.ru/opennews/art.shtml?num=43711">подробности</a>), <a href="https://habrahabr.ru/post/275779/">Microsoft отправила запрос на аппрув реализации поддержки ChakraCore в Node.js наряду с движком V8</a> (<a href="https://github.com/nodejs/node/pull/4765">pull request</a>) и <a href="http://blog.apcelent.com/why-use-nodejs-tutorial.html">Why The Hell Would I Use Node.js?</a></li>
-  <li><a href="https://medium.com/swlh/the-sad-state-of-entitled-web-developers-e4f314764dd">The Sad State of Entitled Web Developers</a>, <a href="http://thepracticaldev.com/javascript-fatigue-buzzword">Do Not Let JavaScript Fatigue Become A Buzzword</a> и <a href="https://medium.com/@redgeoff/getting-started-with-deltadb-137359111282">Getting Started With DeltaDB</a></li>
-  <li><a href="https://camjackson.net/post/9-things-every-reactjs-beginner-should-know">9 things every React.js beginner should know</a>, <a href="https://quickleft.com/blog/redux-plain-english-workflow/">Redux in Plain English: A Workflow</a>, <a href="https://medium.com/@puppybits/react-without-flux-a76236d1e1d">ReactJS is better without Flux/Redux/RxJS</a> и <a href="https://getsiphon.com/blog/2016/01/20/future-of-app-development/">Thoughts on the future of mobile app development</a></li>
-  <li><a href="http://pressurejs.com/">Pressure.js is a JavaScript library for handling both Force Touch and 3D Touch through a single API</a>, <a href="http://www.jspsych.org/">jsPsych is a JavaScript library for creating and running behavioral experiments in a web browser</a> и <a href="http://featurejs.com/">Feature.js is a fast, simple and lightweight browser feature detection library in 1kb</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 25 Jan 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/01/25/podcast-04-03.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/01/25/podcast-04-03.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/139/file/podfm_rwpod_my_3_139.mp3" length="71905035" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/139/file/podfm_rwpod_my_3_139.mp3" fileSize="71905035" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  New Rails identity, The Rails Doctrine и Lotus...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-New Rails identity, The Rails Doctrine и Lotus is now Hanami
-
-  
-Trends in Ruby - analyzing rubygems stats for 2015 и Upgrading to Rails 5 Beta - The Hard Way
-
-  
-Thread Safety With Ruby и Understanding Reactive Programming with RxRuby
-
-  
-What’s new in Ruby 2.3 Enumerable, Kafka for Rubyists - Part 2 и 22 Vim Plugins every (Ruby) Developer should use
-
-
-
-JavaScript
-
-
-  
-Brave (подробности), Microsoft отправила запрос на аппрув реализации поддержки ChakraCore в Node.js наряду с движком V8 (pull request) и Why The Hell Would I Use Node.js?
-
-  
-The Sad State of Entitled Web Developers, Do Not Let JavaScript Fatigue Become A Buzzword и Getting Started With DeltaDB
-
-  
-9 things every React.js beginner should know, Redux in Plain English: A Workflow, ReactJS is better without Flux/Redux/RxJS и Thoughts on the future of mobile app development
-
-  
-Pressure.js is a JavaScript library for handling both Force Touch and 3D Touch through a single API, jsPsych is a JavaScript library for creating and running behavioral experiments in a web browser и Feature.js is a fast, simple and lightweight browser feature detection library in 1kb
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0403.png"/>
-  <itunes:duration>01:14:48</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
