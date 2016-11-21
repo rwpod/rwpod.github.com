@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 15 Nov 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Tue, 15 Nov 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 21 Nov 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 21 Nov 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>45 выпуск 04 сезона. Ruby 2.3.2, Ruby+OMR JIT, React 15.4.0, How to win in Web Framework Benchmarks, AsciiMorph и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2016/11/15/ruby-2-3-2-released/">Ruby 2.3.2 Released</a>, <a href="http://blog.bigbinary.com/2016/11/21/passing-block-with-enumerable-chunk-is-not-mandatory-in-ruby-2-4.html">Passing block with Enumerable#chunk is not mandatory in Ruby 2.4</a> и <a href="https://developer.ibm.com/open/2016/11/18/introducing-ruby-jit/">Introducing the Ruby+OMR JIT</a></li>
+  <li><a href="https://blog.gitresolve.com/ruby-elixir-nodejs-tools-comparison-matrix-316e278793f9">Ruby Elixir Nodejs Tools Comparison Matrix</a> и <a href="http://blog.bigbinary.com/2016/11/15/hunting-down-a-memory-leak-in-shoryuken.html">Hunting down a memory leak in shoryuken</a></li>
+  <li><a href="https://bluespot.io/2016/11/21/duck-typing.html">Duck Typing</a> и <a href="https://github.com/halogenandtoast/monban">Monban - rails authentication made simple</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html">React v15.4.0</a>, <a href="https://medium.com/javascript-mantra/next-js-53e9cf4da5af">Next.Js - is it the next big thing in JavaScript?</a> и <a href="https://github.com/nuxt/nuxt.js">Nuxt.js - a minimalistic framework for server-rendered Vue applications</a></li>
+  <li><a href="https://medium.com/@localvoid/how-to-win-in-web-framework-benchmarks-8bc31af76ce7">How to win in Web Framework Benchmarks</a>, <a href="https://medium.com/@sAbakumoff/es6-is-great-until-its-not-f398339d0af6">ES6 is great, but use it cautiously</a> и <a href="https://blog.instant2fa.com/choosing-ember-over-react-in-2016-41a2e7fd341">Choosing Ember over React in 2016</a></li>
+  <li><a href="https://css-tricks.com/lazy-loading-responsive-adsense-ads/">Lazy Loading Responsive Adsense Ads</a>, <a href="https://github.com/tholman/ascii-morph">AsciiMorph - a small stand alone javascript library for rendering ascii art and creations into elements, allowing for them to be changed out with a morphing transition</a> и <a href="http://exploringjs.com/">JavaScript books by Dr. Axel Rauschmayer</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2016/11/15/ruby-2-3-2-released/">Ruby 2.3.2 Released</a>, <a href="http://blog.bigbinary.com/2016/11/21/passing-block-with-enumerable-chunk-is-not-mandatory-in-ruby-2-4.html">Passing block with Enumerable#chunk is not mandatory in Ruby 2.4</a> и <a href="https://developer.ibm.com/open/2016/11/18/introducing-ruby-jit/">Introducing the Ruby+OMR JIT</a></li>
+  <li><a href="https://blog.gitresolve.com/ruby-elixir-nodejs-tools-comparison-matrix-316e278793f9">Ruby Elixir Nodejs Tools Comparison Matrix</a> и <a href="http://blog.bigbinary.com/2016/11/15/hunting-down-a-memory-leak-in-shoryuken.html">Hunting down a memory leak in shoryuken</a></li>
+  <li><a href="https://bluespot.io/2016/11/21/duck-typing.html">Duck Typing</a> и <a href="https://github.com/halogenandtoast/monban">Monban - rails authentication made simple</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html">React v15.4.0</a>, <a href="https://medium.com/javascript-mantra/next-js-53e9cf4da5af">Next.Js - is it the next big thing in JavaScript?</a> и <a href="https://github.com/nuxt/nuxt.js">Nuxt.js - a minimalistic framework for server-rendered Vue applications</a></li>
+  <li><a href="https://medium.com/@localvoid/how-to-win-in-web-framework-benchmarks-8bc31af76ce7">How to win in Web Framework Benchmarks</a>, <a href="https://medium.com/@sAbakumoff/es6-is-great-until-its-not-f398339d0af6">ES6 is great, but use it cautiously</a> и <a href="https://blog.instant2fa.com/choosing-ember-over-react-in-2016-41a2e7fd341">Choosing Ember over React in 2016</a></li>
+  <li><a href="https://css-tricks.com/lazy-loading-responsive-adsense-ads/">Lazy Loading Responsive Adsense Ads</a>, <a href="https://github.com/tholman/ascii-morph">AsciiMorph - a small stand alone javascript library for rendering ascii art and creations into elements, allowing for them to be changed out with a morphing transition</a> и <a href="http://exploringjs.com/">JavaScript books by Dr. Axel Rauschmayer</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Mon, 21 Nov 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/11/21/podcast-04-45.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/21/podcast-04-45.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/181/file/podfm_rwpod_my_45_181.mp3" length="36708877" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/181/file/podfm_rwpod_my_45_181.mp3" fileSize="36708877" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.3.2 Released, Passing block with Enumer...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.3.2 Released, Passing block with Enumerable#chunk is not mandatory in Ruby 2.4 и Introducing the Ruby+OMR JIT
+
+  
+Ruby Elixir Nodejs Tools Comparison Matrix и Hunting down a memory leak in shoryuken
+
+  
+Duck Typing и Monban - rails authentication made simple
+
+
+
+JavaScript
+
+
+  
+React v15.4.0, Next.Js - is it the next big thing in JavaScript? и Nuxt.js - a minimalistic framework for server-rendered Vue applications
+
+  
+How to win in Web Framework Benchmarks, ES6 is great, but use it cautiously и Choosing Ember over React in 2016
+
+  
+Lazy Loading Responsive Adsense Ads, AsciiMorph - a small stand alone javascript library for rendering ascii art and creations into elements, allowing for them to be changed out with a morphing transition и JavaScript books by Dr. Axel Rauschmayer
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0445.png"/>
+  <itunes:duration>00:38:08</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>44 выпуск 04 сезона. Ruby 2.4 Binding#irb, GeoSpatial Search, Build Pacman, Whitestorm.js, Sprite Spirit, Alex.js, Indent.js и прочее</title>
   <description>
@@ -3821,101 +3916,6 @@ MJML: the only framework that makes responsive-email easy, Angular 2 Style Guide
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0406.png"/>
   <itunes:duration>00:29:02</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>05 выпуск 04 сезона. Rails 5.0.0.beta2, Angular 1.5.0, Scientist, Abbrev, ES2015 Proxies, jQuery.sheet и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/2/2/Rails-5-0-beta2/">Rails 5.0.0.beta2: Slashed Action Cable dependencies, fixes galore</a>, <a href="http://githubengineering.com/scientist/">Scientist: Measure Twice, Cut Over Once</a> и <a href="http://blog.bigbinary.com/2016/02/02/activerecord-relation-cache-key.html">Caching result sets and collection in Rails 5</a></li>
-  <li><a href="http://6ftdan.com/allyourdev/2016/02/02/ruby-bindings-across-inheritance/">Ruby: Bindings Across Inheritance</a>, <a href="http://masa331.github.io/2016/02/01/ruby_abbrev_from_standard_lib.html">Abbrev from ruby standard lib</a> и <a href="https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html">I am a puts debuggerer</a></li>
-  <li><a href="https://rossta.net/blog/recurring-events-in-ruby.html">Recurring events in Ruby - introducing the Montrose gem</a>, <a href="https://github.com/wojtekmach/value_inspect">ValueInspect - provides implementation of #inspect that is more readable</a> и <a href="https://github.com/907th/datetime-scopes">Datetime-scopes - date/time scopes for ActiveRecord models</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://angularjs.blogspot.com/2016/02/angular-150-ennoblement-facilitation.html">Angular 1.5.0 - ennoblement-facilitation has been released!</a>, <a href="https://developers.google.com/web/updates/2016/02/es2015-proxies">Introducing ES2015 Proxies</a> и <a href="https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016">Investigating the overhead cost of compiled es2015</a></li>
-  <li><a href="https://developers.google.com/web/updates/2016/01/mediarecorder">Record audio and video with MediaRecorder</a> и <a href="https://alemangui.github.io/blog//2015/12/26/ramp-to-value.html">Web Audio, the ugly click and the human ear</a></li>
-  <li><a href="http://www.testmycss.com/">Test your CSS Performance</a>, <a href="http://spreadsheets.github.io/jQuery.sheet/">jQuery.sheet - Easy &amp; Wicked Fast spreadsheets for the web</a>, <a href="http://chromakode.github.io/isolated-core/">Isolated Core - a library for seamless in-page cold updates using iframes</a> и <a href="http://grapesjs.com/">GrapesJS - Free and Open source Web Template Editor</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/2/2/Rails-5-0-beta2/">Rails 5.0.0.beta2: Slashed Action Cable dependencies, fixes galore</a>, <a href="http://githubengineering.com/scientist/">Scientist: Measure Twice, Cut Over Once</a> и <a href="http://blog.bigbinary.com/2016/02/02/activerecord-relation-cache-key.html">Caching result sets and collection in Rails 5</a></li>
-  <li><a href="http://6ftdan.com/allyourdev/2016/02/02/ruby-bindings-across-inheritance/">Ruby: Bindings Across Inheritance</a>, <a href="http://masa331.github.io/2016/02/01/ruby_abbrev_from_standard_lib.html">Abbrev from ruby standard lib</a> и <a href="https://tenderlovemaking.com/2016/02/05/i-am-a-puts-debuggerer.html">I am a puts debuggerer</a></li>
-  <li><a href="https://rossta.net/blog/recurring-events-in-ruby.html">Recurring events in Ruby - introducing the Montrose gem</a>, <a href="https://github.com/wojtekmach/value_inspect">ValueInspect - provides implementation of #inspect that is more readable</a> и <a href="https://github.com/907th/datetime-scopes">Datetime-scopes - date/time scopes for ActiveRecord models</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://angularjs.blogspot.com/2016/02/angular-150-ennoblement-facilitation.html">Angular 1.5.0 - ennoblement-facilitation has been released!</a>, <a href="https://developers.google.com/web/updates/2016/02/es2015-proxies">Introducing ES2015 Proxies</a> и <a href="https://github.com/samccone/The-cost-of-transpiling-es2015-in-2016">Investigating the overhead cost of compiled es2015</a></li>
-  <li><a href="https://developers.google.com/web/updates/2016/01/mediarecorder">Record audio and video with MediaRecorder</a> и <a href="https://alemangui.github.io/blog//2015/12/26/ramp-to-value.html">Web Audio, the ugly click and the human ear</a></li>
-  <li><a href="http://www.testmycss.com/">Test your CSS Performance</a>, <a href="http://spreadsheets.github.io/jQuery.sheet/">jQuery.sheet - Easy &amp; Wicked Fast spreadsheets for the web</a>, <a href="http://chromakode.github.io/isolated-core/">Isolated Core - a library for seamless in-page cold updates using iframes</a> и <a href="http://grapesjs.com/">GrapesJS - Free and Open source Web Template Editor</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 08 Feb 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/02/08/podcast-04-05.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/02/08/podcast-04-05.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/141/file/podfm_rwpod_my_5_141.mp3" length="57301121" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/141/file/podfm_rwpod_my_5_141.mp3" fileSize="57301121" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.0.0.beta2: Slashed Action Cable depend...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.0.0.beta2: Slashed Action Cable dependencies, fixes galore, Scientist: Measure Twice, Cut Over Once и Caching result sets and collection in Rails 5
-
-  
-Ruby: Bindings Across Inheritance, Abbrev from ruby standard lib и I am a puts debuggerer
-
-  
-Recurring events in Ruby - introducing the Montrose gem, ValueInspect - provides implementation of #inspect that is more readable и Datetime-scopes - date/time scopes for ActiveRecord models
-
-
-
-JavaScript
-
-
-  
-Angular 1.5.0 - ennoblement-facilitation has been released!, Introducing ES2015 Proxies и Investigating the overhead cost of compiled es2015
-
-  
-Record audio and video with MediaRecorder и Web Audio, the ugly click and the human ear
-
-  
-Test your CSS Performance, jQuery.sheet - Easy &amp; Wicked Fast spreadsheets for the web, Isolated Core - a library for seamless in-page cold updates using iframes и GrapesJS - Free and Open source Web Template Editor
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0405.png"/>
-  <itunes:duration>00:59:35</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
