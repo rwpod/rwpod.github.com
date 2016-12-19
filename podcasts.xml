@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 12 Dec 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 12 Dec 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 19 Dec 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Dec 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod-podcasts" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>48 выпуск 04 сезона. Ruby 2.4.0-rc1, Rake without Rails, ReadSource, Angular 4.0, React-Redux 5.0.0, Vuetify, Voca и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2016/12/12/ruby-2-4-0-rc1-released/">Ruby 2.4.0-rc1 Released</a> и <a href="http://blog.bigbinary.com/2016/12/13/ruby-2-4-adds-comparable-clamp-method.html">Ruby 2.4 adds Comparable#clamp method</a></li>
+  <li><a href="https://blog.fazibear.me/processing-audio-with-ruby-330796afd06">Real-time Audio Processing with Ruby</a> и <a href="http://blog.testdouble.com/posts/2016-12-15-rake-without-rails.html">Rake without Rails</a></li>
+  <li><a href="https://bogdanvlviv.github.io/posts/ruby/patterns/design-patterns-in-ruby.html">Design Patterns in Ruby</a>, <a href="https://github.com/arbox/nlp-with-ruby">Practical Natural Language Processing done in Ruby</a> и <a href="https://github.com/danielpclark/read_source">ReadSource - open any Ruby method right into your VIM editor</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://angularjs.blogspot.com/2016/12/ok-let-me-explain-its-going-to-be.html">Ok… let me explain: it’s going to be Angular 4.0, or just Angular</a>, <a href="https://github.com/reactjs/react-redux/releases/tag/v5.0.0">React-Redux 5.0.0 released</a> и <a href="http://blog.deveo.com/ember-2-10-and-glimmer-2-performance-improvements-2/">Ember 2.10 and Glimmer 2 performance improvements</a></li>
+  <li><a href="https://scotch.io/tutorials/browser-resource-hinting-with-prefetch-preconnect-and-prerender">Browser Resource Hinting with Prefetch, Preconnect, and Prerender</a>, <a href="http://calendar.perfplanet.com/2016/prefer-defer-over-async/">Prefer DEFER Over ASYNC</a> и <a href="https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8">Who said javascript was easy ?</a></li>
+  <li><a href="https://vuetifyjs.com/">Vuetify - a component framework for Vue.js 2</a>, <a href="https://vocajs.com/">Voca - the ultimate JavaScript string library</a>, <a href="https://github.com/ragingwind/learning-pwa">Learning Progressive Web App</a> и <a href="http://desmonding.me/zooming/">Zooming - image zoom that makes sense</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2016/12/12/ruby-2-4-0-rc1-released/">Ruby 2.4.0-rc1 Released</a> и <a href="http://blog.bigbinary.com/2016/12/13/ruby-2-4-adds-comparable-clamp-method.html">Ruby 2.4 adds Comparable#clamp method</a></li>
+  <li><a href="https://blog.fazibear.me/processing-audio-with-ruby-330796afd06">Real-time Audio Processing with Ruby</a> и <a href="http://blog.testdouble.com/posts/2016-12-15-rake-without-rails.html">Rake without Rails</a></li>
+  <li><a href="https://bogdanvlviv.github.io/posts/ruby/patterns/design-patterns-in-ruby.html">Design Patterns in Ruby</a>, <a href="https://github.com/arbox/nlp-with-ruby">Practical Natural Language Processing done in Ruby</a> и <a href="https://github.com/danielpclark/read_source">ReadSource - open any Ruby method right into your VIM editor</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://angularjs.blogspot.com/2016/12/ok-let-me-explain-its-going-to-be.html">Ok… let me explain: it’s going to be Angular 4.0, or just Angular</a>, <a href="https://github.com/reactjs/react-redux/releases/tag/v5.0.0">React-Redux 5.0.0 released</a> и <a href="http://blog.deveo.com/ember-2-10-and-glimmer-2-performance-improvements-2/">Ember 2.10 and Glimmer 2 performance improvements</a></li>
+  <li><a href="https://scotch.io/tutorials/browser-resource-hinting-with-prefetch-preconnect-and-prerender">Browser Resource Hinting with Prefetch, Preconnect, and Prerender</a>, <a href="http://calendar.perfplanet.com/2016/prefer-defer-over-async/">Prefer DEFER Over ASYNC</a> и <a href="https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8">Who said javascript was easy ?</a></li>
+  <li><a href="https://vuetifyjs.com/">Vuetify - a component framework for Vue.js 2</a>, <a href="https://vocajs.com/">Voca - the ultimate JavaScript string library</a>, <a href="https://github.com/ragingwind/learning-pwa">Learning Progressive Web App</a> и <a href="http://desmonding.me/zooming/">Zooming - image zoom that makes sense</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Mon, 19 Dec 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/12/19/podcast-04-48.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/12/19/podcast-04-48.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/184/file/podfm_rwpod_my_48_184.mp3" length="33378830" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/184/file/podfm_rwpod_my_48_184.mp3" fileSize="33378830" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.4.0-rc1 Released и Ruby 2.4 adds Compar...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.4.0-rc1 Released и Ruby 2.4 adds Comparable#clamp method
+
+  
+Real-time Audio Processing with Ruby и Rake without Rails
+
+  
+Design Patterns in Ruby, Practical Natural Language Processing done in Ruby и ReadSource - open any Ruby method right into your VIM editor
+
+
+
+JavaScript
+
+
+  
+Ok… let me explain: it’s going to be Angular 4.0, or just Angular, React-Redux 5.0.0 released и Ember 2.10 and Glimmer 2 performance improvements
+
+  
+Browser Resource Hinting with Prefetch, Preconnect, and Prerender, Prefer DEFER Over ASYNC и Who said javascript was easy ?
+
+  
+Vuetify - a component framework for Vue.js 2, Voca - the ultimate JavaScript string library, Learning Progressive Web App и Zooming - image zoom that makes sense
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0448.png"/>
+  <itunes:duration>00:34:40</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>47 выпуск 04 сезона. Rails 5.0.1.rc1, TypeScript 2.1, Angular 2.3.0, 9 New Features in Ruby 2.4, TypeORM, Ng2d3 и прочее</title>
   <description>
@@ -3840,101 +3935,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0409.png"/>
   <itunes:duration>00:58:37</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>08 выпуск 04 сезона. To gem, or not to gem, Mrusty, Table flipper, Preload: What Is It Good For?, Draft.js, FlippyJS, CSSCO и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/02/24/support-plan-of-ruby-2-0-0-and-2-1/">Support plans for Ruby 2.0.0 and Ruby 2.1</a> и <a href="http://blog.bigbinary.com/2016/02/26/rails-5-allows-configuring-queue-name-for-mailers">Rails 5 allows configuring queue name for mailers</a></li>
-  <li><a href="https://engineering.heroku.com/blogs/2016-02-18-speeding-up-sprockets/">Speeding up Sprockets</a>, <a href="https://robots.thoughtbot.com/to-gem-or-not-to-gem">To gem, or not to gem</a> и <a href="https://blog.arkency.com/2016/02/using-anonymous-modules-and-prepend-to-work-with-generated-code/">Using anonymous modules and prepend to work with generated code</a></li>
-  <li><a href="https://github.com/anima-engine/mrusty">Mrusty - mruby safe bindings for Rust</a>, <a href="http://ngx.mruby.org/">Ngx_mruby - is a fast and memory-efficient TCP Load Balancing and Web Server Extension Mechanism Using Scripting Language mruby for nginx</a> и <a href="https://github.com/iridakos/table_flipper">Table flipper (╯°□°）╯︵ ┻━┻ - a useless gem that prepends the table flipper on Exception messages</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/blog/2112-delivering-octicons-with-svg">Delivering Octicons with SVG</a>, <a href="https://css-tricks.com/squigglevision-in-css-and-svg/">Squigglevision</a> и <a href="https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/">Preload: What Is It Good For?</a></li>
-  <li><a href="http://facebook.github.io/draft-js/">Draft.js - rich text editor framework for React</a>, <a href="http://birjolaxew.github.io/flippy.js/">FlippyJS - FLIP animation helper; animate DOM changes with ease</a>, <a href="http://mrrio.github.io/jsPDF/">jsPDF - HTML5 JavaScript PDF generation library</a> и <a href="http://www.cssco.co/">CSSCO - photographic filters made with css</a></li>
-  <li><a href="http://copy.sh/v86/">V86 is a x86 emulator build on node that can run in your browser</a>, <a href="https://github.com/dthree/cash/">Cash - a cross-platform implementation of Unix shell commands written in pure ES6</a>, <a href="http://ricostacruz.com/scour/">Scour.js - traverse objects and arrays immutably</a> и <a href="https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY#reactjsconf2016">React.js Conf 2016 (videos)</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/02/24/support-plan-of-ruby-2-0-0-and-2-1/">Support plans for Ruby 2.0.0 and Ruby 2.1</a> и <a href="http://blog.bigbinary.com/2016/02/26/rails-5-allows-configuring-queue-name-for-mailers">Rails 5 allows configuring queue name for mailers</a></li>
-  <li><a href="https://engineering.heroku.com/blogs/2016-02-18-speeding-up-sprockets/">Speeding up Sprockets</a>, <a href="https://robots.thoughtbot.com/to-gem-or-not-to-gem">To gem, or not to gem</a> и <a href="https://blog.arkency.com/2016/02/using-anonymous-modules-and-prepend-to-work-with-generated-code/">Using anonymous modules and prepend to work with generated code</a></li>
-  <li><a href="https://github.com/anima-engine/mrusty">Mrusty - mruby safe bindings for Rust</a>, <a href="http://ngx.mruby.org/">Ngx_mruby - is a fast and memory-efficient TCP Load Balancing and Web Server Extension Mechanism Using Scripting Language mruby for nginx</a> и <a href="https://github.com/iridakos/table_flipper">Table flipper (╯°□°）╯︵ ┻━┻ - a useless gem that prepends the table flipper on Exception messages</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/blog/2112-delivering-octicons-with-svg">Delivering Octicons with SVG</a>, <a href="https://css-tricks.com/squigglevision-in-css-and-svg/">Squigglevision</a> и <a href="https://www.smashingmagazine.com/2016/02/preload-what-is-it-good-for/">Preload: What Is It Good For?</a></li>
-  <li><a href="http://facebook.github.io/draft-js/">Draft.js - rich text editor framework for React</a>, <a href="http://birjolaxew.github.io/flippy.js/">FlippyJS - FLIP animation helper; animate DOM changes with ease</a>, <a href="http://mrrio.github.io/jsPDF/">jsPDF - HTML5 JavaScript PDF generation library</a> и <a href="http://www.cssco.co/">CSSCO - photographic filters made with css</a></li>
-  <li><a href="http://copy.sh/v86/">V86 is a x86 emulator build on node that can run in your browser</a>, <a href="https://github.com/dthree/cash/">Cash - a cross-platform implementation of Unix shell commands written in pure ES6</a>, <a href="http://ricostacruz.com/scour/">Scour.js - traverse objects and arrays immutably</a> и <a href="https://www.youtube.com/playlist?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY#reactjsconf2016">React.js Conf 2016 (videos)</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 29 Feb 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/02/29/podcast-04-08.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/02/29/podcast-04-08.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/144/file/podfm_rwpod_my_8_144.mp3" length="22518778" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/144/file/podfm_rwpod_my_8_144.mp3" fileSize="22518778" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Support plans for Ruby 2.0.0 and Ruby 2.1 и Ra...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Support plans for Ruby 2.0.0 and Ruby 2.1 и Rails 5 allows configuring queue name for mailers
-
-  
-Speeding up Sprockets, To gem, or not to gem и Using anonymous modules and prepend to work with generated code
-
-  
-Mrusty - mruby safe bindings for Rust, Ngx_mruby - is a fast and memory-efficient TCP Load Balancing and Web Server Extension Mechanism Using Scripting Language mruby for nginx и Table flipper (╯°□°）╯︵ ┻━┻ - a useless gem that prepends the table flipper on Exception messages
-
-
-
-JavaScript
-
-
-  
-Delivering Octicons with SVG, Squigglevision и Preload: What Is It Good For?
-
-  
-Draft.js - rich text editor framework for React, FlippyJS - FLIP animation helper; animate DOM changes with ease, jsPDF - HTML5 JavaScript PDF generation library и CSSCO - photographic filters made with css
-
-  
-V86 is a x86 emulator build on node that can run in your browser, Cash - a cross-platform implementation of Unix shell commands written in pure ES6, Scour.js - traverse objects and arrays immutably и React.js Conf 2016 (videos)
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0408.png"/>
-  <itunes:duration>00:23:21</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
