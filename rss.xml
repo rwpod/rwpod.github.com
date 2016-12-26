@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 19 Dec 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 19 Dec 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 26 Dec 2016 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Dec 2016 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,89 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>49 выпуск 04 сезона. Ruby 2.4.0, Rails 5.0.1, AnyCable, Sidekiq on Production, JavaScript: 2016 in Review, HoloJS и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2016/12/25/ruby-2-4-0-released/">Ruby 2.4.0 Released</a>, <a href="http://nithinbekal.com/posts/ruby-2-4-features/">What’s new in Ruby 2.4?</a>, <a href="http://blog.bigbinary.com/2016/12/21/ruby-2.4-adds-matchdata-values-at-for-extracting-named-and-positional-capture-groups.html">Ruby 2.4 adds support for extracting named capture groups using MatchData#values_at</a>, <a href="http://blog.bigbinary.com/2016/12/19/ruby-2-4-adds-infinite-method-to-numeric.html">Ruby 2.4 adds infinite? and finite? methods to Numeric</a> и <a href="http://weblog.rubyonrails.org/2016/12/21/Rails-5-0-1-has-been-released/">Rails 5.0.1 has been released</a></li>
+  <li><a href="https://evilmartians.com/chronicles/anycable-actioncable-on-steroids">AnyCable: Action Cable on steroids</a>, <a href="https://prograils.com/posts/ruby-rails-books-learn-beginners">Best Books to Learn Ruby on Rails</a> и <a href="https://www.driftingruby.com/episodes/sidekiq-on-production">Sidekiq on Production</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.sitepoint.com/javascript-2016-in-review/">JavaScript: 2016 in Review</a>, <a href="https://medium.com/@domagojk/the-js-community-needs-a-model-of-scientific-publishing-97cb2e3f8163">We need a better way of promoting JavaScript projects!</a> и <a href="https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/">Front-End Performance Checklist 2017</a></li>
+  <li><a href="https://github.com/Microsoft/HoloJS">HoloJS - framework for creating holographic apps using JavaScript and WebGL</a>, <a href="https://github.com/pubkey/rxdb">RxDB - offline-first database</a>, <a href="https://github.com/Wildhoney/Switzerland">Switzerland - a functional approach to Web Components by applying middleware to your components</a>, <a href="https://chalarangelo.github.io/mini.css/">Mini.css - minimal, responsive, style-agnostic CSS toolkit</a> и <a href="https://thomas101.github.io/wmail/">WMail - the missing desktop client for Gmail &amp; Google Inbox</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2016/12/25/ruby-2-4-0-released/">Ruby 2.4.0 Released</a>, <a href="http://nithinbekal.com/posts/ruby-2-4-features/">What’s new in Ruby 2.4?</a>, <a href="http://blog.bigbinary.com/2016/12/21/ruby-2.4-adds-matchdata-values-at-for-extracting-named-and-positional-capture-groups.html">Ruby 2.4 adds support for extracting named capture groups using MatchData#values_at</a>, <a href="http://blog.bigbinary.com/2016/12/19/ruby-2-4-adds-infinite-method-to-numeric.html">Ruby 2.4 adds infinite? and finite? methods to Numeric</a> и <a href="http://weblog.rubyonrails.org/2016/12/21/Rails-5-0-1-has-been-released/">Rails 5.0.1 has been released</a></li>
+  <li><a href="https://evilmartians.com/chronicles/anycable-actioncable-on-steroids">AnyCable: Action Cable on steroids</a>, <a href="https://prograils.com/posts/ruby-rails-books-learn-beginners">Best Books to Learn Ruby on Rails</a> и <a href="https://www.driftingruby.com/episodes/sidekiq-on-production">Sidekiq on Production</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.sitepoint.com/javascript-2016-in-review/">JavaScript: 2016 in Review</a>, <a href="https://medium.com/@domagojk/the-js-community-needs-a-model-of-scientific-publishing-97cb2e3f8163">We need a better way of promoting JavaScript projects!</a> и <a href="https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/">Front-End Performance Checklist 2017</a></li>
+  <li><a href="https://github.com/Microsoft/HoloJS">HoloJS - framework for creating holographic apps using JavaScript and WebGL</a>, <a href="https://github.com/pubkey/rxdb">RxDB - offline-first database</a>, <a href="https://github.com/Wildhoney/Switzerland">Switzerland - a functional approach to Web Components by applying middleware to your components</a>, <a href="https://chalarangelo.github.io/mini.css/">Mini.css - minimal, responsive, style-agnostic CSS toolkit</a> и <a href="https://thomas101.github.io/wmail/">WMail - the missing desktop client for Gmail &amp; Google Inbox</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 26 Dec 2016 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2016/12/26/podcast-04-49.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/12/26/podcast-04-49.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/185/file/podfm_rwpod_my_49.mp3" length="26550345" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/185/file/podfm_rwpod_my_49.mp3" fileSize="26550345" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.4.0 Released, What’s new in Ruby 2.4?, ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.4.0 Released, What’s new in Ruby 2.4?, Ruby 2.4 adds support for extracting named capture groups using MatchData#values_at, Ruby 2.4 adds infinite? and finite? methods to Numeric и Rails 5.0.1 has been released
+
+  
+AnyCable: Action Cable on steroids, Best Books to Learn Ruby on Rails и Sidekiq on Production
+
+
+
+JavaScript
+
+
+  
+JavaScript: 2016 in Review, We need a better way of promoting JavaScript projects! и Front-End Performance Checklist 2017
+
+  
+HoloJS - framework for creating holographic apps using JavaScript and WebGL, RxDB - offline-first database, Switzerland - a functional approach to Web Components by applying middleware to your components, Mini.css - minimal, responsive, style-agnostic CSS toolkit и WMail - the missing desktop client for Gmail &amp; Google Inbox
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/04/0449.png"/>
+  <itunes:duration>00:27:33</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>48 выпуск 04 сезона. Ruby 2.4.0-rc1, Rake without Rails, ReadSource, Angular 4.0, React-Redux 5.0.0, Vuetify, Voca и прочее</title>
   <description>
@@ -3812,129 +3895,6 @@ Artillery is a tool for load-testing HTTP and WebSocket-based applications, Cryp
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0410.png"/>
   <itunes:duration>00:56:13</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>09 выпуск 04 сезона. Rails 4.2.5.2, Thread Pool, Opal-Phaser, AMP Project, MJML, Enzyme, Fetch-it, Dsxyliea и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/2/29/Rails-4-2-5-2-4-1-14-2-3-2-22-2-have-been-released/">Rails 4.2.5.2, 4.1.14.2 and 3.2.22.2 have been released!</a>, <a href="http://blog.bigbinary.com/2016/03/01/migrations-are-versioned-in-rails-5.html">Migrations are versioned in Rails 5</a>, <a href="http://blog.bigbinary.com/2016/03/02/use-file_fixture-to-access-test-files-rails-5.html">Use file_fixture to access test files in Rails 5</a> и <a href="http://blog.bigbinary.com/2016/02/29/rails-5-improves-redirect_to_back-with-redirect-back.html">Rails 5 improves redirect_to :back with new redirect_back method</a></li>
-  <li><a href="https://medium.com/@devlucky/ruby-time-parsing-optimization-524622354201">Premature optimizations are evil(?)</a>, <a href="http://blog.plataformatec.com.br/2016/02/experimenting-with-explicit-contracts-with-ruby/">Experimenting with explicit contracts with Ruby</a> и <a href="https://www.amberbit.com/blog/2016/2/28/on-migrations-jsonb-and-databases-in-general/">On migrations, JSONB and databases in general</a></li>
-  <li><a href="https://rossta.net/blog/a-ruby-antihero-thread-pool.html">Thread Pool - A Ruby Antihero</a> и <a href="http://readysteadycode.com/howto-access-amazon-dynamodb-with-ruby">HOWTO access Amazon DynamoDB with Ruby</a></li>
-  <li><a href="https://developer.zendesk.com/blog/introducing-stronger-parameters">Introducing Stronger Parameters</a>, <a href="https://github.com/acorncache/acorn-cache">AcornCache is a Ruby HTTP proxy caching library</a> и <a href="http://opalphaser.com/">Opal-Phaser - Opal-Phaser is an Opal wrapper for the Phaser framework</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b">State of the Art JavaScript in 2016</a>, <a href="https://www.igvita.com/2016/03/01/control-groups-cgroups-for-the-web/">Control Groups (cgroups) for the Web?</a> и <a href="http://www.sitepoint.com/eight-html5-tags-you-might-not-know/">Do You Know These Eight HTML5 Tags?</a></li>
-  <li><a href="http://webdesign.tutsplus.com/articles/amp-project-will-it-make-your-sites-faster--cms-25853">AMP Project: Will it Make Your Sites Faster?</a> и <a href="http://webuilddesign.com/introducing-mjml-first-open-source-markup-language-for-responsive-email/">Introducing MJML : First open source markup language for responsive email</a></li>
-  <li><a href="https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f">Enzyme: JavaScript Testing utilities for React</a> и <a href="https://github.com/tryolabs/fetch-it">Fetch-it - an enhanced HTTP client based on fetch.</a></li>
-  <li><a href="http://kamranahmed.info/toast">Jquery Toast Plugin - a plugin to show highly customizable notifications to the user</a>, <a href="http://forsigner.com/beside/">Beside - a library to make an element beside another</a> и <a href="http://geon.github.io/programming/2016/03/03/dsxyliea">Dsxyliea</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://rubymeditation7.eventbrite.com">RubyMeditation #7</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/2/29/Rails-4-2-5-2-4-1-14-2-3-2-22-2-have-been-released/">Rails 4.2.5.2, 4.1.14.2 and 3.2.22.2 have been released!</a>, <a href="http://blog.bigbinary.com/2016/03/01/migrations-are-versioned-in-rails-5.html">Migrations are versioned in Rails 5</a>, <a href="http://blog.bigbinary.com/2016/03/02/use-file_fixture-to-access-test-files-rails-5.html">Use file_fixture to access test files in Rails 5</a> и <a href="http://blog.bigbinary.com/2016/02/29/rails-5-improves-redirect_to_back-with-redirect-back.html">Rails 5 improves redirect_to :back with new redirect_back method</a></li>
-  <li><a href="https://medium.com/@devlucky/ruby-time-parsing-optimization-524622354201">Premature optimizations are evil(?)</a>, <a href="http://blog.plataformatec.com.br/2016/02/experimenting-with-explicit-contracts-with-ruby/">Experimenting with explicit contracts with Ruby</a> и <a href="https://www.amberbit.com/blog/2016/2/28/on-migrations-jsonb-and-databases-in-general/">On migrations, JSONB and databases in general</a></li>
-  <li><a href="https://rossta.net/blog/a-ruby-antihero-thread-pool.html">Thread Pool - A Ruby Antihero</a> и <a href="http://readysteadycode.com/howto-access-amazon-dynamodb-with-ruby">HOWTO access Amazon DynamoDB with Ruby</a></li>
-  <li><a href="https://developer.zendesk.com/blog/introducing-stronger-parameters">Introducing Stronger Parameters</a>, <a href="https://github.com/acorncache/acorn-cache">AcornCache is a Ruby HTTP proxy caching library</a> и <a href="http://opalphaser.com/">Opal-Phaser - Opal-Phaser is an Opal wrapper for the Phaser framework</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/javascript-and-opinions/state-of-the-art-javascript-in-2016-ab67fc68eb0b">State of the Art JavaScript in 2016</a>, <a href="https://www.igvita.com/2016/03/01/control-groups-cgroups-for-the-web/">Control Groups (cgroups) for the Web?</a> и <a href="http://www.sitepoint.com/eight-html5-tags-you-might-not-know/">Do You Know These Eight HTML5 Tags?</a></li>
-  <li><a href="http://webdesign.tutsplus.com/articles/amp-project-will-it-make-your-sites-faster--cms-25853">AMP Project: Will it Make Your Sites Faster?</a> и <a href="http://webuilddesign.com/introducing-mjml-first-open-source-markup-language-for-responsive-email/">Introducing MJML : First open source markup language for responsive email</a></li>
-  <li><a href="https://medium.com/airbnb-engineering/enzyme-javascript-testing-utilities-for-react-a417e5e5090f">Enzyme: JavaScript Testing utilities for React</a> и <a href="https://github.com/tryolabs/fetch-it">Fetch-it - an enhanced HTTP client based on fetch.</a></li>
-  <li><a href="http://kamranahmed.info/toast">Jquery Toast Plugin - a plugin to show highly customizable notifications to the user</a>, <a href="http://forsigner.com/beside/">Beside - a library to make an element beside another</a> и <a href="http://geon.github.io/programming/2016/03/03/dsxyliea">Dsxyliea</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://rubymeditation7.eventbrite.com">RubyMeditation #7</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 07 Mar 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/03/07/podcast-04-09.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/03/07/podcast-04-09.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/145/file/podfm_rwpod_my_9_145.mp3" length="56371578" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/145/file/podfm_rwpod_my_9_145.mp3" fileSize="56371578" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 4.2.5.2, 4.1.14.2 and 3.2.22.2 have been...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 4.2.5.2, 4.1.14.2 and 3.2.22.2 have been released!, Migrations are versioned in Rails 5, Use file_fixture to access test files in Rails 5 и Rails 5 improves redirect_to :back with new redirect_back method
-
-  
-Premature optimizations are evil(?), Experimenting with explicit contracts with Ruby и On migrations, JSONB and databases in general
-
-  
-Thread Pool - A Ruby Antihero и HOWTO access Amazon DynamoDB with Ruby
-
-  
-Introducing Stronger Parameters, AcornCache is a Ruby HTTP proxy caching library и Opal-Phaser - Opal-Phaser is an Opal wrapper for the Phaser framework
-
-
-
-JavaScript
-
-
-  
-State of the Art JavaScript in 2016, Control Groups (cgroups) for the Web? и Do You Know These Eight HTML5 Tags?
-
-  
-AMP Project: Will it Make Your Sites Faster? и Introducing MJML : First open source markup language for responsive email
-
-  
-Enzyme: JavaScript Testing utilities for React и Fetch-it - an enhanced HTTP client based on fetch.
-
-  
-Jquery Toast Plugin - a plugin to show highly customizable notifications to the user, Beside - a library to make an element beside another и Dsxyliea
-
-
-
-Conferences
-
-
-  RubyMeditation #7
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0409.png"/>
-  <itunes:duration>00:58:37</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
