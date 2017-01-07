@@ -11,8 +11,6 @@
       color: #f2f3f3; }
   .article .content {
     padding: 20px; }
-  .article .footer .icon-chat:before {
-    margin-right: 5px; }
   .article img {
     border: 1px solid #d2cec3;
     width: 130px; }

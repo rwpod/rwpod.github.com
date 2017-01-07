@@ -19,10 +19,6 @@
     .column .box .footer {
       border-top: 1px solid #d2cec3;
       padding: 5px 20px; }
-      .column .box .footer .icon-chat:before {
-        position: relative;
-        top: 1px;
-        margin-right: 5px; }
   .mainbar.quatro .column {
     width: 50%; }
 
