@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 26 Dec 2016 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 26 Dec 2016 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 09 Jan 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,101 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>01 выпуск 05 сезона. Concurrency in Rails 5.0, Rails Security Checklist, 10 Web Predictions for 2017, MobX, BunnyJS, Leakage и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/12/29/ruby-2-4-adds-compare-by-identity-functionality-for-sets.html">Ruby 2.4 adds Set#compare_by_identity and Set#compare_by_identity? methods</a>, <a href="https://blog.heroku.com/ruby-2-4-features-hashes-integers-rounding">Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding</a> и <a href="https://medium.com/statuscode/the-15-most-popular-ruby-links-of-2016-ff3cf06d5b80">The 15 most popular Ruby links of 2016</a></li>
+  <li><a href="https://bibwild.wordpress.com/2016/12/29/concurrency-in-rails-5-0/">Concurrency in Rails 5.0</a>, <a href="https://www.citusdata.com/blog/2017/01/05/easily-scale-out-multi-tenant-apps/">Scale Out Multi-Tenant Apps based on Ruby on Rails</a> и <a href="https://crystal-lang.org/2016/12/29/crystal-new-year-resolutions-for-2017-1-0.html">Crystal new year resolutions for 2017: 1.0</a></li>
+  <li><a href="https://github.com/eliotsykes/rails-security-checklist">Rails Security Checklist</a>, <a href="https://www.driftingruby.com/episodes/periodic-tasks-with-sidekiq-cron">Periodic Tasks with sidekiq-cron</a>, <a href="https://github.com/khiav223577/rails_or">RailsOr - support &amp;&amp; Add syntax sugar to #or query method in Rails 3, 4, 5</a> и <a href="https://github.com/khiav223577/pluck_all">PluckAll - pluck multiple attributes in Rails 3, 4, 5, and can return data as hash instead of only array</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/commit-push/the-top-rising-javascript-trends-to-watch-in-2017-86d8e87db3b3">The top rising JavaScript trends to watch in 2017</a>, <a href="https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd">What to learn in 2017 if you’re a frontend developer</a>, <a href="https://www.sitepoint.com/10-web-predictions-for-2017/">10 Web Predictions for 2017</a>, <a href="https://medium.com/the-vue-point/vue-in-2016-8df71d98bfb3">Vue in 2016</a> и <a href="https://infernojs.org/">InfernoJS 1.0</a></li>
+  <li><a href="https://hackernoon.com/web-bloat-isnt-a-knowledge-problem-46e561031663">Web bloat isn’t a knowledge problem</a>, <a href="https://hackernoon.com/lazy-evaluation-in-javascript-84f7072631b7">Lazy Evaluation in Javascript</a>, <a href="https://ponyfoo.com/articles/var-let-const">Let’s use const! Here’s why</a> и <a href="https://tylergaw.com/articles/sass-to-postcss">From Sass to PostCSS</a></li>
+  <li><a href="http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html">MobX - Like React, but for Data</a>, <a href="https://bunnyjs.com/">BunnyJS - Browser ES6 framework</a>, <a href="https://sindu12jun.github.io/table-dragger/">Table-dragger - easily add drag-and-drop sorting to your table without jQuery</a>, <a href="http://mrcoles.com/demo/markdown-css/">Markdown.css - CSS to make HTML markup look like plain-text markdown</a>, <a href="https://github.com/avajs/ava">AVA - a blazing fast, concurrent, and futuristic test runner</a>, <a href="https://github.com/andywer/leakage">Leakage - Memory Leak Testing for Node</a> и <a href="https://dixonandmoe.com/rellax/">Rellax - a buttery smooth, lightweight, vanilla javascript parallax library</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2016/12/29/ruby-2-4-adds-compare-by-identity-functionality-for-sets.html">Ruby 2.4 adds Set#compare_by_identity and Set#compare_by_identity? methods</a>, <a href="https://blog.heroku.com/ruby-2-4-features-hashes-integers-rounding">Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding</a> и <a href="https://medium.com/statuscode/the-15-most-popular-ruby-links-of-2016-ff3cf06d5b80">The 15 most popular Ruby links of 2016</a></li>
+  <li><a href="https://bibwild.wordpress.com/2016/12/29/concurrency-in-rails-5-0/">Concurrency in Rails 5.0</a>, <a href="https://www.citusdata.com/blog/2017/01/05/easily-scale-out-multi-tenant-apps/">Scale Out Multi-Tenant Apps based on Ruby on Rails</a> и <a href="https://crystal-lang.org/2016/12/29/crystal-new-year-resolutions-for-2017-1-0.html">Crystal new year resolutions for 2017: 1.0</a></li>
+  <li><a href="https://github.com/eliotsykes/rails-security-checklist">Rails Security Checklist</a>, <a href="https://www.driftingruby.com/episodes/periodic-tasks-with-sidekiq-cron">Periodic Tasks with sidekiq-cron</a>, <a href="https://github.com/khiav223577/rails_or">RailsOr - support &amp;&amp; Add syntax sugar to #or query method in Rails 3, 4, 5</a> и <a href="https://github.com/khiav223577/pluck_all">PluckAll - pluck multiple attributes in Rails 3, 4, 5, and can return data as hash instead of only array</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/commit-push/the-top-rising-javascript-trends-to-watch-in-2017-86d8e87db3b3">The top rising JavaScript trends to watch in 2017</a>, <a href="https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd">What to learn in 2017 if you’re a frontend developer</a>, <a href="https://www.sitepoint.com/10-web-predictions-for-2017/">10 Web Predictions for 2017</a>, <a href="https://medium.com/the-vue-point/vue-in-2016-8df71d98bfb3">Vue in 2016</a> и <a href="https://infernojs.org/">InfernoJS 1.0</a></li>
+  <li><a href="https://hackernoon.com/web-bloat-isnt-a-knowledge-problem-46e561031663">Web bloat isn’t a knowledge problem</a>, <a href="https://hackernoon.com/lazy-evaluation-in-javascript-84f7072631b7">Lazy Evaluation in Javascript</a>, <a href="https://ponyfoo.com/articles/var-let-const">Let’s use const! Here’s why</a> и <a href="https://tylergaw.com/articles/sass-to-postcss">From Sass to PostCSS</a></li>
+  <li><a href="http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html">MobX - Like React, but for Data</a>, <a href="https://bunnyjs.com/">BunnyJS - Browser ES6 framework</a>, <a href="https://sindu12jun.github.io/table-dragger/">Table-dragger - easily add drag-and-drop sorting to your table without jQuery</a>, <a href="http://mrcoles.com/demo/markdown-css/">Markdown.css - CSS to make HTML markup look like plain-text markdown</a>, <a href="https://github.com/avajs/ava">AVA - a blazing fast, concurrent, and futuristic test runner</a>, <a href="https://github.com/andywer/leakage">Leakage - Memory Leak Testing for Node</a> и <a href="https://dixonandmoe.com/rellax/">Rellax - a buttery smooth, lightweight, vanilla javascript parallax library</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Mon, 09 Jan 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/01/09/podcast-05-01.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/09/podcast-05-01.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/186/file/podfm_rwpod_my_1_186.mp3" length="43692225" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/186/file/podfm_rwpod_my_1_186.mp3" fileSize="43692225" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.4 adds Set#compare_by_identity and Set#...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.4 adds Set#compare_by_identity and Set#compare_by_identity? methods, Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding и The 15 most popular Ruby links of 2016
+
+  
+Concurrency in Rails 5.0, Scale Out Multi-Tenant Apps based on Ruby on Rails и Crystal new year resolutions for 2017: 1.0
+
+  
+Rails Security Checklist, Periodic Tasks with sidekiq-cron, RailsOr - support &amp;&amp; Add syntax sugar to #or query method in Rails 3, 4, 5 и PluckAll - pluck multiple attributes in Rails 3, 4, 5, and can return data as hash instead of only array
+
+
+
+JavaScript
+
+
+  
+The top rising JavaScript trends to watch in 2017, What to learn in 2017 if you’re a frontend developer, 10 Web Predictions for 2017, Vue in 2016 и InfernoJS 1.0
+
+  
+Web bloat isn’t a knowledge problem, Lazy Evaluation in Javascript, Let’s use const! Here’s why и From Sass to PostCSS
+
+  
+MobX - Like React, but for Data, BunnyJS - Browser ES6 framework, Table-dragger - easily add drag-and-drop sorting to your table without jQuery, Markdown.css - CSS to make HTML markup look like plain-text markdown, AVA - a blazing fast, concurrent, and futuristic test runner, Leakage - Memory Leak Testing for Node и Rellax - a buttery smooth, lightweight, vanilla javascript parallax library
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0501.png"/>
+  <itunes:duration>00:45:24</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>49 выпуск 04 сезона. Ruby 2.4.0, Rails 5.0.1, AnyCable, Sidekiq on Production, JavaScript: 2016 in Review, HoloJS и прочее</title>
   <description>
@@ -3790,111 +3885,6 @@ Insight - a WebGL debugging toolkit, Hashids - a small open-source library that 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0411.png"/>
   <itunes:duration>00:42:39</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>10 выпуск 04 сезона. Rails 4.2.6, 4.1.15, React v15.0rc, GraphQL Ruby, DuckRails, Artillery, Freezeframe.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/3/11/Rails-4-2-6-and-4-1-15-have-been-released/">Rails 4.2.6 and 4.1.15 have been released</a>, <a href="http://blog.bigbinary.com/2016/03/11/suppress-save-events-in-rails-5.html">Suppress save events in Rails 5</a> и <a href="http://blog.bigbinary.com/2016/03/08/rails-5-switches-from-strong-etags-to-weak-tags.html">Rails 5 switches from strong etags to weak etags</a></li>
-  <li><a href="https://evilmartians.com/chronicles/postgresql-and-rails-sitting-in-a-tree">PostgreSQL and Rails, sitting in a tree</a> и <a href="https://m.alphasights.com/graphql-ruby-clean-up-your-query-type-d7ab05a47084">GraphQL Ruby: Clean Up your Query Type</a></li>
-  <li><a href="https://shopifyengineering.myshopify.com/blogs/engineering/112738884-adventures-in-production-rails-debugging">Adventures in Production Rails Debugging</a> и <a href="http://blog.codeship.com/surrogate-websockets/">Surrogate WebSockets Alongside Rails</a></li>
-  <li><a href="https://github.com/iridakos/duckrails">DuckRails - is a development tool, which allow developers to quickly mock API endpoints</a>, <a href="https://github.com/janlelis/unicode-confusable">Unicode::Confusable - compares two strings if they are visually confusable</a> и <a href="https://github.com/altmetric/urn">URN Build Status - Ruby library to validate and normalize URNs according to RFC 2141</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://facebook.github.io/react/blog/2016/03/07/react-v15-rc1.html">React v15.0 Release Candidate</a> и <a href="https://medium.com/@andersramsay/the-end-of-the-magic-of-meteor-ad600d739e5">The end of the magic of Meteor</a></li>
-  <li><a href="http://deanhume.com/Home/BlogPost/service-workers--save-your-users-data-using-the-save-data-header/10139">Service Workers: save your user’s data using the save-data header</a>,  и <a href="https://medium.com/@Functionite/5-tips-for-writing-more-maintainable-javascript-code-b87de1147e94">5 Tips For Writing More Maintainable JavaScript Code</a></li>
-  <li><a href="https://medium.com/@koryteg/become-a-10x-programmer-sharpen-your-axe-bfe9109373bb">Become a 10x programmer. Sharpen your Axe</a>, <a href="http://bitsofco.de/styling-broken-images/">Styling Broken Images</a> и <a href="http://ecss.io/">Enduring CSS (book)</a></li>
-  <li><a href="https://artillery.io/">Artillery is a tool for load-testing HTTP and WebSocket-based applications</a>, <a href="https://github.com/richardanaya/cryptoidentity/">CryptoIdentity.js - a library for simple crypto identity in the browser</a> и <a href="https://github.com/ctrl-freaks/freezeframe.js">Freezeframe.js is a script that pauses animated .gifs</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/3/11/Rails-4-2-6-and-4-1-15-have-been-released/">Rails 4.2.6 and 4.1.15 have been released</a>, <a href="http://blog.bigbinary.com/2016/03/11/suppress-save-events-in-rails-5.html">Suppress save events in Rails 5</a> и <a href="http://blog.bigbinary.com/2016/03/08/rails-5-switches-from-strong-etags-to-weak-tags.html">Rails 5 switches from strong etags to weak etags</a></li>
-  <li><a href="https://evilmartians.com/chronicles/postgresql-and-rails-sitting-in-a-tree">PostgreSQL and Rails, sitting in a tree</a> и <a href="https://m.alphasights.com/graphql-ruby-clean-up-your-query-type-d7ab05a47084">GraphQL Ruby: Clean Up your Query Type</a></li>
-  <li><a href="https://shopifyengineering.myshopify.com/blogs/engineering/112738884-adventures-in-production-rails-debugging">Adventures in Production Rails Debugging</a> и <a href="http://blog.codeship.com/surrogate-websockets/">Surrogate WebSockets Alongside Rails</a></li>
-  <li><a href="https://github.com/iridakos/duckrails">DuckRails - is a development tool, which allow developers to quickly mock API endpoints</a>, <a href="https://github.com/janlelis/unicode-confusable">Unicode::Confusable - compares two strings if they are visually confusable</a> и <a href="https://github.com/altmetric/urn">URN Build Status - Ruby library to validate and normalize URNs according to RFC 2141</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://facebook.github.io/react/blog/2016/03/07/react-v15-rc1.html">React v15.0 Release Candidate</a> и <a href="https://medium.com/@andersramsay/the-end-of-the-magic-of-meteor-ad600d739e5">The end of the magic of Meteor</a></li>
-  <li><a href="http://deanhume.com/Home/BlogPost/service-workers--save-your-users-data-using-the-save-data-header/10139">Service Workers: save your user’s data using the save-data header</a>,  и <a href="https://medium.com/@Functionite/5-tips-for-writing-more-maintainable-javascript-code-b87de1147e94">5 Tips For Writing More Maintainable JavaScript Code</a></li>
-  <li><a href="https://medium.com/@koryteg/become-a-10x-programmer-sharpen-your-axe-bfe9109373bb">Become a 10x programmer. Sharpen your Axe</a>, <a href="http://bitsofco.de/styling-broken-images/">Styling Broken Images</a> и <a href="http://ecss.io/">Enduring CSS (book)</a></li>
-  <li><a href="https://artillery.io/">Artillery is a tool for load-testing HTTP and WebSocket-based applications</a>, <a href="https://github.com/richardanaya/cryptoidentity/">CryptoIdentity.js - a library for simple crypto identity in the browser</a> и <a href="https://github.com/ctrl-freaks/freezeframe.js">Freezeframe.js is a script that pauses animated .gifs</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 14 Mar 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/03/14/podcast-04-10.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/03/14/podcast-04-10.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/146/file/podfm_rwpod_my_10_146.mp3" length="54079349" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/146/file/podfm_rwpod_my_10_146.mp3" fileSize="54079349" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 4.2.6 and 4.1.15 have been released, Sup...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 4.2.6 and 4.1.15 have been released, Suppress save events in Rails 5 и Rails 5 switches from strong etags to weak etags
-
-  
-PostgreSQL and Rails, sitting in a tree и GraphQL Ruby: Clean Up your Query Type
-
-  
-Adventures in Production Rails Debugging и Surrogate WebSockets Alongside Rails
-
-  
-DuckRails - is a development tool, which allow developers to quickly mock API endpoints, Unicode::Confusable - compares two strings if they are visually confusable и URN Build Status - Ruby library to validate and normalize URNs according to RFC 2141
-
-
-
-JavaScript
-
-
-  
-React v15.0 Release Candidate и The end of the magic of Meteor
-
-  
-Service Workers: save your user’s data using the save-data header,  и 5 Tips For Writing More Maintainable JavaScript Code
-
-  
-Become a 10x programmer. Sharpen your Axe, Styling Broken Images и Enduring CSS (book)
-
-  
-Artillery is a tool for load-testing HTTP and WebSocket-based applications, CryptoIdentity.js - a library for simple crypto identity in the browser и Freezeframe.js is a script that pauses animated .gifs
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0410.png"/>
-  <itunes:duration>00:56:13</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
