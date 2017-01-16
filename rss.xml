@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 09 Jan 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 09 Jan 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Tue, 17 Jan 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 17 Jan 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,91 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>02 выпуск 05 сезона. State of the 2017 Rails Stack, Client Side Encryption, Opera Neon, Vuelidate, iTyped и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.scoutapp.com/articles/2017/01/09/state-of-the-2017-rails-stack">State of the 2017 Rails Stack</a>, <a href="https://dev.mikamai.com/2017/01/12/how-requirements-shaped-my-code-aka-rails-5-and/">How requirements shaped my code, AKA Rails 5 and ActiveRecord before_destroy callbacks</a> и <a href="http://www.lugolabs.com/articles/144-creating-data-backed-tables-with-tabular-and-ruby-on-rails">Creating data backed tables with Tabular and Ruby on Rails</a></li>
+  <li><a href="https://blog.elpassion.com/simple-and-terrifying-encryption-story-c1f1d6707c07">Simple and Terrifying Encryption Story</a> и <a href="https://www.driftingruby.com/episodes/client-side-encryption">Client Side Encryption (screencast)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.opera.com/blogs/desktop/2017/01/opera-neon-concept-browser/">Say hello to Opera Neon, our new concept browser</a>, <a href="https://www.oreilly.com/ideas/5-web-trends-for-2017">5 web trends for 2017</a> и <a href="https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665">How to get a performance boost using WebAssembly</a></li>
+  <li><a href="https://www.sitepoint.com/build-your-own-atom-theme-with-css/">Build Your Own Atom Theme with CSS</a>, <a href="https://monterail.github.io/vuelidate/">Vuelidate - simple, lightweight model-based validation for Vue.js 2.0</a>, <a href="https://ityped.surge.sh/">iTyped - dead simple Animated typing</a> и <a href="https://github.com/userpixel/micromustache">Micromustache - small library covers the most important use case for Mustache templates</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.scoutapp.com/articles/2017/01/09/state-of-the-2017-rails-stack">State of the 2017 Rails Stack</a>, <a href="https://dev.mikamai.com/2017/01/12/how-requirements-shaped-my-code-aka-rails-5-and/">How requirements shaped my code, AKA Rails 5 and ActiveRecord before_destroy callbacks</a> и <a href="http://www.lugolabs.com/articles/144-creating-data-backed-tables-with-tabular-and-ruby-on-rails">Creating data backed tables with Tabular and Ruby on Rails</a></li>
+  <li><a href="https://blog.elpassion.com/simple-and-terrifying-encryption-story-c1f1d6707c07">Simple and Terrifying Encryption Story</a> и <a href="https://www.driftingruby.com/episodes/client-side-encryption">Client Side Encryption (screencast)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.opera.com/blogs/desktop/2017/01/opera-neon-concept-browser/">Say hello to Opera Neon, our new concept browser</a>, <a href="https://www.oreilly.com/ideas/5-web-trends-for-2017">5 web trends for 2017</a> и <a href="https://hackernoon.com/how-to-get-a-performance-boost-using-webassembly-8844ec6dd665">How to get a performance boost using WebAssembly</a></li>
+  <li><a href="https://www.sitepoint.com/build-your-own-atom-theme-with-css/">Build Your Own Atom Theme with CSS</a>, <a href="https://monterail.github.io/vuelidate/">Vuelidate - simple, lightweight model-based validation for Vue.js 2.0</a>, <a href="https://ityped.surge.sh/">iTyped - dead simple Animated typing</a> и <a href="https://github.com/userpixel/micromustache">Micromustache - small library covers the most important use case for Mustache templates</a></li>
+</ul>
+
+<p></p>
+
+]]>
+  </content:encoded>
+  <pubDate>Tue, 17 Jan 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/01/17/podcast-05-02.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/17/podcast-05-02.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/187/file/podfm_rwpod_my_2_187.mp3" length="29440223" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/187/file/podfm_rwpod_my_2_187.mp3" fileSize="29440223" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  State of the 2017 Rails Stack, How requirement...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+State of the 2017 Rails Stack, How requirements shaped my code, AKA Rails 5 and ActiveRecord before_destroy callbacks и Creating data backed tables with Tabular and Ruby on Rails
+
+  
+Simple and Terrifying Encryption Story и Client Side Encryption (screencast)
+
+
+
+JavaScript
+
+
+  
+Say hello to Opera Neon, our new concept browser, 5 web trends for 2017 и How to get a performance boost using WebAssembly
+
+  
+Build Your Own Atom Theme with CSS, Vuelidate - simple, lightweight model-based validation for Vue.js 2.0, iTyped - dead simple Animated typing и Micromustache - small library covers the most important use case for Mustache templates
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0502.png"/>
+  <itunes:duration>00:30:33</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>01 выпуск 05 сезона. Concurrency in Rails 5.0, Rails Security Checklist, 10 Web Predictions for 2017, MobX, BunnyJS, Leakage и прочее</title>
   <description>
@@ -3789,101 +3874,6 @@ Hain - an alternative to Alfred for Windows, built with Electron, EventControl -
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0412.png"/>
-  <itunes:duration>00:42:39</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>11 выпуск 04 сезона. Mastering Concurrency, LeSSL, Spreadsheet Architect, WebAssembly Milestone, Insight, Hashids и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.appsignal.com/blog/2016/03/17/ruby-magic-mastering-concurrency.html">Mastering Concurrency</a> и <a href="http://www.ombulabs.com/blog/rails/maintenance/ten-steps-to-evaluate-a-rails-project.html">10 Steps to Evaluate a Rails Project</a></li>
-  <li><a href="http://blog.codeship.com/how-to-set-up-mutual-tls-authentication/">How to Set Up Mutual TLS Authentication to Protect Your Admin Console</a> и <a href="https://subvisual.co/blog/posts/74-ruby-bits-each-with-object">Ruby Bits: Each with object</a></li>
-  <li><a href="https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/">Fast Search Using PostgreSQL Trigram Indexes</a>, <a href="https://github.com/tobiasfeistmantl/LeSSL">LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA</a> и <a href="https://github.com/westonganger/spreadsheet_architect">Spreadsheet Architect</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2016/03/a-webassembly-milestone/">A WebAssembly Milestone: Experimental Support in Multiple Browsers</a> и <a href="https://segment.com/blog/the-deep-roots-of-js-fatigue/">The Deep Roots of Javascript Fatigue</a></li>
-  <li><a href="https://medium.com/javascript-non-grata/javascript-is-a-dysfunctional-programming-language-a1f4866e186f">JavaScript is a Dysfunctional Programming Language</a> и <a href="https://medium.com/@jayphelps/please-stop-referring-to-proposed-javascript-features-as-es7-cad29f9dcc4b">Please stop referring to proposed JavaScript features as ES7</a></li>
-  <li><a href="https://github.com/3Dparallax/insight/">Insight - a WebGL debugging toolkit</a>, <a href="http://hashids.org/">Hashids - a small open-source library that generates short, unique, non-sequential ids from numbers</a>, <a href="https://github.com/DKirwan/calendar-heatmap">D3 Calendar Heatmap</a> и <a href="http://substance.io/">Substance - a JavaScript library for web-based content editing</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.appsignal.com/blog/2016/03/17/ruby-magic-mastering-concurrency.html">Mastering Concurrency</a> и <a href="http://www.ombulabs.com/blog/rails/maintenance/ten-steps-to-evaluate-a-rails-project.html">10 Steps to Evaluate a Rails Project</a></li>
-  <li><a href="http://blog.codeship.com/how-to-set-up-mutual-tls-authentication/">How to Set Up Mutual TLS Authentication to Protect Your Admin Console</a> и <a href="https://subvisual.co/blog/posts/74-ruby-bits-each-with-object">Ruby Bits: Each with object</a></li>
-  <li><a href="https://about.gitlab.com/2016/03/18/fast-search-using-postgresql-trigram-indexes/">Fast Search Using PostgreSQL Trigram Indexes</a>, <a href="https://github.com/tobiasfeistmantl/LeSSL">LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA</a> и <a href="https://github.com/westonganger/spreadsheet_architect">Spreadsheet Architect</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2016/03/a-webassembly-milestone/">A WebAssembly Milestone: Experimental Support in Multiple Browsers</a> и <a href="https://segment.com/blog/the-deep-roots-of-js-fatigue/">The Deep Roots of Javascript Fatigue</a></li>
-  <li><a href="https://medium.com/javascript-non-grata/javascript-is-a-dysfunctional-programming-language-a1f4866e186f">JavaScript is a Dysfunctional Programming Language</a> и <a href="https://medium.com/@jayphelps/please-stop-referring-to-proposed-javascript-features-as-es7-cad29f9dcc4b">Please stop referring to proposed JavaScript features as ES7</a></li>
-  <li><a href="https://github.com/3Dparallax/insight/">Insight - a WebGL debugging toolkit</a>, <a href="http://hashids.org/">Hashids - a small open-source library that generates short, unique, non-sequential ids from numbers</a>, <a href="https://github.com/DKirwan/calendar-heatmap">D3 Calendar Heatmap</a> и <a href="http://substance.io/">Substance - a JavaScript library for web-based content editing</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Mon, 21 Mar 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/03/21/podcast-04-11.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/03/21/podcast-04-11.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/147/file/podfm_rwpod_my_11_147.mp3" length="41040224" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/147/file/podfm_rwpod_my_11_147.mp3" fileSize="41040224" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Mastering Concurrency и 10 Steps to Evaluate a...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Mastering Concurrency и 10 Steps to Evaluate a Rails Project
-
-  
-How to Set Up Mutual TLS Authentication to Protect Your Admin Console и Ruby Bits: Each with object
-
-  
-Fast Search Using PostgreSQL Trigram Indexes, LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA и Spreadsheet Architect
-
-
-
-JavaScript
-
-
-  
-A WebAssembly Milestone: Experimental Support in Multiple Browsers и The Deep Roots of Javascript Fatigue
-
-  
-JavaScript is a Dysfunctional Programming Language и Please stop referring to proposed JavaScript features as ES7
-
-  
-Insight - a WebGL debugging toolkit, Hashids - a small open-source library that generates short, unique, non-sequential ids from numbers, D3 Calendar Heatmap и Substance - a JavaScript library for web-based content editing
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0411.png"/>
   <itunes:duration>00:42:39</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
