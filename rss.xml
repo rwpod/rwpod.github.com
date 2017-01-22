@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 17 Jan 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Tue, 17 Jan 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 22 Jan 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 22 Jan 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>03 выпуск 05 сезона. Passenger 5.1, Webpack 2.2, KaTeX for Ruby, Chartkick, Mermaid, LocalForage, Tone.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.phusion.nl/2017/01/10/passenger-5-1-1/">Passenger 5.1: a new milestone in robustness, security and efficiency</a> и <a href="https://infinum.co/the-capsized-eight/analyzing-rubygems-stats-v2016">Is Ruby dead? Hell no! - Analyzing RubyGems stats for 2016</a></li>
+  <li><a href="http://www.rubyletter.com/blog/2017/01/18/ruby-triple-equals-operator.html">Ruby’s Mysterious Triple Equals Operator, a.k.a. Case Equality Operator</a>, <a href="https://depfu.io/blog/2017/01/18/bundler-and-gemfile-best-practices">Bundler and Gemfile best practices</a> и <a href="http://dalibornasevic.com/posts/77-auto-reconnect-for-activerecord-connections">Auto-reconnect for ActiveRecord connections</a></li>
+  <li><a href="http://masa331.github.io/2017/01/10/writing_sprockets_plugin.html">Writing a Sprockets plugin</a>, <a href="https://github.com/glebm/katex-ruby">KaTeX for Ruby</a> и <a href="http://blog.redpanthers.co/chartkick-data-visualization-easy-ruby/">Chartkick: data visualization made easy with Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://fabric.io/blog/fabric-joins-google">Fabric is Joining Google</a>, <a href="http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html">RethinkDB: why we failed</a>, <a href="https://medium.com/@lucasdaltro/learning-javascript-in-2017-sucks-and-this-is-very-good-35e883223406">Learning JavaScript in 2017 sucks and this is awesome!</a> и <a href="https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144">Webpack 2.2: The Final Release</a></li>
+  <li><a href="https://bitsofco.de/3-new-css-features-to-learn-in-2017/">3 New CSS Features to Learn in 2017</a>, <a href="http://webdesignerwall.com/tutorials/create-spotify-colorizer-effects-css-blend-modes">How to Create Spotify Colorizer Effects With CSS Blend Modes</a> и <a href="https://kostasbariotis.com/removeeventlistener-and-this/">removeEventListener and this</a></li>
+  <li><a href="http://knsv.github.io/mermaid/">Mermaid - generation of diagrams and flowcharts from text in a similar manner as markdown</a>, <a href="https://localforage.github.io/localForage/">LocalForage - a JavaScript library that improves the offline experience of your web app by using an asynchronous data store with a simple</a> и <a href="https://tonejs.github.io/">Tone.js - a framework for creating interactive music in the browser</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.phusion.nl/2017/01/10/passenger-5-1-1/">Passenger 5.1: a new milestone in robustness, security and efficiency</a> и <a href="https://infinum.co/the-capsized-eight/analyzing-rubygems-stats-v2016">Is Ruby dead? Hell no! - Analyzing RubyGems stats for 2016</a></li>
+  <li><a href="http://www.rubyletter.com/blog/2017/01/18/ruby-triple-equals-operator.html">Ruby’s Mysterious Triple Equals Operator, a.k.a. Case Equality Operator</a>, <a href="https://depfu.io/blog/2017/01/18/bundler-and-gemfile-best-practices">Bundler and Gemfile best practices</a> и <a href="http://dalibornasevic.com/posts/77-auto-reconnect-for-activerecord-connections">Auto-reconnect for ActiveRecord connections</a></li>
+  <li><a href="http://masa331.github.io/2017/01/10/writing_sprockets_plugin.html">Writing a Sprockets plugin</a>, <a href="https://github.com/glebm/katex-ruby">KaTeX for Ruby</a> и <a href="http://blog.redpanthers.co/chartkick-data-visualization-easy-ruby/">Chartkick: data visualization made easy with Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://fabric.io/blog/fabric-joins-google">Fabric is Joining Google</a>, <a href="http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html">RethinkDB: why we failed</a>, <a href="https://medium.com/@lucasdaltro/learning-javascript-in-2017-sucks-and-this-is-very-good-35e883223406">Learning JavaScript in 2017 sucks and this is awesome!</a> и <a href="https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144">Webpack 2.2: The Final Release</a></li>
+  <li><a href="https://bitsofco.de/3-new-css-features-to-learn-in-2017/">3 New CSS Features to Learn in 2017</a>, <a href="http://webdesignerwall.com/tutorials/create-spotify-colorizer-effects-css-blend-modes">How to Create Spotify Colorizer Effects With CSS Blend Modes</a> и <a href="https://kostasbariotis.com/removeeventlistener-and-this/">removeEventListener and this</a></li>
+  <li><a href="http://knsv.github.io/mermaid/">Mermaid - generation of diagrams and flowcharts from text in a similar manner as markdown</a>, <a href="https://localforage.github.io/localForage/">LocalForage - a JavaScript library that improves the offline experience of your web app by using an asynchronous data store with a simple</a> и <a href="https://tonejs.github.io/">Tone.js - a framework for creating interactive music in the browser</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Sun, 22 Jan 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/01/22/podcast-05-03.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/22/podcast-05-03.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/188/file/podfm_rwpod_my_3_188.mp3" length="40647215" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/188/file/podfm_rwpod_my_3_188.mp3" fileSize="40647215" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Passenger 5.1: a new milestone in robustness, ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Passenger 5.1: a new milestone in robustness, security and efficiency и Is Ruby dead? Hell no! - Analyzing RubyGems stats for 2016
+
+  
+Ruby’s Mysterious Triple Equals Operator, a.k.a. Case Equality Operator, Bundler and Gemfile best practices и Auto-reconnect for ActiveRecord connections
+
+  
+Writing a Sprockets plugin, KaTeX for Ruby и Chartkick: data visualization made easy with Ruby
+
+
+
+JavaScript
+
+
+  
+Fabric is Joining Google, RethinkDB: why we failed, Learning JavaScript in 2017 sucks and this is awesome! и Webpack 2.2: The Final Release
+
+  
+3 New CSS Features to Learn in 2017, How to Create Spotify Colorizer Effects With CSS Blend Modes и removeEventListener and this
+
+  
+Mermaid - generation of diagrams and flowcharts from text in a similar manner as markdown, LocalForage - a JavaScript library that improves the offline experience of your web app by using an asynchronous data store with a simple и Tone.js - a framework for creating interactive music in the browser
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0503.png"/>
+  <itunes:duration>00:42:13</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>02 выпуск 05 сезона. State of the 2017 Rails Stack, Client Side Encryption, Opera Neon, Vuelidate, iTyped и прочее</title>
   <description>
@@ -3780,101 +3873,6 @@ Thinscript - language that compiles to both WebAssembly and JavaScript и Sketch
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0413.png"/>
   <itunes:duration>00:26:23</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>12 выпуск 04 сезона. How to upgrade to Rails 5, NotImplementedError, Left_pad, PassiveRecord, Hain и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@tair/how-to-upgrade-to-rails-5-657b3bfd83">How to upgrade to Rails 5</a>, <a href="http://www.akitaonrails.com/2016/03/23/improving-your-microservices-integration-performance-with-memcache-and-etags">Improving your Microservices Integration Performance with Memcache and ETAGs</a> и <a href="https://robots.thoughtbot.com/rebuilding-git-in-ruby">Rebuilding Git in Ruby</a></li>
-  <li><a href="http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/">Custom type-casting with ActiveRecord, Virtus and dry-types</a>, <a href="http://chrisstump.online/2016/03/23/stop-abusing-notimplementederror/">Please Stop Abusing NotImplementedError</a> и <a href="https://aaronprice.ca/the-hidden-cost-of-indexes">The hidden cost of indexes</a></li>
-  <li><a href="https://github.com/atipugin/left_pad">Left_pad - Ruby implementation of famous npm package</a>, <a href="https://github.com/deepcerulean/passive_record">PassiveRecord - an extremely lightweight in-memory pseudo-relational algebra</a> и <a href="http://www.flyingmachinestudios.com/programming/timeless-tools/">Timeless Programming Tools</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://arc.applause.com/2016/03/22/javascript-is-the-worlds-dominant-programming-language/">It’s Official: JavaScript Is The Most Commonly Used Programming Language On Earth</a>, <a href="http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos">How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript</a> и <a href="http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm">kik, left-pad, and npm</a></li>
-  <li><a href="https://medium.com/@richtr/apple-is-bad-news-for-the-future-of-the-web-6027b000b0c4">Apple is bad news for the future of the Web</a>, <a href="http://www.heydonworks.com/article/progressive-enhancement-makes-me-sad">Progressive Enhancement Makes Me Sad</a> и <a href="https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha">Testing React Components with Enzyme and Mocha</a></li>
-  <li><a href="https://github.com/appetizermonster/hain">Hain - an alternative to Alfred for Windows, built with Electron</a>, <a href="http://www.kri.gs/eventcontrol/">EventControl - jQuery timeline control with support for stacking events</a> и <a href="https://github.com/soenkekluth/sticky-state">StickyState adds state to position:sticky elements and also polyfills the missing native sticky feature</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@tair/how-to-upgrade-to-rails-5-657b3bfd83">How to upgrade to Rails 5</a>, <a href="http://www.akitaonrails.com/2016/03/23/improving-your-microservices-integration-performance-with-memcache-and-etags">Improving your Microservices Integration Performance with Memcache and ETAGs</a> и <a href="https://robots.thoughtbot.com/rebuilding-git-in-ruby">Rebuilding Git in Ruby</a></li>
-  <li><a href="http://blog.arkency.com/2016/03/custom-typecasting-with-activerecord-virtus-and-dry-types/">Custom type-casting with ActiveRecord, Virtus and dry-types</a>, <a href="http://chrisstump.online/2016/03/23/stop-abusing-notimplementederror/">Please Stop Abusing NotImplementedError</a> и <a href="https://aaronprice.ca/the-hidden-cost-of-indexes">The hidden cost of indexes</a></li>
-  <li><a href="https://github.com/atipugin/left_pad">Left_pad - Ruby implementation of famous npm package</a>, <a href="https://github.com/deepcerulean/passive_record">PassiveRecord - an extremely lightweight in-memory pseudo-relational algebra</a> и <a href="http://www.flyingmachinestudios.com/programming/timeless-tools/">Timeless Programming Tools</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://arc.applause.com/2016/03/22/javascript-is-the-worlds-dominant-programming-language/">It’s Official: JavaScript Is The Most Commonly Used Programming Language On Earth</a>, <a href="http://www.theregister.co.uk/2016/03/23/npm_left_pad_chaos">How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript</a> и <a href="http://blog.npmjs.org/post/141577284765/kik-left-pad-and-npm">kik, left-pad, and npm</a></li>
-  <li><a href="https://medium.com/@richtr/apple-is-bad-news-for-the-future-of-the-web-6027b000b0c4">Apple is bad news for the future of the Web</a>, <a href="http://www.heydonworks.com/article/progressive-enhancement-makes-me-sad">Progressive Enhancement Makes Me Sad</a> и <a href="https://semaphoreci.com/community/tutorials/testing-react-components-with-enzyme-and-mocha">Testing React Components with Enzyme and Mocha</a></li>
-  <li><a href="https://github.com/appetizermonster/hain">Hain - an alternative to Alfred for Windows, built with Electron</a>, <a href="http://www.kri.gs/eventcontrol/">EventControl - jQuery timeline control with support for stacking events</a> и <a href="https://github.com/soenkekluth/sticky-state">StickyState adds state to position:sticky elements and also polyfills the missing native sticky feature</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Wed, 30 Mar 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/03/30/podcast-04-12.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/03/30/podcast-04-12.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/148/file/podfm_rwpod_my_12_148.mp3" length="41040224" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/148/file/podfm_rwpod_my_12_148.mp3" fileSize="41040224" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  How to upgrade to Rails 5, Improving your Micr...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-How to upgrade to Rails 5, Improving your Microservices Integration Performance with Memcache and ETAGs и Rebuilding Git in Ruby
-
-  
-Custom type-casting with ActiveRecord, Virtus and dry-types, Please Stop Abusing NotImplementedError и The hidden cost of indexes
-
-  
-Left_pad - Ruby implementation of famous npm package, PassiveRecord - an extremely lightweight in-memory pseudo-relational algebra и Timeless Programming Tools
-
-
-
-JavaScript
-
-
-  
-It’s Official: JavaScript Is The Most Commonly Used Programming Language On Earth, How one developer just broke Node, Babel and thousands of projects in 11 lines of JavaScript и kik, left-pad, and npm
-
-  
-Apple is bad news for the future of the Web, Progressive Enhancement Makes Me Sad и Testing React Components with Enzyme and Mocha
-
-  
-Hain - an alternative to Alfred for Windows, built with Electron, EventControl - jQuery timeline control with support for stacking events и StickyState adds state to position:sticky elements and also polyfills the missing native sticky feature
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0412.png"/>
-  <itunes:duration>00:42:39</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
