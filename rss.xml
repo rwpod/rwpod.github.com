@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Sun, 22 Jan 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Sun, 22 Jan 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 30 Jan 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Jan 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>04 выпуск 05 сезона. ROM 3.0, Ionic 2.0.0 Final, Elixir for Rubyists, Swarm-numberformat, Tilt.js, QArt.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://rom-rb.org/blog/rom-3-0-released/">ROM 3.0 Released</a>, <a href="https://pragtob.wordpress.com/2017/01/24/benchmarking-a-go-ai-in-ruby-cruby-vs-rubinius-vs-jruby-vs-truffle-a-year-later/">Benchmarking a Go AI in Ruby: CRuby vs. Rubinius vs. JRuby vs. Truffle – a year later</a> и <a href="https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017/answer/David-Heinemeier-Hansson?srid=tfS&amp;share=1">What makes Rails a framework worth learning in 2017?</a></li>
+  <li><a href="http://www.carlosramireziii.com/how-to-add-active-admin-to-a-rails-5-api-application.html">How To Add Active Admin to a Rails 5 API Application</a> и <a href="https://hackernoon.com/smooth-coordinator-1427dce17f00">Build your first Facebook Messenger bot in Ruby with Sinatra</a></li>
+  <li><a href="http://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/">The Difference Between to_s &amp; to_str In Ruby</a>, <a href="https://startlearningelixir.com/elixir-for-rubyists">Elixir for Rubyists</a> и <a href="https://www.driftingruby.com/episodes/random-ruby-tips-and-tricks">Random Ruby Tips and Tricks</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.ionic.io/announcing-ionic-2-0-0-final/">Announcing Ionic 2.0.0 Final</a>, <a href="http://www.2ality.com/2017/01/shared-array-buffer.html">ES proposal: Shared memory and atomics</a> и <a href="https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/">Making Responsive HTML Email Coding Easy With MJML</a></li>
+  <li><a href="https://rsms.me/wasm-intro">Introduction to WebAssembly</a>, <a href="http://blog.mgechev.com/2017/01/17/angular-in-production/">Angular in Production</a> и <a href="https://rachelandrew.co.uk/archives/2017/01/24/the-end-of-the-clearfix-hack/">The end of the clearfix hack?</a></li>
+  <li><a href="https://erosson.github.io/swarm-numberformat/">Swarm-numberformat - format large numbers in several human-readable ways</a>, <a href="http://gijsroge.github.io/tilt.js/">Tilt.js - tiny requestAnimationFrame powered 60+fps</a> и <a href="https://kciter.github.io/qart.js/">QArt.js - generate artistic QR code</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://rom-rb.org/blog/rom-3-0-released/">ROM 3.0 Released</a>, <a href="https://pragtob.wordpress.com/2017/01/24/benchmarking-a-go-ai-in-ruby-cruby-vs-rubinius-vs-jruby-vs-truffle-a-year-later/">Benchmarking a Go AI in Ruby: CRuby vs. Rubinius vs. JRuby vs. Truffle – a year later</a> и <a href="https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017/answer/David-Heinemeier-Hansson?srid=tfS&amp;share=1">What makes Rails a framework worth learning in 2017?</a></li>
+  <li><a href="http://www.carlosramireziii.com/how-to-add-active-admin-to-a-rails-5-api-application.html">How To Add Active Admin to a Rails 5 API Application</a> и <a href="https://hackernoon.com/smooth-coordinator-1427dce17f00">Build your first Facebook Messenger bot in Ruby with Sinatra</a></li>
+  <li><a href="http://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/">The Difference Between to_s &amp; to_str In Ruby</a>, <a href="https://startlearningelixir.com/elixir-for-rubyists">Elixir for Rubyists</a> и <a href="https://www.driftingruby.com/episodes/random-ruby-tips-and-tricks">Random Ruby Tips and Tricks</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.ionic.io/announcing-ionic-2-0-0-final/">Announcing Ionic 2.0.0 Final</a>, <a href="http://www.2ality.com/2017/01/shared-array-buffer.html">ES proposal: Shared memory and atomics</a> и <a href="https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/">Making Responsive HTML Email Coding Easy With MJML</a></li>
+  <li><a href="https://rsms.me/wasm-intro">Introduction to WebAssembly</a>, <a href="http://blog.mgechev.com/2017/01/17/angular-in-production/">Angular in Production</a> и <a href="https://rachelandrew.co.uk/archives/2017/01/24/the-end-of-the-clearfix-hack/">The end of the clearfix hack?</a></li>
+  <li><a href="https://erosson.github.io/swarm-numberformat/">Swarm-numberformat - format large numbers in several human-readable ways</a>, <a href="http://gijsroge.github.io/tilt.js/">Tilt.js - tiny requestAnimationFrame powered 60+fps</a> и <a href="https://kciter.github.io/qart.js/">QArt.js - generate artistic QR code</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Jan 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/01/30/podcast-05-04.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/30/podcast-05-04.html</guid>
+  <enclosure url="http://rwpod.podfm.ru/my/189/file/podfm_rwpod_my_4_189.mp3" length="59916984" type="audio/mpeg"/>
+  <media:content url="http://rwpod.podfm.ru/my/189/file/podfm_rwpod_my_4_189.mp3" fileSize="59916984" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  ROM 3.0 Released, Benchmarking a Go AI in Ruby...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+ROM 3.0 Released, Benchmarking a Go AI in Ruby: CRuby vs. Rubinius vs. JRuby vs. Truffle – a year later и What makes Rails a framework worth learning in 2017?
+
+  
+How To Add Active Admin to a Rails 5 API Application и Build your first Facebook Messenger bot in Ruby with Sinatra
+
+  
+The Difference Between to_s &amp; to_str In Ruby, Elixir for Rubyists и Random Ruby Tips and Tricks
+
+
+
+JavaScript
+
+
+  
+Announcing Ionic 2.0.0 Final, ES proposal: Shared memory and atomics и Making Responsive HTML Email Coding Easy With MJML
+
+  
+Introduction to WebAssembly, Angular in Production и The end of the clearfix hack?
+
+  
+Swarm-numberformat - format large numbers in several human-readable ways, Tilt.js - tiny requestAnimationFrame powered 60+fps и QArt.js - generate artistic QR code
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0504.png"/>
+  <itunes:duration>01:02:25</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>03 выпуск 05 сезона. Passenger 5.1, Webpack 2.2, KaTeX for Ruby, Chartkick, Mermaid, LocalForage, Tone.js и прочее</title>
   <description>
@@ -3780,99 +3873,6 @@ Our Justified Layout Goes Open Source, Popper.js - a library used to create popp
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0414.png"/>
   <itunes:duration>00:50:28</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>13 выпуск 04 сезона. Query Composer, Trailblazer, npm's unpublish policy, Safari Technology Preview и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/03/29/rails-5-changed-default-active-job-adapter-to-async.html">Rails 5 changed Active Job default adapter from Inline to Async</a> и <a href="http://weblog.jamisbuck.org/2016/3/26/introducing-query-composer.html">Introducing the Query Composer</a></li>
-  <li><a href="http://dalibornasevic.com/posts/68-processing-large-csv-files-with-ruby">Processing large CSV files with Ruby</a> и <a href="http://eftimov.net/your-first-rubygems-plugin">Write your first Rubygems plugin</a></li>
-  <li><a href="http://trailblazer.to/">Trailblazer gives you a high-level architecture for web applications</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://nodejs.org/en/blog/vulnerability/npm-tokens-leak-march-2016/">NPM security vulnerability with leaking authentication headers</a>, <a href="http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy">Changes to npm’s unpublish policy</a> и <a href="https://webkit.org/blog/6017/introducing-safari-technology-preview/">Introducing Safari Technology Preview</a></li>
-  <li><a href="http://thenewcode.com/895/JavaScript-Rounding-Recipes">JavaScript Rounding Recipes</a> и <a href="https://www.kriasoft.com/babel-starter-kit/recipes/throwing-errors-with-fbjs-invariant">Throwing errors with FB’s invariant library</a></li>
-  <li><a href="http://evanw.github.io/thinscript/">Thinscript - language that compiles to both WebAssembly and JavaScript</a> и <a href="http://yiom.github.io/sketchpad/">Sketchpad - a simple sketchpad library</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/03/29/rails-5-changed-default-active-job-adapter-to-async.html">Rails 5 changed Active Job default adapter from Inline to Async</a> и <a href="http://weblog.jamisbuck.org/2016/3/26/introducing-query-composer.html">Introducing the Query Composer</a></li>
-  <li><a href="http://dalibornasevic.com/posts/68-processing-large-csv-files-with-ruby">Processing large CSV files with Ruby</a> и <a href="http://eftimov.net/your-first-rubygems-plugin">Write your first Rubygems plugin</a></li>
-  <li><a href="http://trailblazer.to/">Trailblazer gives you a high-level architecture for web applications</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://nodejs.org/en/blog/vulnerability/npm-tokens-leak-march-2016/">NPM security vulnerability with leaking authentication headers</a>, <a href="http://blog.npmjs.org/post/141905368000/changes-to-npms-unpublish-policy">Changes to npm’s unpublish policy</a> и <a href="https://webkit.org/blog/6017/introducing-safari-technology-preview/">Introducing Safari Technology Preview</a></li>
-  <li><a href="http://thenewcode.com/895/JavaScript-Rounding-Recipes">JavaScript Rounding Recipes</a> и <a href="https://www.kriasoft.com/babel-starter-kit/recipes/throwing-errors-with-fbjs-invariant">Throwing errors with FB’s invariant library</a></li>
-  <li><a href="http://evanw.github.io/thinscript/">Thinscript - language that compiles to both WebAssembly and JavaScript</a> и <a href="http://yiom.github.io/sketchpad/">Sketchpad - a simple sketchpad library</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 05 Apr 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/04/05/podcast-04-13.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/04/05/podcast-04-13.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/149/file/podfm_rwpod_my_13_149.mp3" length="25438567" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/149/file/podfm_rwpod_my_13_149.mp3" fileSize="25438567" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5 changed Active Job default adapter fro...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5 changed Active Job default adapter from Inline to Async и Introducing the Query Composer
-
-  
-Processing large CSV files with Ruby и Write your first Rubygems plugin
-
-  Trailblazer gives you a high-level architecture for web applications
-
-
-JavaScript
-
-
-  
-NPM security vulnerability with leaking authentication headers, Changes to npm’s unpublish policy и Introducing Safari Technology Preview
-
-  
-JavaScript Rounding Recipes и Throwing errors with FB’s invariant library
-
-  
-Thinscript - language that compiles to both WebAssembly and JavaScript и Sketchpad - a simple sketchpad library
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0413.png"/>
-  <itunes:duration>00:26:23</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
