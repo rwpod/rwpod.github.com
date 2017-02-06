@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 30 Jan 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 30 Jan 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Tue, 07 Feb 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,117 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>05 выпуск 05 сезона. Node.js 7.5.0, Blazer, Awesome NLP with Ruby, Letsencrypt_heroku, ES7 and ES8 Features, Mithril и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.redpanthers.co/behind-scenes-hash-table-performance-ruby-2-4/">Behind the scenes of hash table performance in ruby 2.4</a> и <a href="https://blog.ragnarson.com/2017/01/31/blazer-a-great-tool-to-see-what-data-you-get.html">Blazer - a great tool to see what (data) you get</a></li>
+  <li><a href="https://blog.fluentz.io/learn-how-to-achieve-parallelism-with-ruby-i-o-bound-threads-a29c92aff58c">Learn how to achieve parallelism with Ruby MRI using I/O bound threads</a> и <a href="http://www.rubyletter.com/blog/2017/01/31/when-to-use-ruby-bang.html">When Method Names Should Go Out with a Bang</a></li>
+  <li><a href="http://rubynlp.org/">Awesome NLP with Ruby</a>, <a href="https://www.driftingruby.com/episodes/managing-servers-with-ansible">Managing Servers with Ansible</a>, <a href="https://github.com/xijo/letsencrypt_heroku">Letsencrypt_heroku - automated letsencrypt setup for heroku</a> и <a href="https://github.com/KMarshland/heroku-ssl">Heroku SSL - quickly and easily add SSL to Rails applications on Heroku</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V7.md#7.5.0">Node.js 7.5.0</a>, <a href="https://nodejs.org/static/documents/casestudies/Node_CaseStudy_Nasa_FNL.pdf">Node.js Helps NASA Keep Astronauts Safe and Data Accessible</a> и <a href="https://medium.com/selleo/when-you-should-not-pick-emberjs-as-your-next-front-end-tool-203697c2e0f0">When you should not pick EmberJS as your next front-end tool</a></li>
+  <li><a href="https://node.university/blog/498412/es7-es8">ES7 and ES8 Features</a> и <a href="https://bitsofco.de/how-calc-works/">How calc() Works</a></li>
+  <li><a href="https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details">Front-End Developer Handbook 2017</a>, <a href="http://mithril.js.org/">Mithril - a modern client-side Javascript framework for building Single Page Applications</a> и <a href="https://github.com/bevacqua/sixflix">Sixflix - detects whether a host environment supports ES6</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #13</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.redpanthers.co/behind-scenes-hash-table-performance-ruby-2-4/">Behind the scenes of hash table performance in ruby 2.4</a> и <a href="https://blog.ragnarson.com/2017/01/31/blazer-a-great-tool-to-see-what-data-you-get.html">Blazer - a great tool to see what (data) you get</a></li>
+  <li><a href="https://blog.fluentz.io/learn-how-to-achieve-parallelism-with-ruby-i-o-bound-threads-a29c92aff58c">Learn how to achieve parallelism with Ruby MRI using I/O bound threads</a> и <a href="http://www.rubyletter.com/blog/2017/01/31/when-to-use-ruby-bang.html">When Method Names Should Go Out with a Bang</a></li>
+  <li><a href="http://rubynlp.org/">Awesome NLP with Ruby</a>, <a href="https://www.driftingruby.com/episodes/managing-servers-with-ansible">Managing Servers with Ansible</a>, <a href="https://github.com/xijo/letsencrypt_heroku">Letsencrypt_heroku - automated letsencrypt setup for heroku</a> и <a href="https://github.com/KMarshland/heroku-ssl">Heroku SSL - quickly and easily add SSL to Rails applications on Heroku</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/nodejs/node/blob/master/doc/changelogs/CHANGELOG_V7.md#7.5.0">Node.js 7.5.0</a>, <a href="https://nodejs.org/static/documents/casestudies/Node_CaseStudy_Nasa_FNL.pdf">Node.js Helps NASA Keep Astronauts Safe and Data Accessible</a> и <a href="https://medium.com/selleo/when-you-should-not-pick-emberjs-as-your-next-front-end-tool-203697c2e0f0">When you should not pick EmberJS as your next front-end tool</a></li>
+  <li><a href="https://node.university/blog/498412/es7-es8">ES7 and ES8 Features</a> и <a href="https://bitsofco.de/how-calc-works/">How calc() Works</a></li>
+  <li><a href="https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details">Front-End Developer Handbook 2017</a>, <a href="http://mithril.js.org/">Mithril - a modern client-side Javascript framework for building Single Page Applications</a> и <a href="https://github.com/bevacqua/sixflix">Sixflix - detects whether a host environment supports ES6</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #13</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 07 Feb 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/02/07/podcast-05-05.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/02/07/podcast-05-05.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0505.mp3" length="47054735" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0505.mp3" fileSize="47054735" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Behind the scenes of hash table performance in...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Behind the scenes of hash table performance in ruby 2.4 и Blazer - a great tool to see what (data) you get
+
+  
+Learn how to achieve parallelism with Ruby MRI using I/O bound threads и When Method Names Should Go Out with a Bang
+
+  
+Awesome NLP with Ruby, Managing Servers with Ansible, Letsencrypt_heroku - automated letsencrypt setup for heroku и Heroku SSL - quickly and easily add SSL to Rails applications on Heroku
+
+
+
+JavaScript
+
+
+  
+Node.js 7.5.0, Node.js Helps NASA Keep Astronauts Safe and Data Accessible и When you should not pick EmberJS as your next front-end tool
+
+  
+ES7 and ES8 Features и How calc() Works
+
+  
+Front-End Developer Handbook 2017, Mithril - a modern client-side Javascript framework for building Single Page Applications и Sixflix - detects whether a host environment supports ES6
+
+
+
+Conferences
+
+
+  Ruby Meditation #13
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0505.png"/>
+  <itunes:duration>00:48:54</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>04 выпуск 05 сезона. ROM 3.0, Ionic 2.0.0 Final, Elixir for Rubyists, Swarm-numberformat, Tilt.js, QArt.js и прочее</title>
   <description>
@@ -78,8 +189,8 @@
   <pubDate>Mon, 30 Jan 2017 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2017/01/30/podcast-05-04.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/30/podcast-05-04.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/189/file/podfm_rwpod_my_4_189.mp3" length="59916984" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/189/file/podfm_rwpod_my_4_189.mp3" fileSize="59916984" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0504.mp3" length="59916984" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0504.mp3" fileSize="59916984" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -171,8 +282,8 @@ Swarm-numberformat - format large numbers in several human-readable ways, Tilt.j
   <pubDate>Sun, 22 Jan 2017 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2017/01/22/podcast-05-03.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/22/podcast-05-03.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/188/file/podfm_rwpod_my_3_188.mp3" length="40647215" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/188/file/podfm_rwpod_my_3_188.mp3" fileSize="40647215" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0503.mp3" length="40647215" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0503.mp3" fileSize="40647215" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -235,7 +346,6 @@ Mermaid - generation of diagrams and flowcharts from text in a similar manner as
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -256,14 +366,13 @@ Mermaid - generation of diagrams and flowcharts from text in a similar manner as
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 17 Jan 2017 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2017/01/17/podcast-05-02.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/17/podcast-05-02.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/187/file/podfm_rwpod_my_2_187.mp3" length="29440223" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/187/file/podfm_rwpod_my_2_187.mp3" fileSize="29440223" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0502.mp3" length="29440223" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0502.mp3" fileSize="29440223" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -322,7 +431,6 @@ Build Your Own Atom Theme with CSS, Vuelidate - simple, lightweight model-based 
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -345,14 +453,13 @@ Build Your Own Atom Theme with CSS, Vuelidate - simple, lightweight model-based 
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 09 Jan 2017 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2017/01/09/podcast-05-01.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/09/podcast-05-01.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/186/file/podfm_rwpod_my_1_186.mp3" length="43692225" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/186/file/podfm_rwpod_my_1_186.mp3" fileSize="43692225" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0501.mp3" length="43692225" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0501.mp3" fileSize="43692225" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -3760,119 +3867,6 @@ Awesome JavaScript, Interactive 3D Mall Map и Object.toSting() polyfill
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0415.png"/>
   <itunes:duration>00:41:08</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>14 выпуск 04 сезона. RubyGems.org vulnerability, React v15.0.1, Grunt 1.0.0, Picguard, Glio.js, SassMe и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.rubygems.org/2016/04/06/gem-replacement-vulnerability-and-mitigation.html">RubyGems.org gem replacement vulnerability and mitigation</a> и <a href="http://til.seansellek.com/chunk_while/">Implementing Ruby 2.3.0: Enumerable’s chunk_while</a></li>
-  <li><a href="http://jakeyesbeck.com/2016/04/03/how-to-deal-with-timezones-the-active-support-way/">How to Deal with Timezones the Active Support Way</a> и <a href="http://andrewmarkle.com/2016/04/06/multitenancy-with-pundit.html">Simple Multitenancy with Rails and Pundit</a></li>
-  <li><a href="http://gavinmiller.io/2016/a-tale-of-security-gone-wrong/">A Tale of Security Gone Wrong</a>, <a href="http://patshaughnessy.net/2016/4/2/two-dumb-ruby-mistakes">Two Dumb Ruby Mistakes</a> и <a href="https://www.netguru.co/blog/image-processing-for-rails">Netguru Presents: Picguard - Visual Content Processing In Rails</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://facebook.github.io/react/blog/2016/04/08/react-v15.0.1.html">React v15.0.1</a>, <a href="http://gruntjs.com/blog/2016-04-04-grunt-1.0.0-released">Grunt 1.0.0</a> и <a href="https://github.com/WICG/IntersectionObserver/blob/master/explainer.md">Chrome 51 adds Intersection Observer: Get visibility of DOM elements relative to a viewport without polling</a></li>
-  <li><a href="https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9">Webpack - The Confusing Parts</a>, <a href="https://auth0.com/blog/2016/03/15/javascript-module-systems-showdown/">JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015</a>, <a href="https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/">4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them</a> и <a href="https://addyosmani.com/blog/using-npm-offline/">Offline installation of npm packages</a></li>
-  <li><a href="http://code.flickr.net/2016/04/05/our-justified-layout-goes-open-source/">Our Justified Layout Goes Open Source</a>, <a href="https://fezvrasta.github.io/popper.js/">Popper.js - a library used to create poppers in web applications</a>, <a href="http://luisvinicius167.github.io/gliojs/">Glio.js - detects if the mouse of an user leaves the viewport/document borders of your website</a>, <a href="https://github.com/charto/cwait">Cwait - limit number of promises running in parallel</a> и <a href="http://sassme.arc90.com/">SassMe - visualize SASS color functions</a></li>
-</ul>
-
-<h2 id="section">Скринкасты</h2>
-
-<ul>
-  <li><a href="https://www.youtube.com/channel/UC_CA1uZFuVdBfLSHf2qEwyg">RWpod скринкасты</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.rubygems.org/2016/04/06/gem-replacement-vulnerability-and-mitigation.html">RubyGems.org gem replacement vulnerability and mitigation</a> и <a href="http://til.seansellek.com/chunk_while/">Implementing Ruby 2.3.0: Enumerable’s chunk_while</a></li>
-  <li><a href="http://jakeyesbeck.com/2016/04/03/how-to-deal-with-timezones-the-active-support-way/">How to Deal with Timezones the Active Support Way</a> и <a href="http://andrewmarkle.com/2016/04/06/multitenancy-with-pundit.html">Simple Multitenancy with Rails and Pundit</a></li>
-  <li><a href="http://gavinmiller.io/2016/a-tale-of-security-gone-wrong/">A Tale of Security Gone Wrong</a>, <a href="http://patshaughnessy.net/2016/4/2/two-dumb-ruby-mistakes">Two Dumb Ruby Mistakes</a> и <a href="https://www.netguru.co/blog/image-processing-for-rails">Netguru Presents: Picguard - Visual Content Processing In Rails</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://facebook.github.io/react/blog/2016/04/08/react-v15.0.1.html">React v15.0.1</a>, <a href="http://gruntjs.com/blog/2016-04-04-grunt-1.0.0-released">Grunt 1.0.0</a> и <a href="https://github.com/WICG/IntersectionObserver/blob/master/explainer.md">Chrome 51 adds Intersection Observer: Get visibility of DOM elements relative to a viewport without polling</a></li>
-  <li><a href="https://medium.com/@rajaraodv/webpack-the-confusing-parts-58712f8fcad9">Webpack - The Confusing Parts</a>, <a href="https://auth0.com/blog/2016/03/15/javascript-module-systems-showdown/">JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015</a>, <a href="https://auth0.com/blog/2016/01/26/four-types-of-leaks-in-your-javascript-code-and-how-to-get-rid-of-them/">4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them</a> и <a href="https://addyosmani.com/blog/using-npm-offline/">Offline installation of npm packages</a></li>
-  <li><a href="http://code.flickr.net/2016/04/05/our-justified-layout-goes-open-source/">Our Justified Layout Goes Open Source</a>, <a href="https://fezvrasta.github.io/popper.js/">Popper.js - a library used to create poppers in web applications</a>, <a href="http://luisvinicius167.github.io/gliojs/">Glio.js - detects if the mouse of an user leaves the viewport/document borders of your website</a>, <a href="https://github.com/charto/cwait">Cwait - limit number of promises running in parallel</a> и <a href="http://sassme.arc90.com/">SassMe - visualize SASS color functions</a></li>
-</ul>
-
-<h2 id="section">Скринкасты</h2>
-
-<ul>
-  <li><a href="https://www.youtube.com/channel/UC_CA1uZFuVdBfLSHf2qEwyg">RWpod скринкасты</a></li>
-</ul>
-
-<p></p>
-
-]]>
-  </content:encoded>
-  <pubDate>Tue, 12 Apr 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/04/12/podcast-04-14.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/04/12/podcast-04-14.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/150/file/podfm_rwpod_my_14_150.mp3" length="48556786" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/150/file/podfm_rwpod_my_14_150.mp3" fileSize="48556786" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  RubyGems.org gem replacement vulnerability and...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-RubyGems.org gem replacement vulnerability and mitigation и Implementing Ruby 2.3.0: Enumerable’s chunk_while
-
-  
-How to Deal with Timezones the Active Support Way и Simple Multitenancy with Rails and Pundit
-
-  
-A Tale of Security Gone Wrong, Two Dumb Ruby Mistakes и Netguru Presents: Picguard - Visual Content Processing In Rails
-
-
-
-JavaScript
-
-
-  
-React v15.0.1, Grunt 1.0.0 и Chrome 51 adds Intersection Observer: Get visibility of DOM elements relative to a viewport without polling
-
-  
-Webpack - The Confusing Parts, JavaScript Module Systems Showdown: CommonJS vs AMD vs ES2015, 4 Types of Memory Leaks in JavaScript and How to Get Rid Of Them и Offline installation of npm packages
-
-  
-Our Justified Layout Goes Open Source, Popper.js - a library used to create poppers in web applications, Glio.js - detects if the mouse of an user leaves the viewport/document borders of your website, Cwait - limit number of promises running in parallel и SassMe - visualize SASS color functions
-
-
-
-Скринкасты
-
-
-  RWpod скринкасты
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0414.png"/>
-  <itunes:duration>00:50:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
