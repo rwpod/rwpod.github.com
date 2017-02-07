@@ -547,8 +547,8 @@ MobX - Like React, but for Data, BunnyJS - Browser ES6 framework, Table-dragger 
   <pubDate>Mon, 26 Dec 2016 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2016/12/26/podcast-04-49.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/12/26/podcast-04-49.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/185/file/podfm_rwpod_my_49.mp3" length="26550345" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/185/file/podfm_rwpod_my_49.mp3" fileSize="26550345" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0449.mp3" length="26550345" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0449.mp3" fileSize="26550345" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -607,7 +607,6 @@ HoloJS - framework for creating holographic apps using JavaScript and WebGL, RxD
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -630,14 +629,13 @@ HoloJS - framework for creating holographic apps using JavaScript and WebGL, RxD
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 19 Dec 2016 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2016/12/19/podcast-04-48.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/12/19/podcast-04-48.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/184/file/podfm_rwpod_my_48_184.mp3" length="33378830" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/184/file/podfm_rwpod_my_48_184.mp3" fileSize="33378830" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0448.mp3" length="33378830" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0448.mp3" fileSize="33378830" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -708,7 +706,6 @@ Vuetify - a component framework for Vue.js 2, Voca - the ultimate JavaScript str
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -737,14 +734,13 @@ Vuetify - a component framework for Vue.js 2, Voca - the ultimate JavaScript str
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 12 Dec 2016 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2016/12/12/podcast-04-47.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/12/12/podcast-04-47.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/183/file/podfm_rwpod_my_47_183.mp3" length="46708145" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/183/file/podfm_rwpod_my_47_183.mp3" fileSize="46708145" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0447.mp3" length="46708145" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0447.mp3" fileSize="46708145" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -815,7 +811,6 @@ Conferences
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -838,14 +833,13 @@ Conferences
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 29 Nov 2016 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2016/11/29/podcast-04-46.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/29/podcast-04-46.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/182/file/podfm_rwpod_my_46_182.mp3" length="46069769" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/182/file/podfm_rwpod_my_46_182.mp3" fileSize="46069769" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0446.mp3" length="46069769" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0446.mp3" fileSize="46069769" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -910,7 +904,6 @@ Ant Design - an enterprise-class UI design language and React-based implementati
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -933,14 +926,13 @@ Ant Design - an enterprise-class UI design language and React-based implementati
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 21 Nov 2016 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2016/11/21/podcast-04-45.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/21/podcast-04-45.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/181/file/podfm_rwpod_my_45_181.mp3" length="36708877" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/181/file/podfm_rwpod_my_45_181.mp3" fileSize="36708877" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0445.mp3" length="36708877" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0445.mp3" fileSize="36708877" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1005,7 +997,6 @@ Lazy Loading Responsive Adsense Ads, AsciiMorph - a small stand alone javascript
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1028,14 +1019,13 @@ Lazy Loading Responsive Adsense Ads, AsciiMorph - a small stand alone javascript
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 15 Nov 2016 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2016/11/15/podcast-04-44.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/15/podcast-04-44.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/180/file/podfm_rwpod_my_44_180.mp3" length="34701053" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/180/file/podfm_rwpod_my_44_180.mp3" fileSize="34701053" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0444.mp3" length="34701053" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0444.mp3" fileSize="34701053" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1100,7 +1090,6 @@ Whitestorm.js - framework for developing 3D web apps, Sprite Spirit - generator 
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1123,14 +1112,13 @@ Whitestorm.js - framework for developing 3D web apps, Sprite Spirit - generator 
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 08 Nov 2016 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2016/11/08/podcast-04-43.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/08/podcast-04-43.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/179/file/podfm_rwpod_my_43_179.mp3" length="20994674" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/179/file/podfm_rwpod_my_43_179.mp3" fileSize="20994674" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0443.mp3" length="20994674" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0443.mp3" fileSize="20994674" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1195,7 +1183,6 @@ Tesseract.js: How To OCR Remote Images from a URL in Node, Egjs - a jQuery-based
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1218,14 +1205,13 @@ Tesseract.js: How To OCR Remote Images from a URL in Node, Egjs - a jQuery-based
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 01 Nov 2016 00:00:00 +0200</pubDate>
   <link>http://www.rwpod.com/posts/2016/11/01/podcast-04-42.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/01/podcast-04-42.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/178/file/podfm_rwpod_my_42_178.mp3" length="41889690" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/178/file/podfm_rwpod_my_42_178.mp3" fileSize="41889690" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0442.mp3" length="41889690" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0442.mp3" fileSize="41889690" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1297,7 +1283,6 @@ Next.js – small framework for server-rendered universal JavaScript apps, MathJ
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1327,14 +1312,13 @@ Next.js – small framework for server-rendered universal JavaScript apps, MathJ
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 25 Oct 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/10/25/podcast-04-41.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/25/podcast-04-41.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/177/file/podfm_rwpod_my_41_177.mp3" length="36794018" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/177/file/podfm_rwpod_my_41_177.mp3" fileSize="36794018" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0441.mp3" length="36794018" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0441.mp3" fileSize="36794018" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1404,7 +1388,6 @@ Conferences
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1425,14 +1408,13 @@ Conferences
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 17 Oct 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/10/17/podcast-04-40.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/17/podcast-04-40.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/176/file/podfm_rwpod_my_40_176.mp3" length="25973089" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/176/file/podfm_rwpod_my_40_176.mp3" fileSize="25973089" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0440.mp3" length="25973089" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0440.mp3" fileSize="25973089" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1491,7 +1473,6 @@ Stupid ES6 tricks, You Might Not Need JavaScript - examples of common UI element
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1514,14 +1495,13 @@ Stupid ES6 tricks, You Might Not Need JavaScript - examples of common UI element
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 10 Oct 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/10/10/podcast-04-39.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/10/podcast-04-39.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/175/file/podfm_rwpod_my_39_175.mp3" length="32569547" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/175/file/podfm_rwpod_my_39_175.mp3" fileSize="32569547" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0439.mp3" length="32569547" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0439.mp3" fileSize="32569547" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1584,7 +1564,6 @@ JavaScript Internationalization API, KUTE.js - a native Javascript animation eng
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1605,14 +1584,13 @@ JavaScript Internationalization API, KUTE.js - a native Javascript animation eng
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 04 Oct 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/10/04/podcast-04-38.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/04/podcast-04-38.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/174/file/podfm_rwpod_my_38_174.mp3" length="20342189" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/174/file/podfm_rwpod_my_38_174.mp3" fileSize="20342189" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0438.mp3" length="20342189" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0438.mp3" fileSize="20342189" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1671,7 +1649,6 @@ Codebase Overview, Node.js debugging with Chrome DevTools (in parallel with brow
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1694,14 +1671,13 @@ Codebase Overview, Node.js debugging with Chrome DevTools (in parallel with brow
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 27 Sep 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/09/27/podcast-04-37.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/09/27/podcast-04-37.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/173/file/podfm_rwpod_my_37_173.mp3" length="58192280" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/173/file/podfm_rwpod_my_37_173.mp3" fileSize="58192280" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0437.mp3" length="58192280" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0437.mp3" fileSize="58192280" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1767,7 +1743,6 @@ Why We Won’t Be Writing JavaScript in Five Years, You Might Not Need Redux и 
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1790,14 +1765,13 @@ Why We Won’t Be Writing JavaScript in Five Years, You Might Not Need Redux и 
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 20 Sep 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/09/20/podcast-04-36.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/09/20/podcast-04-36.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/172/file/podfm_rwpod_my_36_172.mp3" length="37776907" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/172/file/podfm_rwpod_my_36_172.mp3" fileSize="37776907" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0436.mp3" length="37776907" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0436.mp3" fileSize="37776907" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1862,7 +1836,6 @@ React-game-kit - make games with React &amp; React Native, Reframe.js - a javasc
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1885,14 +1858,13 @@ React-game-kit - make games with React &amp; React Native, Reframe.js - a javasc
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 13 Sep 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/09/13/podcast-04-35.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/09/13/podcast-04-35.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/171/file/podfm_rwpod_my_35_171.mp3" length="35256869" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/171/file/podfm_rwpod_my_35_171.mp3" fileSize="35256869" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0435.mp3" length="35256869" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0435.mp3" fileSize="35256869" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -1957,7 +1929,6 @@ Awesome Grid - a curated list of grid(table) libraries and resources, Cookies.js
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -1980,14 +1951,13 @@ Awesome Grid - a curated list of grid(table) libraries and resources, Cookies.js
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 06 Sep 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/09/06/podcast-04-34.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/09/06/podcast-04-34.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/170/file/podfm_rwpod_my_34_170.mp3" length="44162957" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/170/file/podfm_rwpod_my_34_170.mp3" fileSize="44162957" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0434.mp3" length="44162957" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0434.mp3" fileSize="44162957" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2052,7 +2022,6 @@ Cesium - an open-source JavaScript library for world-class 3D globes and maps, G
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -2075,14 +2044,13 @@ Cesium - an open-source JavaScript library for world-class 3D globes and maps, G
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 29 Aug 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/08/29/podcast-04-33.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/29/podcast-04-33.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/169/file/podfm_rwpod_my_33_169.mp3" length="30429572" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/169/file/podfm_rwpod_my_33_169.mp3" fileSize="30429572" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0433.mp3" length="30429572" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0433.mp3" fileSize="30429572" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2145,7 +2113,6 @@ Carbide - an interactive JS programming environment, Odoo: SVG Odometer Effect L
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -2166,14 +2133,13 @@ Carbide - an interactive JS programming environment, Odoo: SVG Odometer Effect L
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 23 Aug 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/08/23/podcast-04-32.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/23/podcast-04-32.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/168/file/podfm_rwpod_my_32_168.mp3" length="33336862" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/168/file/podfm_rwpod_my_32_168.mp3" fileSize="33336862" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0432.mp3" length="33336862" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0432.mp3" fileSize="33336862" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2232,7 +2198,6 @@ Webpack-Dashboard - a CLI dashboard for your webpack dev server, React-dates - a
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -2255,14 +2220,13 @@ Webpack-Dashboard - a CLI dashboard for your webpack dev server, React-dates - a
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 15 Aug 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/08/15/podcast-04-31.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/15/podcast-04-31.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/167/file/podfm_rwpod_my_31_167.mp3" length="45930885" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/167/file/podfm_rwpod_my_31_167.mp3" fileSize="45930885" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0431.mp3" length="45930885" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0431.mp3" fileSize="45930885" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2325,7 +2289,6 @@ JSON.is - open-source documentation for common JSON formats, WAUD.js - Web Audio
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -2346,14 +2309,13 @@ JSON.is - open-source documentation for common JSON formats, WAUD.js - Web Audio
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 09 Aug 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/08/09/podcast-04-30.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/09/podcast-04-30.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/166/file/podfm_rwpod_my_30_166.mp3" length="37819827" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/166/file/podfm_rwpod_my_30_166.mp3" fileSize="37819827" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0430.mp3" length="37819827" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0430.mp3" fileSize="37819827" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2412,7 +2374,6 @@ The for Loop vs. forEach in JavaScript, This Image is Also an HTML Webpage, Bulm
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -2435,14 +2396,13 @@ The for Loop vs. forEach in JavaScript, This Image is Also an HTML Webpage, Bulm
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 02 Aug 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/08/02/podcast-04-29.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/02/podcast-04-29.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/165/file/podfm_rwpod_my_29_165.mp3" length="55549324" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/165/file/podfm_rwpod_my_29_165.mp3" fileSize="55549324" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0429.mp3" length="55549324" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0429.mp3" fileSize="55549324" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2507,7 +2467,6 @@ iziModal - elegant, responsive, flexible and lightweight modal plugin with jQuer
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -2530,14 +2489,13 @@ iziModal - elegant, responsive, flexible and lightweight modal plugin with jQuer
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 26 Jul 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/07/26/podcast-04-28.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/26/podcast-04-28.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/164/file/podfm_rwpod_my_28_164.mp3" length="45448788" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/164/file/podfm_rwpod_my_28_164.mp3" fileSize="45448788" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0428.mp3" length="45448788" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0428.mp3" fileSize="45448788" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2600,7 +2558,6 @@ D4 - Declarative Data-Driven Documents, Howler.js - an audio library for the mod
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -2621,14 +2578,13 @@ D4 - Declarative Data-Driven Documents, Howler.js - an audio library for the mod
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 19 Jul 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/07/19/podcast-04-27.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/19/podcast-04-27.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/163/file/podfm_rwpod_my_27_163.mp3" length="37108458" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/163/file/podfm_rwpod_my_27_163.mp3" fileSize="37108458" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0427.mp3" length="37108458" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0427.mp3" fileSize="37108458" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2687,7 +2643,6 @@ Mixins Considered Harmful, Things I wish I knew about Redux и Cleave.js - forma
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -2710,14 +2665,13 @@ Mixins Considered Harmful, Things I wish I knew about Redux и Cleave.js - forma
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 12 Jul 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/07/12/podcast-04-26.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/12/podcast-04-26.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/162/file/podfm_rwpod_my_26_162.mp3" length="45220788" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/162/file/podfm_rwpod_my_26_162.mp3" fileSize="45220788" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0426.mp3" length="45220788" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0426.mp3" fileSize="45220788" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2782,7 +2736,6 @@ Zingtouch - JavaScript gesture detection library for the modern web, LambCI - se
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -2805,14 +2758,13 @@ Zingtouch - JavaScript gesture detection library for the modern web, LambCI - se
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 05 Jul 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/07/05/podcast-04-25.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/05/podcast-04-25.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/161/file/podfm_rwpod_my_25_161.mp3" length="42808931" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/161/file/podfm_rwpod_my_25_161.mp3" fileSize="42808931" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0425.mp3" length="42808931" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0425.mp3" fileSize="42808931" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2877,7 +2829,6 @@ Atmo - Server Side Api Mocking made easy with UI, Anime - a flexible yet lightwe
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -2900,14 +2851,13 @@ Atmo - Server Side Api Mocking made easy with UI, Anime - a flexible yet lightwe
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 28 Jun 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/06/28/podcast-04-24.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/28/podcast-04-24.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/160/file/podfm_rwpod_my_24_160.mp3" length="40179962" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/160/file/podfm_rwpod_my_24_160.mp3" fileSize="40179962" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0424.mp3" length="40179962" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0424.mp3" fileSize="40179962" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -2978,7 +2928,6 @@ Flatpickr - a lightweight &amp; powerful datetimepicker, GitKit.js - pure JavaSc
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -3007,14 +2956,13 @@ Flatpickr - a lightweight &amp; powerful datetimepicker, GitKit.js - pure JavaSc
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 21 Jun 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/06/21/podcast-04-23.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/21/podcast-04-23.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/159/file/podfm_rwpod_my_23_159.mp3" length="65311415" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/159/file/podfm_rwpod_my_23_159.mp3" fileSize="65311415" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0423.mp3" length="65311415" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0423.mp3" fileSize="65311415" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -3085,7 +3033,6 @@ Conferences
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -3108,14 +3055,13 @@ Conferences
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 14 Jun 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/06/14/podcast-04-22.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/14/podcast-04-22.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/158/file/podfm_rwpod_my_22_158.mp3" length="47241279" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/158/file/podfm_rwpod_my_22_158.mp3" fileSize="47241279" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0422.mp3" length="47241279" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0422.mp3" fileSize="47241279" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -3180,7 +3126,6 @@ V7: Embedded JavaScript engine, Sabertooth - a Javascript Library for interactin
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -3203,14 +3148,13 @@ V7: Embedded JavaScript engine, Sabertooth - a Javascript Library for interactin
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 07 Jun 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/06/07/podcast-04-21.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/07/podcast-04-21.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/157/file/podfm_rwpod_my_21_157.mp3" length="41395438" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/157/file/podfm_rwpod_my_21_157.mp3" fileSize="41395438" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0421.mp3" length="41395438" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0421.mp3" fileSize="41395438" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -3281,7 +3225,6 @@ Barba.js - a small, flexible and dependency free library that helps you creating
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -3310,14 +3253,13 @@ Barba.js - a small, flexible and dependency free library that helps you creating
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 31 May 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/05/31/podcast-04-20.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/05/31/podcast-04-20.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/156/file/podfm_rwpod_my_20_156.mp3" length="53104161" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/156/file/podfm_rwpod_my_20_156.mp3" fileSize="53104161" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0420.mp3" length="53104161" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0420.mp3" fileSize="53104161" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -3388,7 +3330,6 @@ Microlight.js is a micro-library which improves readability of code snippets by 
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -3411,14 +3352,13 @@ Microlight.js is a micro-library which improves readability of code snippets by 
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 23 May 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/05/23/podcast-04-19.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/05/23/podcast-04-19.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/155/file/podfm_rwpod_my_19_155.mp3" length="58845470" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/155/file/podfm_rwpod_my_19_155.mp3" fileSize="58845470" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0419.mp3" length="58845470" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0419.mp3" fileSize="58845470" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -3483,7 +3423,6 @@ Horizon is a realtime, open-source backend for JavaScript apps, NativeBase - the
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -3506,14 +3445,13 @@ Horizon is a realtime, open-source backend for JavaScript apps, NativeBase - the
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Tue, 17 May 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/05/17/podcast-04-18.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/05/17/podcast-04-18.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/154/file/podfm_rwpod_my_18_154.mp3" length="52053235" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/154/file/podfm_rwpod_my_18_154.mp3" fileSize="52053235" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0418.mp3" length="52053235" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0418.mp3" fileSize="52053235" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -3586,7 +3524,6 @@ Talisman - a straightforward &amp; modular NLP, machine learning &amp; fuzzy mat
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -3617,14 +3554,13 @@ Talisman - a straightforward &amp; modular NLP, machine learning &amp; fuzzy mat
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 09 May 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/05/09/podcast-04-17.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/05/09/podcast-04-17.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/153/file/podfm_rwpod_my_17_153.mp3" length="52409686" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/153/file/podfm_rwpod_my_17_153.mp3" fileSize="52409686" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0417.mp3" length="52409686" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0417.mp3" fileSize="52409686" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -3701,7 +3637,6 @@ Algebrite is a Javascript library for symbolic mathematics, Grafi.js is a librar
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -3724,14 +3659,13 @@ Algebrite is a Javascript library for symbolic mathematics, Grafi.js is a librar
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/04/27/podcast-04-16.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/04/27/podcast-04-16.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/152/file/podfm_rwpod_my_16_152.mp3" length="44941283" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/152/file/podfm_rwpod_my_16_152.mp3" fileSize="44941283" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0416.mp3" length="44941283" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0416.mp3" fileSize="44941283" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
@@ -3796,7 +3730,6 @@ Awesome ESLint, TypeScript Deep Dive (book), MaintainableCSS (book) и EmberConf
 </ul>
 
 <p></p>
-
 ]]>
   </description>
   <content:encoded>
@@ -3819,14 +3752,13 @@ Awesome ESLint, TypeScript Deep Dive (book), MaintainableCSS (book) и EmberConf
 </ul>
 
 <p></p>
-
 ]]>
   </content:encoded>
   <pubDate>Mon, 18 Apr 2016 00:00:00 +0300</pubDate>
   <link>http://www.rwpod.com/posts/2016/04/18/podcast-04-15.html</link>
   <guid isPermaLink="true">http://www.rwpod.com/posts/2016/04/18/podcast-04-15.html</guid>
-  <enclosure url="http://rwpod.podfm.ru/my/151/file/podfm_rwpod_my_15_151.mp3" length="39599439" type="audio/mpeg"/>
-  <media:content url="http://rwpod.podfm.ru/my/151/file/podfm_rwpod_my_15_151.mp3" fileSize="39599439" type="audio/mpeg"/>
+  <enclosure url="http://mp3.rwpod.com/podcasts/04/0415.mp3" length="39599439" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/04/0415.mp3" fileSize="39599439" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
   <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
 
