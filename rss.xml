@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 07 Feb 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Tue, 07 Feb 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 13 Feb 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Feb 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>06 выпуск 05 сезона. The Lego Way of Structuring Rails Code, Sidekiq-merger, Relaxo, Kap, Dante II, Notti.js, Lepton и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://engineering.vinted.com/2017/02/13/how-to-structure-code/">The Lego Way of Structuring Rails Code</a>, <a href="http://blog.honeybadger.io/easy_rails_database_scaling_wins/">Simple tips to make scaling your database easier as you grow</a> и <a href="http://www.blackbytes.info/2017/02/hash-tables-explained/">Hash Tables Explained</a></li>
+  <li><a href="https://medium.freecodecamp.com/how-to-dry-out-your-rspec-tests-using-shared-examples-d5cc5d33fd76">How to DRY out your RSpec Tests using Shared Examples</a> и <a href="http://blog.katpadi.ph/autocomplete-with-redis/">Autocomplete Using Redis</a></li>
+  <li><a href="https://github.com/dtaniwaki/sidekiq-merger">Sidekiq-merger - merge sidekiq jobs occurring before the execution times</a>, <a href="https://github.com/ioquatix/relaxo">Relaxo - a transactional database built on top of git. It’s aim is to provide a robust interface for document storage and sorted indexes</a> и <a href="https://www.driftingruby.com/episodes/decoding-and-interacting-with-barcodes">Decoding and Interacting with Barcodes</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0">How to Achieve Reusability with React Components</a> и <a href="https://advancedweb.hu/2017/02/07/treeshaking/">Why Webpack 2’s Tree Shaking is not as effective as you think</a></li>
+  <li><a href="http://www.dev-books.com/">Top mentioned books on stackoverflow.com</a>, <a href="https://distributedobjectprotocol.org/">Distributed Object Protocol</a> и <a href="https://yomguithereal.github.io/mnemonist/">Mnemonist - curated collection of data structures for the JavaScript language</a></li>
+  <li><a href="https://getkap.co/">Kap - an open-source screen recorder built with web technology</a>, <a href="http://hackjutsu.com/Lepton/">Lepton - a lean GitHub Gist Desktop Client based on Electron</a>, <a href="https://michelson.github.io/dante2/">Dante II - just another medium clone built on top of DraftJs</a> и <a href="https://notti.surge.sh/">Notti.js - dead simple user notification</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://engineering.vinted.com/2017/02/13/how-to-structure-code/">The Lego Way of Structuring Rails Code</a>, <a href="http://blog.honeybadger.io/easy_rails_database_scaling_wins/">Simple tips to make scaling your database easier as you grow</a> и <a href="http://www.blackbytes.info/2017/02/hash-tables-explained/">Hash Tables Explained</a></li>
+  <li><a href="https://medium.freecodecamp.com/how-to-dry-out-your-rspec-tests-using-shared-examples-d5cc5d33fd76">How to DRY out your RSpec Tests using Shared Examples</a> и <a href="http://blog.katpadi.ph/autocomplete-with-redis/">Autocomplete Using Redis</a></li>
+  <li><a href="https://github.com/dtaniwaki/sidekiq-merger">Sidekiq-merger - merge sidekiq jobs occurring before the execution times</a>, <a href="https://github.com/ioquatix/relaxo">Relaxo - a transactional database built on top of git. It’s aim is to provide a robust interface for document storage and sorted indexes</a> и <a href="https://www.driftingruby.com/episodes/decoding-and-interacting-with-barcodes">Decoding and Interacting with Barcodes</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0">How to Achieve Reusability with React Components</a> и <a href="https://advancedweb.hu/2017/02/07/treeshaking/">Why Webpack 2’s Tree Shaking is not as effective as you think</a></li>
+  <li><a href="http://www.dev-books.com/">Top mentioned books on stackoverflow.com</a>, <a href="https://distributedobjectprotocol.org/">Distributed Object Protocol</a> и <a href="https://yomguithereal.github.io/mnemonist/">Mnemonist - curated collection of data structures for the JavaScript language</a></li>
+  <li><a href="https://getkap.co/">Kap - an open-source screen recorder built with web technology</a>, <a href="http://hackjutsu.com/Lepton/">Lepton - a lean GitHub Gist Desktop Client based on Electron</a>, <a href="https://michelson.github.io/dante2/">Dante II - just another medium clone built on top of DraftJs</a> и <a href="https://notti.surge.sh/">Notti.js - dead simple user notification</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 13 Feb 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/02/13/podcast-05-06.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/02/13/podcast-05-06.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0506.mp3" length="27950478" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0506.mp3" fileSize="27950478" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  The Lego Way of Structuring Rails Code, Simple...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+The Lego Way of Structuring Rails Code, Simple tips to make scaling your database easier as you grow и Hash Tables Explained
+
+  
+How to DRY out your RSpec Tests using Shared Examples и Autocomplete Using Redis
+
+  
+Sidekiq-merger - merge sidekiq jobs occurring before the execution times, Relaxo - a transactional database built on top of git. It’s aim is to provide a robust interface for document storage and sorted indexes и Decoding and Interacting with Barcodes
+
+
+
+JavaScript
+
+
+  
+How to Achieve Reusability with React Components и Why Webpack 2’s Tree Shaking is not as effective as you think
+
+  
+Top mentioned books on stackoverflow.com, Distributed Object Protocol и Mnemonist - curated collection of data structures for the JavaScript language
+
+  
+Kap - an open-source screen recorder built with web technology, Lepton - a lean GitHub Gist Desktop Client based on Electron, Dante II - just another medium clone built on top of DraftJs и Notti.js - dead simple user notification
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0506.png"/>
+  <itunes:duration>00:29:00</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>05 выпуск 05 сезона. Node.js 7.5.0, Blazer, Awesome NLP with Ruby, Letsencrypt_heroku, ES7 and ES8 Features, Mithril и прочее</title>
   <description>
@@ -3706,99 +3799,6 @@ Awesome ESLint, TypeScript Deep Dive (book), MaintainableCSS (book) и EmberConf
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0416.png"/>
   <itunes:duration>00:46:42</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>15 выпуск 04 сезона. Why You Should Taste Grape, Ruby Methods, Rodauth, Why Javascript Development is Crazy и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/04/13/rails-5-adds-option-to-log-warning-when-fetching-big-result-sets.html">Rails 5 adds warning when fetching big result set with Active Record</a>, <a href="http://blog.bigbinary.com/2016/04/12/rails-5-allows-to-send-log-to-stdout-via-environment-variable.html">Rails 5 allows to send log to STDOUT via environment variable</a> и <a href="http://glaucocustodio.com/2016/04/14/why-you-should-taste-grape/">Why You Should Taste Grape</a></li>
-  <li><a href="https://prograils.com/posts/ruby-methods-differences-load-require-include-extend">Ruby Methods: differences between load, require, include and extend in Ruby</a>, <a href="http://www.blackbytes.info/2016/04/metaprogramming-in-the-wild/">Metaprogramming in The Wild</a> и <a href="https://blog.codeship.com/optimists-guide-pessimistic-library-versioning/">The Optimist’s Guide to Pessimistic Library Versioning</a></li>
-  <li><a href="https://infinum.co/the-capsized-eight/articles/whitelisting-with-the-lesser-known-presence-in-method">Whitelisting with the lesser - known #presence_in method</a>, <a href="http://technology.customink.com/blog/2016/04/07/introducing-the-activerecord-collection-cache-key-gem/">Introducing the activerecord-collection_cache_key gem</a>, <a href="http://rodauth.jeremyevans.net/">Rodauth - an authentication and account management framework for Rack applications</a> и <a href="http://ruby.libhunt.com/">Awesome Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://www.planningforaliens.com/blog/2016/04/11/why-js-development-is-crazy/">Why Javascript Development is Crazy</a> и <a href="http://chrismm.com/blog/the-other-kind-of-javascript-fatigue/">The other kind of JavaScript fatigue</a></li>
-  <li><a href="http://www.sohamkamani.com/blog/2016/04/09/stop-using-gifs/">Why we should stop using GIFs</a> и <a href="https://www.bramstein.com/writing/web-font-loading-patterns.html">Web Font Loading Patterns</a></li>
-  <li><a href="http://js.libhunt.com/">Awesome JavaScript</a>, <a href="http://tympanus.net/codrops/2016/04/13/interactive-3d-mall-map/">Interactive 3D Mall Map</a> и <a href="https://github.com/teropa/to-sting">Object.toSting() polyfill</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/04/13/rails-5-adds-option-to-log-warning-when-fetching-big-result-sets.html">Rails 5 adds warning when fetching big result set with Active Record</a>, <a href="http://blog.bigbinary.com/2016/04/12/rails-5-allows-to-send-log-to-stdout-via-environment-variable.html">Rails 5 allows to send log to STDOUT via environment variable</a> и <a href="http://glaucocustodio.com/2016/04/14/why-you-should-taste-grape/">Why You Should Taste Grape</a></li>
-  <li><a href="https://prograils.com/posts/ruby-methods-differences-load-require-include-extend">Ruby Methods: differences between load, require, include and extend in Ruby</a>, <a href="http://www.blackbytes.info/2016/04/metaprogramming-in-the-wild/">Metaprogramming in The Wild</a> и <a href="https://blog.codeship.com/optimists-guide-pessimistic-library-versioning/">The Optimist’s Guide to Pessimistic Library Versioning</a></li>
-  <li><a href="https://infinum.co/the-capsized-eight/articles/whitelisting-with-the-lesser-known-presence-in-method">Whitelisting with the lesser - known #presence_in method</a>, <a href="http://technology.customink.com/blog/2016/04/07/introducing-the-activerecord-collection-cache-key-gem/">Introducing the activerecord-collection_cache_key gem</a>, <a href="http://rodauth.jeremyevans.net/">Rodauth - an authentication and account management framework for Rack applications</a> и <a href="http://ruby.libhunt.com/">Awesome Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://www.planningforaliens.com/blog/2016/04/11/why-js-development-is-crazy/">Why Javascript Development is Crazy</a> и <a href="http://chrismm.com/blog/the-other-kind-of-javascript-fatigue/">The other kind of JavaScript fatigue</a></li>
-  <li><a href="http://www.sohamkamani.com/blog/2016/04/09/stop-using-gifs/">Why we should stop using GIFs</a> и <a href="https://www.bramstein.com/writing/web-font-loading-patterns.html">Web Font Loading Patterns</a></li>
-  <li><a href="http://js.libhunt.com/">Awesome JavaScript</a>, <a href="http://tympanus.net/codrops/2016/04/13/interactive-3d-mall-map/">Interactive 3D Mall Map</a> и <a href="https://github.com/teropa/to-sting">Object.toSting() polyfill</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 18 Apr 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/04/18/podcast-04-15.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/04/18/podcast-04-15.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0415.mp3" length="39599439" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0415.mp3" fileSize="39599439" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5 adds warning when fetching big result ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5 adds warning when fetching big result set with Active Record, Rails 5 allows to send log to STDOUT via environment variable и Why You Should Taste Grape
-
-  
-Ruby Methods: differences between load, require, include and extend in Ruby, Metaprogramming in The Wild и The Optimist’s Guide to Pessimistic Library Versioning
-
-  
-Whitelisting with the lesser - known #presence_in method, Introducing the activerecord-collection_cache_key gem, Rodauth - an authentication and account management framework for Rack applications и Awesome Ruby
-
-
-
-JavaScript
-
-
-  
-Why Javascript Development is Crazy и The other kind of JavaScript fatigue
-
-  
-Why we should stop using GIFs и Web Font Loading Patterns
-
-  
-Awesome JavaScript, Interactive 3D Mall Map и Object.toSting() polyfill
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0415.png"/>
-  <itunes:duration>00:41:08</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
