@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 13 Feb 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 13 Feb 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 20 Feb 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>07 выпуск 05 сезона. Hanami v1.0.0.beta1, Unicorn vs. Puma vs. Passenger, Understanding Scope in JavaScript, Htmlreference.io и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://hanamirb.org/blog/2017/02/14/announcing-hanami-100beta1.html">Announcing Hanami v1.0.0.beta1</a>, <a href="http://blog.michelada.io/upgrading-a-ruby-on-rails-application">Upgrading a Ruby on Rails application</a> и <a href="http://www.krisquigley.co.uk/2017/02/17/replacing-the-asset-pipeline-with-webpack-2-in-rails.html">Replacing the asset pipeline with Webpack 2 in Rails</a></li>
+  <li><a href="https://robots.thoughtbot.com/validation-database-constraint-or-both">Validation, Database Constraint, or Both?</a> и <a href="https://medium.com/@ricardobrazao/ruby-superpowers-with-great-power-comes-a-great-prepend-6c1ccd2a7205">Ruby superpowers — with great power comes a great prepend</a></li>
+  <li><a href="https://www.justinweiss.com/articles/writing-a-one-time-script-in-rails/">Writing a One-time Script in Rails</a> и <a href="http://blog.scoutapp.com/articles/2017/02/10/which-ruby-app-server-is-right-for-you">Unicorn vs. Puma vs. Passenger: which app server is right for you?</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import">Native ECMAScript modules: dynamic import()</a>, <a href="http://danluu.com/web-bloat/">Most of the web really sucks if you have a slow connection</a> и <a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript</a></li>
+  <li><a href="https://scotch.io/tutorials/understanding-scope-in-javascript">Understanding Scope in JavaScript</a> и <a href="https://gofore.com/angular-is-not-a-massive-monolith/">Angular is not a massive monolith – but your mom is</a></li>
+  <li><a href="http://htmlreference.io/">Htmlreference.io - a free guide to HTML</a>, <a href="https://roughjs.com/">Rough.js - create graphics with a hand-drawn, sketchy, appearance</a> и <a href="https://lichin.me/spinStroke/">SpinStroke - spinning stroke animation with morphing effect</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://hanamirb.org/blog/2017/02/14/announcing-hanami-100beta1.html">Announcing Hanami v1.0.0.beta1</a>, <a href="http://blog.michelada.io/upgrading-a-ruby-on-rails-application">Upgrading a Ruby on Rails application</a> и <a href="http://www.krisquigley.co.uk/2017/02/17/replacing-the-asset-pipeline-with-webpack-2-in-rails.html">Replacing the asset pipeline with Webpack 2 in Rails</a></li>
+  <li><a href="https://robots.thoughtbot.com/validation-database-constraint-or-both">Validation, Database Constraint, or Both?</a> и <a href="https://medium.com/@ricardobrazao/ruby-superpowers-with-great-power-comes-a-great-prepend-6c1ccd2a7205">Ruby superpowers — with great power comes a great prepend</a></li>
+  <li><a href="https://www.justinweiss.com/articles/writing-a-one-time-script-in-rails/">Writing a One-time Script in Rails</a> и <a href="http://blog.scoutapp.com/articles/2017/02/10/which-ruby-app-server-is-right-for-you">Unicorn vs. Puma vs. Passenger: which app server is right for you?</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import">Native ECMAScript modules: dynamic import()</a>, <a href="http://danluu.com/web-bloat/">Most of the web really sucks if you have a slow connection</a> и <a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript</a></li>
+  <li><a href="https://scotch.io/tutorials/understanding-scope-in-javascript">Understanding Scope in JavaScript</a> и <a href="https://gofore.com/angular-is-not-a-massive-monolith/">Angular is not a massive monolith – but your mom is</a></li>
+  <li><a href="http://htmlreference.io/">Htmlreference.io - a free guide to HTML</a>, <a href="https://roughjs.com/">Rough.js - create graphics with a hand-drawn, sketchy, appearance</a> и <a href="https://lichin.me/spinStroke/">SpinStroke - spinning stroke animation with morphing effect</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 20 Feb 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/02/20/podcast-05-07.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/02/20/podcast-05-07.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0507.mp3" length="43686696" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0507.mp3" fileSize="43686696" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Announcing Hanami v1.0.0.beta1, Upgrading a Ru...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Announcing Hanami v1.0.0.beta1, Upgrading a Ruby on Rails application и Replacing the asset pipeline with Webpack 2 in Rails
+
+  
+Validation, Database Constraint, or Both? и Ruby superpowers — with great power comes a great prepend
+
+  
+Writing a One-time Script in Rails и Unicorn vs. Puma vs. Passenger: which app server is right for you?
+
+
+
+JavaScript
+
+
+  
+Native ECMAScript modules: dynamic import(), Most of the web really sucks if you have a slow connection и Interview Algorithm Questions in Javascript
+
+  
+Understanding Scope in JavaScript и Angular is not a massive monolith – but your mom is
+
+  
+Htmlreference.io - a free guide to HTML, Rough.js - create graphics with a hand-drawn, sketchy, appearance и SpinStroke - spinning stroke animation with morphing effect
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0507.png"/>
+  <itunes:duration>00:45:24</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>06 выпуск 05 сезона. The Lego Way of Structuring Rails Code, Sidekiq-merger, Relaxo, Kap, Dante II, Notti.js, Lepton и прочее</title>
   <description>
@@ -3706,99 +3799,6 @@ Algebrite is a Javascript library for symbolic mathematics, Grafi.js is a librar
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0417.png"/>
   <itunes:duration>00:54:29</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>16 выпуск 04 сезона. Ruby 2.3.1, Rails 5 and MariaDB, V8 Release 5.1, CSSX, LazyDOM, Scrollbear, MaintainableCSS и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/04/26/ruby-2-3-1-released/">Ruby 2.3.1, 2.2.5 Released</a>, <a href="http://blog.bigbinary.com/2016/04/19/changes-to-test-controllers-in-rails-5.html">Changes to test controllers in Rails 5</a>, <a href="http://blog.bigbinary.com/2016/04/21/rails-5-official-supports-mariadb.html">Rails 5 officially supports MariaDB</a> и <a href="http://zzak.io/log/2016-04-18-the-road-to-sinatra-2.0.html">The Road to Sinatra 2.0</a></li>
-  <li><a href="http://blog.arkency.com/2016/04/how-i-hunted-the-most-odd-ruby-bug/">How I hunted the most odd ruby bug</a>, <a href="https://www.madetech.com/blog/when-to-avoid-the-dry-principle">When to avoid the DRY principle</a> и <a href="http://www.railscarma.com/blog/technical-articles/6-reasons-choose-ruby-rails-ror-build-web-application/">6 Reasons to Choose Ruby on Rails (RoR) to Build Web Application</a></li>
-  <li><a href="https://rossta.net/blog/using-webpack-with-middleman.html">Using Webpack with Middleman</a>, <a href="https://blog.codeship.com/how-to-find-ruby-code-smells-with-reek/">How to Find Ruby Code Smells with Reek</a> и <a href="https://thredded.org/">Thredded is a Rails 4.2+ forum/messageboard engine</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://v8project.blogspot.it/2016/04/v8-release-51.html">V8 Release 5.1</a>, <a href="https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/">Finally, CSS In JavaScript! Meet CSSX</a> и <a href="https://iceddev.com/blog/jarvis-an-amazon-echo-clone-in-your-browser/">Jarvis: an Amazon Echo clone in your browser with PageNodes</a></li>
-  <li><a href="https://medium.com/@jayphelps/lazydom-an-experiment-to-bring-virtual-dom-to-the-browser-natively-6a2f47096aca">LazyDOM — an experiment to bring virtual DOM to the browser natively</a>, <a href="http://ncrafts.github.io/tabular-input/">Tabular Input - one-line text fields in a tabular format</a>, <a href="https://github.com/adriantoine/kewler">Kewler is a simple functional and immutable color manipulation library</a>, <a href="http://www.chartjs.org/">Chart.js 2.0</a> и <a href="http://changbenny.github.io/scrollbear/">Scrollbear is a tool that maintains the container scroll position when images loaded</a></li>
-  <li><a href="https://github.com/dustinspecker/awesome-eslint">Awesome ESLint</a>, <a href="https://www.gitbook.com/book/basarat/typescript/details">TypeScript Deep Dive (book)</a>, <a href="http://maintainablecss.com/">MaintainableCSS (book)</a> и <a href="http://confreaks.tv/events/emberconf2016">EmberConf 2016 (videos)</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/04/26/ruby-2-3-1-released/">Ruby 2.3.1, 2.2.5 Released</a>, <a href="http://blog.bigbinary.com/2016/04/19/changes-to-test-controllers-in-rails-5.html">Changes to test controllers in Rails 5</a>, <a href="http://blog.bigbinary.com/2016/04/21/rails-5-official-supports-mariadb.html">Rails 5 officially supports MariaDB</a> и <a href="http://zzak.io/log/2016-04-18-the-road-to-sinatra-2.0.html">The Road to Sinatra 2.0</a></li>
-  <li><a href="http://blog.arkency.com/2016/04/how-i-hunted-the-most-odd-ruby-bug/">How I hunted the most odd ruby bug</a>, <a href="https://www.madetech.com/blog/when-to-avoid-the-dry-principle">When to avoid the DRY principle</a> и <a href="http://www.railscarma.com/blog/technical-articles/6-reasons-choose-ruby-rails-ror-build-web-application/">6 Reasons to Choose Ruby on Rails (RoR) to Build Web Application</a></li>
-  <li><a href="https://rossta.net/blog/using-webpack-with-middleman.html">Using Webpack with Middleman</a>, <a href="https://blog.codeship.com/how-to-find-ruby-code-smells-with-reek/">How to Find Ruby Code Smells with Reek</a> и <a href="https://thredded.org/">Thredded is a Rails 4.2+ forum/messageboard engine</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://v8project.blogspot.it/2016/04/v8-release-51.html">V8 Release 5.1</a>, <a href="https://www.smashingmagazine.com/2016/04/finally-css-javascript-meet-cssx/">Finally, CSS In JavaScript! Meet CSSX</a> и <a href="https://iceddev.com/blog/jarvis-an-amazon-echo-clone-in-your-browser/">Jarvis: an Amazon Echo clone in your browser with PageNodes</a></li>
-  <li><a href="https://medium.com/@jayphelps/lazydom-an-experiment-to-bring-virtual-dom-to-the-browser-natively-6a2f47096aca">LazyDOM — an experiment to bring virtual DOM to the browser natively</a>, <a href="http://ncrafts.github.io/tabular-input/">Tabular Input - one-line text fields in a tabular format</a>, <a href="https://github.com/adriantoine/kewler">Kewler is a simple functional and immutable color manipulation library</a>, <a href="http://www.chartjs.org/">Chart.js 2.0</a> и <a href="http://changbenny.github.io/scrollbear/">Scrollbear is a tool that maintains the container scroll position when images loaded</a></li>
-  <li><a href="https://github.com/dustinspecker/awesome-eslint">Awesome ESLint</a>, <a href="https://www.gitbook.com/book/basarat/typescript/details">TypeScript Deep Dive (book)</a>, <a href="http://maintainablecss.com/">MaintainableCSS (book)</a> и <a href="http://confreaks.tv/events/emberconf2016">EmberConf 2016 (videos)</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Wed, 27 Apr 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/04/27/podcast-04-16.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/04/27/podcast-04-16.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0416.mp3" length="44941283" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0416.mp3" fileSize="44941283" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.3.1, 2.2.5 Released, Changes to test co...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.3.1, 2.2.5 Released, Changes to test controllers in Rails 5, Rails 5 officially supports MariaDB и The Road to Sinatra 2.0
-
-  
-How I hunted the most odd ruby bug, When to avoid the DRY principle и 6 Reasons to Choose Ruby on Rails (RoR) to Build Web Application
-
-  
-Using Webpack with Middleman, How to Find Ruby Code Smells with Reek и Thredded is a Rails 4.2+ forum/messageboard engine
-
-
-
-JavaScript
-
-
-  
-V8 Release 5.1, Finally, CSS In JavaScript! Meet CSSX и Jarvis: an Amazon Echo clone in your browser with PageNodes
-
-  
-LazyDOM — an experiment to bring virtual DOM to the browser natively, Tabular Input - one-line text fields in a tabular format, Kewler is a simple functional and immutable color manipulation library, Chart.js 2.0 и Scrollbear is a tool that maintains the container scroll position when images loaded
-
-  
-Awesome ESLint, TypeScript Deep Dive (book), MaintainableCSS (book) и EmberConf 2016 (videos)
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0416.png"/>
-  <itunes:duration>00:46:42</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
