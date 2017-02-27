@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 20 Feb 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 20 Feb 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 27 Feb 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Feb 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,120 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>08 выпуск 05 сезона. Rails 5.1.0.beta1, Ruby reject!, Brains, Won WebAssembly logo contest, Babel-preset-env, AR.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2017/2/23/Rails-5-1-beta1/">Rails 5.1.0.beta1</a>, <a href="http://www.blackbytes.info/2017/02/weird-ruby/">15 Weird Things About Ruby That You Should Know</a> и <a href="http://accidentallyquadratic.tumblr.com/post/157496054437/ruby-reject">Ruby reject!</a></li>
+  <li><a href="http://brandonhilkert.com/blog/using-phantomjs-to-capture-analytics-for-a-rails-email-template/">Using PhantomJS to Capture Analytics for a Rails Email Template</a>, <a href="https://review.ebertapp.io/lessons-learned-and-code-smells-detected-with-reek-ca9374a3eece">Lessons learned and Code Smells detected with Reek</a>, <a href="http://blog.honeybadger.io/objects-as-ruby-hash-keys/">Objects as Ruby Hash Keys</a> и <a href="https://blog.codeship.com/creating-powerful-command-line-tools-in-ruby/">Creating Powerful Command Line Tools in Ruby</a></li>
+  <li><a href="http://getkms.com/">KMS - simple and powerful Ruby on Rails CMS for developers</a>, <a href="https://github.com/jedld/brains-jruby">Brains - Feedforward neural network toolkit for JRuby</a> и <a href="https://www.driftingruby.com/episodes/working-with-internationalization">Working with Internationalization (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://css-tricks.com/http2-real-world-performance-test-analysis/">HTTP/2 – A Real-World Performance Test and Analysis</a>, <a href="http://clagnut.com/blog/2389/">Getting started with variable fonts</a> и <a href="https://medium.com/@carlosbaraza/won-webassembly-logo-contest-7dc4623f5cf">Won WebAssembly logo contest</a></li>
+  <li><a href="http://www.2ality.com/2017/02/babel-preset-env.html">Babel-preset-env: a preset that configures Babel for you</a>, <a href="https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257">Why Learn Functional Programming in JavaScript?</a> и <a href="https://ana-balica.github.io/2017/02/21/code-review-checklist/">Code review checklist</a></li>
+  <li><a href="http://propeller.in/">Propeller - a front-end responsive framework based on Google’s Material Design Standards &amp; Bootstrap</a>, <a href="https://github.com/jeromeetienne/AR.js">AR.js - Efficient Augmented Reality for the Web using ARToolKit</a>, <a href="https://github.com/madmous/trello-clone">Trello Clone</a> и <a href="http://html5bot.webflow.io/">HTML5 Robot</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://www.facebook.com/events/1647370468613245/">Ruby Meditation #14</a></li>
+  <li><a href="https://www.facebook.com/events/1857342297842402/">Elixir Club 6</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2017/2/23/Rails-5-1-beta1/">Rails 5.1.0.beta1</a>, <a href="http://www.blackbytes.info/2017/02/weird-ruby/">15 Weird Things About Ruby That You Should Know</a> и <a href="http://accidentallyquadratic.tumblr.com/post/157496054437/ruby-reject">Ruby reject!</a></li>
+  <li><a href="http://brandonhilkert.com/blog/using-phantomjs-to-capture-analytics-for-a-rails-email-template/">Using PhantomJS to Capture Analytics for a Rails Email Template</a>, <a href="https://review.ebertapp.io/lessons-learned-and-code-smells-detected-with-reek-ca9374a3eece">Lessons learned and Code Smells detected with Reek</a>, <a href="http://blog.honeybadger.io/objects-as-ruby-hash-keys/">Objects as Ruby Hash Keys</a> и <a href="https://blog.codeship.com/creating-powerful-command-line-tools-in-ruby/">Creating Powerful Command Line Tools in Ruby</a></li>
+  <li><a href="http://getkms.com/">KMS - simple and powerful Ruby on Rails CMS for developers</a>, <a href="https://github.com/jedld/brains-jruby">Brains - Feedforward neural network toolkit for JRuby</a> и <a href="https://www.driftingruby.com/episodes/working-with-internationalization">Working with Internationalization (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://css-tricks.com/http2-real-world-performance-test-analysis/">HTTP/2 – A Real-World Performance Test and Analysis</a>, <a href="http://clagnut.com/blog/2389/">Getting started with variable fonts</a> и <a href="https://medium.com/@carlosbaraza/won-webassembly-logo-contest-7dc4623f5cf">Won WebAssembly logo contest</a></li>
+  <li><a href="http://www.2ality.com/2017/02/babel-preset-env.html">Babel-preset-env: a preset that configures Babel for you</a>, <a href="https://medium.com/javascript-scene/why-learn-functional-programming-in-javascript-composing-software-ea13afc7a257">Why Learn Functional Programming in JavaScript?</a> и <a href="https://ana-balica.github.io/2017/02/21/code-review-checklist/">Code review checklist</a></li>
+  <li><a href="http://propeller.in/">Propeller - a front-end responsive framework based on Google’s Material Design Standards &amp; Bootstrap</a>, <a href="https://github.com/jeromeetienne/AR.js">AR.js - Efficient Augmented Reality for the Web using ARToolKit</a>, <a href="https://github.com/madmous/trello-clone">Trello Clone</a> и <a href="http://html5bot.webflow.io/">HTML5 Robot</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://www.facebook.com/events/1647370468613245/">Ruby Meditation #14</a></li>
+  <li><a href="https://www.facebook.com/events/1857342297842402/">Elixir Club 6</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 27 Feb 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/02/27/podcast-05-08.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/02/27/podcast-05-08.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0508.mp3" length="58267132" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0508.mp3" fileSize="58267132" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.1.0.beta1, 15 Weird Things About Ruby ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.1.0.beta1, 15 Weird Things About Ruby That You Should Know и Ruby reject!
+
+  
+Using PhantomJS to Capture Analytics for a Rails Email Template, Lessons learned and Code Smells detected with Reek, Objects as Ruby Hash Keys и Creating Powerful Command Line Tools in Ruby
+
+  
+KMS - simple and powerful Ruby on Rails CMS for developers, Brains - Feedforward neural network toolkit for JRuby и Working with Internationalization (video)
+
+
+
+JavaScript
+
+
+  
+HTTP/2 – A Real-World Performance Test and Analysis, Getting started with variable fonts и Won WebAssembly logo contest
+
+  
+Babel-preset-env: a preset that configures Babel for you, Why Learn Functional Programming in JavaScript? и Code review checklist
+
+  
+Propeller - a front-end responsive framework based on Google’s Material Design Standards &amp; Bootstrap, AR.js - Efficient Augmented Reality for the Web using ARToolKit, Trello Clone и HTML5 Robot
+
+
+
+Conferences
+
+
+  Ruby Meditation #14
+  Elixir Club 6
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0508.png"/>
+  <itunes:duration>01:00:35</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>07 выпуск 05 сезона. Hanami v1.0.0.beta1, Unicorn vs. Puma vs. Passenger, Understanding Scope in JavaScript, Htmlreference.io и прочее</title>
   <description>
@@ -3678,127 +3792,6 @@ Talisman - a straightforward &amp; modular NLP, machine learning &amp; fuzzy mat
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0418.png"/>
   <itunes:duration>00:54:07</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>17 выпуск 04 сезона. Rails 5.0.0.rc1, Node v6.1.0, ImageMagick Is On Fire, Parsing XML, Target=_blank, Algebrite, Grafi.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://rubygems.org/gems/rails/versions/5.0.0.racecar1">Rails 5.0.0.rc1</a>, <a href="http://blog.bigbinary.com/2016/05/03/rails-5-adds-a-way-to-get-information-about-types-of-failed-validations.html">Rails 5 adds a way to get information about types of failed validations</a>, <a href="http://bundler.io/v1.12/whats_new.html">Bundler v1.12</a> и <a href="https://imagetragick.com/">ImageMagick Is On Fire — CVE-2016–3714</a></li>
-  <li><a href="https://medium.com/planet-arkency/the-biggest-rails-code-smell-you-should-avoid-to-keep-your-app-healthy-a61fd75ab2d3">The biggest Rails code smell you should avoid to keep your app healthy</a> и <a href="http://aaronlasseigne.com/2016/04/27/improving-large-rails-apps-with-service-objects/">Improving Large Rails Apps with Service Objects</a></li>
-  <li><a href="https://rossta.net/blog/how-to-specify-local-ruby-gems-in-your-gemfile.html">How to specify local Ruby gems in your Gemfile</a>, <a href="https://www.nateberkopec.com/2015/11/30/how-changing-webfonts-made-rubygems-10x-faster.html">How Changing WebFonts Made Rubygems.org 10x Faster</a> и <a href="https://medium.com/@evmorov/parsing-xml-xpath-vs-object-ebbca0ba9a2d">Parsing XML: XPath vs Object</a></li>
-  <li><a href="http://www.blackbytes.info/2016/05/weighted-random-numbers/">How to Generate Weighted Random Numbers</a>, <a href="http://idiosyncratic-ruby.com/32-no-more-errors.html">No More Errors</a> и <a href="http://blog.testdouble.com/posts/2016-05-09-make-ruby-great-again.html">Make Ruby Great Again</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v6.1.0/">Node v6.1.0</a>, <a href="http://geekforbrains.com/post/after-a-year-of-nodejs-in-production">After a year of using NodeJS in production</a> и <a href="https://medium.com/@jitbit/target-blank-the-most-underestimated-vulnerability-ever-96e328301f4c">Target=”_blank” — the most underestimated vulnerability ever</a></li>
-  <li><a href="http://v8project.blogspot.co.il/2016/04/es6-es7-and-beyond.html">ES6, ES7, and beyond</a> и <a href="https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9">Turbocharged JavaScript refactoring with codemods</a></li>
-  <li><a href="https://github.com/markerikson/react-redux-links">Curated tutorial and resource links I’ve collected on React, Redux, ES6</a>, <a href="http://reactcompose.com/">React-Compose</a> и <a href="https://medium.com/@tenorb/react-makes-me-sad-efc135796595">React makes me sad</a></li>
-  <li><a href="http://algebrite.org/">Algebrite is a Javascript library for symbolic mathematics</a>, <a href="http://grafijs.org/">Grafi.js is a library intended for learning about how image processing works</a>, <a href="http://devbridge.github.io/Styleguide/">Styleguide helps you create, share, and automate a living visual style library of your brand</a> и <a href="http://www.impressivewebs.com/dom-features-you-didnt-know-existed-video-slides/">DOM Features You Didn’t Know Existed (Video &amp; Slides)</a></li>
-</ul>
-
-<h2 id="section">Конференции</h2>
-
-<ul>
-  <li><a href="http://www.eventbrite.com/e/ruby-meditation-9-tickets-24841879731">Ruby Meditation 9</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://rubygems.org/gems/rails/versions/5.0.0.racecar1">Rails 5.0.0.rc1</a>, <a href="http://blog.bigbinary.com/2016/05/03/rails-5-adds-a-way-to-get-information-about-types-of-failed-validations.html">Rails 5 adds a way to get information about types of failed validations</a>, <a href="http://bundler.io/v1.12/whats_new.html">Bundler v1.12</a> и <a href="https://imagetragick.com/">ImageMagick Is On Fire — CVE-2016–3714</a></li>
-  <li><a href="https://medium.com/planet-arkency/the-biggest-rails-code-smell-you-should-avoid-to-keep-your-app-healthy-a61fd75ab2d3">The biggest Rails code smell you should avoid to keep your app healthy</a> и <a href="http://aaronlasseigne.com/2016/04/27/improving-large-rails-apps-with-service-objects/">Improving Large Rails Apps with Service Objects</a></li>
-  <li><a href="https://rossta.net/blog/how-to-specify-local-ruby-gems-in-your-gemfile.html">How to specify local Ruby gems in your Gemfile</a>, <a href="https://www.nateberkopec.com/2015/11/30/how-changing-webfonts-made-rubygems-10x-faster.html">How Changing WebFonts Made Rubygems.org 10x Faster</a> и <a href="https://medium.com/@evmorov/parsing-xml-xpath-vs-object-ebbca0ba9a2d">Parsing XML: XPath vs Object</a></li>
-  <li><a href="http://www.blackbytes.info/2016/05/weighted-random-numbers/">How to Generate Weighted Random Numbers</a>, <a href="http://idiosyncratic-ruby.com/32-no-more-errors.html">No More Errors</a> и <a href="http://blog.testdouble.com/posts/2016-05-09-make-ruby-great-again.html">Make Ruby Great Again</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v6.1.0/">Node v6.1.0</a>, <a href="http://geekforbrains.com/post/after-a-year-of-nodejs-in-production">After a year of using NodeJS in production</a> и <a href="https://medium.com/@jitbit/target-blank-the-most-underestimated-vulnerability-ever-96e328301f4c">Target=”_blank” — the most underestimated vulnerability ever</a></li>
-  <li><a href="http://v8project.blogspot.co.il/2016/04/es6-es7-and-beyond.html">ES6, ES7, and beyond</a> и <a href="https://medium.com/airbnb-engineering/turbocharged-javascript-refactoring-with-codemods-b0cae8b326b9">Turbocharged JavaScript refactoring with codemods</a></li>
-  <li><a href="https://github.com/markerikson/react-redux-links">Curated tutorial and resource links I’ve collected on React, Redux, ES6</a>, <a href="http://reactcompose.com/">React-Compose</a> и <a href="https://medium.com/@tenorb/react-makes-me-sad-efc135796595">React makes me sad</a></li>
-  <li><a href="http://algebrite.org/">Algebrite is a Javascript library for symbolic mathematics</a>, <a href="http://grafijs.org/">Grafi.js is a library intended for learning about how image processing works</a>, <a href="http://devbridge.github.io/Styleguide/">Styleguide helps you create, share, and automate a living visual style library of your brand</a> и <a href="http://www.impressivewebs.com/dom-features-you-didnt-know-existed-video-slides/">DOM Features You Didn’t Know Existed (Video &amp; Slides)</a></li>
-</ul>
-
-<h2 id="section">Конференции</h2>
-
-<ul>
-  <li><a href="http://www.eventbrite.com/e/ruby-meditation-9-tickets-24841879731">Ruby Meditation 9</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 09 May 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/05/09/podcast-04-17.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/05/09/podcast-04-17.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0417.mp3" length="52409686" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0417.mp3" fileSize="52409686" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.0.0.rc1, Rails 5 adds a way to get inf...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.0.0.rc1, Rails 5 adds a way to get information about types of failed validations, Bundler v1.12 и ImageMagick Is On Fire — CVE-2016–3714
-
-  
-The biggest Rails code smell you should avoid to keep your app healthy и Improving Large Rails Apps with Service Objects
-
-  
-How to specify local Ruby gems in your Gemfile, How Changing WebFonts Made Rubygems.org 10x Faster и Parsing XML: XPath vs Object
-
-  
-How to Generate Weighted Random Numbers, No More Errors и Make Ruby Great Again
-
-
-
-JavaScript
-
-
-  
-Node v6.1.0, After a year of using NodeJS in production и Target=”_blank” — the most underestimated vulnerability ever
-
-  
-ES6, ES7, and beyond и Turbocharged JavaScript refactoring with codemods
-
-  
-Curated tutorial and resource links I’ve collected on React, Redux, ES6, React-Compose и React makes me sad
-
-  
-Algebrite is a Javascript library for symbolic mathematics, Grafi.js is a library intended for learning about how image processing works, Styleguide helps you create, share, and automate a living visual style library of your brand и DOM Features You Didn’t Know Existed (Video &amp; Slides)
-
-
-
-Конференции
-
-
-  Ruby Meditation 9
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0417.png"/>
-  <itunes:duration>00:54:29</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
