@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 06 Mar 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 06 Mar 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 13 Mar 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 13 Mar 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>10 выпуск 05 сезона. React Router v4, Ruby 2D, Rack::Freeze, Scrolling on the web, Quiet.js, Blurify.js, Numscrubber.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://medium.com/superhighfives/a-top-shelf-web-stack-rails-5-api-activeadmin-create-react-app-de5481b7ec0b">A Top Shelf Web Stack—Rails 5 API + ActiveAdmin + Create React App</a> и <a href="http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without">8 Useful Ruby on Rails Gems We Couldn’t Live Without</a></li>
+  <li><a href="http://blog.planetargon.com/entries/3-useful-lessons-from-installing-thinking-sphinx-on-engine-yard">3 Useful Lessons from Installing Thinking Sphinx on Engine Yard</a> и <a href="http://www.rubyletter.com/blog/2017/03/03/using-shared-libraries-in-ruby.html">Shared Libraries: How Ruby and C Work Together</a></li>
+  <li><a href="http://www.ruby2d.com/">Ruby 2D - make cross-platform 2D applications in Ruby</a> и <a href="https://github.com/ioquatix/rack-freeze">Rack::Freeze - provides a policy for Rack middleware which should be frozen by default to prevent mutability bugs in a multi-threaded environment</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://reacttraining.com/react-router/">React Router v4.0.0</a>, <a href="https://tylermcginnis.com/build-your-own-react-router-v4/">Build your own React Router v4</a>, <a href="https://medium.com/@kevin.buhrer/hey-have-you-heard-about-vue-js-8075b7c06cae">Hey! Have you heard about Vue.js?</a> и <a href="https://github.com/pablohpsilva/vuejs-component-style-guide">Vue.js Component Style Guide</a></li>
+  <li><a href="https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/">Scrolling on the web: A primer</a>, <a href="https://zellwk.com/blog/learn-tools/">Should you learn [insert shiny new tool]?</a> и <a href="https://www.youtube.com/watch?v=o52_5qAJhNg">WebAssembly: Under the hood with Mozilla</a></li>
+  <li><a href="https://quiet.github.io/quiet-js/">Quiet.js - transmit and receive data in the browser at 44.1kHz</a>, <a href="https://mburakerman.github.io/numscrubberjs/">Numscrubber.js - change values of input numbers by dragging the mouse left &amp; right</a>, <a href="https://github.com/JustClear/blurify">Blurify.js - a library to blurred pictures, support graceful downgrade from css mode to canvas mode</a> и <a href="https://layerjs.org">LayerJS - UI composition &amp; animation library for websites and webapps</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://medium.com/superhighfives/a-top-shelf-web-stack-rails-5-api-activeadmin-create-react-app-de5481b7ec0b">A Top Shelf Web Stack—Rails 5 API + ActiveAdmin + Create React App</a> и <a href="http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without">8 Useful Ruby on Rails Gems We Couldn’t Live Without</a></li>
+  <li><a href="http://blog.planetargon.com/entries/3-useful-lessons-from-installing-thinking-sphinx-on-engine-yard">3 Useful Lessons from Installing Thinking Sphinx on Engine Yard</a> и <a href="http://www.rubyletter.com/blog/2017/03/03/using-shared-libraries-in-ruby.html">Shared Libraries: How Ruby and C Work Together</a></li>
+  <li><a href="http://www.ruby2d.com/">Ruby 2D - make cross-platform 2D applications in Ruby</a> и <a href="https://github.com/ioquatix/rack-freeze">Rack::Freeze - provides a policy for Rack middleware which should be frozen by default to prevent mutability bugs in a multi-threaded environment</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://reacttraining.com/react-router/">React Router v4.0.0</a>, <a href="https://tylermcginnis.com/build-your-own-react-router-v4/">Build your own React Router v4</a>, <a href="https://medium.com/@kevin.buhrer/hey-have-you-heard-about-vue-js-8075b7c06cae">Hey! Have you heard about Vue.js?</a> и <a href="https://github.com/pablohpsilva/vuejs-component-style-guide">Vue.js Component Style Guide</a></li>
+  <li><a href="https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/">Scrolling on the web: A primer</a>, <a href="https://zellwk.com/blog/learn-tools/">Should you learn [insert shiny new tool]?</a> и <a href="https://www.youtube.com/watch?v=o52_5qAJhNg">WebAssembly: Under the hood with Mozilla</a></li>
+  <li><a href="https://quiet.github.io/quiet-js/">Quiet.js - transmit and receive data in the browser at 44.1kHz</a>, <a href="https://mburakerman.github.io/numscrubberjs/">Numscrubber.js - change values of input numbers by dragging the mouse left &amp; right</a>, <a href="https://github.com/JustClear/blurify">Blurify.js - a library to blurred pictures, support graceful downgrade from css mode to canvas mode</a> и <a href="https://layerjs.org">LayerJS - UI composition &amp; animation library for websites and webapps</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 13 Mar 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/03/13/podcast-05-10.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/03/13/podcast-05-10.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0510.mp3" length="32752499" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0510.mp3" fileSize="32752499" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  A Top Shelf Web Stack—Rails 5 API + ActiveAdmi...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+A Top Shelf Web Stack—Rails 5 API + ActiveAdmin + Create React App и 8 Useful Ruby on Rails Gems We Couldn’t Live Without
+
+  
+3 Useful Lessons from Installing Thinking Sphinx on Engine Yard и Shared Libraries: How Ruby and C Work Together
+
+  
+Ruby 2D - make cross-platform 2D applications in Ruby и Rack::Freeze - provides a policy for Rack middleware which should be frozen by default to prevent mutability bugs in a multi-threaded environment
+
+
+
+JavaScript
+
+
+  
+React Router v4.0.0, Build your own React Router v4, Hey! Have you heard about Vue.js? и Vue.js Component Style Guide
+
+  
+Scrolling on the web: A primer, Should you learn [insert shiny new tool]? и WebAssembly: Under the hood with Mozilla
+
+  
+Quiet.js - transmit and receive data in the browser at 44.1kHz, Numscrubber.js - change values of input numbers by dragging the mouse left &amp; right, Blurify.js - a library to blurred pictures, support graceful downgrade from css mode to canvas mode и LayerJS - UI composition &amp; animation library for websites and webapps
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0510.png"/>
+  <itunes:duration>00:34:01</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>09 выпуск 05 сезона. Hanami v1.0.0.beta2, Sinatra 2.0.0.rc1, Ruby+OMR JIT Compiler, Neurojs, Anchorme.js, Ast.run и прочее</title>
   <description>
@@ -3699,99 +3792,6 @@ Microlight.js is a micro-library which improves readability of code snippets by 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0420.png"/>
   <itunes:duration>00:55:12</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>19 выпуск 04 сезона. ActiveRecord Suppress, Type Wars, JWT Authentication, Firebase 2.0, Horizon и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/05/15/rails-5-allows-to-inherit-activejob-queue-adapter.html">Rails 5 supports configuring Active Job backend adapter for each job</a>, <a href="http://blog.bigbinary.com/2016/05/18/rails-5-add-a-hidden-field-on-collection-radio-buttons.html">Rails 5 adds a hidden field on collection radio buttons</a> и <a href="https://medium.com/spritle-software/rails-5-activerecord-suppress-a-step-too-far-d7ec2e4ed027">Rails 5 — ActiveRecord Suppress — a step too far?</a></li>
-  <li><a href="http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html">Type Wars</a>, <a href="http://labs.ig.com/static-typing-promise">The promise of static typing</a>, <a href="http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html">My time with Rails is up</a> и <a href="https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7">Ruby has been fast enough for 13 years</a></li>
-  <li><a href="https://www.sitepoint.com/introduction-to-using-jwt-in-rails/">An Introduction to Using JWT Authentication in Rails</a>, <a href="http://blog.rubygems.org/2016/05/19/simplifying-our-stack.html">Rubygems.org: Simplifying our stack</a> и <a href="http://eftimov.net/decorators-and-presenters">A bit about decorators and presenters</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://www.theverge.com/2016/5/18/11701030/google-io-2016-keynote-highlights-announcements-recap">The 10 biggest announcements from Google I/O 2016</a>, <a href="https://firebase.google.com/">Firebase 2.0</a> и <a href="http://blog.jquery.com/2016/05/20/jquery-3-0-release-candidate-released/">jQuery 3.0 Release Candidate</a></li>
-  <li><a href="http://martinfowler.com/articles/refactoring-video-store-js/">Refactoring a javascript video store</a>, <a href="http://csswizardry.com/2016/05/the-importance-of-important/">The Importance of !important: Forcing Immutability in CSS</a> и <a href="https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec">5 Easy Steps to Understanding JSON Web Tokens (JWT)</a></li>
-  <li><a href="http://horizon.io/">Horizon is a realtime, open-source backend for JavaScript apps</a>, <a href="http://nativebase.io/">NativeBase - the missing piece of React Native</a>, <a href="http://javier.xyz/visual-center/">Visual Center - a tool that will find the visual center of your images</a> и <a href="http://felicegattuso.com/projects/timedropper/">Timedropper - a jQuery UI timepicker</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/05/15/rails-5-allows-to-inherit-activejob-queue-adapter.html">Rails 5 supports configuring Active Job backend adapter for each job</a>, <a href="http://blog.bigbinary.com/2016/05/18/rails-5-add-a-hidden-field-on-collection-radio-buttons.html">Rails 5 adds a hidden field on collection radio buttons</a> и <a href="https://medium.com/spritle-software/rails-5-activerecord-suppress-a-step-too-far-d7ec2e4ed027">Rails 5 — ActiveRecord Suppress — a step too far?</a></li>
-  <li><a href="http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html">Type Wars</a>, <a href="http://labs.ig.com/static-typing-promise">The promise of static typing</a>, <a href="http://solnic.eu/2016/05/22/my-time-with-rails-is-up.html">My time with Rails is up</a> и <a href="https://m.signalvnoise.com/ruby-has-been-fast-enough-for-13-years-afff4a54abc7">Ruby has been fast enough for 13 years</a></li>
-  <li><a href="https://www.sitepoint.com/introduction-to-using-jwt-in-rails/">An Introduction to Using JWT Authentication in Rails</a>, <a href="http://blog.rubygems.org/2016/05/19/simplifying-our-stack.html">Rubygems.org: Simplifying our stack</a> и <a href="http://eftimov.net/decorators-and-presenters">A bit about decorators and presenters</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://www.theverge.com/2016/5/18/11701030/google-io-2016-keynote-highlights-announcements-recap">The 10 biggest announcements from Google I/O 2016</a>, <a href="https://firebase.google.com/">Firebase 2.0</a> и <a href="http://blog.jquery.com/2016/05/20/jquery-3-0-release-candidate-released/">jQuery 3.0 Release Candidate</a></li>
-  <li><a href="http://martinfowler.com/articles/refactoring-video-store-js/">Refactoring a javascript video store</a>, <a href="http://csswizardry.com/2016/05/the-importance-of-important/">The Importance of !important: Forcing Immutability in CSS</a> и <a href="https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec">5 Easy Steps to Understanding JSON Web Tokens (JWT)</a></li>
-  <li><a href="http://horizon.io/">Horizon is a realtime, open-source backend for JavaScript apps</a>, <a href="http://nativebase.io/">NativeBase - the missing piece of React Native</a>, <a href="http://javier.xyz/visual-center/">Visual Center - a tool that will find the visual center of your images</a> и <a href="http://felicegattuso.com/projects/timedropper/">Timedropper - a jQuery UI timepicker</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 23 May 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/05/23/podcast-04-19.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/05/23/podcast-04-19.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0419.mp3" length="58845470" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0419.mp3" fileSize="58845470" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5 supports configuring Active Job backen...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5 supports configuring Active Job backend adapter for each job, Rails 5 adds a hidden field on collection radio buttons и Rails 5 — ActiveRecord Suppress — a step too far?
-
-  
-Type Wars, The promise of static typing, My time with Rails is up и Ruby has been fast enough for 13 years
-
-  
-An Introduction to Using JWT Authentication in Rails, Rubygems.org: Simplifying our stack и A bit about decorators and presenters
-
-
-
-JavaScript
-
-
-  
-The 10 biggest announcements from Google I/O 2016, Firebase 2.0 и jQuery 3.0 Release Candidate
-
-  
-Refactoring a javascript video store, The Importance of !important: Forcing Immutability in CSS и 5 Easy Steps to Understanding JSON Web Tokens (JWT)
-
-  
-Horizon is a realtime, open-source backend for JavaScript apps, NativeBase - the missing piece of React Native, Visual Center - a tool that will find the visual center of your images и Timedropper - a jQuery UI timepicker
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0419.png"/>
-  <itunes:duration>01:01:11</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
