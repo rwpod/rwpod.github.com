@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 13 Mar 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 13 Mar 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,117 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>11 выпуск 05 сезона. jQuery 3.2.0, CSSO 3.0.0, Google Spreadsheets and Ruby, React Loadable, Planck.js, Waffle grid и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/03/14/ruby-2-4-has-optimized-lstrip-and-strip-methods.html">Ruby 2.4 has optimized lstrip and strip methods for ASCII strings</a>, <a href="http://pixelatedworks.com/articles/embracing-change-rails51-adopts-yarn-webpack-and-the-js-ecosystem/">Embracing Change: Rails 5.1 Adopts Yarn, Webpack, and the JS Ecosystem</a> и <a href="http://semaphoreci.com/blog/2017/03/14/faster-rails-how-to-check-if-a-record-exists.html">Faster Rails: How to Check if a Record Exists</a></li>
+  <li><a href="https://hackernoon.com/how-to-setup-and-deploy-a-rails-5-app-on-aws-beanstalk-with-postgresql-redis-and-more-88a38355f1ea">How to setup and deploy a Rails 5 app on AWS ElasticBeanstalk with PostgreSQL, Redis and more</a> и <a href="http://www.rubyletter.com/blog/2017/03/15/middleman-blog-drafts.html">Draft Blog Posts in Middleman</a></li>
+  <li><a href="https://www.twilio.com/blog/2017/03/google-spreadsheets-ruby.html">Google Spreadsheets and Ruby</a> и <a href="http://www.rubyletter.com/blog/2017/03/13/rubyist-guide-to-postgres-explain.html">A Rubyist’s Guide to Postgresql’s Explain</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.jquery.com/2017/03/16/jquery-3-2-0-is-out/">jQuery 3.2.0 Is Out</a>, <a href="https://github.com/css/csso/releases/tag/v3.0.0">CSSO 3.0.0</a> и <a href="http://cssmojo.com/aspect-ratio-using-custom-properties-and-calc/">Preventing Reflow</a></li>
+  <li><a href="https://hashnode.com/post/javascript-patterns-wrangling-arrays-like-a-boss-with-arrayreduce-cj0a7avja017jx7534y7338pr">JavaScript Patterns — Wrangling arrays like a boss, with Array#reduce</a> и <a href="http://thefullstack.xyz/effective-javascript-developers/">The Habits of Effective JavaScript Developers</a></li>
+  <li><a href="https://medium.com/@thejameskyle/react-loadable-2674c59de178">Introducing React Loadable</a>, <a href="http://piqnt.com/planck.js/">Planck.js - 2D JavaScript physics engine for cross-platform HTML5 game development</a>, <a href="https://lucasgruwez.github.io/waffle-grid/">Waffle grid - an easy to use flexbox grid system</a> и <a href="http://obliv.me/">Oblivion - a programming language that compiles to SVG graphics</a></li>
+</ul>
+
+<h2 id="section">Книга</h2>
+
+<ul>
+  <li><a href="http://postgresql.leopard.in.ua/">Работа с PostgreSQL: настройка и масштабирование</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/03/14/ruby-2-4-has-optimized-lstrip-and-strip-methods.html">Ruby 2.4 has optimized lstrip and strip methods for ASCII strings</a>, <a href="http://pixelatedworks.com/articles/embracing-change-rails51-adopts-yarn-webpack-and-the-js-ecosystem/">Embracing Change: Rails 5.1 Adopts Yarn, Webpack, and the JS Ecosystem</a> и <a href="http://semaphoreci.com/blog/2017/03/14/faster-rails-how-to-check-if-a-record-exists.html">Faster Rails: How to Check if a Record Exists</a></li>
+  <li><a href="https://hackernoon.com/how-to-setup-and-deploy-a-rails-5-app-on-aws-beanstalk-with-postgresql-redis-and-more-88a38355f1ea">How to setup and deploy a Rails 5 app on AWS ElasticBeanstalk with PostgreSQL, Redis and more</a> и <a href="http://www.rubyletter.com/blog/2017/03/15/middleman-blog-drafts.html">Draft Blog Posts in Middleman</a></li>
+  <li><a href="https://www.twilio.com/blog/2017/03/google-spreadsheets-ruby.html">Google Spreadsheets and Ruby</a> и <a href="http://www.rubyletter.com/blog/2017/03/13/rubyist-guide-to-postgres-explain.html">A Rubyist’s Guide to Postgresql’s Explain</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.jquery.com/2017/03/16/jquery-3-2-0-is-out/">jQuery 3.2.0 Is Out</a>, <a href="https://github.com/css/csso/releases/tag/v3.0.0">CSSO 3.0.0</a> и <a href="http://cssmojo.com/aspect-ratio-using-custom-properties-and-calc/">Preventing Reflow</a></li>
+  <li><a href="https://hashnode.com/post/javascript-patterns-wrangling-arrays-like-a-boss-with-arrayreduce-cj0a7avja017jx7534y7338pr">JavaScript Patterns — Wrangling arrays like a boss, with Array#reduce</a> и <a href="http://thefullstack.xyz/effective-javascript-developers/">The Habits of Effective JavaScript Developers</a></li>
+  <li><a href="https://medium.com/@thejameskyle/react-loadable-2674c59de178">Introducing React Loadable</a>, <a href="http://piqnt.com/planck.js/">Planck.js - 2D JavaScript physics engine for cross-platform HTML5 game development</a>, <a href="https://lucasgruwez.github.io/waffle-grid/">Waffle grid - an easy to use flexbox grid system</a> и <a href="http://obliv.me/">Oblivion - a programming language that compiles to SVG graphics</a></li>
+</ul>
+
+<h2 id="section">Книга</h2>
+
+<ul>
+  <li><a href="http://postgresql.leopard.in.ua/">Работа с PostgreSQL: настройка и масштабирование</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 20 Mar 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/03/20/podcast-05-11.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/03/20/podcast-05-11.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0511.mp3" length="25180854" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0511.mp3" fileSize="25180854" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.4 has optimized lstrip and strip method...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.4 has optimized lstrip and strip methods for ASCII strings, Embracing Change: Rails 5.1 Adopts Yarn, Webpack, and the JS Ecosystem и Faster Rails: How to Check if a Record Exists
+
+  
+How to setup and deploy a Rails 5 app on AWS ElasticBeanstalk with PostgreSQL, Redis and more и Draft Blog Posts in Middleman
+
+  
+Google Spreadsheets and Ruby и A Rubyist’s Guide to Postgresql’s Explain
+
+
+
+JavaScript
+
+
+  
+jQuery 3.2.0 Is Out, CSSO 3.0.0 и Preventing Reflow
+
+  
+JavaScript Patterns — Wrangling arrays like a boss, with Array#reduce и The Habits of Effective JavaScript Developers
+
+  
+Introducing React Loadable, Planck.js - 2D JavaScript physics engine for cross-platform HTML5 game development, Waffle grid - an easy to use flexbox grid system и Oblivion - a programming language that compiles to SVG graphics
+
+
+
+Книга
+
+
+  Работа с PostgreSQL: настройка и масштабирование
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0511.png"/>
+  <itunes:duration>00:26:07</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>10 выпуск 05 сезона. React Router v4, Ruby 2D, Rack::Freeze, Scrolling on the web, Quiet.js, Blurify.js, Numscrubber.js и прочее</title>
   <description>
@@ -3681,117 +3792,6 @@ Barba.js - a small, flexible and dependency free library that helps you creating
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0421.png"/>
   <itunes:duration>00:43:01</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>20 выпуск 04 сезона. Rails 5 Features and Changes, Rails has won, MIND Patterns, Stylelint, Pepperoni, Microlight.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.railscarma.com/blog/technical-articles/a-detailed-look-rails-5-features-changes/">A Detailed Look at Rails 5 Features and Changes</a>, <a href="http://blog.bigbinary.com/2016/05/27/rails-5-introduces-active-support-array-inquirer.html">Rails 5 adds ArrayInquirer and provides friendlier way to check contents in an array</a>, <a href="http://blog.bigbinary.com/2016/05/26/rails-5-renamed-transactional-fixtures-to-transactional-tests.html">Rails 5 renamed transactional fixtures to transactional tests</a> и <a href="http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room">Rails has won: The Elephant in the Room</a></li>
-  <li><a href="http://www.rubypigeon.com/posts/how-to-implement-simple-authentication-without-devise/">How To Implement Simple Authentication Without Devise</a>, <a href="http://ducktypelabs.com/four-ways-to-filter-has_many-associations/">4 ways to filter has_many associations</a> и <a href="http://aaronlasseigne.com/2016/05/24/know-ruby-with_index/">Know Ruby: with_index</a></li>
-  <li><a href="http://www.mikeperham.com/2016/05/25/sidekiq-for-crystal/">Sidekiq for Crystal</a>, <a href="https://blog.heroku.com/archives/2016/5/24/reactive_ruby_building_real_time_apps_with_jruby_and_ratpack">Reactive Ruby: Building Real-time Apps with JRuby and Ratpack</a> и <a href="https://github.com/zverok/time_math2">TimeMath2 - a small, no-dependencies library attempting to make time arithmetics easier</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://ebay.gitbooks.io/mindpatterns/content/">MIND Patterns - Accessibility Patterns for the Web</a>, <a href="https://www.smashingmagazine.com/2016/05/stylelint-the-style-sheet-linter-weve-always-wanted/">Stylelint: The Style Sheet Linter We’ve Always Wanted</a>, <a href="http://lukyvj.github.io/family.scss/">Family.scss - a set of smart Sass mixins which will help you to manage the style of :nth-child elements</a> и <a href="https://github.com/delapuente/service-workers-101/">Service Workers 101</a></li>
-  <li><a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/">React Tutorial: Cloning Yelp</a>, <a href="https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react">Getting Started with TDD in React</a> и <a href="http://getpepperoni.com/">Pepperoni - React Native App Starter Kit for Android and iOS</a></li>
-  <li><a href="http://asvd.github.io/microlight/">Microlight.js is a micro-library which improves readability of code snippets by highlighting</a>, <a href="http://webgazer.cs.brown.edu/">WebGazer.js is an eye tracking library</a>, <a href="https://rishabhp.github.io/bideo.js/">Bideo.js - a JS library that makes it super easy to add fullscreen background videos</a> и <a href="https://github.com/inikulin/replicator">Replicator - an advanced JavaScript objects serialization</a></li>
-</ul>
-
-<h2 id="section">Скринкаст</h2>
-
-<ul>
-  <li><a href="https://www.youtube.com/watch?v=b-KM44kqgxs">Service Worker и Application Cache</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.railscarma.com/blog/technical-articles/a-detailed-look-rails-5-features-changes/">A Detailed Look at Rails 5 Features and Changes</a>, <a href="http://blog.bigbinary.com/2016/05/27/rails-5-introduces-active-support-array-inquirer.html">Rails 5 adds ArrayInquirer and provides friendlier way to check contents in an array</a>, <a href="http://blog.bigbinary.com/2016/05/26/rails-5-renamed-transactional-fixtures-to-transactional-tests.html">Rails 5 renamed transactional fixtures to transactional tests</a> и <a href="http://www.akitaonrails.com/2016/05/23/rails-has-won-the-elephant-in-the-room">Rails has won: The Elephant in the Room</a></li>
-  <li><a href="http://www.rubypigeon.com/posts/how-to-implement-simple-authentication-without-devise/">How To Implement Simple Authentication Without Devise</a>, <a href="http://ducktypelabs.com/four-ways-to-filter-has_many-associations/">4 ways to filter has_many associations</a> и <a href="http://aaronlasseigne.com/2016/05/24/know-ruby-with_index/">Know Ruby: with_index</a></li>
-  <li><a href="http://www.mikeperham.com/2016/05/25/sidekiq-for-crystal/">Sidekiq for Crystal</a>, <a href="https://blog.heroku.com/archives/2016/5/24/reactive_ruby_building_real_time_apps_with_jruby_and_ratpack">Reactive Ruby: Building Real-time Apps with JRuby and Ratpack</a> и <a href="https://github.com/zverok/time_math2">TimeMath2 - a small, no-dependencies library attempting to make time arithmetics easier</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://ebay.gitbooks.io/mindpatterns/content/">MIND Patterns - Accessibility Patterns for the Web</a>, <a href="https://www.smashingmagazine.com/2016/05/stylelint-the-style-sheet-linter-weve-always-wanted/">Stylelint: The Style Sheet Linter We’ve Always Wanted</a>, <a href="http://lukyvj.github.io/family.scss/">Family.scss - a set of smart Sass mixins which will help you to manage the style of :nth-child elements</a> и <a href="https://github.com/delapuente/service-workers-101/">Service Workers 101</a></li>
-  <li><a href="https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/">React Tutorial: Cloning Yelp</a>, <a href="https://semaphoreci.com/community/tutorials/getting-started-with-tdd-in-react">Getting Started with TDD in React</a> и <a href="http://getpepperoni.com/">Pepperoni - React Native App Starter Kit for Android and iOS</a></li>
-  <li><a href="http://asvd.github.io/microlight/">Microlight.js is a micro-library which improves readability of code snippets by highlighting</a>, <a href="http://webgazer.cs.brown.edu/">WebGazer.js is an eye tracking library</a>, <a href="https://rishabhp.github.io/bideo.js/">Bideo.js - a JS library that makes it super easy to add fullscreen background videos</a> и <a href="https://github.com/inikulin/replicator">Replicator - an advanced JavaScript objects serialization</a></li>
-</ul>
-
-<h2 id="section">Скринкаст</h2>
-
-<ul>
-  <li><a href="https://www.youtube.com/watch?v=b-KM44kqgxs">Service Worker и Application Cache</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 31 May 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/05/31/podcast-04-20.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/05/31/podcast-04-20.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0420.mp3" length="53104161" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0420.mp3" fileSize="53104161" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  A Detailed Look at Rails 5 Features and Change...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-A Detailed Look at Rails 5 Features and Changes, Rails 5 adds ArrayInquirer and provides friendlier way to check contents in an array, Rails 5 renamed transactional fixtures to transactional tests и Rails has won: The Elephant in the Room
-
-  
-How To Implement Simple Authentication Without Devise, 4 ways to filter has_many associations и Know Ruby: with_index
-
-  
-Sidekiq for Crystal, Reactive Ruby: Building Real-time Apps with JRuby and Ratpack и TimeMath2 - a small, no-dependencies library attempting to make time arithmetics easier
-
-
-
-JavaScript
-
-
-  
-MIND Patterns - Accessibility Patterns for the Web, Stylelint: The Style Sheet Linter We’ve Always Wanted, Family.scss - a set of smart Sass mixins which will help you to manage the style of :nth-child elements и Service Workers 101
-
-  
-React Tutorial: Cloning Yelp, Getting Started with TDD in React и Pepperoni - React Native App Starter Kit for Android and iOS
-
-  
-Microlight.js is a micro-library which improves readability of code snippets by highlighting, WebGazer.js is an eye tracking library, Bideo.js - a JS library that makes it super easy to add fullscreen background videos и Replicator - an advanced JavaScript objects serialization
-
-
-
-Скринкаст
-
-
-  Service Worker и Application Cache
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0420.png"/>
-  <itunes:duration>00:55:12</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
