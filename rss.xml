@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 20 Mar 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 27 Mar 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>12 выпуск 05 сезона. Ruby 2.4.1, Angular 4.0.0, Elixirize, Why WebAssembly is Faster Than asm.js, Cyclow, MoveTo и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2017/03/22/ruby-2-4-1-released/">Ruby 2.4.1 Released</a>, <a href="http://blog.bigbinary.com/2017/03/21/enumerable-uniq-and-enumerable-lazy-uniq-part-of-ruby-2-4.html">Ruby 2.4 introduces Enumerable#uniq and Enumerable::Lazy#uniq</a> и <a href="https://philna.sh/blog/2017/03/22/always-install-bundler-alongside-ruby-with-rbenv/">Always install Bundler alongside Ruby with rbenv</a></li>
+  <li><a href="https://blog.dnsimple.com/2017/03/why-we-ended-up-not-using-rails-for-our-new-json-api/">Why we ended up not using Rails for our new JSON API</a> и <a href="https://medium.com/@kirill_shevch/using-chef-and-capistrano-to-deploy-rails-application-on-ubuntu-16-04-fae1dfe0dd12">Using Chef and Capistrano to deploy a Rails application on Ubuntu 16.04</a></li>
+  <li><a href="https://github.com/danielpclark/elixirize">Elixirize - adds the ᐅ method to Ruby</a> и <a href="https://www.driftingruby.com/episodes/pagination-with-kaminari">Pagination with Kaminari (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://angularjs.blogspot.com/2017/03/angular-400-now-available.html">Angular 4.0.0 Now Available</a>, <a href="https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/">Why WebAssembly is Faster Than asm.js</a> и <a href="https://iamakulov.com/notes/all/redux-vs-react-setstate/">Redux vs React’s setState()</a></li>
+  <li><a href="https://medium.com/@matansokolovsky/es7-async-await-pitfalls-d24331388a70">ES7 Async/Await pitfalls</a>, <a href="https://medium.com/dev-channel/testing-service-workers-318d7b016b19">Testing Service Workers</a> и <a href="https://medium.com/@vkozulya/как-унизить-джаваскриптера-e0aa256a8905">Как унизить джаваскриптера</a></li>
+  <li><a href="https://techshard.com/2017/03/19/7-javascript-libraries-for-dashboards/">7 JavaScript Libraries for Dashboards</a>, <a href="http://cyclow.js.org/">Cyclow - a reactive frontend framework for JavaScript</a> и <a href="https://github.com/hsnaydd/moveTo">MoveTo - lightweight scroll animation javascript library without any dependency</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2017/03/22/ruby-2-4-1-released/">Ruby 2.4.1 Released</a>, <a href="http://blog.bigbinary.com/2017/03/21/enumerable-uniq-and-enumerable-lazy-uniq-part-of-ruby-2-4.html">Ruby 2.4 introduces Enumerable#uniq and Enumerable::Lazy#uniq</a> и <a href="https://philna.sh/blog/2017/03/22/always-install-bundler-alongside-ruby-with-rbenv/">Always install Bundler alongside Ruby with rbenv</a></li>
+  <li><a href="https://blog.dnsimple.com/2017/03/why-we-ended-up-not-using-rails-for-our-new-json-api/">Why we ended up not using Rails for our new JSON API</a> и <a href="https://medium.com/@kirill_shevch/using-chef-and-capistrano-to-deploy-rails-application-on-ubuntu-16-04-fae1dfe0dd12">Using Chef and Capistrano to deploy a Rails application on Ubuntu 16.04</a></li>
+  <li><a href="https://github.com/danielpclark/elixirize">Elixirize - adds the ᐅ method to Ruby</a> и <a href="https://www.driftingruby.com/episodes/pagination-with-kaminari">Pagination with Kaminari (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://angularjs.blogspot.com/2017/03/angular-400-now-available.html">Angular 4.0.0 Now Available</a>, <a href="https://hacks.mozilla.org/2017/03/why-webassembly-is-faster-than-asm-js/">Why WebAssembly is Faster Than asm.js</a> и <a href="https://iamakulov.com/notes/all/redux-vs-react-setstate/">Redux vs React’s setState()</a></li>
+  <li><a href="https://medium.com/@matansokolovsky/es7-async-await-pitfalls-d24331388a70">ES7 Async/Await pitfalls</a>, <a href="https://medium.com/dev-channel/testing-service-workers-318d7b016b19">Testing Service Workers</a> и <a href="https://medium.com/@vkozulya/как-унизить-джаваскриптера-e0aa256a8905">Как унизить джаваскриптера</a></li>
+  <li><a href="https://techshard.com/2017/03/19/7-javascript-libraries-for-dashboards/">7 JavaScript Libraries for Dashboards</a>, <a href="http://cyclow.js.org/">Cyclow - a reactive frontend framework for JavaScript</a> и <a href="https://github.com/hsnaydd/moveTo">MoveTo - lightweight scroll animation javascript library without any dependency</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 27 Mar 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/03/27/podcast-05-12.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/03/27/podcast-05-12.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0512.mp3" length="30106607" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0512.mp3" fileSize="30106607" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.4.1 Released, Ruby 2.4 introduces Enume...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.4.1 Released, Ruby 2.4 introduces Enumerable#uniq and Enumerable::Lazy#uniq и Always install Bundler alongside Ruby with rbenv
+
+  
+Why we ended up not using Rails for our new JSON API и Using Chef and Capistrano to deploy a Rails application on Ubuntu 16.04
+
+  
+Elixirize - adds the ᐅ method to Ruby и Pagination with Kaminari (video)
+
+
+
+JavaScript
+
+
+  
+Angular 4.0.0 Now Available, Why WebAssembly is Faster Than asm.js и Redux vs React’s setState()
+
+  
+ES7 Async/Await pitfalls, Testing Service Workers и Как унизить джаваскриптера
+
+  
+7 JavaScript Libraries for Dashboards, Cyclow - a reactive frontend framework for JavaScript и MoveTo - lightweight scroll animation javascript library without any dependency
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0512.png"/>
+  <itunes:duration>00:31:15</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>11 выпуск 05 сезона. jQuery 3.2.0, CSSO 3.0.0, Google Spreadsheets and Ruby, React Loadable, Planck.js, Waffle grid и прочее</title>
   <description>
@@ -3699,99 +3792,6 @@ V7: Embedded JavaScript engine, Sabertooth - a Javascript Library for interactin
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0422.png"/>
   <itunes:duration>00:49:06</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>21 выпуск 04 сезона. Ruby concurrency, dropping IE8 support, Barba.js, Drape, gDoc.js, AnyPixel.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/06/01/rails-5-introduces-helpers-for-country-zones.html">Rails 5 introduces country_zones helper method to ActiveSupport::TimeZone</a> и <a href="https://www.ziptask.com/10-Ways-to-Secure-a-Ruby-on-Rails-Website">10 Ways to Secure a Ruby on Rails Website</a></li>
-  <li><a href="https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_the_mutex/">Ruby concurrency: in praise of the mutex</a> и <a href="http://www.akitaonrails.com/2016/05/31/flirting-with-crystal-a-rubyist-perspective">Flirting with Crystal, a Rubyist Perspective</a></li>
-  <li><a href="http://www.rubypigeon.com/posts/4-ways-to-avoid-monkey-patching/">4 Ways To Avoid Monkey Patching</a>, <a href="http://www.ombulabs.com/blog/ruby/imap/a-comprehensive-guide-to-interacting-with-imap-using-ruby.html">A comprehensive guide to interacting with IMAP using Ruby</a> и <a href="http://aserafin.pl/2016/06/06/fast-csv-imports-with-rails-and-postgresql/">Really fast CSV imports with Rails and PostgreSQL</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://tech.trivago.com/2016/06/01/dropping-ie8-support-consequences-for-javascript/">Dropping IE8 Support: Consequences for JavaScript</a>, <a href="https://testmysite.thinkwithgoogle.com/">Test how mobile-friendly your site is</a> и <a href="http://jeffcarp.github.io/frontend-hyperpolyglot/">Front-end Hyperpolyglot</a></li>
-  <li><a href="https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060">How to write your own Virtual DOM</a> и <a href="https://egghead.io/courses/building-react-applications-with-idiomatic-redux">Building React Applications with Idiomatic Redux</a></li>
-  <li><a href="http://barbajs.org/">Barba.js - a small, flexible and dependency free library that helps you creating fluid and smooth transitions between your website’s pages</a>, <a href="http://aatishb.github.io/drape/">Drape - a fabric design and simulation tool, built in three.js</a>, <a href="https://github.com/jadeallencook/gDoc.js">gDoc.js - use Google Spreadsheets as your CMS</a> и <a href="http://googlecreativelab.github.io/anypixel/">AnyPixel.js is an open-source software and hardware library that makes it possible to use the web to create big, unusual, interactive displays out of all kinds of things</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/06/01/rails-5-introduces-helpers-for-country-zones.html">Rails 5 introduces country_zones helper method to ActiveSupport::TimeZone</a> и <a href="https://www.ziptask.com/10-Ways-to-Secure-a-Ruby-on-Rails-Website">10 Ways to Secure a Ruby on Rails Website</a></li>
-  <li><a href="https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_the_mutex/">Ruby concurrency: in praise of the mutex</a> и <a href="http://www.akitaonrails.com/2016/05/31/flirting-with-crystal-a-rubyist-perspective">Flirting with Crystal, a Rubyist Perspective</a></li>
-  <li><a href="http://www.rubypigeon.com/posts/4-ways-to-avoid-monkey-patching/">4 Ways To Avoid Monkey Patching</a>, <a href="http://www.ombulabs.com/blog/ruby/imap/a-comprehensive-guide-to-interacting-with-imap-using-ruby.html">A comprehensive guide to interacting with IMAP using Ruby</a> и <a href="http://aserafin.pl/2016/06/06/fast-csv-imports-with-rails-and-postgresql/">Really fast CSV imports with Rails and PostgreSQL</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://tech.trivago.com/2016/06/01/dropping-ie8-support-consequences-for-javascript/">Dropping IE8 Support: Consequences for JavaScript</a>, <a href="https://testmysite.thinkwithgoogle.com/">Test how mobile-friendly your site is</a> и <a href="http://jeffcarp.github.io/frontend-hyperpolyglot/">Front-end Hyperpolyglot</a></li>
-  <li><a href="https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060">How to write your own Virtual DOM</a> и <a href="https://egghead.io/courses/building-react-applications-with-idiomatic-redux">Building React Applications with Idiomatic Redux</a></li>
-  <li><a href="http://barbajs.org/">Barba.js - a small, flexible and dependency free library that helps you creating fluid and smooth transitions between your website’s pages</a>, <a href="http://aatishb.github.io/drape/">Drape - a fabric design and simulation tool, built in three.js</a>, <a href="https://github.com/jadeallencook/gDoc.js">gDoc.js - use Google Spreadsheets as your CMS</a> и <a href="http://googlecreativelab.github.io/anypixel/">AnyPixel.js is an open-source software and hardware library that makes it possible to use the web to create big, unusual, interactive displays out of all kinds of things</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 07 Jun 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/06/07/podcast-04-21.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/07/podcast-04-21.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0421.mp3" length="41395438" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0421.mp3" fileSize="41395438" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5 introduces country_zones helper method...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5 introduces country_zones helper method to ActiveSupport::TimeZone и 10 Ways to Secure a Ruby on Rails Website
-
-  
-Ruby concurrency: in praise of the mutex и Flirting with Crystal, a Rubyist Perspective
-
-  
-4 Ways To Avoid Monkey Patching, A comprehensive guide to interacting with IMAP using Ruby и Really fast CSV imports with Rails and PostgreSQL
-
-
-
-JavaScript
-
-
-  
-Dropping IE8 Support: Consequences for JavaScript, Test how mobile-friendly your site is и Front-end Hyperpolyglot
-
-  
-How to write your own Virtual DOM и Building React Applications with Idiomatic Redux
-
-  
-Barba.js - a small, flexible and dependency free library that helps you creating fluid and smooth transitions between your website’s pages, Drape - a fabric design and simulation tool, built in three.js, gDoc.js - use Google Spreadsheets as your CMS и AnyPixel.js is an open-source software and hardware library that makes it possible to use the web to create big, unusual, interactive displays out of all kinds of things
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0421.png"/>
-  <itunes:duration>00:43:01</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
