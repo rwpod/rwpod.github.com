@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 27 Mar 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 27 Mar 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 03 Apr 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>13 выпуск 05 сезона. Ruby 2.2.7, Next.js 2.0, $500,000 mruby release, Preload, Prefetch And Priorities, Glimmer.js, Boostnote и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2017/03/28/ruby-2-2-7-released/">Ruby 2.2.7 Released</a>, <a href="http://blog.bigbinary.com/2017/03/28/new-ndigits-arguments-supported-for-float-modifiers-in-ruby-2-4.html">New arguments supported for float and integer modifiers in Ruby 2.4</a> и <a href="https://mruby.sh/201703270126.html">The $500,000 mruby release</a></li>
+  <li><a href="https://medium.com/@wintermeyer/action-cable-hello-world-with-rails-5-1-efc475b0208b">Action Cable Hello World with Rails 5.1</a>, <a href="https://blog.codeship.com/actioncable-the-missing-guide/">ActionCable: The Missing Guide</a> и <a href="https://blog.codeminer42.com/from-rails-to-hanami-controllers-ad7ef6d09dd0">From Rails to Hanami: Controllers</a></li>
+  <li><a href="https://blog.heroku.com/solving-n-plus-one-queries">N+1 Queries or Memory Problems: Why not Solve Both?</a>, <a href="https://github.com/nettofarah/graphql-query-resolver">GraphQL::QueryResolver is an add-on to graphql-ruby that allows your field resolvers to minimize N+1 SELECTS issued by ActiveRecord</a> и <a href="https://github.com/ioquatix/financier">Financier - a comprehensive business management platform built on top of Utopia and Relaxo</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://zeit.co/blog/next2">Next.js 2.0</a>, <a href="https://snyk.io/blog/77-percent-of-sites-use-vulnerable-js-libraries/">77% of sites use at least one vulnerable JavaScript library</a> и <a href="https://www.sitepoint.com/tame-unruly-style-sheets-three-css-architecture-methodologies/">Tame Unruly Style Sheets With These Three CSS Methodologies</a></li>
+  <li><a href="https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf">Preload, Prefetch And Priorities in Chrome</a>, <a href="https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/">CSS Custom Properties in Microsoft Edge</a> и <a href="https://hackernoon.com/speed-up-your-site-with-a-little-machine-learning-fa9eb7c86dbb">Speed up your site with a little machine learning</a></li>
+  <li><a href="https://glimmerjs.com/">Glimmer.js  - a fast and lightweight UI component library</a>, <a href="https://boostnote.io/">Boostnote - an open source note-taking app made for progammers just like you</a> и <a href="https://joshuajohnson.co.uk/Choices/">Choices.js - a lightweight, configurable select box/text input plugin</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2017/03/28/ruby-2-2-7-released/">Ruby 2.2.7 Released</a>, <a href="http://blog.bigbinary.com/2017/03/28/new-ndigits-arguments-supported-for-float-modifiers-in-ruby-2-4.html">New arguments supported for float and integer modifiers in Ruby 2.4</a> и <a href="https://mruby.sh/201703270126.html">The $500,000 mruby release</a></li>
+  <li><a href="https://medium.com/@wintermeyer/action-cable-hello-world-with-rails-5-1-efc475b0208b">Action Cable Hello World with Rails 5.1</a>, <a href="https://blog.codeship.com/actioncable-the-missing-guide/">ActionCable: The Missing Guide</a> и <a href="https://blog.codeminer42.com/from-rails-to-hanami-controllers-ad7ef6d09dd0">From Rails to Hanami: Controllers</a></li>
+  <li><a href="https://blog.heroku.com/solving-n-plus-one-queries">N+1 Queries or Memory Problems: Why not Solve Both?</a>, <a href="https://github.com/nettofarah/graphql-query-resolver">GraphQL::QueryResolver is an add-on to graphql-ruby that allows your field resolvers to minimize N+1 SELECTS issued by ActiveRecord</a> и <a href="https://github.com/ioquatix/financier">Financier - a comprehensive business management platform built on top of Utopia and Relaxo</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://zeit.co/blog/next2">Next.js 2.0</a>, <a href="https://snyk.io/blog/77-percent-of-sites-use-vulnerable-js-libraries/">77% of sites use at least one vulnerable JavaScript library</a> и <a href="https://www.sitepoint.com/tame-unruly-style-sheets-three-css-architecture-methodologies/">Tame Unruly Style Sheets With These Three CSS Methodologies</a></li>
+  <li><a href="https://medium.com/reloading/preload-prefetch-and-priorities-in-chrome-776165961bbf">Preload, Prefetch And Priorities in Chrome</a>, <a href="https://blogs.windows.com/msedgedev/2017/03/24/css-custom-properties/">CSS Custom Properties in Microsoft Edge</a> и <a href="https://hackernoon.com/speed-up-your-site-with-a-little-machine-learning-fa9eb7c86dbb">Speed up your site with a little machine learning</a></li>
+  <li><a href="https://glimmerjs.com/">Glimmer.js  - a fast and lightweight UI component library</a>, <a href="https://boostnote.io/">Boostnote - an open source note-taking app made for progammers just like you</a> и <a href="https://joshuajohnson.co.uk/Choices/">Choices.js - a lightweight, configurable select box/text input plugin</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 03 Apr 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/04/03/podcast-05-13.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/04/03/podcast-05-13.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0513.mp3" length="40348064" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0513.mp3" fileSize="40348064" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.2.7 Released, New arguments supported f...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.2.7 Released, New arguments supported for float and integer modifiers in Ruby 2.4 и The $500,000 mruby release
+
+  
+Action Cable Hello World with Rails 5.1, ActionCable: The Missing Guide и From Rails to Hanami: Controllers
+
+  
+N+1 Queries or Memory Problems: Why not Solve Both?, GraphQL::QueryResolver is an add-on to graphql-ruby that allows your field resolvers to minimize N+1 SELECTS issued by ActiveRecord и Financier - a comprehensive business management platform built on top of Utopia and Relaxo
+
+
+
+JavaScript
+
+
+  
+Next.js 2.0, 77% of sites use at least one vulnerable JavaScript library и Tame Unruly Style Sheets With These Three CSS Methodologies
+
+  
+Preload, Prefetch And Priorities in Chrome, CSS Custom Properties in Microsoft Edge и Speed up your site with a little machine learning
+
+  
+Glimmer.js  - a fast and lightweight UI component library, Boostnote - an open source note-taking app made for progammers just like you и Choices.js - a lightweight, configurable select box/text input plugin
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0513.png"/>
+  <itunes:duration>00:41:55</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>12 выпуск 05 сезона. Ruby 2.4.1, Angular 4.0.0, Elixirize, Why WebAssembly is Faster Than asm.js, Cyclow, MoveTo и прочее</title>
   <description>
@@ -3699,99 +3792,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0423.png"/>
   <itunes:duration>01:07:55</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>22 выпуск 04 сезона. Duck-typing with #to_proc, FasterPath, jQuery 3.0, Shadow DOM v1, Bootstrap 4, Sabertooth и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/06/06/rails-5-provides-finish-option-for-find-in-batches.html">Rails 5 adds finish option in find_in_batches</a> и <a href="https://lucaguidi.com/2016/06/07/the-penguin-that-cannot-fly.html">The Penguin That Can’t Fly</a></li>
-  <li><a href="http://ducktypelabs.com/how-to-keep-your-controllers-thin-with-form-objects/">How To Keep Your Controllers Thin with Form Objects</a> и <a href="http://jbodah.github.io/blog/2016/06/09/ducktyping-toproc/">Duck-typing with #to_proc</a></li>
-  <li><a href="http://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv/">How to spy on a Ruby program</a> и <a href="https://github.com/danielpclark/faster_path">FasterPath - improve performance in the most heavily used areas of Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/">jQuery 3.0 Final Released</a>, <a href="http://hayato.io/2016/shadowdomv1/">What’s New in Shadow DOM v1 (by examples)</a> и <a href="https://medium.com/wdstack/bootstrap-4-whats-new-visual-guide-c84dd81d8387">Bootstrap 4: A Visual Guide</a></li>
-  <li><a href="https://medium.com/javascript-scene/the-shocking-secret-about-static-types-514d39bf30a3">The Shocking Secret About Static Types</a> и <a href="https://blog.cloudflare.com/cf-ui/">Open Sourcing CloudFlare’s UI Framework</a></li>
-  <li><a href="https://github.com/cesanta/v7">V7: Embedded JavaScript engine</a>, <a href="https://sabertooth-io.github.io/">Sabertooth - a Javascript Library for interacting with Bluetooth Low Energy Devices</a>, <a href="https://salesforce-ux.github.io/sass-deprecate/">Deprecate() is a Sass mixin that helps managing code deprecation</a>, <a href="https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa">ReactEurope 2016 - Day 1</a> и <a href="https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof">ReactEurope 2016 - Day 2</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/06/06/rails-5-provides-finish-option-for-find-in-batches.html">Rails 5 adds finish option in find_in_batches</a> и <a href="https://lucaguidi.com/2016/06/07/the-penguin-that-cannot-fly.html">The Penguin That Can’t Fly</a></li>
-  <li><a href="http://ducktypelabs.com/how-to-keep-your-controllers-thin-with-form-objects/">How To Keep Your Controllers Thin with Form Objects</a> и <a href="http://jbodah.github.io/blog/2016/06/09/ducktyping-toproc/">Duck-typing with #to_proc</a></li>
-  <li><a href="http://jvns.ca/blog/2016/06/12/a-weird-system-call-process-vm-readv/">How to spy on a Ruby program</a> и <a href="https://github.com/danielpclark/faster_path">FasterPath - improve performance in the most heavily used areas of Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.jquery.com/2016/06/09/jquery-3-0-final-released/">jQuery 3.0 Final Released</a>, <a href="http://hayato.io/2016/shadowdomv1/">What’s New in Shadow DOM v1 (by examples)</a> и <a href="https://medium.com/wdstack/bootstrap-4-whats-new-visual-guide-c84dd81d8387">Bootstrap 4: A Visual Guide</a></li>
-  <li><a href="https://medium.com/javascript-scene/the-shocking-secret-about-static-types-514d39bf30a3">The Shocking Secret About Static Types</a> и <a href="https://blog.cloudflare.com/cf-ui/">Open Sourcing CloudFlare’s UI Framework</a></li>
-  <li><a href="https://github.com/cesanta/v7">V7: Embedded JavaScript engine</a>, <a href="https://sabertooth-io.github.io/">Sabertooth - a Javascript Library for interacting with Bluetooth Low Energy Devices</a>, <a href="https://salesforce-ux.github.io/sass-deprecate/">Deprecate() is a Sass mixin that helps managing code deprecation</a>, <a href="https://www.youtube.com/playlist?list=PLCC436JpVnK09bZeayg-KeLuHfHgc-tDa">ReactEurope 2016 - Day 1</a> и <a href="https://www.youtube.com/playlist?list=PLCC436JpVnK0LTDKW3O_BGTZnrZ8dBAof">ReactEurope 2016 - Day 2</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 14 Jun 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/06/14/podcast-04-22.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/14/podcast-04-22.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0422.mp3" length="47241279" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0422.mp3" fileSize="47241279" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5 adds finish option in find_in_batches ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5 adds finish option in find_in_batches и The Penguin That Can’t Fly
-
-  
-How To Keep Your Controllers Thin with Form Objects и Duck-typing with #to_proc
-
-  
-How to spy on a Ruby program и FasterPath - improve performance in the most heavily used areas of Ruby
-
-
-
-JavaScript
-
-
-  
-jQuery 3.0 Final Released, What’s New in Shadow DOM v1 (by examples) и Bootstrap 4: A Visual Guide
-
-  
-The Shocking Secret About Static Types и Open Sourcing CloudFlare’s UI Framework
-
-  
-V7: Embedded JavaScript engine, Sabertooth - a Javascript Library for interacting with Bluetooth Low Energy Devices, Deprecate() is a Sass mixin that helps managing code deprecation, ReactEurope 2016 - Day 1 и ReactEurope 2016 - Day 2
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0422.png"/>
-  <itunes:duration>00:49:06</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
