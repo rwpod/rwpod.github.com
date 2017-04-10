@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 03 Apr 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 03 Apr 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 10 Apr 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 10 Apr 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>14 выпуск 05 сезона. Hanami v1.0.0, React v15.5.0, Fae, UserSwitch, Rutilus, Reactour, Tippy.js, Embedo и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://hanamirb.org/blog/2017/04/06/announcing-hanami-100.html">Hanami v1.0.0</a>, <a href="http://blog.bigbinary.com/2017/04/04/ruby-2-4-has-default-basename-for-tempfile-create.html">Ruby 2.4 has default basename for Tempfile#create</a> и <a href="http://pixelatedworks.com/articles/configuring_new_rails_projects_with_railsrc_and_templates/">Configuring New Rails Projects With .railsrc and Templates</a></li>
+  <li><a href="http://blog.arkency.com/2017/04/reliable-notifications-between-two-systems/">Reliable notifications between two apps or microservices</a>, <a href="https://blog.active-bridge.com/what-is-the-best-strategy-for-encrypting-files-in-ruby#post">What is the best strategy for encrypting files in Ruby</a> и <a href="https://semaphoreci.com/community/tutorials/5-tips-for-more-effective-capybara-tests">5 Tips for More Effective Capybara Tests</a></li>
+  <li><a href="https://speakerdeck.com/palkan/rubyconfby-minsk-2017-run-test-run">Run Test Run by Vlad Dem</a>, <a href="https://www.faecms.com/">Fae - a flexible, open source, Rails CMS engine</a> и <a href="https://blog.kodius.io/2017/04/07/userswitch/">Switch users with UserSwitch</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html">React v15.5.0</a>, <a href="https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c">Webpack and Rollup: the same but different</a> и <a href="https://freebiesupply.com/blog/top-monospace-fonts-for-developers/">Top Monospace Fonts For Developers</a></li>
+  <li><a href="https://hackernoon.com/why-im-excited-about-glimmerjs-3631bd0c95c4">Why I’m excited about GlimmerJS</a>, <a href="http://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/">The Glimmer VM: Boots Fast and Stays Fast</a> и <a href="http://cssgridgarden.com/">Grid Garden</a></li>
+  <li><a href="https://gmrutilus.github.io/">Rutilus - a free, open-source analytics application</a>, <a href="http://lance.gg/">Lance - a node based game server</a>, <a href="https://elrumordelaluz.github.io/reactour/">Reactour - tourist Guide into your React Components</a>, <a href="https://atomiks.github.io/tippyjs/">Tippy.js - a lightweight, pure JavaScript tooltip library</a> и <a href="https://shobhitsharma.github.io/embedo/">Embedo - a simple, fast, lightweight and standalone social media content embedder plugin for web</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://hanamirb.org/blog/2017/04/06/announcing-hanami-100.html">Hanami v1.0.0</a>, <a href="http://blog.bigbinary.com/2017/04/04/ruby-2-4-has-default-basename-for-tempfile-create.html">Ruby 2.4 has default basename for Tempfile#create</a> и <a href="http://pixelatedworks.com/articles/configuring_new_rails_projects_with_railsrc_and_templates/">Configuring New Rails Projects With .railsrc and Templates</a></li>
+  <li><a href="http://blog.arkency.com/2017/04/reliable-notifications-between-two-systems/">Reliable notifications between two apps or microservices</a>, <a href="https://blog.active-bridge.com/what-is-the-best-strategy-for-encrypting-files-in-ruby#post">What is the best strategy for encrypting files in Ruby</a> и <a href="https://semaphoreci.com/community/tutorials/5-tips-for-more-effective-capybara-tests">5 Tips for More Effective Capybara Tests</a></li>
+  <li><a href="https://speakerdeck.com/palkan/rubyconfby-minsk-2017-run-test-run">Run Test Run by Vlad Dem</a>, <a href="https://www.faecms.com/">Fae - a flexible, open source, Rails CMS engine</a> и <a href="https://blog.kodius.io/2017/04/07/userswitch/">Switch users with UserSwitch</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html">React v15.5.0</a>, <a href="https://medium.com/webpack/webpack-and-rollup-the-same-but-different-a41ad427058c">Webpack and Rollup: the same but different</a> и <a href="https://freebiesupply.com/blog/top-monospace-fonts-for-developers/">Top Monospace Fonts For Developers</a></li>
+  <li><a href="https://hackernoon.com/why-im-excited-about-glimmerjs-3631bd0c95c4">Why I’m excited about GlimmerJS</a>, <a href="http://yehudakatz.com/2017/04/05/the-glimmer-vm-boots-fast-and-stays-fast/">The Glimmer VM: Boots Fast and Stays Fast</a> и <a href="http://cssgridgarden.com/">Grid Garden</a></li>
+  <li><a href="https://gmrutilus.github.io/">Rutilus - a free, open-source analytics application</a>, <a href="http://lance.gg/">Lance - a node based game server</a>, <a href="https://elrumordelaluz.github.io/reactour/">Reactour - tourist Guide into your React Components</a>, <a href="https://atomiks.github.io/tippyjs/">Tippy.js - a lightweight, pure JavaScript tooltip library</a> и <a href="https://shobhitsharma.github.io/embedo/">Embedo - a simple, fast, lightweight and standalone social media content embedder plugin for web</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 10 Apr 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/04/10/podcast-05-14.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/04/10/podcast-05-14.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0514.mp3" length="37305049" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0514.mp3" fileSize="37305049" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Hanami v1.0.0, Ruby 2.4 has default basename f...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Hanami v1.0.0, Ruby 2.4 has default basename for Tempfile#create и Configuring New Rails Projects With .railsrc and Templates
+
+  
+Reliable notifications between two apps or microservices, What is the best strategy for encrypting files in Ruby и 5 Tips for More Effective Capybara Tests
+
+  
+Run Test Run by Vlad Dem, Fae - a flexible, open source, Rails CMS engine и Switch users with UserSwitch
+
+
+
+JavaScript
+
+
+  
+React v15.5.0, Webpack and Rollup: the same but different и Top Monospace Fonts For Developers
+
+  
+Why I’m excited about GlimmerJS, The Glimmer VM: Boots Fast and Stays Fast и Grid Garden
+
+  
+Rutilus - a free, open-source analytics application, Lance - a node based game server, Reactour - tourist Guide into your React Components, Tippy.js - a lightweight, pure JavaScript tooltip library и Embedo - a simple, fast, lightweight and standalone social media content embedder plugin for web
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0514.png"/>
+  <itunes:duration>00:38:45</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>13 выпуск 05 сезона. Ruby 2.2.7, Next.js 2.0, $500,000 mruby release, Preload, Prefetch And Priorities, Glimmer.js, Boostnote и прочее</title>
   <description>
@@ -3681,117 +3774,6 @@ Flatpickr - a lightweight &amp; powerful datetimepicker, GitKit.js - pure JavaSc
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0424.png"/>
   <itunes:duration>00:41:45</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>23 выпуск 04 сезона. Elixir over Ruby, PostgreSQL Exercises, Headless Chrome, Kakapo.js, AOS и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/06/07/rails-5-prevents-destructive-action-on-production-db.html">Rails 5 prevents destructive action on production database</a>, <a href="http://blog.bigbinary.com/2016/06/10/rails-5-allows-updating-relation-objects-along-with-callbacks-and-validations.html">Rails 5 allows to update records in AR Relation with callbacks and validations</a>, <a href="http://blog.bigbinary.com/2016/06/12/rails-5-adds-application-jobs-for-jobs.html">Rails 5 adds another base class Application Job for jobs</a> и <a href="http://blog.bigbinary.com/2016/06/16/rails-5-create-join-table-with-uuid.html">Rails 5 allows UUID as column type in create_join_table</a></li>
-  <li><a href="https://www.amberbit.com/blog/2015/12/22/when-choose-elixir-over-ruby-for-2016-projects/">When to choose Elixir over Ruby for 2016 projects?</a>, <a href="http://mixandgo.com/blog/how-weve-cut-our-development-time-in-half-by-losing-rails">How we’ve cut our development time in half by losing Rails</a> и <a href="https://pgexercises.com/">PostgreSQL Exercises</a></li>
-  <li><a href="http://blog.scoutapp.com/articles/2016/06/14/performance-prereqs-for-rails-teams">A Six-Pronged Rails Performance Philosophy</a>, <a href="https://infinum.co/the-capsized-eight/articles/how-to-efficiently-process-large-excel-files-using-ruby">How to efficiently process large Excel files using Ruby</a> и <a href="https://blog.codeship.com/metaprogramming-in-ruby/">Metaprogramming in Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://angularjs.blogspot.com/2016/06/rc2-now-available.html">Angular 2 RC2</a>, <a href="https://docs.google.com/presentation/d/1gqK9F4lGAY3TZudAtdcxzMQNEE7PcuQrGu83No3l0lw/preview?slide=id.g14ebf0ab58_0_0">Headless Chrome</a> и <a href="http://www.ecma-international.org/ecma-262/7.0/index.html">ECMAScript 2016 Approved</a></li>
-  <li><a href="https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62">One does not simply learn to code</a>, <a href="http://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/">History and Background of JavaScript Module Loaders</a> и <a href="http://rainsoft.io/gentle-explanation-of-this-in-javascript/">Gentle explanation of ‘this’ keyword in JavaScript</a></li>
-  <li><a href="https://medium.com/@leo/getting-started-with-javascript-robotics-5c54e716562c">Getting Started with JavaScript Robotics</a>,  <a href="http://www.creativebloq.com/fonts/google-fonts-website-gets-redesign-61620894">Google Fonts website gets a major redesign</a>, <a href="https://www.rtfmanual.io/d3garden/">Learn D3.js Basics By Planting A Vegetable Garden</a>, <a href="http://devlucky.github.io/kakapo-js">Kakapo.js - next generation mocking framework in Javascript</a> и <a href="http://michalsnik.github.io/aos/">AOS - Animate On Scroll Library</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://rubymeditation10.eventbrite.com/">10th Anniversary Ruby Meditation Conference</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/06/07/rails-5-prevents-destructive-action-on-production-db.html">Rails 5 prevents destructive action on production database</a>, <a href="http://blog.bigbinary.com/2016/06/10/rails-5-allows-updating-relation-objects-along-with-callbacks-and-validations.html">Rails 5 allows to update records in AR Relation with callbacks and validations</a>, <a href="http://blog.bigbinary.com/2016/06/12/rails-5-adds-application-jobs-for-jobs.html">Rails 5 adds another base class Application Job for jobs</a> и <a href="http://blog.bigbinary.com/2016/06/16/rails-5-create-join-table-with-uuid.html">Rails 5 allows UUID as column type in create_join_table</a></li>
-  <li><a href="https://www.amberbit.com/blog/2015/12/22/when-choose-elixir-over-ruby-for-2016-projects/">When to choose Elixir over Ruby for 2016 projects?</a>, <a href="http://mixandgo.com/blog/how-weve-cut-our-development-time-in-half-by-losing-rails">How we’ve cut our development time in half by losing Rails</a> и <a href="https://pgexercises.com/">PostgreSQL Exercises</a></li>
-  <li><a href="http://blog.scoutapp.com/articles/2016/06/14/performance-prereqs-for-rails-teams">A Six-Pronged Rails Performance Philosophy</a>, <a href="https://infinum.co/the-capsized-eight/articles/how-to-efficiently-process-large-excel-files-using-ruby">How to efficiently process large Excel files using Ruby</a> и <a href="https://blog.codeship.com/metaprogramming-in-ruby/">Metaprogramming in Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://angularjs.blogspot.com/2016/06/rc2-now-available.html">Angular 2 RC2</a>, <a href="https://docs.google.com/presentation/d/1gqK9F4lGAY3TZudAtdcxzMQNEE7PcuQrGu83No3l0lw/preview?slide=id.g14ebf0ab58_0_0">Headless Chrome</a> и <a href="http://www.ecma-international.org/ecma-262/7.0/index.html">ECMAScript 2016 Approved</a></li>
-  <li><a href="https://medium.freecodecamp.com/one-does-not-simply-learn-to-code-f25bacdc5b62">One does not simply learn to code</a>, <a href="http://appendto.com/2016/06/the-short-history-of-javascript-module-loaders/">History and Background of JavaScript Module Loaders</a> и <a href="http://rainsoft.io/gentle-explanation-of-this-in-javascript/">Gentle explanation of ‘this’ keyword in JavaScript</a></li>
-  <li><a href="https://medium.com/@leo/getting-started-with-javascript-robotics-5c54e716562c">Getting Started with JavaScript Robotics</a>,  <a href="http://www.creativebloq.com/fonts/google-fonts-website-gets-redesign-61620894">Google Fonts website gets a major redesign</a>, <a href="https://www.rtfmanual.io/d3garden/">Learn D3.js Basics By Planting A Vegetable Garden</a>, <a href="http://devlucky.github.io/kakapo-js">Kakapo.js - next generation mocking framework in Javascript</a> и <a href="http://michalsnik.github.io/aos/">AOS - Animate On Scroll Library</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://rubymeditation10.eventbrite.com/">10th Anniversary Ruby Meditation Conference</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 21 Jun 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/06/21/podcast-04-23.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/21/podcast-04-23.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0423.mp3" length="65311415" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0423.mp3" fileSize="65311415" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5 prevents destructive action on product...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5 prevents destructive action on production database, Rails 5 allows to update records in AR Relation with callbacks and validations, Rails 5 adds another base class Application Job for jobs и Rails 5 allows UUID as column type in create_join_table
-
-  
-When to choose Elixir over Ruby for 2016 projects?, How we’ve cut our development time in half by losing Rails и PostgreSQL Exercises
-
-  
-A Six-Pronged Rails Performance Philosophy, How to efficiently process large Excel files using Ruby и Metaprogramming in Ruby
-
-
-
-JavaScript
-
-
-  
-Angular 2 RC2, Headless Chrome и ECMAScript 2016 Approved
-
-  
-One does not simply learn to code, History and Background of JavaScript Module Loaders и Gentle explanation of ‘this’ keyword in JavaScript
-
-  
-Getting Started with JavaScript Robotics,  Google Fonts website gets a major redesign, Learn D3.js Basics By Planting A Vegetable Garden, Kakapo.js - next generation mocking framework in Javascript и AOS - Animate On Scroll Library
-
-
-
-Conferences
-
-
-  10th Anniversary Ruby Meditation Conference
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0423.png"/>
-  <itunes:duration>01:07:55</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
