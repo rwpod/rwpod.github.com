@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 10 Apr 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 10 Apr 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 17 Apr 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 17 Apr 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>15 выпуск 05 сезона. Migrating from redis-namespace, Rooby, Headless Chromium, CodeSandbox, Prettier и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/04/10/ruby-2-4-has-added-additional-parameters-for-logger-new.html">Ruby 2.4 has added additional parameters for Logger#new</a>, <a href="http://www.blackbytes.info/2017/04/memory-layout-of-an-object/">Ruby Under The Hood: Memory Layout of an Object</a> и <a href="https://blog.rubyroidlabs.com/2017/04/19-ruby-on-rails-gems/">19 Ruby on Rails Gems which Can Amaze</a></li>
+  <li><a href="https://www.levups.com/en/blog/2017/optimize_ruby_memory_usage_jemalloc_heroku_scalingo.html">Improve your Ruby application’s memory usage and performance with jemalloc</a>, <a href="https://blog.codeship.com/writing-efficient-queries/">Writing Efficient Queries</a> и <a href="https://www.crondose.com/2016/12/practical-machine-learning-ruby/">Practical Machine Learning with Ruby</a></li>
+  <li><a href="http://www.mikeperham.com/2017/04/10/migrating-from-redis-namespace/">Migrating from redis-namespace</a>, <a href="https://chase.pursu.es/webpack-2-and-middleman-4.html">Webpack 2 and Middleman 4</a>, <a href="https://github.com/st0012/Rooby">Rooby - a Ruby-like object oriented language written in Go</a> и <a href="https://github.com/brunofacca/zen-rails-security-checklist">Zen Rails Security Checklist</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md">Headless Chromium</a>, <a href="https://v8project.blogspot.com/2017/04/retiring-octane.html">Retiring Octane</a> и <a href="http://softeng.oicr.on.ca/chang_wang/2017/04/17/Using-AngularJS-components-directives-in-React/">Using AngularJS components &amp; directives inside React</a></li>
+  <li><a href="https://codesandbox.io/">CodeSandbox makes it easier to create, share and reuse React projects with others</a>, <a href="https://daniel-lundin.github.io/react-dom-confetti/">React DOM Confetti - a react component to trigger confetti explosions on state changes</a> и <a href="http://ruyadorno.github.io/simple-slider/">Simple-slider - extremely lightweight JavaScript carousel micro library</a></li>
+  <li><a href="https://github.com/prettier/prettier">Prettier - an opinionated JavaScript formatter</a>, <a href="https://github.com/sacert/Snake-Star">Snake * - simple attempt at creating an AI within a game</a> и <a href="https://www.youtube.com/watch?v=99Zacm7SsWQ">The Post JavaScript Apocalypse Douglas Crockford</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/04/10/ruby-2-4-has-added-additional-parameters-for-logger-new.html">Ruby 2.4 has added additional parameters for Logger#new</a>, <a href="http://www.blackbytes.info/2017/04/memory-layout-of-an-object/">Ruby Under The Hood: Memory Layout of an Object</a> и <a href="https://blog.rubyroidlabs.com/2017/04/19-ruby-on-rails-gems/">19 Ruby on Rails Gems which Can Amaze</a></li>
+  <li><a href="https://www.levups.com/en/blog/2017/optimize_ruby_memory_usage_jemalloc_heroku_scalingo.html">Improve your Ruby application’s memory usage and performance with jemalloc</a>, <a href="https://blog.codeship.com/writing-efficient-queries/">Writing Efficient Queries</a> и <a href="https://www.crondose.com/2016/12/practical-machine-learning-ruby/">Practical Machine Learning with Ruby</a></li>
+  <li><a href="http://www.mikeperham.com/2017/04/10/migrating-from-redis-namespace/">Migrating from redis-namespace</a>, <a href="https://chase.pursu.es/webpack-2-and-middleman-4.html">Webpack 2 and Middleman 4</a>, <a href="https://github.com/st0012/Rooby">Rooby - a Ruby-like object oriented language written in Go</a> и <a href="https://github.com/brunofacca/zen-rails-security-checklist">Zen Rails Security Checklist</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md">Headless Chromium</a>, <a href="https://v8project.blogspot.com/2017/04/retiring-octane.html">Retiring Octane</a> и <a href="http://softeng.oicr.on.ca/chang_wang/2017/04/17/Using-AngularJS-components-directives-in-React/">Using AngularJS components &amp; directives inside React</a></li>
+  <li><a href="https://codesandbox.io/">CodeSandbox makes it easier to create, share and reuse React projects with others</a>, <a href="https://daniel-lundin.github.io/react-dom-confetti/">React DOM Confetti - a react component to trigger confetti explosions on state changes</a> и <a href="http://ruyadorno.github.io/simple-slider/">Simple-slider - extremely lightweight JavaScript carousel micro library</a></li>
+  <li><a href="https://github.com/prettier/prettier">Prettier - an opinionated JavaScript formatter</a>, <a href="https://github.com/sacert/Snake-Star">Snake * - simple attempt at creating an AI within a game</a> и <a href="https://www.youtube.com/watch?v=99Zacm7SsWQ">The Post JavaScript Apocalypse Douglas Crockford</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 17 Apr 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/04/17/podcast-05-15.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/04/17/podcast-05-15.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0515.mp3" length="33570614" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0515.mp3" fileSize="33570614" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.4 has added additional parameters for L...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.4 has added additional parameters for Logger#new, Ruby Under The Hood: Memory Layout of an Object и 19 Ruby on Rails Gems which Can Amaze
+
+  
+Improve your Ruby application’s memory usage and performance with jemalloc, Writing Efficient Queries и Practical Machine Learning with Ruby
+
+  
+Migrating from redis-namespace, Webpack 2 and Middleman 4, Rooby - a Ruby-like object oriented language written in Go и Zen Rails Security Checklist
+
+
+
+JavaScript
+
+
+  
+Headless Chromium, Retiring Octane и Using AngularJS components &amp; directives inside React
+
+  
+CodeSandbox makes it easier to create, share and reuse React projects with others, React DOM Confetti - a react component to trigger confetti explosions on state changes и Simple-slider - extremely lightweight JavaScript carousel micro library
+
+  
+Prettier - an opinionated JavaScript formatter, Snake * - simple attempt at creating an AI within a game и The Post JavaScript Apocalypse Douglas Crockford
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0515.png"/>
+  <itunes:duration>00:34:52</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>14 выпуск 05 сезона. Hanami v1.0.0, React v15.5.0, Fae, UserSwitch, Rutilus, Reactour, Tippy.js, Embedo и прочее</title>
   <description>
@@ -3681,99 +3774,6 @@ Atmo - Server Side Api Mocking made easy with UI, Anime - a flexible yet lightwe
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0425.png"/>
   <itunes:duration>00:44:29</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>24 выпуск 04 сезона. Ruby 2.4.0-preview1, Npm-rails, strange bug ever in V8, Flatpickr, Beautiful Programming и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/06/20/ruby-2-4-0-preview1-released/">Ruby 2.4.0-preview1 Released</a>, <a href="https://wyeworks.com/blog/2016/6/22/behavior-changes-in-ruby-2.4/">Behavior changes in Ruby 2.4</a>, <a href="http://blog.bigbinary.com/2016/06/26/rails-add-helpers-method-to-ease-usage-of-helper-modules-in-controllers.html">Rails 5 adds helpers method in controllers to ease usage of helper modules in controllers</a> и <a href="http://blog.bigbinary.com/2016/06/21/rails-5-supports-adding-comments-migrations.html">Rails 5 supports adding comments in migrations</a></li>
-  <li><a href="http://marianposaceanu.com/articles/making-rails-asset-pipeline-faster">Making Rails asset pipeline faster</a> и <a href="https://codebrahma.com/implementing-upsert-in-rails/">Implementing Upsert in Rails</a></li>
-  <li><a href="https://buildtoship.com/tab-bar-native-hybrid-app-with-xcode-storyboards-and-turbolinks-5/">Tab Bar native-hybrid app with Xcode storyboards and Turbolinks 5</a> и <a href="https://github.com/endenwer/npm-rails">Npm-rails - NPM support for Rails projects</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.ghaiklor.com/strange-bug-ever-in-v8-2e6e9deda320">Strange bug ever in V8</a> и <a href="http://rainsoft.io/how-three-dots-changed-javascript/">How three dots changed JavaScript</a></li>
-  <li><a href="https://eager.io/blog/everything-I-know-about-the-script-tag/">Everything I Know About The Script Tag</a> и <a href="https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3">12 Books Every JavaScript Developer Should Read</a></li>
-  <li><a href="https://chmln.github.io/flatpickr/">Flatpickr - a lightweight &amp; powerful datetimepicker</a>, <a href="https://github.com/SamyPesse/gitkit-js">GitKit.js - pure JavaScript implementation of Git backed</a>, <a href="http://typographyhandbook.com/">Typography Handbook</a> и <a href="http://beautifulprogramming.com/">Beautiful Programming - an Exploration of Aesthetics via Instruction</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/06/20/ruby-2-4-0-preview1-released/">Ruby 2.4.0-preview1 Released</a>, <a href="https://wyeworks.com/blog/2016/6/22/behavior-changes-in-ruby-2.4/">Behavior changes in Ruby 2.4</a>, <a href="http://blog.bigbinary.com/2016/06/26/rails-add-helpers-method-to-ease-usage-of-helper-modules-in-controllers.html">Rails 5 adds helpers method in controllers to ease usage of helper modules in controllers</a> и <a href="http://blog.bigbinary.com/2016/06/21/rails-5-supports-adding-comments-migrations.html">Rails 5 supports adding comments in migrations</a></li>
-  <li><a href="http://marianposaceanu.com/articles/making-rails-asset-pipeline-faster">Making Rails asset pipeline faster</a> и <a href="https://codebrahma.com/implementing-upsert-in-rails/">Implementing Upsert in Rails</a></li>
-  <li><a href="https://buildtoship.com/tab-bar-native-hybrid-app-with-xcode-storyboards-and-turbolinks-5/">Tab Bar native-hybrid app with Xcode storyboards and Turbolinks 5</a> и <a href="https://github.com/endenwer/npm-rails">Npm-rails - NPM support for Rails projects</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.ghaiklor.com/strange-bug-ever-in-v8-2e6e9deda320">Strange bug ever in V8</a> и <a href="http://rainsoft.io/how-three-dots-changed-javascript/">How three dots changed JavaScript</a></li>
-  <li><a href="https://eager.io/blog/everything-I-know-about-the-script-tag/">Everything I Know About The Script Tag</a> и <a href="https://medium.com/javascript-scene/12-books-every-javascript-developer-should-read-9da76157fb3">12 Books Every JavaScript Developer Should Read</a></li>
-  <li><a href="https://chmln.github.io/flatpickr/">Flatpickr - a lightweight &amp; powerful datetimepicker</a>, <a href="https://github.com/SamyPesse/gitkit-js">GitKit.js - pure JavaScript implementation of Git backed</a>, <a href="http://typographyhandbook.com/">Typography Handbook</a> и <a href="http://beautifulprogramming.com/">Beautiful Programming - an Exploration of Aesthetics via Instruction</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 28 Jun 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/06/28/podcast-04-24.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/06/28/podcast-04-24.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0424.mp3" length="40179962" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0424.mp3" fileSize="40179962" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.4.0-preview1 Released, Behavior changes...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.4.0-preview1 Released, Behavior changes in Ruby 2.4, Rails 5 adds helpers method in controllers to ease usage of helper modules in controllers и Rails 5 supports adding comments in migrations
-
-  
-Making Rails asset pipeline faster и Implementing Upsert in Rails
-
-  
-Tab Bar native-hybrid app with Xcode storyboards and Turbolinks 5 и Npm-rails - NPM support for Rails projects
-
-
-
-JavaScript
-
-
-  
-Strange bug ever in V8 и How three dots changed JavaScript
-
-  
-Everything I Know About The Script Tag и 12 Books Every JavaScript Developer Should Read
-
-  
-Flatpickr - a lightweight &amp; powerful datetimepicker, GitKit.js - pure JavaScript implementation of Git backed, Typography Handbook и Beautiful Programming - an Exploration of Aesthetics via Instruction
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0424.png"/>
-  <itunes:duration>00:41:45</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
