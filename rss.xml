@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 17 Apr 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 17 Apr 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 24 Apr 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 24 Apr 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>16 выпуск 05 сезона. Instrumenting Sidekiq, Monitoring Redis, ACLI, When Does a Project Need React?, D3-annotation и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://www.codinginthecrease.com/news_article/show/628753">Dr Ruby Upgrade or: How We Learned To Stop Seg-Faulting And Love Ruby 2</a>, <a href="https://drivy.engineering/sidekiq-instrumentation/">Instrumenting Sidekiq</a> и <a href="http://www.mikeperham.com/2017/04/20/monitoring-redis/">Monitoring Redis</a></li>
+  <li><a href="https://revs.runtime-revolution.com/saving-multiple-models-with-form-objects-and-transactions-2c26f37f7b9a">Saving multiple models with Form Objects and Transactions</a> и <a href="http://freeletics.engineering/2017/04/19/reusable-validations-in-rails-form-objects.html">Reusable Validations In Rails Form Objects</a></li>
+  <li><a href="https://github.com/palkan/acli">ACLI - Action Cable command line interface written in mRuby</a>, <a href="https://gorails.com/episodes/how-to-use-vuejs-and-turbolinks-together">How to use Vue.js and Turbolinks together</a> и <a href="https://www.driftingruby.com/episodes/cropping-images-with-jcrop">Cropping Images with JCrop</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://josephg.com/blog/electron-is-flash-for-the-desktop/">Electron is flash for the desktop</a>, <a href="https://medium.com/@bret.mattingly/electron-isnt-just-heavy-it-s-dangerous-580a53b0716e">Electron Isn’t Just Heavy, It’s Dangerous</a> и <a href="http://blog.atom.io/2017/04/18/improving-startup-time.html">Improving Startup Time (Atom)</a></li>
+  <li><a href="http://www.infoworld.com/article/3190721/javascript/coffeescript-upgrade-refocuses-on-javascript-standards.html">CoffeeScript upgrade refocuses on JavaScript standards</a>, <a href="https://css-tricks.com/project-need-react/">When Does a Project Need React?</a> и <a href="https://medium.com/@gianluca.guarini/things-nobody-will-tell-you-about-react-js-3a373c1b03b4">Things nobody will tell you about React.js</a></li>
+  <li><a href="http://d3-annotation.susielu.com/">D3-annotation</a> и <a href="https://mburakerman.github.io/hrjs/">HR.js - tiny JavaScript plugin for highlighting and replacing text in the DOM</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://www.codinginthecrease.com/news_article/show/628753">Dr Ruby Upgrade or: How We Learned To Stop Seg-Faulting And Love Ruby 2</a>, <a href="https://drivy.engineering/sidekiq-instrumentation/">Instrumenting Sidekiq</a> и <a href="http://www.mikeperham.com/2017/04/20/monitoring-redis/">Monitoring Redis</a></li>
+  <li><a href="https://revs.runtime-revolution.com/saving-multiple-models-with-form-objects-and-transactions-2c26f37f7b9a">Saving multiple models with Form Objects and Transactions</a> и <a href="http://freeletics.engineering/2017/04/19/reusable-validations-in-rails-form-objects.html">Reusable Validations In Rails Form Objects</a></li>
+  <li><a href="https://github.com/palkan/acli">ACLI - Action Cable command line interface written in mRuby</a>, <a href="https://gorails.com/episodes/how-to-use-vuejs-and-turbolinks-together">How to use Vue.js and Turbolinks together</a> и <a href="https://www.driftingruby.com/episodes/cropping-images-with-jcrop">Cropping Images with JCrop</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://josephg.com/blog/electron-is-flash-for-the-desktop/">Electron is flash for the desktop</a>, <a href="https://medium.com/@bret.mattingly/electron-isnt-just-heavy-it-s-dangerous-580a53b0716e">Electron Isn’t Just Heavy, It’s Dangerous</a> и <a href="http://blog.atom.io/2017/04/18/improving-startup-time.html">Improving Startup Time (Atom)</a></li>
+  <li><a href="http://www.infoworld.com/article/3190721/javascript/coffeescript-upgrade-refocuses-on-javascript-standards.html">CoffeeScript upgrade refocuses on JavaScript standards</a>, <a href="https://css-tricks.com/project-need-react/">When Does a Project Need React?</a> и <a href="https://medium.com/@gianluca.guarini/things-nobody-will-tell-you-about-react-js-3a373c1b03b4">Things nobody will tell you about React.js</a></li>
+  <li><a href="http://d3-annotation.susielu.com/">D3-annotation</a> и <a href="https://mburakerman.github.io/hrjs/">HR.js - tiny JavaScript plugin for highlighting and replacing text in the DOM</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 24 Apr 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/04/24/podcast-05-16.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/04/24/podcast-05-16.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0516.mp3" length="33570614" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0516.mp3" fileSize="33570614" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Dr Ruby Upgrade or: How We Learned To Stop Seg...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Dr Ruby Upgrade or: How We Learned To Stop Seg-Faulting And Love Ruby 2, Instrumenting Sidekiq и Monitoring Redis
+
+  
+Saving multiple models with Form Objects and Transactions и Reusable Validations In Rails Form Objects
+
+  
+ACLI - Action Cable command line interface written in mRuby, How to use Vue.js and Turbolinks together и Cropping Images with JCrop
+
+
+
+JavaScript
+
+
+  
+Electron is flash for the desktop, Electron Isn’t Just Heavy, It’s Dangerous и Improving Startup Time (Atom)
+
+  
+CoffeeScript upgrade refocuses on JavaScript standards, When Does a Project Need React? и Things nobody will tell you about React.js
+
+  
+D3-annotation и HR.js - tiny JavaScript plugin for highlighting and replacing text in the DOM
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0516.png"/>
+  <itunes:duration>00:34:52</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>15 выпуск 05 сезона. Migrating from redis-namespace, Rooby, Headless Chromium, CodeSandbox, Prettier и прочее</title>
   <description>
@@ -3681,99 +3774,6 @@ Zingtouch - JavaScript gesture detection library for the modern web, LambCI - se
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0426.png"/>
   <itunes:duration>00:47:00</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>25 выпуск 04 сезона. Rails 5.0, RSpec 3.5, ESLint 3.0.0, D3 4.1.0, Unused, Null pointer exceptions hell и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/">Rails 5.0: Action Cable, API mode, and so much more</a>, <a href="http://blog.bigbinary.com/2016/06/27/rails-5-makes-sql-statements-even-more-colorful.html">Rails 5 makes sql statements even more colorful</a>, <a href="http://rspec.info/blog/2016/07/rspec-3-5-has-been-released/">RSpec 3.5 has been released</a> и <a href="http://www.eq8.eu/blogs/27-rspec-be_within-matcher">RSpec be_within matcher</a></li>
-  <li><a href="http://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/">Avoid Mutation – Functional Style In Ruby</a> и <a href="http://sorentwo.com/2016/06/28/effectively-scaling-sidekiq-workers.html">Effectively Scaling Sidekiq Workers</a></li>
-  <li><a href="https://unused.codes/">Unused - a command line tool to identify unused code</a> и <a href="https://github.com/choonkeat/active_params">ActiveParams - stop manually defining strong_parameters</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://eslint.org/blog/2016/07/eslint-v3.0.0-released">ESLint v3.0.0 released</a>, <a href="https://github.com/d3/d3/releases/tag/v4.1.0">D3 v4.1.0</a> и <a href="http://dobegin.com/npe-hell/">Null pointer exceptions hell</a></li>
-  <li><a href="https://medium.com/@marianojmiguel/battle-of-the-architectures-30c512d542a4">Battle of the architectures</a>, <a href="https://eager.io/blog/communicating-between-javascript-and-css-with-css-variables/">Communicating Between JavaScript and CSS Using CSS Variables</a> и <a href="https://eager.io/blog/three-real-world-use-cases-for-mutation-observer/">Three Real-World Uses for Mutation Observer</a></li>
-  <li><a href="https://github.com/Raathigesh/Atmo">Atmo - Server Side Api Mocking made easy with UI</a>, <a href="http://anime-js.com/">Anime - a flexible yet lightweight JavaScript animation library</a> и <a href="https://dvlden.github.io/Vidage/">Vidage - a solution to full-screen background video and image combined</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/6/30/Rails-5-0-final/">Rails 5.0: Action Cable, API mode, and so much more</a>, <a href="http://blog.bigbinary.com/2016/06/27/rails-5-makes-sql-statements-even-more-colorful.html">Rails 5 makes sql statements even more colorful</a>, <a href="http://rspec.info/blog/2016/07/rspec-3-5-has-been-released/">RSpec 3.5 has been released</a> и <a href="http://www.eq8.eu/blogs/27-rspec-be_within-matcher">RSpec be_within matcher</a></li>
-  <li><a href="http://www.rubypigeon.com/posts/avoid-mutation-functional-style-in-ruby/">Avoid Mutation – Functional Style In Ruby</a> и <a href="http://sorentwo.com/2016/06/28/effectively-scaling-sidekiq-workers.html">Effectively Scaling Sidekiq Workers</a></li>
-  <li><a href="https://unused.codes/">Unused - a command line tool to identify unused code</a> и <a href="https://github.com/choonkeat/active_params">ActiveParams - stop manually defining strong_parameters</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://eslint.org/blog/2016/07/eslint-v3.0.0-released">ESLint v3.0.0 released</a>, <a href="https://github.com/d3/d3/releases/tag/v4.1.0">D3 v4.1.0</a> и <a href="http://dobegin.com/npe-hell/">Null pointer exceptions hell</a></li>
-  <li><a href="https://medium.com/@marianojmiguel/battle-of-the-architectures-30c512d542a4">Battle of the architectures</a>, <a href="https://eager.io/blog/communicating-between-javascript-and-css-with-css-variables/">Communicating Between JavaScript and CSS Using CSS Variables</a> и <a href="https://eager.io/blog/three-real-world-use-cases-for-mutation-observer/">Three Real-World Uses for Mutation Observer</a></li>
-  <li><a href="https://github.com/Raathigesh/Atmo">Atmo - Server Side Api Mocking made easy with UI</a>, <a href="http://anime-js.com/">Anime - a flexible yet lightweight JavaScript animation library</a> и <a href="https://dvlden.github.io/Vidage/">Vidage - a solution to full-screen background video and image combined</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 05 Jul 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/07/05/podcast-04-25.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/05/podcast-04-25.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0425.mp3" length="42808931" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0425.mp3" fileSize="42808931" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.0: Action Cable, API mode, and so much...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.0: Action Cable, API mode, and so much more, Rails 5 makes sql statements even more colorful, RSpec 3.5 has been released и RSpec be_within matcher
-
-  
-Avoid Mutation – Functional Style In Ruby и Effectively Scaling Sidekiq Workers
-
-  
-Unused - a command line tool to identify unused code и ActiveParams - stop manually defining strong_parameters
-
-
-
-JavaScript
-
-
-  
-ESLint v3.0.0 released, D3 v4.1.0 и Null pointer exceptions hell
-
-  
-Battle of the architectures, Communicating Between JavaScript and CSS Using CSS Variables и Three Real-World Uses for Mutation Observer
-
-  
-Atmo - Server Side Api Mocking made easy with UI, Anime - a flexible yet lightweight JavaScript animation library и Vidage - a solution to full-screen background video and image combined
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0425.png"/>
-  <itunes:duration>00:44:29</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
