@@ -50,6 +50,12 @@
   <li><a href="http://airbnb.io/react-sketchapp/">React Sketch.app - render React components to Sketch</a>, <a href="https://facebook.github.io/react-vr/">React VR lets you build VR apps using only JavaScript</a>, <a href="https://facebook.github.io/fixed-data-table/">FixedDataTable - a React component for building and presenting data in a flexible, powerful way</a>, <a href="https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651">Best UI Frameworks for your new React.js App</a> и <a href="https://react-move.js.org/">React Move - beautifully and deterministically animate anything in React</a></li>
 </ul>
 
+<h2 id="screencasts">Screencasts</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=uxMh50ZxpHY">Unicode: как это работает</a></li>
+</ul>
+
 <h2 id="conferences">Conferences</h2>
 
 <ul>
@@ -76,6 +82,12 @@
   <li><a href="http://angularjs.blogspot.com/2017/04/angular-410-now-available.html">Angular 4.1.0 Now Available</a> и <a href="https://blogs.msdn.microsoft.com/typescript/2017/04/27/announcing-typescript-2-3/">Announcing TypeScript 2.3</a></li>
   <li><a href="https://medium.com/@gajus/stop-using-css-in-javascript-for-web-development-fa32fb873dcc">Stop using CSS in JavaScript for web development: 9 fairy tales</a>, <a href="https://medium.freecodecamp.com/css-in-javascript-the-future-of-component-based-styling-70b161a79a32">CSS in JavaScript: The future of component-based styling</a> и <a href="https://github.com/google/tamperchrome">Tamper Chrome - a Chrome extension that allows you to modify HTTP requests on the fly and aid on web security testing</a></li>
   <li><a href="http://airbnb.io/react-sketchapp/">React Sketch.app - render React components to Sketch</a>, <a href="https://facebook.github.io/react-vr/">React VR lets you build VR apps using only JavaScript</a>, <a href="https://facebook.github.io/fixed-data-table/">FixedDataTable - a React component for building and presenting data in a flexible, powerful way</a>, <a href="https://hackernoon.com/the-coolest-react-ui-frameworks-for-your-new-react-app-ad699fffd651">Best UI Frameworks for your new React.js App</a> и <a href="https://react-move.js.org/">React Move - beautifully and deterministically animate anything in React</a></li>
+</ul>
+
+<h2 id="screencasts">Screencasts</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=uxMh50ZxpHY">Unicode: как это работает</a></li>
 </ul>
 
 <h2 id="conferences">Conferences</h2>
@@ -127,6 +139,12 @@ Stop using CSS in JavaScript for web development: 9 fairy tales, CSS in JavaScri
   
 React Sketch.app - render React components to Sketch, React VR lets you build VR apps using only JavaScript, FixedDataTable - a React component for building and presenting data in a flexible, powerful way, Best UI Frameworks for your new React.js App и React Move - beautifully and deterministically animate anything in React
 
+
+
+Screencasts
+
+
+  Unicode: как это работает
 
 
 Conferences
