@@ -12,7 +12,7 @@
       padding: 10px 20px;
       border-bottom: 1px solid #d2cec3; }
       .column .box .header small {
-        color: #928e81; }
+        color: #4e4c46; }
     .column .box .content {
       padding: 20px;
       min-height: 180px; }

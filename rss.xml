@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 01 May 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 01 May 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 08 May 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 08 May 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>18 выпуск 05 сезона. Sinatra 2.0.0, Active Admin 1.0, Capistrano AWS, Autoprefixer 7.0, Prepack, PostCSS 6.0, Pkg и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/sinatra/sinatra/tree/v2.0.0">Sinatra 2.0.0</a>, <a href="http://www.varyonic.com/2017/04/active-admin-1-0/">Active Admin 1.0</a>, <a href="https://www.justinweiss.com/articles/the-lesser-known-features-in-rails-5-dot-1/">The Lesser-known Features in Rails 5.1</a> и <a href="https://www.backerkit.com/blog/building-a-rackattack-dashboard/">Building a Rack::Attack Dashboard</a></li>
+  <li><a href="https://engineering.avvo.com/articles/capistrano-deploy-perf.html">Improving capistrano deployment performance</a>, <a href="https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312">Crafting Better Code Reviews</a> и <a href="http://www.rubyletter.com/blog/2017/04/28/podcast-announcement.html">Announcing the RubyLetter Podcast</a></li>
+  <li><a href="https://blog.codeship.com/crystal-from-a-rubyists-perspective/">Crystal from a Rubyist’s Perspective</a>, <a href="https://github.com/xurumelous/capistrano-aws">Capistrano AWS</a>, <a href="http://masa16.github.io/pwrake/">Pwrake: Parallel Workflow extension for Rake, runs on multicores, clusters, clouds</a> и <a href="https://www.youtube.com/watch?v=x07q6V4VXC8">RailsConf 2017: Why Software Engineers Disagree About Everything (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/the-node-js-collection/node-js-8-0-0-has-been-delayed-and-will-ship-on-or-around-may-30th-cd38ba96980d">Node.js 8.0.0 has been delayed and will ship on or around May 30th</a>, <a href="https://prepack.io/">Prepack - a partial evaluator for JavaScript</a>, <a href="https://evilmartians.com/chronicles/autoprefixer-7-browserslist-2-released">Autoprefixer 7.0 and Browserslist 2.0</a> и <a href="https://github.com/postcss/postcss/releases/tag/6.0.0">PostCSS 6.0</a></li>
+  <li><a href="https://jakearchibald.com/2017/es-modules-in-browsers/">ECMAScript modules in browsers</a>, <a href="https://medium.com/@vladimirmetnew/javascript-compilation-epoch-ebfb7b5bb664">JavaScript: The compilation epoch</a>, <a href="https://css-tricks.com/ux-drives-all-of-this/">UX drives all of this</a> и <a href="https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f">45% Faster React Functional Components, Now</a></li>
+  <li><a href="https://developers.google.com/web/updates/2017/04/headless-chrome">Getting Started with Headless Chrome</a>, <a href="https://appleple.github.io/SmartPhoto/">SmartPhoto.js - the most easy to use responsive image viewer especially for mobile devices</a>, <a href="https://github.com/zeit/pkg">Pkg - package your Node.js project into an executable</a>, <a href="https://github.com/Sirvasile/Typefont">Typefont - recognises the font of a text in a image</a> и <a href="http://spector.babylonjs.com/">SpectorJS - explore and troubleshoot your WebGL scenes</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/sinatra/sinatra/tree/v2.0.0">Sinatra 2.0.0</a>, <a href="http://www.varyonic.com/2017/04/active-admin-1-0/">Active Admin 1.0</a>, <a href="https://www.justinweiss.com/articles/the-lesser-known-features-in-rails-5-dot-1/">The Lesser-known Features in Rails 5.1</a> и <a href="https://www.backerkit.com/blog/building-a-rackattack-dashboard/">Building a Rack::Attack Dashboard</a></li>
+  <li><a href="https://engineering.avvo.com/articles/capistrano-deploy-perf.html">Improving capistrano deployment performance</a>, <a href="https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312">Crafting Better Code Reviews</a> и <a href="http://www.rubyletter.com/blog/2017/04/28/podcast-announcement.html">Announcing the RubyLetter Podcast</a></li>
+  <li><a href="https://blog.codeship.com/crystal-from-a-rubyists-perspective/">Crystal from a Rubyist’s Perspective</a>, <a href="https://github.com/xurumelous/capistrano-aws">Capistrano AWS</a>, <a href="http://masa16.github.io/pwrake/">Pwrake: Parallel Workflow extension for Rake, runs on multicores, clusters, clouds</a> и <a href="https://www.youtube.com/watch?v=x07q6V4VXC8">RailsConf 2017: Why Software Engineers Disagree About Everything (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/the-node-js-collection/node-js-8-0-0-has-been-delayed-and-will-ship-on-or-around-may-30th-cd38ba96980d">Node.js 8.0.0 has been delayed and will ship on or around May 30th</a>, <a href="https://prepack.io/">Prepack - a partial evaluator for JavaScript</a>, <a href="https://evilmartians.com/chronicles/autoprefixer-7-browserslist-2-released">Autoprefixer 7.0 and Browserslist 2.0</a> и <a href="https://github.com/postcss/postcss/releases/tag/6.0.0">PostCSS 6.0</a></li>
+  <li><a href="https://jakearchibald.com/2017/es-modules-in-browsers/">ECMAScript modules in browsers</a>, <a href="https://medium.com/@vladimirmetnew/javascript-compilation-epoch-ebfb7b5bb664">JavaScript: The compilation epoch</a>, <a href="https://css-tricks.com/ux-drives-all-of-this/">UX drives all of this</a> и <a href="https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f">45% Faster React Functional Components, Now</a></li>
+  <li><a href="https://developers.google.com/web/updates/2017/04/headless-chrome">Getting Started with Headless Chrome</a>, <a href="https://appleple.github.io/SmartPhoto/">SmartPhoto.js - the most easy to use responsive image viewer especially for mobile devices</a>, <a href="https://github.com/zeit/pkg">Pkg - package your Node.js project into an executable</a>, <a href="https://github.com/Sirvasile/Typefont">Typefont - recognises the font of a text in a image</a> и <a href="http://spector.babylonjs.com/">SpectorJS - explore and troubleshoot your WebGL scenes</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 08 May 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/05/08/podcast-05-18.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/05/08/podcast-05-18.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0518.mp3" length="45262488" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0518.mp3" fileSize="45262488" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Sinatra 2.0.0, Active Admin 1.0, The Lesser-kn...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Sinatra 2.0.0, Active Admin 1.0, The Lesser-known Features in Rails 5.1 и Building a Rack::Attack Dashboard
+
+  
+Improving capistrano deployment performance, Crafting Better Code Reviews и Announcing the RubyLetter Podcast
+
+  
+Crystal from a Rubyist’s Perspective, Capistrano AWS, Pwrake: Parallel Workflow extension for Rake, runs on multicores, clusters, clouds и RailsConf 2017: Why Software Engineers Disagree About Everything (video)
+
+
+
+JavaScript
+
+
+  
+Node.js 8.0.0 has been delayed and will ship on or around May 30th, Prepack - a partial evaluator for JavaScript, Autoprefixer 7.0 and Browserslist 2.0 и PostCSS 6.0
+
+  
+ECMAScript modules in browsers, JavaScript: The compilation epoch, UX drives all of this и 45% Faster React Functional Components, Now
+
+  
+Getting Started with Headless Chrome, SmartPhoto.js - the most easy to use responsive image viewer especially for mobile devices, Pkg - package your Node.js project into an executable, Typefont - recognises the font of a text in a image и SpectorJS - explore and troubleshoot your WebGL scenes
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0518.png"/>
+  <itunes:duration>00:47:02</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>17 выпуск 05 сезона. Rails 5.1, Sidekiq 5.0, Oj 3.0.0, Angular 4.1.0, TypeScript 2.3, Helix, Mastodon, React Sketch.app и прочее</title>
   <description>
@@ -3727,89 +3820,6 @@ D4 - Declarative Data-Driven Documents, Howler.js - an audio library for the mod
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0428.png"/>
   <itunes:duration>00:47:14</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>27 выпуск 04 сезона. Replaced React with Phoenix, TypeScript 2.0 Beta, Imperative vs Declarative Programming и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/07/14/rails-5-partial-template-name-need-not-be-a-valid-ruby-identifier.html">Partial template name need not be a valid Ruby identifier in Rails 5</a>, <a href="https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix">How We Replaced React with Phoenix</a> и <a href="https://blog.codeship.com/why-you-shouldnt-roll-your-own-authentication/">Why You Shouldn’t Roll Your Own Authentication</a></li>
-  <li><a href="http://blog.ragnarson.com/2016/07/14/multi-model-searching-elasticsearch-2.html">Multi-model searching using Elasticsearch vol. 2</a>, <a href="http://blog.scoutapp.com/articles/2016/07/12/how-to-make-text-searches-in-postgresql-faster-with-trigram-similarity">Faster PostgreSQL Searches with Trigrams</a> и <a href="https://karolgalanciak.com/blog/2016/07/10/scaling-up-rails-applications-with-postgresql-table-partitioning-part-3/">Scaling Up Rails Applications With PostgreSQL Table Partitioning - Part 3</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta/">Announcing TypeScript 2.0 Beta</a>, <a href="https://paul.kinlan.me/serverless-sync-in-web-apps/">Serverless Data Sync in Web Apps with Bit Torrent</a> и <a href="https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea">Imperative vs Declarative Programming</a></li>
-  <li><a href="https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html">Mixins Considered Harmful</a>, <a href="https://medium.com/horrible-hacks/things-i-wish-i-knew-about-redux-9924abf2f9e0">Things I wish I knew about Redux</a> и <a href="http://nosir.github.io/cleave.js/">Cleave.js - format input text content automatically</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/07/14/rails-5-partial-template-name-need-not-be-a-valid-ruby-identifier.html">Partial template name need not be a valid Ruby identifier in Rails 5</a>, <a href="https://robots.thoughtbot.com/how-we-replaced-react-with-phoenix">How We Replaced React with Phoenix</a> и <a href="https://blog.codeship.com/why-you-shouldnt-roll-your-own-authentication/">Why You Shouldn’t Roll Your Own Authentication</a></li>
-  <li><a href="http://blog.ragnarson.com/2016/07/14/multi-model-searching-elasticsearch-2.html">Multi-model searching using Elasticsearch vol. 2</a>, <a href="http://blog.scoutapp.com/articles/2016/07/12/how-to-make-text-searches-in-postgresql-faster-with-trigram-similarity">Faster PostgreSQL Searches with Trigrams</a> и <a href="https://karolgalanciak.com/blog/2016/07/10/scaling-up-rails-applications-with-postgresql-table-partitioning-part-3/">Scaling Up Rails Applications With PostgreSQL Table Partitioning - Part 3</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2016/07/11/announcing-typescript-2-0-beta/">Announcing TypeScript 2.0 Beta</a>, <a href="https://paul.kinlan.me/serverless-sync-in-web-apps/">Serverless Data Sync in Web Apps with Bit Torrent</a> и <a href="https://medium.freecodecamp.com/imperative-vs-declarative-programming-283e96bf8aea">Imperative vs Declarative Programming</a></li>
-  <li><a href="https://facebook.github.io/react/blog/2016/07/13/mixins-considered-harmful.html">Mixins Considered Harmful</a>, <a href="https://medium.com/horrible-hacks/things-i-wish-i-knew-about-redux-9924abf2f9e0">Things I wish I knew about Redux</a> и <a href="http://nosir.github.io/cleave.js/">Cleave.js - format input text content automatically</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 19 Jul 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/07/19/podcast-04-27.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/19/podcast-04-27.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0427.mp3" length="37108458" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0427.mp3" fileSize="37108458" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Partial template name need not be a valid Ruby...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Partial template name need not be a valid Ruby identifier in Rails 5, How We Replaced React with Phoenix и Why You Shouldn’t Roll Your Own Authentication
-
-  
-Multi-model searching using Elasticsearch vol. 2, Faster PostgreSQL Searches with Trigrams и Scaling Up Rails Applications With PostgreSQL Table Partitioning - Part 3
-
-
-
-JavaScript
-
-
-  
-Announcing TypeScript 2.0 Beta, Serverless Data Sync in Web Apps with Bit Torrent и Imperative vs Declarative Programming
-
-  
-Mixins Considered Harmful, Things I wish I knew about Redux и Cleave.js - format input text content automatically
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0427.png"/>
-  <itunes:duration>00:38:33</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
