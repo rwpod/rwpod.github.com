@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 08 May 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 08 May 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 15 May 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>19 выпуск 05 сезона. Rails 5.0.3 и 5.1.1, GraphQL в Rails, Serverless-ruby, Webpack CLI, Britecharts, Sticky Sidebar и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2017/5/12/Rails-5-0-3-and-5-1-1-have-been-released/">Rails 5.0.3 and 5.1.1 have been released</a>, <a href="https://blog.daftcode.pl/fixing-unicode-for-ruby-developers-60d7f6377388">Fixing Unicode for Ruby Developers</a>, <a href="http://etehtsea.me/how-to-find-and-fix-bug-in-jruby-and-dont-go-crazy">How to find and fix bug in JRuby and don’t go crazy</a> и <a href="https://6ftdan.com/allyourdev/2017/05/13/dont-use-objects-as-hash-keys-in-ruby/">Don’t Use Objects as Hash Keys in Ruby</a></li>
+  <li><a href="http://drianhillman.me/2017/05/06/graphql-ruby">Start using GraphQL in Rails</a>, <a href="https://alexcastano.com/the-hidden-cost-of-the-invisible-queries-in-rails/">The hidden cost of the invisible queries in Rails</a> и <a href="https://semaphoreci.com/blog/2017/05/09/faster-rails-is-your-database-properly-indexed.html">Faster Rails: Is Your Database Properly Indexed?</a></li>
+  <li><a href="http://trailblazer.to/guides/trailblazer/2.0/03-rails-basics.html">Trailblazer on Rails: Basics - Setup &amp; Use</a>, <a href="https://github.com/stewartlord/serverless-ruby">Serverless-ruby - a Serverless Framework example using an AWS lambda which runs a Ruby function</a> и <a href="https://github.com/mattbrictson/bundleup">Bundleup - a Ruby project containing a Gemfile to see what gem dependencies need updating</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/webpack/announcing-the-new-webpack-cli-75ce1d9b8663">Announcing the new webpack CLI</a>, <a href="https://css-tricks.com/methods-contrasting-text-backgrounds/">Methods for Contrasting Text Against Backgrounds</a> и <a href="https://css-tricks.com/issue-preprocessing-css-custom-properties/">The Issue with Preprocessing CSS Custom Properties</a></li>
+  <li><a href="https://medium.com/@gajus/distributing-a-self-replicating-malicious-code-using-npm-cf2bf3209293">Distributing a self-replicating malicious code using NPM</a>, <a href="https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a">The Hitchhiker’s Guide to d3.js</a> и <a href="https://blog.webkid.io/making-maps-with-react/">Making Maps With React</a></li>
+  <li><a href="https://mgechev.github.io/javascript-algorithms/">JavaScript implementations of different famous Computer Science algorithms</a>, <a href="http://eventbrite.github.io/britecharts/">Britecharts - a client-side reusable Charting Library based on D3.js</a>, <a href="https://pin.gy/cli/">Pingy CLI - simple frontend build tool</a> и <a href="https://abouolia.github.io/sticky-sidebar/">Sticky Sidebar - jQuery plugin for making smart and high performance sticky sidebars</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2017/5/12/Rails-5-0-3-and-5-1-1-have-been-released/">Rails 5.0.3 and 5.1.1 have been released</a>, <a href="https://blog.daftcode.pl/fixing-unicode-for-ruby-developers-60d7f6377388">Fixing Unicode for Ruby Developers</a>, <a href="http://etehtsea.me/how-to-find-and-fix-bug-in-jruby-and-dont-go-crazy">How to find and fix bug in JRuby and don’t go crazy</a> и <a href="https://6ftdan.com/allyourdev/2017/05/13/dont-use-objects-as-hash-keys-in-ruby/">Don’t Use Objects as Hash Keys in Ruby</a></li>
+  <li><a href="http://drianhillman.me/2017/05/06/graphql-ruby">Start using GraphQL in Rails</a>, <a href="https://alexcastano.com/the-hidden-cost-of-the-invisible-queries-in-rails/">The hidden cost of the invisible queries in Rails</a> и <a href="https://semaphoreci.com/blog/2017/05/09/faster-rails-is-your-database-properly-indexed.html">Faster Rails: Is Your Database Properly Indexed?</a></li>
+  <li><a href="http://trailblazer.to/guides/trailblazer/2.0/03-rails-basics.html">Trailblazer on Rails: Basics - Setup &amp; Use</a>, <a href="https://github.com/stewartlord/serverless-ruby">Serverless-ruby - a Serverless Framework example using an AWS lambda which runs a Ruby function</a> и <a href="https://github.com/mattbrictson/bundleup">Bundleup - a Ruby project containing a Gemfile to see what gem dependencies need updating</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/webpack/announcing-the-new-webpack-cli-75ce1d9b8663">Announcing the new webpack CLI</a>, <a href="https://css-tricks.com/methods-contrasting-text-backgrounds/">Methods for Contrasting Text Against Backgrounds</a> и <a href="https://css-tricks.com/issue-preprocessing-css-custom-properties/">The Issue with Preprocessing CSS Custom Properties</a></li>
+  <li><a href="https://medium.com/@gajus/distributing-a-self-replicating-malicious-code-using-npm-cf2bf3209293">Distributing a self-replicating malicious code using NPM</a>, <a href="https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a">The Hitchhiker’s Guide to d3.js</a> и <a href="https://blog.webkid.io/making-maps-with-react/">Making Maps With React</a></li>
+  <li><a href="https://mgechev.github.io/javascript-algorithms/">JavaScript implementations of different famous Computer Science algorithms</a>, <a href="http://eventbrite.github.io/britecharts/">Britecharts - a client-side reusable Charting Library based on D3.js</a>, <a href="https://pin.gy/cli/">Pingy CLI - simple frontend build tool</a> и <a href="https://abouolia.github.io/sticky-sidebar/">Sticky Sidebar - jQuery plugin for making smart and high performance sticky sidebars</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 15 May 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/05/15/podcast-05-19.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/05/15/podcast-05-19.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0519.mp3" length="37875930" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0519.mp3" fileSize="37875930" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.0.3 and 5.1.1 have been released, Fixi...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.0.3 and 5.1.1 have been released, Fixing Unicode for Ruby Developers, How to find and fix bug in JRuby and don’t go crazy и Don’t Use Objects as Hash Keys in Ruby
+
+  
+Start using GraphQL in Rails, The hidden cost of the invisible queries in Rails и Faster Rails: Is Your Database Properly Indexed?
+
+  
+Trailblazer on Rails: Basics - Setup &amp; Use, Serverless-ruby - a Serverless Framework example using an AWS lambda which runs a Ruby function и Bundleup - a Ruby project containing a Gemfile to see what gem dependencies need updating
+
+
+
+JavaScript
+
+
+  
+Announcing the new webpack CLI, Methods for Contrasting Text Against Backgrounds и The Issue with Preprocessing CSS Custom Properties
+
+  
+Distributing a self-replicating malicious code using NPM, The Hitchhiker’s Guide to d3.js и Making Maps With React
+
+  
+JavaScript implementations of different famous Computer Science algorithms, Britecharts - a client-side reusable Charting Library based on D3.js, Pingy CLI - simple frontend build tool и Sticky Sidebar - jQuery plugin for making smart and high performance sticky sidebars
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0519.png"/>
+  <itunes:duration>00:39:21</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>18 выпуск 05 сезона. Sinatra 2.0.0, Active Admin 1.0, Capistrano AWS, Autoprefixer 7.0, Prepack, PostCSS 6.0, Pkg и прочее</title>
   <description>
@@ -3727,99 +3820,6 @@ iziModal - elegant, responsive, flexible and lightweight modal plugin with jQuer
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0429.png"/>
   <itunes:duration>00:57:45</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>28 выпуск 04 сезона. New Features in Ruby 2.4, AutoReloader, React.js in patterns, D4, Howler.js, Jets.js, Dio и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/07/21/rails-5-fixes-ambiguous-cloumn-name-for-projected-fields-in-group-by-query.html">Rails 5 fixes ambiguous column issue for projected fields in group by query</a>, <a href="https://blog.blockscore.com/new-features-in-ruby-2-4/">New Features in Ruby 2.4</a> и <a href="http://aspiringwebdev.com/consider-turbolinks-5-for-your-next-rails-project/">Consider Turbolinks 5 for your next Rails project</a></li>
-  <li><a href="https://blog.phusion.nl/2016/07/21/web-applications-on-phusion-passenger-are-not-vulnerable-to-httpoxy/">Web applications on Phusion Passenger are not vulnerable to HTTPoxy</a>, <a href="http://rwdtow.stdout.in/">Ruby Web Dev The Other Way</a> и <a href="http://www.rubypigeon.com/posts/isolate-side-effects-functional-style-in-ruby/">Isolate Side Effects – Functional Style in Ruby</a></li>
-  <li><a href="http://stackoverflow.com/tour/documentation">Stack Overflow Documentation</a>, <a href="https://github.com/rosenfeld/auto_reloader">AutoReloader - a lightweight code reloader intended to be used specially in development mode of server applications</a> и <a href="https://github.com/rosenfeld/rack_web_console">Rack Web Console - a simple Rack app class that allows one to run arbitrary Ruby code on a given binding</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.engadget.com/2016/07/18/opera-browser-sold-to-a-chinese-consortium-for-600-million/">Opera browser sold to a Chinese consortium for $600 million</a>, <a href="https://auth0.com/blog/2016/07/19/building-serverless-apps-with-aws-lambda/">Building Serverless Apps with AWS Lambda</a> и <a href="https://azurelogic.com/posts/web-scraping-with-nightmare-js/">Web scraping with Nightmare.js</a></li>
-  <li><a href="http://krasimirtsonev.com/blog/article/react-js-in-design-patterns">React.js in patterns</a>, <a href="https://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/">ES5 Objects vs. ES6 Maps – The differences and similarities</a> и <a href="https://rainsoft.io/why-object-literals-in-javascript-are-cool/">Why object literals in JavaScript are cool</a></li>
-  <li><a href="https://d4.js.org/">D4 - Declarative Data-Driven Documents</a>, <a href="https://howlerjs.com/">Howler.js - an audio library for the modern web</a>, <a href="https://jets.js.org/">Jets.js - native CSS search engine</a>, <a href="http://thysultan.com/dio/">Dio is a lightweight (~6kb) Virtual DOM framework</a> и <a href="https://github.com/zzarcon/maggie">Maggie - returns information about the image selected in a html input file</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/07/21/rails-5-fixes-ambiguous-cloumn-name-for-projected-fields-in-group-by-query.html">Rails 5 fixes ambiguous column issue for projected fields in group by query</a>, <a href="https://blog.blockscore.com/new-features-in-ruby-2-4/">New Features in Ruby 2.4</a> и <a href="http://aspiringwebdev.com/consider-turbolinks-5-for-your-next-rails-project/">Consider Turbolinks 5 for your next Rails project</a></li>
-  <li><a href="https://blog.phusion.nl/2016/07/21/web-applications-on-phusion-passenger-are-not-vulnerable-to-httpoxy/">Web applications on Phusion Passenger are not vulnerable to HTTPoxy</a>, <a href="http://rwdtow.stdout.in/">Ruby Web Dev The Other Way</a> и <a href="http://www.rubypigeon.com/posts/isolate-side-effects-functional-style-in-ruby/">Isolate Side Effects – Functional Style in Ruby</a></li>
-  <li><a href="http://stackoverflow.com/tour/documentation">Stack Overflow Documentation</a>, <a href="https://github.com/rosenfeld/auto_reloader">AutoReloader - a lightweight code reloader intended to be used specially in development mode of server applications</a> и <a href="https://github.com/rosenfeld/rack_web_console">Rack Web Console - a simple Rack app class that allows one to run arbitrary Ruby code on a given binding</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.engadget.com/2016/07/18/opera-browser-sold-to-a-chinese-consortium-for-600-million/">Opera browser sold to a Chinese consortium for $600 million</a>, <a href="https://auth0.com/blog/2016/07/19/building-serverless-apps-with-aws-lambda/">Building Serverless Apps with AWS Lambda</a> и <a href="https://azurelogic.com/posts/web-scraping-with-nightmare-js/">Web scraping with Nightmare.js</a></li>
-  <li><a href="http://krasimirtsonev.com/blog/article/react-js-in-design-patterns">React.js in patterns</a>, <a href="https://appendto.com/2016/07/es5-objects-vs-es6-maps-the-differences-and-similarities/">ES5 Objects vs. ES6 Maps – The differences and similarities</a> и <a href="https://rainsoft.io/why-object-literals-in-javascript-are-cool/">Why object literals in JavaScript are cool</a></li>
-  <li><a href="https://d4.js.org/">D4 - Declarative Data-Driven Documents</a>, <a href="https://howlerjs.com/">Howler.js - an audio library for the modern web</a>, <a href="https://jets.js.org/">Jets.js - native CSS search engine</a>, <a href="http://thysultan.com/dio/">Dio is a lightweight (~6kb) Virtual DOM framework</a> и <a href="https://github.com/zzarcon/maggie">Maggie - returns information about the image selected in a html input file</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 26 Jul 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/07/26/podcast-04-28.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/07/26/podcast-04-28.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0428.mp3" length="45448788" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0428.mp3" fileSize="45448788" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5 fixes ambiguous column issue for proje...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5 fixes ambiguous column issue for projected fields in group by query, New Features in Ruby 2.4 и Consider Turbolinks 5 for your next Rails project
-
-  
-Web applications on Phusion Passenger are not vulnerable to HTTPoxy, Ruby Web Dev The Other Way и Isolate Side Effects – Functional Style in Ruby
-
-  
-Stack Overflow Documentation, AutoReloader - a lightweight code reloader intended to be used specially in development mode of server applications и Rack Web Console - a simple Rack app class that allows one to run arbitrary Ruby code on a given binding
-
-
-
-JavaScript
-
-
-  
-Opera browser sold to a Chinese consortium for $600 million, Building Serverless Apps with AWS Lambda и Web scraping with Nightmare.js
-
-  
-React.js in patterns, ES5 Objects vs. ES6 Maps – The differences and similarities и Why object literals in JavaScript are cool
-
-  
-D4 - Declarative Data-Driven Documents, Howler.js - an audio library for the modern web, Jets.js - native CSS search engine, Dio is a lightweight (~6kb) Virtual DOM framework и Maggie - returns information about the image selected in a html input file
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0428.png"/>
-  <itunes:duration>00:47:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
