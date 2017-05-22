@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 15 May 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 15 May 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 22 May 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 22 May 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>20 выпуск 05 сезона. CanCanCan 2.0, Bundler 1.15, Red Arrow, Learn CSS Grid, Workbox, Moments of Happiness и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://medium.com/@coorasse/cancancan-2-0-is-out-98abbf8f32d4">CanCanCan 2.0 is out</a>, <a href="http://bundler.io/blog/2017/05/19/bundler-1-15-bundle-oh-so-fast.html">Bundler 1.15: Bundle Oh So Fast</a> и <a href="http://blog.bigbinary.com/2017/05/16/rails-5-1-does-not-share-thread-mattr-accessor-variable-with-sub-class.html">Rails 5.1 does not share thread_mattr_accessor variable with subclass</a></li>
+  <li><a href="https://evilmartians.com/chronicles/fighting-the-hydra-of-n-plus-one-queries">Fighting the Hydra of N+1 queries</a>, <a href="https://hackernoon.com/you-know-for-search-de62b6126a86">Rubygems.org is now using Elasticsearch</a> и <a href="http://tech.eshaiju.in/blog/2017/05/15/graphql-mutation-query-implementation-ruby-on-rails/">GraphQL -Mutation Query Implementation - Ruby on Rails</a></li>
+  <li><a href="https://theoryofe.co/2017/05/15/your-analytical-research-using-twitter/">Your analytical research using Twitter</a>, <a href="https://chrisherring.co/posts/why-you-shouldn-t-use-the-system-ruby">Why you shouldn’t use the System Ruby</a> и <a href="https://github.com/red-data-tools/red-arrow">Red Arrow is a Ruby bindings of Apache Arrow</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hackernoon.com/node-security-authentication-javascript-tutorial-example-session-brute-force-rainbow-table-crack-hijack-3b6c56ee938c">Security: Broken Authentication</a>, <a href="http://tutorialzine.com/2017/05/getting-started-with-the-javascript-web-animation-api/">Getting Started With The JavaScript Web Animation API</a> и <a href="http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/">3 ways to reduce webpack bundle size</a></li>
+  <li><a href="https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68">Javascript: Save time by avoiding re-writing these common functions</a>, <a href="https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/">How Four Native Developers Wrote An Electron App</a> и <a href="https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2">Rearchitecting Airbnb’s Frontend</a></li>
+  <li><a href="http://learncssgrid.com/">Learn CSS Grid</a>, <a href="https://workboxjs.org/">Workbox - a collection of JavaScript libraries for Progressive Web Apps</a>, <a href="https://moments.epic.net/">Moments of Happiness</a> и <a href="http://xproger.info/projects/OpenLara/">OpenLara: Tomb Raider in your browser</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://medium.com/@coorasse/cancancan-2-0-is-out-98abbf8f32d4">CanCanCan 2.0 is out</a>, <a href="http://bundler.io/blog/2017/05/19/bundler-1-15-bundle-oh-so-fast.html">Bundler 1.15: Bundle Oh So Fast</a> и <a href="http://blog.bigbinary.com/2017/05/16/rails-5-1-does-not-share-thread-mattr-accessor-variable-with-sub-class.html">Rails 5.1 does not share thread_mattr_accessor variable with subclass</a></li>
+  <li><a href="https://evilmartians.com/chronicles/fighting-the-hydra-of-n-plus-one-queries">Fighting the Hydra of N+1 queries</a>, <a href="https://hackernoon.com/you-know-for-search-de62b6126a86">Rubygems.org is now using Elasticsearch</a> и <a href="http://tech.eshaiju.in/blog/2017/05/15/graphql-mutation-query-implementation-ruby-on-rails/">GraphQL -Mutation Query Implementation - Ruby on Rails</a></li>
+  <li><a href="https://theoryofe.co/2017/05/15/your-analytical-research-using-twitter/">Your analytical research using Twitter</a>, <a href="https://chrisherring.co/posts/why-you-shouldn-t-use-the-system-ruby">Why you shouldn’t use the System Ruby</a> и <a href="https://github.com/red-data-tools/red-arrow">Red Arrow is a Ruby bindings of Apache Arrow</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hackernoon.com/node-security-authentication-javascript-tutorial-example-session-brute-force-rainbow-table-crack-hijack-3b6c56ee938c">Security: Broken Authentication</a>, <a href="http://tutorialzine.com/2017/05/getting-started-with-the-javascript-web-animation-api/">Getting Started With The JavaScript Web Animation API</a> и <a href="http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/">3 ways to reduce webpack bundle size</a></li>
+  <li><a href="https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68">Javascript: Save time by avoiding re-writing these common functions</a>, <a href="https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/">How Four Native Developers Wrote An Electron App</a> и <a href="https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2">Rearchitecting Airbnb’s Frontend</a></li>
+  <li><a href="http://learncssgrid.com/">Learn CSS Grid</a>, <a href="https://workboxjs.org/">Workbox - a collection of JavaScript libraries for Progressive Web Apps</a>, <a href="https://moments.epic.net/">Moments of Happiness</a> и <a href="http://xproger.info/projects/OpenLara/">OpenLara: Tomb Raider in your browser</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 22 May 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/05/22/podcast-05-20.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/05/22/podcast-05-20.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0520.mp3" length="40146016" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0520.mp3" fileSize="40146016" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  CanCanCan 2.0 is out, Bundler 1.15: Bundle Oh ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+CanCanCan 2.0 is out, Bundler 1.15: Bundle Oh So Fast и Rails 5.1 does not share thread_mattr_accessor variable with subclass
+
+  
+Fighting the Hydra of N+1 queries, Rubygems.org is now using Elasticsearch и GraphQL -Mutation Query Implementation - Ruby on Rails
+
+  
+Your analytical research using Twitter, Why you shouldn’t use the System Ruby и Red Arrow is a Ruby bindings of Apache Arrow
+
+
+
+JavaScript
+
+
+  
+Security: Broken Authentication, Getting Started With The JavaScript Web Animation API и 3 ways to reduce webpack bundle size
+
+  
+Javascript: Save time by avoiding re-writing these common functions, How Four Native Developers Wrote An Electron App и Rearchitecting Airbnb’s Frontend
+
+  
+Learn CSS Grid, Workbox - a collection of JavaScript libraries for Progressive Web Apps, Moments of Happiness и OpenLara: Tomb Raider in your browser
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0520.png"/>
+  <itunes:duration>00:41:43</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>19 выпуск 05 сезона. Rails 5.0.3 и 5.1.1, GraphQL в Rails, Serverless-ruby, Webpack CLI, Britecharts, Sticky Sidebar и прочее</title>
   <description>
@@ -3727,99 +3820,6 @@ The for Loop vs. forEach in JavaScript, This Image is Also an HTML Webpage, Bulm
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0430.png"/>
   <itunes:duration>00:39:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>29 выпуск 04 сезона. Spark Release 2.0.0, Flynn 1.0, ROM 2.0.0, Aurelia 1.0, Ember.js 2.7 and 2.8 Beta, Puma-dev, iziModal и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://spark.apache.org/releases/spark-release-2-0-0.html">Spark Release 2.0.0</a>, <a href="https://mesos.apache.org/blog/mesos-1-0-0-released/">Apache Mesos 1.0.0 Released</a>, <a href="https://flynn.io/blog/one-point-oh">Flynn 1.0 is here!</a> и <a href="http://rom-rb.org/blog/rom-2-0-0-released/">ROM 2.0.0 Released</a></li>
-  <li><a href="http://www.blackbytes.info/2016/07/numbers-in-ruby/">Behind The Scenes: How Numbers Work in Ruby</a>, <a href="https://bowild.wordpress.com/2016/07/31/the-dark-side-of-the-rack/">The dark side of the Rack and Websockets dreams</a> и <a href="http://nithinbekal.com/posts/rails-user-timezones/">Rails: Automatically Set User Timezone During Signup</a></li>
-  <li><a href="http://sorentwo.com/2016/08/01/strategies-for-selective-cache-expiration.html">Strategies For Selective Cache Expiration</a>, <a href="http://blog.stackoverflow.com/2016/07/salary-transparency/">Salary transparency at Stack Overflow</a> и <a href="https://github.com/puma/puma-dev">Puma-dev: A development server for OS X and Linux</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.durandal.io/2016/07/27/aurelia-1-0-is-here/">Aurelia 1.0 is Here</a>, <a href="http://emberjs.com/blog/2016/07/25/ember-2-7-and-2-8-beta-released.html">Ember.js 2.7 and 2.8 Beta Released</a> и <a href="https://medium.com/@timrwood/moment-endof-term-522d8965689">moment().endOf(‘term’)</a></li>
-  <li><a href="https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours/">Why our website is faster than yours</a>, <a href="https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/">The Illusion Of Life: An SVG Animation Case Study</a>, <a href="https://daveceddia.com/react-gotchas/">React Gotchas</a> и <a href="https://medium.com/@computer.guy/chaining-is-not-the-answer-6c4143ebb64d">Chaining Is Not The Answer</a></li>
-  <li><a href="http://izimodal.marcelodolce.com/">iziModal - elegant, responsive, flexible and lightweight modal plugin with jQuery</a>, <a href="https://joshuajohnson.co.uk/Choices/">Choices.js - a lightweight, configurable select box/text input plugin</a> и <a href="https://sachinchoolur.github.io/lightgallery.js/">lightGallery - full featured javascript lightbox gallery</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://spark.apache.org/releases/spark-release-2-0-0.html">Spark Release 2.0.0</a>, <a href="https://mesos.apache.org/blog/mesos-1-0-0-released/">Apache Mesos 1.0.0 Released</a>, <a href="https://flynn.io/blog/one-point-oh">Flynn 1.0 is here!</a> и <a href="http://rom-rb.org/blog/rom-2-0-0-released/">ROM 2.0.0 Released</a></li>
-  <li><a href="http://www.blackbytes.info/2016/07/numbers-in-ruby/">Behind The Scenes: How Numbers Work in Ruby</a>, <a href="https://bowild.wordpress.com/2016/07/31/the-dark-side-of-the-rack/">The dark side of the Rack and Websockets dreams</a> и <a href="http://nithinbekal.com/posts/rails-user-timezones/">Rails: Automatically Set User Timezone During Signup</a></li>
-  <li><a href="http://sorentwo.com/2016/08/01/strategies-for-selective-cache-expiration.html">Strategies For Selective Cache Expiration</a>, <a href="http://blog.stackoverflow.com/2016/07/salary-transparency/">Salary transparency at Stack Overflow</a> и <a href="https://github.com/puma/puma-dev">Puma-dev: A development server for OS X and Linux</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.durandal.io/2016/07/27/aurelia-1-0-is-here/">Aurelia 1.0 is Here</a>, <a href="http://emberjs.com/blog/2016/07/25/ember-2-7-and-2-8-beta-released.html">Ember.js 2.7 and 2.8 Beta Released</a> и <a href="https://medium.com/@timrwood/moment-endof-term-522d8965689">moment().endOf(‘term’)</a></li>
-  <li><a href="https://www.voorhoede.nl/en/blog/why-our-website-is-faster-than-yours/">Why our website is faster than yours</a>, <a href="https://www.smashingmagazine.com/2016/07/an-svg-animation-case-study/">The Illusion Of Life: An SVG Animation Case Study</a>, <a href="https://daveceddia.com/react-gotchas/">React Gotchas</a> и <a href="https://medium.com/@computer.guy/chaining-is-not-the-answer-6c4143ebb64d">Chaining Is Not The Answer</a></li>
-  <li><a href="http://izimodal.marcelodolce.com/">iziModal - elegant, responsive, flexible and lightweight modal plugin with jQuery</a>, <a href="https://joshuajohnson.co.uk/Choices/">Choices.js - a lightweight, configurable select box/text input plugin</a> и <a href="https://sachinchoolur.github.io/lightgallery.js/">lightGallery - full featured javascript lightbox gallery</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 02 Aug 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/08/02/podcast-04-29.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/02/podcast-04-29.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0429.mp3" length="55549324" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0429.mp3" fileSize="55549324" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Spark Release 2.0.0, Apache Mesos 1.0.0 Releas...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Spark Release 2.0.0, Apache Mesos 1.0.0 Released, Flynn 1.0 is here! и ROM 2.0.0 Released
-
-  
-Behind The Scenes: How Numbers Work in Ruby, The dark side of the Rack and Websockets dreams и Rails: Automatically Set User Timezone During Signup
-
-  
-Strategies For Selective Cache Expiration, Salary transparency at Stack Overflow и Puma-dev: A development server for OS X and Linux
-
-
-
-JavaScript
-
-
-  
-Aurelia 1.0 is Here, Ember.js 2.7 and 2.8 Beta Released и moment().endOf(‘term’)
-
-  
-Why our website is faster than yours, The Illusion Of Life: An SVG Animation Case Study, React Gotchas и Chaining Is Not The Answer
-
-  
-iziModal - elegant, responsive, flexible and lightweight modal plugin with jQuery, Choices.js - a lightweight, configurable select box/text input plugin и lightGallery - full featured javascript lightbox gallery
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0429.png"/>
-  <itunes:duration>00:57:45</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
