@@ -13,7 +13,7 @@
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
     <itunes:explicit>clean</itunes:explicit>
-    <itunes:image href="http://www.rwpod.com/images/favicons/apple-icon-2048x2048.png"/>
+    <itunes:image href="http://www.rwpod.com/images/logo-fc8bfc81.png"/>
     <itunes:owner>
       <itunes:name>RWpod команда</itunes:name>
       <itunes:email>rwpod.com@gmail.com</itunes:email>
@@ -24,7 +24,7 @@
       <itunes:category text="Software How-To"/>
     </itunes:category>
     <media:copyright>Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
-    <media:thumbnail url="http://www.rwpod.com/images/favicons/apple-icon-2048x2048.png"/>
+    <media:thumbnail url="http://www.rwpod.com/images/logo-fc8bfc81.png"/>
     <media:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
