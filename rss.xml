@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 05 Jun 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 05 Jun 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,121 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>23 выпуск 05 сезона. Node v8.1.0, V8 Release 6.0, ESLint v4.0.0, Rendering Rails Pages with render_async, N + 1 Control и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://gemnasium.com/blog/rubygems-monthly-sinatra-2-bundler-rubocop-cancancan-devise-puma-acts-as-taggable-on/">Rubygems Monthly: Sinatra 2, Bundler 1.15, Rubocop, CanCanCan 2, Devise, Puma and ActsAsTaggableOn 5</a>, <a href="https://semaphoreci.com/blog/2017/06/08/speeding-up-rails-pages-with-render-async.html">Speeding Up Rendering Rails Pages with render_async</a> и <a href="https://dalibornasevic.com/posts/79-debugging-rails-views-in-production">Debugging Rails views in production</a></li>
+  <li><a href="https://blog.docker.com/2017/04/introducing-the-moby-project/">Introducing moby project: a new open-source project to advance the software containerization movement</a>, <a href="https://www.openservicebrokerapi.org/">Open Service Broker API</a> и <a href="https://www.openapis.org/">Open API Initiative</a></li>
+  <li><a href="http://undefined-reference.org/2017/06/10/why-you-should-probably-avoid-mixins.html">Why you should probably avoid mixins</a>, <a href="https://github.com/palkan/n_plus_one_control">N + 1 Control</a> и <a href="https://thebrianemory.github.io/corneal/">Corneal allows you to quickly generate a Sinatra template with Rails-like simplicity</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://nodejs.org/en/blog/release/v8.1.0/">Node v8.1.0</a>, <a href="https://v8project.blogspot.com/2017/06/v8-release-60.html">V8 Release 6.0</a>, <a href="http://eslint.org/blog/2017/06/eslint-v4.0.0-released">ESLint v4.0.0</a> и <a href="https://webkit.org/blog/7726/announcing-webrtc-and-media-capture/">Announcing WebRTC and Media Capture</a></li>
+  <li><a href="http://blog.openbloc.fr/webassembly-first-steps/">WebAssembly 101: a developer’s first steps</a>, <a href="http://thejameskyle.com/adopting-flow-and-typescript.html">Adopting Flow &amp; TypeScript</a> и <a href="https://medium.freecodecamp.com/node-js-child-processes-everything-you-need-to-know-e69498fe970a">Node.js Child Processes: Everything you need to know</a></li>
+  <li><a href="https://github.com/Lucifier129/factor-network">Factor-network - simple factor-network implementation written by JavaScript</a>, <a href="https://angelmmiguel.github.io/svgi/">SVGI - the SVG inspection tool</a>, <a href="https://github.com/veltman/flubber">Flubber - tools for smoother shape animations</a>, <a href="https://naver.github.io/billboard.js/">Billboard.js - re-usable easy interface JavaScript chart library</a> и <a href="https://github.com/tuchk4/awesome-css-in-js">Awesome CSS in JS</a></li>
+</ul>
+
+<h2 id="alexandr-lomov">В гостях - Alexandr Lomov</h2>
+
+<ul>
+  <li><a href="https://github.com/allomov">Github</a></li>
+  <li><a href="https://www.facebook.com/allomau">Facebook</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://gemnasium.com/blog/rubygems-monthly-sinatra-2-bundler-rubocop-cancancan-devise-puma-acts-as-taggable-on/">Rubygems Monthly: Sinatra 2, Bundler 1.15, Rubocop, CanCanCan 2, Devise, Puma and ActsAsTaggableOn 5</a>, <a href="https://semaphoreci.com/blog/2017/06/08/speeding-up-rails-pages-with-render-async.html">Speeding Up Rendering Rails Pages with render_async</a> и <a href="https://dalibornasevic.com/posts/79-debugging-rails-views-in-production">Debugging Rails views in production</a></li>
+  <li><a href="https://blog.docker.com/2017/04/introducing-the-moby-project/">Introducing moby project: a new open-source project to advance the software containerization movement</a>, <a href="https://www.openservicebrokerapi.org/">Open Service Broker API</a> и <a href="https://www.openapis.org/">Open API Initiative</a></li>
+  <li><a href="http://undefined-reference.org/2017/06/10/why-you-should-probably-avoid-mixins.html">Why you should probably avoid mixins</a>, <a href="https://github.com/palkan/n_plus_one_control">N + 1 Control</a> и <a href="https://thebrianemory.github.io/corneal/">Corneal allows you to quickly generate a Sinatra template with Rails-like simplicity</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://nodejs.org/en/blog/release/v8.1.0/">Node v8.1.0</a>, <a href="https://v8project.blogspot.com/2017/06/v8-release-60.html">V8 Release 6.0</a>, <a href="http://eslint.org/blog/2017/06/eslint-v4.0.0-released">ESLint v4.0.0</a> и <a href="https://webkit.org/blog/7726/announcing-webrtc-and-media-capture/">Announcing WebRTC and Media Capture</a></li>
+  <li><a href="http://blog.openbloc.fr/webassembly-first-steps/">WebAssembly 101: a developer’s first steps</a>, <a href="http://thejameskyle.com/adopting-flow-and-typescript.html">Adopting Flow &amp; TypeScript</a> и <a href="https://medium.freecodecamp.com/node-js-child-processes-everything-you-need-to-know-e69498fe970a">Node.js Child Processes: Everything you need to know</a></li>
+  <li><a href="https://github.com/Lucifier129/factor-network">Factor-network - simple factor-network implementation written by JavaScript</a>, <a href="https://angelmmiguel.github.io/svgi/">SVGI - the SVG inspection tool</a>, <a href="https://github.com/veltman/flubber">Flubber - tools for smoother shape animations</a>, <a href="https://naver.github.io/billboard.js/">Billboard.js - re-usable easy interface JavaScript chart library</a> и <a href="https://github.com/tuchk4/awesome-css-in-js">Awesome CSS in JS</a></li>
+</ul>
+
+<h2 id="alexandr-lomov">В гостях - Alexandr Lomov</h2>
+
+<ul>
+  <li><a href="https://github.com/allomov">Github</a></li>
+  <li><a href="https://www.facebook.com/allomau">Facebook</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 12 Jun 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/06/12/podcast-05-23.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/06/12/podcast-05-23.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0523.mp3" length="65675028" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0523.mp3" fileSize="65675028" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rubygems Monthly: Sinatra 2, Bundler 1.15, Rub...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rubygems Monthly: Sinatra 2, Bundler 1.15, Rubocop, CanCanCan 2, Devise, Puma and ActsAsTaggableOn 5, Speeding Up Rendering Rails Pages with render_async и Debugging Rails views in production
+
+  
+Introducing moby project: a new open-source project to advance the software containerization movement, Open Service Broker API и Open API Initiative
+
+  
+Why you should probably avoid mixins, N + 1 Control и Corneal allows you to quickly generate a Sinatra template with Rails-like simplicity
+
+
+
+JavaScript
+
+
+  
+Node v8.1.0, V8 Release 6.0, ESLint v4.0.0 и Announcing WebRTC and Media Capture
+
+  
+WebAssembly 101: a developer’s first steps, Adopting Flow &amp; TypeScript и Node.js Child Processes: Everything you need to know
+
+  
+Factor-network - simple factor-network implementation written by JavaScript, SVGI - the SVG inspection tool, Flubber - tools for smoother shape animations, Billboard.js - re-usable easy interface JavaScript chart library и Awesome CSS in JS
+
+
+
+В гостях - Alexandr Lomov
+
+
+  Github
+  Facebook
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0523.png"/>
+  <itunes:duration>01:08:23</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>22 выпуск 05 сезона. Exploring Sinatra, Rails DB, Goodbye PNaCl, Hello WebAssembly, Amplitude.js, Timeline.js и прочее</title>
   <description>
@@ -3818,90 +3933,6 @@ Carbide - an interactive JS programming environment, Odoo: SVG Odometer Effect L
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0433.png"/>
   <itunes:duration>00:31:35</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>32 выпуск 04 сезона. The Ruby Community and Reputation, LeSSL, Serverless Scheduled Tasks, Webpack-Dashboard и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/08/18/new-framework-defaults-in-rails-5-to-make-upgrade-easier.html">New framework defaults in Rails 5 to make upgrade easier</a>, <a href="http://www.akitaonrails.com/2016/08/19/the-ruby-community-and-reputation">The Ruby Community and Reputation</a> и <a href="https://medium.com/@rubinius/rubinius-takes-the-fun-out-of-ruby-21db64ce87a6">Rubinius takes the fun out of Ruby</a></li>
-  <li><a href="https://github.com/endofunky/oprah">Oprah - opinionated presenters for Rails 5</a>, <a href="https://github.com/tobiasfeistmantl/LeSSL">LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA</a> и <a href="https://github.com/jazzonmymind/zchannel.rb">Zchannel - a library that assists with InterProcess Communication</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/@parall.ax/tutorial-serverless-scheduled-tasks-3c2abdd1e158">Tutorial: Serverless Scheduled Tasks</a>, <a href="https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/">30K Page Views for $0.21: A Serverless Story</a> и <a href="http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs">The rise of functional programming &amp; the decline of Angular 2.0</a></li>
-  <li><a href="https://github.com/FormidableLabs/webpack-dashboard">Webpack-Dashboard - a CLI dashboard for your webpack dev server</a>, <a href="https://github.com/airbnb/react-dates">React-dates - an accessible, easily internationalizable, mobile-friendly datepicker library for the web</a>, <a href="http://recharts.org/">Recharts - a composable charting library built on React components</a> и <a href="http://papaparse.com/">Papa Parse - the powerful, in-browser CSV parser for big boys and girls</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/08/18/new-framework-defaults-in-rails-5-to-make-upgrade-easier.html">New framework defaults in Rails 5 to make upgrade easier</a>, <a href="http://www.akitaonrails.com/2016/08/19/the-ruby-community-and-reputation">The Ruby Community and Reputation</a> и <a href="https://medium.com/@rubinius/rubinius-takes-the-fun-out-of-ruby-21db64ce87a6">Rubinius takes the fun out of Ruby</a></li>
-  <li><a href="https://github.com/endofunky/oprah">Oprah - opinionated presenters for Rails 5</a>, <a href="https://github.com/tobiasfeistmantl/LeSSL">LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA</a> и <a href="https://github.com/jazzonmymind/zchannel.rb">Zchannel - a library that assists with InterProcess Communication</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/@parall.ax/tutorial-serverless-scheduled-tasks-3c2abdd1e158">Tutorial: Serverless Scheduled Tasks</a>, <a href="https://fmlnerd.com/2016/08/16/30k-page-views-for-0-21-a-serverless-story/">30K Page Views for $0.21: A Serverless Story</a> и <a href="http://blog.wolksoftware.com/the-rise-of-functional-programming-and-the-death-of-angularjs">The rise of functional programming &amp; the decline of Angular 2.0</a></li>
-  <li><a href="https://github.com/FormidableLabs/webpack-dashboard">Webpack-Dashboard - a CLI dashboard for your webpack dev server</a>, <a href="https://github.com/airbnb/react-dates">React-dates - an accessible, easily internationalizable, mobile-friendly datepicker library for the web</a>, <a href="http://recharts.org/">Recharts - a composable charting library built on React components</a> и <a href="http://papaparse.com/">Papa Parse - the powerful, in-browser CSV parser for big boys and girls</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 23 Aug 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/08/23/podcast-04-32.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/08/23/podcast-04-32.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0432.mp3" length="33336862" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0432.mp3" fileSize="33336862" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  New framework defaults in Rails 5 to make upgr...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-New framework defaults in Rails 5 to make upgrade easier, The Ruby Community and Reputation и Rubinius takes the fun out of Ruby
-
-  
-Oprah - opinionated presenters for Rails 5, LeSSL - a simple gem to authorize for domains and obtaining certificates from the Let’s Encrypt CA и Zchannel - a library that assists with InterProcess Communication
-
-
-
-JavaScript
-
-
-  
-Tutorial: Serverless Scheduled Tasks, 30K Page Views for $0.21: A Serverless Story и The rise of functional programming &amp; the decline of Angular 2.0
-
-  
-Webpack-Dashboard - a CLI dashboard for your webpack dev server, React-dates - an accessible, easily internationalizable, mobile-friendly datepicker library for the web, Recharts - a composable charting library built on React components и Papa Parse - the powerful, in-browser CSV parser for big boys and girls
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0432.png"/>
-  <itunes:duration>00:34:37</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
