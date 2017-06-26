@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 19 Jun 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 19 Jun 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 26 Jun 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 26 Jun 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>25 выпуск 05 сезона. Upgrading shopify to rails 5, Webpack 3, Service Worker gotchas, Rufo, Bojler, Sonar и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/06/21/ruby-2-4-ip-addr-methods-do-not-throw-exception-for-objects-that-cant-be-converted-to-ipaddr.html">In Ruby 2.4, IPAddr#== and IPAddr#&lt;=&gt; do not throw exception for objects that can’t be converted to IPAddr</a>, <a href="https://shopifyengineering.myshopify.com/blogs/engineering/upgrading-shopify-to-rails-5-0">Upgrading shopify to rails 5</a> и <a href="https://apotonick.wordpress.com/2015/09/05/the-only-alternative-to-a-rails-monolith-are-micro-services-bullshit/">The Only Alternative to a Rails Monolith are Micro Services? Bullshit!</a></li>
+  <li><a href="http://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/">Implementing Classification using Logistic Regression in Ruby</a>, <a href="https://semaphoreci.com/blog/2017/06/21/faster-rails-indexing-large-database-tables.html">Faster Rails: Indexing Large Database Tables Without Downtime</a>, <a href="http://t-a-w.blogspot.gr/2017/06/11-small-improvements-for-ruby.html">11 Small Improvements For Ruby</a> и <a href="https://chrisherring.co/posts/private-files-for-your-rails-app-using-s3">Private files for your Rails app using S3</a></li>
+  <li><a href="https://medium.com/little-programming-joys/crystal-tdd-and-conways-game-of-life-2216721b916e">Crystal, TDD and Conway’s Game of Life</a>, <a href="https://github.com/asterite/rufo">Rufo - ruby formatter</a> и <a href="https://twitter.com/wintermeyer/status/878860723304243201">Shorten the IRB prompt (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b">Webpack 3: Official Release</a>, <a href="https://medium.com/@alexdixon/functional-programming-in-javascript-is-an-antipattern-58526819f21e">Functional programming in Javascript is an antipattern</a> и <a href="https://medium.com/@mikenorth/webpack-preact-cli-vulnerability-961572624c54">Webpack &amp; Preact-CLI Vulnerability</a></li>
+  <li><a href="https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/">Service Worker gotchas</a>, <a href="https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5">Machine Learning with JavaScript : Part 1</a> и <a href="https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483">Machine Learning with JavaScript : Part 2</a></li>
+  <li><a href="http://slicejack.github.io/bojler/">Bojler - an email boilerplate and a guideline for writing HTML code that will render correctly across each of the most popular email clients</a>, <a href="https://js.foundation/announcements/2017/06/22/sonar-js-foundation-welcomes-newest-project">Sonar – JS Foundation Welcomes Newest Project</a> и <a href="https://performancejs.com/post/ewffd34/Introducing:-Lazy-arrays-in-JavaScript">Introducing: Lazy Arrays In JavaScript</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/06/21/ruby-2-4-ip-addr-methods-do-not-throw-exception-for-objects-that-cant-be-converted-to-ipaddr.html">In Ruby 2.4, IPAddr#== and IPAddr#&lt;=&gt; do not throw exception for objects that can’t be converted to IPAddr</a>, <a href="https://shopifyengineering.myshopify.com/blogs/engineering/upgrading-shopify-to-rails-5-0">Upgrading shopify to rails 5</a> и <a href="https://apotonick.wordpress.com/2015/09/05/the-only-alternative-to-a-rails-monolith-are-micro-services-bullshit/">The Only Alternative to a Rails Monolith are Micro Services? Bullshit!</a></li>
+  <li><a href="http://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/">Implementing Classification using Logistic Regression in Ruby</a>, <a href="https://semaphoreci.com/blog/2017/06/21/faster-rails-indexing-large-database-tables.html">Faster Rails: Indexing Large Database Tables Without Downtime</a>, <a href="http://t-a-w.blogspot.gr/2017/06/11-small-improvements-for-ruby.html">11 Small Improvements For Ruby</a> и <a href="https://chrisherring.co/posts/private-files-for-your-rails-app-using-s3">Private files for your Rails app using S3</a></li>
+  <li><a href="https://medium.com/little-programming-joys/crystal-tdd-and-conways-game-of-life-2216721b916e">Crystal, TDD and Conway’s Game of Life</a>, <a href="https://github.com/asterite/rufo">Rufo - ruby formatter</a> и <a href="https://twitter.com/wintermeyer/status/878860723304243201">Shorten the IRB prompt (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b">Webpack 3: Official Release</a>, <a href="https://medium.com/@alexdixon/functional-programming-in-javascript-is-an-antipattern-58526819f21e">Functional programming in Javascript is an antipattern</a> и <a href="https://medium.com/@mikenorth/webpack-preact-cli-vulnerability-961572624c54">Webpack &amp; Preact-CLI Vulnerability</a></li>
+  <li><a href="https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/">Service Worker gotchas</a>, <a href="https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5">Machine Learning with JavaScript : Part 1</a> и <a href="https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483">Machine Learning with JavaScript : Part 2</a></li>
+  <li><a href="http://slicejack.github.io/bojler/">Bojler - an email boilerplate and a guideline for writing HTML code that will render correctly across each of the most popular email clients</a>, <a href="https://js.foundation/announcements/2017/06/22/sonar-js-foundation-welcomes-newest-project">Sonar – JS Foundation Welcomes Newest Project</a> и <a href="https://performancejs.com/post/ewffd34/Introducing:-Lazy-arrays-in-JavaScript">Introducing: Lazy Arrays In JavaScript</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 26 Jun 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/06/26/podcast-05-25.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/06/26/podcast-05-25.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0525.mp3" length="41283565" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0525.mp3" fileSize="41283565" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  In Ruby 2.4, IPAddr#== and IPAddr#&lt;=&gt; do not t...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+In Ruby 2.4, IPAddr#== and IPAddr#&lt;=&gt; do not throw exception for objects that can’t be converted to IPAddr, Upgrading shopify to rails 5 и The Only Alternative to a Rails Monolith are Micro Services? Bullshit!
+
+  
+Implementing Classification using Logistic Regression in Ruby, Faster Rails: Indexing Large Database Tables Without Downtime, 11 Small Improvements For Ruby и Private files for your Rails app using S3
+
+  
+Crystal, TDD and Conway’s Game of Life, Rufo - ruby formatter и Shorten the IRB prompt (video)
+
+
+
+JavaScript
+
+
+  
+Webpack 3: Official Release, Functional programming in Javascript is an antipattern и Webpack &amp; Preact-CLI Vulnerability
+
+  
+Service Worker gotchas, Machine Learning with JavaScript : Part 1 и Machine Learning with JavaScript : Part 2
+
+  
+Bojler - an email boilerplate and a guideline for writing HTML code that will render correctly across each of the most popular email clients, Sonar – JS Foundation Welcomes Newest Project и Introducing: Lazy Arrays In JavaScript
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0525.png"/>
+  <itunes:duration>00:42:58</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>24 выпуск 05 сезона. MJIT, Atom 1.18, From Rails to Hanami, Full Stack Automation with Ruby, Spected и прочее</title>
   <description>
@@ -3857,100 +3951,6 @@ Awesome Grid - a curated list of grid(table) libraries and resources, Cookies.js
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0435.png"/>
   <itunes:duration>00:36:37</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>34 выпуск 04 сезона. Quiet assets in Rails 5, Octoshark, JerryScript 1.0, Mobi.css, Cesium, Granim.js, Anim8js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/09/05/rails-5-adds-ability-to-create-module-and-class-level-variables-on-per-thread-basis.html">Rails 5 adds ability to create module and class level variables on per thread basis</a>, <a href="http://blog.bigbinary.com/2016/08/29/rails-5-disables-autoloading-after-booting-the-app-in-production.html">Rails 5 disables autoloading after booting the app in production</a> и <a href="https://rossta.net/blog/quiet-assets-in-rails-5.html">Quiet assets in Rails 5</a></li>
-  <li><a href="http://www.rubypigeon.com/posts/examining-internals-of-rails-request-response-cycle/">Examining The Internals Of The Rails Request/Response Cycle</a>, <a href="https://blog.codeship.com/good-module-bad-module/">Good Module, Bad Module</a> и <a href="https://juanitofatas.com/blog/2016/09/03/abstract_class_pattern_in_ruby">Abstract Class Pattern in Ruby</a></li>
-  <li><a href="https://twin.github.io/resumable-file-uploads-in-ruby/">Resumable File Uploads in Ruby</a>, <a href="http://dalibornasevic.com/posts/69-managing-activerecord-connections-with-octoshark">Managing ActiveRecord connections with Octoshark</a> и <a href="https://robots.thoughtbot.com/elixir-for-rubyists">Elixir for Rubyists</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/Samsung/jerryscript/releases/tag/v1.0">JerryScript 1.0</a>, <a href="https://blog.risingstack.com/javascript-garbage-collection-orinoco/">JavaScript Garbage Collection Improvements - Orinoco</a> и <a href="http://atom-morgan.github.io/in-defense-of-douglas-crockford">In Defense of Douglas Crockford</a></li>
-  <li><a href="https://mythbusters.js.org/">JS MythBusters - an optimization handbook from a high level point of view</a>, <a href="http://getmobicss.com/">Mobi.css - a lightweight, flexible css framework that focus on mobile</a> и <a href="https://picturepan2.github.io/spectre/">Spectre.css - a lightweight, responsive and modern CSS framework for faster and extensible development</a></li>
-  <li><a href="http://cesiumjs.org/">Cesium - an open-source JavaScript library for world-class 3D globes and maps</a>, <a href="https://sarcadass.github.io/granim.js/">Granim.js - create fluid and interactive gradients animations with this small js library</a>, <a href="http://clickermonkey.github.io/anim8js/">Anim8js - animation library for javascript</a> и <a href="http://soapbox.github.io/linkifyjs/">Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/09/05/rails-5-adds-ability-to-create-module-and-class-level-variables-on-per-thread-basis.html">Rails 5 adds ability to create module and class level variables on per thread basis</a>, <a href="http://blog.bigbinary.com/2016/08/29/rails-5-disables-autoloading-after-booting-the-app-in-production.html">Rails 5 disables autoloading after booting the app in production</a> и <a href="https://rossta.net/blog/quiet-assets-in-rails-5.html">Quiet assets in Rails 5</a></li>
-  <li><a href="http://www.rubypigeon.com/posts/examining-internals-of-rails-request-response-cycle/">Examining The Internals Of The Rails Request/Response Cycle</a>, <a href="https://blog.codeship.com/good-module-bad-module/">Good Module, Bad Module</a> и <a href="https://juanitofatas.com/blog/2016/09/03/abstract_class_pattern_in_ruby">Abstract Class Pattern in Ruby</a></li>
-  <li><a href="https://twin.github.io/resumable-file-uploads-in-ruby/">Resumable File Uploads in Ruby</a>, <a href="http://dalibornasevic.com/posts/69-managing-activerecord-connections-with-octoshark">Managing ActiveRecord connections with Octoshark</a> и <a href="https://robots.thoughtbot.com/elixir-for-rubyists">Elixir for Rubyists</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/Samsung/jerryscript/releases/tag/v1.0">JerryScript 1.0</a>, <a href="https://blog.risingstack.com/javascript-garbage-collection-orinoco/">JavaScript Garbage Collection Improvements - Orinoco</a> и <a href="http://atom-morgan.github.io/in-defense-of-douglas-crockford">In Defense of Douglas Crockford</a></li>
-  <li><a href="https://mythbusters.js.org/">JS MythBusters - an optimization handbook from a high level point of view</a>, <a href="http://getmobicss.com/">Mobi.css - a lightweight, flexible css framework that focus on mobile</a> и <a href="https://picturepan2.github.io/spectre/">Spectre.css - a lightweight, responsive and modern CSS framework for faster and extensible development</a></li>
-  <li><a href="http://cesiumjs.org/">Cesium - an open-source JavaScript library for world-class 3D globes and maps</a>, <a href="https://sarcadass.github.io/granim.js/">Granim.js - create fluid and interactive gradients animations with this small js library</a>, <a href="http://clickermonkey.github.io/anim8js/">Anim8js - animation library for javascript</a> и <a href="http://soapbox.github.io/linkifyjs/">Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 06 Sep 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/09/06/podcast-04-34.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/09/06/podcast-04-34.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0434.mp3" length="44162957" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0434.mp3" fileSize="44162957" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5 adds ability to create module and clas...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5 adds ability to create module and class level variables on per thread basis, Rails 5 disables autoloading after booting the app in production и Quiet assets in Rails 5
-
-  
-Examining The Internals Of The Rails Request/Response Cycle, Good Module, Bad Module и Abstract Class Pattern in Ruby
-
-  
-Resumable File Uploads in Ruby, Managing ActiveRecord connections with Octoshark и Elixir for Rubyists
-
-
-
-JavaScript
-
-
-  
-JerryScript 1.0, JavaScript Garbage Collection Improvements - Orinoco и In Defense of Douglas Crockford
-
-  
-JS MythBusters - an optimization handbook from a high level point of view, Mobi.css - a lightweight, flexible css framework that focus on mobile и Spectre.css - a lightweight, responsive and modern CSS framework for faster and extensible development
-
-  
-Cesium - an open-source JavaScript library for world-class 3D globes and maps, Granim.js - create fluid and interactive gradients animations with this small js library, Anim8js - animation library for javascript и Linkify is a JavaScript plugin for finding links in plain-text and converting them to HTML &lt;a&gt; tags
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0434.png"/>
-  <itunes:duration>00:45:54</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
