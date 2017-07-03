@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 26 Jun 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 26 Jun 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 03 Jul 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,145 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>26 выпуск 05 сезона. Rails 5.1.2, Unicorn Unix Magic Tricks, Small Is Big, Browser module loading, React Native UI Kitten и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2017/6/26/Rails-5-1-2-has-been-released/">Rails 5.1.2 has been released</a>, <a href="http://www.akitaonrails.com/2017/06/28/rails-5-1-heroku-deployment-checklist-for-heroku">Rails 5.1 Deployment Checklist for Heroku</a> и <a href="https://thorstenball.com/blog/2014/11/20/unicorn-unix-magic-tricks/">Unicorn Unix Magic Tricks</a></li>
+  <li><a href="https://medium.com/@gauravbasti2006/microservices-in-ruby-4888d757b35b">Small Is Big - Architecting microservices with Sinatra and RabbitMq</a>, <a href="http://www.rubypigeon.com/posts/refactoring-inheritance-composition-data/">Refactoring From Inheritance To Composition To Data</a>, <a href="https://medium.com/@joshsaintjacque/ruby-the-strategy-pattern-16c98b99b373">Ruby &amp; The Strategy Pattern</a> и <a href="https://revs.runtime-revolution.com/value-objects-in-ruby-on-rails-9df64bc8db34">Value Objects in Ruby on Rails</a></li>
+  <li><a href="https://blog.redpanthers.co/odyssey-in-rails/">Readability of text using odyssey</a>, <a href="http://www.blackbytes.info/2017/06/costs-of-metaprogramming/">The Hidden Costs of Metaprogramming</a> и <a href="http://railscasts.com/announcements/13">RailsCasts Pro episodes are now free</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae">Why Angular 2/4 Is Too Little, Too Late</a>, <a href="https://redditblog.com/2017/06/30/why-we-chose-typescript/">Why We Chose Typescript</a> и <a href="https://performancejs.com/post/hde6d32/The-Best-List-of-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer)">The Best Frontend JavaScript Interview Questions</a></li>
+  <li><a href="https://sgom.es/posts/2017-06-30-ecmascript-module-loading-can-we-unbundle-yet/">Browser module loading - can we stop bundling yet?</a>, <a href="https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764">React, Relay and GraphQL: Under the Hood of the Times Website Redesign</a> и <a href="https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/">Under the hood: ReactJS</a></li>
+  <li><a href="https://akveo.github.io/react-native-ui-kitten/">React Native UI Kitten</a>, <a href="https://css-tricks.com/stickybits-alternative-position-sticky-polyfills/">Stickybits: an alternative to ‘position: sticky’ polyfills</a>, <a href="https://maxart2501.github.io/share-this/">Share-this: Medium-like text sharing</a> и <a href="https://github.com/siddharthkp/bundlesize">Bundlesize - keep your bundle size in check</a></li>
+</ul>
+
+<h2 id="anton-davydov">В гостях - Anton Davydov</h2>
+
+<ul>
+  <li><a href="http://davydovanton.com/">Site</a></li>
+  <li><a href="http://blog.davydovanton.com/">Blog</a></li>
+  <li><a href="https://github.com/davydovanton">Github</a></li>
+  <li><a href="https://twitter.com/anton_davydov">Twitter</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://www.facebook.com/events/1806051456322921/">Ruby Meditation #16</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2017/6/26/Rails-5-1-2-has-been-released/">Rails 5.1.2 has been released</a>, <a href="http://www.akitaonrails.com/2017/06/28/rails-5-1-heroku-deployment-checklist-for-heroku">Rails 5.1 Deployment Checklist for Heroku</a> и <a href="https://thorstenball.com/blog/2014/11/20/unicorn-unix-magic-tricks/">Unicorn Unix Magic Tricks</a></li>
+  <li><a href="https://medium.com/@gauravbasti2006/microservices-in-ruby-4888d757b35b">Small Is Big - Architecting microservices with Sinatra and RabbitMq</a>, <a href="http://www.rubypigeon.com/posts/refactoring-inheritance-composition-data/">Refactoring From Inheritance To Composition To Data</a>, <a href="https://medium.com/@joshsaintjacque/ruby-the-strategy-pattern-16c98b99b373">Ruby &amp; The Strategy Pattern</a> и <a href="https://revs.runtime-revolution.com/value-objects-in-ruby-on-rails-9df64bc8db34">Value Objects in Ruby on Rails</a></li>
+  <li><a href="https://blog.redpanthers.co/odyssey-in-rails/">Readability of text using odyssey</a>, <a href="http://www.blackbytes.info/2017/06/costs-of-metaprogramming/">The Hidden Costs of Metaprogramming</a> и <a href="http://railscasts.com/announcements/13">RailsCasts Pro episodes are now free</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae">Why Angular 2/4 Is Too Little, Too Late</a>, <a href="https://redditblog.com/2017/06/30/why-we-chose-typescript/">Why We Chose Typescript</a> и <a href="https://performancejs.com/post/hde6d32/The-Best-List-of-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer)">The Best Frontend JavaScript Interview Questions</a></li>
+  <li><a href="https://sgom.es/posts/2017-06-30-ecmascript-module-loading-can-we-unbundle-yet/">Browser module loading - can we stop bundling yet?</a>, <a href="https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764">React, Relay and GraphQL: Under the Hood of the Times Website Redesign</a> и <a href="https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/">Under the hood: ReactJS</a></li>
+  <li><a href="https://akveo.github.io/react-native-ui-kitten/">React Native UI Kitten</a>, <a href="https://css-tricks.com/stickybits-alternative-position-sticky-polyfills/">Stickybits: an alternative to ‘position: sticky’ polyfills</a>, <a href="https://maxart2501.github.io/share-this/">Share-this: Medium-like text sharing</a> и <a href="https://github.com/siddharthkp/bundlesize">Bundlesize - keep your bundle size in check</a></li>
+</ul>
+
+<h2 id="anton-davydov">В гостях - Anton Davydov</h2>
+
+<ul>
+  <li><a href="http://davydovanton.com/">Site</a></li>
+  <li><a href="http://blog.davydovanton.com/">Blog</a></li>
+  <li><a href="https://github.com/davydovanton">Github</a></li>
+  <li><a href="https://twitter.com/anton_davydov">Twitter</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://www.facebook.com/events/1806051456322921/">Ruby Meditation #16</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 03 Jul 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/07/03/podcast-05-26.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/07/03/podcast-05-26.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0526.mp3" length="101239386" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0526.mp3" fileSize="101239386" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.1.2 has been released, Rails 5.1 Deplo...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.1.2 has been released, Rails 5.1 Deployment Checklist for Heroku и Unicorn Unix Magic Tricks
+
+  
+Small Is Big - Architecting microservices with Sinatra and RabbitMq, Refactoring From Inheritance To Composition To Data, Ruby &amp; The Strategy Pattern и Value Objects in Ruby on Rails
+
+  
+Readability of text using odyssey, The Hidden Costs of Metaprogramming и RailsCasts Pro episodes are now free
+
+
+
+JavaScript
+
+
+  
+Why Angular 2/4 Is Too Little, Too Late, Why We Chose Typescript и The Best Frontend JavaScript Interview Questions
+
+  
+Browser module loading - can we stop bundling yet?, React, Relay and GraphQL: Under the Hood of the Times Website Redesign и Under the hood: ReactJS
+
+  
+React Native UI Kitten, Stickybits: an alternative to ‘position: sticky’ polyfills, Share-this: Medium-like text sharing и Bundlesize - keep your bundle size in check
+
+
+
+В гостях - Anton Davydov
+
+
+  Site
+  Blog
+  Github
+  Twitter
+
+
+Conferences
+
+
+  Ruby Meditation #16
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0526.png"/>
+  <itunes:duration>01:45:26</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>25 выпуск 05 сезона. Upgrading shopify to rails 5, Webpack 3, Service Worker gotchas, Rufo, Bojler, Sonar и прочее</title>
   <description>
@@ -3857,100 +3996,6 @@ React-game-kit - make games with React &amp; React Native, Reframe.js - a javasc
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0436.png"/>
   <itunes:duration>00:39:15</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>35 выпуск 04 сезона. Five Rails Gotchas, Vim 8.0, Quill 1.0, Node.js Best Practices, Awesome Grid, Radiobox.css и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.atdot.net/~ko1/activities/2016_rubykaigi.pdf">A proposal of new concurrency model for Ruby 3 by Koichi Sasada</a>, <a href="https://hqc.io/2016/09/07/five-rails-gotchas.html">Five Rails Gotchas</a> и <a href="https://groups.google.com/forum/?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=breaking-news!-reliznulsya-vim-8.0!-https#!topic/vim_announce/EKTuhjF3ET0">Vim 8.0 released</a></li>
-  <li><a href="https://www.codementor.io/ruby-on-rails/tutorial/rubys-swiss-army-knife-the-enumerable-module">Ruby’s Swiss Army Knife: The Enumerable Module</a>, <a href="http://blog.iempire.ru/2016/09/05/rails-obstractions/">When abstraction is a mistake: ActionController::TestCase</a> и <a href="http://waiting-for-dev.github.io/blog/2016/09/07/ruby-gems-could-harm-your-memory/">Ruby Gems Could Harm Your Memory</a></li>
-  <li><a href="https://medium.com/software-sandwich/how-elixir-helped-us-to-scale-our-video-user-profile-service-for-the-olympics-dd7fbba1ad4e">How Elixir helped us scale our Video User Profile Service for the Olympics</a>, <a href="https://medium.com/little-programming-joys/unique-partial-indexes-with-postgresql-86e137905c12">Unique partial indexes with PostgreSQL</a> и <a href="https://github.com/mz026/sneakers_exponential_retry">Sneakers Exponential Retry Handler</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/community/v5-to-v7/">Farewell to Node.js v5, Preparing for v7</a>, <a href="https://quilljs.com/blog/announcing-quill-1-0/">Announcing Quill 1.0</a> и <a href="http://www.kevinold.com/2016/09/05/stepping-down-as-nodevember-organizer.html">Stepping down as Nodevember organizer</a></li>
-  <li><a href="https://www.codementor.io/nodejs/tutorial/nodejs-best-practices">Node.js Best Practices</a>, <a href="https://medium.com/javascript-refined/nan-and-typeof-36cd6e2a4e43">NaN and typeof</a> и <a href="http://ohshitgit.com/">Oh shit, git!</a></li>
-  <li><a href="https://github.com/FancyGrid/awesome-grid">Awesome Grid - a curated list of grid(table) libraries and resources</a>, <a href="https://github.com/franciscop/cookies.js">Cookies.js - super simple cookie manipulation</a> и <a href="https://720kb.github.io/radiobox.css/">Radiobox.css - a tiny set of CSS3 animations designed for your radio inputs</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.atdot.net/~ko1/activities/2016_rubykaigi.pdf">A proposal of new concurrency model for Ruby 3 by Koichi Sasada</a>, <a href="https://hqc.io/2016/09/07/five-rails-gotchas.html">Five Rails Gotchas</a> и <a href="https://groups.google.com/forum/?utm_source=twitter.com&amp;utm_medium=social&amp;utm_campaign=breaking-news!-reliznulsya-vim-8.0!-https#!topic/vim_announce/EKTuhjF3ET0">Vim 8.0 released</a></li>
-  <li><a href="https://www.codementor.io/ruby-on-rails/tutorial/rubys-swiss-army-knife-the-enumerable-module">Ruby’s Swiss Army Knife: The Enumerable Module</a>, <a href="http://blog.iempire.ru/2016/09/05/rails-obstractions/">When abstraction is a mistake: ActionController::TestCase</a> и <a href="http://waiting-for-dev.github.io/blog/2016/09/07/ruby-gems-could-harm-your-memory/">Ruby Gems Could Harm Your Memory</a></li>
-  <li><a href="https://medium.com/software-sandwich/how-elixir-helped-us-to-scale-our-video-user-profile-service-for-the-olympics-dd7fbba1ad4e">How Elixir helped us scale our Video User Profile Service for the Olympics</a>, <a href="https://medium.com/little-programming-joys/unique-partial-indexes-with-postgresql-86e137905c12">Unique partial indexes with PostgreSQL</a> и <a href="https://github.com/mz026/sneakers_exponential_retry">Sneakers Exponential Retry Handler</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/community/v5-to-v7/">Farewell to Node.js v5, Preparing for v7</a>, <a href="https://quilljs.com/blog/announcing-quill-1-0/">Announcing Quill 1.0</a> и <a href="http://www.kevinold.com/2016/09/05/stepping-down-as-nodevember-organizer.html">Stepping down as Nodevember organizer</a></li>
-  <li><a href="https://www.codementor.io/nodejs/tutorial/nodejs-best-practices">Node.js Best Practices</a>, <a href="https://medium.com/javascript-refined/nan-and-typeof-36cd6e2a4e43">NaN and typeof</a> и <a href="http://ohshitgit.com/">Oh shit, git!</a></li>
-  <li><a href="https://github.com/FancyGrid/awesome-grid">Awesome Grid - a curated list of grid(table) libraries and resources</a>, <a href="https://github.com/franciscop/cookies.js">Cookies.js - super simple cookie manipulation</a> и <a href="https://720kb.github.io/radiobox.css/">Radiobox.css - a tiny set of CSS3 animations designed for your radio inputs</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 13 Sep 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/09/13/podcast-04-35.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/09/13/podcast-04-35.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0435.mp3" length="35256869" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0435.mp3" fileSize="35256869" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  A proposal of new concurrency model for Ruby 3...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-A proposal of new concurrency model for Ruby 3 by Koichi Sasada, Five Rails Gotchas и Vim 8.0 released
-
-  
-Ruby’s Swiss Army Knife: The Enumerable Module, When abstraction is a mistake: ActionController::TestCase и Ruby Gems Could Harm Your Memory
-
-  
-How Elixir helped us scale our Video User Profile Service for the Olympics, Unique partial indexes with PostgreSQL и Sneakers Exponential Retry Handler
-
-
-
-JavaScript
-
-
-  
-Farewell to Node.js v5, Preparing for v7, Announcing Quill 1.0 и Stepping down as Nodevember organizer
-
-  
-Node.js Best Practices, NaN and typeof и Oh shit, git!
-
-  
-Awesome Grid - a curated list of grid(table) libraries and resources, Cookies.js - super simple cookie manipulation и Radiobox.css - a tiny set of CSS3 animations designed for your radio inputs
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0435.png"/>
-  <itunes:duration>00:36:37</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
