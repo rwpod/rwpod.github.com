@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 03 Jul 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 03 Jul 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 10 Jul 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>27 выпуск 05 сезона. Upload Solution for Rails 5.2 (ActiveStorage), Real World Rails Background Jobs, Gatsby, Rebass и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://www.akitaonrails.com/2017/07/07/upcoming-built-in-upload-solution-for-rails-5-2-activestorage">Upcoming built-in Upload Solution for Rails 5.2 (ActiveStorage)</a>, <a href="https://drivy.engineering/running-capybara-headless-chrome/">Running feature specs with Capybara and Chrome headless</a> и <a href="https://medium.com/kkempin/preventing-security-issues-in-ruby-on-rails-based-on-owasp-cheatsheet-2fbca18b6a85">Preventing security issues in Ruby on Rails (based on OWASP cheatsheet)</a></li>
+  <li><a href="https://www.eliotsykes.com/real-world-rails-background-jobs">Real World Rails Background Jobs</a>, <a href="http://blog.arkency.com/2017/07/using-influxdb-with-ruby/">Using influxdb with ruby</a>, <a href="https://dlet.me/avoiding-nomethoderror-for-nil-in-ruby-9ce0f3fd0e30">Avoiding “NoMethodError” for nil in Ruby</a> и <a href="https://www.driftingruby.com/episodes/virtual-columns-in-mysql">Virtual Columns in MySQL (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://m.oursky.com/how-we-restructured-our-app-with-react-navigation-98a89e219c26">How we restructured our app with React Navigation</a>, <a href="https://medium.com/@interdigitize/5-debugging-tools-every-javascript-programmer-should-know-and-use-38575141689c">5 Debugging Tools Every JavaScript Programmer Should Know and Use</a> и <a href="https://www.alexkras.com/my-history-with-web-development-or-javascript-fatigue/">JavaScript Fatigue or My History with Web Development</a></li>
+  <li><a href="https://medium.com/level-up-web/best-css-books-in-2017-3cec8466cc3f">Best CSS Books In 2017</a>, <a href="https://www.gatsbyjs.org/">Gatsby - blazing fast static site generator for React</a>, <a href="http://jxnblk.com/rebass/">Rebass - functional React UI component library, built with styled-components</a> и <a href="https://github.com/nitin42/terminal-in-react">Terminal in React</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://www.akitaonrails.com/2017/07/07/upcoming-built-in-upload-solution-for-rails-5-2-activestorage">Upcoming built-in Upload Solution for Rails 5.2 (ActiveStorage)</a>, <a href="https://drivy.engineering/running-capybara-headless-chrome/">Running feature specs with Capybara and Chrome headless</a> и <a href="https://medium.com/kkempin/preventing-security-issues-in-ruby-on-rails-based-on-owasp-cheatsheet-2fbca18b6a85">Preventing security issues in Ruby on Rails (based on OWASP cheatsheet)</a></li>
+  <li><a href="https://www.eliotsykes.com/real-world-rails-background-jobs">Real World Rails Background Jobs</a>, <a href="http://blog.arkency.com/2017/07/using-influxdb-with-ruby/">Using influxdb with ruby</a>, <a href="https://dlet.me/avoiding-nomethoderror-for-nil-in-ruby-9ce0f3fd0e30">Avoiding “NoMethodError” for nil in Ruby</a> и <a href="https://www.driftingruby.com/episodes/virtual-columns-in-mysql">Virtual Columns in MySQL (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://m.oursky.com/how-we-restructured-our-app-with-react-navigation-98a89e219c26">How we restructured our app with React Navigation</a>, <a href="https://medium.com/@interdigitize/5-debugging-tools-every-javascript-programmer-should-know-and-use-38575141689c">5 Debugging Tools Every JavaScript Programmer Should Know and Use</a> и <a href="https://www.alexkras.com/my-history-with-web-development-or-javascript-fatigue/">JavaScript Fatigue or My History with Web Development</a></li>
+  <li><a href="https://medium.com/level-up-web/best-css-books-in-2017-3cec8466cc3f">Best CSS Books In 2017</a>, <a href="https://www.gatsbyjs.org/">Gatsby - blazing fast static site generator for React</a>, <a href="http://jxnblk.com/rebass/">Rebass - functional React UI component library, built with styled-components</a> и <a href="https://github.com/nitin42/terminal-in-react">Terminal in React</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 10 Jul 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/07/10/podcast-05-27.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/07/10/podcast-05-27.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0527.mp3" length="28844198" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0527.mp3" fileSize="28844198" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Upcoming built-in Upload Solution for Rails 5....</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Upcoming built-in Upload Solution for Rails 5.2 (ActiveStorage), Running feature specs with Capybara and Chrome headless и Preventing security issues in Ruby on Rails (based on OWASP cheatsheet)
+
+  
+Real World Rails Background Jobs, Using influxdb with ruby, Avoiding “NoMethodError” for nil in Ruby и Virtual Columns in MySQL (video)
+
+
+
+JavaScript
+
+
+  
+How we restructured our app with React Navigation, 5 Debugging Tools Every JavaScript Programmer Should Know and Use и JavaScript Fatigue or My History with Web Development
+
+  
+Best CSS Books In 2017, Gatsby - blazing fast static site generator for React, Rebass - functional React UI component library, built with styled-components и Terminal in React
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0527.png"/>
+  <itunes:duration>00:30:01</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>26 выпуск 05 сезона. Rails 5.1.2, Unicorn Unix Magic Tricks, Small Is Big, Browser module loading, React Native UI Kitten и прочее</title>
   <description>
@@ -3902,100 +3986,6 @@ Why We Won’t Be Writing JavaScript in Five Years, You Might Not Need Redux и 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0437.png"/>
   <itunes:duration>01:00:31</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>36 выпуск 04 сезона. Ruby 2.4.0-preview2, Angular 2.0.0, N+1 is a Rails feature, OpenType Variable Fonts, Reframe.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/09/08/ruby-2-4-0-preview2-released/">Ruby 2.4.0-preview2 Released</a>, <a href="http://dev.mensfeld.pl/2016/09/ruby-hash-default-value-be-cautious-when-you-use-it/">Ruby: Hash default value – be cautious when you use it</a> и <a href="http://www.rubypigeon.com/posts/raise-on-developer-mistake/">Raise On Developer Mistake</a></li>
-  <li><a href="https://buildtoship.com/devicetoken-and-turbolinks-ios/">DeviceToken and turbolinks-ios</a>, <a href="https://rossta.net/blog/n+1-is-a-rails-feature.html">N+1 is a Rails feature, not a bug</a> и <a href="https://www.twilio.com/blog/2016/09/send-sms-messages-like-emails-in-rails-with-textris.html">Send SMS messages like emails in Rails with Textris</a></li>
-  <li><a href="https://github.com/mperham/sidekiq/blob/master/Changes.md#421">Sidekiq 4.2.1</a>, <a href="https://github.com/github/graphql-client">Graphql-Client - GraphQL Client is a Ruby library for declaring, composing and executing GraphQL queries</a>, <a href="https://swift.org/blog/swift-3-0-released/">Swift 3.0 Released</a> и <a href="http://vapor.codes/">Vapor - a web framework and server for Swift that works on macOS and Ubuntu</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://angularjs.blogspot.com/2016/09/angular2-final.html">Angular 2.0.0 officially released</a>, <a href="http://developer.telerik.com/featured/you-have-seriously-underestimated-angular/">We Have Seriously Underestimated Angular</a>, <a href="https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18">Dependency Injection in Angular 1 and Angular 2</a> и <a href="https://hacks.mozilla.org/2016/09/introducing-debugger-html/">Introducing debugger.html</a></li>
-  <li><a href="https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/">Three JavaScript performance fundamentals that make Bluebird fast</a>, <a href="https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369">Introducing OpenType Variable Fonts</a> и <a href="https://css-tricks.com/nerds-guide-color-web/">A Nerd’s Guide to Color on the Web</a></li>
-  <li><a href="https://github.com/FormidableLabs/react-game-kit">React-game-kit - make games with React &amp; React Native</a>, <a href="https://dollarshaveclub.github.io/reframe.js/">Reframe.js - a javascript plugin that makes unresponsive elements responsive</a>, <a href="http://www.graphicsjs.org/">GraphicsJS - a lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology</a> и <a href="https://www.youtube.com/watch?v=QHs55-5FzgA">Dmitry Baranovskiy: Zen of JavaScript (video)</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/09/08/ruby-2-4-0-preview2-released/">Ruby 2.4.0-preview2 Released</a>, <a href="http://dev.mensfeld.pl/2016/09/ruby-hash-default-value-be-cautious-when-you-use-it/">Ruby: Hash default value – be cautious when you use it</a> и <a href="http://www.rubypigeon.com/posts/raise-on-developer-mistake/">Raise On Developer Mistake</a></li>
-  <li><a href="https://buildtoship.com/devicetoken-and-turbolinks-ios/">DeviceToken and turbolinks-ios</a>, <a href="https://rossta.net/blog/n+1-is-a-rails-feature.html">N+1 is a Rails feature, not a bug</a> и <a href="https://www.twilio.com/blog/2016/09/send-sms-messages-like-emails-in-rails-with-textris.html">Send SMS messages like emails in Rails with Textris</a></li>
-  <li><a href="https://github.com/mperham/sidekiq/blob/master/Changes.md#421">Sidekiq 4.2.1</a>, <a href="https://github.com/github/graphql-client">Graphql-Client - GraphQL Client is a Ruby library for declaring, composing and executing GraphQL queries</a>, <a href="https://swift.org/blog/swift-3-0-released/">Swift 3.0 Released</a> и <a href="http://vapor.codes/">Vapor - a web framework and server for Swift that works on macOS and Ubuntu</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://angularjs.blogspot.com/2016/09/angular2-final.html">Angular 2.0.0 officially released</a>, <a href="http://developer.telerik.com/featured/you-have-seriously-underestimated-angular/">We Have Seriously Underestimated Angular</a>, <a href="https://vsavkin.com/dependency-injection-in-angular-1-and-angular-2-d69589979c18">Dependency Injection in Angular 1 and Angular 2</a> и <a href="https://hacks.mozilla.org/2016/09/introducing-debugger-html/">Introducing debugger.html</a></li>
-  <li><a href="https://reaktor.com/blog/javascript-performance-fundamentals-make-bluebird-fast/">Three JavaScript performance fundamentals that make Bluebird fast</a>, <a href="https://medium.com/@tiro/https-medium-com-tiro-introducing-opentype-variable-fonts-12ba6cd2369">Introducing OpenType Variable Fonts</a> и <a href="https://css-tricks.com/nerds-guide-color-web/">A Nerd’s Guide to Color on the Web</a></li>
-  <li><a href="https://github.com/FormidableLabs/react-game-kit">React-game-kit - make games with React &amp; React Native</a>, <a href="https://dollarshaveclub.github.io/reframe.js/">Reframe.js - a javascript plugin that makes unresponsive elements responsive</a>, <a href="http://www.graphicsjs.org/">GraphicsJS - a lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology</a> и <a href="https://www.youtube.com/watch?v=QHs55-5FzgA">Dmitry Baranovskiy: Zen of JavaScript (video)</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 20 Sep 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/09/20/podcast-04-36.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/09/20/podcast-04-36.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0436.mp3" length="37776907" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0436.mp3" fileSize="37776907" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.4.0-preview2 Released, Ruby: Hash defau...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.4.0-preview2 Released, Ruby: Hash default value – be cautious when you use it и Raise On Developer Mistake
-
-  
-DeviceToken and turbolinks-ios, N+1 is a Rails feature, not a bug и Send SMS messages like emails in Rails with Textris
-
-  
-Sidekiq 4.2.1, Graphql-Client - GraphQL Client is a Ruby library for declaring, composing and executing GraphQL queries, Swift 3.0 Released и Vapor - a web framework and server for Swift that works on macOS and Ubuntu
-
-
-
-JavaScript
-
-
-  
-Angular 2.0.0 officially released, We Have Seriously Underestimated Angular, Dependency Injection in Angular 1 and Angular 2 и Introducing debugger.html
-
-  
-Three JavaScript performance fundamentals that make Bluebird fast, Introducing OpenType Variable Fonts и A Nerd’s Guide to Color on the Web
-
-  
-React-game-kit - make games with React &amp; React Native, Reframe.js - a javascript plugin that makes unresponsive elements responsive, GraphicsJS - a lightweight JavaScript graphics library with the intuitive API, based on SVG/VML technology и Dmitry Baranovskiy: Zen of JavaScript (video)
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0436.png"/>
-  <itunes:duration>00:39:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
