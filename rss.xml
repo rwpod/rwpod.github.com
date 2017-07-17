@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 10 Jul 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 10 Jul 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 17 Jul 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 17 Jul 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,111 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>28 выпуск 05 сезона. Is Ruby Too Slow For Web-Scale?, Redis 4.0 GA, NodeJS: Constant HashTable Seeds Vulnerability и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.speedshop.co/2017/07/11/is-ruby-too-slow-for-web-scale.html">Is Ruby Too Slow For Web-Scale?</a>, <a href="https://philna.sh/blog/2017/07/12/two-tests-you-should-run-against-your-ruby-project-now/">Two tests you should run against your Ruby project now</a> и <a href="https://groups.google.com/forum/#!msg/redis-db/5Kh3viziYGQ/58TKLwX0AAAJ">Redis 4.0 GA is out</a></li>
+  <li><a href="https://medium.com/@kirill_shevch/lint-your-ruby-code-with-overcommit-and-static-analysis-tools-bd36d3147d2e">Lint your Ruby code with Overcommit and static analysis tools</a>, <a href="http://www.blackbytes.info/2017/07/ruby-constants/">Everything You Need to Know About Ruby Constants</a>, <a href="http://rubyblog.pro/2017/07/implementing-inheritance-with-params">Implementing inheritance with params: CreateProducts &lt; ActiveRecord::Migration[5.0]</a> и <a href="https://dev.to/dstull/my-sins-against-webpackeryarn-and-compiled-rails-assets">My sins against Webpacker/Yarn and compiled Rails assets</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/@ahmadbamieh/nodejs-constant-hashtables-seeds-vulnerability-f03bf70e3593">NodeJS: Constant HashTable Seeds Vulnerability</a>, <a href="https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82">High Performance React: 3 New Tools to Speed Up Your Apps</a>, <a href="https://medium.com/@tkh44/emotion-ad1c45c6d28b">Emotion - the Next Generation of CSS-in-JS</a> и <a href="https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b">Reducing CSS bundle size 70% by cutting the class names and using scope isolation</a></li>
+  <li><a href="https://medium.com/@tahnik.mstsn/react-or-vue-its-not-a-debate-it-s-a-preference-ec552da3504f">React or Vue — It’s not a debate, It’s a preference</a>, <a href="https://medium.com/@charpeni/5-things-you-should-know-about-es8-e4ccd955d883">5 Things You Should Know About ES8</a> и <a href="https://jaredreich.com/pell">Pell - the simplest and smallest WYSIWYG text editor for web, with no dependencies</a></li>
+</ul>
+
+<h2 id="olya-burlaka">В гостях - Olya Burlaka</h2>
+
+<ul>
+  <li><a href="https://github.com/scarlet1986">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/olga-burlaka-a13920101/">Linked</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.speedshop.co/2017/07/11/is-ruby-too-slow-for-web-scale.html">Is Ruby Too Slow For Web-Scale?</a>, <a href="https://philna.sh/blog/2017/07/12/two-tests-you-should-run-against-your-ruby-project-now/">Two tests you should run against your Ruby project now</a> и <a href="https://groups.google.com/forum/#!msg/redis-db/5Kh3viziYGQ/58TKLwX0AAAJ">Redis 4.0 GA is out</a></li>
+  <li><a href="https://medium.com/@kirill_shevch/lint-your-ruby-code-with-overcommit-and-static-analysis-tools-bd36d3147d2e">Lint your Ruby code with Overcommit and static analysis tools</a>, <a href="http://www.blackbytes.info/2017/07/ruby-constants/">Everything You Need to Know About Ruby Constants</a>, <a href="http://rubyblog.pro/2017/07/implementing-inheritance-with-params">Implementing inheritance with params: CreateProducts &lt; ActiveRecord::Migration[5.0]</a> и <a href="https://dev.to/dstull/my-sins-against-webpackeryarn-and-compiled-rails-assets">My sins against Webpacker/Yarn and compiled Rails assets</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/@ahmadbamieh/nodejs-constant-hashtables-seeds-vulnerability-f03bf70e3593">NodeJS: Constant HashTable Seeds Vulnerability</a>, <a href="https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82">High Performance React: 3 New Tools to Speed Up Your Apps</a>, <a href="https://medium.com/@tkh44/emotion-ad1c45c6d28b">Emotion - the Next Generation of CSS-in-JS</a> и <a href="https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b">Reducing CSS bundle size 70% by cutting the class names and using scope isolation</a></li>
+  <li><a href="https://medium.com/@tahnik.mstsn/react-or-vue-its-not-a-debate-it-s-a-preference-ec552da3504f">React or Vue — It’s not a debate, It’s a preference</a>, <a href="https://medium.com/@charpeni/5-things-you-should-know-about-es8-e4ccd955d883">5 Things You Should Know About ES8</a> и <a href="https://jaredreich.com/pell">Pell - the simplest and smallest WYSIWYG text editor for web, with no dependencies</a></li>
+</ul>
+
+<h2 id="olya-burlaka">В гостях - Olya Burlaka</h2>
+
+<ul>
+  <li><a href="https://github.com/scarlet1986">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/olga-burlaka-a13920101/">Linked</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 17 Jul 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/07/17/podcast-05-28.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/07/17/podcast-05-28.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0528.mp3" length="68981240" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0528.mp3" fileSize="68981240" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Is Ruby Too Slow For Web-Scale?, Two tests you...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Is Ruby Too Slow For Web-Scale?, Two tests you should run against your Ruby project now и Redis 4.0 GA is out
+
+  
+Lint your Ruby code with Overcommit and static analysis tools, Everything You Need to Know About Ruby Constants, Implementing inheritance with params: CreateProducts &lt; ActiveRecord::Migration[5.0] и My sins against Webpacker/Yarn and compiled Rails assets
+
+
+
+JavaScript
+
+
+  
+NodeJS: Constant HashTable Seeds Vulnerability, High Performance React: 3 New Tools to Speed Up Your Apps, Emotion - the Next Generation of CSS-in-JS и Reducing CSS bundle size 70% by cutting the class names and using scope isolation
+
+  
+React or Vue — It’s not a debate, It’s a preference, 5 Things You Should Know About ES8 и Pell - the simplest and smallest WYSIWYG text editor for web, with no dependencies
+
+
+
+В гостях - Olya Burlaka
+
+
+  Github
+  Linked
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0528.png"/>
+  <itunes:duration>01:11:49</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>27 выпуск 05 сезона. Upload Solution for Rails 5.2 (ActiveStorage), Real World Rails Background Jobs, Gatsby, Rebass и прочее</title>
   <description>
@@ -3891,101 +3996,6 @@ Codebase Overview, Node.js debugging with Chrome DevTools (in parallel with brow
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0438.png"/>
   <itunes:duration>00:21:05</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>37 выпуск 04 сезона. Euruko 2016, Homebrew 1.0.0, TypeScript 2.0, Introduction to Big Data, You Might Not Need Redux и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://euruko2016.org/">Euruko 2016</a> и <a href="http://brew.sh/2016/09/21/homebrew-1.0.0/">Homebrew 1.0.0</a></li>
-  <li><a href="http://www.blackbytes.info/2016/09/object-space/">What’s Happening in Your Ruby Application?</a>, <a href="http://gavinmiller.io/2016/the-safesty-way-to-constantize/">The Safest Way to Constantize</a> и <a href="https://www.promptworks.com/blog/delegation-with-basicobject">Delegation with BasicObject</a></li>
-  <li><a href="http://thomasleecopeland.com/2016/09/20/programs-that-rewrite-ruby-programs.html">Programs that rewrite Ruby programs</a>, <a href="https://blog.rebased.pl/2016/09/20/5-rules-of-writing-tests.html">5 Rules of Writing Tests</a> и <a href="http://haifengl.github.io/bigdata/">Introduction to Big Data (free book)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/">TypeScript 2.0 released</a>, <a href="http://frontendinsights.com/angular-2-released-threaten-react/">Angular 2 has been released! Does this threaten React?</a> и <a href="https://www.codementor.io/angularjs/tutorial/migrating-from-angular-1-to-angular-2">Migrating from Angular 1.x to Angular 2: Upgrade Strategies</a></li>
-  <li><a href="https://medium.com/thoughts-from-travelperk/why-we-wont-be-writing-javascript-in-five-years-f48b3274c327">Why We Won’t Be Writing JavaScript in Five Years</a>, <a href="https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367">You Might Not Need Redux</a> и <a href="https://medium.com/@MischaAndrews/developers-get-started-with-web-accessibility-91bd67dea777">Developers: get started with web accessibility</a></li>
-  <li><a href="http://designmodo.com/7-things-javascript/">7 Things You May Not Know in JavaScript</a>, <a href="https://blog.avocode.com/blog/4-must-know-tips-for-building-cross-platform-electron-apps">4 must-know tips for building cross platform Electron apps</a>, <a href="http://rwhitmire.com/react-routify/">React Routify - routing to React applications</a> и <a href="https://www.youtube.com/watch?v=krmBaPUuhyM">HTTP/2 What, where, why and when?! (video)</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://euruko2016.org/">Euruko 2016</a> и <a href="http://brew.sh/2016/09/21/homebrew-1.0.0/">Homebrew 1.0.0</a></li>
-  <li><a href="http://www.blackbytes.info/2016/09/object-space/">What’s Happening in Your Ruby Application?</a>, <a href="http://gavinmiller.io/2016/the-safesty-way-to-constantize/">The Safest Way to Constantize</a> и <a href="https://www.promptworks.com/blog/delegation-with-basicobject">Delegation with BasicObject</a></li>
-  <li><a href="http://thomasleecopeland.com/2016/09/20/programs-that-rewrite-ruby-programs.html">Programs that rewrite Ruby programs</a>, <a href="https://blog.rebased.pl/2016/09/20/5-rules-of-writing-tests.html">5 Rules of Writing Tests</a> и <a href="http://haifengl.github.io/bigdata/">Introduction to Big Data (free book)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2016/09/22/announcing-typescript-2-0/">TypeScript 2.0 released</a>, <a href="http://frontendinsights.com/angular-2-released-threaten-react/">Angular 2 has been released! Does this threaten React?</a> и <a href="https://www.codementor.io/angularjs/tutorial/migrating-from-angular-1-to-angular-2">Migrating from Angular 1.x to Angular 2: Upgrade Strategies</a></li>
-  <li><a href="https://medium.com/thoughts-from-travelperk/why-we-wont-be-writing-javascript-in-five-years-f48b3274c327">Why We Won’t Be Writing JavaScript in Five Years</a>, <a href="https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367">You Might Not Need Redux</a> и <a href="https://medium.com/@MischaAndrews/developers-get-started-with-web-accessibility-91bd67dea777">Developers: get started with web accessibility</a></li>
-  <li><a href="http://designmodo.com/7-things-javascript/">7 Things You May Not Know in JavaScript</a>, <a href="https://blog.avocode.com/blog/4-must-know-tips-for-building-cross-platform-electron-apps">4 must-know tips for building cross platform Electron apps</a>, <a href="http://rwhitmire.com/react-routify/">React Routify - routing to React applications</a> и <a href="https://www.youtube.com/watch?v=krmBaPUuhyM">HTTP/2 What, where, why and when?! (video)</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 27 Sep 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/09/27/podcast-04-37.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/09/27/podcast-04-37.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0437.mp3" length="58192280" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0437.mp3" fileSize="58192280" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Euruko 2016 и Homebrew 1.0.0
-  What’s Happenin...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Euruko 2016 и Homebrew 1.0.0
-
-  
-What’s Happening in Your Ruby Application?, The Safest Way to Constantize и Delegation with BasicObject
-
-  
-Programs that rewrite Ruby programs, 5 Rules of Writing Tests и Introduction to Big Data (free book)
-
-
-
-JavaScript
-
-
-  
-TypeScript 2.0 released, Angular 2 has been released! Does this threaten React? и Migrating from Angular 1.x to Angular 2: Upgrade Strategies
-
-  
-Why We Won’t Be Writing JavaScript in Five Years, You Might Not Need Redux и Developers: get started with web accessibility
-
-  
-7 Things You May Not Know in JavaScript, 4 must-know tips for building cross platform Electron apps, React Routify - routing to React applications и HTTP/2 What, where, why and when?! (video)
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0437.png"/>
-  <itunes:duration>01:00:31</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
