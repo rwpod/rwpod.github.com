@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 24 Jul 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 24 Jul 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 31 Jul 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 31 Jul 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,121 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>30 выпуск 05 сезона. React 16 beta, Speedy JSON Endpoints with Rails, Flash &amp; The Future of Interactive Content, Fitty и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html">What’s the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery?</a> и <a href="https://www.amberbit.com/blog/2017/7/27/how-learning-elixir-made-me-better-ruby-developer/">How learning Elixr made me a better Ruby developer</a></li>
+  <li><a href="http://blog.arkency.com/2017/07/sidekiq-slow-processing-one-job-saturates-workers-rest-queue-up/">Handle sidekiq processing when one job saturates your workers and the rest queue up</a> и <a href="https://medium.com/companydev/speedy-json-endpoints-with-rails-b6130f757815">Speedy JSON Endpoints with Rails</a></li>
+  <li><a href="https://blog.codeship.com/modeling-has_many-relationships-with-dynamodb/">Modeling has_many Relationships with DynamoDB</a>, <a href="https://blog.kodius.io/2017/07/26/how-to-deactivate-user-rails-with-devise/">How to deactivate User – Rails with Devise</a> и <a href="https://github.com/jstorimer/shirt">Shirt - a simple Unix shell written in pure Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html">Flash &amp; The Future of Interactive Content</a>, <a href="https://github.com/facebook/react/issues/10294">React 16 beta</a> и <a href="https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html">Error Handling in React 16</a></li>
+  <li><a href="https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c">What you should know to really understand the Node.js Event Loop</a> и <a href="https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f">How I built a wind map with WebGL</a></li>
+  <li><a href="https://github.com/bpesquet/thejsway/#readme">The JavaScript Way (book)</a>, <a href="https://rikschennink.github.io/fitty/">Fitty - makes text fit perfectly</a> и <a href="https://github.com/smallwins/spacetime">Spacetime - a lightweight way to manipulate, traverse, compare, and format dates and times across planet Earth</a></li>
+</ul>
+
+<h2 id="oleh-perevertailo">Oleh Perevertailo</h2>
+
+<ul>
+  <li><a href="https://github.com/LegaKh">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/oleg-perevertaylo-48797393/">Linkedin</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html">What’s the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery?</a> и <a href="https://www.amberbit.com/blog/2017/7/27/how-learning-elixir-made-me-better-ruby-developer/">How learning Elixr made me a better Ruby developer</a></li>
+  <li><a href="http://blog.arkency.com/2017/07/sidekiq-slow-processing-one-job-saturates-workers-rest-queue-up/">Handle sidekiq processing when one job saturates your workers and the rest queue up</a> и <a href="https://medium.com/companydev/speedy-json-endpoints-with-rails-b6130f757815">Speedy JSON Endpoints with Rails</a></li>
+  <li><a href="https://blog.codeship.com/modeling-has_many-relationships-with-dynamodb/">Modeling has_many Relationships with DynamoDB</a>, <a href="https://blog.kodius.io/2017/07/26/how-to-deactivate-user-rails-with-devise/">How to deactivate User – Rails with Devise</a> и <a href="https://github.com/jstorimer/shirt">Shirt - a simple Unix shell written in pure Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html">Flash &amp; The Future of Interactive Content</a>, <a href="https://github.com/facebook/react/issues/10294">React 16 beta</a> и <a href="https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html">Error Handling in React 16</a></li>
+  <li><a href="https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c">What you should know to really understand the Node.js Event Loop</a> и <a href="https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f">How I built a wind map with WebGL</a></li>
+  <li><a href="https://github.com/bpesquet/thejsway/#readme">The JavaScript Way (book)</a>, <a href="https://rikschennink.github.io/fitty/">Fitty - makes text fit perfectly</a> и <a href="https://github.com/smallwins/spacetime">Spacetime - a lightweight way to manipulate, traverse, compare, and format dates and times across planet Earth</a></li>
+</ul>
+
+<h2 id="oleh-perevertailo">Oleh Perevertailo</h2>
+
+<ul>
+  <li><a href="https://github.com/LegaKh">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/oleg-perevertaylo-48797393/">Linkedin</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 31 Jul 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/07/31/podcast-05-30.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/07/31/podcast-05-30.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0530.mp3" length="58224268" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0530.mp3" fileSize="58224268" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  What’s the Difference Between Continuous Integ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+What’s the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery? и How learning Elixr made me a better Ruby developer
+
+  
+Handle sidekiq processing when one job saturates your workers and the rest queue up и Speedy JSON Endpoints with Rails
+
+  
+Modeling has_many Relationships with DynamoDB, How to deactivate User – Rails with Devise и Shirt - a simple Unix shell written in pure Ruby
+
+
+
+JavaScript
+
+
+  
+Flash &amp; The Future of Interactive Content, React 16 beta и Error Handling in React 16
+
+  
+What you should know to really understand the Node.js Event Loop и How I built a wind map with WebGL
+
+  
+The JavaScript Way (book), Fitty - makes text fit perfectly и Spacetime - a lightweight way to manipulate, traverse, compare, and format dates and times across planet Earth
+
+
+
+Oleh Perevertailo
+
+
+  Github
+  Linkedin
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0530.png"/>
+  <itunes:duration>01:00:37</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>29 выпуск 05 сезона. Monitor and Debug Bottlenecks in Sidekiq, Enclose.IO, RenderReact, Popmotion, GPU.js и прочее</title>
   <description>
@@ -3912,100 +4027,6 @@ Stupid ES6 tricks, You Might Not Need JavaScript - examples of common UI element
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0440.png"/>
   <itunes:duration>00:26:57</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>39 выпуск 04 сезона. Battle of Interpreters, React on Rails, Whirly, Hyperloop, KUTE.js, iTunes Remote и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.blackbytes.info/2016/10/mri-vs-jruby-vs-rubinius/">Battle of Interpreters: MRI vs JRuby vs Rubinius</a>, <a href="http://janjiss.com/walkthrough-of-my-vimrc-file-for-ruby-development/">Walkthrough of my .vimrc file for Ruby development</a> и <a href="http://collectiveidea.com/blog/archives/2016/10/06/bundlers-multiple-source-security-vulnerability/">Bundler’s Multiple Source Security Vulnerability</a></li>
-  <li><a href="http://www.blazeboy.me/deploy-rails-application-with-docker-compose-and-capistrano.html">Deploy rails application with docker compose and capistrano</a>, <a href="https://medium.com/@eric.programmer/the-sql-alternative-to-counter-caches-59e2098b7d7">The SQL Alternative To Counter Caches</a> и <a href="http://dalibornasevic.com/posts/72-auto-increment-counter-not-persisted-on-disk-with-innodb">Auto-increment counter not persisted on disk with InnoDB</a></li>
-  <li><a href="https://product.reverb.com/react-on-rails-9936283aea07">React on Rails</a>, <a href="http://ruby-hyperloop.io/">Hyperloop - React on Ruby</a> и <a href="https://github.com/janlelis/whirly">Whirly - a simple, colorful and customizable terminal spinner library for Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f">How it feels to learn JavaScript in 2016</a>, <a href="https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce">JavaScript Fatigue Fatigue</a>, <a href="http://www.macwright.org/2016/10/04/everything-is-fine-with-javascript.html">Everything is fine with JavaScript</a> и <a href="https://medium.com/@simonlc/javascript-fatigue-is-not-real-b1580b3bb776">JavaScript fatigue is not real</a></li>
-  <li><a href="http://v8project.blogspot.in/2016/10/fall-cleaning-optimizing-v8-memory.html">Fall cleaning: Optimizing V8 memory consumption</a>, <a href="https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9">Firebase with Redux</a> и <a href="https://rethinkdb.com/blog/rethinkdb-shutdown/">RethinkDB is shutting down</a></li>
-  <li><a href="https://webkit.org/blog/6978/javascript-internationalization-api/">JavaScript Internationalization API</a>, <a href="http://thednp.github.io/kute.js/">KUTE.js - a native Javascript animation engine featuring badass performance</a> и <a href="https://github.com/Siddharth11/iTunes-Remote">iTunes Remote - control iTunes on Mac with other devices on same network</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.blackbytes.info/2016/10/mri-vs-jruby-vs-rubinius/">Battle of Interpreters: MRI vs JRuby vs Rubinius</a>, <a href="http://janjiss.com/walkthrough-of-my-vimrc-file-for-ruby-development/">Walkthrough of my .vimrc file for Ruby development</a> и <a href="http://collectiveidea.com/blog/archives/2016/10/06/bundlers-multiple-source-security-vulnerability/">Bundler’s Multiple Source Security Vulnerability</a></li>
-  <li><a href="http://www.blazeboy.me/deploy-rails-application-with-docker-compose-and-capistrano.html">Deploy rails application with docker compose and capistrano</a>, <a href="https://medium.com/@eric.programmer/the-sql-alternative-to-counter-caches-59e2098b7d7">The SQL Alternative To Counter Caches</a> и <a href="http://dalibornasevic.com/posts/72-auto-increment-counter-not-persisted-on-disk-with-innodb">Auto-increment counter not persisted on disk with InnoDB</a></li>
-  <li><a href="https://product.reverb.com/react-on-rails-9936283aea07">React on Rails</a>, <a href="http://ruby-hyperloop.io/">Hyperloop - React on Ruby</a> и <a href="https://github.com/janlelis/whirly">Whirly - a simple, colorful and customizable terminal spinner library for Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hackernoon.com/how-it-feels-to-learn-javascript-in-2016-d3a717dd577f">How it feels to learn JavaScript in 2016</a>, <a href="https://medium.freecodecamp.com/javascript-fatigue-fatigue-66ffb619f6ce">JavaScript Fatigue Fatigue</a>, <a href="http://www.macwright.org/2016/10/04/everything-is-fine-with-javascript.html">Everything is fine with JavaScript</a> и <a href="https://medium.com/@simonlc/javascript-fatigue-is-not-real-b1580b3bb776">JavaScript fatigue is not real</a></li>
-  <li><a href="http://v8project.blogspot.in/2016/10/fall-cleaning-optimizing-v8-memory.html">Fall cleaning: Optimizing V8 memory consumption</a>, <a href="https://medium.com/@prescottprue/firebase-with-redux-82d04f8675b9">Firebase with Redux</a> и <a href="https://rethinkdb.com/blog/rethinkdb-shutdown/">RethinkDB is shutting down</a></li>
-  <li><a href="https://webkit.org/blog/6978/javascript-internationalization-api/">JavaScript Internationalization API</a>, <a href="http://thednp.github.io/kute.js/">KUTE.js - a native Javascript animation engine featuring badass performance</a> и <a href="https://github.com/Siddharth11/iTunes-Remote">iTunes Remote - control iTunes on Mac with other devices on same network</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 10 Oct 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/10/10/podcast-04-39.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/10/podcast-04-39.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0439.mp3" length="32569547" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0439.mp3" fileSize="32569547" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Battle of Interpreters: MRI vs JRuby vs Rubini...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Battle of Interpreters: MRI vs JRuby vs Rubinius, Walkthrough of my .vimrc file for Ruby development и Bundler’s Multiple Source Security Vulnerability
-
-  
-Deploy rails application with docker compose and capistrano, The SQL Alternative To Counter Caches и Auto-increment counter not persisted on disk with InnoDB
-
-  
-React on Rails, Hyperloop - React on Ruby и Whirly - a simple, colorful and customizable terminal spinner library for Ruby
-
-
-
-JavaScript
-
-
-  
-How it feels to learn JavaScript in 2016, JavaScript Fatigue Fatigue, Everything is fine with JavaScript и JavaScript fatigue is not real
-
-  
-Fall cleaning: Optimizing V8 memory consumption, Firebase with Redux и RethinkDB is shutting down
-
-  
-JavaScript Internationalization API, KUTE.js - a native Javascript animation engine featuring badass performance и iTunes Remote - control iTunes on Mac with other devices on same network
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0439.png"/>
-  <itunes:duration>00:33:49</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
