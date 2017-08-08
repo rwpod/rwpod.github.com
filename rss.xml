@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 31 Jul 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 31 Jul 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 08 Aug 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 08 Aug 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>31 выпуск 05 сезона. Rails 5.1.3, Elixir Envy ᐅ Ruby, Orchparty, Graphql-Guard, TensorFire, WTF.JS, Shoelace.css и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2017/8/3/Rails-5-1-3-released/">Rails 5.1.3 released</a>, <a href="https://blog.bigbinary.com/2017/08/01/avoid-exceptions-for-dup-on-interger-and-similar-cases.html">Avoid exception for dup on Integer</a> и <a href="http://www.akitaonrails.com/2017/08/03/why-is-it-just-lazy-to-bad-mouth-ruby-on-rails">Why it is just lazy to bad-mouth Ruby on Rails</a></li>
+  <li><a href="https://6ftdan.com/allyourdev/2017/08/03/elixir-envy-%E1%90%85-ruby/">Elixir Envy ᐅ Ruby</a>, <a href="https://blog.codeship.com/advanced-enumeration-with-ruby/">Advanced Enumeration with Ruby</a> и <a href="https://depfu.io/blog/2017/08/02/bundler-and-private-dependencies">Bundler and private dependencies</a></li>
+  <li><a href="https://github.com/jannishuebl/orchparty">Orchparty - write your own orchestration config with a Ruby DSL that allows you to have mixins, imports and variables</a>, <a href="https://github.com/exAspArk/graphql-guard">Graphql-Guard - simple authorization gem for GraphQL</a> и <a href="https://github.com/nikolalsvk/ordinare">Ordinare - sorts gems in your Gemfile alphabetically</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.chromestatus.com/features/schedule">Chrome release schedule</a> и <a href="https://medium.com/@diananina247/vue-vs-react-battle-of-the-javascript-frameworks-8e6615677dcb">Vue vs React: Battle of the Javascript Frameworks</a></li>
+  <li><a href="https://davidwalsh.name/css-focus">Focusing on Focus</a>, <a href="https://medium.freecodecamp.org/oh-yes-async-await-f54e5a079fc1">Oh yes! Async / Await</a> и <a href="https://css-tricks.com/the-critical-request/">The Critical Request</a></li>
+  <li><a href="https://tenso.rs/">TensorFire - runs neural networks in the browser using WebGL</a>, <a href="https://github.com/denysdovhan/wtfjs">WTF.JS - a list of funny and tricky JavaScript examples</a> и <a href="https://shoelace.style/">Shoelace.css - a highly customizable starter kit through CSS variables</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2017/8/3/Rails-5-1-3-released/">Rails 5.1.3 released</a>, <a href="https://blog.bigbinary.com/2017/08/01/avoid-exceptions-for-dup-on-interger-and-similar-cases.html">Avoid exception for dup on Integer</a> и <a href="http://www.akitaonrails.com/2017/08/03/why-is-it-just-lazy-to-bad-mouth-ruby-on-rails">Why it is just lazy to bad-mouth Ruby on Rails</a></li>
+  <li><a href="https://6ftdan.com/allyourdev/2017/08/03/elixir-envy-%E1%90%85-ruby/">Elixir Envy ᐅ Ruby</a>, <a href="https://blog.codeship.com/advanced-enumeration-with-ruby/">Advanced Enumeration with Ruby</a> и <a href="https://depfu.io/blog/2017/08/02/bundler-and-private-dependencies">Bundler and private dependencies</a></li>
+  <li><a href="https://github.com/jannishuebl/orchparty">Orchparty - write your own orchestration config with a Ruby DSL that allows you to have mixins, imports and variables</a>, <a href="https://github.com/exAspArk/graphql-guard">Graphql-Guard - simple authorization gem for GraphQL</a> и <a href="https://github.com/nikolalsvk/ordinare">Ordinare - sorts gems in your Gemfile alphabetically</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.chromestatus.com/features/schedule">Chrome release schedule</a> и <a href="https://medium.com/@diananina247/vue-vs-react-battle-of-the-javascript-frameworks-8e6615677dcb">Vue vs React: Battle of the Javascript Frameworks</a></li>
+  <li><a href="https://davidwalsh.name/css-focus">Focusing on Focus</a>, <a href="https://medium.freecodecamp.org/oh-yes-async-await-f54e5a079fc1">Oh yes! Async / Await</a> и <a href="https://css-tricks.com/the-critical-request/">The Critical Request</a></li>
+  <li><a href="https://tenso.rs/">TensorFire - runs neural networks in the browser using WebGL</a>, <a href="https://github.com/denysdovhan/wtfjs">WTF.JS - a list of funny and tricky JavaScript examples</a> и <a href="https://shoelace.style/">Shoelace.css - a highly customizable starter kit through CSS variables</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 08 Aug 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/08/08/podcast-05-31.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/08/08/podcast-05-31.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0531.mp3" length="30020522" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0531.mp3" fileSize="30020522" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.1.3 released, Avoid exception for dup ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.1.3 released, Avoid exception for dup on Integer и Why it is just lazy to bad-mouth Ruby on Rails
+
+  
+Elixir Envy ᐅ Ruby, Advanced Enumeration with Ruby и Bundler and private dependencies
+
+  
+Orchparty - write your own orchestration config with a Ruby DSL that allows you to have mixins, imports and variables, Graphql-Guard - simple authorization gem for GraphQL и Ordinare - sorts gems in your Gemfile alphabetically
+
+
+
+JavaScript
+
+
+  
+Chrome release schedule и Vue vs React: Battle of the Javascript Frameworks
+
+  
+Focusing on Focus, Oh yes! Async / Await и The Critical Request
+
+  
+TensorFire - runs neural networks in the browser using WebGL, WTF.JS - a list of funny and tricky JavaScript examples и Shoelace.css - a highly customizable starter kit through CSS variables
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0531.png"/>
+  <itunes:duration>00:31:14</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>30 выпуск 05 сезона. React 16 beta, Speedy JSON Endpoints with Rails, Flash &amp; The Future of Interactive Content, Fitty и прочее</title>
   <description>
@@ -3943,90 +4037,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0441.png"/>
   <itunes:duration>00:51:06</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>40 выпуск 04 сезона. Tips for Writing Fast Rails, Yarn, Marionette v3.1.0, You Might Not Need JavaScript, RE:DOM и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://dev.mikamai.com/post/151608679809/euruko-2016-ruby-is-dead-long-live-ruby">Euruko 2016 - Ruby is dead, long live Ruby!</a> и <a href="http://www.ombulabs.com/blog/performance/rails/writing-fast-rails.html">Tips for Writing Fast Rails: Part 1</a></li>
-  <li><a href="http://t-a-w.blogspot.com/2016/10/design-patterns-for-parsing-binary.html">Design patterns for parsing binary files in Ruby</a> и <a href="https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8">10 Modern Software Over-Engineering Mistakes</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://code.facebook.com/posts/1840075619545360">Yarn: A new package manager for JavaScript</a>, <a href="http://blog.marionettejs.com/2016/10/13/v310-release/index.html">Marionette v3.1.0 Released</a>, <a href="http://angularjs.blogspot.com/2016/10/angular-210-now-available.html">Angular 2.1.0</a> и <a href="https://www.christianheilmann.com/2016/10/14/we-need-javascript-to-fix-the-web/">We need JavaScript to fix the web</a></li>
-  <li><a href="https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f">Stupid ES6 tricks</a>, <a href="http://youmightnotneedjs.com/">You Might Not Need JavaScript - examples of common UI elements and interactions with HTML and CSS alone</a>, <a href="http://tesseract.projectnaptha.com/">Tesseract.js - a pure Javascript port of the popular Tesseract OCR engine</a> и <a href="https://redom.js.org/">RE:DOM - Tiny UI library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://dev.mikamai.com/post/151608679809/euruko-2016-ruby-is-dead-long-live-ruby">Euruko 2016 - Ruby is dead, long live Ruby!</a> и <a href="http://www.ombulabs.com/blog/performance/rails/writing-fast-rails.html">Tips for Writing Fast Rails: Part 1</a></li>
-  <li><a href="http://t-a-w.blogspot.com/2016/10/design-patterns-for-parsing-binary.html">Design patterns for parsing binary files in Ruby</a> и <a href="https://medium.com/@rdsubhas/10-modern-software-engineering-mistakes-bc67fbef4fc8">10 Modern Software Over-Engineering Mistakes</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://code.facebook.com/posts/1840075619545360">Yarn: A new package manager for JavaScript</a>, <a href="http://blog.marionettejs.com/2016/10/13/v310-release/index.html">Marionette v3.1.0 Released</a>, <a href="http://angularjs.blogspot.com/2016/10/angular-210-now-available.html">Angular 2.1.0</a> и <a href="https://www.christianheilmann.com/2016/10/14/we-need-javascript-to-fix-the-web/">We need JavaScript to fix the web</a></li>
-  <li><a href="https://engineering.haus.com/dumb-es6-tricks-53ecadd1b29f">Stupid ES6 tricks</a>, <a href="http://youmightnotneedjs.com/">You Might Not Need JavaScript - examples of common UI elements and interactions with HTML and CSS alone</a>, <a href="http://tesseract.projectnaptha.com/">Tesseract.js - a pure Javascript port of the popular Tesseract OCR engine</a> и <a href="https://redom.js.org/">RE:DOM - Tiny UI library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 17 Oct 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/10/17/podcast-04-40.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/17/podcast-04-40.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0440.mp3" length="25973089" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0440.mp3" fileSize="25973089" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Euruko 2016 - Ruby is dead, long live Ruby! и ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Euruko 2016 - Ruby is dead, long live Ruby! и Tips for Writing Fast Rails: Part 1
-
-  
-Design patterns for parsing binary files in Ruby и 10 Modern Software Over-Engineering Mistakes
-
-
-
-JavaScript
-
-
-  
-Yarn: A new package manager for JavaScript, Marionette v3.1.0 Released, Angular 2.1.0 и We need JavaScript to fix the web
-
-  
-Stupid ES6 tricks, You Might Not Need JavaScript - examples of common UI elements and interactions with HTML and CSS alone, Tesseract.js - a pure Javascript port of the popular Tesseract OCR engine и RE:DOM - Tiny UI library
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0440.png"/>
-  <itunes:duration>00:26:57</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
