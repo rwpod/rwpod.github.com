@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 08 Aug 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 08 Aug 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 14 Aug 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>32 выпуск 05 сезона. Atom 1.19, Faster Rails: Eliminating N+1 queries, Hunting Malicious npm Packages, React-simple-maps и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-n-plus-one-queries.html">Faster Rails: Eliminating N+1 queries</a>, <a href="https://ksylvest.com/posts/2017-08-12/fabrication-vs-factorygirl">Fabrication vs FactoryGirl</a> и <a href="https://medium.com/rubyinside/a-deep-dive-into-csrf-protection-in-rails-19fa0a42c0ef">A Deep Dive into CSRF Protection in Rails</a></li>
+  <li><a href="https://blog.showoff.ie/using-gemstash-for-private-gem-hosting-8b6170da766c">Using Gemstash for Private Gem Hosting</a>, <a href="https://github.com/soulfly/unique_validation_inspector">UniqueValidationInspector - a rake task that helps you find unique validations in models that do not have proper DB indexes</a> и <a href="https://www.driftingruby.com/episodes/recurring-events-with-ice_cube">Recurring Events with ice_cube</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.atom.io/2017/08/08/atom-1-19.html">Atom 1.19</a>, <a href="https://threatpost.com/attackers-use-typo-squatting-to-steal-npm-credentials/127235/">Attackers Use Typo-Squatting To Steal npm Credentials</a> и <a href="https://duo.com/blog/hunting-malicious-npm-packages">Hunting Malicious npm Packages</a></li>
+  <li><a href="https://www.react-simple-maps.io/">React-simple-maps - a library of React components to make SVG maps using d3-geo and topojson</a>, <a href="https://hookrace.net/blog/time.gif/">Time.gif</a> и <a href="https://github.com/darcyclarke/rawkit">RawKit - immediately Open Chrome DevTools when debugging Node.js apps</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-n-plus-one-queries.html">Faster Rails: Eliminating N+1 queries</a>, <a href="https://ksylvest.com/posts/2017-08-12/fabrication-vs-factorygirl">Fabrication vs FactoryGirl</a> и <a href="https://medium.com/rubyinside/a-deep-dive-into-csrf-protection-in-rails-19fa0a42c0ef">A Deep Dive into CSRF Protection in Rails</a></li>
+  <li><a href="https://blog.showoff.ie/using-gemstash-for-private-gem-hosting-8b6170da766c">Using Gemstash for Private Gem Hosting</a>, <a href="https://github.com/soulfly/unique_validation_inspector">UniqueValidationInspector - a rake task that helps you find unique validations in models that do not have proper DB indexes</a> и <a href="https://www.driftingruby.com/episodes/recurring-events-with-ice_cube">Recurring Events with ice_cube</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.atom.io/2017/08/08/atom-1-19.html">Atom 1.19</a>, <a href="https://threatpost.com/attackers-use-typo-squatting-to-steal-npm-credentials/127235/">Attackers Use Typo-Squatting To Steal npm Credentials</a> и <a href="https://duo.com/blog/hunting-malicious-npm-packages">Hunting Malicious npm Packages</a></li>
+  <li><a href="https://www.react-simple-maps.io/">React-simple-maps - a library of React components to make SVG maps using d3-geo and topojson</a>, <a href="https://hookrace.net/blog/time.gif/">Time.gif</a> и <a href="https://github.com/darcyclarke/rawkit">RawKit - immediately Open Chrome DevTools when debugging Node.js apps</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 14 Aug 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/08/14/podcast-05-32.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/08/14/podcast-05-32.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0532.mp3" length="20673254" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0532.mp3" fileSize="20673254" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Faster Rails: Eliminating N+1 queries, Fabrica...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Faster Rails: Eliminating N+1 queries, Fabrication vs FactoryGirl и A Deep Dive into CSRF Protection in Rails
+
+  
+Using Gemstash for Private Gem Hosting, UniqueValidationInspector - a rake task that helps you find unique validations in models that do not have proper DB indexes и Recurring Events with ice_cube
+
+
+
+JavaScript
+
+
+  
+Atom 1.19, Attackers Use Typo-Squatting To Steal npm Credentials и Hunting Malicious npm Packages
+
+  
+React-simple-maps - a library of React components to make SVG maps using d3-geo and topojson, Time.gif и RawKit - immediately Open Chrome DevTools when debugging Node.js apps
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0532.png"/>
+  <itunes:duration>00:21:30</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>31 выпуск 05 сезона. Rails 5.1.3, Elixir Envy ᐅ Ruby, Orchparty, Graphql-Guard, TensorFire, WTF.JS, Shoelace.css и прочее</title>
   <description>
@@ -3922,121 +4006,6 @@ Next.js – small framework for server-rendered universal JavaScript apps, MathJ
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0442.png"/>
   <itunes:duration>00:58:02</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>41 выпуск 04 сезона. DDoS Attack on DNS, Npm 4.0.0, Overcoming Primitive Obsession, JS Foundation, Pulp, TestCafe и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.hackread.com/ddos-attack-dns-sites-suffer-outage/">DDoS Attack on DNS; Major sites including GitHub PSN, Twitter Suffering Outage</a>, <a href="http://blog.bigbinary.com/2016/10/24/hash-compact-and-hash-compact-now-part-of-ruby-2-4.html">Hash#compact and Hash#compact! now part of Ruby 2.4</a> и <a href="https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf">Unlocking Horizontal Scalability in Our Web Serving Tier</a></li>
-  <li><a href="http://www.techoalien.com/2016/10/ruby-memoization-using-singleton-method.html">Ruby Memoization using Singleton Method</a>, <a href="http://stevenyue.com/blogs/tracking-sql-queries-in-rails/">Tracking SQL queries in Rails</a> и <a href="http://naturaily.com/blog/post/ruby-on-rails-implementation-of-a-ranking-system-using-postgresql-window-functions">Ruby on Rails implementation of a ranking system using PostgreSQL window functions</a></li>
-  <li><a href="https://blog.dnsimple.com/2016/10/overcoming-primitive-obsession/">Overcoming Primitive Obsession</a>, <a href="http://techblog.netflix.com/2016/10/netflix-chaos-monkey-upgraded.html">Netflix Chaos Monkey Upgraded</a> и <a href="http://blogs.microsoft.com/next/2016/10/18/historic-achievement-microsoft-researchers-reach-human-parity-conversational-speech-recognition/">Historic Achievement: Microsoft researchers reach human parity in conversational speech recognition</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/npm/npm/releases/tag/v4.0.0">Npm 4.0.0 released</a>, <a href="http://thenewstack.io/javascript-grows-gets-foundation/">JavaScript Grows Up and Gets Its Own Foundation</a>, <a href="https://www.sitepoint.com/yarn-vs-npm/">Yarn vs npm: Everything You Need to Know</a> и <a href="https://www.berriart.com/blog/2016/10/npm-yarn-benchmark/">NPM vs Yarn benchmark</a></li>
-  <li><a href="https://medium.com/front-end-hacking/your-code-is-probably-good-enough-5d15b4df5ac6">Your code is probably good enough</a>, <a href="https://about.gitlab.com/2016/10/20/why-we-chose-vue/">Why We Chose Vue.js</a> и <a href="https://blog.jscrambler.com/hashing-algorithms/">Hashing Algorithms</a></li>
-  <li><a href="http://pulp.glitchpack.com/">Pulp - create responsive email templates</a>, <a href="https://devexpress.github.io/testcafe/">TestCafe - a pure node.js solution for testing web apps</a>, <a href="http://purplejs.io/">PurpleJS - a JavaScript application framework running on the Java Virtual Machine</a> и <a href="http://www.cachep2p.com/">CacheP2P - a highly distributed cache platform based on WebTorrent and runs only in the browser</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/343671329299576/">Ruby Meditation #12</a></li>
-  <li><a href="https://www.facebook.com/events/556566704546455/">Elixir Meetup 3.1</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.hackread.com/ddos-attack-dns-sites-suffer-outage/">DDoS Attack on DNS; Major sites including GitHub PSN, Twitter Suffering Outage</a>, <a href="http://blog.bigbinary.com/2016/10/24/hash-compact-and-hash-compact-now-part-of-ruby-2-4.html">Hash#compact and Hash#compact! now part of Ruby 2.4</a> и <a href="https://medium.com/airbnb-engineering/unlocking-horizontal-scalability-in-our-web-serving-tier-d907449cdbcf">Unlocking Horizontal Scalability in Our Web Serving Tier</a></li>
-  <li><a href="http://www.techoalien.com/2016/10/ruby-memoization-using-singleton-method.html">Ruby Memoization using Singleton Method</a>, <a href="http://stevenyue.com/blogs/tracking-sql-queries-in-rails/">Tracking SQL queries in Rails</a> и <a href="http://naturaily.com/blog/post/ruby-on-rails-implementation-of-a-ranking-system-using-postgresql-window-functions">Ruby on Rails implementation of a ranking system using PostgreSQL window functions</a></li>
-  <li><a href="https://blog.dnsimple.com/2016/10/overcoming-primitive-obsession/">Overcoming Primitive Obsession</a>, <a href="http://techblog.netflix.com/2016/10/netflix-chaos-monkey-upgraded.html">Netflix Chaos Monkey Upgraded</a> и <a href="http://blogs.microsoft.com/next/2016/10/18/historic-achievement-microsoft-researchers-reach-human-parity-conversational-speech-recognition/">Historic Achievement: Microsoft researchers reach human parity in conversational speech recognition</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/npm/npm/releases/tag/v4.0.0">Npm 4.0.0 released</a>, <a href="http://thenewstack.io/javascript-grows-gets-foundation/">JavaScript Grows Up and Gets Its Own Foundation</a>, <a href="https://www.sitepoint.com/yarn-vs-npm/">Yarn vs npm: Everything You Need to Know</a> и <a href="https://www.berriart.com/blog/2016/10/npm-yarn-benchmark/">NPM vs Yarn benchmark</a></li>
-  <li><a href="https://medium.com/front-end-hacking/your-code-is-probably-good-enough-5d15b4df5ac6">Your code is probably good enough</a>, <a href="https://about.gitlab.com/2016/10/20/why-we-chose-vue/">Why We Chose Vue.js</a> и <a href="https://blog.jscrambler.com/hashing-algorithms/">Hashing Algorithms</a></li>
-  <li><a href="http://pulp.glitchpack.com/">Pulp - create responsive email templates</a>, <a href="https://devexpress.github.io/testcafe/">TestCafe - a pure node.js solution for testing web apps</a>, <a href="http://purplejs.io/">PurpleJS - a JavaScript application framework running on the Java Virtual Machine</a> и <a href="http://www.cachep2p.com/">CacheP2P - a highly distributed cache platform based on WebTorrent and runs only in the browser</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/343671329299576/">Ruby Meditation #12</a></li>
-  <li><a href="https://www.facebook.com/events/556566704546455/">Elixir Meetup 3.1</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 25 Oct 2016 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2016/10/25/podcast-04-41.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/10/25/podcast-04-41.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0441.mp3" length="36794018" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0441.mp3" fileSize="36794018" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  DDoS Attack on DNS; Major sites including GitH...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-DDoS Attack on DNS; Major sites including GitHub PSN, Twitter Suffering Outage, Hash#compact and Hash#compact! now part of Ruby 2.4 и Unlocking Horizontal Scalability in Our Web Serving Tier
-
-  
-Ruby Memoization using Singleton Method, Tracking SQL queries in Rails и Ruby on Rails implementation of a ranking system using PostgreSQL window functions
-
-  
-Overcoming Primitive Obsession, Netflix Chaos Monkey Upgraded и Historic Achievement: Microsoft researchers reach human parity in conversational speech recognition
-
-
-
-JavaScript
-
-
-  
-Npm 4.0.0 released, JavaScript Grows Up and Gets Its Own Foundation, Yarn vs npm: Everything You Need to Know и NPM vs Yarn benchmark
-
-  
-Your code is probably good enough, Why We Chose Vue.js и Hashing Algorithms
-
-  
-Pulp - create responsive email templates, TestCafe - a pure node.js solution for testing web apps, PurpleJS - a JavaScript application framework running on the Java Virtual Machine и CacheP2P - a highly distributed cache platform based on WebTorrent and runs only in the browser
-
-
-
-Conferences
-
-
-  Ruby Meditation #12
-  Elixir Meetup 3.1
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0441.png"/>
-  <itunes:duration>00:51:06</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
