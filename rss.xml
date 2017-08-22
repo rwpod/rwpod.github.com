@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 14 Aug 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 14 Aug 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 22 Aug 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,129 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>33 выпуск 05 сезона. Six confusing features in Ruby, TestProf: a good doctor for slow Ruby tests, Repatch, Iroh и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://hqc.io/posts/six-confusing-features-in-ruby">Six confusing features in Ruby</a>, <a href="https://medium.com/@apneadiving/active-records-queries-tricks-2546181a98dd">Active Record’s queries tricks</a> и <a href="https://www.sharmaprakash.com.np/rails/same-enum-values-for-multiple-columns/">How to have same enum values for multiple columns in rails</a></li>
+  <li><a href="https://evilmartians.com/chronicles/testprof-a-good-doctor-for-slow-ruby-tests">TestProf: a good doctor for slow Ruby tests</a>, <a href="https://evilmartians.com/chronicles/factories-or-fixtures">Factories or fixtures? Give me both!</a> и <a href="https://www.driftingruby.com/episodes/recurring-events-with-fullcalendar">Recurring Events with FullCalendar</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://code.facebook.com/posts/112130496157735">Explaining React’s license</a>, <a href="https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf">How JavaScript works: an overview of the engine, the runtime, and the call stack</a> и <a href="https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775">Understanding V8’s Bytecode</a></li>
+  <li><a href="https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b">Rethinking drag and drop</a>, <a href="https://community.risingstack.com/repatch-the-simplified-redux/">Repatch - the simplified Redux</a>, <a href="https://www.ugnis.com/">Ugnis - a visual component editor for React and React Native</a>, <a href="https://github.com/GoogleChrome/puppeteer">Puppeteer - Headless Chrome Node API</a> и <a href="http://www.felixmaier.info/Iroh/">Iroh - a dynamic code analysis tool for JavaScript</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #17</a></li>
+</ul>
+
+<h2 id="vlad-moskovets">В гостях - Vlad Moskovets</h2>
+
+<ul>
+  <li><a href="https://github.com/slayer/">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/vlad-moskovets-ab483428/">Linkedin</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://hqc.io/posts/six-confusing-features-in-ruby">Six confusing features in Ruby</a>, <a href="https://medium.com/@apneadiving/active-records-queries-tricks-2546181a98dd">Active Record’s queries tricks</a> и <a href="https://www.sharmaprakash.com.np/rails/same-enum-values-for-multiple-columns/">How to have same enum values for multiple columns in rails</a></li>
+  <li><a href="https://evilmartians.com/chronicles/testprof-a-good-doctor-for-slow-ruby-tests">TestProf: a good doctor for slow Ruby tests</a>, <a href="https://evilmartians.com/chronicles/factories-or-fixtures">Factories or fixtures? Give me both!</a> и <a href="https://www.driftingruby.com/episodes/recurring-events-with-fullcalendar">Recurring Events with FullCalendar</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://code.facebook.com/posts/112130496157735">Explaining React’s license</a>, <a href="https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf">How JavaScript works: an overview of the engine, the runtime, and the call stack</a> и <a href="https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775">Understanding V8’s Bytecode</a></li>
+  <li><a href="https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b">Rethinking drag and drop</a>, <a href="https://community.risingstack.com/repatch-the-simplified-redux/">Repatch - the simplified Redux</a>, <a href="https://www.ugnis.com/">Ugnis - a visual component editor for React and React Native</a>, <a href="https://github.com/GoogleChrome/puppeteer">Puppeteer - Headless Chrome Node API</a> и <a href="http://www.felixmaier.info/Iroh/">Iroh - a dynamic code analysis tool for JavaScript</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #17</a></li>
+</ul>
+
+<h2 id="vlad-moskovets">В гостях - Vlad Moskovets</h2>
+
+<ul>
+  <li><a href="https://github.com/slayer/">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/vlad-moskovets-ab483428/">Linkedin</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 22 Aug 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/08/22/podcast-05-33.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/08/22/podcast-05-33.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0533.mp3" length="59395536" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0533.mp3" fileSize="59395536" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Six confusing features in Ruby, Active Record’...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Six confusing features in Ruby, Active Record’s queries tricks и How to have same enum values for multiple columns in rails
+
+  
+TestProf: a good doctor for slow Ruby tests, Factories or fixtures? Give me both! и Recurring Events with FullCalendar
+
+
+
+JavaScript
+
+
+  
+Explaining React’s license, How JavaScript works: an overview of the engine, the runtime, and the call stack и Understanding V8’s Bytecode
+
+  
+Rethinking drag and drop, Repatch - the simplified Redux, Ugnis - a visual component editor for React and React Native, Puppeteer - Headless Chrome Node API и Iroh - a dynamic code analysis tool for JavaScript
+
+
+
+Conferences
+
+
+  Ruby Meditation #17
+
+
+В гостях - Vlad Moskovets
+
+
+  Github
+  Linkedin
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0533.png"/>
+  <itunes:duration>01:01:50</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>32 выпуск 05 сезона. Atom 1.19, Faster Rails: Eliminating N+1 queries, Hunting Malicious npm Packages, React-simple-maps и прочее</title>
   <description>
@@ -228,7 +351,7 @@ TensorFire - runs neural networks in the browser using WebGL, WTF.JS - a list of
   <li><a href="https://github.com/bpesquet/thejsway/#readme">The JavaScript Way (book)</a>, <a href="https://rikschennink.github.io/fitty/">Fitty - makes text fit perfectly</a> и <a href="https://github.com/smallwins/spacetime">Spacetime - a lightweight way to manipulate, traverse, compare, and format dates and times across planet Earth</a></li>
 </ul>
 
-<h2 id="oleh-perevertailo">Oleh Perevertailo</h2>
+<h2 id="oleh-perevertailo">В гостях - Oleh Perevertailo</h2>
 
 <ul>
   <li><a href="https://github.com/LegaKh">Github</a></li>
@@ -257,7 +380,7 @@ TensorFire - runs neural networks in the browser using WebGL, WTF.JS - a list of
   <li><a href="https://github.com/bpesquet/thejsway/#readme">The JavaScript Way (book)</a>, <a href="https://rikschennink.github.io/fitty/">Fitty - makes text fit perfectly</a> и <a href="https://github.com/smallwins/spacetime">Spacetime - a lightweight way to manipulate, traverse, compare, and format dates and times across planet Earth</a></li>
 </ul>
 
-<h2 id="oleh-perevertailo">Oleh Perevertailo</h2>
+<h2 id="oleh-perevertailo">В гостях - Oleh Perevertailo</h2>
 
 <ul>
   <li><a href="https://github.com/LegaKh">Github</a></li>
@@ -309,7 +432,7 @@ The JavaScript Way (book), Fitty - makes text fit perfectly и Spacetime - a lig
 
 
 
-Oleh Perevertailo
+В гостях - Oleh Perevertailo
 
 
   Github
@@ -3912,100 +4035,6 @@ Tesseract.js: How To OCR Remote Images from a URL in Node, Egjs - a jQuery-based
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0443.png"/>
   <itunes:duration>00:29:01</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>42 выпуск 04 сезона. HexaPDF, Helpy, TZOffset, Redux without React, Next.js, Swip, Shave, MathJax, JS Ipsum и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/10/28/string-array-concat-and-string-prepend-take-multiple-arguments-in-ruby-2-4.html">String#concat, Array#concat and String#prepend take multiple arguments in Ruby 2.4</a>, <a href="http://ducktypelabs.com/do-i-really-need-to-upgrade-my-rails-apps/">Do I really need to patch my Rails apps? (Understanding CVE-2016-6316)</a> и <a href="https://robots.thoughtbot.com/is-your-site-leaking-password-reset-links">Is Your Site Leaking Password Reset Links?</a></li>
-  <li><a href="http://brandonhilkert.com/blog/monitoring-sidekiq-using-aws-lambda-and-slack/">Monitoring Sidekiq Using AWS Lambda and Slack</a>, <a href="https://blog.rebased.pl/2016/10/25/computer-vision-2.html">A Photo Gallery that Automatically Tags Your Images</a> и <a href="http://blog.ragnarson.com/2016/10/26/validation-outside-activemodel.html">Validation outside ActiveModel</a></li>
-  <li><a href="http://gettalong.org/blog/2016/hexapdf-code-and-first-version-released.html">HexaPDF Code and First Version Released</a>, <a href="https://helpy.io/blog/helpy-1.0/">Helpy is 1.0!</a>, <a href="https://github.com/molybdenum-99/tz_offset">TZOffset - simple abstraction of a timezone offset</a> и <a href="http://www.rubypigeon.com/posts/screencast-debugging-with-byebug/">Screencast: Debugging With Byebug</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v7.0.0/">Node v7.0.0</a>, <a href="https://hacks.mozilla.org/2016/10/whats-new-in-indexeddb-2-0/">What’s new in IndexedDB 2.0?</a>, <a href="https://medium.com/js-dojo/vue-js-is-easier-to-learn-than-jquery-abbbb9c12cf8">Vue.js is easier to learn than jQuery</a> и <a href="https://envato.com/blog/rising-trends-in-javascript/">Rising Trends in In JavaScript: A Comprehensive Guide to Libraries &amp; Frameworks</a></li>
-  <li><a href="https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/">Redux without React — State Management in Vanilla JavaScript</a>, <a href="https://medium.com/@shakiba/redux-is-overhyped-3ad6e42b7730">Redux is Overhyped</a> и <a href="https://workiva.github.io/over_react/">OverReact - React for Dart</a></li>
-  <li><a href="https://zeit.co/blog/next">Next.js – small framework for server-rendered universal JavaScript apps</a>, <a href="https://www.mathjax.org/">MathJax - beautiful math in all browsers</a>, <a href="https://github.com/paulsonnentag/swip">Swip - a library to create multi device experiments</a>, <a href="https://dollarshaveclub.github.io/shave/">Shave - a  javascript plugin that truncates multi-line text to fit within an html element based on a set max-height</a> и <a href="http://jsipsum.lunarlogic.io/">JS Ipsum - generate your own JS gibberish</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/10/28/string-array-concat-and-string-prepend-take-multiple-arguments-in-ruby-2-4.html">String#concat, Array#concat and String#prepend take multiple arguments in Ruby 2.4</a>, <a href="http://ducktypelabs.com/do-i-really-need-to-upgrade-my-rails-apps/">Do I really need to patch my Rails apps? (Understanding CVE-2016-6316)</a> и <a href="https://robots.thoughtbot.com/is-your-site-leaking-password-reset-links">Is Your Site Leaking Password Reset Links?</a></li>
-  <li><a href="http://brandonhilkert.com/blog/monitoring-sidekiq-using-aws-lambda-and-slack/">Monitoring Sidekiq Using AWS Lambda and Slack</a>, <a href="https://blog.rebased.pl/2016/10/25/computer-vision-2.html">A Photo Gallery that Automatically Tags Your Images</a> и <a href="http://blog.ragnarson.com/2016/10/26/validation-outside-activemodel.html">Validation outside ActiveModel</a></li>
-  <li><a href="http://gettalong.org/blog/2016/hexapdf-code-and-first-version-released.html">HexaPDF Code and First Version Released</a>, <a href="https://helpy.io/blog/helpy-1.0/">Helpy is 1.0!</a>, <a href="https://github.com/molybdenum-99/tz_offset">TZOffset - simple abstraction of a timezone offset</a> и <a href="http://www.rubypigeon.com/posts/screencast-debugging-with-byebug/">Screencast: Debugging With Byebug</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v7.0.0/">Node v7.0.0</a>, <a href="https://hacks.mozilla.org/2016/10/whats-new-in-indexeddb-2-0/">What’s new in IndexedDB 2.0?</a>, <a href="https://medium.com/js-dojo/vue-js-is-easier-to-learn-than-jquery-abbbb9c12cf8">Vue.js is easier to learn than jQuery</a> и <a href="https://envato.com/blog/rising-trends-in-javascript/">Rising Trends in In JavaScript: A Comprehensive Guide to Libraries &amp; Frameworks</a></li>
-  <li><a href="https://www.sitepoint.com/redux-without-react-state-management-vanilla-javascript/">Redux without React — State Management in Vanilla JavaScript</a>, <a href="https://medium.com/@shakiba/redux-is-overhyped-3ad6e42b7730">Redux is Overhyped</a> и <a href="https://workiva.github.io/over_react/">OverReact - React for Dart</a></li>
-  <li><a href="https://zeit.co/blog/next">Next.js – small framework for server-rendered universal JavaScript apps</a>, <a href="https://www.mathjax.org/">MathJax - beautiful math in all browsers</a>, <a href="https://github.com/paulsonnentag/swip">Swip - a library to create multi device experiments</a>, <a href="https://dollarshaveclub.github.io/shave/">Shave - a  javascript plugin that truncates multi-line text to fit within an html element based on a set max-height</a> и <a href="http://jsipsum.lunarlogic.io/">JS Ipsum - generate your own JS gibberish</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 01 Nov 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/11/01/podcast-04-42.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/01/podcast-04-42.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0442.mp3" length="41889690" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0442.mp3" fileSize="41889690" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  String#concat, Array#concat and String#prepend...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-String#concat, Array#concat and String#prepend take multiple arguments in Ruby 2.4, Do I really need to patch my Rails apps? (Understanding CVE-2016-6316) и Is Your Site Leaking Password Reset Links?
-
-  
-Monitoring Sidekiq Using AWS Lambda and Slack, A Photo Gallery that Automatically Tags Your Images и Validation outside ActiveModel
-
-  
-HexaPDF Code and First Version Released, Helpy is 1.0!, TZOffset - simple abstraction of a timezone offset и Screencast: Debugging With Byebug
-
-
-
-JavaScript
-
-
-  
-Node v7.0.0, What’s new in IndexedDB 2.0?, Vue.js is easier to learn than jQuery и Rising Trends in In JavaScript: A Comprehensive Guide to Libraries &amp; Frameworks
-
-  
-Redux without React — State Management in Vanilla JavaScript, Redux is Overhyped и OverReact - React for Dart
-
-  
-Next.js – small framework for server-rendered universal JavaScript apps, MathJax - beautiful math in all browsers, Swip - a library to create multi device experiments, Shave - a  javascript plugin that truncates multi-line text to fit within an html element based on a set max-height и JS Ipsum - generate your own JS gibberish
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0442.png"/>
-  <itunes:duration>00:58:02</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
