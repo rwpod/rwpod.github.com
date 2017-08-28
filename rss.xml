@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 22 Aug 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 22 Aug 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 28 Aug 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 28 Aug 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>34 выпуск 05 сезона. Introduction to Concurrency Models with Ruby, Node.js forks again, Async, Fuzzysort и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2017/08/23/new-syntax-for-tag-helpers-in-rails-5-1.html">New Syntax for HTML Tag helpers in Rails 5.1</a>, <a href="https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-i-550d0dbb970">Introduction to Concurrency Models with Ruby. Part I</a> и <a href="https://www.engineyard.com/blog/five-ruby-methods-you-should-be-using">Five Ruby Methods You Should Be Using</a></li>
+  <li><a href="https://medium.com/rubyinside/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app-7f77382cfb5">Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App</a> и <a href="http://blog.arkency.com/the-equals-equals-equals-case-equality-operator-in-ruby/">The === (case equality) operator in Ruby</a></li>
+  <li><a href="https://medium.com/@nicolasblanco/translate-your-activerecord-records-without-stress-and-bloat-f77c394e95b4">Translate your ActiveRecord attributes without stress or bloat</a>, <a href="http://blog.scoutapp.com/articles/2017/08/17/pg_trgm-autocorrect">Autocorrect with Postgres Trigrams</a> и <a href="https://github.com/socketry/async">Async - a composable asynchronous I/O framework for Ruby based on nio4r and timers</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.theregister.co.uk/2017/08/24/nodejs_forks_ayo_code_of_conduct/">Node.js forks again – this time it’s a war of words over anti-sex-pest codes of conduct</a>, <a href="https://dev.to/anthonydelgado/javascript-is-eating-the-world">JavaScript Is Eating The World</a> и <a href="https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2">If you’re a startup, you should not use React (reflecting on the BSD + patents license)</a></li>
+  <li><a href="https://www.nearform.com/blog/architecting-electron-applications-for-60fps/">Architecting Electron Applications for 60fps</a> и <a href="https://www.jcore.com/2016/12/18/promise-me-you-wont-use-promise-race/">Promise me you won’t use Promise.race</a></li>
+  <li><a href="https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews">10 JavaScript concepts you need to know for interviews</a>, <a href="https://github.com/farzher/fuzzysort">Fuzzysort - fast SublimeText-like fuzzy search for JavaScript</a> и <a href="https://jonathantneal.github.io/media-player/">Media Player - a tiny, responsive, international, accessible, cross browser, easily customizable media player</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2017/08/23/new-syntax-for-tag-helpers-in-rails-5-1.html">New Syntax for HTML Tag helpers in Rails 5.1</a>, <a href="https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-i-550d0dbb970">Introduction to Concurrency Models with Ruby. Part I</a> и <a href="https://www.engineyard.com/blog/five-ruby-methods-you-should-be-using">Five Ruby Methods You Should Be Using</a></li>
+  <li><a href="https://medium.com/rubyinside/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app-7f77382cfb5">Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App</a> и <a href="http://blog.arkency.com/the-equals-equals-equals-case-equality-operator-in-ruby/">The === (case equality) operator in Ruby</a></li>
+  <li><a href="https://medium.com/@nicolasblanco/translate-your-activerecord-records-without-stress-and-bloat-f77c394e95b4">Translate your ActiveRecord attributes without stress or bloat</a>, <a href="http://blog.scoutapp.com/articles/2017/08/17/pg_trgm-autocorrect">Autocorrect with Postgres Trigrams</a> и <a href="https://github.com/socketry/async">Async - a composable asynchronous I/O framework for Ruby based on nio4r and timers</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.theregister.co.uk/2017/08/24/nodejs_forks_ayo_code_of_conduct/">Node.js forks again – this time it’s a war of words over anti-sex-pest codes of conduct</a>, <a href="https://dev.to/anthonydelgado/javascript-is-eating-the-world">JavaScript Is Eating The World</a> и <a href="https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2">If you’re a startup, you should not use React (reflecting on the BSD + patents license)</a></li>
+  <li><a href="https://www.nearform.com/blog/architecting-electron-applications-for-60fps/">Architecting Electron Applications for 60fps</a> и <a href="https://www.jcore.com/2016/12/18/promise-me-you-wont-use-promise-race/">Promise me you won’t use Promise.race</a></li>
+  <li><a href="https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews">10 JavaScript concepts you need to know for interviews</a>, <a href="https://github.com/farzher/fuzzysort">Fuzzysort - fast SublimeText-like fuzzy search for JavaScript</a> и <a href="https://jonathantneal.github.io/media-player/">Media Player - a tiny, responsive, international, accessible, cross browser, easily customizable media player</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 28 Aug 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/08/28/podcast-05-34.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/08/28/podcast-05-34.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0534.mp3" length="30033608" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0534.mp3" fileSize="30033608" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  New Syntax for HTML Tag helpers in Rails 5.1, ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+New Syntax for HTML Tag helpers in Rails 5.1, Introduction to Concurrency Models with Ruby. Part I и Five Ruby Methods You Should Be Using
+
+  
+Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App и The === (case equality) operator in Ruby
+
+  
+Translate your ActiveRecord attributes without stress or bloat, Autocorrect with Postgres Trigrams и Async - a composable asynchronous I/O framework for Ruby based on nio4r and timers
+
+
+
+JavaScript
+
+
+  
+Node.js forks again – this time it’s a war of words over anti-sex-pest codes of conduct, JavaScript Is Eating The World и If you’re a startup, you should not use React (reflecting on the BSD + patents license)
+
+  
+Architecting Electron Applications for 60fps и Promise me you won’t use Promise.race
+
+  
+10 JavaScript concepts you need to know for interviews, Fuzzysort - fast SublimeText-like fuzzy search for JavaScript и Media Player - a tiny, responsive, international, accessible, cross browser, easily customizable media player
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0534.png"/>
+  <itunes:duration>00:31:15</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>33 выпуск 05 сезона. Six confusing features in Ruby, TestProf: a good doctor for slow Ruby tests, Repatch, Iroh и прочее</title>
   <description>
@@ -3941,100 +4035,6 @@ Whitestorm.js - framework for developing 3D web apps, Sprite Spirit - generator 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0444.png"/>
   <itunes:duration>00:48:03</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>43 выпуск 04 сезона. Duck typing vs type safety in Ruby, Rack::Attack, Migrating to Webpack 2, Egjs, Turbo.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/11/04/ruby-2-4-implements-regexp-match-without-polluting-global-variables.html">Ruby 2.4 implements Regexp#match? without polluting global variables</a>, <a href="http://blog.bigbinary.com/2016/11/02/ruby-2-4-introduces-enumerable-sum.html">Ruby 2.4 implements Enumerable#sum</a> и <a href="http://solnic.eu/2016/11/02/duck-typing-vs-type-safety-in-ruby.html">Duck typing vs type safety in Ruby</a></li>
-  <li><a href="https://christoph.luppri.ch/articles/2016/11/06/getting-rid-of-before_filter-from-your-applicationcontroller-with-cells/">Getting rid of before_filter from your ApplicationController with cells</a> и <a href="https://blog.dnsimple.com/2016/11/purposes-and-properties-of-value-objects/">Purposes &amp; Properties of Value Objects</a></li>
-  <li><a href="https://blog.ragnarson.com/2016/11/02/introduction-to-fragment-caching-in-rails.html">Introduction to fragment caching in Rails</a> и <a href="https://www.driftingruby.com/episodes/rails-api-throttling-with-rack-attack">Rails API - Throttling with Rack::Attack</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://cssence.com/blog/2016-11-the-javascript-wars">The JavaScript Wars: How did we get here?</a>, <a href="https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-ʇdıɹɔsɐʌɐɾ-ɹǝʍsuɐ-19a33b0a467d">What programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ</a> и <a href="http://v8project.blogspot.ru/2016/10/webassembly-browser-preview.html">WebAssembly Browser Preview</a></li>
-  <li><a href="http://www.quirksmode.org/blog/archives/2016/11/viewports_resea.html">Viewports research, part umpteen</a>, <a href="https://blog.hitchhq.com/graphql-3-reasons-not-to-use-it-7715f60cb934">GraphQL: 3 reasons not to use it</a> и <a href="http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/">Migrating to Webpack 2</a></li>
-  <li><a href="https://www.twilio.com/blog/2016/11/a-simple-way-to-ocr-images-from-a-url-with-tesseract-js.html">Tesseract.js: How To OCR Remote Images from a URL in Node</a>, <a href="https://naver.github.io/egjs/">Egjs - a jQuery-based JavaScript library consisting of UI interactions, effects, and utilities</a>, <a href="https://turbo.github.io/">Turbo.js - a small library that makes it easier to perform complex calculations that can be done in parallel</a> и <a href="https://github.com/jareware/css-architecture">8 simple rules for a robust, scalable CSS architecture</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/11/04/ruby-2-4-implements-regexp-match-without-polluting-global-variables.html">Ruby 2.4 implements Regexp#match? without polluting global variables</a>, <a href="http://blog.bigbinary.com/2016/11/02/ruby-2-4-introduces-enumerable-sum.html">Ruby 2.4 implements Enumerable#sum</a> и <a href="http://solnic.eu/2016/11/02/duck-typing-vs-type-safety-in-ruby.html">Duck typing vs type safety in Ruby</a></li>
-  <li><a href="https://christoph.luppri.ch/articles/2016/11/06/getting-rid-of-before_filter-from-your-applicationcontroller-with-cells/">Getting rid of before_filter from your ApplicationController with cells</a> и <a href="https://blog.dnsimple.com/2016/11/purposes-and-properties-of-value-objects/">Purposes &amp; Properties of Value Objects</a></li>
-  <li><a href="https://blog.ragnarson.com/2016/11/02/introduction-to-fragment-caching-in-rails.html">Introduction to fragment caching in Rails</a> и <a href="https://www.driftingruby.com/episodes/rails-api-throttling-with-rack-attack">Rails API - Throttling with Rack::Attack</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://cssence.com/blog/2016-11-the-javascript-wars">The JavaScript Wars: How did we get here?</a>, <a href="https://medium.freecodecamp.com/what-programming-language-should-i-learn-first-ʇdıɹɔsɐʌɐɾ-ɹǝʍsuɐ-19a33b0a467d">What programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ</a> и <a href="http://v8project.blogspot.ru/2016/10/webassembly-browser-preview.html">WebAssembly Browser Preview</a></li>
-  <li><a href="http://www.quirksmode.org/blog/archives/2016/11/viewports_resea.html">Viewports research, part umpteen</a>, <a href="https://blog.hitchhq.com/graphql-3-reasons-not-to-use-it-7715f60cb934">GraphQL: 3 reasons not to use it</a> и <a href="http://javascriptplayground.com/blog/2016/10/moving-to-webpack-2/">Migrating to Webpack 2</a></li>
-  <li><a href="https://www.twilio.com/blog/2016/11/a-simple-way-to-ocr-images-from-a-url-with-tesseract-js.html">Tesseract.js: How To OCR Remote Images from a URL in Node</a>, <a href="https://naver.github.io/egjs/">Egjs - a jQuery-based JavaScript library consisting of UI interactions, effects, and utilities</a>, <a href="https://turbo.github.io/">Turbo.js - a small library that makes it easier to perform complex calculations that can be done in parallel</a> и <a href="https://github.com/jareware/css-architecture">8 simple rules for a robust, scalable CSS architecture</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 08 Nov 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/11/08/podcast-04-43.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/08/podcast-04-43.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0443.mp3" length="20994674" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0443.mp3" fileSize="20994674" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.4 implements Regexp#match? without poll...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.4 implements Regexp#match? without polluting global variables, Ruby 2.4 implements Enumerable#sum и Duck typing vs type safety in Ruby
-
-  
-Getting rid of before_filter from your ApplicationController with cells и Purposes &amp; Properties of Value Objects
-
-  
-Introduction to fragment caching in Rails и Rails API - Throttling with Rack::Attack
-
-
-
-JavaScript
-
-
-  
-The JavaScript Wars: How did we get here?, What programming language should you learn first? ʇdıɹɔsɐʌɐɾ :ɹǝʍsuɐ и WebAssembly Browser Preview
-
-  
-Viewports research, part umpteen, GraphQL: 3 reasons not to use it и Migrating to Webpack 2
-
-  
-Tesseract.js: How To OCR Remote Images from a URL in Node, Egjs - a jQuery-based JavaScript library consisting of UI interactions, effects, and utilities, Turbo.js - a small library that makes it easier to perform complex calculations that can be done in parallel и 8 simple rules for a robust, scalable CSS architecture
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0443.png"/>
-  <itunes:duration>00:29:01</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
