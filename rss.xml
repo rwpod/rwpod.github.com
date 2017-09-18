@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 11 Sep 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 11 Sep 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 18 Sep 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 18 Sep 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>37 выпуск 05 сезона. Ruby 2.4.2, Roda 3.0.0, CoffeeScript 2, Babel 7.0, GraphQL and Performance in Rails и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2017/09/14/ruby-2-4-2-released/">Ruby 2.4.2 Released</a> и <a href="https://groups.google.com/forum/#!topic/ruby-roda/YqFyGx7Pirw">Roda 3.0.0 has been released</a></li>
+  <li><a href="https://www.learnwithdaniel.com/2017/04/file-systems-ruby-fuse/">Create a Filesystem with Ruby and FUSE</a>, <a href="https://blog.codeship.com/graphql-and-performance-in-rails/">GraphQL and Performance in Rails</a> и <a href="https://www.driftingruby.com/episodes/polymorphic-associations">Polymorphic Associations (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://coffeescript.org/announcing-coffeescript-2/">Announcing CoffeeScript 2</a>, <a href="https://babeljs.io/blog/2017/09/12/planning-for-7.0">Planning for Babel 7.0</a>, <a href="https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec">How JavaScript works: memory management + how to handle 4 common memory leaks</a> и <a href="https://ma.tt/2017/09/on-react-and-wordpress/">On React and WordPress</a></li>
+  <li><a href="https://blog.patricktriest.com/game-of-thrones-map-node-postgres-redis/">Build An Interactive Game of Thrones Map (Part I) - Node.js, PostGIS, and Redis</a>, <a href="https://hackernoon.com/electron-the-bad-parts-2b710c491547">Electron: The Bad Parts</a> и <a href="https://github.com/melenaos/jquery-punchcard">Jquery-punchcard - jquery plugin for creating GitHub Punchcard like graphs</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2017/09/14/ruby-2-4-2-released/">Ruby 2.4.2 Released</a> и <a href="https://groups.google.com/forum/#!topic/ruby-roda/YqFyGx7Pirw">Roda 3.0.0 has been released</a></li>
+  <li><a href="https://www.learnwithdaniel.com/2017/04/file-systems-ruby-fuse/">Create a Filesystem with Ruby and FUSE</a>, <a href="https://blog.codeship.com/graphql-and-performance-in-rails/">GraphQL and Performance in Rails</a> и <a href="https://www.driftingruby.com/episodes/polymorphic-associations">Polymorphic Associations (video)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://coffeescript.org/announcing-coffeescript-2/">Announcing CoffeeScript 2</a>, <a href="https://babeljs.io/blog/2017/09/12/planning-for-7.0">Planning for Babel 7.0</a>, <a href="https://blog.sessionstack.com/how-javascript-works-memory-management-how-to-handle-4-common-memory-leaks-3f28b94cfbec">How JavaScript works: memory management + how to handle 4 common memory leaks</a> и <a href="https://ma.tt/2017/09/on-react-and-wordpress/">On React and WordPress</a></li>
+  <li><a href="https://blog.patricktriest.com/game-of-thrones-map-node-postgres-redis/">Build An Interactive Game of Thrones Map (Part I) - Node.js, PostGIS, and Redis</a>, <a href="https://hackernoon.com/electron-the-bad-parts-2b710c491547">Electron: The Bad Parts</a> и <a href="https://github.com/melenaos/jquery-punchcard">Jquery-punchcard - jquery plugin for creating GitHub Punchcard like graphs</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 18 Sep 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/09/18/podcast-05-37.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/09/18/podcast-05-37.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0537.mp3" length="19852060" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0537.mp3" fileSize="19852060" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.4.2 Released и Roda 3.0.0 has been rele...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.4.2 Released и Roda 3.0.0 has been released
+
+  
+Create a Filesystem with Ruby and FUSE, GraphQL and Performance in Rails и Polymorphic Associations (video)
+
+
+
+JavaScript
+
+
+  
+Announcing CoffeeScript 2, Planning for Babel 7.0, How JavaScript works: memory management + how to handle 4 common memory leaks и On React and WordPress
+
+  
+Build An Interactive Game of Thrones Map (Part I) - Node.js, PostGIS, and Redis, Electron: The Bad Parts и Jquery-punchcard - jquery plugin for creating GitHub Punchcard like graphs
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0537.png"/>
+  <itunes:duration>00:20:39</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>36 выпуск 05 сезона. Yarn 1.0, Gemfile's new clothes, Headless Chrome vs PhantomJS, Size Limit: Make the Web lighter и прочее</title>
   <description>
@@ -3950,100 +4034,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0447.png"/>
   <itunes:duration>00:48:33</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>46 выпуск 04 сезона. Ruby 2.3.3, Double Splat Operator, Thredded, Cssreference, Ant Design, Amazon Autocomplete, Reptar и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/11/21/ruby-2-3-3-released/">Ruby 2.3.3 Released</a>, <a href="http://blog.bigbinary.com/2016/11/22/ruby-2-4-introduces-liberal_parsing-option-for-parsing-bad-csv-data.html">Ruby 2.4 introduces liberal_parsing option for parsing bad CSV data</a> и <a href="http://blog.davydovanton.com/2016/11/23/ruby-tips-part-two/">Ruby tips #2</a></li>
-  <li><a href="https://blog.gitresolve.com/deciding-to-build-an-isomorphic-ruby-app-with-opal-206befe93c8f">Deciding to Build an Isomorphic Ruby App with Opal</a>, <a href="https://changelog.com/posts/why-we-chose-turbolinks">Why We Chose Turbolinks</a> и <a href="http://www.blackbytes.info/2016/11/port-scanner-in-ruby/">How to Write a Port Scanner in Ruby</a></li>
-  <li><a href="https://medium.com/@sophiedeziel/the-double-splat-operator-83347d924ecf">The Double Splat Operator</a>, <a href="http://blog.redpanthers.co/create-json-response-using-postgresql-instead-rails/">Introduction to generating JSON using PostgreSQL</a> и <a href="https://thredded.org/">Thredded - a Rails forum/messageboard engine</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.travis-ci.com/2016-11-21-travis-ci-now-supports-yarn">Travis CI now supports Yarn</a>, <a href="http://benediktmeurer.de/2016/11/25/v8-behind-the-scenes-november-edition/">V8: Behind the Scenes (November Edition)</a>, <a href="https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f">Why I’m Thankful for JS Fatigue</a> и <a href="https://github.com/karma-runner/karma/issues/2474">Karma is looking for new contributors</a></li>
-  <li><a href="https://medium.com/@xilefmai/efficient-javascript-14a11651d563">Writing efficient JavaScript</a>, <a href="https://css-tricks.com/polyfill-javascript-need/">Polyfill JavaScript Only When You Need To</a> и <a href="http://cssreference.io/">Cssreference - free visual guide to CSS</a></li>
-  <li><a href="https://ant.design/">Ant Design - an enterprise-class UI design language and React-based implementation</a>, <a href="http://carlosroso.com/amazon-autocomplete">Amazon Autocomplete - full power of the Amazon autocompletion engine in your search input</a>, <a href="https://anvaka.github.io/query-state/">Query-state - application state in query string</a>, <a href="https://gloriajs.com/">Gloria - a static site generator</a> и <a href="http://reptar.github.io/">Reptar - static site generator</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/11/21/ruby-2-3-3-released/">Ruby 2.3.3 Released</a>, <a href="http://blog.bigbinary.com/2016/11/22/ruby-2-4-introduces-liberal_parsing-option-for-parsing-bad-csv-data.html">Ruby 2.4 introduces liberal_parsing option for parsing bad CSV data</a> и <a href="http://blog.davydovanton.com/2016/11/23/ruby-tips-part-two/">Ruby tips #2</a></li>
-  <li><a href="https://blog.gitresolve.com/deciding-to-build-an-isomorphic-ruby-app-with-opal-206befe93c8f">Deciding to Build an Isomorphic Ruby App with Opal</a>, <a href="https://changelog.com/posts/why-we-chose-turbolinks">Why We Chose Turbolinks</a> и <a href="http://www.blackbytes.info/2016/11/port-scanner-in-ruby/">How to Write a Port Scanner in Ruby</a></li>
-  <li><a href="https://medium.com/@sophiedeziel/the-double-splat-operator-83347d924ecf">The Double Splat Operator</a>, <a href="http://blog.redpanthers.co/create-json-response-using-postgresql-instead-rails/">Introduction to generating JSON using PostgreSQL</a> и <a href="https://thredded.org/">Thredded - a Rails forum/messageboard engine</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.travis-ci.com/2016-11-21-travis-ci-now-supports-yarn">Travis CI now supports Yarn</a>, <a href="http://benediktmeurer.de/2016/11/25/v8-behind-the-scenes-november-edition/">V8: Behind the Scenes (November Edition)</a>, <a href="https://medium.com/javascript-scene/why-im-thankful-for-js-fatigue-i-know-you-re-sick-of-those-words-but-this-is-different-296fae0c888f">Why I’m Thankful for JS Fatigue</a> и <a href="https://github.com/karma-runner/karma/issues/2474">Karma is looking for new contributors</a></li>
-  <li><a href="https://medium.com/@xilefmai/efficient-javascript-14a11651d563">Writing efficient JavaScript</a>, <a href="https://css-tricks.com/polyfill-javascript-need/">Polyfill JavaScript Only When You Need To</a> и <a href="http://cssreference.io/">Cssreference - free visual guide to CSS</a></li>
-  <li><a href="https://ant.design/">Ant Design - an enterprise-class UI design language and React-based implementation</a>, <a href="http://carlosroso.com/amazon-autocomplete">Amazon Autocomplete - full power of the Amazon autocompletion engine in your search input</a>, <a href="https://anvaka.github.io/query-state/">Query-state - application state in query string</a>, <a href="https://gloriajs.com/">Gloria - a static site generator</a> и <a href="http://reptar.github.io/">Reptar - static site generator</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 29 Nov 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/11/29/podcast-04-46.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/11/29/podcast-04-46.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0446.mp3" length="46069769" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0446.mp3" fileSize="46069769" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.3.3 Released, Ruby 2.4 introduces liber...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.3.3 Released, Ruby 2.4 introduces liberal_parsing option for parsing bad CSV data и Ruby tips #2
-
-  
-Deciding to Build an Isomorphic Ruby App with Opal, Why We Chose Turbolinks и How to Write a Port Scanner in Ruby
-
-  
-The Double Splat Operator, Introduction to generating JSON using PostgreSQL и Thredded - a Rails forum/messageboard engine
-
-
-
-JavaScript
-
-
-  
-Travis CI now supports Yarn, V8: Behind the Scenes (November Edition), Why I’m Thankful for JS Fatigue и Karma is looking for new contributors
-
-  
-Writing efficient JavaScript, Polyfill JavaScript Only When You Need To и Cssreference - free visual guide to CSS
-
-  
-Ant Design - an enterprise-class UI design language and React-based implementation, Amazon Autocomplete - full power of the Amazon autocompletion engine in your search input, Query-state - application state in query string, Gloria - a static site generator и Reptar - static site generator
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0446.png"/>
-  <itunes:duration>00:47:53</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
