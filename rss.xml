@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 18 Sep 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 18 Sep 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 25 Sep 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,134 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>38 выпуск 05 сезона. GitLab 10.0, Ruby 3 JIT roadmap, Blockchain Lite, Relicensing React, Storybook, Bosket и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2017/09/19/to-time-preserves-time-zone-info-in-ruby-2-4.html">DateTime#to_time and Time#to_time preserves receiver’s timezone offset info in Ruby 2.4</a>, <a href="https://about.gitlab.com/2017/09/22/gitlab-10-0-released/">GitLab 10.0 Released with Auto DevOps and Group Issue Boards</a>, <a href="https://github.com/rails/rails/pull/30067">Add credentials using a generic EncryptedConfiguration class</a> и <a href="https://github.com/rails/rails/pull/30629">Add with_attached_* scope to has_one_attached macro</a></li>
+  <li><a href="https://vmakarov.fedorapeople.org/VMakarov-RubyKaigi2017.pdf">Ruby 3 JIT roadmap and status</a> и <a href="https://benediktdeicke.com/2017/09/sending-webhooks-with-rails/">Don’t call us, we’ll call you: Sending webhooks with Rails</a></li>
+  <li><a href="http://handypixel.com/top-15-ruby-web-applications/">Top 15 Ruby web applications</a>, <a href="http://rubyblog.pro/2017/09/couple-words-on-arrays">A couple words on Arrays in Ruby</a> и <a href="https://github.com/openblockchains/blockchain.lite.rb">Blockchain Lite (Ruby Edition)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://code.facebook.com/posts/300798627056246">Relicensing React, Jest, Flow, and Immutable.js</a>, <a href="http://blog.ionic.io/the-end-of-framework-churn/">The end of Framework Churn</a> и <a href="https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176">Angular vs. React vs. Vue: A 2017 comparison</a></li>
+  <li><a href="https://storybook.js.org/">Storybook - a development environment for UI components</a>, <a href="https://elbywan.github.io/bosket/">Bosket - a library of tree views implementations for well known front-end reactive frameworks such as Angular or React</a> и <a href="https://anvaka.github.io/ngraph.path.demo/">Ngraph.path - fast path finding for arbitrary graphs</a></li>
+</ul>
+
+<h2 id="valentine-zavadskiy">В гостях - Valentine Zavadskiy</h2>
+
+<ul>
+  <li><a href="https://github.com/Saicheg">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/valentinzavadsky/">Linkedin</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #18</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2017/09/19/to-time-preserves-time-zone-info-in-ruby-2-4.html">DateTime#to_time and Time#to_time preserves receiver’s timezone offset info in Ruby 2.4</a>, <a href="https://about.gitlab.com/2017/09/22/gitlab-10-0-released/">GitLab 10.0 Released with Auto DevOps and Group Issue Boards</a>, <a href="https://github.com/rails/rails/pull/30067">Add credentials using a generic EncryptedConfiguration class</a> и <a href="https://github.com/rails/rails/pull/30629">Add with_attached_* scope to has_one_attached macro</a></li>
+  <li><a href="https://vmakarov.fedorapeople.org/VMakarov-RubyKaigi2017.pdf">Ruby 3 JIT roadmap and status</a> и <a href="https://benediktdeicke.com/2017/09/sending-webhooks-with-rails/">Don’t call us, we’ll call you: Sending webhooks with Rails</a></li>
+  <li><a href="http://handypixel.com/top-15-ruby-web-applications/">Top 15 Ruby web applications</a>, <a href="http://rubyblog.pro/2017/09/couple-words-on-arrays">A couple words on Arrays in Ruby</a> и <a href="https://github.com/openblockchains/blockchain.lite.rb">Blockchain Lite (Ruby Edition)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://code.facebook.com/posts/300798627056246">Relicensing React, Jest, Flow, and Immutable.js</a>, <a href="http://blog.ionic.io/the-end-of-framework-churn/">The end of Framework Churn</a> и <a href="https://medium.com/unicorn-supplies/angular-vs-react-vs-vue-a-2017-comparison-c5c52d620176">Angular vs. React vs. Vue: A 2017 comparison</a></li>
+  <li><a href="https://storybook.js.org/">Storybook - a development environment for UI components</a>, <a href="https://elbywan.github.io/bosket/">Bosket - a library of tree views implementations for well known front-end reactive frameworks such as Angular or React</a> и <a href="https://anvaka.github.io/ngraph.path.demo/">Ngraph.path - fast path finding for arbitrary graphs</a></li>
+</ul>
+
+<h2 id="valentine-zavadskiy">В гостях - Valentine Zavadskiy</h2>
+
+<ul>
+  <li><a href="https://github.com/Saicheg">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/valentinzavadsky/">Linkedin</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #18</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 25 Sep 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/09/25/podcast-05-38.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/09/25/podcast-05-38.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0538.mp3" length="77440060" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0538.mp3" fileSize="77440060" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  DateTime#to_time and Time#to_time preserves re...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+DateTime#to_time and Time#to_time preserves receiver’s timezone offset info in Ruby 2.4, GitLab 10.0 Released with Auto DevOps and Group Issue Boards, Add credentials using a generic EncryptedConfiguration class и Add with_attached_* scope to has_one_attached macro
+
+  
+Ruby 3 JIT roadmap and status и Don’t call us, we’ll call you: Sending webhooks with Rails
+
+  
+Top 15 Ruby web applications, A couple words on Arrays in Ruby и Blockchain Lite (Ruby Edition)
+
+
+
+JavaScript
+
+
+  
+Relicensing React, Jest, Flow, and Immutable.js, The end of Framework Churn и Angular vs. React vs. Vue: A 2017 comparison
+
+  
+Storybook - a development environment for UI components, Bosket - a library of tree views implementations for well known front-end reactive frameworks such as Angular or React и Ngraph.path - fast path finding for arbitrary graphs
+
+
+
+В гостях - Valentine Zavadskiy
+
+
+  Github
+  Linkedin
+
+
+Conferences
+
+
+  Ruby Meditation #18
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0538.png"/>
+  <itunes:duration>01:20:38</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>37 выпуск 05 сезона. Ruby 2.4.2, Roda 3.0.0, CoffeeScript 2, Babel 7.0, GraphQL and Performance in Rails и прочее</title>
   <description>
@@ -3922,118 +4050,6 @@ Vuetify - a component framework for Vue.js 2, Voca - the ultimate JavaScript str
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0448.png"/>
   <itunes:duration>00:34:40</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>47 выпуск 04 сезона. Rails 5.0.1.rc1, TypeScript 2.1, Angular 2.3.0, 9 New Features in Ruby 2.4, TypeORM, Ng2d3 и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/12/9/Rails-5-0-1-rc2-has-been-released/">Rails 5.0.1.rc2 has been released</a>, <a href="http://www.mccartie.com/2016/12/05/rails-5.1.html">Rails 5.1: Default Primary Keys Are Now BIGINT</a>, <a href="https://github.com/rails/rails/pull/27300">Yarn is good. Yarn works</a>, <a href="https://github.com/rails/rails/pull/27288">Basic webpack integration</a> и <a href="https://github.com/rails/rails/pull/27113">jQuery no longer part of Rails and more</a></li>
-  <li><a href="http://www.blackbytes.info/2016/12/new-ruby-features/">9 New Features in Ruby 2.4</a>, <a href="https://gettalong.org/blog/2016/ruby24-performance-looking-good.html">Ruby 2.4 Performance Is Looking Good</a>, <a href="https://engineering.avvo.com/articles/transient-capybara-tests.html">Performance and stability in capybara tests</a> и <a href="https://solidfoundationwebdev.com/blog/posts/how-to-override-a-default-scope-in-rails">How To Override A Default Scope In Rails</a></li>
-  <li><a href="https://blog.fazibear.me/elixir-ruby-dont-fight-talk-with-erlectricity-dbf3af67d999">Elixir, Ruby, don’t fight. Talk… with Erlectricity</a>, <a href="https://ashishwadekar.github.io/blog/2016/12/03/search-for-location-of-method.html">Find where the method lies : source_location</a>, <a href="https://blog.codeship.com/refactoring-legacy-rails-controllers/">Refactoring Legacy Rails Controllers</a> и <a href="https://www.driftingruby.com/episodes/mail-previews-and-templates">Mail Previews and Templates (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/">Announcing TypeScript 2.1</a>, <a href="http://emberjs.com/blog/2016/11/30/ember-2-10-released.html">Ember 2.10 and 2.11 beta released</a>, <a href="http://angularjs.blogspot.com/2016/12/angular-230-now-available.html">Angular 2.3.0 Now Available</a> и <a href="https://hackernoon.com/heres-to-the-next-5-years-of-marionettejs-12cd45c1da08">Here’s to the Next 5 Years of MarionetteJs</a></li>
-  <li><a href="https://bocoup.com/weblog/javascript-developers-watch-your-language">JavaScript Developers: Watch Your Language!</a>, <a href="https://meebleforp.com/blog/36/angular-2-is-terrible">Angular 2 is terrible</a> и <a href="https://medium.com/dev-channel/custom-elements-that-work-anywhere-898e1dd2bc48">Custom Elements That Work Anywhere</a></li>
-  <li><a href="https://typeorm.github.io/">TypeORM - an Object Relational Mapper (ORM) for node.js written in that can be used with TypeScript or JavaScript (ES5, ES6, ES7)</a>, <a href="https://swimlane.github.io/ng2d3/">Ng2d3 - Angular2 + D3js Composable Re-usable Charting Framework</a>, <a href="https://svelte.technology/">Svelte - the magical disappearing UI framework</a>, <a href="https://www.boxfactura.com/pulltorefresh.js/">PulltoRefresh.js - Javascript library crafted to power your webapp’s pull to refresh feature</a> и <a href="http://styletron.js.org/">Styletron - a universal CSS-in-JS engine built from the ground up for high-performance</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/728091327348773/">Elixir Meetup 4 Lviv</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2016/12/9/Rails-5-0-1-rc2-has-been-released/">Rails 5.0.1.rc2 has been released</a>, <a href="http://www.mccartie.com/2016/12/05/rails-5.1.html">Rails 5.1: Default Primary Keys Are Now BIGINT</a>, <a href="https://github.com/rails/rails/pull/27300">Yarn is good. Yarn works</a>, <a href="https://github.com/rails/rails/pull/27288">Basic webpack integration</a> и <a href="https://github.com/rails/rails/pull/27113">jQuery no longer part of Rails and more</a></li>
-  <li><a href="http://www.blackbytes.info/2016/12/new-ruby-features/">9 New Features in Ruby 2.4</a>, <a href="https://gettalong.org/blog/2016/ruby24-performance-looking-good.html">Ruby 2.4 Performance Is Looking Good</a>, <a href="https://engineering.avvo.com/articles/transient-capybara-tests.html">Performance and stability in capybara tests</a> и <a href="https://solidfoundationwebdev.com/blog/posts/how-to-override-a-default-scope-in-rails">How To Override A Default Scope In Rails</a></li>
-  <li><a href="https://blog.fazibear.me/elixir-ruby-dont-fight-talk-with-erlectricity-dbf3af67d999">Elixir, Ruby, don’t fight. Talk… with Erlectricity</a>, <a href="https://ashishwadekar.github.io/blog/2016/12/03/search-for-location-of-method.html">Find where the method lies : source_location</a>, <a href="https://blog.codeship.com/refactoring-legacy-rails-controllers/">Refactoring Legacy Rails Controllers</a> и <a href="https://www.driftingruby.com/episodes/mail-previews-and-templates">Mail Previews and Templates (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2016/12/07/announcing-typescript-2-1/">Announcing TypeScript 2.1</a>, <a href="http://emberjs.com/blog/2016/11/30/ember-2-10-released.html">Ember 2.10 and 2.11 beta released</a>, <a href="http://angularjs.blogspot.com/2016/12/angular-230-now-available.html">Angular 2.3.0 Now Available</a> и <a href="https://hackernoon.com/heres-to-the-next-5-years-of-marionettejs-12cd45c1da08">Here’s to the Next 5 Years of MarionetteJs</a></li>
-  <li><a href="https://bocoup.com/weblog/javascript-developers-watch-your-language">JavaScript Developers: Watch Your Language!</a>, <a href="https://meebleforp.com/blog/36/angular-2-is-terrible">Angular 2 is terrible</a> и <a href="https://medium.com/dev-channel/custom-elements-that-work-anywhere-898e1dd2bc48">Custom Elements That Work Anywhere</a></li>
-  <li><a href="https://typeorm.github.io/">TypeORM - an Object Relational Mapper (ORM) for node.js written in that can be used with TypeScript or JavaScript (ES5, ES6, ES7)</a>, <a href="https://swimlane.github.io/ng2d3/">Ng2d3 - Angular2 + D3js Composable Re-usable Charting Framework</a>, <a href="https://svelte.technology/">Svelte - the magical disappearing UI framework</a>, <a href="https://www.boxfactura.com/pulltorefresh.js/">PulltoRefresh.js - Javascript library crafted to power your webapp’s pull to refresh feature</a> и <a href="http://styletron.js.org/">Styletron - a universal CSS-in-JS engine built from the ground up for high-performance</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/728091327348773/">Elixir Meetup 4 Lviv</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 12 Dec 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/12/12/podcast-04-47.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/12/12/podcast-04-47.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0447.mp3" length="46708145" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0447.mp3" fileSize="46708145" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.0.1.rc2 has been released, Rails 5.1: ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.0.1.rc2 has been released, Rails 5.1: Default Primary Keys Are Now BIGINT, Yarn is good. Yarn works, Basic webpack integration и jQuery no longer part of Rails and more
-
-  
-9 New Features in Ruby 2.4, Ruby 2.4 Performance Is Looking Good, Performance and stability in capybara tests и How To Override A Default Scope In Rails
-
-  
-Elixir, Ruby, don’t fight. Talk… with Erlectricity, Find where the method lies : source_location, Refactoring Legacy Rails Controllers и Mail Previews and Templates (video)
-
-
-
-JavaScript
-
-
-  
-Announcing TypeScript 2.1, Ember 2.10 and 2.11 beta released, Angular 2.3.0 Now Available и Here’s to the Next 5 Years of MarionetteJs
-
-  
-JavaScript Developers: Watch Your Language!, Angular 2 is terrible и Custom Elements That Work Anywhere
-
-  
-TypeORM - an Object Relational Mapper (ORM) for node.js written in that can be used with TypeScript or JavaScript (ES5, ES6, ES7), Ng2d3 - Angular2 + D3js Composable Re-usable Charting Framework, Svelte - the magical disappearing UI framework, PulltoRefresh.js - Javascript library crafted to power your webapp’s pull to refresh feature и Styletron - a universal CSS-in-JS engine built from the ground up for high-performance
-
-
-
-Conferences
-
-
-  Elixir Meetup 4 Lviv
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0447.png"/>
-  <itunes:duration>00:48:33</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
