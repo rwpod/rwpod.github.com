@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 25 Sep 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 25 Sep 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 02 Oct 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,118 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>39 выпуск 05 сезона. Refinery CMS 4.0.0, Brakeman 4.0, React v16.0, Nullalign, Draggable, Lozad.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://www.refinerycms.com/blog/posts/refinery-cms-4-dot-0-dot-0-released-with-rails-5-dot-1-support">Refinery CMS 4.0.0 Released with Rails 5.1 support</a>, <a href="https://brakemanscanner.org/blog/2017/09/25/brakeman-4-dot-0-released/">Brakeman 4.0 Released</a>, <a href="http://mlomnicki.com/yield-self-in-ruby-25/">yield_self in Ruby 2.5</a> и <a href="http://blog.bigbinary.com/2017/09/25/csv-row-each-and-delete-if-return-enumerator-when-no-block-given.html">CSV::Row#each etc. return enumerator when no block given</a></li>
+  <li><a href="http://www.carlosramireziii.com/decide-for-yourself-if-rails-is-actually-dying.html">Decide For Yourself If Rails Is Actually Dying</a>, <a href="https://www.monterail.com/blog/ruby-without-rails">What Did I Learn After Going Eighteen Months Without Rails</a> и <a href="https://github.com/puma/puma/issues/1421">Kernel#fork broken in MacOS 10.13 High Sierra. Puma and Unicorn are affected</a></li>
+  <li><a href="https://karolgalanciak.com/blog/2017/09/24/do-or-do-not-there-is-no-try-object-number-try-considered-harmful/">Do. Or Do Not. There Is No Try - Object#try Considered Harmful</a>, <a href="https://github.com/tcopeland/nullalign">Nullalign - a tool to detect missing non-null constraints in Rails projects</a> и <a href="https://www.driftingruby.com/episodes/creating-a-basic-gem">Creating a Basic Gem</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://reactjs.org/blog/2017/09/26/react-v16.0.html">React v16.0</a>, <a href="https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/">React 16: A look inside an API-compatible rewrite of our frontend UI library</a> и <a href="https://code.facebook.com/posts/121714468491809/relicensing-the-graphql-specification/">Relicensing the GraphQL specification</a></li>
+  <li><a href="http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/">setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation</a>, <a href="https://www.lullabot.com/articles/fundamentals-of-responsive-images">Fundamentals of Responsive Images</a>, <a href="https://images.guide/">Essential Image Optimization (ebook)</a></li>
+  <li><a href="https://shopify.github.io/draggable/">Draggable -  lightweight, responsive, modern drag &amp; drop library</a>, <a href="https://css-tricks.com/lozad-js-performant-lazy-loading-images/">Lozad.js: Performant Lazy Loading of Images</a> и <a href="https://github.com/yangshun/tech-interview-handbook">Technical and non-technical guide for rocking your coding interview</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #18</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://www.refinerycms.com/blog/posts/refinery-cms-4-dot-0-dot-0-released-with-rails-5-dot-1-support">Refinery CMS 4.0.0 Released with Rails 5.1 support</a>, <a href="https://brakemanscanner.org/blog/2017/09/25/brakeman-4-dot-0-released/">Brakeman 4.0 Released</a>, <a href="http://mlomnicki.com/yield-self-in-ruby-25/">yield_self in Ruby 2.5</a> и <a href="http://blog.bigbinary.com/2017/09/25/csv-row-each-and-delete-if-return-enumerator-when-no-block-given.html">CSV::Row#each etc. return enumerator when no block given</a></li>
+  <li><a href="http://www.carlosramireziii.com/decide-for-yourself-if-rails-is-actually-dying.html">Decide For Yourself If Rails Is Actually Dying</a>, <a href="https://www.monterail.com/blog/ruby-without-rails">What Did I Learn After Going Eighteen Months Without Rails</a> и <a href="https://github.com/puma/puma/issues/1421">Kernel#fork broken in MacOS 10.13 High Sierra. Puma and Unicorn are affected</a></li>
+  <li><a href="https://karolgalanciak.com/blog/2017/09/24/do-or-do-not-there-is-no-try-object-number-try-considered-harmful/">Do. Or Do Not. There Is No Try - Object#try Considered Harmful</a>, <a href="https://github.com/tcopeland/nullalign">Nullalign - a tool to detect missing non-null constraints in Rails projects</a> и <a href="https://www.driftingruby.com/episodes/creating-a-basic-gem">Creating a Basic Gem</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://reactjs.org/blog/2017/09/26/react-v16.0.html">React v16.0</a>, <a href="https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/">React 16: A look inside an API-compatible rewrite of our frontend UI library</a> и <a href="https://code.facebook.com/posts/121714468491809/relicensing-the-graphql-specification/">Relicensing the GraphQL specification</a></li>
+  <li><a href="http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/">setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation</a>, <a href="https://www.lullabot.com/articles/fundamentals-of-responsive-images">Fundamentals of Responsive Images</a>, <a href="https://images.guide/">Essential Image Optimization (ebook)</a></li>
+  <li><a href="https://shopify.github.io/draggable/">Draggable -  lightweight, responsive, modern drag &amp; drop library</a>, <a href="https://css-tricks.com/lozad-js-performant-lazy-loading-images/">Lozad.js: Performant Lazy Loading of Images</a> и <a href="https://github.com/yangshun/tech-interview-handbook">Technical and non-technical guide for rocking your coding interview</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #18</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 02 Oct 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/10/02/podcast-05-39.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/10/02/podcast-05-39.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0539.mp3" length="30970162" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0539.mp3" fileSize="30970162" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Refinery CMS 4.0.0 Released with Rails 5.1 sup...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Refinery CMS 4.0.0 Released with Rails 5.1 support, Brakeman 4.0 Released, yield_self in Ruby 2.5 и CSV::Row#each etc. return enumerator when no block given
+
+  
+Decide For Yourself If Rails Is Actually Dying, What Did I Learn After Going Eighteen Months Without Rails и Kernel#fork broken in MacOS 10.13 High Sierra. Puma and Unicorn are affected
+
+  
+Do. Or Do Not. There Is No Try - Object#try Considered Harmful, Nullalign - a tool to detect missing non-null constraints in Rails projects и Creating a Basic Gem
+
+
+
+JavaScript
+
+
+  
+React v16.0, React 16: A look inside an API-compatible rewrite of our frontend UI library и Relicensing the GraphQL specification
+
+  
+setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation, Fundamentals of Responsive Images, Essential Image Optimization (ebook)
+
+  
+Draggable -  lightweight, responsive, modern drag &amp; drop library, Lozad.js: Performant Lazy Loading of Images и Technical and non-technical guide for rocking your coding interview
+
+
+
+Conferences
+
+
+  Ruby Meditation #18
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0539.png"/>
+  <itunes:duration>00:32:14</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>38 выпуск 05 сезона. GitLab 10.0, Ruby 3 JIT roadmap, Blockchain Lite, Relicensing React, Storybook, Bosket и прочее</title>
   <description>
@@ -3956,100 +4068,6 @@ HoloJS - framework for creating holographic apps using JavaScript and WebGL, RxD
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/04/0449.png"/>
   <itunes:duration>00:27:33</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>48 выпуск 04 сезона. Ruby 2.4.0-rc1, Rake without Rails, ReadSource, Angular 4.0, React-Redux 5.0.0, Vuetify, Voca и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/12/12/ruby-2-4-0-rc1-released/">Ruby 2.4.0-rc1 Released</a> и <a href="http://blog.bigbinary.com/2016/12/13/ruby-2-4-adds-comparable-clamp-method.html">Ruby 2.4 adds Comparable#clamp method</a></li>
-  <li><a href="https://blog.fazibear.me/processing-audio-with-ruby-330796afd06">Real-time Audio Processing with Ruby</a> и <a href="http://blog.testdouble.com/posts/2016-12-15-rake-without-rails.html">Rake without Rails</a></li>
-  <li><a href="https://bogdanvlviv.github.io/posts/ruby/patterns/design-patterns-in-ruby.html">Design Patterns in Ruby</a>, <a href="https://github.com/arbox/nlp-with-ruby">Practical Natural Language Processing done in Ruby</a> и <a href="https://github.com/danielpclark/read_source">ReadSource - open any Ruby method right into your VIM editor</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://angularjs.blogspot.com/2016/12/ok-let-me-explain-its-going-to-be.html">Ok… let me explain: it’s going to be Angular 4.0, or just Angular</a>, <a href="https://github.com/reactjs/react-redux/releases/tag/v5.0.0">React-Redux 5.0.0 released</a> и <a href="http://blog.deveo.com/ember-2-10-and-glimmer-2-performance-improvements-2/">Ember 2.10 and Glimmer 2 performance improvements</a></li>
-  <li><a href="https://scotch.io/tutorials/browser-resource-hinting-with-prefetch-preconnect-and-prerender">Browser Resource Hinting with Prefetch, Preconnect, and Prerender</a>, <a href="http://calendar.perfplanet.com/2016/prefer-defer-over-async/">Prefer DEFER Over ASYNC</a> и <a href="https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8">Who said javascript was easy ?</a></li>
-  <li><a href="https://vuetifyjs.com/">Vuetify - a component framework for Vue.js 2</a>, <a href="https://vocajs.com/">Voca - the ultimate JavaScript string library</a>, <a href="https://github.com/ragingwind/learning-pwa">Learning Progressive Web App</a> и <a href="http://desmonding.me/zooming/">Zooming - image zoom that makes sense</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/12/12/ruby-2-4-0-rc1-released/">Ruby 2.4.0-rc1 Released</a> и <a href="http://blog.bigbinary.com/2016/12/13/ruby-2-4-adds-comparable-clamp-method.html">Ruby 2.4 adds Comparable#clamp method</a></li>
-  <li><a href="https://blog.fazibear.me/processing-audio-with-ruby-330796afd06">Real-time Audio Processing with Ruby</a> и <a href="http://blog.testdouble.com/posts/2016-12-15-rake-without-rails.html">Rake without Rails</a></li>
-  <li><a href="https://bogdanvlviv.github.io/posts/ruby/patterns/design-patterns-in-ruby.html">Design Patterns in Ruby</a>, <a href="https://github.com/arbox/nlp-with-ruby">Practical Natural Language Processing done in Ruby</a> и <a href="https://github.com/danielpclark/read_source">ReadSource - open any Ruby method right into your VIM editor</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://angularjs.blogspot.com/2016/12/ok-let-me-explain-its-going-to-be.html">Ok… let me explain: it’s going to be Angular 4.0, or just Angular</a>, <a href="https://github.com/reactjs/react-redux/releases/tag/v5.0.0">React-Redux 5.0.0 released</a> и <a href="http://blog.deveo.com/ember-2-10-and-glimmer-2-performance-improvements-2/">Ember 2.10 and Glimmer 2 performance improvements</a></li>
-  <li><a href="https://scotch.io/tutorials/browser-resource-hinting-with-prefetch-preconnect-and-prerender">Browser Resource Hinting with Prefetch, Preconnect, and Prerender</a>, <a href="http://calendar.perfplanet.com/2016/prefer-defer-over-async/">Prefer DEFER Over ASYNC</a> и <a href="https://hackernoon.com/who-said-javascript-easy-f4a1d5b399b8">Who said javascript was easy ?</a></li>
-  <li><a href="https://vuetifyjs.com/">Vuetify - a component framework for Vue.js 2</a>, <a href="https://vocajs.com/">Voca - the ultimate JavaScript string library</a>, <a href="https://github.com/ragingwind/learning-pwa">Learning Progressive Web App</a> и <a href="http://desmonding.me/zooming/">Zooming - image zoom that makes sense</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 19 Dec 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/12/19/podcast-04-48.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/12/19/podcast-04-48.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0448.mp3" length="33378830" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0448.mp3" fileSize="33378830" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.4.0-rc1 Released и Ruby 2.4 adds Compar...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.4.0-rc1 Released и Ruby 2.4 adds Comparable#clamp method
-
-  
-Real-time Audio Processing with Ruby и Rake without Rails
-
-  
-Design Patterns in Ruby, Practical Natural Language Processing done in Ruby и ReadSource - open any Ruby method right into your VIM editor
-
-
-
-JavaScript
-
-
-  
-Ok… let me explain: it’s going to be Angular 4.0, or just Angular, React-Redux 5.0.0 released и Ember 2.10 and Glimmer 2 performance improvements
-
-  
-Browser Resource Hinting with Prefetch, Preconnect, and Prerender, Prefer DEFER Over ASYNC и Who said javascript was easy ?
-
-  
-Vuetify - a component framework for Vue.js 2, Voca - the ultimate JavaScript string library, Learning Progressive Web App и Zooming - image zoom that makes sense
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0448.png"/>
-  <itunes:duration>00:34:40</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
