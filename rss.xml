@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 02 Oct 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 02 Oct 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 09 Oct 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>40 выпуск 05 сезона. On Bundler 2.0 compatibility, Ecto vs ActiveRecord, the road to Ember 3.0, PostgreSQL 10, CKEditor 5 и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://depfu.com/blog/2017/10/04/on-bundler-20-compatibility">On Bundler 2.0 compatibility</a> и <a href="https://www.dailydrip.com/blog/ecto-vs-activerecord">Ecto vs ActiveRecord</a></li>
+  <li><a href="https://www.postgresql.org/about/news/1786/">PostgreSQL 10 Released</a>, <a href="https://github.com/rkrage/pg_party">PgParty - ActiveRecord migrations and model helpers for creating and managing PostgreSQL 10 partitions</a> и <a href="https://github.com/exAspArk/graphql-errors">Graphql-errors - provides a simple error handling for graphql-ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://emberjs.com/blog/2017/10/03/the-road-to-ember-3-0.html">The Road to Ember 3.0</a>, <a href="https://www.sitepen.com/blog/2017/10/06/improving-performance-with-the-paint-timing-api/">Improving Performance with the Paint Timing API</a> и <a href="https://medium.com/dev-channel/the-future-of-accessibility-for-custom-elements-291cfb3ffabe">The future of accessibility for custom elements</a></li>
+  <li><a href="https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e">The many faces of this in javascript</a>, <a href="https://mathiasbynens.be/notes/async-stack-traces">Asynchronous stack traces: why await beats .then()</a> и <a href="https://ckeditor.com/ckeditor-5-builds/">CKEditor 5 Builds</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://depfu.com/blog/2017/10/04/on-bundler-20-compatibility">On Bundler 2.0 compatibility</a> и <a href="https://www.dailydrip.com/blog/ecto-vs-activerecord">Ecto vs ActiveRecord</a></li>
+  <li><a href="https://www.postgresql.org/about/news/1786/">PostgreSQL 10 Released</a>, <a href="https://github.com/rkrage/pg_party">PgParty - ActiveRecord migrations and model helpers for creating and managing PostgreSQL 10 partitions</a> и <a href="https://github.com/exAspArk/graphql-errors">Graphql-errors - provides a simple error handling for graphql-ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://emberjs.com/blog/2017/10/03/the-road-to-ember-3-0.html">The Road to Ember 3.0</a>, <a href="https://www.sitepen.com/blog/2017/10/06/improving-performance-with-the-paint-timing-api/">Improving Performance with the Paint Timing API</a> и <a href="https://medium.com/dev-channel/the-future-of-accessibility-for-custom-elements-291cfb3ffabe">The future of accessibility for custom elements</a></li>
+  <li><a href="https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e">The many faces of this in javascript</a>, <a href="https://mathiasbynens.be/notes/async-stack-traces">Asynchronous stack traces: why await beats .then()</a> и <a href="https://ckeditor.com/ckeditor-5-builds/">CKEditor 5 Builds</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 09 Oct 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/10/09/podcast-05-40.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/10/09/podcast-05-40.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0540.mp3" length="28866460" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0540.mp3" fileSize="28866460" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  On Bundler 2.0 compatibility и Ecto vs ActiveR...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+On Bundler 2.0 compatibility и Ecto vs ActiveRecord
+
+  
+PostgreSQL 10 Released, PgParty - ActiveRecord migrations and model helpers for creating and managing PostgreSQL 10 partitions и Graphql-errors - provides a simple error handling for graphql-ruby
+
+
+
+JavaScript
+
+
+  
+The Road to Ember 3.0, Improving Performance with the Paint Timing API и The future of accessibility for custom elements
+
+  
+The many faces of this in javascript, Asynchronous stack traces: why await beats .then() и CKEditor 5 Builds
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0540.png"/>
+  <itunes:duration>00:30:02</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>39 выпуск 05 сезона. Refinery CMS 4.0.0, Brakeman 4.0, React v16.0, Nullalign, Draggable, Lozad.js и прочее</title>
   <description>
@@ -3984,90 +4068,6 @@ MobX - Like React, but for Data, BunnyJS - Browser ES6 framework, Table-dragger 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0501.png"/>
   <itunes:duration>00:45:24</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>49 выпуск 04 сезона. Ruby 2.4.0, Rails 5.0.1, AnyCable, Sidekiq on Production, JavaScript: 2016 in Review, HoloJS и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/12/25/ruby-2-4-0-released/">Ruby 2.4.0 Released</a>, <a href="http://nithinbekal.com/posts/ruby-2-4-features/">What’s new in Ruby 2.4?</a>, <a href="http://blog.bigbinary.com/2016/12/21/ruby-2.4-adds-matchdata-values-at-for-extracting-named-and-positional-capture-groups.html">Ruby 2.4 adds support for extracting named capture groups using MatchData#values_at</a>, <a href="http://blog.bigbinary.com/2016/12/19/ruby-2-4-adds-infinite-method-to-numeric.html">Ruby 2.4 adds infinite? and finite? methods to Numeric</a> и <a href="http://weblog.rubyonrails.org/2016/12/21/Rails-5-0-1-has-been-released/">Rails 5.0.1 has been released</a></li>
-  <li><a href="https://evilmartians.com/chronicles/anycable-actioncable-on-steroids">AnyCable: Action Cable on steroids</a>, <a href="https://prograils.com/posts/ruby-rails-books-learn-beginners">Best Books to Learn Ruby on Rails</a> и <a href="https://www.driftingruby.com/episodes/sidekiq-on-production">Sidekiq on Production</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.sitepoint.com/javascript-2016-in-review/">JavaScript: 2016 in Review</a>, <a href="https://medium.com/@domagojk/the-js-community-needs-a-model-of-scientific-publishing-97cb2e3f8163">We need a better way of promoting JavaScript projects!</a> и <a href="https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/">Front-End Performance Checklist 2017</a></li>
-  <li><a href="https://github.com/Microsoft/HoloJS">HoloJS - framework for creating holographic apps using JavaScript and WebGL</a>, <a href="https://github.com/pubkey/rxdb">RxDB - offline-first database</a>, <a href="https://github.com/Wildhoney/Switzerland">Switzerland - a functional approach to Web Components by applying middleware to your components</a>, <a href="https://chalarangelo.github.io/mini.css/">Mini.css - minimal, responsive, style-agnostic CSS toolkit</a> и <a href="https://thomas101.github.io/wmail/">WMail - the missing desktop client for Gmail &amp; Google Inbox</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2016/12/25/ruby-2-4-0-released/">Ruby 2.4.0 Released</a>, <a href="http://nithinbekal.com/posts/ruby-2-4-features/">What’s new in Ruby 2.4?</a>, <a href="http://blog.bigbinary.com/2016/12/21/ruby-2.4-adds-matchdata-values-at-for-extracting-named-and-positional-capture-groups.html">Ruby 2.4 adds support for extracting named capture groups using MatchData#values_at</a>, <a href="http://blog.bigbinary.com/2016/12/19/ruby-2-4-adds-infinite-method-to-numeric.html">Ruby 2.4 adds infinite? and finite? methods to Numeric</a> и <a href="http://weblog.rubyonrails.org/2016/12/21/Rails-5-0-1-has-been-released/">Rails 5.0.1 has been released</a></li>
-  <li><a href="https://evilmartians.com/chronicles/anycable-actioncable-on-steroids">AnyCable: Action Cable on steroids</a>, <a href="https://prograils.com/posts/ruby-rails-books-learn-beginners">Best Books to Learn Ruby on Rails</a> и <a href="https://www.driftingruby.com/episodes/sidekiq-on-production">Sidekiq on Production</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.sitepoint.com/javascript-2016-in-review/">JavaScript: 2016 in Review</a>, <a href="https://medium.com/@domagojk/the-js-community-needs-a-model-of-scientific-publishing-97cb2e3f8163">We need a better way of promoting JavaScript projects!</a> и <a href="https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/">Front-End Performance Checklist 2017</a></li>
-  <li><a href="https://github.com/Microsoft/HoloJS">HoloJS - framework for creating holographic apps using JavaScript and WebGL</a>, <a href="https://github.com/pubkey/rxdb">RxDB - offline-first database</a>, <a href="https://github.com/Wildhoney/Switzerland">Switzerland - a functional approach to Web Components by applying middleware to your components</a>, <a href="https://chalarangelo.github.io/mini.css/">Mini.css - minimal, responsive, style-agnostic CSS toolkit</a> и <a href="https://thomas101.github.io/wmail/">WMail - the missing desktop client for Gmail &amp; Google Inbox</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 26 Dec 2016 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2016/12/26/podcast-04-49.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2016/12/26/podcast-04-49.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/04/0449.mp3" length="26550345" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/04/0449.mp3" fileSize="26550345" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.4.0 Released, What’s new in Ruby 2.4?, ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.4.0 Released, What’s new in Ruby 2.4?, Ruby 2.4 adds support for extracting named capture groups using MatchData#values_at, Ruby 2.4 adds infinite? and finite? methods to Numeric и Rails 5.0.1 has been released
-
-  
-AnyCable: Action Cable on steroids, Best Books to Learn Ruby on Rails и Sidekiq on Production
-
-
-
-JavaScript
-
-
-  
-JavaScript: 2016 in Review, We need a better way of promoting JavaScript projects! и Front-End Performance Checklist 2017
-
-  
-HoloJS - framework for creating holographic apps using JavaScript and WebGL, RxDB - offline-first database, Switzerland - a functional approach to Web Components by applying middleware to your components, Mini.css - minimal, responsive, style-agnostic CSS toolkit и WMail - the missing desktop client for Gmail &amp; Google Inbox
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/04/0449.png"/>
-  <itunes:duration>00:27:33</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
