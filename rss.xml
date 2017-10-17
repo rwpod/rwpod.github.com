@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 09 Oct 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,121 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>41 выпуск 05 сезона. Ruby 2.5.0-preview1, Reusable UI components in Rails, React Sight, ProseMirror и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2017/10/10/ruby-2-5-0-preview1-released/">Ruby 2.5.0-preview1 Released</a>, <a href="https://mlomnicki.com/improved-stascktrace-display-in-ruby25/">Improved stacktrace display in Ruby 2.5</a>, <a href="https://blog.bigbinary.com/2017/10/09/expirty-option-for-signed-and-encrypted-cookies-in-Rails-5-2.html">Rails 5.2 adds expiry option for signed and encrypted cookies and adds relative expiry time</a> и <a href="http://blog.rubygems.org/2017/10/09/unsafe-object-deserialization-vulnerability.html">Unsafe Object Deserialization Vulnerability in RubyGems</a></li>
+  <li><a href="https://blog.phusion.nl/2017/10/13/why-ruby-app-servers-break-on-macos-high-sierra-and-what-can-be-done-about-it/">Why Ruby app servers break on macOS High Sierra and what can be done about it</a> и <a href="https://www.speedshop.co/2017/10/12/appserver.html">Configuring Puma, Unicorn and Passenger for Maximum Efficiency</a></li>
+  <li><a href="http://www.carlosramireziii.com/which-json-serializer-to-use-for-a-new-rails-api.html">Which JSON Serializer To Use For A New Rails API?</a>, <a href="https://goiabada.blog/rails-components-faedd412ce19">Reusable UI components in Rails</a> и <a href="https://www.codementor.io/omedale/simple-approach-to-rails-5-api-authentication-with-json-web-token-cpqbgrdo6">Simple approach to Rails 5 API authentication with Json Web Token</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://binary-studio.com/2017/09/12/love-hate-electron/">Things to love and hate in Electron</a> и <a href="https://medium.com/@connorleech/build-a-shopping-cart-with-vue-js-and-element-ui-no-vuex-54682e9df5cd">Build a shopping cart with Vue.js and Element UI (no Vuex)</a></li>
+  <li><a href="https://eev.ee/blog/2017/10/07/javascript-got-better-while-i-wasnt-looking/">JavaScript got better while I wasn’t looking</a> и <a href="https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html">JavaScript’s Promise Leaks Memory</a></li>
+  <li><a href="https://github.com/React-Sight/React-Sight">React Sight - a live view of the component hierarchy tree of your React application</a>, <a href="http://prosemirror.net/">ProseMirror - in-browser semantic rich text editing</a> и <a href="https://blog.taucharts.com/taucharts-one/">Taucharts One</a></li>
+</ul>
+
+<h2 id="section">В гостях - Тимофей Лавник</h2>
+
+<ul>
+  <li><a href="https://github.com/nwtima">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/tim-lavnik-bb582bba/">Linkedin</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2017/10/10/ruby-2-5-0-preview1-released/">Ruby 2.5.0-preview1 Released</a>, <a href="https://mlomnicki.com/improved-stascktrace-display-in-ruby25/">Improved stacktrace display in Ruby 2.5</a>, <a href="https://blog.bigbinary.com/2017/10/09/expirty-option-for-signed-and-encrypted-cookies-in-Rails-5-2.html">Rails 5.2 adds expiry option for signed and encrypted cookies and adds relative expiry time</a> и <a href="http://blog.rubygems.org/2017/10/09/unsafe-object-deserialization-vulnerability.html">Unsafe Object Deserialization Vulnerability in RubyGems</a></li>
+  <li><a href="https://blog.phusion.nl/2017/10/13/why-ruby-app-servers-break-on-macos-high-sierra-and-what-can-be-done-about-it/">Why Ruby app servers break on macOS High Sierra and what can be done about it</a> и <a href="https://www.speedshop.co/2017/10/12/appserver.html">Configuring Puma, Unicorn and Passenger for Maximum Efficiency</a></li>
+  <li><a href="http://www.carlosramireziii.com/which-json-serializer-to-use-for-a-new-rails-api.html">Which JSON Serializer To Use For A New Rails API?</a>, <a href="https://goiabada.blog/rails-components-faedd412ce19">Reusable UI components in Rails</a> и <a href="https://www.codementor.io/omedale/simple-approach-to-rails-5-api-authentication-with-json-web-token-cpqbgrdo6">Simple approach to Rails 5 API authentication with Json Web Token</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://binary-studio.com/2017/09/12/love-hate-electron/">Things to love and hate in Electron</a> и <a href="https://medium.com/@connorleech/build-a-shopping-cart-with-vue-js-and-element-ui-no-vuex-54682e9df5cd">Build a shopping cart with Vue.js and Element UI (no Vuex)</a></li>
+  <li><a href="https://eev.ee/blog/2017/10/07/javascript-got-better-while-i-wasnt-looking/">JavaScript got better while I wasn’t looking</a> и <a href="https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html">JavaScript’s Promise Leaks Memory</a></li>
+  <li><a href="https://github.com/React-Sight/React-Sight">React Sight - a live view of the component hierarchy tree of your React application</a>, <a href="http://prosemirror.net/">ProseMirror - in-browser semantic rich text editing</a> и <a href="https://blog.taucharts.com/taucharts-one/">Taucharts One</a></li>
+</ul>
+
+<h2 id="section">В гостях - Тимофей Лавник</h2>
+
+<ul>
+  <li><a href="https://github.com/nwtima">Github</a></li>
+  <li><a href="https://www.linkedin.com/in/tim-lavnik-bb582bba/">Linkedin</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2017/10/15/podcast-05-41.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/10/15/podcast-05-41.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0541.mp3" length="50982898" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0541.mp3" fileSize="50982898" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.5.0-preview1 Released, Improved stacktr...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.5.0-preview1 Released, Improved stacktrace display in Ruby 2.5, Rails 5.2 adds expiry option for signed and encrypted cookies and adds relative expiry time и Unsafe Object Deserialization Vulnerability in RubyGems
+
+  
+Why Ruby app servers break on macOS High Sierra and what can be done about it и Configuring Puma, Unicorn and Passenger for Maximum Efficiency
+
+  
+Which JSON Serializer To Use For A New Rails API?, Reusable UI components in Rails и Simple approach to Rails 5 API authentication with Json Web Token
+
+
+
+JavaScript
+
+
+  
+Things to love and hate in Electron и Build a shopping cart with Vue.js and Element UI (no Vuex)
+
+  
+JavaScript got better while I wasn’t looking и JavaScript’s Promise Leaks Memory
+
+  
+React Sight - a live view of the component hierarchy tree of your React application, ProseMirror - in-browser semantic rich text editing и Taucharts One
+
+
+
+В гостях - Тимофей Лавник
+
+
+  Github
+  Linkedin
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0541.png"/>
+  <itunes:duration>00:53:05</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>40 выпуск 05 сезона. On Bundler 2.0 compatibility, Ecto vs ActiveRecord, the road to Ember 3.0, PostgreSQL 10, CKEditor 5 и прочее</title>
   <description>
@@ -3974,100 +4089,6 @@ Build Your Own Atom Theme with CSS, Vuelidate - simple, lightweight model-based 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0502.png"/>
   <itunes:duration>00:30:33</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>01 выпуск 05 сезона. Concurrency in Rails 5.0, Rails Security Checklist, 10 Web Predictions for 2017, MobX, BunnyJS, Leakage и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/12/29/ruby-2-4-adds-compare-by-identity-functionality-for-sets.html">Ruby 2.4 adds Set#compare_by_identity and Set#compare_by_identity? methods</a>, <a href="https://blog.heroku.com/ruby-2-4-features-hashes-integers-rounding">Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding</a> и <a href="https://medium.com/statuscode/the-15-most-popular-ruby-links-of-2016-ff3cf06d5b80">The 15 most popular Ruby links of 2016</a></li>
-  <li><a href="https://bibwild.wordpress.com/2016/12/29/concurrency-in-rails-5-0/">Concurrency in Rails 5.0</a>, <a href="https://www.citusdata.com/blog/2017/01/05/easily-scale-out-multi-tenant-apps/">Scale Out Multi-Tenant Apps based on Ruby on Rails</a> и <a href="https://crystal-lang.org/2016/12/29/crystal-new-year-resolutions-for-2017-1-0.html">Crystal new year resolutions for 2017: 1.0</a></li>
-  <li><a href="https://github.com/eliotsykes/rails-security-checklist">Rails Security Checklist</a>, <a href="https://www.driftingruby.com/episodes/periodic-tasks-with-sidekiq-cron">Periodic Tasks with sidekiq-cron</a>, <a href="https://github.com/khiav223577/rails_or">RailsOr - support &amp;&amp; Add syntax sugar to #or query method in Rails 3, 4, 5</a> и <a href="https://github.com/khiav223577/pluck_all">PluckAll - pluck multiple attributes in Rails 3, 4, 5, and can return data as hash instead of only array</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/commit-push/the-top-rising-javascript-trends-to-watch-in-2017-86d8e87db3b3">The top rising JavaScript trends to watch in 2017</a>, <a href="https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd">What to learn in 2017 if you’re a frontend developer</a>, <a href="https://www.sitepoint.com/10-web-predictions-for-2017/">10 Web Predictions for 2017</a>, <a href="https://medium.com/the-vue-point/vue-in-2016-8df71d98bfb3">Vue in 2016</a> и <a href="https://infernojs.org/">InfernoJS 1.0</a></li>
-  <li><a href="https://hackernoon.com/web-bloat-isnt-a-knowledge-problem-46e561031663">Web bloat isn’t a knowledge problem</a>, <a href="https://hackernoon.com/lazy-evaluation-in-javascript-84f7072631b7">Lazy Evaluation in Javascript</a>, <a href="https://ponyfoo.com/articles/var-let-const">Let’s use const! Here’s why</a> и <a href="https://tylergaw.com/articles/sass-to-postcss">From Sass to PostCSS</a></li>
-  <li><a href="http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html">MobX - Like React, but for Data</a>, <a href="https://bunnyjs.com/">BunnyJS - Browser ES6 framework</a>, <a href="https://sindu12jun.github.io/table-dragger/">Table-dragger - easily add drag-and-drop sorting to your table without jQuery</a>, <a href="http://mrcoles.com/demo/markdown-css/">Markdown.css - CSS to make HTML markup look like plain-text markdown</a>, <a href="https://github.com/avajs/ava">AVA - a blazing fast, concurrent, and futuristic test runner</a>, <a href="https://github.com/andywer/leakage">Leakage - Memory Leak Testing for Node</a> и <a href="https://dixonandmoe.com/rellax/">Rellax - a buttery smooth, lightweight, vanilla javascript parallax library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2016/12/29/ruby-2-4-adds-compare-by-identity-functionality-for-sets.html">Ruby 2.4 adds Set#compare_by_identity and Set#compare_by_identity? methods</a>, <a href="https://blog.heroku.com/ruby-2-4-features-hashes-integers-rounding">Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding</a> и <a href="https://medium.com/statuscode/the-15-most-popular-ruby-links-of-2016-ff3cf06d5b80">The 15 most popular Ruby links of 2016</a></li>
-  <li><a href="https://bibwild.wordpress.com/2016/12/29/concurrency-in-rails-5-0/">Concurrency in Rails 5.0</a>, <a href="https://www.citusdata.com/blog/2017/01/05/easily-scale-out-multi-tenant-apps/">Scale Out Multi-Tenant Apps based on Ruby on Rails</a> и <a href="https://crystal-lang.org/2016/12/29/crystal-new-year-resolutions-for-2017-1-0.html">Crystal new year resolutions for 2017: 1.0</a></li>
-  <li><a href="https://github.com/eliotsykes/rails-security-checklist">Rails Security Checklist</a>, <a href="https://www.driftingruby.com/episodes/periodic-tasks-with-sidekiq-cron">Periodic Tasks with sidekiq-cron</a>, <a href="https://github.com/khiav223577/rails_or">RailsOr - support &amp;&amp; Add syntax sugar to #or query method in Rails 3, 4, 5</a> и <a href="https://github.com/khiav223577/pluck_all">PluckAll - pluck multiple attributes in Rails 3, 4, 5, and can return data as hash instead of only array</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/commit-push/the-top-rising-javascript-trends-to-watch-in-2017-86d8e87db3b3">The top rising JavaScript trends to watch in 2017</a>, <a href="https://medium.com/@sapegin/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd">What to learn in 2017 if you’re a frontend developer</a>, <a href="https://www.sitepoint.com/10-web-predictions-for-2017/">10 Web Predictions for 2017</a>, <a href="https://medium.com/the-vue-point/vue-in-2016-8df71d98bfb3">Vue in 2016</a> и <a href="https://infernojs.org/">InfernoJS 1.0</a></li>
-  <li><a href="https://hackernoon.com/web-bloat-isnt-a-knowledge-problem-46e561031663">Web bloat isn’t a knowledge problem</a>, <a href="https://hackernoon.com/lazy-evaluation-in-javascript-84f7072631b7">Lazy Evaluation in Javascript</a>, <a href="https://ponyfoo.com/articles/var-let-const">Let’s use const! Here’s why</a> и <a href="https://tylergaw.com/articles/sass-to-postcss">From Sass to PostCSS</a></li>
-  <li><a href="http://danielearwicker.github.io/MobX_Like_React_but_for_Data.html">MobX - Like React, but for Data</a>, <a href="https://bunnyjs.com/">BunnyJS - Browser ES6 framework</a>, <a href="https://sindu12jun.github.io/table-dragger/">Table-dragger - easily add drag-and-drop sorting to your table without jQuery</a>, <a href="http://mrcoles.com/demo/markdown-css/">Markdown.css - CSS to make HTML markup look like plain-text markdown</a>, <a href="https://github.com/avajs/ava">AVA - a blazing fast, concurrent, and futuristic test runner</a>, <a href="https://github.com/andywer/leakage">Leakage - Memory Leak Testing for Node</a> и <a href="https://dixonandmoe.com/rellax/">Rellax - a buttery smooth, lightweight, vanilla javascript parallax library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 09 Jan 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/01/09/podcast-05-01.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/09/podcast-05-01.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0501.mp3" length="43692225" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0501.mp3" fileSize="43692225" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.4 adds Set#compare_by_identity and Set#...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.4 adds Set#compare_by_identity and Set#compare_by_identity? methods, Ruby 2.4 Released: Faster Hashes, Unified Integers and Better Rounding и The 15 most popular Ruby links of 2016
-
-  
-Concurrency in Rails 5.0, Scale Out Multi-Tenant Apps based on Ruby on Rails и Crystal new year resolutions for 2017: 1.0
-
-  
-Rails Security Checklist, Periodic Tasks with sidekiq-cron, RailsOr - support &amp;&amp; Add syntax sugar to #or query method in Rails 3, 4, 5 и PluckAll - pluck multiple attributes in Rails 3, 4, 5, and can return data as hash instead of only array
-
-
-
-JavaScript
-
-
-  
-The top rising JavaScript trends to watch in 2017, What to learn in 2017 if you’re a frontend developer, 10 Web Predictions for 2017, Vue in 2016 и InfernoJS 1.0
-
-  
-Web bloat isn’t a knowledge problem, Lazy Evaluation in Javascript, Let’s use const! Here’s why и From Sass to PostCSS
-
-  
-MobX - Like React, but for Data, BunnyJS - Browser ES6 framework, Table-dragger - easily add drag-and-drop sorting to your table without jQuery, Markdown.css - CSS to make HTML markup look like plain-text markdown, AVA - a blazing fast, concurrent, and futuristic test runner, Leakage - Memory Leak Testing for Node и Rellax - a buttery smooth, lightweight, vanilla javascript parallax library
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0501.png"/>
-  <itunes:duration>00:45:24</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
