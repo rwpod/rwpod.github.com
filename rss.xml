@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 23 Oct 2017 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 23 Oct 2017 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 30 Oct 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>43 выпуск 05 сезона. Hanami v1.1.0, Scaling the GitLab database, Modern JavaScript Explained For Dinosaurs, React-mosaic, HEML и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html">Announcing Hanami v1.1.0</a>, <a href="https://blog.bigbinary.com/2017/10/24/ruby-2.5-allows-rescue-inside-do-end-blocks">Ruby 2.5 allows rescue/else/ensure inside do/end blocks</a> и <a href="https://medium.com/@gorbikoff/ruby-hash-key-showdown-symbol-vs-string-c0655afbcfca">Ruby Hash[key] Showdown :symbol vs “string”</a></li>
+  <li><a href="https://about.gitlab.com/2017/10/02/scaling-the-gitlab-database/">Scaling the GitLab database</a>, <a href="https://ksylvest.com/posts/2017-10-27/transactions-in-ruby-on-rails-and-atomic-bugs">Transactions in Ruby on Rails and Atomic Bugs</a> и <a href="https://www.schneems.com/2017/10/23/wtf-is-a-thread/">WTF is a Thread</a></li>
+  <li><a href="https://www.practicalai.io/implementing-ocr-using-random-forest-classifier-ruby/">Implementing OCR using a Random Forest Classifier in Ruby</a>, <a href="https://chase.pursu.es/how-to-be-good-at-turbolinks-5.html">How to Be Good at Turbolinks 5</a> и <a href="https://www.driftingruby.com/episodes/sample-data-with-factory-bot-and-faker">Sample Data with Factory Bot and Faker</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://nodejs.org/en/blog/vulnerability/oct-2017-dos/">DOS security vulnerability, October 2017</a>, <a href="https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/">Saying Goodbye to Firebug</a> и <a href="https://redfin.engineering/i-watched-all-of-the-chrome-dev-summit-2017-videos-so-you-dont-have-to-9b62a593c3cb">I Watched All of the Chrome Dev Summit 2017 Videos So You Don’t Have To</a></li>
+  <li><a href="https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern JavaScript Explained For Dinosaurs</a> и <a href="https://medium.com/samsung-internet-dev/success-with-css-33215f481422">Success with CSS</a></li>
+  <li><a href="https://palantir.github.io/react-mosaic/">React-mosaic - a full-featured React Tiling Window Manager</a>, <a href="https://github.com/FormidableLabs/webpack-dashboard">Webpack-dashboard - a CLI dashboard for your webpack dev server</a>, <a href="https://heml.io/">HEML - an open source markup language for building responsive email</a> и <a href="https://hunzaboy.github.io/Light-Modal/">Light Modal - a simple light-weight yet powerful and customizable css modal for content and images</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html">Announcing Hanami v1.1.0</a>, <a href="https://blog.bigbinary.com/2017/10/24/ruby-2.5-allows-rescue-inside-do-end-blocks">Ruby 2.5 allows rescue/else/ensure inside do/end blocks</a> и <a href="https://medium.com/@gorbikoff/ruby-hash-key-showdown-symbol-vs-string-c0655afbcfca">Ruby Hash[key] Showdown :symbol vs “string”</a></li>
+  <li><a href="https://about.gitlab.com/2017/10/02/scaling-the-gitlab-database/">Scaling the GitLab database</a>, <a href="https://ksylvest.com/posts/2017-10-27/transactions-in-ruby-on-rails-and-atomic-bugs">Transactions in Ruby on Rails and Atomic Bugs</a> и <a href="https://www.schneems.com/2017/10/23/wtf-is-a-thread/">WTF is a Thread</a></li>
+  <li><a href="https://www.practicalai.io/implementing-ocr-using-random-forest-classifier-ruby/">Implementing OCR using a Random Forest Classifier in Ruby</a>, <a href="https://chase.pursu.es/how-to-be-good-at-turbolinks-5.html">How to Be Good at Turbolinks 5</a> и <a href="https://www.driftingruby.com/episodes/sample-data-with-factory-bot-and-faker">Sample Data with Factory Bot and Faker</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://nodejs.org/en/blog/vulnerability/oct-2017-dos/">DOS security vulnerability, October 2017</a>, <a href="https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/">Saying Goodbye to Firebug</a> и <a href="https://redfin.engineering/i-watched-all-of-the-chrome-dev-summit-2017-videos-so-you-dont-have-to-9b62a593c3cb">I Watched All of the Chrome Dev Summit 2017 Videos So You Don’t Have To</a></li>
+  <li><a href="https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern JavaScript Explained For Dinosaurs</a> и <a href="https://medium.com/samsung-internet-dev/success-with-css-33215f481422">Success with CSS</a></li>
+  <li><a href="https://palantir.github.io/react-mosaic/">React-mosaic - a full-featured React Tiling Window Manager</a>, <a href="https://github.com/FormidableLabs/webpack-dashboard">Webpack-dashboard - a CLI dashboard for your webpack dev server</a>, <a href="https://heml.io/">HEML - an open source markup language for building responsive email</a> и <a href="https://hunzaboy.github.io/Light-Modal/">Light Modal - a simple light-weight yet powerful and customizable css modal for content and images</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Oct 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/10/30/podcast-05-43.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/10/30/podcast-05-43.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0543.mp3" length="32592012" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0543.mp3" fileSize="32592012" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Announcing Hanami v1.1.0, Ruby 2.5 allows resc...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Announcing Hanami v1.1.0, Ruby 2.5 allows rescue/else/ensure inside do/end blocks и Ruby Hash[key] Showdown :symbol vs “string”
+
+  
+Scaling the GitLab database, Transactions in Ruby on Rails and Atomic Bugs и WTF is a Thread
+
+  
+Implementing OCR using a Random Forest Classifier in Ruby, How to Be Good at Turbolinks 5 и Sample Data with Factory Bot and Faker
+
+
+
+JavaScript
+
+
+  
+DOS security vulnerability, October 2017, Saying Goodbye to Firebug и I Watched All of the Chrome Dev Summit 2017 Videos So You Don’t Have To
+
+  
+Modern JavaScript Explained For Dinosaurs и Success with CSS
+
+  
+React-mosaic - a full-featured React Tiling Window Manager, Webpack-dashboard - a CLI dashboard for your webpack dev server, HEML - an open source markup language for building responsive email и Light Modal - a simple light-weight yet powerful and customizable css modal for content and images
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0543.png"/>
+  <itunes:duration>00:33:55</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>42 выпуск 05 сезона. ROM 4.0.0, Next.js 4, The melting pot of JavaScript, InvoicePrinter, Factory_bot и прочее</title>
   <description>
@@ -3995,100 +4089,6 @@ Swarm-numberformat - format large numbers in several human-readable ways, Tilt.j
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0504.png"/>
   <itunes:duration>01:02:25</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>03 выпуск 05 сезона. Passenger 5.1, Webpack 2.2, KaTeX for Ruby, Chartkick, Mermaid, LocalForage, Tone.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.phusion.nl/2017/01/10/passenger-5-1-1/">Passenger 5.1: a new milestone in robustness, security and efficiency</a> и <a href="https://infinum.co/the-capsized-eight/analyzing-rubygems-stats-v2016">Is Ruby dead? Hell no! - Analyzing RubyGems stats for 2016</a></li>
-  <li><a href="http://www.rubyletter.com/blog/2017/01/18/ruby-triple-equals-operator.html">Ruby’s Mysterious Triple Equals Operator, a.k.a. Case Equality Operator</a>, <a href="https://depfu.io/blog/2017/01/18/bundler-and-gemfile-best-practices">Bundler and Gemfile best practices</a> и <a href="http://dalibornasevic.com/posts/77-auto-reconnect-for-activerecord-connections">Auto-reconnect for ActiveRecord connections</a></li>
-  <li><a href="http://masa331.github.io/2017/01/10/writing_sprockets_plugin.html">Writing a Sprockets plugin</a>, <a href="https://github.com/glebm/katex-ruby">KaTeX for Ruby</a> и <a href="http://blog.redpanthers.co/chartkick-data-visualization-easy-ruby/">Chartkick: data visualization made easy with Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://fabric.io/blog/fabric-joins-google">Fabric is Joining Google</a>, <a href="http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html">RethinkDB: why we failed</a>, <a href="https://medium.com/@lucasdaltro/learning-javascript-in-2017-sucks-and-this-is-very-good-35e883223406">Learning JavaScript in 2017 sucks and this is awesome!</a> и <a href="https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144">Webpack 2.2: The Final Release</a></li>
-  <li><a href="https://bitsofco.de/3-new-css-features-to-learn-in-2017/">3 New CSS Features to Learn in 2017</a>, <a href="http://webdesignerwall.com/tutorials/create-spotify-colorizer-effects-css-blend-modes">How to Create Spotify Colorizer Effects With CSS Blend Modes</a> и <a href="https://kostasbariotis.com/removeeventlistener-and-this/">removeEventListener and this</a></li>
-  <li><a href="http://knsv.github.io/mermaid/">Mermaid - generation of diagrams and flowcharts from text in a similar manner as markdown</a>, <a href="https://localforage.github.io/localForage/">LocalForage - a JavaScript library that improves the offline experience of your web app by using an asynchronous data store with a simple</a> и <a href="https://tonejs.github.io/">Tone.js - a framework for creating interactive music in the browser</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.phusion.nl/2017/01/10/passenger-5-1-1/">Passenger 5.1: a new milestone in robustness, security and efficiency</a> и <a href="https://infinum.co/the-capsized-eight/analyzing-rubygems-stats-v2016">Is Ruby dead? Hell no! - Analyzing RubyGems stats for 2016</a></li>
-  <li><a href="http://www.rubyletter.com/blog/2017/01/18/ruby-triple-equals-operator.html">Ruby’s Mysterious Triple Equals Operator, a.k.a. Case Equality Operator</a>, <a href="https://depfu.io/blog/2017/01/18/bundler-and-gemfile-best-practices">Bundler and Gemfile best practices</a> и <a href="http://dalibornasevic.com/posts/77-auto-reconnect-for-activerecord-connections">Auto-reconnect for ActiveRecord connections</a></li>
-  <li><a href="http://masa331.github.io/2017/01/10/writing_sprockets_plugin.html">Writing a Sprockets plugin</a>, <a href="https://github.com/glebm/katex-ruby">KaTeX for Ruby</a> и <a href="http://blog.redpanthers.co/chartkick-data-visualization-easy-ruby/">Chartkick: data visualization made easy with Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://fabric.io/blog/fabric-joins-google">Fabric is Joining Google</a>, <a href="http://www.defstartup.org/2017/01/18/why-rethinkdb-failed.html">RethinkDB: why we failed</a>, <a href="https://medium.com/@lucasdaltro/learning-javascript-in-2017-sucks-and-this-is-very-good-35e883223406">Learning JavaScript in 2017 sucks and this is awesome!</a> и <a href="https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144">Webpack 2.2: The Final Release</a></li>
-  <li><a href="https://bitsofco.de/3-new-css-features-to-learn-in-2017/">3 New CSS Features to Learn in 2017</a>, <a href="http://webdesignerwall.com/tutorials/create-spotify-colorizer-effects-css-blend-modes">How to Create Spotify Colorizer Effects With CSS Blend Modes</a> и <a href="https://kostasbariotis.com/removeeventlistener-and-this/">removeEventListener and this</a></li>
-  <li><a href="http://knsv.github.io/mermaid/">Mermaid - generation of diagrams and flowcharts from text in a similar manner as markdown</a>, <a href="https://localforage.github.io/localForage/">LocalForage - a JavaScript library that improves the offline experience of your web app by using an asynchronous data store with a simple</a> и <a href="https://tonejs.github.io/">Tone.js - a framework for creating interactive music in the browser</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Sun, 22 Jan 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/01/22/podcast-05-03.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/22/podcast-05-03.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0503.mp3" length="40647215" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0503.mp3" fileSize="40647215" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Passenger 5.1: a new milestone in robustness, ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Passenger 5.1: a new milestone in robustness, security and efficiency и Is Ruby dead? Hell no! - Analyzing RubyGems stats for 2016
-
-  
-Ruby’s Mysterious Triple Equals Operator, a.k.a. Case Equality Operator, Bundler and Gemfile best practices и Auto-reconnect for ActiveRecord connections
-
-  
-Writing a Sprockets plugin, KaTeX for Ruby и Chartkick: data visualization made easy with Ruby
-
-
-
-JavaScript
-
-
-  
-Fabric is Joining Google, RethinkDB: why we failed, Learning JavaScript in 2017 sucks and this is awesome! и Webpack 2.2: The Final Release
-
-  
-3 New CSS Features to Learn in 2017, How to Create Spotify Colorizer Effects With CSS Blend Modes и removeEventListener and this
-
-  
-Mermaid - generation of diagrams and flowcharts from text in a similar manner as markdown, LocalForage - a JavaScript library that improves the offline experience of your web app by using an asynchronous data store with a simple и Tone.js - a framework for creating interactive music in the browser
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0503.png"/>
-  <itunes:duration>00:42:13</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
