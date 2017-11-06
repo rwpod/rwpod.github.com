@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 30 Oct 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 30 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 06 Nov 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 06 Nov 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>44 выпуск 05 сезона. Performance Improvements in Ruby 2.5, Testing Stripe with Rails and RSpec, Electron.NET и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://www.rubyguides.com/2017/11/ruby-2-5-performance/">Performance Improvements in Ruby 2.5</a>, <a href="https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot">Lucky, an experimental new web framework by thoughtbot</a> и <a href="https://blog.heroku.com/pci-compliance-for-heroku-shield">Announcing PCI Compliance for Heroku Shield</a></li>
+  <li><a href="http://blog.arkency.com/a-bug-that-only-appears-once-a-year/">A bug that only appears once a year</a>, <a href="http://blog.honeybadger.io/cleanly-scaling-sidekiq/">Cleanly Scaling Sidekiq</a> и <a href="https://hackernoon.com/testing-stripe-with-rails-and-rspec-de79e1206839">Testing Stripe with Rails and RSpec</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/the-node-js-collection/news-node-js-8-moves-into-long-term-support-and-node-js-9-becomes-the-new-current-release-line-74cf754a10a0">Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line</a>, <a href="https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced">Version 5.0.0 of Angular Now Available</a> и <a href="https://about.sourcegraph.com/graphql/graphql-at-massive-scale-graphql-as-the-glue-in-a-microservice-architecture/">GraphQL at massive scale: GraphQL as the glue in a microservice architecture</a></li>
+  <li><a href="https://github.com/ElectronNET/Electron.NET">Electron.NET - build cross platform desktop apps with ASP.NET NET Core</a>, <a href="https://maptalks.org/">Maptalks.js - a light JavaScript library for integrated 2D/3D maps</a>, <a href="https://frappe.github.io/charts/">Frappé Charts - a github-inspired simple and modern charts for the web with zero dependencies</a> и <a href="https://www.focusingly.net/">Focusingly - a JavaScript library for better focus styling</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://www.rubyguides.com/2017/11/ruby-2-5-performance/">Performance Improvements in Ruby 2.5</a>, <a href="https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot">Lucky, an experimental new web framework by thoughtbot</a> и <a href="https://blog.heroku.com/pci-compliance-for-heroku-shield">Announcing PCI Compliance for Heroku Shield</a></li>
+  <li><a href="http://blog.arkency.com/a-bug-that-only-appears-once-a-year/">A bug that only appears once a year</a>, <a href="http://blog.honeybadger.io/cleanly-scaling-sidekiq/">Cleanly Scaling Sidekiq</a> и <a href="https://hackernoon.com/testing-stripe-with-rails-and-rspec-de79e1206839">Testing Stripe with Rails and RSpec</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/the-node-js-collection/news-node-js-8-moves-into-long-term-support-and-node-js-9-becomes-the-new-current-release-line-74cf754a10a0">Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line</a>, <a href="https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced">Version 5.0.0 of Angular Now Available</a> и <a href="https://about.sourcegraph.com/graphql/graphql-at-massive-scale-graphql-as-the-glue-in-a-microservice-architecture/">GraphQL at massive scale: GraphQL as the glue in a microservice architecture</a></li>
+  <li><a href="https://github.com/ElectronNET/Electron.NET">Electron.NET - build cross platform desktop apps with ASP.NET NET Core</a>, <a href="https://maptalks.org/">Maptalks.js - a light JavaScript library for integrated 2D/3D maps</a>, <a href="https://frappe.github.io/charts/">Frappé Charts - a github-inspired simple and modern charts for the web with zero dependencies</a> и <a href="https://www.focusingly.net/">Focusingly - a JavaScript library for better focus styling</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 06 Nov 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/11/06/podcast-05-44.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/11/06/podcast-05-44.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0544.mp3" length="18457106" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0544.mp3" fileSize="18457106" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Performance Improvements in Ruby 2.5, Lucky, a...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Performance Improvements in Ruby 2.5, Lucky, an experimental new web framework by thoughtbot и Announcing PCI Compliance for Heroku Shield
+
+  
+A bug that only appears once a year, Cleanly Scaling Sidekiq и Testing Stripe with Rails and RSpec
+
+
+
+JavaScript
+
+
+  
+Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line, Version 5.0.0 of Angular Now Available и GraphQL at massive scale: GraphQL as the glue in a microservice architecture
+
+  
+Electron.NET - build cross platform desktop apps with ASP.NET NET Core, Maptalks.js - a light JavaScript library for integrated 2D/3D maps, Frappé Charts - a github-inspired simple and modern charts for the web with zero dependencies и Focusingly - a JavaScript library for better focus styling
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0544.png"/>
+  <itunes:duration>00:19:12</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>43 выпуск 05 сезона. Hanami v1.1.0, Scaling the GitLab database, Modern JavaScript Explained For Dinosaurs, React-mosaic, HEML и прочее</title>
   <description>
@@ -3995,100 +4079,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0505.png"/>
   <itunes:duration>00:48:54</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>04 выпуск 05 сезона. ROM 3.0, Ionic 2.0.0 Final, Elixir for Rubyists, Swarm-numberformat, Tilt.js, QArt.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://rom-rb.org/blog/rom-3-0-released/">ROM 3.0 Released</a>, <a href="https://pragtob.wordpress.com/2017/01/24/benchmarking-a-go-ai-in-ruby-cruby-vs-rubinius-vs-jruby-vs-truffle-a-year-later/">Benchmarking a Go AI in Ruby: CRuby vs. Rubinius vs. JRuby vs. Truffle – a year later</a> и <a href="https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017/answer/David-Heinemeier-Hansson?srid=tfS&amp;share=1">What makes Rails a framework worth learning in 2017?</a></li>
-  <li><a href="http://www.carlosramireziii.com/how-to-add-active-admin-to-a-rails-5-api-application.html">How To Add Active Admin to a Rails 5 API Application</a> и <a href="https://hackernoon.com/smooth-coordinator-1427dce17f00">Build your first Facebook Messenger bot in Ruby with Sinatra</a></li>
-  <li><a href="http://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/">The Difference Between to_s &amp; to_str In Ruby</a>, <a href="https://startlearningelixir.com/elixir-for-rubyists">Elixir for Rubyists</a> и <a href="https://www.driftingruby.com/episodes/random-ruby-tips-and-tricks">Random Ruby Tips and Tricks</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.ionic.io/announcing-ionic-2-0-0-final/">Announcing Ionic 2.0.0 Final</a>, <a href="http://www.2ality.com/2017/01/shared-array-buffer.html">ES proposal: Shared memory and atomics</a> и <a href="https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/">Making Responsive HTML Email Coding Easy With MJML</a></li>
-  <li><a href="https://rsms.me/wasm-intro">Introduction to WebAssembly</a>, <a href="http://blog.mgechev.com/2017/01/17/angular-in-production/">Angular in Production</a> и <a href="https://rachelandrew.co.uk/archives/2017/01/24/the-end-of-the-clearfix-hack/">The end of the clearfix hack?</a></li>
-  <li><a href="https://erosson.github.io/swarm-numberformat/">Swarm-numberformat - format large numbers in several human-readable ways</a>, <a href="http://gijsroge.github.io/tilt.js/">Tilt.js - tiny requestAnimationFrame powered 60+fps</a> и <a href="https://kciter.github.io/qart.js/">QArt.js - generate artistic QR code</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://rom-rb.org/blog/rom-3-0-released/">ROM 3.0 Released</a>, <a href="https://pragtob.wordpress.com/2017/01/24/benchmarking-a-go-ai-in-ruby-cruby-vs-rubinius-vs-jruby-vs-truffle-a-year-later/">Benchmarking a Go AI in Ruby: CRuby vs. Rubinius vs. JRuby vs. Truffle – a year later</a> и <a href="https://www.quora.com/What-makes-Rails-a-framework-worth-learning-in-2017/answer/David-Heinemeier-Hansson?srid=tfS&amp;share=1">What makes Rails a framework worth learning in 2017?</a></li>
-  <li><a href="http://www.carlosramireziii.com/how-to-add-active-admin-to-a-rails-5-api-application.html">How To Add Active Admin to a Rails 5 API Application</a> и <a href="https://hackernoon.com/smooth-coordinator-1427dce17f00">Build your first Facebook Messenger bot in Ruby with Sinatra</a></li>
-  <li><a href="http://marcgg.com/blog/2017/01/23/ruby-to-s-to-str/">The Difference Between to_s &amp; to_str In Ruby</a>, <a href="https://startlearningelixir.com/elixir-for-rubyists">Elixir for Rubyists</a> и <a href="https://www.driftingruby.com/episodes/random-ruby-tips-and-tricks">Random Ruby Tips and Tricks</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.ionic.io/announcing-ionic-2-0-0-final/">Announcing Ionic 2.0.0 Final</a>, <a href="http://www.2ality.com/2017/01/shared-array-buffer.html">ES proposal: Shared memory and atomics</a> и <a href="https://www.smashingmagazine.com/2017/01/making-responsive-html-email-coding-easy-with-mjml/">Making Responsive HTML Email Coding Easy With MJML</a></li>
-  <li><a href="https://rsms.me/wasm-intro">Introduction to WebAssembly</a>, <a href="http://blog.mgechev.com/2017/01/17/angular-in-production/">Angular in Production</a> и <a href="https://rachelandrew.co.uk/archives/2017/01/24/the-end-of-the-clearfix-hack/">The end of the clearfix hack?</a></li>
-  <li><a href="https://erosson.github.io/swarm-numberformat/">Swarm-numberformat - format large numbers in several human-readable ways</a>, <a href="http://gijsroge.github.io/tilt.js/">Tilt.js - tiny requestAnimationFrame powered 60+fps</a> и <a href="https://kciter.github.io/qart.js/">QArt.js - generate artistic QR code</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 30 Jan 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/01/30/podcast-05-04.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/01/30/podcast-05-04.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0504.mp3" length="59916984" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0504.mp3" fileSize="59916984" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  ROM 3.0 Released, Benchmarking a Go AI in Ruby...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-ROM 3.0 Released, Benchmarking a Go AI in Ruby: CRuby vs. Rubinius vs. JRuby vs. Truffle – a year later и What makes Rails a framework worth learning in 2017?
-
-  
-How To Add Active Admin to a Rails 5 API Application и Build your first Facebook Messenger bot in Ruby with Sinatra
-
-  
-The Difference Between to_s &amp; to_str In Ruby, Elixir for Rubyists и Random Ruby Tips and Tricks
-
-
-
-JavaScript
-
-
-  
-Announcing Ionic 2.0.0 Final, ES proposal: Shared memory and atomics и Making Responsive HTML Email Coding Easy With MJML
-
-  
-Introduction to WebAssembly, Angular in Production и The end of the clearfix hack?
-
-  
-Swarm-numberformat - format large numbers in several human-readable ways, Tilt.js - tiny requestAnimationFrame powered 60+fps и QArt.js - generate artistic QR code
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0504.png"/>
-  <itunes:duration>01:02:25</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
