@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 13 Nov 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 13 Nov 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 20 Nov 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,111 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>46 выпуск 05 сезона. Karafka 1.1.0, Firefox Quantum, Embracing metrics as new tests, Teletype и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/11/14/do-no-load-all-records-on-activerecord-relation-inspect.html">Rails 5.1 does not load all records on ActiveRecord::Relation#inspect</a>, <a href="https://medium.com/@maciejmensfeld/karafka-ruby-kafka-framework-1-1-0-release-notes-b4c91170ecba">Karafka (Ruby + Kafka) framework 1.1.0 Release Notes</a> и <a href="https://www.mayerdan.com/ruby/2017/11/12/active-record-documentation-in-rails">Active Record Database Documentation</a></li>
+  <li><a href="https://evilmartians.com/chronicles/embracing-metrics-as-new-tests">Embracing metrics as new tests</a> и <a href="http://shiroyasha.io/advisory-locks-and-how-to-use-them.html">Advisory Locks and How to Use Them</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.mozilla.org/firefox/the-new-firefox-is-here/">The New Firefox Is Here!</a>, <a href="https://blog.mozilla.org/blog/2017/11/13/webassembly-in-browsers/">WebAssembly support now shipping in all major browsers</a> и <a href="https://www.w3.org/2017/11/w3c-highlights/">W3C Strategic Highlights</a></li>
+  <li><a href="https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html">Code together in real time with Teletype for Atom</a>, <a href="https://teletype.atom.io/">Teletype for Atom lets developers share their workspace with team members and collaborate on code in real time</a> и <a href="https://moment.github.io/luxon/">Luxon - a powerful, modern, and friendly wrapper for Javascript dates and times</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://pivorak.com/talks/supercharge-your-postgresql-with-extensions">Pivorak</a></li>
+  <li><a href="http://lvivsqlug.pass.org/">Lviv SQL Server UG</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/11/14/do-no-load-all-records-on-activerecord-relation-inspect.html">Rails 5.1 does not load all records on ActiveRecord::Relation#inspect</a>, <a href="https://medium.com/@maciejmensfeld/karafka-ruby-kafka-framework-1-1-0-release-notes-b4c91170ecba">Karafka (Ruby + Kafka) framework 1.1.0 Release Notes</a> и <a href="https://www.mayerdan.com/ruby/2017/11/12/active-record-documentation-in-rails">Active Record Database Documentation</a></li>
+  <li><a href="https://evilmartians.com/chronicles/embracing-metrics-as-new-tests">Embracing metrics as new tests</a> и <a href="http://shiroyasha.io/advisory-locks-and-how-to-use-them.html">Advisory Locks and How to Use Them</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.mozilla.org/firefox/the-new-firefox-is-here/">The New Firefox Is Here!</a>, <a href="https://blog.mozilla.org/blog/2017/11/13/webassembly-in-browsers/">WebAssembly support now shipping in all major browsers</a> и <a href="https://www.w3.org/2017/11/w3c-highlights/">W3C Strategic Highlights</a></li>
+  <li><a href="https://blog.atom.io/2017/11/15/code-together-in-real-time-with-teletype-for-atom.html">Code together in real time with Teletype for Atom</a>, <a href="https://teletype.atom.io/">Teletype for Atom lets developers share their workspace with team members and collaborate on code in real time</a> и <a href="https://moment.github.io/luxon/">Luxon - a powerful, modern, and friendly wrapper for Javascript dates and times</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://pivorak.com/talks/supercharge-your-postgresql-with-extensions">Pivorak</a></li>
+  <li><a href="http://lvivsqlug.pass.org/">Lviv SQL Server UG</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 20 Nov 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/11/20/podcast-05-46.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/11/20/podcast-05-46.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0546.mp3" length="27587896" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0546.mp3" fileSize="27587896" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.1 does not load all records on ActiveR...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.1 does not load all records on ActiveRecord::Relation#inspect, Karafka (Ruby + Kafka) framework 1.1.0 Release Notes и Active Record Database Documentation
+
+  
+Embracing metrics as new tests и Advisory Locks and How to Use Them
+
+
+
+JavaScript
+
+
+  
+The New Firefox Is Here!, WebAssembly support now shipping in all major browsers и W3C Strategic Highlights
+
+  
+Code together in real time with Teletype for Atom, Teletype for Atom lets developers share their workspace with team members and collaborate on code in real time и Luxon - a powerful, modern, and friendly wrapper for Javascript dates and times
+
+
+
+Conferences
+
+
+  Pivorak
+  Lviv SQL Server UG
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0546.png"/>
+  <itunes:duration>00:28:42</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>45 выпуск 05 сезона. How we switched from Sprockets to Webpack, CSS Code Smells, WebSocket Director, JSON5 и прочее</title>
   <description>
@@ -4009,100 +4114,6 @@ Htmlreference.io - a free guide to HTML, Rough.js - create graphics with a hand-
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0507.png"/>
   <itunes:duration>00:45:24</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>06 выпуск 05 сезона. The Lego Way of Structuring Rails Code, Sidekiq-merger, Relaxo, Kap, Dante II, Notti.js, Lepton и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://engineering.vinted.com/2017/02/13/how-to-structure-code/">The Lego Way of Structuring Rails Code</a>, <a href="http://blog.honeybadger.io/easy_rails_database_scaling_wins/">Simple tips to make scaling your database easier as you grow</a> и <a href="http://www.blackbytes.info/2017/02/hash-tables-explained/">Hash Tables Explained</a></li>
-  <li><a href="https://medium.freecodecamp.com/how-to-dry-out-your-rspec-tests-using-shared-examples-d5cc5d33fd76">How to DRY out your RSpec Tests using Shared Examples</a> и <a href="http://blog.katpadi.ph/autocomplete-with-redis/">Autocomplete Using Redis</a></li>
-  <li><a href="https://github.com/dtaniwaki/sidekiq-merger">Sidekiq-merger - merge sidekiq jobs occurring before the execution times</a>, <a href="https://github.com/ioquatix/relaxo">Relaxo - a transactional database built on top of git. It’s aim is to provide a robust interface for document storage and sorted indexes</a> и <a href="https://www.driftingruby.com/episodes/decoding-and-interacting-with-barcodes">Decoding and Interacting with Barcodes</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0">How to Achieve Reusability with React Components</a> и <a href="https://advancedweb.hu/2017/02/07/treeshaking/">Why Webpack 2’s Tree Shaking is not as effective as you think</a></li>
-  <li><a href="http://www.dev-books.com/">Top mentioned books on stackoverflow.com</a>, <a href="https://distributedobjectprotocol.org/">Distributed Object Protocol</a> и <a href="https://yomguithereal.github.io/mnemonist/">Mnemonist - curated collection of data structures for the JavaScript language</a></li>
-  <li><a href="https://getkap.co/">Kap - an open-source screen recorder built with web technology</a>, <a href="http://hackjutsu.com/Lepton/">Lepton - a lean GitHub Gist Desktop Client based on Electron</a>, <a href="https://michelson.github.io/dante2/">Dante II - just another medium clone built on top of DraftJs</a> и <a href="https://notti.surge.sh/">Notti.js - dead simple user notification</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://engineering.vinted.com/2017/02/13/how-to-structure-code/">The Lego Way of Structuring Rails Code</a>, <a href="http://blog.honeybadger.io/easy_rails_database_scaling_wins/">Simple tips to make scaling your database easier as you grow</a> и <a href="http://www.blackbytes.info/2017/02/hash-tables-explained/">Hash Tables Explained</a></li>
-  <li><a href="https://medium.freecodecamp.com/how-to-dry-out-your-rspec-tests-using-shared-examples-d5cc5d33fd76">How to DRY out your RSpec Tests using Shared Examples</a> и <a href="http://blog.katpadi.ph/autocomplete-with-redis/">Autocomplete Using Redis</a></li>
-  <li><a href="https://github.com/dtaniwaki/sidekiq-merger">Sidekiq-merger - merge sidekiq jobs occurring before the execution times</a>, <a href="https://github.com/ioquatix/relaxo">Relaxo - a transactional database built on top of git. It’s aim is to provide a robust interface for document storage and sorted indexes</a> и <a href="https://www.driftingruby.com/episodes/decoding-and-interacting-with-barcodes">Decoding and Interacting with Barcodes</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/walmartlabs/how-to-achieve-reusability-with-react-components-81edeb7fb0e0">How to Achieve Reusability with React Components</a> и <a href="https://advancedweb.hu/2017/02/07/treeshaking/">Why Webpack 2’s Tree Shaking is not as effective as you think</a></li>
-  <li><a href="http://www.dev-books.com/">Top mentioned books on stackoverflow.com</a>, <a href="https://distributedobjectprotocol.org/">Distributed Object Protocol</a> и <a href="https://yomguithereal.github.io/mnemonist/">Mnemonist - curated collection of data structures for the JavaScript language</a></li>
-  <li><a href="https://getkap.co/">Kap - an open-source screen recorder built with web technology</a>, <a href="http://hackjutsu.com/Lepton/">Lepton - a lean GitHub Gist Desktop Client based on Electron</a>, <a href="https://michelson.github.io/dante2/">Dante II - just another medium clone built on top of DraftJs</a> и <a href="https://notti.surge.sh/">Notti.js - dead simple user notification</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 13 Feb 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/02/13/podcast-05-06.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/02/13/podcast-05-06.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0506.mp3" length="27950478" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0506.mp3" fileSize="27950478" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  The Lego Way of Structuring Rails Code, Simple...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-The Lego Way of Structuring Rails Code, Simple tips to make scaling your database easier as you grow и Hash Tables Explained
-
-  
-How to DRY out your RSpec Tests using Shared Examples и Autocomplete Using Redis
-
-  
-Sidekiq-merger - merge sidekiq jobs occurring before the execution times, Relaxo - a transactional database built on top of git. It’s aim is to provide a robust interface for document storage and sorted indexes и Decoding and Interacting with Barcodes
-
-
-
-JavaScript
-
-
-  
-How to Achieve Reusability with React Components и Why Webpack 2’s Tree Shaking is not as effective as you think
-
-  
-Top mentioned books on stackoverflow.com, Distributed Object Protocol и Mnemonist - curated collection of data structures for the JavaScript language
-
-  
-Kap - an open-source screen recorder built with web technology, Lepton - a lean GitHub Gist Desktop Client based on Electron, Dante II - just another medium clone built on top of DraftJs и Notti.js - dead simple user notification
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0506.png"/>
-  <itunes:duration>00:29:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
