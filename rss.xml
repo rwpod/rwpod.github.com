@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 20 Nov 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 20 Nov 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 27 Nov 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Nov 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>47 выпуск 05 сезона. Spend less on Google Translate, The Cost Of JavaScript, Sequel-pg_advisory_lock, React Chartkick и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2017/11/21/ruby-2_5-introduces-dir-children-and-dir-each_child.html">Ruby 2.5 introduces Dir.children and Dir.each_child</a>, <a href="https://drivy.engineering/sending-mass-emails/">Sending an e-mail to millions of users</a> и <a href="https://blog.codeship.com/improving-ruby-performance-with-rust/">Improving Ruby Performance with Rust</a></li>
+  <li><a href="https://evilmartians.com/chronicles/spend-less-on-google-translate">Spend less on Google Translate</a>, <a href="https://github.com/jedld/resque-fifo-queue">Resque::Fifo::Queue - implementation of a sharded First-in First-out queue using Redis and Resque</a> и <a href="https://github.com/yuryroot/sequel-pg_advisory_lock">Sequel-pg_advisory_lock - an extension for ruby Sequel library that allows using PostgreSQL advisory locks for application-level mutexes</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e">The Cost Of JavaScript</a>, <a href="https://blog.neufund.org/why-we-have-banned-default-exports-and-you-should-do-the-same-d51fdc2cf2ad">Why we have banned default exports in Javascript and you should do the same</a>, <a href="https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6">How to greatly improve your React app performance</a> и <a href="https://malloc.fi/performance-cost-of-server-side-rendered-react-node-js">The Performance Cost of Server Side Rendered React on Node.js</a></li>
+  <li><a href="https://denisraslov.github.io/grid/">React Spreadsheet Grid</a>, <a href="https://www.chartkick.com/react">React Chartkick - create beautiful JavaScript charts with one line of React</a>, <a href="http://kizu.ru/bemto-components/">Bemto-components - smart components for using BEM methodology with React</a> и <a href="https://unmanner.github.io/imaskjs/">Imaskjs - vanilla javascript input mask</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2017/11/21/ruby-2_5-introduces-dir-children-and-dir-each_child.html">Ruby 2.5 introduces Dir.children and Dir.each_child</a>, <a href="https://drivy.engineering/sending-mass-emails/">Sending an e-mail to millions of users</a> и <a href="https://blog.codeship.com/improving-ruby-performance-with-rust/">Improving Ruby Performance with Rust</a></li>
+  <li><a href="https://evilmartians.com/chronicles/spend-less-on-google-translate">Spend less on Google Translate</a>, <a href="https://github.com/jedld/resque-fifo-queue">Resque::Fifo::Queue - implementation of a sharded First-in First-out queue using Redis and Resque</a> и <a href="https://github.com/yuryroot/sequel-pg_advisory_lock">Sequel-pg_advisory_lock - an extension for ruby Sequel library that allows using PostgreSQL advisory locks for application-level mutexes</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e">The Cost Of JavaScript</a>, <a href="https://blog.neufund.org/why-we-have-banned-default-exports-and-you-should-do-the-same-d51fdc2cf2ad">Why we have banned default exports in Javascript and you should do the same</a>, <a href="https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6">How to greatly improve your React app performance</a> и <a href="https://malloc.fi/performance-cost-of-server-side-rendered-react-node-js">The Performance Cost of Server Side Rendered React on Node.js</a></li>
+  <li><a href="https://denisraslov.github.io/grid/">React Spreadsheet Grid</a>, <a href="https://www.chartkick.com/react">React Chartkick - create beautiful JavaScript charts with one line of React</a>, <a href="http://kizu.ru/bemto-components/">Bemto-components - smart components for using BEM methodology with React</a> и <a href="https://unmanner.github.io/imaskjs/">Imaskjs - vanilla javascript input mask</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 27 Nov 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/11/27/podcast-05-47.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/11/27/podcast-05-47.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0547.mp3" length="29521110" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0547.mp3" fileSize="29521110" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.5 introduces Dir.children and Dir.each_...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.5 introduces Dir.children and Dir.each_child, Sending an e-mail to millions of users и Improving Ruby Performance with Rust
+
+  
+Spend less on Google Translate, Resque::Fifo::Queue - implementation of a sharded First-in First-out queue using Redis and Resque и Sequel-pg_advisory_lock - an extension for ruby Sequel library that allows using PostgreSQL advisory locks for application-level mutexes
+
+
+
+JavaScript
+
+
+  
+The Cost Of JavaScript, Why we have banned default exports in Javascript and you should do the same, How to greatly improve your React app performance и The Performance Cost of Server Side Rendered React on Node.js
+
+  
+React Spreadsheet Grid, React Chartkick - create beautiful JavaScript charts with one line of React, Bemto-components - smart components for using BEM methodology with React и Imaskjs - vanilla javascript input mask
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0547.png"/>
+  <itunes:duration>00:30:43</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>46 выпуск 05 сезона. Karafka 1.1.0, Firefox Quantum, Embracing metrics as new tests, Teletype и прочее</title>
   <description>
@@ -4020,100 +4104,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0508.png"/>
   <itunes:duration>01:00:35</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>07 выпуск 05 сезона. Hanami v1.0.0.beta1, Unicorn vs. Puma vs. Passenger, Understanding Scope in JavaScript, Htmlreference.io и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://hanamirb.org/blog/2017/02/14/announcing-hanami-100beta1.html">Announcing Hanami v1.0.0.beta1</a>, <a href="http://blog.michelada.io/upgrading-a-ruby-on-rails-application">Upgrading a Ruby on Rails application</a> и <a href="http://www.krisquigley.co.uk/2017/02/17/replacing-the-asset-pipeline-with-webpack-2-in-rails.html">Replacing the asset pipeline with Webpack 2 in Rails</a></li>
-  <li><a href="https://robots.thoughtbot.com/validation-database-constraint-or-both">Validation, Database Constraint, or Both?</a> и <a href="https://medium.com/@ricardobrazao/ruby-superpowers-with-great-power-comes-a-great-prepend-6c1ccd2a7205">Ruby superpowers — with great power comes a great prepend</a></li>
-  <li><a href="https://www.justinweiss.com/articles/writing-a-one-time-script-in-rails/">Writing a One-time Script in Rails</a> и <a href="http://blog.scoutapp.com/articles/2017/02/10/which-ruby-app-server-is-right-for-you">Unicorn vs. Puma vs. Passenger: which app server is right for you?</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import">Native ECMAScript modules: dynamic import()</a>, <a href="http://danluu.com/web-bloat/">Most of the web really sucks if you have a slow connection</a> и <a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript</a></li>
-  <li><a href="https://scotch.io/tutorials/understanding-scope-in-javascript">Understanding Scope in JavaScript</a> и <a href="https://gofore.com/angular-is-not-a-massive-monolith/">Angular is not a massive monolith – but your mom is</a></li>
-  <li><a href="http://htmlreference.io/">Htmlreference.io - a free guide to HTML</a>, <a href="https://roughjs.com/">Rough.js - create graphics with a hand-drawn, sketchy, appearance</a> и <a href="https://lichin.me/spinStroke/">SpinStroke - spinning stroke animation with morphing effect</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://hanamirb.org/blog/2017/02/14/announcing-hanami-100beta1.html">Announcing Hanami v1.0.0.beta1</a>, <a href="http://blog.michelada.io/upgrading-a-ruby-on-rails-application">Upgrading a Ruby on Rails application</a> и <a href="http://www.krisquigley.co.uk/2017/02/17/replacing-the-asset-pipeline-with-webpack-2-in-rails.html">Replacing the asset pipeline with Webpack 2 in Rails</a></li>
-  <li><a href="https://robots.thoughtbot.com/validation-database-constraint-or-both">Validation, Database Constraint, or Both?</a> и <a href="https://medium.com/@ricardobrazao/ruby-superpowers-with-great-power-comes-a-great-prepend-6c1ccd2a7205">Ruby superpowers — with great power comes a great prepend</a></li>
-  <li><a href="https://www.justinweiss.com/articles/writing-a-one-time-script-in-rails/">Writing a One-time Script in Rails</a> и <a href="http://blog.scoutapp.com/articles/2017/02/10/which-ruby-app-server-is-right-for-you">Unicorn vs. Puma vs. Passenger: which app server is right for you?</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.hospodarets.com/native-ecmascript-modules-dynamic-import">Native ECMAScript modules: dynamic import()</a>, <a href="http://danluu.com/web-bloat/">Most of the web really sucks if you have a slow connection</a> и <a href="https://github.com/kennymkchan/interview-questions-in-javascript">Interview Algorithm Questions in Javascript</a></li>
-  <li><a href="https://scotch.io/tutorials/understanding-scope-in-javascript">Understanding Scope in JavaScript</a> и <a href="https://gofore.com/angular-is-not-a-massive-monolith/">Angular is not a massive monolith – but your mom is</a></li>
-  <li><a href="http://htmlreference.io/">Htmlreference.io - a free guide to HTML</a>, <a href="https://roughjs.com/">Rough.js - create graphics with a hand-drawn, sketchy, appearance</a> и <a href="https://lichin.me/spinStroke/">SpinStroke - spinning stroke animation with morphing effect</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 20 Feb 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/02/20/podcast-05-07.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/02/20/podcast-05-07.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0507.mp3" length="43686696" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0507.mp3" fileSize="43686696" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Announcing Hanami v1.0.0.beta1, Upgrading a Ru...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Announcing Hanami v1.0.0.beta1, Upgrading a Ruby on Rails application и Replacing the asset pipeline with Webpack 2 in Rails
-
-  
-Validation, Database Constraint, or Both? и Ruby superpowers — with great power comes a great prepend
-
-  
-Writing a One-time Script in Rails и Unicorn vs. Puma vs. Passenger: which app server is right for you?
-
-
-
-JavaScript
-
-
-  
-Native ECMAScript modules: dynamic import(), Most of the web really sucks if you have a slow connection и Interview Algorithm Questions in Javascript
-
-  
-Understanding Scope in JavaScript и Angular is not a massive monolith – but your mom is
-
-  
-Htmlreference.io - a free guide to HTML, Rough.js - create graphics with a hand-drawn, sketchy, appearance и SpinStroke - spinning stroke animation with morphing effect
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0507.png"/>
-  <itunes:duration>00:45:24</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
