@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Sun, 03 Dec 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Sun, 03 Dec 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 04 Dec 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>48 выпуск 05 сезона. ComfortableMexicanSofa, Partitionable, GiraffQL, Reactopt, Vuetron, Rapid.js, JSRobot и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/11/28/ruby-2-5-added-delete_prefix-and-delete_suffix-methods.html">Ruby 2.5 added delete_prefix and delete_suffix methods</a>, <a href="https://medium.com/kkempin/chain-of-responsibility-design-pattern-in-ruby-e0b756d4bb3b">Chain of responsibility design pattern in Ruby</a> и <a href="http://iridakos.com/tutorials/2017/12/03/elasticsearch-and-rails-tutorial">Using elasticsearch in a Rails application</a></li>
+  <li><a href="https://github.com/comfy/comfortable-mexican-sofa">ComfortableMexicanSofa - a powerful Ruby on Rails 5.2+ CMS Engine</a>, <a href="https://github.com/pacuna/partitionable">Partitionable - gem adds support for using the PostgreSQL partitioning mechanism</a> и <a href="https://www.driftingruby.com/episodes/tracking-errors-with-sentry">Tracking Errors with Sentry</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/">Announcing the Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset</a>, <a href="https://codeburst.io/mobx-vs-redux-with-react-a-noobs-comparison-and-questions-382ba340be09">MobX vs Redux with React: A noob’s comparison and questions</a> и <a href="https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be">How to Organize React Files Before It’s Messed Up</a></li>
+  <li><a href="https://www.giraffql.com">GiraffQL - an interactive GraphQL exploration tool built with React</a>, <a href="https://github.com/reactopt/reactopt">Reactopt - CLI React performance optimization tool that identifies potential unnecessary re-rendering</a>, <a href="http://vuetron.io/">Vuetron - a tool for testing and debugging your Vue + Vuex applications</a>, <a href="https://rapidjs.io/">Rapid.js - an ORM-like Interface and a Router For Your API Requests</a> и <a href="https://lab.reaal.me/jsrobot/">JSRobot - learn to code by playing video games</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/11/28/ruby-2-5-added-delete_prefix-and-delete_suffix-methods.html">Ruby 2.5 added delete_prefix and delete_suffix methods</a>, <a href="https://medium.com/kkempin/chain-of-responsibility-design-pattern-in-ruby-e0b756d4bb3b">Chain of responsibility design pattern in Ruby</a> и <a href="http://iridakos.com/tutorials/2017/12/03/elasticsearch-and-rails-tutorial">Using elasticsearch in a Rails application</a></li>
+  <li><a href="https://github.com/comfy/comfortable-mexican-sofa">ComfortableMexicanSofa - a powerful Ruby on Rails 5.2+ CMS Engine</a>, <a href="https://github.com/pacuna/partitionable">Partitionable - gem adds support for using the PostgreSQL partitioning mechanism</a> и <a href="https://www.driftingruby.com/episodes/tracking-errors-with-sentry">Tracking Errors with Sentry</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/">Announcing the Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset</a>, <a href="https://codeburst.io/mobx-vs-redux-with-react-a-noobs-comparison-and-questions-382ba340be09">MobX vs Redux with React: A noob’s comparison and questions</a> и <a href="https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be">How to Organize React Files Before It’s Messed Up</a></li>
+  <li><a href="https://www.giraffql.com">GiraffQL - an interactive GraphQL exploration tool built with React</a>, <a href="https://github.com/reactopt/reactopt">Reactopt - CLI React performance optimization tool that identifies potential unnecessary re-rendering</a>, <a href="http://vuetron.io/">Vuetron - a tool for testing and debugging your Vue + Vuex applications</a>, <a href="https://rapidjs.io/">Rapid.js - an ORM-like Interface and a Router For Your API Requests</a> и <a href="https://lab.reaal.me/jsrobot/">JSRobot - learn to code by playing video games</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 04 Dec 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/12/04/podcast-05-48.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/12/04/podcast-05-48.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0548.mp3" length="22897226" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0548.mp3" fileSize="22897226" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.5 added delete_prefix and delete_suffix...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.5 added delete_prefix and delete_suffix methods, Chain of responsibility design pattern in Ruby и Using elasticsearch in a Rails application
+
+  
+ComfortableMexicanSofa - a powerful Ruby on Rails 5.2+ CMS Engine, Partitionable - gem adds support for using the PostgreSQL partitioning mechanism и Tracking Errors with Sentry
+
+
+
+JavaScript
+
+
+  
+Announcing the Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset, MobX vs Redux with React: A noob’s comparison and questions и How to Organize React Files Before It’s Messed Up
+
+  
+GiraffQL - an interactive GraphQL exploration tool built with React, Reactopt - CLI React performance optimization tool that identifies potential unnecessary re-rendering, Vuetron - a tool for testing and debugging your Vue + Vuex applications, Rapid.js - an ORM-like Interface and a Router For Your API Requests и JSRobot - learn to code by playing video games
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0548.png"/>
+  <itunes:duration>00:23:49</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>RWPod Кафе 6: Volodya Sveredyuk и Pivorak</title>
   <description>
@@ -3974,100 +4058,6 @@ Quiet.js - transmit and receive data in the browser at 44.1kHz, Numscrubber.js -
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0510.png"/>
   <itunes:duration>00:34:01</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>09 выпуск 05 сезона. Hanami v1.0.0.beta2, Sinatra 2.0.0.rc1, Ruby+OMR JIT Compiler, Neurojs, Anchorme.js, Ast.run и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://hanamirb.org/blog/2017/03/02/announcing-hanami-100beta2.html">Announcing Hanami v1.0.0.beta2</a>, <a href="https://github.com/sinatra/sinatra/releases/tag/v2.0.0.rc1">Sinatra 2.0.0.rc1</a>, <a href="http://blog.bigbinary.com/2017/03/02/open-uri-in-ruby-2-4-allows-http-to-https-redirection.html">Open-uri in Ruby 2.4 allows http to https redirection</a>, <a href="https://developer.ibm.com/open/2017/03/01/ruby-omr-jit-compiler-whats-next/">Ruby+OMR JIT Compiler: What’s next?</a> и <a href="https://www.driftingruby.com/episodes/ruby-on-rails-5-1-0-changes-and-new-features">Ruby on Rails 5.1.0 Changes and New Features</a></li>
-  <li><a href="https://developers.supportbee.com/blog/shielding-from-s3-outages-in-rails/">How this single controller shielded our Rails app from Tuesday’s Amazon S3 outage</a> и <a href="http://www.schneems.com/2017/02/21/the-oldest-bug-in-ruby-why-racktimeout-might-hose-your-server/">The Oldest Bug In Ruby - Why Rack::Timeout Might Hose your Server</a></li>
-  <li><a href="http://lunarem.com/blog/please-dont-hate-open-struct.html">Please don’t hate OpenStruct</a>, <a href="https://learnetto.com/blog/3-ways-to-use-react-with-ruby-on-rails-5">3 ways to use React with Ruby on Rails 5</a> и <a href="https://sevos.io/2017/02/27/turbolinks-lifecycle-explained.html">Turbolinks’ lifecycle explained</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2017/02/where-is-webassembly-now-and-whats-next/">Where is WebAssembly now and what’s next?</a> и <a href="https://babeljs.io/blog/2017/03/01/upgrade-to-babel-7">Upgrade to Babel 7 (WIP)</a></li>
-  <li><a href="https://air.ghost.io/recording-to-an-audio-file-using-html5-and-js/">Recording to an Audio File using HTML5 and JS</a>, <a href="http://www.developerdrive.com/2017/03/working-with-the-javascript-battery-api/">Working with the JavaScript Battery API</a> и <a href="https://speckyboy.com/naming-conventions-sizes-scalable-css/">Naming Conventions for Sizes in Scalable CSS</a></li>
-  <li><a href="https://github.com/janhuenermann/neurojs">Neurojs - a JavaScript framework for deep learning in the browser</a>, <a href="http://alexcorvi.github.io/anchorme.js/">Anchorme.js - a library to detect links/URLs/Emails in text and convert them to clickable HTML anchor links</a>, <a href="https://github.com/marcuswestin/store.js/">Store.js - cross-browser storage for all use cases</a> и <a href="http://ast.run/">Ast.run - write low level web assembly modules online</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://hanamirb.org/blog/2017/03/02/announcing-hanami-100beta2.html">Announcing Hanami v1.0.0.beta2</a>, <a href="https://github.com/sinatra/sinatra/releases/tag/v2.0.0.rc1">Sinatra 2.0.0.rc1</a>, <a href="http://blog.bigbinary.com/2017/03/02/open-uri-in-ruby-2-4-allows-http-to-https-redirection.html">Open-uri in Ruby 2.4 allows http to https redirection</a>, <a href="https://developer.ibm.com/open/2017/03/01/ruby-omr-jit-compiler-whats-next/">Ruby+OMR JIT Compiler: What’s next?</a> и <a href="https://www.driftingruby.com/episodes/ruby-on-rails-5-1-0-changes-and-new-features">Ruby on Rails 5.1.0 Changes and New Features</a></li>
-  <li><a href="https://developers.supportbee.com/blog/shielding-from-s3-outages-in-rails/">How this single controller shielded our Rails app from Tuesday’s Amazon S3 outage</a> и <a href="http://www.schneems.com/2017/02/21/the-oldest-bug-in-ruby-why-racktimeout-might-hose-your-server/">The Oldest Bug In Ruby - Why Rack::Timeout Might Hose your Server</a></li>
-  <li><a href="http://lunarem.com/blog/please-dont-hate-open-struct.html">Please don’t hate OpenStruct</a>, <a href="https://learnetto.com/blog/3-ways-to-use-react-with-ruby-on-rails-5">3 ways to use React with Ruby on Rails 5</a> и <a href="https://sevos.io/2017/02/27/turbolinks-lifecycle-explained.html">Turbolinks’ lifecycle explained</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2017/02/where-is-webassembly-now-and-whats-next/">Where is WebAssembly now and what’s next?</a> и <a href="https://babeljs.io/blog/2017/03/01/upgrade-to-babel-7">Upgrade to Babel 7 (WIP)</a></li>
-  <li><a href="https://air.ghost.io/recording-to-an-audio-file-using-html5-and-js/">Recording to an Audio File using HTML5 and JS</a>, <a href="http://www.developerdrive.com/2017/03/working-with-the-javascript-battery-api/">Working with the JavaScript Battery API</a> и <a href="https://speckyboy.com/naming-conventions-sizes-scalable-css/">Naming Conventions for Sizes in Scalable CSS</a></li>
-  <li><a href="https://github.com/janhuenermann/neurojs">Neurojs - a JavaScript framework for deep learning in the browser</a>, <a href="http://alexcorvi.github.io/anchorme.js/">Anchorme.js - a library to detect links/URLs/Emails in text and convert them to clickable HTML anchor links</a>, <a href="https://github.com/marcuswestin/store.js/">Store.js - cross-browser storage for all use cases</a> и <a href="http://ast.run/">Ast.run - write low level web assembly modules online</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 06 Mar 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/03/06/podcast-05-09.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/03/06/podcast-05-09.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0509.mp3" length="36142848" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0509.mp3" fileSize="36142848" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Announcing Hanami v1.0.0.beta2, Sinatra 2.0.0....</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Announcing Hanami v1.0.0.beta2, Sinatra 2.0.0.rc1, Open-uri in Ruby 2.4 allows http to https redirection, Ruby+OMR JIT Compiler: What’s next? и Ruby on Rails 5.1.0 Changes and New Features
-
-  
-How this single controller shielded our Rails app from Tuesday’s Amazon S3 outage и The Oldest Bug In Ruby - Why Rack::Timeout Might Hose your Server
-
-  
-Please don’t hate OpenStruct, 3 ways to use React with Ruby on Rails 5 и Turbolinks’ lifecycle explained
-
-
-
-JavaScript
-
-
-  
-Where is WebAssembly now and what’s next? и Upgrade to Babel 7 (WIP)
-
-  
-Recording to an Audio File using HTML5 and JS, Working with the JavaScript Battery API и Naming Conventions for Sizes in Scalable CSS
-
-  
-Neurojs - a JavaScript framework for deep learning in the browser, Anchorme.js - a library to detect links/URLs/Emails in text and convert them to clickable HTML anchor links, Store.js - cross-browser storage for all use cases и Ast.run - write low level web assembly modules online
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0509.png"/>
-  <itunes:duration>00:37:32</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
