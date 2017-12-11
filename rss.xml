@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 04 Dec 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 04 Dec 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 11 Dec 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>49 выпуск 05 сезона. Redmine Security Scanner, A recap of front-end development in 2017, Parcel, Electron-toolkit, WordPressify и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/12/06/rails-5-2-implements-fetch_values-for-hashwithindifferentaccess.html">Rails 5.2 implements fetch_values for HashWithIndifferentAccess</a>, <a href="https://www.ombulabs.com/blog/tags/upgrades">Upgrade Rails series</a> и <a href="https://plan.io/redmine-security-scanner/">Redmine Security Scanner</a></li>
+  <li><a href="https://robots.thoughtbot.com/talking-to-actioncable-without-rails">Talking to ActionCable without Rails</a> и <a href="https://blog.rebased.pl/2017/11/30/bindings-in-ruby-behind-the-magic-of-blocks.html">Bindings in Ruby – Behind the Magic of Blocks</a></li>
+  <li><a href="https://buttercms.com/books/microservices-for-startups/how-teams-get-microservices-wrong-from-the-start">How Teams Get Microservices Wrong From the Start</a> и <a href="https://github.com/patientslikeme/firebase_cloud_messenger">Firebase_cloud_messenger - wraps Google’s API to make sending push notifications to iOS, android, and web push notifications</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727">A recap of front-end development in 2017</a> и <a href="https://netbasal.com/getting-to-know-the-javascript-internationalization-api-cb893b3908e0">Getting To Know The JavaScript Internationalization API</a></li>
+  <li><a href="https://hackernoon.com/finding-non-unique-elements-in-javascript-d934e6fd6260">Finding Non-Unique Elements in Javascript</a>, <a href="https://blog.campvanilla.com/redux-middleware-basics-getting-started-17dc31c6435c">Build your own Redux middleware</a> и <a href="https://christianheilmann.com/2017/12/05/so-you-learned-javascript-what-now/">So, you learned JavaScript – what now?</a></li>
+  <li><a href="https://parceljs.org/">Parcel - blazing fast, zero configuration web application bundler</a>, <a href="https://hackernoon.com/introducing-electron-toolkit-the-electron-app-to-build-and-launch-electron-apps-6530450e257e">Introducing electron-toolkit: The Electron app to build and launch Electron apps</a>, <a href="http://www.wordpressify.co/">WordPressify - a build system designed to automate your WordPress development workflow</a>, <a href="https://haltu.github.io/muuri/">Muuri - responsive, sortable, filterable and draggable grid layouts</a> и <a href="http://korywakefield.com/iota/">Iota - a responsive micro-framework for the grid spec powered by CSS custom properties</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2017/12/06/rails-5-2-implements-fetch_values-for-hashwithindifferentaccess.html">Rails 5.2 implements fetch_values for HashWithIndifferentAccess</a>, <a href="https://www.ombulabs.com/blog/tags/upgrades">Upgrade Rails series</a> и <a href="https://plan.io/redmine-security-scanner/">Redmine Security Scanner</a></li>
+  <li><a href="https://robots.thoughtbot.com/talking-to-actioncable-without-rails">Talking to ActionCable without Rails</a> и <a href="https://blog.rebased.pl/2017/11/30/bindings-in-ruby-behind-the-magic-of-blocks.html">Bindings in Ruby – Behind the Magic of Blocks</a></li>
+  <li><a href="https://buttercms.com/books/microservices-for-startups/how-teams-get-microservices-wrong-from-the-start">How Teams Get Microservices Wrong From the Start</a> и <a href="https://github.com/patientslikeme/firebase_cloud_messenger">Firebase_cloud_messenger - wraps Google’s API to make sending push notifications to iOS, android, and web push notifications</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://levelup.gitconnected.com/a-recap-of-front-end-development-in-2017-7072ce99e727">A recap of front-end development in 2017</a> и <a href="https://netbasal.com/getting-to-know-the-javascript-internationalization-api-cb893b3908e0">Getting To Know The JavaScript Internationalization API</a></li>
+  <li><a href="https://hackernoon.com/finding-non-unique-elements-in-javascript-d934e6fd6260">Finding Non-Unique Elements in Javascript</a>, <a href="https://blog.campvanilla.com/redux-middleware-basics-getting-started-17dc31c6435c">Build your own Redux middleware</a> и <a href="https://christianheilmann.com/2017/12/05/so-you-learned-javascript-what-now/">So, you learned JavaScript – what now?</a></li>
+  <li><a href="https://parceljs.org/">Parcel - blazing fast, zero configuration web application bundler</a>, <a href="https://hackernoon.com/introducing-electron-toolkit-the-electron-app-to-build-and-launch-electron-apps-6530450e257e">Introducing electron-toolkit: The Electron app to build and launch Electron apps</a>, <a href="http://www.wordpressify.co/">WordPressify - a build system designed to automate your WordPress development workflow</a>, <a href="https://haltu.github.io/muuri/">Muuri - responsive, sortable, filterable and draggable grid layouts</a> и <a href="http://korywakefield.com/iota/">Iota - a responsive micro-framework for the grid spec powered by CSS custom properties</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 11 Dec 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/12/11/podcast-05-49.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/12/11/podcast-05-49.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0549.mp3" length="33851034" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0549.mp3" fileSize="33851034" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.2 implements fetch_values for HashWith...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.2 implements fetch_values for HashWithIndifferentAccess, Upgrade Rails series и Redmine Security Scanner
+
+  
+Talking to ActionCable without Rails и Bindings in Ruby – Behind the Magic of Blocks
+
+  
+How Teams Get Microservices Wrong From the Start и Firebase_cloud_messenger - wraps Google’s API to make sending push notifications to iOS, android, and web push notifications
+
+
+
+JavaScript
+
+
+  
+A recap of front-end development in 2017 и Getting To Know The JavaScript Internationalization API
+
+  
+Finding Non-Unique Elements in Javascript, Build your own Redux middleware и So, you learned JavaScript – what now?
+
+  
+Parcel - blazing fast, zero configuration web application bundler, Introducing electron-toolkit: The Electron app to build and launch Electron apps, WordPressify - a build system designed to automate your WordPress development workflow, Muuri - responsive, sortable, filterable and draggable grid layouts и Iota - a responsive micro-framework for the grid spec powered by CSS custom properties
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0549.png"/>
+  <itunes:duration>00:35:14</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>48 выпуск 05 сезона. ComfortableMexicanSofa, Partitionable, GiraffQL, Reactopt, Vuetron, Rapid.js, JSRobot и прочее</title>
   <description>
@@ -3964,100 +4058,6 @@ Introducing React Loadable, Planck.js - 2D JavaScript physics engine for cross-p
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0511.png"/>
   <itunes:duration>00:26:07</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>10 выпуск 05 сезона. React Router v4, Ruby 2D, Rack::Freeze, Scrolling on the web, Quiet.js, Blurify.js, Numscrubber.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/superhighfives/a-top-shelf-web-stack-rails-5-api-activeadmin-create-react-app-de5481b7ec0b">A Top Shelf Web Stack—Rails 5 API + ActiveAdmin + Create React App</a> и <a href="http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without">8 Useful Ruby on Rails Gems We Couldn’t Live Without</a></li>
-  <li><a href="http://blog.planetargon.com/entries/3-useful-lessons-from-installing-thinking-sphinx-on-engine-yard">3 Useful Lessons from Installing Thinking Sphinx on Engine Yard</a> и <a href="http://www.rubyletter.com/blog/2017/03/03/using-shared-libraries-in-ruby.html">Shared Libraries: How Ruby and C Work Together</a></li>
-  <li><a href="http://www.ruby2d.com/">Ruby 2D - make cross-platform 2D applications in Ruby</a> и <a href="https://github.com/ioquatix/rack-freeze">Rack::Freeze - provides a policy for Rack middleware which should be frozen by default to prevent mutability bugs in a multi-threaded environment</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://reacttraining.com/react-router/">React Router v4.0.0</a>, <a href="https://tylermcginnis.com/build-your-own-react-router-v4/">Build your own React Router v4</a>, <a href="https://medium.com/@kevin.buhrer/hey-have-you-heard-about-vue-js-8075b7c06cae">Hey! Have you heard about Vue.js?</a> и <a href="https://github.com/pablohpsilva/vuejs-component-style-guide">Vue.js Component Style Guide</a></li>
-  <li><a href="https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/">Scrolling on the web: A primer</a>, <a href="https://zellwk.com/blog/learn-tools/">Should you learn [insert shiny new tool]?</a> и <a href="https://www.youtube.com/watch?v=o52_5qAJhNg">WebAssembly: Under the hood with Mozilla</a></li>
-  <li><a href="https://quiet.github.io/quiet-js/">Quiet.js - transmit and receive data in the browser at 44.1kHz</a>, <a href="https://mburakerman.github.io/numscrubberjs/">Numscrubber.js - change values of input numbers by dragging the mouse left &amp; right</a>, <a href="https://github.com/JustClear/blurify">Blurify.js - a library to blurred pictures, support graceful downgrade from css mode to canvas mode</a> и <a href="https://layerjs.org">LayerJS - UI composition &amp; animation library for websites and webapps</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/superhighfives/a-top-shelf-web-stack-rails-5-api-activeadmin-create-react-app-de5481b7ec0b">A Top Shelf Web Stack—Rails 5 API + ActiveAdmin + Create React App</a> и <a href="http://blog.planetargon.com/entries/8-useful-ruby-on-rails-gems-we-couldnt-live-without">8 Useful Ruby on Rails Gems We Couldn’t Live Without</a></li>
-  <li><a href="http://blog.planetargon.com/entries/3-useful-lessons-from-installing-thinking-sphinx-on-engine-yard">3 Useful Lessons from Installing Thinking Sphinx on Engine Yard</a> и <a href="http://www.rubyletter.com/blog/2017/03/03/using-shared-libraries-in-ruby.html">Shared Libraries: How Ruby and C Work Together</a></li>
-  <li><a href="http://www.ruby2d.com/">Ruby 2D - make cross-platform 2D applications in Ruby</a> и <a href="https://github.com/ioquatix/rack-freeze">Rack::Freeze - provides a policy for Rack middleware which should be frozen by default to prevent mutability bugs in a multi-threaded environment</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://reacttraining.com/react-router/">React Router v4.0.0</a>, <a href="https://tylermcginnis.com/build-your-own-react-router-v4/">Build your own React Router v4</a>, <a href="https://medium.com/@kevin.buhrer/hey-have-you-heard-about-vue-js-8075b7c06cae">Hey! Have you heard about Vue.js?</a> и <a href="https://github.com/pablohpsilva/vuejs-component-style-guide">Vue.js Component Style Guide</a></li>
-  <li><a href="https://blogs.windows.com/msedgedev/2017/03/08/scrolling-on-the-web/">Scrolling on the web: A primer</a>, <a href="https://zellwk.com/blog/learn-tools/">Should you learn [insert shiny new tool]?</a> и <a href="https://www.youtube.com/watch?v=o52_5qAJhNg">WebAssembly: Under the hood with Mozilla</a></li>
-  <li><a href="https://quiet.github.io/quiet-js/">Quiet.js - transmit and receive data in the browser at 44.1kHz</a>, <a href="https://mburakerman.github.io/numscrubberjs/">Numscrubber.js - change values of input numbers by dragging the mouse left &amp; right</a>, <a href="https://github.com/JustClear/blurify">Blurify.js - a library to blurred pictures, support graceful downgrade from css mode to canvas mode</a> и <a href="https://layerjs.org">LayerJS - UI composition &amp; animation library for websites and webapps</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 13 Mar 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/03/13/podcast-05-10.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/03/13/podcast-05-10.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0510.mp3" length="32752499" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0510.mp3" fileSize="32752499" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  A Top Shelf Web Stack—Rails 5 API + ActiveAdmi...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-A Top Shelf Web Stack—Rails 5 API + ActiveAdmin + Create React App и 8 Useful Ruby on Rails Gems We Couldn’t Live Without
-
-  
-3 Useful Lessons from Installing Thinking Sphinx on Engine Yard и Shared Libraries: How Ruby and C Work Together
-
-  
-Ruby 2D - make cross-platform 2D applications in Ruby и Rack::Freeze - provides a policy for Rack middleware which should be frozen by default to prevent mutability bugs in a multi-threaded environment
-
-
-
-JavaScript
-
-
-  
-React Router v4.0.0, Build your own React Router v4, Hey! Have you heard about Vue.js? и Vue.js Component Style Guide
-
-  
-Scrolling on the web: A primer, Should you learn [insert shiny new tool]? и WebAssembly: Under the hood with Mozilla
-
-  
-Quiet.js - transmit and receive data in the browser at 44.1kHz, Numscrubber.js - change values of input numbers by dragging the mouse left &amp; right, Blurify.js - a library to blurred pictures, support graceful downgrade from css mode to canvas mode и LayerJS - UI composition &amp; animation library for websites and webapps
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0510.png"/>
-  <itunes:duration>00:34:01</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
