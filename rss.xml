@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 11 Dec 2017 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 11 Dec 2017 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 18 Dec 2017 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 18 Dec 2017 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>50 выпуск 05 сезона. Ruby 2.5.0-rc1, Rust for Rubyists, Being in control of font-display, Docusaurus, Popmotion и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2017/12/14/ruby-2-5-0-rc1-released/">Ruby 2.5.0-rc1 Released</a>, <a href="https://www.influxdata.com/blog/metrics-for-true-beginners/">Getting Started with Metrics in Rails</a>, <a href="https://pragtob.wordpress.com/2017/12/12/surprises-with-nested-transactions-rollbacks-and-activerecord/">Surprises with Nested Transactions, Rollbacks and ActiveRecord</a> и <a href="https://matthias-endler.de/2017/rust-for-rubyists/">Rust for Rubyists</a></li>
+  <li><a href="http://www.rubyguides.com/2017/12/ruby-hiding-errors/">Ruby Is Hiding Errors From You!</a>, <a href="https://rosenfeld.herokuapp.com/en/articles/ruby-rails/2017-12-15-introducing-sequel_tools-rake-integration-over-sequel-migrations-and-related-tasks">Introducing sequel_tools: Rake integration over Sequel migrations and related tasks</a> и <a href="https://github.com/project-eutopia/keisan">Keisan - is a Ruby library for parsing equations into an abstract syntax tree</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67">What’s New With Server-Side Rendering in React 16</a>, <a href="https://jakearchibald.com/2017/netflix-and-react/">Netflix functions without client-side React, and it’s a good thing</a> и <a href="https://advent2017.digitpaint.nl/11/">Being in control of font-display</a></li>
+  <li><a href="https://webassembly.js.org/">WebAssembly interpreter on JavaScript</a>, <a href="http://docusaurus.io/">Docusaurus - easy to maintain Open Source documentation websites</a>, <a href="https://isellsoap.github.io/specificity-visualizer/">Specificity Visualizer - a visual way to analyze the specificity of selectors in CSS</a> и <a href="https://popmotion.io/">Popmotion - functional JavaScript motion library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2017/12/14/ruby-2-5-0-rc1-released/">Ruby 2.5.0-rc1 Released</a>, <a href="https://www.influxdata.com/blog/metrics-for-true-beginners/">Getting Started with Metrics in Rails</a>, <a href="https://pragtob.wordpress.com/2017/12/12/surprises-with-nested-transactions-rollbacks-and-activerecord/">Surprises with Nested Transactions, Rollbacks and ActiveRecord</a> и <a href="https://matthias-endler.de/2017/rust-for-rubyists/">Rust for Rubyists</a></li>
+  <li><a href="http://www.rubyguides.com/2017/12/ruby-hiding-errors/">Ruby Is Hiding Errors From You!</a>, <a href="https://rosenfeld.herokuapp.com/en/articles/ruby-rails/2017-12-15-introducing-sequel_tools-rake-integration-over-sequel-migrations-and-related-tasks">Introducing sequel_tools: Rake integration over Sequel migrations and related tasks</a> и <a href="https://github.com/project-eutopia/keisan">Keisan - is a Ruby library for parsing equations into an abstract syntax tree</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hackernoon.com/whats-new-with-server-side-rendering-in-react-16-9b0d78585d67">What’s New With Server-Side Rendering in React 16</a>, <a href="https://jakearchibald.com/2017/netflix-and-react/">Netflix functions without client-side React, and it’s a good thing</a> и <a href="https://advent2017.digitpaint.nl/11/">Being in control of font-display</a></li>
+  <li><a href="https://webassembly.js.org/">WebAssembly interpreter on JavaScript</a>, <a href="http://docusaurus.io/">Docusaurus - easy to maintain Open Source documentation websites</a>, <a href="https://isellsoap.github.io/specificity-visualizer/">Specificity Visualizer - a visual way to analyze the specificity of selectors in CSS</a> и <a href="https://popmotion.io/">Popmotion - functional JavaScript motion library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 18 Dec 2017 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2017/12/18/podcast-05-50.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/12/18/podcast-05-50.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/05/0550.mp3" length="29339280" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/05/0550.mp3" fileSize="29339280" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.5.0-rc1 Released, Getting Started with ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.5.0-rc1 Released, Getting Started with Metrics in Rails, Surprises with Nested Transactions, Rollbacks and ActiveRecord и Rust for Rubyists
+
+  
+Ruby Is Hiding Errors From You!, Introducing sequel_tools: Rake integration over Sequel migrations and related tasks и Keisan - is a Ruby library for parsing equations into an abstract syntax tree
+
+
+
+JavaScript
+
+
+  
+What’s New With Server-Side Rendering in React 16, Netflix functions without client-side React, and it’s a good thing и Being in control of font-display
+
+  
+WebAssembly interpreter on JavaScript, Docusaurus - easy to maintain Open Source documentation websites, Specificity Visualizer - a visual way to analyze the specificity of selectors in CSS и Popmotion - functional JavaScript motion library
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/05/0550.png"/>
+  <itunes:duration>00:30:32</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>49 выпуск 05 сезона. Redmine Security Scanner, A recap of front-end development in 2017, Parcel, Electron-toolkit, WordPressify и прочее</title>
   <description>
@@ -3946,118 +4030,6 @@ ES7 Async/Await pitfalls, Testing Service Workers и Как унизить дж�
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0512.png"/>
   <itunes:duration>00:31:15</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>11 выпуск 05 сезона. jQuery 3.2.0, CSSO 3.0.0, Google Spreadsheets and Ruby, React Loadable, Planck.js, Waffle grid и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2017/03/14/ruby-2-4-has-optimized-lstrip-and-strip-methods.html">Ruby 2.4 has optimized lstrip and strip methods for ASCII strings</a>, <a href="http://pixelatedworks.com/articles/embracing-change-rails51-adopts-yarn-webpack-and-the-js-ecosystem/">Embracing Change: Rails 5.1 Adopts Yarn, Webpack, and the JS Ecosystem</a> и <a href="http://semaphoreci.com/blog/2017/03/14/faster-rails-how-to-check-if-a-record-exists.html">Faster Rails: How to Check if a Record Exists</a></li>
-  <li><a href="https://hackernoon.com/how-to-setup-and-deploy-a-rails-5-app-on-aws-beanstalk-with-postgresql-redis-and-more-88a38355f1ea">How to setup and deploy a Rails 5 app on AWS ElasticBeanstalk with PostgreSQL, Redis and more</a> и <a href="http://www.rubyletter.com/blog/2017/03/15/middleman-blog-drafts.html">Draft Blog Posts in Middleman</a></li>
-  <li><a href="https://www.twilio.com/blog/2017/03/google-spreadsheets-ruby.html">Google Spreadsheets and Ruby</a> и <a href="http://www.rubyletter.com/blog/2017/03/13/rubyist-guide-to-postgres-explain.html">A Rubyist’s Guide to Postgresql’s Explain</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.jquery.com/2017/03/16/jquery-3-2-0-is-out/">jQuery 3.2.0 Is Out</a>, <a href="https://github.com/css/csso/releases/tag/v3.0.0">CSSO 3.0.0</a> и <a href="http://cssmojo.com/aspect-ratio-using-custom-properties-and-calc/">Preventing Reflow</a></li>
-  <li><a href="https://hashnode.com/post/javascript-patterns-wrangling-arrays-like-a-boss-with-arrayreduce-cj0a7avja017jx7534y7338pr">JavaScript Patterns — Wrangling arrays like a boss, with Array#reduce</a> и <a href="http://thefullstack.xyz/effective-javascript-developers/">The Habits of Effective JavaScript Developers</a></li>
-  <li><a href="https://medium.com/@thejameskyle/react-loadable-2674c59de178">Introducing React Loadable</a>, <a href="http://piqnt.com/planck.js/">Planck.js - 2D JavaScript physics engine for cross-platform HTML5 game development</a>, <a href="https://lucasgruwez.github.io/waffle-grid/">Waffle grid - an easy to use flexbox grid system</a> и <a href="http://obliv.me/">Oblivion - a programming language that compiles to SVG graphics</a></li>
-</ul>
-
-<h2 id="section">Книга</h2>
-
-<ul>
-  <li><a href="http://postgresql.leopard.in.ua/">Работа с PostgreSQL: настройка и масштабирование</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2017/03/14/ruby-2-4-has-optimized-lstrip-and-strip-methods.html">Ruby 2.4 has optimized lstrip and strip methods for ASCII strings</a>, <a href="http://pixelatedworks.com/articles/embracing-change-rails51-adopts-yarn-webpack-and-the-js-ecosystem/">Embracing Change: Rails 5.1 Adopts Yarn, Webpack, and the JS Ecosystem</a> и <a href="http://semaphoreci.com/blog/2017/03/14/faster-rails-how-to-check-if-a-record-exists.html">Faster Rails: How to Check if a Record Exists</a></li>
-  <li><a href="https://hackernoon.com/how-to-setup-and-deploy-a-rails-5-app-on-aws-beanstalk-with-postgresql-redis-and-more-88a38355f1ea">How to setup and deploy a Rails 5 app on AWS ElasticBeanstalk with PostgreSQL, Redis and more</a> и <a href="http://www.rubyletter.com/blog/2017/03/15/middleman-blog-drafts.html">Draft Blog Posts in Middleman</a></li>
-  <li><a href="https://www.twilio.com/blog/2017/03/google-spreadsheets-ruby.html">Google Spreadsheets and Ruby</a> и <a href="http://www.rubyletter.com/blog/2017/03/13/rubyist-guide-to-postgres-explain.html">A Rubyist’s Guide to Postgresql’s Explain</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.jquery.com/2017/03/16/jquery-3-2-0-is-out/">jQuery 3.2.0 Is Out</a>, <a href="https://github.com/css/csso/releases/tag/v3.0.0">CSSO 3.0.0</a> и <a href="http://cssmojo.com/aspect-ratio-using-custom-properties-and-calc/">Preventing Reflow</a></li>
-  <li><a href="https://hashnode.com/post/javascript-patterns-wrangling-arrays-like-a-boss-with-arrayreduce-cj0a7avja017jx7534y7338pr">JavaScript Patterns — Wrangling arrays like a boss, with Array#reduce</a> и <a href="http://thefullstack.xyz/effective-javascript-developers/">The Habits of Effective JavaScript Developers</a></li>
-  <li><a href="https://medium.com/@thejameskyle/react-loadable-2674c59de178">Introducing React Loadable</a>, <a href="http://piqnt.com/planck.js/">Planck.js - 2D JavaScript physics engine for cross-platform HTML5 game development</a>, <a href="https://lucasgruwez.github.io/waffle-grid/">Waffle grid - an easy to use flexbox grid system</a> и <a href="http://obliv.me/">Oblivion - a programming language that compiles to SVG graphics</a></li>
-</ul>
-
-<h2 id="section">Книга</h2>
-
-<ul>
-  <li><a href="http://postgresql.leopard.in.ua/">Работа с PostgreSQL: настройка и масштабирование</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 20 Mar 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/03/20/podcast-05-11.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/03/20/podcast-05-11.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0511.mp3" length="25180854" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0511.mp3" fileSize="25180854" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.4 has optimized lstrip and strip method...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.4 has optimized lstrip and strip methods for ASCII strings, Embracing Change: Rails 5.1 Adopts Yarn, Webpack, and the JS Ecosystem и Faster Rails: How to Check if a Record Exists
-
-  
-How to setup and deploy a Rails 5 app on AWS ElasticBeanstalk with PostgreSQL, Redis and more и Draft Blog Posts in Middleman
-
-  
-Google Spreadsheets and Ruby и A Rubyist’s Guide to Postgresql’s Explain
-
-
-
-JavaScript
-
-
-  
-jQuery 3.2.0 Is Out, CSSO 3.0.0 и Preventing Reflow
-
-  
-JavaScript Patterns — Wrangling arrays like a boss, with Array#reduce и The Habits of Effective JavaScript Developers
-
-  
-Introducing React Loadable, Planck.js - 2D JavaScript physics engine for cross-platform HTML5 game development, Waffle grid - an easy to use flexbox grid system и Oblivion - a programming language that compiles to SVG graphics
-
-
-
-Книга
-
-
-  Работа с PostgreSQL: настройка и масштабирование
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0511.png"/>
-  <itunes:duration>00:26:07</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
