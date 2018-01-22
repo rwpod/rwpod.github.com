@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 15 Jan 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 15 Jan 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 22 Jan 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Jan 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,117 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>03 выпуск 06 сезона. jQuery 3.3.0, Bootstrap 4, Intro to Arel, Mapbox for Rails, Keep webpack fast, After.js, Wobble, JS Paint и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2018/01/16/ruby-2-5-allows-creating-structs-with-keyword-arguments.html">Ruby 2.5 allows creating structs with keyword arguments</a> и <a href="https://medium.com/@coorasse/the-ruby-2-5-0-feature-nobody-talks-about-38e6c4585fdd">The Ruby 2.5.0 feature nobody talks about</a>,</li>
+  <li><a href="https://www.ironin.it/blog/intro-to-arel-the-database-agnostic-sql.html">Intro to Arel: The Database Agnostic SQL Abstract Syntax Tree for Ruby</a> и <a href="https://infinum.co/the-capsized-eight/things-i-wish-active-record-had-after-using-ecto">Things I wish ActiveRecord had after using Ecto</a></li>
+  <li><a href="https://ideamotive.co/blog/materialized-views-ruby-rails-scenic/">Materialized views in Ruby on Rails with scenic</a>, <a href="https://github.com/nbulaj/mapbox-gl-rails">Mapbox for Rails</a> и <a href="https://www.railsmine.net/2018/01/sinator-3.html">Sinator Version 3.0.0</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.jquery.com/2018/01/19/jquery-3-3-0-a-fragrant-bouquet-of-deprecations-and-is-that-a-new-feature/">jQuery 3.3.0 released</a>, <a href="http://blog.getbootstrap.com/2018/01/18/bootstrap-4/">Bootstrap 4 released</a> и <a href="https://medium.com/@kelin2025/so-you-wanna-use-es6-modules-714f48b3a953">How to write and build JS libraries in 2018</a></li>
+  <li><a href="https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1">Keep webpack Fast: A Field Guide for Better Build Performance</a>, <a href="http://seenaburns.com/debugging-electron-memory-usage/">Debugging Electron Memory Usage</a> и <a href="https://cssgrid.io/">Learn css grid</a></li>
+  <li><a href="https://github.com/jaredpalmer/after.js">After.js - next.js-like framework for server-rendered React apps built with React Router 4</a>, <a href="https://github.com/skevy/wobble">Wobble - spring physics micro-library that models a damped harmonic oscillator</a>, <a href="https://opkode.com/blog/backbone-vdomview/">Using a a virtual DOM with Backbone views</a> и <a href="https://github.com/1j01/jspaint">JS Paint - a nice web-based MS Paint remake</a></li>
+</ul>
+
+<h2 id="section">Скринкаст</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=fPmH0ismB-4">CSSNext и CSS custom properties (variables)</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://blog.bigbinary.com/2018/01/16/ruby-2-5-allows-creating-structs-with-keyword-arguments.html">Ruby 2.5 allows creating structs with keyword arguments</a> и <a href="https://medium.com/@coorasse/the-ruby-2-5-0-feature-nobody-talks-about-38e6c4585fdd">The Ruby 2.5.0 feature nobody talks about</a>,</li>
+  <li><a href="https://www.ironin.it/blog/intro-to-arel-the-database-agnostic-sql.html">Intro to Arel: The Database Agnostic SQL Abstract Syntax Tree for Ruby</a> и <a href="https://infinum.co/the-capsized-eight/things-i-wish-active-record-had-after-using-ecto">Things I wish ActiveRecord had after using Ecto</a></li>
+  <li><a href="https://ideamotive.co/blog/materialized-views-ruby-rails-scenic/">Materialized views in Ruby on Rails with scenic</a>, <a href="https://github.com/nbulaj/mapbox-gl-rails">Mapbox for Rails</a> и <a href="https://www.railsmine.net/2018/01/sinator-3.html">Sinator Version 3.0.0</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://blog.jquery.com/2018/01/19/jquery-3-3-0-a-fragrant-bouquet-of-deprecations-and-is-that-a-new-feature/">jQuery 3.3.0 released</a>, <a href="http://blog.getbootstrap.com/2018/01/18/bootstrap-4/">Bootstrap 4 released</a> и <a href="https://medium.com/@kelin2025/so-you-wanna-use-es6-modules-714f48b3a953">How to write and build JS libraries in 2018</a></li>
+  <li><a href="https://slack.engineering/keep-webpack-fast-a-field-guide-for-better-build-performance-f56a5995e8f1">Keep webpack Fast: A Field Guide for Better Build Performance</a>, <a href="http://seenaburns.com/debugging-electron-memory-usage/">Debugging Electron Memory Usage</a> и <a href="https://cssgrid.io/">Learn css grid</a></li>
+  <li><a href="https://github.com/jaredpalmer/after.js">After.js - next.js-like framework for server-rendered React apps built with React Router 4</a>, <a href="https://github.com/skevy/wobble">Wobble - spring physics micro-library that models a damped harmonic oscillator</a>, <a href="https://opkode.com/blog/backbone-vdomview/">Using a a virtual DOM with Backbone views</a> и <a href="https://github.com/1j01/jspaint">JS Paint - a nice web-based MS Paint remake</a></li>
+</ul>
+
+<h2 id="section">Скринкаст</h2>
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=fPmH0ismB-4">CSSNext и CSS custom properties (variables)</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 22 Jan 2018 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2018/01/22/podcast-06-03.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/01/22/podcast-06-03.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/06/0603.mp3" length="27891430" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/06/0603.mp3" fileSize="27891430" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.5 allows creating structs with keyword ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.5 allows creating structs with keyword arguments и The Ruby 2.5.0 feature nobody talks about,
+  
+Intro to Arel: The Database Agnostic SQL Abstract Syntax Tree for Ruby и Things I wish ActiveRecord had after using Ecto
+
+  
+Materialized views in Ruby on Rails with scenic, Mapbox for Rails и Sinator Version 3.0.0
+
+
+
+JavaScript
+
+
+  
+jQuery 3.3.0 released, Bootstrap 4 released и How to write and build JS libraries in 2018
+
+  
+Keep webpack Fast: A Field Guide for Better Build Performance, Debugging Electron Memory Usage и Learn css grid
+
+  
+After.js - next.js-like framework for server-rendered React apps built with React Router 4, Wobble - spring physics micro-library that models a damped harmonic oscillator, Using a a virtual DOM with Backbone views и JS Paint - a nice web-based MS Paint remake
+
+
+
+Скринкаст
+
+
+  CSSNext и CSS custom properties (variables)
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0603.png"/>
+  <itunes:duration>00:29:01</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>02 выпуск 06 сезона. Ruby 2.5 introduces FrozenError class, Awesome Ruby Meetups, What’s New in HTML 5.2, Ngx-kit и прочее</title>
   <description>
@@ -3895,100 +4006,6 @@ D3-annotation и HR.js - tiny JavaScript plugin for highlighting and replacing t
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0516.png"/>
-  <itunes:duration>00:34:52</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>15 выпуск 05 сезона. Migrating from redis-namespace, Rooby, Headless Chromium, CodeSandbox, Prettier и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2017/04/10/ruby-2-4-has-added-additional-parameters-for-logger-new.html">Ruby 2.4 has added additional parameters for Logger#new</a>, <a href="http://www.blackbytes.info/2017/04/memory-layout-of-an-object/">Ruby Under The Hood: Memory Layout of an Object</a> и <a href="https://blog.rubyroidlabs.com/2017/04/19-ruby-on-rails-gems/">19 Ruby on Rails Gems which Can Amaze</a></li>
-  <li><a href="https://www.levups.com/en/blog/2017/optimize_ruby_memory_usage_jemalloc_heroku_scalingo.html">Improve your Ruby application’s memory usage and performance with jemalloc</a>, <a href="https://blog.codeship.com/writing-efficient-queries/">Writing Efficient Queries</a> и <a href="https://www.crondose.com/2016/12/practical-machine-learning-ruby/">Practical Machine Learning with Ruby</a></li>
-  <li><a href="http://www.mikeperham.com/2017/04/10/migrating-from-redis-namespace/">Migrating from redis-namespace</a>, <a href="https://chase.pursu.es/webpack-2-and-middleman-4.html">Webpack 2 and Middleman 4</a>, <a href="https://github.com/st0012/Rooby">Rooby - a Ruby-like object oriented language written in Go</a> и <a href="https://github.com/brunofacca/zen-rails-security-checklist">Zen Rails Security Checklist</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md">Headless Chromium</a>, <a href="https://v8project.blogspot.com/2017/04/retiring-octane.html">Retiring Octane</a> и <a href="http://softeng.oicr.on.ca/chang_wang/2017/04/17/Using-AngularJS-components-directives-in-React/">Using AngularJS components &amp; directives inside React</a></li>
-  <li><a href="https://codesandbox.io/">CodeSandbox makes it easier to create, share and reuse React projects with others</a>, <a href="https://daniel-lundin.github.io/react-dom-confetti/">React DOM Confetti - a react component to trigger confetti explosions on state changes</a> и <a href="http://ruyadorno.github.io/simple-slider/">Simple-slider - extremely lightweight JavaScript carousel micro library</a></li>
-  <li><a href="https://github.com/prettier/prettier">Prettier - an opinionated JavaScript formatter</a>, <a href="https://github.com/sacert/Snake-Star">Snake * - simple attempt at creating an AI within a game</a> и <a href="https://www.youtube.com/watch?v=99Zacm7SsWQ">The Post JavaScript Apocalypse Douglas Crockford</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2017/04/10/ruby-2-4-has-added-additional-parameters-for-logger-new.html">Ruby 2.4 has added additional parameters for Logger#new</a>, <a href="http://www.blackbytes.info/2017/04/memory-layout-of-an-object/">Ruby Under The Hood: Memory Layout of an Object</a> и <a href="https://blog.rubyroidlabs.com/2017/04/19-ruby-on-rails-gems/">19 Ruby on Rails Gems which Can Amaze</a></li>
-  <li><a href="https://www.levups.com/en/blog/2017/optimize_ruby_memory_usage_jemalloc_heroku_scalingo.html">Improve your Ruby application’s memory usage and performance with jemalloc</a>, <a href="https://blog.codeship.com/writing-efficient-queries/">Writing Efficient Queries</a> и <a href="https://www.crondose.com/2016/12/practical-machine-learning-ruby/">Practical Machine Learning with Ruby</a></li>
-  <li><a href="http://www.mikeperham.com/2017/04/10/migrating-from-redis-namespace/">Migrating from redis-namespace</a>, <a href="https://chase.pursu.es/webpack-2-and-middleman-4.html">Webpack 2 and Middleman 4</a>, <a href="https://github.com/st0012/Rooby">Rooby - a Ruby-like object oriented language written in Go</a> и <a href="https://github.com/brunofacca/zen-rails-security-checklist">Zen Rails Security Checklist</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://chromium.googlesource.com/chromium/src/+/lkgr/headless/README.md">Headless Chromium</a>, <a href="https://v8project.blogspot.com/2017/04/retiring-octane.html">Retiring Octane</a> и <a href="http://softeng.oicr.on.ca/chang_wang/2017/04/17/Using-AngularJS-components-directives-in-React/">Using AngularJS components &amp; directives inside React</a></li>
-  <li><a href="https://codesandbox.io/">CodeSandbox makes it easier to create, share and reuse React projects with others</a>, <a href="https://daniel-lundin.github.io/react-dom-confetti/">React DOM Confetti - a react component to trigger confetti explosions on state changes</a> и <a href="http://ruyadorno.github.io/simple-slider/">Simple-slider - extremely lightweight JavaScript carousel micro library</a></li>
-  <li><a href="https://github.com/prettier/prettier">Prettier - an opinionated JavaScript formatter</a>, <a href="https://github.com/sacert/Snake-Star">Snake * - simple attempt at creating an AI within a game</a> и <a href="https://www.youtube.com/watch?v=99Zacm7SsWQ">The Post JavaScript Apocalypse Douglas Crockford</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 17 Apr 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/04/17/podcast-05-15.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/04/17/podcast-05-15.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0515.mp3" length="33570614" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0515.mp3" fileSize="33570614" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.4 has added additional parameters for L...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.4 has added additional parameters for Logger#new, Ruby Under The Hood: Memory Layout of an Object и 19 Ruby on Rails Gems which Can Amaze
-
-  
-Improve your Ruby application’s memory usage and performance with jemalloc, Writing Efficient Queries и Practical Machine Learning with Ruby
-
-  
-Migrating from redis-namespace, Webpack 2 and Middleman 4, Rooby - a Ruby-like object oriented language written in Go и Zen Rails Security Checklist
-
-
-
-JavaScript
-
-
-  
-Headless Chromium, Retiring Octane и Using AngularJS components &amp; directives inside React
-
-  
-CodeSandbox makes it easier to create, share and reuse React projects with others, React DOM Confetti - a react component to trigger confetti explosions on state changes и Simple-slider - extremely lightweight JavaScript carousel micro library
-
-  
-Prettier - an opinionated JavaScript formatter, Snake * - simple attempt at creating an AI within a game и The Post JavaScript Apocalypse Douglas Crockford
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0515.png"/>
   <itunes:duration>00:34:52</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
