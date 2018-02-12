@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 05 Feb 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 05 Feb 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 12 Feb 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>06 выпуск 06 сезона. Ruby 2.5 added Hash#slice method, Stimulus JS, Chiccocoin, Eloquent JavaScript и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/02/06/ruby-2-5-added-hash-slice-method.html">Ruby 2.5 added Hash#slice method</a>, <a href="http://engineering.appfolio.com/appfolio-engineering/2018/2/4/how-fast-is-ruby-250">How Fast is Ruby 2.5.0?</a> и <a href="https://www.johnhawthorn.com/2018/02/playing-with-ruby-jit-mjit/">Playing with ruby’s new JIT: MJIT</a></li>
+  <li><a href="http://www.mikeperham.com/2018/02/05/happy-6th-birthday-sidekiq/">Happy 6th Birthday, Sidekiq</a>, <a href="http://www.mikeperham.com/2016/05/17/commercial-gems/">Serving your own Commercial Rubygems</a> и <a href="http://tomkadwill.com/2018/02/06/stimulus-js.html">Stimulus JS</a></li>
+  <li><a href="https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby">Creating a simple GTK+ ToDo application with Ruby</a> и <a href="https://jvns.ca/blog/2018/01/31/spying-on-a-ruby-process-s-memory-allocations/">Spying on a Ruby process’s memory allocations with eBPF</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425">The Top JavaScript Trends to Watch in 2018</a>, <a href="https://medium.com/rollup/rollup-now-has-code-splitting-and-we-need-your-help-46defd901c82">Rollup now has code-splitting! And we need your help</a> и <a href="https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b">React’s ⚛️ new Context API</a></li>
+  <li><a href="https://boostlog.io/@asha14/javascript-date-has-too-many-traps-5a71fc4352b91d9de6d0bde3">JavaScript Date has too many traps</a> и <a href="https://medium.freecodecamp.org/five-common-problems-in-graphql-apps-and-how-to-fix-them-ac74d37a293c">Five Common Problems in GraphQL Apps (And How to Fix Them)</a></li>
+  <li><a href="https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b">Chiccocoin: Learn what is a Blockchain by creating one in NodeJS</a>, <a href="https://webassembly.studio/">Web Assembly Studio</a> и <a href="http://eloquentjavascript.net/3rd_edition/">Eloquent JavaScript, 3rd edition</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/02/06/ruby-2-5-added-hash-slice-method.html">Ruby 2.5 added Hash#slice method</a>, <a href="http://engineering.appfolio.com/appfolio-engineering/2018/2/4/how-fast-is-ruby-250">How Fast is Ruby 2.5.0?</a> и <a href="https://www.johnhawthorn.com/2018/02/playing-with-ruby-jit-mjit/">Playing with ruby’s new JIT: MJIT</a></li>
+  <li><a href="http://www.mikeperham.com/2018/02/05/happy-6th-birthday-sidekiq/">Happy 6th Birthday, Sidekiq</a>, <a href="http://www.mikeperham.com/2016/05/17/commercial-gems/">Serving your own Commercial Rubygems</a> и <a href="http://tomkadwill.com/2018/02/06/stimulus-js.html">Stimulus JS</a></li>
+  <li><a href="https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby">Creating a simple GTK+ ToDo application with Ruby</a> и <a href="https://jvns.ca/blog/2018/01/31/spying-on-a-ruby-process-s-memory-allocations/">Spying on a Ruby process’s memory allocations with eBPF</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hackernoon.com/the-top-javascript-trends-to-watch-in-2018-a8437dd94425">The Top JavaScript Trends to Watch in 2018</a>, <a href="https://medium.com/rollup/rollup-now-has-code-splitting-and-we-need-your-help-46defd901c82">Rollup now has code-splitting! And we need your help</a> и <a href="https://medium.com/dailyjs/reacts-%EF%B8%8F-new-context-api-70c9fe01596b">React’s ⚛️ new Context API</a></li>
+  <li><a href="https://boostlog.io/@asha14/javascript-date-has-too-many-traps-5a71fc4352b91d9de6d0bde3">JavaScript Date has too many traps</a> и <a href="https://medium.freecodecamp.org/five-common-problems-in-graphql-apps-and-how-to-fix-them-ac74d37a293c">Five Common Problems in GraphQL Apps (And How to Fix Them)</a></li>
+  <li><a href="https://developers.caffeina.com/chiccocoin-learn-what-is-a-blockchain-by-creating-one-in-nodejs-12929a89208b">Chiccocoin: Learn what is a Blockchain by creating one in NodeJS</a>, <a href="https://webassembly.studio/">Web Assembly Studio</a> и <a href="http://eloquentjavascript.net/3rd_edition/">Eloquent JavaScript, 3rd edition</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 12 Feb 2018 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2018/02/12/podcast-06-06.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/02/12/podcast-06-06.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/06/0606.mp3" length="25795478" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/06/0606.mp3" fileSize="25795478" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.5 added Hash#slice method, How Fast is ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.5 added Hash#slice method, How Fast is Ruby 2.5.0? и Playing with ruby’s new JIT: MJIT
+
+  
+Happy 6th Birthday, Sidekiq, Serving your own Commercial Rubygems и Stimulus JS
+
+  
+Creating a simple GTK+ ToDo application with Ruby и Spying on a Ruby process’s memory allocations with eBPF
+
+
+
+JavaScript
+
+
+  
+The Top JavaScript Trends to Watch in 2018, Rollup now has code-splitting! And we need your help и React’s ⚛️ new Context API
+
+  
+JavaScript Date has too many traps и Five Common Problems in GraphQL Apps (And How to Fix Them)
+
+  
+Chiccocoin: Learn what is a Blockchain by creating one in NodeJS, Web Assembly Studio и Eloquent JavaScript, 3rd edition
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0606.png"/>
+  <itunes:duration>00:26:50</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>05 выпуск 06 сезона. Rails 5.2: Active Storage and beyond, Embedding Go into Ruby applications, Localer, Webpack demos и прочее</title>
   <description>
@@ -3896,100 +3990,6 @@ JavaScript implementations of different famous Computer Science algorithms, Brit
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0519.png"/>
   <itunes:duration>00:39:21</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>18 выпуск 05 сезона. Sinatra 2.0.0, Active Admin 1.0, Capistrano AWS, Autoprefixer 7.0, Prepack, PostCSS 6.0, Pkg и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.com/sinatra/sinatra/tree/v2.0.0">Sinatra 2.0.0</a>, <a href="http://www.varyonic.com/2017/04/active-admin-1-0/">Active Admin 1.0</a>, <a href="https://www.justinweiss.com/articles/the-lesser-known-features-in-rails-5-dot-1/">The Lesser-known Features in Rails 5.1</a> и <a href="https://www.backerkit.com/blog/building-a-rackattack-dashboard/">Building a Rack::Attack Dashboard</a></li>
-  <li><a href="https://engineering.avvo.com/articles/capistrano-deploy-perf.html">Improving capistrano deployment performance</a>, <a href="https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312">Crafting Better Code Reviews</a> и <a href="http://www.rubyletter.com/blog/2017/04/28/podcast-announcement.html">Announcing the RubyLetter Podcast</a></li>
-  <li><a href="https://blog.codeship.com/crystal-from-a-rubyists-perspective/">Crystal from a Rubyist’s Perspective</a>, <a href="https://github.com/xurumelous/capistrano-aws">Capistrano AWS</a>, <a href="http://masa16.github.io/pwrake/">Pwrake: Parallel Workflow extension for Rake, runs on multicores, clusters, clouds</a> и <a href="https://www.youtube.com/watch?v=x07q6V4VXC8">RailsConf 2017: Why Software Engineers Disagree About Everything (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/the-node-js-collection/node-js-8-0-0-has-been-delayed-and-will-ship-on-or-around-may-30th-cd38ba96980d">Node.js 8.0.0 has been delayed and will ship on or around May 30th</a>, <a href="https://prepack.io/">Prepack - a partial evaluator for JavaScript</a>, <a href="https://evilmartians.com/chronicles/autoprefixer-7-browserslist-2-released">Autoprefixer 7.0 and Browserslist 2.0</a> и <a href="https://github.com/postcss/postcss/releases/tag/6.0.0">PostCSS 6.0</a></li>
-  <li><a href="https://jakearchibald.com/2017/es-modules-in-browsers/">ECMAScript modules in browsers</a>, <a href="https://medium.com/@vladimirmetnew/javascript-compilation-epoch-ebfb7b5bb664">JavaScript: The compilation epoch</a>, <a href="https://css-tricks.com/ux-drives-all-of-this/">UX drives all of this</a> и <a href="https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f">45% Faster React Functional Components, Now</a></li>
-  <li><a href="https://developers.google.com/web/updates/2017/04/headless-chrome">Getting Started with Headless Chrome</a>, <a href="https://appleple.github.io/SmartPhoto/">SmartPhoto.js - the most easy to use responsive image viewer especially for mobile devices</a>, <a href="https://github.com/zeit/pkg">Pkg - package your Node.js project into an executable</a>, <a href="https://github.com/Sirvasile/Typefont">Typefont - recognises the font of a text in a image</a> и <a href="http://spector.babylonjs.com/">SpectorJS - explore and troubleshoot your WebGL scenes</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.com/sinatra/sinatra/tree/v2.0.0">Sinatra 2.0.0</a>, <a href="http://www.varyonic.com/2017/04/active-admin-1-0/">Active Admin 1.0</a>, <a href="https://www.justinweiss.com/articles/the-lesser-known-features-in-rails-5-dot-1/">The Lesser-known Features in Rails 5.1</a> и <a href="https://www.backerkit.com/blog/building-a-rackattack-dashboard/">Building a Rack::Attack Dashboard</a></li>
-  <li><a href="https://engineering.avvo.com/articles/capistrano-deploy-perf.html">Improving capistrano deployment performance</a>, <a href="https://medium.com/@vaidehijoshi/crafting-better-code-reviews-1a5fc00a9312">Crafting Better Code Reviews</a> и <a href="http://www.rubyletter.com/blog/2017/04/28/podcast-announcement.html">Announcing the RubyLetter Podcast</a></li>
-  <li><a href="https://blog.codeship.com/crystal-from-a-rubyists-perspective/">Crystal from a Rubyist’s Perspective</a>, <a href="https://github.com/xurumelous/capistrano-aws">Capistrano AWS</a>, <a href="http://masa16.github.io/pwrake/">Pwrake: Parallel Workflow extension for Rake, runs on multicores, clusters, clouds</a> и <a href="https://www.youtube.com/watch?v=x07q6V4VXC8">RailsConf 2017: Why Software Engineers Disagree About Everything (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/the-node-js-collection/node-js-8-0-0-has-been-delayed-and-will-ship-on-or-around-may-30th-cd38ba96980d">Node.js 8.0.0 has been delayed and will ship on or around May 30th</a>, <a href="https://prepack.io/">Prepack - a partial evaluator for JavaScript</a>, <a href="https://evilmartians.com/chronicles/autoprefixer-7-browserslist-2-released">Autoprefixer 7.0 and Browserslist 2.0</a> и <a href="https://github.com/postcss/postcss/releases/tag/6.0.0">PostCSS 6.0</a></li>
-  <li><a href="https://jakearchibald.com/2017/es-modules-in-browsers/">ECMAScript modules in browsers</a>, <a href="https://medium.com/@vladimirmetnew/javascript-compilation-epoch-ebfb7b5bb664">JavaScript: The compilation epoch</a>, <a href="https://css-tricks.com/ux-drives-all-of-this/">UX drives all of this</a> и <a href="https://medium.com/missive-app/45-faster-react-functional-components-now-3509a668e69f">45% Faster React Functional Components, Now</a></li>
-  <li><a href="https://developers.google.com/web/updates/2017/04/headless-chrome">Getting Started with Headless Chrome</a>, <a href="https://appleple.github.io/SmartPhoto/">SmartPhoto.js - the most easy to use responsive image viewer especially for mobile devices</a>, <a href="https://github.com/zeit/pkg">Pkg - package your Node.js project into an executable</a>, <a href="https://github.com/Sirvasile/Typefont">Typefont - recognises the font of a text in a image</a> и <a href="http://spector.babylonjs.com/">SpectorJS - explore and troubleshoot your WebGL scenes</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 08 May 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/05/08/podcast-05-18.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/05/08/podcast-05-18.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0518.mp3" length="45262488" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0518.mp3" fileSize="45262488" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Sinatra 2.0.0, Active Admin 1.0, The Lesser-kn...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Sinatra 2.0.0, Active Admin 1.0, The Lesser-known Features in Rails 5.1 и Building a Rack::Attack Dashboard
-
-  
-Improving capistrano deployment performance, Crafting Better Code Reviews и Announcing the RubyLetter Podcast
-
-  
-Crystal from a Rubyist’s Perspective, Capistrano AWS, Pwrake: Parallel Workflow extension for Rake, runs on multicores, clusters, clouds и RailsConf 2017: Why Software Engineers Disagree About Everything (video)
-
-
-
-JavaScript
-
-
-  
-Node.js 8.0.0 has been delayed and will ship on or around May 30th, Prepack - a partial evaluator for JavaScript, Autoprefixer 7.0 and Browserslist 2.0 и PostCSS 6.0
-
-  
-ECMAScript modules in browsers, JavaScript: The compilation epoch, UX drives all of this и 45% Faster React Functional Components, Now
-
-  
-Getting Started with Headless Chrome, SmartPhoto.js - the most easy to use responsive image viewer especially for mobile devices, Pkg - package your Node.js project into an executable, Typefont - recognises the font of a text in a image и SpectorJS - explore and troubleshoot your WebGL scenes
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0518.png"/>
-  <itunes:duration>00:47:02</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
