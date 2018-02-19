@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 12 Feb 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 12 Feb 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 19 Feb 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>07 выпуск 06 сезона. Ruby's New JIT, Ruby 3x3, Ember 3.0, Parcel v1.6.0, Phaser 3.0, SingleCov, Face-verify.js, Blotter.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://medium.com/square-corner-blog/rubys-new-jit-91a5c864dd10">Ruby’s New JIT</a>, <a href="https://medium.com/@atul9/ruby-2-5-adds-process-last-status-690fe5dc369a">Ruby 2.5 adds Process#last_status</a> и <a href="https://planetruby.github.io/calendar/ruby3x3">Ruby 3x3 - What’s News?</a></li>
+  <li><a href="https://www.ombulabs.com/blog/rails/upgrades/active-record-5-1-api-changes.html">Cleaning up: ActiveRecord::Dirty 5.2 API Changes</a>, <a href="https://mkdev.me/en/posts/how-to-use-query-objects-to-refactor-rails-sql-queries">How to use Query Objects to refactor Rails SQL-queries</a> и <a href="https://www.cookieshq.co.uk/posts/elasticsearch-searching-by-colour">How to search by color in Elasticsearch</a></li>
+  <li><a href="https://medium.com/@UnicornAgency/you-should-be-using-graphql-a-ruby-introduction-9b1de3b001dd">Technical Tuesdays: Using GraphQL, a Ruby on Rails introduction</a> и <a href="https://github.com/grosser/single_cov">SingleCov - more actionable + faster than SimpleCov</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88">React Native has been relicensed to MIT</a>, <a href="https://emberjs.com/blog/2018/02/14/ember-3-0-released.html">Ember 3.0 Released</a>, <a href="https://medium.com/@devongovett/parcel-v1-6-0-46f4a2514668">Parcel v1.6.0: Zero Config ES6+ and JSX, Node and Electron Targets, Bundle Statistics, and more!</a> и <a href="https://phaser.io/">Phaser 3.0 is out</a></li>
+  <li><a href="https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-increase-its-readability-94d6a949afc4">How to keep your JavaScript code simple and increase its readability</a> и <a href="https://assortment.io/posts/handling-long-titles-with-truncation">Handling long titles with truncation</a></li>
+  <li><a href="https://blog.machinebox.io/face-verify-js-monitoring-who-is-looking-at-a-website-for-additional-security-1d6025a8fedd">Face-verify.js: Monitoring who is physically looking at a website for additional security</a>, <a href="https://blotter.js.org/">Blotter.js - a JavaScript API for drawing unconventional text effects on the web</a> и <a href="https://github.com/yangshun/front-end-interview-handbook">Front-end Job Interview Questions book</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://medium.com/square-corner-blog/rubys-new-jit-91a5c864dd10">Ruby’s New JIT</a>, <a href="https://medium.com/@atul9/ruby-2-5-adds-process-last-status-690fe5dc369a">Ruby 2.5 adds Process#last_status</a> и <a href="https://planetruby.github.io/calendar/ruby3x3">Ruby 3x3 - What’s News?</a></li>
+  <li><a href="https://www.ombulabs.com/blog/rails/upgrades/active-record-5-1-api-changes.html">Cleaning up: ActiveRecord::Dirty 5.2 API Changes</a>, <a href="https://mkdev.me/en/posts/how-to-use-query-objects-to-refactor-rails-sql-queries">How to use Query Objects to refactor Rails SQL-queries</a> и <a href="https://www.cookieshq.co.uk/posts/elasticsearch-searching-by-colour">How to search by color in Elasticsearch</a></li>
+  <li><a href="https://medium.com/@UnicornAgency/you-should-be-using-graphql-a-ruby-introduction-9b1de3b001dd">Technical Tuesdays: Using GraphQL, a Ruby on Rails introduction</a> и <a href="https://github.com/grosser/single_cov">SingleCov - more actionable + faster than SimpleCov</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/facebook/react-native/commit/26684cf3adf4094eb6c405d345a75bf8c7c0bf88">React Native has been relicensed to MIT</a>, <a href="https://emberjs.com/blog/2018/02/14/ember-3-0-released.html">Ember 3.0 Released</a>, <a href="https://medium.com/@devongovett/parcel-v1-6-0-46f4a2514668">Parcel v1.6.0: Zero Config ES6+ and JSX, Node and Electron Targets, Bundle Statistics, and more!</a> и <a href="https://phaser.io/">Phaser 3.0 is out</a></li>
+  <li><a href="https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-increase-its-readability-94d6a949afc4">How to keep your JavaScript code simple and increase its readability</a> и <a href="https://assortment.io/posts/handling-long-titles-with-truncation">Handling long titles with truncation</a></li>
+  <li><a href="https://blog.machinebox.io/face-verify-js-monitoring-who-is-looking-at-a-website-for-additional-security-1d6025a8fedd">Face-verify.js: Monitoring who is physically looking at a website for additional security</a>, <a href="https://blotter.js.org/">Blotter.js - a JavaScript API for drawing unconventional text effects on the web</a> и <a href="https://github.com/yangshun/front-end-interview-handbook">Front-end Job Interview Questions book</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 19 Feb 2018 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2018/02/19/podcast-06-07.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/02/19/podcast-06-07.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/06/0607.mp3" length="27513202" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/06/0607.mp3" fileSize="27513202" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby’s New JIT, Ruby 2.5 adds Process#last_sta...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby’s New JIT, Ruby 2.5 adds Process#last_status и Ruby 3x3 - What’s News?
+
+  
+Cleaning up: ActiveRecord::Dirty 5.2 API Changes, How to use Query Objects to refactor Rails SQL-queries и How to search by color in Elasticsearch
+
+  
+Technical Tuesdays: Using GraphQL, a Ruby on Rails introduction и SingleCov - more actionable + faster than SimpleCov
+
+
+
+JavaScript
+
+
+  
+React Native has been relicensed to MIT, Ember 3.0 Released, Parcel v1.6.0: Zero Config ES6+ and JSX, Node and Electron Targets, Bundle Statistics, and more! и Phaser 3.0 is out
+
+  
+How to keep your JavaScript code simple and increase its readability и Handling long titles with truncation
+
+  
+Face-verify.js: Monitoring who is physically looking at a website for additional security, Blotter.js - a JavaScript API for drawing unconventional text effects on the web и Front-end Job Interview Questions book
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0607.png"/>
+  <itunes:duration>00:28:38</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>06 выпуск 06 сезона. Ruby 2.5 added Hash#slice method, Stimulus JS, Chiccocoin, Eloquent JavaScript и прочее</title>
   <description>
@@ -3896,100 +3990,6 @@ Learn CSS Grid, Workbox - a collection of JavaScript libraries for Progressive W
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0520.png"/>
   <itunes:duration>00:41:43</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>19 выпуск 05 сезона. Rails 5.0.3 и 5.1.1, GraphQL в Rails, Serverless-ruby, Webpack CLI, Britecharts, Sticky Sidebar и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2017/5/12/Rails-5-0-3-and-5-1-1-have-been-released/">Rails 5.0.3 and 5.1.1 have been released</a>, <a href="https://blog.daftcode.pl/fixing-unicode-for-ruby-developers-60d7f6377388">Fixing Unicode for Ruby Developers</a>, <a href="http://etehtsea.me/how-to-find-and-fix-bug-in-jruby-and-dont-go-crazy">How to find and fix bug in JRuby and don’t go crazy</a> и <a href="https://6ftdan.com/allyourdev/2017/05/13/dont-use-objects-as-hash-keys-in-ruby/">Don’t Use Objects as Hash Keys in Ruby</a></li>
-  <li><a href="http://drianhillman.me/2017/05/06/graphql-ruby">Start using GraphQL in Rails</a>, <a href="https://alexcastano.com/the-hidden-cost-of-the-invisible-queries-in-rails/">The hidden cost of the invisible queries in Rails</a> и <a href="https://semaphoreci.com/blog/2017/05/09/faster-rails-is-your-database-properly-indexed.html">Faster Rails: Is Your Database Properly Indexed?</a></li>
-  <li><a href="http://trailblazer.to/guides/trailblazer/2.0/03-rails-basics.html">Trailblazer on Rails: Basics - Setup &amp; Use</a>, <a href="https://github.com/stewartlord/serverless-ruby">Serverless-ruby - a Serverless Framework example using an AWS lambda which runs a Ruby function</a> и <a href="https://github.com/mattbrictson/bundleup">Bundleup - a Ruby project containing a Gemfile to see what gem dependencies need updating</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/webpack/announcing-the-new-webpack-cli-75ce1d9b8663">Announcing the new webpack CLI</a>, <a href="https://css-tricks.com/methods-contrasting-text-backgrounds/">Methods for Contrasting Text Against Backgrounds</a> и <a href="https://css-tricks.com/issue-preprocessing-css-custom-properties/">The Issue with Preprocessing CSS Custom Properties</a></li>
-  <li><a href="https://medium.com/@gajus/distributing-a-self-replicating-malicious-code-using-npm-cf2bf3209293">Distributing a self-replicating malicious code using NPM</a>, <a href="https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a">The Hitchhiker’s Guide to d3.js</a> и <a href="https://blog.webkid.io/making-maps-with-react/">Making Maps With React</a></li>
-  <li><a href="https://mgechev.github.io/javascript-algorithms/">JavaScript implementations of different famous Computer Science algorithms</a>, <a href="http://eventbrite.github.io/britecharts/">Britecharts - a client-side reusable Charting Library based on D3.js</a>, <a href="https://pin.gy/cli/">Pingy CLI - simple frontend build tool</a> и <a href="https://abouolia.github.io/sticky-sidebar/">Sticky Sidebar - jQuery plugin for making smart and high performance sticky sidebars</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2017/5/12/Rails-5-0-3-and-5-1-1-have-been-released/">Rails 5.0.3 and 5.1.1 have been released</a>, <a href="https://blog.daftcode.pl/fixing-unicode-for-ruby-developers-60d7f6377388">Fixing Unicode for Ruby Developers</a>, <a href="http://etehtsea.me/how-to-find-and-fix-bug-in-jruby-and-dont-go-crazy">How to find and fix bug in JRuby and don’t go crazy</a> и <a href="https://6ftdan.com/allyourdev/2017/05/13/dont-use-objects-as-hash-keys-in-ruby/">Don’t Use Objects as Hash Keys in Ruby</a></li>
-  <li><a href="http://drianhillman.me/2017/05/06/graphql-ruby">Start using GraphQL in Rails</a>, <a href="https://alexcastano.com/the-hidden-cost-of-the-invisible-queries-in-rails/">The hidden cost of the invisible queries in Rails</a> и <a href="https://semaphoreci.com/blog/2017/05/09/faster-rails-is-your-database-properly-indexed.html">Faster Rails: Is Your Database Properly Indexed?</a></li>
-  <li><a href="http://trailblazer.to/guides/trailblazer/2.0/03-rails-basics.html">Trailblazer on Rails: Basics - Setup &amp; Use</a>, <a href="https://github.com/stewartlord/serverless-ruby">Serverless-ruby - a Serverless Framework example using an AWS lambda which runs a Ruby function</a> и <a href="https://github.com/mattbrictson/bundleup">Bundleup - a Ruby project containing a Gemfile to see what gem dependencies need updating</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/webpack/announcing-the-new-webpack-cli-75ce1d9b8663">Announcing the new webpack CLI</a>, <a href="https://css-tricks.com/methods-contrasting-text-backgrounds/">Methods for Contrasting Text Against Backgrounds</a> и <a href="https://css-tricks.com/issue-preprocessing-css-custom-properties/">The Issue with Preprocessing CSS Custom Properties</a></li>
-  <li><a href="https://medium.com/@gajus/distributing-a-self-replicating-malicious-code-using-npm-cf2bf3209293">Distributing a self-replicating malicious code using NPM</a>, <a href="https://medium.com/@enjalot/the-hitchhikers-guide-to-d3-js-a8552174733a">The Hitchhiker’s Guide to d3.js</a> и <a href="https://blog.webkid.io/making-maps-with-react/">Making Maps With React</a></li>
-  <li><a href="https://mgechev.github.io/javascript-algorithms/">JavaScript implementations of different famous Computer Science algorithms</a>, <a href="http://eventbrite.github.io/britecharts/">Britecharts - a client-side reusable Charting Library based on D3.js</a>, <a href="https://pin.gy/cli/">Pingy CLI - simple frontend build tool</a> и <a href="https://abouolia.github.io/sticky-sidebar/">Sticky Sidebar - jQuery plugin for making smart and high performance sticky sidebars</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 15 May 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/05/15/podcast-05-19.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/05/15/podcast-05-19.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0519.mp3" length="37875930" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0519.mp3" fileSize="37875930" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.0.3 and 5.1.1 have been released, Fixi...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.0.3 and 5.1.1 have been released, Fixing Unicode for Ruby Developers, How to find and fix bug in JRuby and don’t go crazy и Don’t Use Objects as Hash Keys in Ruby
-
-  
-Start using GraphQL in Rails, The hidden cost of the invisible queries in Rails и Faster Rails: Is Your Database Properly Indexed?
-
-  
-Trailblazer on Rails: Basics - Setup &amp; Use, Serverless-ruby - a Serverless Framework example using an AWS lambda which runs a Ruby function и Bundleup - a Ruby project containing a Gemfile to see what gem dependencies need updating
-
-
-
-JavaScript
-
-
-  
-Announcing the new webpack CLI, Methods for Contrasting Text Against Backgrounds и The Issue with Preprocessing CSS Custom Properties
-
-  
-Distributing a self-replicating malicious code using NPM, The Hitchhiker’s Guide to d3.js и Making Maps With React
-
-  
-JavaScript implementations of different famous Computer Science algorithms, Britecharts - a client-side reusable Charting Library based on D3.js, Pingy CLI - simple frontend build tool и Sticky Sidebar - jQuery plugin for making smart and high performance sticky sidebars
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0519.png"/>
-  <itunes:duration>00:39:21</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
