@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 19 Feb 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 19 Feb 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 26 Feb 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,108 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>08 выпуск 06 сезона. Ruby 2.6.0-preview1, Webpack 4, Gzip a file in Ruby, Detect and Refactor JavaScript Copy-Paste Code и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2018/02/24/ruby-2-6-0-preview1-released/">Ruby 2.6.0-preview1 Released</a> и <a href="https://blog.bigbinary.com/2018/02/21/rails-5-2-supports-specifying-default-value-for-a-class_attribute.html">Rails 5.2 supports specifying default value for a class_attribute</a></li>
+  <li><a href="http://pdabrowski.com/blog/ruby-on-rails/rspec-fix-randomly-failing-tests-easily/">Ruby on Rails / RSpec – fix randomly failing tests easily</a>, <a href="https://philna.sh/blog/2018/02/25/gzip-file-ruby/">Gzip a file in Ruby</a> и <a href="https://www.nopio.com/blog/blockchain-app-ruby/">Blockchain App with Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/webpack/webpack-4-released-today-6cdb994702d4">Webpack 4: released today!!</a>, <a href="https://css-tricks.com/understanding-web-fonts-getting/">Understanding Web Fonts and Getting the Most Out of Them</a> и <a href="https://css-tricks.com/javascript-learning-landscape-2018/">The JavaScript Learning Landscape in 2018</a></li>
+  <li><a href="http://elijahmanor.com/js-copypaste-detect/">Detect and Refactor JavaScript Copy-Paste Code</a>, <a href="https://github.com/funkia/list">List - a purely functional alternative to arrays</a>, <a href="http://exploringjs.com/es2018-es2019/">Exploring ES2018 and ES2019</a> и <a href="https://github.com/maxchehab/CSS-Keylogging">CSS Keylogger</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://www.facebook.com/events/433063470484546/">Elixir Club 10</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2018/02/24/ruby-2-6-0-preview1-released/">Ruby 2.6.0-preview1 Released</a> и <a href="https://blog.bigbinary.com/2018/02/21/rails-5-2-supports-specifying-default-value-for-a-class_attribute.html">Rails 5.2 supports specifying default value for a class_attribute</a></li>
+  <li><a href="http://pdabrowski.com/blog/ruby-on-rails/rspec-fix-randomly-failing-tests-easily/">Ruby on Rails / RSpec – fix randomly failing tests easily</a>, <a href="https://philna.sh/blog/2018/02/25/gzip-file-ruby/">Gzip a file in Ruby</a> и <a href="https://www.nopio.com/blog/blockchain-app-ruby/">Blockchain App with Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/webpack/webpack-4-released-today-6cdb994702d4">Webpack 4: released today!!</a>, <a href="https://css-tricks.com/understanding-web-fonts-getting/">Understanding Web Fonts and Getting the Most Out of Them</a> и <a href="https://css-tricks.com/javascript-learning-landscape-2018/">The JavaScript Learning Landscape in 2018</a></li>
+  <li><a href="http://elijahmanor.com/js-copypaste-detect/">Detect and Refactor JavaScript Copy-Paste Code</a>, <a href="https://github.com/funkia/list">List - a purely functional alternative to arrays</a>, <a href="http://exploringjs.com/es2018-es2019/">Exploring ES2018 and ES2019</a> и <a href="https://github.com/maxchehab/CSS-Keylogging">CSS Keylogger</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://www.facebook.com/events/433063470484546/">Elixir Club 10</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 26 Feb 2018 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2018/02/26/podcast-06-08.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/02/26/podcast-06-08.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/06/0608.mp3" length="29073048" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/06/0608.mp3" fileSize="29073048" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6.0-preview1 Released и Rails 5.2 suppo...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6.0-preview1 Released и Rails 5.2 supports specifying default value for a class_attribute
+
+  
+Ruby on Rails / RSpec – fix randomly failing tests easily, Gzip a file in Ruby и Blockchain App with Ruby
+
+
+
+JavaScript
+
+
+  
+Webpack 4: released today!!, Understanding Web Fonts and Getting the Most Out of Them и The JavaScript Learning Landscape in 2018
+
+  
+Detect and Refactor JavaScript Copy-Paste Code, List - a purely functional alternative to arrays, Exploring ES2018 and ES2019 и CSS Keylogger
+
+
+
+Conferences
+
+
+  Elixir Club 10
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0608.png"/>
+  <itunes:duration>00:30:15</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>07 выпуск 06 сезона. Ruby's New JIT, Ruby 3x3, Ember 3.0, Parcel v1.6.0, Phaser 3.0, SingleCov, Face-verify.js, Blotter.js и прочее</title>
   <description>
@@ -3896,100 +3998,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0521.png"/>
   <itunes:duration>00:37:16</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>20 выпуск 05 сезона. CanCanCan 2.0, Bundler 1.15, Red Arrow, Learn CSS Grid, Workbox, Moments of Happiness и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@coorasse/cancancan-2-0-is-out-98abbf8f32d4">CanCanCan 2.0 is out</a>, <a href="http://bundler.io/blog/2017/05/19/bundler-1-15-bundle-oh-so-fast.html">Bundler 1.15: Bundle Oh So Fast</a> и <a href="http://blog.bigbinary.com/2017/05/16/rails-5-1-does-not-share-thread-mattr-accessor-variable-with-sub-class.html">Rails 5.1 does not share thread_mattr_accessor variable with subclass</a></li>
-  <li><a href="https://evilmartians.com/chronicles/fighting-the-hydra-of-n-plus-one-queries">Fighting the Hydra of N+1 queries</a>, <a href="https://hackernoon.com/you-know-for-search-de62b6126a86">Rubygems.org is now using Elasticsearch</a> и <a href="http://tech.eshaiju.in/blog/2017/05/15/graphql-mutation-query-implementation-ruby-on-rails/">GraphQL -Mutation Query Implementation - Ruby on Rails</a></li>
-  <li><a href="https://theoryofe.co/2017/05/15/your-analytical-research-using-twitter/">Your analytical research using Twitter</a>, <a href="https://chrisherring.co/posts/why-you-shouldn-t-use-the-system-ruby">Why you shouldn’t use the System Ruby</a> и <a href="https://github.com/red-data-tools/red-arrow">Red Arrow is a Ruby bindings of Apache Arrow</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hackernoon.com/node-security-authentication-javascript-tutorial-example-session-brute-force-rainbow-table-crack-hijack-3b6c56ee938c">Security: Broken Authentication</a>, <a href="http://tutorialzine.com/2017/05/getting-started-with-the-javascript-web-animation-api/">Getting Started With The JavaScript Web Animation API</a> и <a href="http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/">3 ways to reduce webpack bundle size</a></li>
-  <li><a href="https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68">Javascript: Save time by avoiding re-writing these common functions</a>, <a href="https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/">How Four Native Developers Wrote An Electron App</a> и <a href="https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2">Rearchitecting Airbnb’s Frontend</a></li>
-  <li><a href="http://learncssgrid.com/">Learn CSS Grid</a>, <a href="https://workboxjs.org/">Workbox - a collection of JavaScript libraries for Progressive Web Apps</a>, <a href="https://moments.epic.net/">Moments of Happiness</a> и <a href="http://xproger.info/projects/OpenLara/">OpenLara: Tomb Raider in your browser</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@coorasse/cancancan-2-0-is-out-98abbf8f32d4">CanCanCan 2.0 is out</a>, <a href="http://bundler.io/blog/2017/05/19/bundler-1-15-bundle-oh-so-fast.html">Bundler 1.15: Bundle Oh So Fast</a> и <a href="http://blog.bigbinary.com/2017/05/16/rails-5-1-does-not-share-thread-mattr-accessor-variable-with-sub-class.html">Rails 5.1 does not share thread_mattr_accessor variable with subclass</a></li>
-  <li><a href="https://evilmartians.com/chronicles/fighting-the-hydra-of-n-plus-one-queries">Fighting the Hydra of N+1 queries</a>, <a href="https://hackernoon.com/you-know-for-search-de62b6126a86">Rubygems.org is now using Elasticsearch</a> и <a href="http://tech.eshaiju.in/blog/2017/05/15/graphql-mutation-query-implementation-ruby-on-rails/">GraphQL -Mutation Query Implementation - Ruby on Rails</a></li>
-  <li><a href="https://theoryofe.co/2017/05/15/your-analytical-research-using-twitter/">Your analytical research using Twitter</a>, <a href="https://chrisherring.co/posts/why-you-shouldn-t-use-the-system-ruby">Why you shouldn’t use the System Ruby</a> и <a href="https://github.com/red-data-tools/red-arrow">Red Arrow is a Ruby bindings of Apache Arrow</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hackernoon.com/node-security-authentication-javascript-tutorial-example-session-brute-force-rainbow-table-crack-hijack-3b6c56ee938c">Security: Broken Authentication</a>, <a href="http://tutorialzine.com/2017/05/getting-started-with-the-javascript-web-animation-api/">Getting Started With The JavaScript Web Animation API</a> и <a href="http://blog.jakoblind.no/2017/05/18/3-ways-to-reduce-webpack-bundle-size/">3 ways to reduce webpack bundle size</a></li>
-  <li><a href="https://startupsventurecapital.com/javascript-save-time-by-avoiding-re-writing-these-common-functions-266835c0bf68">Javascript: Save time by avoiding re-writing these common functions</a>, <a href="https://githubengineering.com/how-four-native-developers-wrote-an-electron-app/">How Four Native Developers Wrote An Electron App</a> и <a href="https://medium.com/airbnb-engineering/rearchitecting-airbnbs-frontend-5e213efc24d2">Rearchitecting Airbnb’s Frontend</a></li>
-  <li><a href="http://learncssgrid.com/">Learn CSS Grid</a>, <a href="https://workboxjs.org/">Workbox - a collection of JavaScript libraries for Progressive Web Apps</a>, <a href="https://moments.epic.net/">Moments of Happiness</a> и <a href="http://xproger.info/projects/OpenLara/">OpenLara: Tomb Raider in your browser</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 22 May 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/05/22/podcast-05-20.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/05/22/podcast-05-20.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0520.mp3" length="40146016" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0520.mp3" fileSize="40146016" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  CanCanCan 2.0 is out, Bundler 1.15: Bundle Oh ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-CanCanCan 2.0 is out, Bundler 1.15: Bundle Oh So Fast и Rails 5.1 does not share thread_mattr_accessor variable with subclass
-
-  
-Fighting the Hydra of N+1 queries, Rubygems.org is now using Elasticsearch и GraphQL -Mutation Query Implementation - Ruby on Rails
-
-  
-Your analytical research using Twitter, Why you shouldn’t use the System Ruby и Red Arrow is a Ruby bindings of Apache Arrow
-
-
-
-JavaScript
-
-
-  
-Security: Broken Authentication, Getting Started With The JavaScript Web Animation API и 3 ways to reduce webpack bundle size
-
-  
-Javascript: Save time by avoiding re-writing these common functions, How Four Native Developers Wrote An Electron App и Rearchitecting Airbnb’s Frontend
-
-  
-Learn CSS Grid, Workbox - a collection of JavaScript libraries for Progressive Web Apps, Moments of Happiness и OpenLara: Tomb Raider in your browser
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0520.png"/>
-  <itunes:duration>00:41:43</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
