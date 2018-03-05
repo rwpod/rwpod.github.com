@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 26 Feb 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 26 Feb 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 05 Mar 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 05 Mar 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>09 выпуск 06 сезона. Passenger 5.2.1, Flutter beta 1, Clowne, Pain Points of GraphQL, Reactive Search, Flatbush, Prompts и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.phusion.nl/2018/02/27/passenger-5-2-1/">Passenger 5.2.1: Heroku RAM-pricing, Apache crash &amp; max pool idle time fixed</a>, <a href="https://atulbhosale.in/posts/2018-02-26-ruby-kernel-system-now-accepts-exception-flag-as-an-argument/">Kernel#system now accepts exception flag as an argument</a> и <a href="https://pawelurbanek.com/ruby-ios-comparison">Practical Differences between Working in Ruby and iOS</a></li>
+  <li><a href="https://evilmartians.com/chronicles/clowne-clone-ruby-models-with-a-smile">Clowne: Clone Ruby models with a smile</a>, <a href="https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/">Ruby Optimization with One Magic Comment</a> и <a href="https://medium.com/@awin/graphql-server-with-sinatra-ruby-part-1-fdd664170715">GraphQL server with Sinatra (Ruby)</a></li>
+  <li><a href="https://medium.com/@Arafat./solving-captchas-with-tensorflow-and-ruby-bc704c6ab92c">Solving CAPTCHAs with TensorFlow and Ruby</a> и <a href="https://github.com/scoutapp/ruby_server_timing">Server Timing Response Headers for Rails</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/ariya/phantomjs/issues/15344">PhantomJS project development suspended due to lack of contributions</a>, <a href="https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0">Announcing Flutter beta 1: Build beautiful native apps</a>, <a href="https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf">Why Flutter Uses Dart</a> и <a href="https://hackernoon.com/creating-webassembly-powered-library-for-modern-web-846da334f8fc">Creating WebAssembly-powered library for modern web</a></li>
+  <li><a href="https://labs.getninjas.com.br/pain-points-of-graphql-7e83ba5ddef7">Pain Points of GraphQL</a>, <a href="https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15">Please stop using console.log(), it’s broken…</a> и <a href="https://www.elephate.com/blog/ultimate-guide-javascript-seo/">The Ultimate Guide to JavaScript SEO</a></li>
+  <li><a href="https://github.com/appbaseio/reactivesearch/">Reactive Search - a React and React Native UI components library for Elasticsearch</a>, <a href="https://github.com/mourner/flatbush">Flatbush - a really fast static spatial index for 2D points and rectangles in JavaScript</a> и <a href="https://github.com/terkelg/prompts">Prompts - lightweight, beautiful and user-friendly interactive prompts</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.phusion.nl/2018/02/27/passenger-5-2-1/">Passenger 5.2.1: Heroku RAM-pricing, Apache crash &amp; max pool idle time fixed</a>, <a href="https://atulbhosale.in/posts/2018-02-26-ruby-kernel-system-now-accepts-exception-flag-as-an-argument/">Kernel#system now accepts exception flag as an argument</a> и <a href="https://pawelurbanek.com/ruby-ios-comparison">Practical Differences between Working in Ruby and iOS</a></li>
+  <li><a href="https://evilmartians.com/chronicles/clowne-clone-ruby-models-with-a-smile">Clowne: Clone Ruby models with a smile</a>, <a href="https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/">Ruby Optimization with One Magic Comment</a> и <a href="https://medium.com/@awin/graphql-server-with-sinatra-ruby-part-1-fdd664170715">GraphQL server with Sinatra (Ruby)</a></li>
+  <li><a href="https://medium.com/@Arafat./solving-captchas-with-tensorflow-and-ruby-bc704c6ab92c">Solving CAPTCHAs with TensorFlow and Ruby</a> и <a href="https://github.com/scoutapp/ruby_server_timing">Server Timing Response Headers for Rails</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/ariya/phantomjs/issues/15344">PhantomJS project development suspended due to lack of contributions</a>, <a href="https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0">Announcing Flutter beta 1: Build beautiful native apps</a>, <a href="https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf">Why Flutter Uses Dart</a> и <a href="https://hackernoon.com/creating-webassembly-powered-library-for-modern-web-846da334f8fc">Creating WebAssembly-powered library for modern web</a></li>
+  <li><a href="https://labs.getninjas.com.br/pain-points-of-graphql-7e83ba5ddef7">Pain Points of GraphQL</a>, <a href="https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15">Please stop using console.log(), it’s broken…</a> и <a href="https://www.elephate.com/blog/ultimate-guide-javascript-seo/">The Ultimate Guide to JavaScript SEO</a></li>
+  <li><a href="https://github.com/appbaseio/reactivesearch/">Reactive Search - a React and React Native UI components library for Elasticsearch</a>, <a href="https://github.com/mourner/flatbush">Flatbush - a really fast static spatial index for 2D points and rectangles in JavaScript</a> и <a href="https://github.com/terkelg/prompts">Prompts - lightweight, beautiful and user-friendly interactive prompts</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 05 Mar 2018 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2018/03/05/podcast-06-09.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/03/05/podcast-06-09.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/06/0609.mp3" length="38534602" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/06/0609.mp3" fileSize="38534602" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Passenger 5.2.1: Heroku RAM-pricing, Apache cr...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Passenger 5.2.1: Heroku RAM-pricing, Apache crash &amp; max pool idle time fixed, Kernel#system now accepts exception flag as an argument и Practical Differences between Working in Ruby and iOS
+
+  
+Clowne: Clone Ruby models with a smile, Ruby Optimization with One Magic Comment и GraphQL server with Sinatra (Ruby)
+
+  
+Solving CAPTCHAs with TensorFlow and Ruby и Server Timing Response Headers for Rails
+
+
+
+JavaScript
+
+
+  
+PhantomJS project development suspended due to lack of contributions, Announcing Flutter beta 1: Build beautiful native apps, Why Flutter Uses Dart и Creating WebAssembly-powered library for modern web
+
+  
+Pain Points of GraphQL, Please stop using console.log(), it’s broken… и The Ultimate Guide to JavaScript SEO
+
+  
+Reactive Search - a React and React Native UI components library for Elasticsearch, Flatbush - a really fast static spatial index for 2D points and rectangles in JavaScript и Prompts - lightweight, beautiful and user-friendly interactive prompts
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0609.png"/>
+  <itunes:duration>00:40:07</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>08 выпуск 06 сезона. Ruby 2.6.0-preview1, Webpack 4, Gzip a file in Ruby, Detect and Refactor JavaScript Copy-Paste Code и прочее</title>
   <description>
@@ -3886,118 +3980,6 @@ Put your Electron app on a diet with Electrino, Ender - open module JavaScript f
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0522.png"/>
   <itunes:duration>01:13:01</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>21 выпуск 05 сезона. Node v8.0.0, Npm v5.0.0, Practical Graph Theory in Ruby, DataTables, KharkivCSS #2, MoscowCSS #3 и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2017/05/23/rails-5-1-adds-support-for-limit-in-batch-processing.html">Rails 5.1 adds support for limit in batch processing</a>, <a href="http://blog.bigbinary.com/2017/05/30/rails-5-1-adds-delegate-missing-to.html">Rails 5.1 adds delegate_missing_to</a> и <a href="http://blog.redpanthers.co/screenshots-using-ruby/">Taking screenshots of webpages using Ruby</a></li>
-  <li><a href="http://www.blackbytes.info/2017/05/graph-theory-in-ruby/">Practical Graph Theory in Ruby</a>, <a href="https://ducktypelabs.com/4-ways-to-secure-authentication/">4 Ways to Secure Your Authentication System</a> и <a href="https://alexcastano.com/everything-about-ruby-splats/">Everything you should know about Ruby Splats</a></li>
-  <li><a href="https://hackernoon.com/phoenix-is-better-but-rails-is-more-popular-8975d5e68879">Phoenix is better but Rails is more popular</a>, <a href="https://www.driftingruby.com/episodes/datatables">DataTables (video)</a> и <a href="http://confreaks.tv/events/railsconf2017">RailsConf 2017 (videos)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v8.0.0/">Node v8.0.0</a>, <a href="http://blog.npmjs.org/post/161081169345/v500">Npm v5.0.0</a> и <a href="https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358">The state of JavaScript modules</a></li>
-  <li><a href="https://www.sitepoint.com/rest-2-0-graphql/">REST 2.0 Is Here and Its Name Is GraphQL</a>, <a href="http://vuejsdevelopers.com/2017/05/28/switch-from-react-to-vue-js/">Switching From React To Vue.js</a> и <a href="https://medium.com/@npayot/how-to-migrate-from-angularjs-to-vue-4a1e9721bea8">How to Migrate from AngularJS to Vue</a></li>
-  <li><a href="https://www.youtube.com/watch?v=9UahaciXAbU">React Native and the biggest pitfalls you will face using it</a>, <a href="https://dou.ua/forums/topic/20631/">KharkivCSS #2</a>, <a href="https://www.youtube.com/playlist?list=PLAf_MJ7SOshF2_9ApXmZ-iGmfgfKQm7Vu">MoscowCSS #3</a> и <a href="https://www.youtube.com/playlist?list=PL-whh3wS8xsKLNp3J7Jg9LkWBbbx5T1Q6">MinskJS Meetup #2</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/158544027995561">Elixir Club Evening 1</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2017/05/23/rails-5-1-adds-support-for-limit-in-batch-processing.html">Rails 5.1 adds support for limit in batch processing</a>, <a href="http://blog.bigbinary.com/2017/05/30/rails-5-1-adds-delegate-missing-to.html">Rails 5.1 adds delegate_missing_to</a> и <a href="http://blog.redpanthers.co/screenshots-using-ruby/">Taking screenshots of webpages using Ruby</a></li>
-  <li><a href="http://www.blackbytes.info/2017/05/graph-theory-in-ruby/">Practical Graph Theory in Ruby</a>, <a href="https://ducktypelabs.com/4-ways-to-secure-authentication/">4 Ways to Secure Your Authentication System</a> и <a href="https://alexcastano.com/everything-about-ruby-splats/">Everything you should know about Ruby Splats</a></li>
-  <li><a href="https://hackernoon.com/phoenix-is-better-but-rails-is-more-popular-8975d5e68879">Phoenix is better but Rails is more popular</a>, <a href="https://www.driftingruby.com/episodes/datatables">DataTables (video)</a> и <a href="http://confreaks.tv/events/railsconf2017">RailsConf 2017 (videos)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v8.0.0/">Node v8.0.0</a>, <a href="http://blog.npmjs.org/post/161081169345/v500">Npm v5.0.0</a> и <a href="https://medium.com/webpack/the-state-of-javascript-modules-4636d1774358">The state of JavaScript modules</a></li>
-  <li><a href="https://www.sitepoint.com/rest-2-0-graphql/">REST 2.0 Is Here and Its Name Is GraphQL</a>, <a href="http://vuejsdevelopers.com/2017/05/28/switch-from-react-to-vue-js/">Switching From React To Vue.js</a> и <a href="https://medium.com/@npayot/how-to-migrate-from-angularjs-to-vue-4a1e9721bea8">How to Migrate from AngularJS to Vue</a></li>
-  <li><a href="https://www.youtube.com/watch?v=9UahaciXAbU">React Native and the biggest pitfalls you will face using it</a>, <a href="https://dou.ua/forums/topic/20631/">KharkivCSS #2</a>, <a href="https://www.youtube.com/playlist?list=PLAf_MJ7SOshF2_9ApXmZ-iGmfgfKQm7Vu">MoscowCSS #3</a> и <a href="https://www.youtube.com/playlist?list=PL-whh3wS8xsKLNp3J7Jg9LkWBbbx5T1Q6">MinskJS Meetup #2</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/158544027995561">Elixir Club Evening 1</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Wed, 31 May 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/05/31/podcast-05-21.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/05/31/podcast-05-21.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0521.mp3" length="35874818" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0521.mp3" fileSize="35874818" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.1 adds support for limit in batch proc...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.1 adds support for limit in batch processing, Rails 5.1 adds delegate_missing_to и Taking screenshots of webpages using Ruby
-
-  
-Practical Graph Theory in Ruby, 4 Ways to Secure Your Authentication System и Everything you should know about Ruby Splats
-
-  
-Phoenix is better but Rails is more popular, DataTables (video) и RailsConf 2017 (videos)
-
-
-
-JavaScript
-
-
-  
-Node v8.0.0, Npm v5.0.0 и The state of JavaScript modules
-
-  
-REST 2.0 Is Here and Its Name Is GraphQL, Switching From React To Vue.js и How to Migrate from AngularJS to Vue
-
-  
-React Native and the biggest pitfalls you will face using it, KharkivCSS #2, MoscowCSS #3 и MinskJS Meetup #2
-
-
-
-Conferences
-
-
-  Elixir Club Evening 1
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0521.png"/>
-  <itunes:duration>00:37:16</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
