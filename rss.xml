@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 19 Mar 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 19 Mar 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Sat, 24 Mar 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,94 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>RWPod Кафе 7: Oleg Antonyan и Rust</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Oleg Antonyan:</p>
+
+<ul>
+  <li>Кто ты?</li>
+  <li><a href="https://insights.stackoverflow.com/survey/2018/">Developer Survey Results 2018</a></li>
+  <li><a href="https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579">Let’s Encrypt releases support for wildcard certificates</a></li>
+  <li><a href="https://github.com/atom/xray">Atom + Rust = XRay</a></li>
+  <li><a href="https://usehelix.com/">Ruby + Rust = Helix</a></li>
+  <li>Математика и программирование</li>
+  <li><a href="https://www.recode.net/2018/3/7/17093808/alexa-laughing-amazon-solution-fix">Amazon thinks it has a fix to Alexa’s terrifying laughing issue</a></li>
+  <li><a href="https://thenextweb.com/dd/2018/03/05/30-of-the-web-now-runs-on-wordpress/">30% of all sites now run on WordPress</a></li>
+  <li><a href="https://chrismorgan.info/blog/rust-fizzbuzz.html">Why your first FizzBuzz implementation may not work</a></li>
+  <li>
+    <p>Пожелания слушателям.</p>
+  </li>
+  <li><a href="http://undefined-reference.org/">Blog</a></li>
+  <li><a href="https://github.com/olegantonyan">Github</a></li>
+  <li><a href="https://twitter.com/oleg_antonyan">Twitter</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Oleg Antonyan:</p>
+
+<ul>
+  <li>Кто ты?</li>
+  <li><a href="https://insights.stackoverflow.com/survey/2018/">Developer Survey Results 2018</a></li>
+  <li><a href="https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579">Let’s Encrypt releases support for wildcard certificates</a></li>
+  <li><a href="https://github.com/atom/xray">Atom + Rust = XRay</a></li>
+  <li><a href="https://usehelix.com/">Ruby + Rust = Helix</a></li>
+  <li>Математика и программирование</li>
+  <li><a href="https://www.recode.net/2018/3/7/17093808/alexa-laughing-amazon-solution-fix">Amazon thinks it has a fix to Alexa’s terrifying laughing issue</a></li>
+  <li><a href="https://thenextweb.com/dd/2018/03/05/30-of-the-web-now-runs-on-wordpress/">30% of all sites now run on WordPress</a></li>
+  <li><a href="https://chrismorgan.info/blog/rust-fizzbuzz.html">Why your first FizzBuzz implementation may not work</a></li>
+  <li>
+    <p>Пожелания слушателям.</p>
+  </li>
+  <li><a href="http://undefined-reference.org/">Blog</a></li>
+  <li><a href="https://github.com/olegantonyan">Github</a></li>
+  <li><a href="https://twitter.com/oleg_antonyan">Twitter</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Sat, 24 Mar 2018 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2018/03/24/cafe-007.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/03/24/cafe-007.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/cafe/007.mp3" length="58469464" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/cafe/007.mp3" fileSize="58469464" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Oleg Antonyan:
+
+
+  Кто ты?
+  Developer Survey Results 2018
+  Let’s Encrypt releases su...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Oleg Antonyan:
+
+
+  Кто ты?
+  Developer Survey Results 2018
+  Let’s Encrypt releases support for wildcard certificates
+  Atom + Rust = XRay
+  Ruby + Rust = Helix
+  Математика и программирование
+  Amazon thinks it has a fix to Alexa’s terrifying laughing issue
+  30% of all sites now run on WordPress
+  Why your first FizzBuzz implementation may not work
+  
+    Пожелания слушателям.
+  
+  Blog
+  Github
+  Twitter
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/cafe/007.png"/>
+  <itunes:duration>01:00:53</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>11 выпуск 06 сезона. Desktop Ruby GUI development, Let's Encrypt support wildcard certificates, SmooshGate, IDEA и прочее</title>
   <description>
@@ -3823,118 +3911,6 @@ Bojler - an email boilerplate and a guideline for writing HTML code that will re
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0525.png"/>
   <itunes:duration>00:42:58</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>24 выпуск 05 сезона. MJIT, Atom 1.18, From Rails to Hanami, Full Stack Automation with Ruby, Spected и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2017/06/14/ruby-2-4-added-hash-transform-values-and-its-destructive-version-from-active-support.html">Ruby 2.4 added Hash#transform_values and its destructive version from Active Support</a>, <a href="http://blog.bigbinary.com/2017/06/15/ruby-2-4-allows-to-customize-suffix-of-the-rotated-log-files.html">Ruby 2.4 allows to customize suffix of the rotated log files</a>, <a href="http://blog.bigbinary.com/2017/06/19/ruby-2-4-has-depecated-constants-true-false-and-nil.html">Ruby 2.4 has deprecated toplevel constants TRUE, FALSE and NIL</a> и <a href="https://github.com/vnmakarov/ruby/tree/rtl_mjit_branch#readme">MJIT - ~3x faster Ruby via JIT and a richer intermediate representation (IR)</a></li>
-  <li><a href="https://blog.codeminer42.com/from-rails-to-hanami-views-66d27bcba404">From Rails to Hanami: Views</a>, <a href="http://io.bilby91.com/posts/rails-to-hanami">Rails to Hanami</a> и <a href="https://sonnym.github.io/2017/06/05/common-table-expressions-in-activerecord-a-case-study-of-quantiles/">Common Table Expressions in ActiveRecord: A Case Study of Quantiles</a></li>
-  <li><a href="http://fullstackautomationwithruby.com/">Full Stack Automation with Ruby</a>, <a href="https://github.com/davidgf/design-patterns-in-ruby">GoF design patterns in Ruby</a>, <a href="https://rubylaser.org/">Laser - another Search Engine for Ruby</a> и <a href="https://launchschool.com/books/demystifying_rails">Demystifying Rails (book)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.atom.io/2017/06/13/atom-1-18.html">Atom 1.18</a>, <a href="https://medium.com/dailyjs/angular-1-0-turns-five-years-old-4d7108a5e412">Angular 1.0 Turns Five Years Old</a> и <a href="https://css-tricks.com/introduction-fr-css-unit/">An Introduction to the ‘fr’ CSS unit</a></li>
-  <li><a href="https://blog.sessionstack.com/how-to-track-changes-in-the-dom-using-mutation-observer-bafdac65bca5">How to track changes in the DOM using Mutation Observer</a>, <a href="https://engineering.musefind.com/five-es6-features-to-make-your-life-easier-8c6a9518219f">Five ES6 features to make your life easier</a> и <a href="https://blog.pragmatists.com/lodash-is-not-only-for-list-manipulation-791c2e3b9de1">Lodash is not (only) for list manipulation</a></li>
-  <li><a href="https://github.com/grab/front-end-guide">Grab Front End Guide</a>, <a href="https://github.com/dexteryy/spellbook-of-modern-webdev">Spellbook of Modern Web Dev</a>, <a href="https://github.com/25th-floor/spected">Spected - a low level validation library for validating objects against defined validation rules</a> и <a href="http://lonekorean.github.io/highlight-within-textarea/">Highlight Within Textarea</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/1250208718389089/">Elixir Club 7</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2017/06/14/ruby-2-4-added-hash-transform-values-and-its-destructive-version-from-active-support.html">Ruby 2.4 added Hash#transform_values and its destructive version from Active Support</a>, <a href="http://blog.bigbinary.com/2017/06/15/ruby-2-4-allows-to-customize-suffix-of-the-rotated-log-files.html">Ruby 2.4 allows to customize suffix of the rotated log files</a>, <a href="http://blog.bigbinary.com/2017/06/19/ruby-2-4-has-depecated-constants-true-false-and-nil.html">Ruby 2.4 has deprecated toplevel constants TRUE, FALSE and NIL</a> и <a href="https://github.com/vnmakarov/ruby/tree/rtl_mjit_branch#readme">MJIT - ~3x faster Ruby via JIT and a richer intermediate representation (IR)</a></li>
-  <li><a href="https://blog.codeminer42.com/from-rails-to-hanami-views-66d27bcba404">From Rails to Hanami: Views</a>, <a href="http://io.bilby91.com/posts/rails-to-hanami">Rails to Hanami</a> и <a href="https://sonnym.github.io/2017/06/05/common-table-expressions-in-activerecord-a-case-study-of-quantiles/">Common Table Expressions in ActiveRecord: A Case Study of Quantiles</a></li>
-  <li><a href="http://fullstackautomationwithruby.com/">Full Stack Automation with Ruby</a>, <a href="https://github.com/davidgf/design-patterns-in-ruby">GoF design patterns in Ruby</a>, <a href="https://rubylaser.org/">Laser - another Search Engine for Ruby</a> и <a href="https://launchschool.com/books/demystifying_rails">Demystifying Rails (book)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.atom.io/2017/06/13/atom-1-18.html">Atom 1.18</a>, <a href="https://medium.com/dailyjs/angular-1-0-turns-five-years-old-4d7108a5e412">Angular 1.0 Turns Five Years Old</a> и <a href="https://css-tricks.com/introduction-fr-css-unit/">An Introduction to the ‘fr’ CSS unit</a></li>
-  <li><a href="https://blog.sessionstack.com/how-to-track-changes-in-the-dom-using-mutation-observer-bafdac65bca5">How to track changes in the DOM using Mutation Observer</a>, <a href="https://engineering.musefind.com/five-es6-features-to-make-your-life-easier-8c6a9518219f">Five ES6 features to make your life easier</a> и <a href="https://blog.pragmatists.com/lodash-is-not-only-for-list-manipulation-791c2e3b9de1">Lodash is not (only) for list manipulation</a></li>
-  <li><a href="https://github.com/grab/front-end-guide">Grab Front End Guide</a>, <a href="https://github.com/dexteryy/spellbook-of-modern-webdev">Spellbook of Modern Web Dev</a>, <a href="https://github.com/25th-floor/spected">Spected - a low level validation library for validating objects against defined validation rules</a> и <a href="http://lonekorean.github.io/highlight-within-textarea/">Highlight Within Textarea</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/1250208718389089/">Elixir Club 7</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 19 Jun 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/06/19/podcast-05-24.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/06/19/podcast-05-24.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0524.mp3" length="34057098" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0524.mp3" fileSize="34057098" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.4 added Hash#transform_values and its d...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.4 added Hash#transform_values and its destructive version from Active Support, Ruby 2.4 allows to customize suffix of the rotated log files, Ruby 2.4 has deprecated toplevel constants TRUE, FALSE and NIL и MJIT - ~3x faster Ruby via JIT and a richer intermediate representation (IR)
-
-  
-From Rails to Hanami: Views, Rails to Hanami и Common Table Expressions in ActiveRecord: A Case Study of Quantiles
-
-  
-Full Stack Automation with Ruby, GoF design patterns in Ruby, Laser - another Search Engine for Ruby и Demystifying Rails (book)
-
-
-
-JavaScript
-
-
-  
-Atom 1.18, Angular 1.0 Turns Five Years Old и An Introduction to the ‘fr’ CSS unit
-
-  
-How to track changes in the DOM using Mutation Observer, Five ES6 features to make your life easier и Lodash is not (only) for list manipulation
-
-  
-Grab Front End Guide, Spellbook of Modern Web Dev, Spected - a low level validation library for validating objects against defined validation rules и Highlight Within Textarea
-
-
-
-Conferences
-
-
-  Elixir Club 7
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0524.png"/>
-  <itunes:duration>00:35:27</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
