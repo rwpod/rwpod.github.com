@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Sat, 24 Mar 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 26 Mar 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,89 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>12 выпуск 06 сезона. Towards The Ruby 3×3 Performance Goal, Code editors for Mac, Webdash, ScrollBooster и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://developers.redhat.com/blog/2018/03/22/ruby-3x3-performance-goal/">Towards The Ruby 3×3 Performance Goal</a>, <a href="https://blog.browntreelabs.com/rails-is-still-king/">Rails is still King</a> и <a href="https://blog.phusion.nl/2018/03/21/how-to-win-friends-and-open-source-your-software/">How to win friends and open-source your software</a> (затронул поддержку <a href="https://github.com/railsware/upterm">Upterm</a>)</li>
+  <li><a href="https://medium.com/@davidmles/code-editors-for-mac-747fe90334d">Code editors for Mac</a>, <a href="https://zverok.github.io/blog/2018-03-23-yield_self2.html">More yield_self awesomeness. Also, the new name proposed</a> и <a href="https://medium.com/@farsi_mehdi/2-quick-tips-for-irb-360343bb8eb7">2 quick tips for IRB</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://webassemblycode.com/webassembly-cant-access-dom/">Webassembly can’t access the DOM. What?</a> и <a href="https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c">11 Javascript Machine Learning Libraries To Use In Your App</a></li>
+  <li><a href="https://emails.hteumeuleu.com/how-gmail-came-to-stop-supporting-css-animations-4e6fd81f1b75">How Gmail came to stop supporting CSS animations</a>, <a href="https://webdash.xyz/">Webdash - the customizable web dashboard</a> и <a href="https://ilyashubin.github.io/scrollbooster/">ScrollBooster - enjoyable content drag-to-scroll library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://developers.redhat.com/blog/2018/03/22/ruby-3x3-performance-goal/">Towards The Ruby 3×3 Performance Goal</a>, <a href="https://blog.browntreelabs.com/rails-is-still-king/">Rails is still King</a> и <a href="https://blog.phusion.nl/2018/03/21/how-to-win-friends-and-open-source-your-software/">How to win friends and open-source your software</a> (затронул поддержку <a href="https://github.com/railsware/upterm">Upterm</a>)</li>
+  <li><a href="https://medium.com/@davidmles/code-editors-for-mac-747fe90334d">Code editors for Mac</a>, <a href="https://zverok.github.io/blog/2018-03-23-yield_self2.html">More yield_self awesomeness. Also, the new name proposed</a> и <a href="https://medium.com/@farsi_mehdi/2-quick-tips-for-irb-360343bb8eb7">2 quick tips for IRB</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://webassemblycode.com/webassembly-cant-access-dom/">Webassembly can’t access the DOM. What?</a> и <a href="https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c">11 Javascript Machine Learning Libraries To Use In Your App</a></li>
+  <li><a href="https://emails.hteumeuleu.com/how-gmail-came-to-stop-supporting-css-animations-4e6fd81f1b75">How Gmail came to stop supporting CSS animations</a>, <a href="https://webdash.xyz/">Webdash - the customizable web dashboard</a> и <a href="https://ilyashubin.github.io/scrollbooster/">ScrollBooster - enjoyable content drag-to-scroll library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 26 Mar 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/03/26/podcast-06-12.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/03/26/podcast-06-12.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/06/0612.mp3" length="22116062" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/06/0612.mp3" fileSize="22116062" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Towards The Ruby 3×3 Performance Goal, Rails i...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Towards The Ruby 3×3 Performance Goal, Rails is still King и How to win friends and open-source your software (затронул поддержку Upterm)
+  
+Code editors for Mac, More yield_self awesomeness. Also, the new name proposed и 2 quick tips for IRB
+
+
+
+JavaScript
+
+
+  
+Webassembly can’t access the DOM. What? и 11 Javascript Machine Learning Libraries To Use In Your App
+
+  
+How Gmail came to stop supporting CSS animations, Webdash - the customizable web dashboard и ScrollBooster - enjoyable content drag-to-scroll library
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0612.png"/>
+  <itunes:duration>00:23:00</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>RWPod Кафе 7: Oleg Antonyan и Rust</title>
   <description>
@@ -3817,100 +3900,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0526.png"/>
   <itunes:duration>01:45:26</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>25 выпуск 05 сезона. Upgrading shopify to rails 5, Webpack 3, Service Worker gotchas, Rufo, Bojler, Sonar и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2017/06/21/ruby-2-4-ip-addr-methods-do-not-throw-exception-for-objects-that-cant-be-converted-to-ipaddr.html">In Ruby 2.4, IPAddr#== and IPAddr#&lt;=&gt; do not throw exception for objects that can’t be converted to IPAddr</a>, <a href="https://shopifyengineering.myshopify.com/blogs/engineering/upgrading-shopify-to-rails-5-0">Upgrading shopify to rails 5</a> и <a href="https://apotonick.wordpress.com/2015/09/05/the-only-alternative-to-a-rails-monolith-are-micro-services-bullshit/">The Only Alternative to a Rails Monolith are Micro Services? Bullshit!</a></li>
-  <li><a href="http://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/">Implementing Classification using Logistic Regression in Ruby</a>, <a href="https://semaphoreci.com/blog/2017/06/21/faster-rails-indexing-large-database-tables.html">Faster Rails: Indexing Large Database Tables Without Downtime</a>, <a href="http://t-a-w.blogspot.gr/2017/06/11-small-improvements-for-ruby.html">11 Small Improvements For Ruby</a> и <a href="https://chrisherring.co/posts/private-files-for-your-rails-app-using-s3">Private files for your Rails app using S3</a></li>
-  <li><a href="https://medium.com/little-programming-joys/crystal-tdd-and-conways-game-of-life-2216721b916e">Crystal, TDD and Conway’s Game of Life</a>, <a href="https://github.com/asterite/rufo">Rufo - ruby formatter</a> и <a href="https://twitter.com/wintermeyer/status/878860723304243201">Shorten the IRB prompt (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b">Webpack 3: Official Release</a>, <a href="https://medium.com/@alexdixon/functional-programming-in-javascript-is-an-antipattern-58526819f21e">Functional programming in Javascript is an antipattern</a> и <a href="https://medium.com/@mikenorth/webpack-preact-cli-vulnerability-961572624c54">Webpack &amp; Preact-CLI Vulnerability</a></li>
-  <li><a href="https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/">Service Worker gotchas</a>, <a href="https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5">Machine Learning with JavaScript : Part 1</a> и <a href="https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483">Machine Learning with JavaScript : Part 2</a></li>
-  <li><a href="http://slicejack.github.io/bojler/">Bojler - an email boilerplate and a guideline for writing HTML code that will render correctly across each of the most popular email clients</a>, <a href="https://js.foundation/announcements/2017/06/22/sonar-js-foundation-welcomes-newest-project">Sonar – JS Foundation Welcomes Newest Project</a> и <a href="https://performancejs.com/post/ewffd34/Introducing:-Lazy-arrays-in-JavaScript">Introducing: Lazy Arrays In JavaScript</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2017/06/21/ruby-2-4-ip-addr-methods-do-not-throw-exception-for-objects-that-cant-be-converted-to-ipaddr.html">In Ruby 2.4, IPAddr#== and IPAddr#&lt;=&gt; do not throw exception for objects that can’t be converted to IPAddr</a>, <a href="https://shopifyengineering.myshopify.com/blogs/engineering/upgrading-shopify-to-rails-5-0">Upgrading shopify to rails 5</a> и <a href="https://apotonick.wordpress.com/2015/09/05/the-only-alternative-to-a-rails-monolith-are-micro-services-bullshit/">The Only Alternative to a Rails Monolith are Micro Services? Bullshit!</a></li>
-  <li><a href="http://www.practicalai.io/implementing-classification-using-logistic-regression-in-ruby/">Implementing Classification using Logistic Regression in Ruby</a>, <a href="https://semaphoreci.com/blog/2017/06/21/faster-rails-indexing-large-database-tables.html">Faster Rails: Indexing Large Database Tables Without Downtime</a>, <a href="http://t-a-w.blogspot.gr/2017/06/11-small-improvements-for-ruby.html">11 Small Improvements For Ruby</a> и <a href="https://chrisherring.co/posts/private-files-for-your-rails-app-using-s3">Private files for your Rails app using S3</a></li>
-  <li><a href="https://medium.com/little-programming-joys/crystal-tdd-and-conways-game-of-life-2216721b916e">Crystal, TDD and Conway’s Game of Life</a>, <a href="https://github.com/asterite/rufo">Rufo - ruby formatter</a> и <a href="https://twitter.com/wintermeyer/status/878860723304243201">Shorten the IRB prompt (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/webpack/webpack-3-official-release-15fd2dd8f07b">Webpack 3: Official Release</a>, <a href="https://medium.com/@alexdixon/functional-programming-in-javascript-is-an-antipattern-58526819f21e">Functional programming in Javascript is an antipattern</a> и <a href="https://medium.com/@mikenorth/webpack-preact-cli-vulnerability-961572624c54">Webpack &amp; Preact-CLI Vulnerability</a></li>
-  <li><a href="https://labs.kollegorna.se/blog/2017/06/service-worker-gotchas/">Service Worker gotchas</a>, <a href="https://hackernoon.com/machine-learning-with-javascript-part-1-9b97f3ed4fe5">Machine Learning with JavaScript : Part 1</a> и <a href="https://hackernoon.com/machine-learning-with-javascript-part-2-da994c17d483">Machine Learning with JavaScript : Part 2</a></li>
-  <li><a href="http://slicejack.github.io/bojler/">Bojler - an email boilerplate and a guideline for writing HTML code that will render correctly across each of the most popular email clients</a>, <a href="https://js.foundation/announcements/2017/06/22/sonar-js-foundation-welcomes-newest-project">Sonar – JS Foundation Welcomes Newest Project</a> и <a href="https://performancejs.com/post/ewffd34/Introducing:-Lazy-arrays-in-JavaScript">Introducing: Lazy Arrays In JavaScript</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 26 Jun 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/06/26/podcast-05-25.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/06/26/podcast-05-25.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0525.mp3" length="41283565" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0525.mp3" fileSize="41283565" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  In Ruby 2.4, IPAddr#== and IPAddr#&lt;=&gt; do not t...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-In Ruby 2.4, IPAddr#== and IPAddr#&lt;=&gt; do not throw exception for objects that can’t be converted to IPAddr, Upgrading shopify to rails 5 и The Only Alternative to a Rails Monolith are Micro Services? Bullshit!
-
-  
-Implementing Classification using Logistic Regression in Ruby, Faster Rails: Indexing Large Database Tables Without Downtime, 11 Small Improvements For Ruby и Private files for your Rails app using S3
-
-  
-Crystal, TDD and Conway’s Game of Life, Rufo - ruby formatter и Shorten the IRB prompt (video)
-
-
-
-JavaScript
-
-
-  
-Webpack 3: Official Release, Functional programming in Javascript is an antipattern и Webpack &amp; Preact-CLI Vulnerability
-
-  
-Service Worker gotchas, Machine Learning with JavaScript : Part 1 и Machine Learning with JavaScript : Part 2
-
-  
-Bojler - an email boilerplate and a guideline for writing HTML code that will render correctly across each of the most popular email clients, Sonar – JS Foundation Welcomes Newest Project и Introducing: Lazy Arrays In JavaScript
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0525.png"/>
-  <itunes:duration>00:42:58</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
