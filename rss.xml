@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 26 Mar 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 26 Mar 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 02 Apr 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 02 Apr 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>13 выпуск 06 сезона. Rails 5.0.7 and 5.1.6, React v16.3.0, Elapsed time with Ruby, Redux - Not Dead Yet, TensorFlow.js, ReLaXed и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2018/3/29/Rails-5-0-7-and-5-1-6-have-been-released/">Rails 5.0.7 and 5.1.6 have been released</a>, <a href="http://pdabrowski.com/blog/ruby-on-rails/4-cool-less-known-rails-features-part-1/">4 cool less known Rails features – part 1: ActiveJob, ActiveModel, command line</a> и <a href="https://prograils.com/posts/capistrano-deploy-to-ubuntu-with-systemd-nginx-puma-and-rbenv">Capistrano deploy to ubuntu with systemd, nginx/puma and rbenv</a></li>
+  <li><a href="https://blog.dnsimple.com/2018/03/elapsed-time-with-ruby-the-right-way/">Elapsed time with Ruby, the right way</a>, <a href="https://github.com/marcinruszkiewicz/where_chain">WhereChain - don’t write Post.where(‘comments &gt; ?’, 5), write Post.where.gt(comments: 5) instead</a> и <a href="https://github.com/kvokka/pp_sql/">Pp_sql - Rails ActiveRecord SQL queries log beautifier</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://reactjs.org/blog/2018/03/29/react-v-16-3.html">React v16.3.0: New lifecycles and context API</a>, <a href="https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b">Google publishes a JavaScript style guide. Here are some key lessons</a>, <a href="http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/">Blogged Answers: Redux - Not Dead Yet!</a> и <a href="https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c">Modern Frontend Developer in 2018</a></li>
+  <li><a href="https://hackernoon.com/from-express-js-to-aws-lambda-migrating-existing-node-js-applications-to-serverless-7473041ecc56">From Express.js to AWS Lambda: Migrating existing Node.js applications to serverless</a>, <a href="https://medium.com/onfido-tech/speed-up-webpack-ff53c494b89c">Speeding up webpack</a>, <a href="https://js.tensorflow.org/">TensorFlow.js - an open-source hardware-accelerated JavaScript library for training and deploying machine learning models</a> и <a href="https://github.com/RelaxedJS/ReLaXed">ReLaXed - a software to create PDF documents interactively using HTML or Pug (a shorthand for HTML)</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2018/3/29/Rails-5-0-7-and-5-1-6-have-been-released/">Rails 5.0.7 and 5.1.6 have been released</a>, <a href="http://pdabrowski.com/blog/ruby-on-rails/4-cool-less-known-rails-features-part-1/">4 cool less known Rails features – part 1: ActiveJob, ActiveModel, command line</a> и <a href="https://prograils.com/posts/capistrano-deploy-to-ubuntu-with-systemd-nginx-puma-and-rbenv">Capistrano deploy to ubuntu with systemd, nginx/puma and rbenv</a></li>
+  <li><a href="https://blog.dnsimple.com/2018/03/elapsed-time-with-ruby-the-right-way/">Elapsed time with Ruby, the right way</a>, <a href="https://github.com/marcinruszkiewicz/where_chain">WhereChain - don’t write Post.where(‘comments &gt; ?’, 5), write Post.where.gt(comments: 5) instead</a> и <a href="https://github.com/kvokka/pp_sql/">Pp_sql - Rails ActiveRecord SQL queries log beautifier</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://reactjs.org/blog/2018/03/29/react-v-16-3.html">React v16.3.0: New lifecycles and context API</a>, <a href="https://medium.freecodecamp.org/google-publishes-a-javascript-style-guide-here-are-some-key-lessons-1810b8ad050b">Google publishes a JavaScript style guide. Here are some key lessons</a>, <a href="http://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/">Blogged Answers: Redux - Not Dead Yet!</a> и <a href="https://medium.com/tech-tajawal/modern-frontend-developer-in-2018-4c2072fa2b9c">Modern Frontend Developer in 2018</a></li>
+  <li><a href="https://hackernoon.com/from-express-js-to-aws-lambda-migrating-existing-node-js-applications-to-serverless-7473041ecc56">From Express.js to AWS Lambda: Migrating existing Node.js applications to serverless</a>, <a href="https://medium.com/onfido-tech/speed-up-webpack-ff53c494b89c">Speeding up webpack</a>, <a href="https://js.tensorflow.org/">TensorFlow.js - an open-source hardware-accelerated JavaScript library for training and deploying machine learning models</a> и <a href="https://github.com/RelaxedJS/ReLaXed">ReLaXed - a software to create PDF documents interactively using HTML or Pug (a shorthand for HTML)</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 02 Apr 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/04/02/podcast-06-13.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/04/02/podcast-06-13.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/06/0613.mp3" length="42731642" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/06/0613.mp3" fileSize="42731642" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.0.7 and 5.1.6 have been released, 4 co...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.0.7 and 5.1.6 have been released, 4 cool less known Rails features – part 1: ActiveJob, ActiveModel, command line и Capistrano deploy to ubuntu with systemd, nginx/puma and rbenv
+
+  
+Elapsed time with Ruby, the right way, WhereChain - don’t write Post.where(‘comments &gt; ?’, 5), write Post.where.gt(comments: 5) instead и Pp_sql - Rails ActiveRecord SQL queries log beautifier
+
+
+
+JavaScript
+
+
+  
+React v16.3.0: New lifecycles and context API, Google publishes a JavaScript style guide. Here are some key lessons, Blogged Answers: Redux - Not Dead Yet! и Modern Frontend Developer in 2018
+
+  
+From Express.js to AWS Lambda: Migrating existing Node.js applications to serverless, Speeding up webpack, TensorFlow.js - an open-source hardware-accelerated JavaScript library for training and deploying machine learning models и ReLaXed - a software to create PDF documents interactively using HTML or Pug (a shorthand for HTML)
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0613.png"/>
+  <itunes:duration>00:44:29</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>12 выпуск 06 сезона. Towards The Ruby 3×3 Performance Goal, Code editors for Mac, Webdash, ScrollBooster и прочее</title>
   <description>
@@ -3761,145 +3845,6 @@ Best CSS Books In 2017, Gatsby - blazing fast static site generator for React, R
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0527.png"/>
   <itunes:duration>00:30:01</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>26 выпуск 05 сезона. Rails 5.1.2, Unicorn Unix Magic Tricks, Small Is Big, Browser module loading, React Native UI Kitten и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2017/6/26/Rails-5-1-2-has-been-released/">Rails 5.1.2 has been released</a>, <a href="http://www.akitaonrails.com/2017/06/28/rails-5-1-heroku-deployment-checklist-for-heroku">Rails 5.1 Deployment Checklist for Heroku</a> и <a href="https://thorstenball.com/blog/2014/11/20/unicorn-unix-magic-tricks/">Unicorn Unix Magic Tricks</a></li>
-  <li><a href="https://medium.com/@gauravbasti2006/microservices-in-ruby-4888d757b35b">Small Is Big - Architecting microservices with Sinatra and RabbitMq</a>, <a href="http://www.rubypigeon.com/posts/refactoring-inheritance-composition-data/">Refactoring From Inheritance To Composition To Data</a>, <a href="https://medium.com/@joshsaintjacque/ruby-the-strategy-pattern-16c98b99b373">Ruby &amp; The Strategy Pattern</a> и <a href="https://revs.runtime-revolution.com/value-objects-in-ruby-on-rails-9df64bc8db34">Value Objects in Ruby on Rails</a></li>
-  <li><a href="https://blog.redpanthers.co/odyssey-in-rails/">Readability of text using odyssey</a>, <a href="http://www.blackbytes.info/2017/06/costs-of-metaprogramming/">The Hidden Costs of Metaprogramming</a> и <a href="http://railscasts.com/announcements/13">RailsCasts Pro episodes are now free</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae">Why Angular 2/4 Is Too Little, Too Late</a>, <a href="https://redditblog.com/2017/06/30/why-we-chose-typescript/">Why We Chose Typescript</a> и <a href="https://performancejs.com/post/hde6d32/The-Best-List-of-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer)">The Best Frontend JavaScript Interview Questions</a></li>
-  <li><a href="https://sgom.es/posts/2017-06-30-ecmascript-module-loading-can-we-unbundle-yet/">Browser module loading - can we stop bundling yet?</a>, <a href="https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764">React, Relay and GraphQL: Under the Hood of the Times Website Redesign</a> и <a href="https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/">Under the hood: ReactJS</a></li>
-  <li><a href="https://akveo.github.io/react-native-ui-kitten/">React Native UI Kitten</a>, <a href="https://css-tricks.com/stickybits-alternative-position-sticky-polyfills/">Stickybits: an alternative to ‘position: sticky’ polyfills</a>, <a href="https://maxart2501.github.io/share-this/">Share-this: Medium-like text sharing</a> и <a href="https://github.com/siddharthkp/bundlesize">Bundlesize - keep your bundle size in check</a></li>
-</ul>
-
-<h2 id="anton-davydov">В гостях - Anton Davydov</h2>
-
-<ul>
-  <li><a href="http://davydovanton.com/">Site</a></li>
-  <li><a href="http://blog.davydovanton.com/">Blog</a></li>
-  <li><a href="https://github.com/davydovanton">Github</a></li>
-  <li><a href="https://twitter.com/anton_davydov">Twitter</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/1806051456322921/">Ruby Meditation #16</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2017/6/26/Rails-5-1-2-has-been-released/">Rails 5.1.2 has been released</a>, <a href="http://www.akitaonrails.com/2017/06/28/rails-5-1-heroku-deployment-checklist-for-heroku">Rails 5.1 Deployment Checklist for Heroku</a> и <a href="https://thorstenball.com/blog/2014/11/20/unicorn-unix-magic-tricks/">Unicorn Unix Magic Tricks</a></li>
-  <li><a href="https://medium.com/@gauravbasti2006/microservices-in-ruby-4888d757b35b">Small Is Big - Architecting microservices with Sinatra and RabbitMq</a>, <a href="http://www.rubypigeon.com/posts/refactoring-inheritance-composition-data/">Refactoring From Inheritance To Composition To Data</a>, <a href="https://medium.com/@joshsaintjacque/ruby-the-strategy-pattern-16c98b99b373">Ruby &amp; The Strategy Pattern</a> и <a href="https://revs.runtime-revolution.com/value-objects-in-ruby-on-rails-9df64bc8db34">Value Objects in Ruby on Rails</a></li>
-  <li><a href="https://blog.redpanthers.co/odyssey-in-rails/">Readability of text using odyssey</a>, <a href="http://www.blackbytes.info/2017/06/costs-of-metaprogramming/">The Hidden Costs of Metaprogramming</a> и <a href="http://railscasts.com/announcements/13">RailsCasts Pro episodes are now free</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/@chriscordle/why-angular-2-4-is-too-little-too-late-ea86d7fa0bae">Why Angular 2/4 Is Too Little, Too Late</a>, <a href="https://redditblog.com/2017/06/30/why-we-chose-typescript/">Why We Chose Typescript</a> и <a href="https://performancejs.com/post/hde6d32/The-Best-List-of-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer)">The Best Frontend JavaScript Interview Questions</a></li>
-  <li><a href="https://sgom.es/posts/2017-06-30-ecmascript-module-loading-can-we-unbundle-yet/">Browser module loading - can we stop bundling yet?</a>, <a href="https://open.nytimes.com/react-relay-and-graphql-under-the-hood-of-the-times-website-redesign-22fb62ea9764">React, Relay and GraphQL: Under the Hood of the Times Website Redesign</a> и <a href="https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/">Under the hood: ReactJS</a></li>
-  <li><a href="https://akveo.github.io/react-native-ui-kitten/">React Native UI Kitten</a>, <a href="https://css-tricks.com/stickybits-alternative-position-sticky-polyfills/">Stickybits: an alternative to ‘position: sticky’ polyfills</a>, <a href="https://maxart2501.github.io/share-this/">Share-this: Medium-like text sharing</a> и <a href="https://github.com/siddharthkp/bundlesize">Bundlesize - keep your bundle size in check</a></li>
-</ul>
-
-<h2 id="anton-davydov">В гостях - Anton Davydov</h2>
-
-<ul>
-  <li><a href="http://davydovanton.com/">Site</a></li>
-  <li><a href="http://blog.davydovanton.com/">Blog</a></li>
-  <li><a href="https://github.com/davydovanton">Github</a></li>
-  <li><a href="https://twitter.com/anton_davydov">Twitter</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/1806051456322921/">Ruby Meditation #16</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 03 Jul 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/07/03/podcast-05-26.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/07/03/podcast-05-26.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0526.mp3" length="101239386" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0526.mp3" fileSize="101239386" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.1.2 has been released, Rails 5.1 Deplo...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.1.2 has been released, Rails 5.1 Deployment Checklist for Heroku и Unicorn Unix Magic Tricks
-
-  
-Small Is Big - Architecting microservices with Sinatra and RabbitMq, Refactoring From Inheritance To Composition To Data, Ruby &amp; The Strategy Pattern и Value Objects in Ruby on Rails
-
-  
-Readability of text using odyssey, The Hidden Costs of Metaprogramming и RailsCasts Pro episodes are now free
-
-
-
-JavaScript
-
-
-  
-Why Angular 2/4 Is Too Little, Too Late, Why We Chose Typescript и The Best Frontend JavaScript Interview Questions
-
-  
-Browser module loading - can we stop bundling yet?, React, Relay and GraphQL: Under the Hood of the Times Website Redesign и Under the hood: ReactJS
-
-  
-React Native UI Kitten, Stickybits: an alternative to ‘position: sticky’ polyfills, Share-this: Medium-like text sharing и Bundlesize - keep your bundle size in check
-
-
-
-В гостях - Anton Davydov
-
-
-  Site
-  Blog
-  Github
-  Twitter
-
-
-Conferences
-
-
-  Ruby Meditation #16
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0526.png"/>
-  <itunes:duration>01:45:26</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
