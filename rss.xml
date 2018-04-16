@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 09 Apr 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 09 Apr 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 16 Apr 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>15 выпуск 06 сезона. Rails 5.2.0, Hanami v1.2.0, Front-End Developer Handbook 2018, VuePress, Epic-spinners и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2018/4/9/Rails-5-2-0-final/">Rails 5.2.0 FINAL: Active Storage, Redis Cache Store, HTTP/2 Early Hints, CSP, Credentials</a> и <a href="http://hanamirb.org/blog/2018/04/11/announcing-hanami-120.html">Announcing Hanami v1.2.0</a></li>
+  <li><a href="https://blog.abevoelker.com/2018-04-05/deploying-a-ruby-on-rails-application-to-google-kubernetes-engine-a-step-by-step-guide-part-1/">Deploying a Ruby on Rails application to Google Kubernetes Engine: a step-by-step guide - Part 1: Introduction and creating cloud resources</a>, <a href="https://engineering.skroutz.gr/blog/kafka-rails-integration/">Introducing Kafka to a Rails application</a>, <a href="https://github.com/rubyhero/wordprss">WordpRSS - a simple interface for pulling a RSS feed of any blog with the wordpress engine</a> и <a href="https://github.com/baweaver/qo">Qo - a Ruby pattern matching and fluent querying</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://frontendmasters.com/books/front-end-handbook/2018/">Front-End Developer Handbook 2018</a> и <a href="https://medium.com/ideas-at-igenius/why-you-should-start-a-side-project-and-how-8e63a33187e5">Why you should start a side project — and how</a></li>
+  <li><a href="https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce">Why React needed yet another animation library. Introducing: react-spring</a>, <a href="https://vuepress.vuejs.org/">VuePress - Vue-powered Static Site Generator</a> и <a href="http://epic-spinners.epicmax.co/#/">Epic-spinners - easy to use css spinners collection with vue.js integration</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://weblog.rubyonrails.org/2018/4/9/Rails-5-2-0-final/">Rails 5.2.0 FINAL: Active Storage, Redis Cache Store, HTTP/2 Early Hints, CSP, Credentials</a> и <a href="http://hanamirb.org/blog/2018/04/11/announcing-hanami-120.html">Announcing Hanami v1.2.0</a></li>
+  <li><a href="https://blog.abevoelker.com/2018-04-05/deploying-a-ruby-on-rails-application-to-google-kubernetes-engine-a-step-by-step-guide-part-1/">Deploying a Ruby on Rails application to Google Kubernetes Engine: a step-by-step guide - Part 1: Introduction and creating cloud resources</a>, <a href="https://engineering.skroutz.gr/blog/kafka-rails-integration/">Introducing Kafka to a Rails application</a>, <a href="https://github.com/rubyhero/wordprss">WordpRSS - a simple interface for pulling a RSS feed of any blog with the wordpress engine</a> и <a href="https://github.com/baweaver/qo">Qo - a Ruby pattern matching and fluent querying</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://frontendmasters.com/books/front-end-handbook/2018/">Front-End Developer Handbook 2018</a> и <a href="https://medium.com/ideas-at-igenius/why-you-should-start-a-side-project-and-how-8e63a33187e5">Why you should start a side project — and how</a></li>
+  <li><a href="https://blog.usejournal.com/why-react-needed-yet-another-animation-library-introducing-react-spring-8212e424c5ce">Why React needed yet another animation library. Introducing: react-spring</a>, <a href="https://vuepress.vuejs.org/">VuePress - Vue-powered Static Site Generator</a> и <a href="http://epic-spinners.epicmax.co/#/">Epic-spinners - easy to use css spinners collection with vue.js integration</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 16 Apr 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/04/16/podcast-06-15.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/04/16/podcast-06-15.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/06/0615.mp3" length="22436074" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/06/0615.mp3" fileSize="22436074" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.2.0 FINAL: Active Storage, Redis Cache...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.2.0 FINAL: Active Storage, Redis Cache Store, HTTP/2 Early Hints, CSP, Credentials и Announcing Hanami v1.2.0
+
+  
+Deploying a Ruby on Rails application to Google Kubernetes Engine: a step-by-step guide - Part 1: Introduction and creating cloud resources, Introducing Kafka to a Rails application, WordpRSS - a simple interface for pulling a RSS feed of any blog with the wordpress engine и Qo - a Ruby pattern matching and fluent querying
+
+
+
+JavaScript
+
+
+  
+Front-End Developer Handbook 2018 и Why you should start a side project — and how
+
+  
+Why React needed yet another animation library. Introducing: react-spring, VuePress - Vue-powered Static Site Generator и Epic-spinners - easy to use css spinners collection with vue.js integration
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0615.png"/>
+  <itunes:duration>00:23:20</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>14 выпуск 06 сезона. D3 5.0, Sails 1.0, Ruby Sass to be put to pasture, ECMAScript 2016, 2017, and 2018, HTTPX и прочее</title>
   <description>
@@ -3740,111 +3824,6 @@ Popmotion - JavaScript motion engine, GPU.js - GPU Accelerated JavaScript, Block
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0529.png"/>
   <itunes:duration>00:39:26</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>28 выпуск 05 сезона. Is Ruby Too Slow For Web-Scale?, Redis 4.0 GA, NodeJS: Constant HashTable Seeds Vulnerability и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.speedshop.co/2017/07/11/is-ruby-too-slow-for-web-scale.html">Is Ruby Too Slow For Web-Scale?</a>, <a href="https://philna.sh/blog/2017/07/12/two-tests-you-should-run-against-your-ruby-project-now/">Two tests you should run against your Ruby project now</a> и <a href="https://groups.google.com/forum/#!msg/redis-db/5Kh3viziYGQ/58TKLwX0AAAJ">Redis 4.0 GA is out</a></li>
-  <li><a href="https://medium.com/@kirill_shevch/lint-your-ruby-code-with-overcommit-and-static-analysis-tools-bd36d3147d2e">Lint your Ruby code with Overcommit and static analysis tools</a>, <a href="http://www.blackbytes.info/2017/07/ruby-constants/">Everything You Need to Know About Ruby Constants</a>, <a href="http://rubyblog.pro/2017/07/implementing-inheritance-with-params">Implementing inheritance with params: CreateProducts &lt; ActiveRecord::Migration[5.0]</a> и <a href="https://dev.to/dstull/my-sins-against-webpackeryarn-and-compiled-rails-assets">My sins against Webpacker/Yarn and compiled Rails assets</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/@ahmadbamieh/nodejs-constant-hashtables-seeds-vulnerability-f03bf70e3593">NodeJS: Constant HashTable Seeds Vulnerability</a>, <a href="https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82">High Performance React: 3 New Tools to Speed Up Your Apps</a>, <a href="https://medium.com/@tkh44/emotion-ad1c45c6d28b">Emotion - the Next Generation of CSS-in-JS</a> и <a href="https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b">Reducing CSS bundle size 70% by cutting the class names and using scope isolation</a></li>
-  <li><a href="https://medium.com/@tahnik.mstsn/react-or-vue-its-not-a-debate-it-s-a-preference-ec552da3504f">React or Vue — It’s not a debate, It’s a preference</a>, <a href="https://medium.com/@charpeni/5-things-you-should-know-about-es8-e4ccd955d883">5 Things You Should Know About ES8</a> и <a href="https://jaredreich.com/pell">Pell - the simplest and smallest WYSIWYG text editor for web, with no dependencies</a></li>
-</ul>
-
-<h2 id="olya-burlaka">В гостях - Olya Burlaka</h2>
-
-<ul>
-  <li><a href="https://github.com/scarlet1986">Github</a></li>
-  <li><a href="https://www.linkedin.com/in/olga-burlaka-a13920101/">Linked</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.speedshop.co/2017/07/11/is-ruby-too-slow-for-web-scale.html">Is Ruby Too Slow For Web-Scale?</a>, <a href="https://philna.sh/blog/2017/07/12/two-tests-you-should-run-against-your-ruby-project-now/">Two tests you should run against your Ruby project now</a> и <a href="https://groups.google.com/forum/#!msg/redis-db/5Kh3viziYGQ/58TKLwX0AAAJ">Redis 4.0 GA is out</a></li>
-  <li><a href="https://medium.com/@kirill_shevch/lint-your-ruby-code-with-overcommit-and-static-analysis-tools-bd36d3147d2e">Lint your Ruby code with Overcommit and static analysis tools</a>, <a href="http://www.blackbytes.info/2017/07/ruby-constants/">Everything You Need to Know About Ruby Constants</a>, <a href="http://rubyblog.pro/2017/07/implementing-inheritance-with-params">Implementing inheritance with params: CreateProducts &lt; ActiveRecord::Migration[5.0]</a> и <a href="https://dev.to/dstull/my-sins-against-webpackeryarn-and-compiled-rails-assets">My sins against Webpacker/Yarn and compiled Rails assets</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/@ahmadbamieh/nodejs-constant-hashtables-seeds-vulnerability-f03bf70e3593">NodeJS: Constant HashTable Seeds Vulnerability</a>, <a href="https://medium.freecodecamp.org/make-react-fast-again-tools-and-techniques-for-speeding-up-your-react-app-7ad39d3c1b82">High Performance React: 3 New Tools to Speed Up Your Apps</a>, <a href="https://medium.com/@tkh44/emotion-ad1c45c6d28b">Emotion - the Next Generation of CSS-in-JS</a> и <a href="https://medium.freecodecamp.org/reducing-css-bundle-size-70-by-cutting-the-class-names-and-using-scope-isolation-625440de600b">Reducing CSS bundle size 70% by cutting the class names and using scope isolation</a></li>
-  <li><a href="https://medium.com/@tahnik.mstsn/react-or-vue-its-not-a-debate-it-s-a-preference-ec552da3504f">React or Vue — It’s not a debate, It’s a preference</a>, <a href="https://medium.com/@charpeni/5-things-you-should-know-about-es8-e4ccd955d883">5 Things You Should Know About ES8</a> и <a href="https://jaredreich.com/pell">Pell - the simplest and smallest WYSIWYG text editor for web, with no dependencies</a></li>
-</ul>
-
-<h2 id="olya-burlaka">В гостях - Olya Burlaka</h2>
-
-<ul>
-  <li><a href="https://github.com/scarlet1986">Github</a></li>
-  <li><a href="https://www.linkedin.com/in/olga-burlaka-a13920101/">Linked</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 17 Jul 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/07/17/podcast-05-28.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/07/17/podcast-05-28.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0528.mp3" length="68981240" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0528.mp3" fileSize="68981240" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Is Ruby Too Slow For Web-Scale?, Two tests you...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Is Ruby Too Slow For Web-Scale?, Two tests you should run against your Ruby project now и Redis 4.0 GA is out
-
-  
-Lint your Ruby code with Overcommit and static analysis tools, Everything You Need to Know About Ruby Constants, Implementing inheritance with params: CreateProducts &lt; ActiveRecord::Migration[5.0] и My sins against Webpacker/Yarn and compiled Rails assets
-
-
-
-JavaScript
-
-
-  
-NodeJS: Constant HashTable Seeds Vulnerability, High Performance React: 3 New Tools to Speed Up Your Apps, Emotion - the Next Generation of CSS-in-JS и Reducing CSS bundle size 70% by cutting the class names and using scope isolation
-
-  
-React or Vue — It’s not a debate, It’s a preference, 5 Things You Should Know About ES8 и Pell - the simplest and smallest WYSIWYG text editor for web, with no dependencies
-
-
-
-В гостях - Olya Burlaka
-
-
-  Github
-  Linked
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0528.png"/>
-  <itunes:duration>01:11:49</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
