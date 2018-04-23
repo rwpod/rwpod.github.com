@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 16 Apr 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 16 Apr 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 23 Apr 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,121 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>16 выпуск 06 сезона. Ruby 2.5 enables Thread.report_on_exception, wasm-pack, Action Policy, Package Phobia, Pico.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/04/18/ruby-2-5-enables-thread-report_on_exception-by-default.html">Ruby 2.5 enables Thread.report_on_exception by default and we get more info when threads die</a>, <a href="https://medium.com/square-corner-blog/rubys-new-infinite-range-syntax-0-97777cf06270">Ruby’s New Infinite Range Syntax: (0..)</a> и <a href="https://blog.bigbinary.com/2018/04/17/rails-5-2-adds-date-methods-to-return-specified-next-or-previous-occurring-day-of-week.html">Rails 5.2 added Date#prev_occurring and Date#next_occurring to return specified next &amp; previous occurring day of week</a></li>
+  <li><a href="https://medium.com/@oem_83498/linear-regression-in-ruby-a170f9a892e5">Linear Regression in Ruby</a>, <a href="https://semaphoreci.com/community/tutorials/working-effectively-with-data-factories-using-factorybot">Working Effectively with Data Factories Using FactoryBot</a> и <a href="https://medium.com/@Nicholson85/handling-cors-issues-in-your-rails-api-120dfbcb8a24">Handling CORS issues in your Rails API</a></li>
+  <li><a href="https://readysteadycode.com/howto-execute-python-code-with-ruby">HOWTO execute Python code with Ruby</a>, <a href="http://actionpolicy.evilmartians.io/#/">Action Policy - an authorization framework for Ruby and Rails applications</a> и <a href="https://github.com/baweaver/xf">Xf - Transform Functions</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hacks.mozilla.org/2018/04/hello-wasm-pack/">Hello wasm-pack!</a>, <a href="https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3">Designing very large (JavaScript) applications</a> и <a href="https://nodesource.com/blog/what-you-can-expect-from-node-js-10">What You Can Expect From Node.js 10</a></li>
+  <li><a href="https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c">&lt;link rel=”prefetch/preload”&gt; in webpack</a>, <a href="https://css-tricks.com/choosing-a-responsive-email-framework%E2%80%8Amjml-vs-foundation-for-emails/">Choosing a Responsive Email Framework: MJML vs. Foundation for Emails</a> и <a href="https://alligator.io/css/viewport-units/">A Look at CSS Viewport Units</a></li>
+  <li><a href="https://packagephobia.now.sh/">Package Phobia - find the cost of adding a new dev dependency to your project</a>, <a href="https://tkv.io/posts/picojs-intro/demo/">Pico.js: face detection in JavaScript</a>, <a href="https://github.com/fpapado/react-lazy-images">React Lazy Images - components and utilities for lazy image loading in React</a> и <a href="https://github.com/sindresorhus/slugify">Slugify - slugify a string</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://rubyc.eu/">RubyC</a></li>
+  <li><a href="http://www.rubymeditation.com/">RUBY Meditation #22</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/04/18/ruby-2-5-enables-thread-report_on_exception-by-default.html">Ruby 2.5 enables Thread.report_on_exception by default and we get more info when threads die</a>, <a href="https://medium.com/square-corner-blog/rubys-new-infinite-range-syntax-0-97777cf06270">Ruby’s New Infinite Range Syntax: (0..)</a> и <a href="https://blog.bigbinary.com/2018/04/17/rails-5-2-adds-date-methods-to-return-specified-next-or-previous-occurring-day-of-week.html">Rails 5.2 added Date#prev_occurring and Date#next_occurring to return specified next &amp; previous occurring day of week</a></li>
+  <li><a href="https://medium.com/@oem_83498/linear-regression-in-ruby-a170f9a892e5">Linear Regression in Ruby</a>, <a href="https://semaphoreci.com/community/tutorials/working-effectively-with-data-factories-using-factorybot">Working Effectively with Data Factories Using FactoryBot</a> и <a href="https://medium.com/@Nicholson85/handling-cors-issues-in-your-rails-api-120dfbcb8a24">Handling CORS issues in your Rails API</a></li>
+  <li><a href="https://readysteadycode.com/howto-execute-python-code-with-ruby">HOWTO execute Python code with Ruby</a>, <a href="http://actionpolicy.evilmartians.io/#/">Action Policy - an authorization framework for Ruby and Rails applications</a> и <a href="https://github.com/baweaver/xf">Xf - Transform Functions</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hacks.mozilla.org/2018/04/hello-wasm-pack/">Hello wasm-pack!</a>, <a href="https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3">Designing very large (JavaScript) applications</a> и <a href="https://nodesource.com/blog/what-you-can-expect-from-node-js-10">What You Can Expect From Node.js 10</a></li>
+  <li><a href="https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c">&lt;link rel=”prefetch/preload”&gt; in webpack</a>, <a href="https://css-tricks.com/choosing-a-responsive-email-framework%E2%80%8Amjml-vs-foundation-for-emails/">Choosing a Responsive Email Framework: MJML vs. Foundation for Emails</a> и <a href="https://alligator.io/css/viewport-units/">A Look at CSS Viewport Units</a></li>
+  <li><a href="https://packagephobia.now.sh/">Package Phobia - find the cost of adding a new dev dependency to your project</a>, <a href="https://tkv.io/posts/picojs-intro/demo/">Pico.js: face detection in JavaScript</a>, <a href="https://github.com/fpapado/react-lazy-images">React Lazy Images - components and utilities for lazy image loading in React</a> и <a href="https://github.com/sindresorhus/slugify">Slugify - slugify a string</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://rubyc.eu/">RubyC</a></li>
+  <li><a href="http://www.rubymeditation.com/">RUBY Meditation #22</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 23 Apr 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/04/23/podcast-06-16.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/04/23/podcast-06-16.html</guid>
+  <enclosure url="http://mp3.rwpod.com/podcasts/06/0616.mp3" length="39672922" type="audio/mpeg"/>
+  <media:content url="http://mp3.rwpod.com/podcasts/06/0616.mp3" fileSize="39672922" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.5 enables Thread.report_on_exception by...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.5 enables Thread.report_on_exception by default and we get more info when threads die, Ruby’s New Infinite Range Syntax: (0..) и Rails 5.2 added Date#prev_occurring and Date#next_occurring to return specified next &amp; previous occurring day of week
+
+  
+Linear Regression in Ruby, Working Effectively with Data Factories Using FactoryBot и Handling CORS issues in your Rails API
+
+  
+HOWTO execute Python code with Ruby, Action Policy - an authorization framework for Ruby and Rails applications и Xf - Transform Functions
+
+
+
+JavaScript
+
+
+  
+Hello wasm-pack!, Designing very large (JavaScript) applications и What You Can Expect From Node.js 10
+
+  
+&lt;link rel=”prefetch/preload”&gt; in webpack, Choosing a Responsive Email Framework: MJML vs. Foundation for Emails и A Look at CSS Viewport Units
+
+  
+Package Phobia - find the cost of adding a new dev dependency to your project, Pico.js: face detection in JavaScript, React Lazy Images - components and utilities for lazy image loading in React и Slugify - slugify a string
+
+
+
+Conferences
+
+
+  RubyC
+  RUBY Meditation #22
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0616.png"/>
+  <itunes:duration>00:41:18</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>15 выпуск 06 сезона. Rails 5.2.0, Hanami v1.2.0, Front-End Developer Handbook 2018, VuePress, Epic-spinners и прочее</title>
   <description>
@@ -3730,100 +3845,6 @@ The JavaScript Way (book), Fitty - makes text fit perfectly и Spacetime - a lig
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0530.png"/>
   <itunes:duration>01:00:37</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>29 выпуск 05 сезона. Monitor and Debug Bottlenecks in Sidekiq, Enclose.IO, RenderReact, Popmotion, GPU.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://buildingvts.com/monitor-and-debug-bottlenecks-in-sidekiq-9fb0b1d296cc">Monitor and Debug Bottlenecks in Sidekiq</a> и <a href="https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_condition_variables/">Ruby concurrency: in praise of condition variables</a></li>
-  <li><a href="https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/">How I Reduced my DB Server Load by 80%</a>, <a href="https://medium.com/zendesk-engineering/introducing-racecar-fdb5178bcafb">Introducing Racecar - a simple framework for writing Kafka consumers in Ruby</a> и <a href="https://www.driftingruby.com/episodes/benchmarking-and-refactoring-the-content_for-view-helper">Benchmarking and Refactoring the content_for View Helper</a></li>
-  <li><a href="http://enclose.io/">Enclose.IO - compiling your application into a single executable</a>, <a href="https://github.com/janlelis/render_react">RenderReact - pre-render and mount React components from Ruby</a> и <a href="https://github.com/arbox/data-science-with-ruby">Practical Data Science with Ruby based tools</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://eng.datafox.com/javascript/2017/07/18/decaffeinating-large-coffeescript-codebase/">Decaffeinating a Large CoffeeScript Codebase Without Losing Sleep</a> и <a href="https://www.stefanjudis.de/hidden-messages-in-javascript-property-names.html">Hidden messages in JavaScript property names</a></li>
-  <li><a href="https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/">Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS</a>, <a href="https://www.sitepen.com/blog/2017/07/19/the-state-of-internationalization-in-javascript/">The State of Internationalization in JavaScript</a> и <a href="https://benmccormick.org/2017/07/19/ten-things-javascript/">Ten Things A Serious JavaScript Developer Should Learn</a></li>
-  <li><a href="https://popmotion.io/">Popmotion - JavaScript motion engine</a>, <a href="http://gpu.rocks/">GPU.js - GPU Accelerated JavaScript</a>, <a href="https://github.com/seanseany/blockchain.js">Blockchain.js - a minimal blockchain command-line interface</a> и <a href="https://github.com/chrispsn/mesh">Mesh - a JavaScript code editor that feels like a spreadsheet</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://buildingvts.com/monitor-and-debug-bottlenecks-in-sidekiq-9fb0b1d296cc">Monitor and Debug Bottlenecks in Sidekiq</a> и <a href="https://vaneyckt.io/posts/ruby_concurrency_in_praise_of_condition_variables/">Ruby concurrency: in praise of condition variables</a></li>
-  <li><a href="https://schneems.com/2017/07/18/how-i-reduced-my-db-server-load-by-80/">How I Reduced my DB Server Load by 80%</a>, <a href="https://medium.com/zendesk-engineering/introducing-racecar-fdb5178bcafb">Introducing Racecar - a simple framework for writing Kafka consumers in Ruby</a> и <a href="https://www.driftingruby.com/episodes/benchmarking-and-refactoring-the-content_for-view-helper">Benchmarking and Refactoring the content_for View Helper</a></li>
-  <li><a href="http://enclose.io/">Enclose.IO - compiling your application into a single executable</a>, <a href="https://github.com/janlelis/render_react">RenderReact - pre-render and mount React components from Ruby</a> и <a href="https://github.com/arbox/data-science-with-ruby">Practical Data Science with Ruby based tools</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://eng.datafox.com/javascript/2017/07/18/decaffeinating-large-coffeescript-codebase/">Decaffeinating a Large CoffeeScript Codebase Without Losing Sleep</a> и <a href="https://www.stefanjudis.de/hidden-messages-in-javascript-property-names.html">Hidden messages in JavaScript property names</a></li>
-  <li><a href="https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/">Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS</a>, <a href="https://www.sitepen.com/blog/2017/07/19/the-state-of-internationalization-in-javascript/">The State of Internationalization in JavaScript</a> и <a href="https://benmccormick.org/2017/07/19/ten-things-javascript/">Ten Things A Serious JavaScript Developer Should Learn</a></li>
-  <li><a href="https://popmotion.io/">Popmotion - JavaScript motion engine</a>, <a href="http://gpu.rocks/">GPU.js - GPU Accelerated JavaScript</a>, <a href="https://github.com/seanseany/blockchain.js">Blockchain.js - a minimal blockchain command-line interface</a> и <a href="https://github.com/chrispsn/mesh">Mesh - a JavaScript code editor that feels like a spreadsheet</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 24 Jul 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/07/24/podcast-05-29.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/07/24/podcast-05-29.html</guid>
-  <enclosure url="http://mp3.rwpod.com/podcasts/05/0529.mp3" length="37892104" type="audio/mpeg"/>
-  <media:content url="http://mp3.rwpod.com/podcasts/05/0529.mp3" fileSize="37892104" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Monitor and Debug Bottlenecks in Sidekiq и Rub...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Monitor and Debug Bottlenecks in Sidekiq и Ruby concurrency: in praise of condition variables
-
-  
-How I Reduced my DB Server Load by 80%, Introducing Racecar - a simple framework for writing Kafka consumers in Ruby и Benchmarking and Refactoring the content_for View Helper
-
-  
-Enclose.IO - compiling your application into a single executable, RenderReact - pre-render and mount React components from Ruby и Practical Data Science with Ruby based tools
-
-
-
-JavaScript
-
-
-  
-Decaffeinating a Large CoffeeScript Codebase Without Losing Sleep и Hidden messages in JavaScript property names
-
-  
-Critical CSS and Webpack: Automatically Minimize Render-Blocking CSS, The State of Internationalization in JavaScript и Ten Things A Serious JavaScript Developer Should Learn
-
-  
-Popmotion - JavaScript motion engine, GPU.js - GPU Accelerated JavaScript, Blockchain.js - a minimal blockchain command-line interface и Mesh - a JavaScript code editor that feels like a spreadsheet
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0529.png"/>
-  <itunes:duration>00:39:26</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
