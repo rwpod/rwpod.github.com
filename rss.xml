@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 23 Apr 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 23 Apr 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,118 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>17 выпуск 06 сезона. Ruby 2.6 added option to raise exception in Kernel#system, GDPR Rails, CKEditor 5 v10.0.0, Perfume.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/04/25/ruby-2-6-added-option-to-raise-exception-in-kernel-system.html">Ruby 2.6 added option to raise exception in Kernel#system</a>, <a href="http://www.blacktm.com/blog/ruby-on-webassembly">Ruby on WebAssembly</a> и <a href="https://dev.to/evilmartians/deploying-ruby-apps-to-google-cloud-kubernetes-engine-continuously-with-circleci-2765">Deploying Ruby apps to Google Cloud Kubernetes Engine continuously with CircleCI</a></li>
+  <li><a href="https://rollbar.com/blog/top-10-ruby-on-rails-errors/">Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)</a> и <a href="https://medium.freecodecamp.org/how-to-build-rock-solid-ruby-on-rails-apps-with-bdd-735de9319cc6">How to build rock-solid Ruby on Rails apps with BDD</a></li>
+  <li><a href="https://sipsandbits.com/2018/04/30/using-database-native-enums-with-rails/">Enums with Rails &amp; ActiveRecord: an improved way</a> и <a href="https://github.com/prey/gdpr_rails">GDPR Rails - Rails Engine for the GDPR compliance</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://ckeditor.com/blog/CKEditor-5-v10.0.0-the-future-of-rich-text-editing-looks-stable/">CKEditor 5 v10.0.0 – the future of rich text editing looks stable</a>, <a href="http://2ality.com/2018/04/async-iter-nodejs.html">Using async iteration natively in Node.js</a> и <a href="https://blog.github.com/2018-05-01-github-pages-custom-domains-https/">Custom domains on GitHub Pages gain support for HTTPS</a></li>
+  <li><a href="https://jamie.build/last-2-versions">“last 2 versions” considered harmful with babel-preset-env – matches on “Opera Mobile”, “QQ Browser”, “Baidu Browser”</a>, <a href="http://debuggerdotbreak.judahgabriel.com/2018/04/13/i-built-a-pwa-and-published-it-in-3-app-stores-heres-what-i-learned/">I built a PWA and published it in 3 app stores. Here’s what I learned</a> и <a href="https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db">Parallel programming in JavaScript</a></li>
+  <li><a href="http://zizzamia.github.io/perfume/">Perfume.js - a JavaScript library for measuring Short and Long Script, First (Contentful) Paint (FP/FCP), Time to Interactive (TTI), Component First Paint (CFM), annotating them to the DevTools timeline and reporting the results to Google Analytics</a>, <a href="https://sarahdayan.github.io/dinero.js/">Dinero.js - a library for working with monetary values in JavaScript</a>, <a href="http://web.jakoblind.no/webpack-config/">Webpack 4 configurator</a> и <a href="http://ui.toast.com/tui-calendar/">ToastUI Calendar - a JavaScript schedule calendar with full featured</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.elixirkyiv.club/">Elixir Evening Club 2</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/04/25/ruby-2-6-added-option-to-raise-exception-in-kernel-system.html">Ruby 2.6 added option to raise exception in Kernel#system</a>, <a href="http://www.blacktm.com/blog/ruby-on-webassembly">Ruby on WebAssembly</a> и <a href="https://dev.to/evilmartians/deploying-ruby-apps-to-google-cloud-kubernetes-engine-continuously-with-circleci-2765">Deploying Ruby apps to Google Cloud Kubernetes Engine continuously with CircleCI</a></li>
+  <li><a href="https://rollbar.com/blog/top-10-ruby-on-rails-errors/">Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)</a> и <a href="https://medium.freecodecamp.org/how-to-build-rock-solid-ruby-on-rails-apps-with-bdd-735de9319cc6">How to build rock-solid Ruby on Rails apps with BDD</a></li>
+  <li><a href="https://sipsandbits.com/2018/04/30/using-database-native-enums-with-rails/">Enums with Rails &amp; ActiveRecord: an improved way</a> и <a href="https://github.com/prey/gdpr_rails">GDPR Rails - Rails Engine for the GDPR compliance</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://ckeditor.com/blog/CKEditor-5-v10.0.0-the-future-of-rich-text-editing-looks-stable/">CKEditor 5 v10.0.0 – the future of rich text editing looks stable</a>, <a href="http://2ality.com/2018/04/async-iter-nodejs.html">Using async iteration natively in Node.js</a> и <a href="https://blog.github.com/2018-05-01-github-pages-custom-domains-https/">Custom domains on GitHub Pages gain support for HTTPS</a></li>
+  <li><a href="https://jamie.build/last-2-versions">“last 2 versions” considered harmful with babel-preset-env – matches on “Opera Mobile”, “QQ Browser”, “Baidu Browser”</a>, <a href="http://debuggerdotbreak.judahgabriel.com/2018/04/13/i-built-a-pwa-and-published-it-in-3-app-stores-heres-what-i-learned/">I built a PWA and published it in 3 app stores. Here’s what I learned</a> и <a href="https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db">Parallel programming in JavaScript</a></li>
+  <li><a href="http://zizzamia.github.io/perfume/">Perfume.js - a JavaScript library for measuring Short and Long Script, First (Contentful) Paint (FP/FCP), Time to Interactive (TTI), Component First Paint (CFM), annotating them to the DevTools timeline and reporting the results to Google Analytics</a>, <a href="https://sarahdayan.github.io/dinero.js/">Dinero.js - a library for working with monetary values in JavaScript</a>, <a href="http://web.jakoblind.no/webpack-config/">Webpack 4 configurator</a> и <a href="http://ui.toast.com/tui-calendar/">ToastUI Calendar - a JavaScript schedule calendar with full featured</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.elixirkyiv.club/">Elixir Evening Club 2</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/05/01/podcast-06-17.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/05/01/podcast-06-17.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0617.mp3" length="38237878" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0617.mp3" fileSize="38237878" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6 added option to raise exception in Ke...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6 added option to raise exception in Kernel#system, Ruby on WebAssembly и Deploying Ruby apps to Google Cloud Kubernetes Engine continuously with CircleCI
+
+  
+Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them) и How to build rock-solid Ruby on Rails apps with BDD
+
+  
+Enums with Rails &amp; ActiveRecord: an improved way и GDPR Rails - Rails Engine for the GDPR compliance
+
+
+
+JavaScript
+
+
+  
+CKEditor 5 v10.0.0 – the future of rich text editing looks stable, Using async iteration natively in Node.js и Custom domains on GitHub Pages gain support for HTTPS
+
+  
+“last 2 versions” considered harmful with babel-preset-env – matches on “Opera Mobile”, “QQ Browser”, “Baidu Browser”, I built a PWA and published it in 3 app stores. Here’s what I learned и Parallel programming in JavaScript
+
+  
+Perfume.js - a JavaScript library for measuring Short and Long Script, First (Contentful) Paint (FP/FCP), Time to Interactive (TTI), Component First Paint (CFM), annotating them to the DevTools timeline and reporting the results to Google Analytics, Dinero.js - a library for working with monetary values in JavaScript, Webpack 4 configurator и ToastUI Calendar - a JavaScript schedule calendar with full featured
+
+
+
+Conferences
+
+
+  Elixir Evening Club 2
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0617.png"/>
+  <itunes:duration>00:39:48</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>16 выпуск 06 сезона. Ruby 2.5 enables Thread.report_on_exception, wasm-pack, Action Policy, Package Phobia, Pico.js и прочее</title>
   <description>
@@ -3730,121 +3842,6 @@ TensorFire - runs neural networks in the browser using WebGL, WTF.JS - a list of
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0531.png"/>
   <itunes:duration>00:31:14</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>30 выпуск 05 сезона. React 16 beta, Speedy JSON Endpoints with Rails, Flash &amp; The Future of Interactive Content, Fitty и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html">What’s the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery?</a> и <a href="https://www.amberbit.com/blog/2017/7/27/how-learning-elixir-made-me-better-ruby-developer/">How learning Elixr made me a better Ruby developer</a></li>
-  <li><a href="http://blog.arkency.com/2017/07/sidekiq-slow-processing-one-job-saturates-workers-rest-queue-up/">Handle sidekiq processing when one job saturates your workers and the rest queue up</a> и <a href="https://medium.com/companydev/speedy-json-endpoints-with-rails-b6130f757815">Speedy JSON Endpoints with Rails</a></li>
-  <li><a href="https://blog.codeship.com/modeling-has_many-relationships-with-dynamodb/">Modeling has_many Relationships with DynamoDB</a>, <a href="https://blog.kodius.io/2017/07/26/how-to-deactivate-user-rails-with-devise/">How to deactivate User – Rails with Devise</a> и <a href="https://github.com/jstorimer/shirt">Shirt - a simple Unix shell written in pure Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html">Flash &amp; The Future of Interactive Content</a>, <a href="https://github.com/facebook/react/issues/10294">React 16 beta</a> и <a href="https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html">Error Handling in React 16</a></li>
-  <li><a href="https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c">What you should know to really understand the Node.js Event Loop</a> и <a href="https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f">How I built a wind map with WebGL</a></li>
-  <li><a href="https://github.com/bpesquet/thejsway/#readme">The JavaScript Way (book)</a>, <a href="https://rikschennink.github.io/fitty/">Fitty - makes text fit perfectly</a> и <a href="https://github.com/smallwins/spacetime">Spacetime - a lightweight way to manipulate, traverse, compare, and format dates and times across planet Earth</a></li>
-</ul>
-
-<h2 id="oleh-perevertailo">В гостях - Oleh Perevertailo</h2>
-
-<ul>
-  <li><a href="https://github.com/LegaKh">Github</a></li>
-  <li><a href="https://www.linkedin.com/in/oleg-perevertaylo-48797393/">Linkedin</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://semaphoreci.com/blog/2017/07/27/what-is-the-difference-between-continuous-integration-continuous-deployment-and-continuous-delivery.html">What’s the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery?</a> и <a href="https://www.amberbit.com/blog/2017/7/27/how-learning-elixir-made-me-better-ruby-developer/">How learning Elixr made me a better Ruby developer</a></li>
-  <li><a href="http://blog.arkency.com/2017/07/sidekiq-slow-processing-one-job-saturates-workers-rest-queue-up/">Handle sidekiq processing when one job saturates your workers and the rest queue up</a> и <a href="https://medium.com/companydev/speedy-json-endpoints-with-rails-b6130f757815">Speedy JSON Endpoints with Rails</a></li>
-  <li><a href="https://blog.codeship.com/modeling-has_many-relationships-with-dynamodb/">Modeling has_many Relationships with DynamoDB</a>, <a href="https://blog.kodius.io/2017/07/26/how-to-deactivate-user-rails-with-devise/">How to deactivate User – Rails with Devise</a> и <a href="https://github.com/jstorimer/shirt">Shirt - a simple Unix shell written in pure Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.adobe.com/conversations/2017/07/adobe-flash-update.html">Flash &amp; The Future of Interactive Content</a>, <a href="https://github.com/facebook/react/issues/10294">React 16 beta</a> и <a href="https://facebook.github.io/react/blog/2017/07/26/error-handling-in-react-16.html">Error Handling in React 16</a></li>
-  <li><a href="https://medium.com/the-node-js-collection/what-you-should-know-to-really-understand-the-node-js-event-loop-and-its-metrics-c4907b19da4c">What you should know to really understand the Node.js Event Loop</a> и <a href="https://blog.mapbox.com/how-i-built-a-wind-map-with-webgl-b63022b5537f">How I built a wind map with WebGL</a></li>
-  <li><a href="https://github.com/bpesquet/thejsway/#readme">The JavaScript Way (book)</a>, <a href="https://rikschennink.github.io/fitty/">Fitty - makes text fit perfectly</a> и <a href="https://github.com/smallwins/spacetime">Spacetime - a lightweight way to manipulate, traverse, compare, and format dates and times across planet Earth</a></li>
-</ul>
-
-<h2 id="oleh-perevertailo">В гостях - Oleh Perevertailo</h2>
-
-<ul>
-  <li><a href="https://github.com/LegaKh">Github</a></li>
-  <li><a href="https://www.linkedin.com/in/oleg-perevertaylo-48797393/">Linkedin</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 31 Jul 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/07/31/podcast-05-30.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/07/31/podcast-05-30.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0530.mp3" length="58224268" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0530.mp3" fileSize="58224268" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  What’s the Difference Between Continuous Integ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-What’s the Difference Between Continuous Integration, Continuous Deployment and Continuous Delivery? и How learning Elixr made me a better Ruby developer
-
-  
-Handle sidekiq processing when one job saturates your workers and the rest queue up и Speedy JSON Endpoints with Rails
-
-  
-Modeling has_many Relationships with DynamoDB, How to deactivate User – Rails with Devise и Shirt - a simple Unix shell written in pure Ruby
-
-
-
-JavaScript
-
-
-  
-Flash &amp; The Future of Interactive Content, React 16 beta и Error Handling in React 16
-
-  
-What you should know to really understand the Node.js Event Loop и How I built a wind map with WebGL
-
-  
-The JavaScript Way (book), Fitty - makes text fit perfectly и Spacetime - a lightweight way to manipulate, traverse, compare, and format dates and times across planet Earth
-
-
-
-В гостях - Oleh Perevertailo
-
-
-  Github
-  Linkedin
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0530.png"/>
-  <itunes:duration>01:00:37</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
