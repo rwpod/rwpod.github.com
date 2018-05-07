@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 01 May 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 07 May 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>18 выпуск 06 сезона. Ruby 2.5.1 Released, Angular 6, Defeating Electron, Asylo, Proton-native, Selection.js, Is-google и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2018/03/28/ruby-2-5-1-released/">Ruby 2.5.1 Released</a> и <a href="https://medium.com/square-corner-blog/new-class-naming-rules-in-ruby-bb3b45150c37">New Class Naming Rules in Ruby</a></li>
+  <li><a href="https://brandonhilkert.com/blog/reducing-sidekiq-memory-usage-with-jemalloc/">Reducing Sidekiq Memory Usage with Jemalloc</a> и <a href="https://blog.appsignal.com/2018/05/01/client-side-caching-in-rails-conditional-get-requests.html">Client-side caching in Rails: conditional GET requests</a></li>
+  <li><a href="https://blog.phusion.nl/2018/05/03/collecting-usage-statistics-with-dynamodb-and-aws-lambda/">Collecting usage statistics with DynamoDB and AWS Lambda</a> и <a href="https://github.com/google/asylo">Asylo - an open and flexible framework for enclave applications</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4?gi=d4e0cff8e353">Version 6 of Angular Now Available</a>, <a href="https://blog.npmjs.org/post/173526807575/reported-malicious-module-getcookies">Reported malicious module: getcookies</a> и <a href="https://medium.com/@caspervonb/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068">The Node.js Ecosystem Is Chaotic and Insecure</a></li>
+  <li><a href="https://medium.com/@felixrieseberg/defeating-electron-e1464d075528">Defeating Electron</a> и <a href="https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/">Building A Serverless Contact Form For Your Static Site</a></li>
+  <li><a href="https://proton-native.js.org/#/">Proton-native - a React environment for cross platform native desktop apps</a>, <a href="https://github.com/socialpoint-labs/sheetfu">Sheetfu Table Class - Google apps scripts ORM to manipulate spreadsheets as database tables</a>, <a href="https://simonwep.github.io/selection/">Selection.js - a simple and lightweight library to realize visual DOM Selections</a> и <a href="https://github.com/roccomuso/is-google">Is-google - verify that a request is from Google crawlers</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2018/03/28/ruby-2-5-1-released/">Ruby 2.5.1 Released</a> и <a href="https://medium.com/square-corner-blog/new-class-naming-rules-in-ruby-bb3b45150c37">New Class Naming Rules in Ruby</a></li>
+  <li><a href="https://brandonhilkert.com/blog/reducing-sidekiq-memory-usage-with-jemalloc/">Reducing Sidekiq Memory Usage with Jemalloc</a> и <a href="https://blog.appsignal.com/2018/05/01/client-side-caching-in-rails-conditional-get-requests.html">Client-side caching in Rails: conditional GET requests</a></li>
+  <li><a href="https://blog.phusion.nl/2018/05/03/collecting-usage-statistics-with-dynamodb-and-aws-lambda/">Collecting usage statistics with DynamoDB and AWS Lambda</a> и <a href="https://github.com/google/asylo">Asylo - an open and flexible framework for enclave applications</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4?gi=d4e0cff8e353">Version 6 of Angular Now Available</a>, <a href="https://blog.npmjs.org/post/173526807575/reported-malicious-module-getcookies">Reported malicious module: getcookies</a> и <a href="https://medium.com/@caspervonb/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068">The Node.js Ecosystem Is Chaotic and Insecure</a></li>
+  <li><a href="https://medium.com/@felixrieseberg/defeating-electron-e1464d075528">Defeating Electron</a> и <a href="https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/">Building A Serverless Contact Form For Your Static Site</a></li>
+  <li><a href="https://proton-native.js.org/#/">Proton-native - a React environment for cross platform native desktop apps</a>, <a href="https://github.com/socialpoint-labs/sheetfu">Sheetfu Table Class - Google apps scripts ORM to manipulate spreadsheets as database tables</a>, <a href="https://simonwep.github.io/selection/">Selection.js - a simple and lightweight library to realize visual DOM Selections</a> и <a href="https://github.com/roccomuso/is-google">Is-google - verify that a request is from Google crawlers</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 07 May 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/05/07/podcast-06-18.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/05/07/podcast-06-18.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0618.mp3" length="32134910" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0618.mp3" fileSize="32134910" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.5.1 Released и New Class Naming Rules i...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.5.1 Released и New Class Naming Rules in Ruby
+
+  
+Reducing Sidekiq Memory Usage with Jemalloc и Client-side caching in Rails: conditional GET requests
+
+  
+Collecting usage statistics with DynamoDB and AWS Lambda и Asylo - an open and flexible framework for enclave applications
+
+
+
+JavaScript
+
+
+  
+Version 6 of Angular Now Available, Reported malicious module: getcookies и The Node.js Ecosystem Is Chaotic and Insecure
+
+  
+Defeating Electron и Building A Serverless Contact Form For Your Static Site
+
+  
+Proton-native - a React environment for cross platform native desktop apps, Sheetfu Table Class - Google apps scripts ORM to manipulate spreadsheets as database tables, Selection.js - a simple and lightweight library to realize visual DOM Selections и Is-google - verify that a request is from Google crawlers
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0618.png"/>
+  <itunes:duration>00:33:27</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>17 выпуск 06 сезона. Ruby 2.6 added option to raise exception in Kernel#system, GDPR Rails, CKEditor 5 v10.0.0, Perfume.js и прочее</title>
   <description>
@@ -3748,100 +3842,6 @@ React-simple-maps - a library of React components to make SVG maps using d3-geo 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0532.png"/>
   <itunes:duration>00:21:30</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>31 выпуск 05 сезона. Rails 5.1.3, Elixir Envy ᐅ Ruby, Orchparty, Graphql-Guard, TensorFire, WTF.JS, Shoelace.css и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2017/8/3/Rails-5-1-3-released/">Rails 5.1.3 released</a>, <a href="https://blog.bigbinary.com/2017/08/01/avoid-exceptions-for-dup-on-interger-and-similar-cases.html">Avoid exception for dup on Integer</a> и <a href="http://www.akitaonrails.com/2017/08/03/why-is-it-just-lazy-to-bad-mouth-ruby-on-rails">Why it is just lazy to bad-mouth Ruby on Rails</a></li>
-  <li><a href="https://6ftdan.com/allyourdev/2017/08/03/elixir-envy-%E1%90%85-ruby/">Elixir Envy ᐅ Ruby</a>, <a href="https://blog.codeship.com/advanced-enumeration-with-ruby/">Advanced Enumeration with Ruby</a> и <a href="https://depfu.io/blog/2017/08/02/bundler-and-private-dependencies">Bundler and private dependencies</a></li>
-  <li><a href="https://github.com/jannishuebl/orchparty">Orchparty - write your own orchestration config with a Ruby DSL that allows you to have mixins, imports and variables</a>, <a href="https://github.com/exAspArk/graphql-guard">Graphql-Guard - simple authorization gem for GraphQL</a> и <a href="https://github.com/nikolalsvk/ordinare">Ordinare - sorts gems in your Gemfile alphabetically</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.chromestatus.com/features/schedule">Chrome release schedule</a> и <a href="https://medium.com/@diananina247/vue-vs-react-battle-of-the-javascript-frameworks-8e6615677dcb">Vue vs React: Battle of the Javascript Frameworks</a></li>
-  <li><a href="https://davidwalsh.name/css-focus">Focusing on Focus</a>, <a href="https://medium.freecodecamp.org/oh-yes-async-await-f54e5a079fc1">Oh yes! Async / Await</a> и <a href="https://css-tricks.com/the-critical-request/">The Critical Request</a></li>
-  <li><a href="https://tenso.rs/">TensorFire - runs neural networks in the browser using WebGL</a>, <a href="https://github.com/denysdovhan/wtfjs">WTF.JS - a list of funny and tricky JavaScript examples</a> и <a href="https://shoelace.style/">Shoelace.css - a highly customizable starter kit through CSS variables</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://weblog.rubyonrails.org/2017/8/3/Rails-5-1-3-released/">Rails 5.1.3 released</a>, <a href="https://blog.bigbinary.com/2017/08/01/avoid-exceptions-for-dup-on-interger-and-similar-cases.html">Avoid exception for dup on Integer</a> и <a href="http://www.akitaonrails.com/2017/08/03/why-is-it-just-lazy-to-bad-mouth-ruby-on-rails">Why it is just lazy to bad-mouth Ruby on Rails</a></li>
-  <li><a href="https://6ftdan.com/allyourdev/2017/08/03/elixir-envy-%E1%90%85-ruby/">Elixir Envy ᐅ Ruby</a>, <a href="https://blog.codeship.com/advanced-enumeration-with-ruby/">Advanced Enumeration with Ruby</a> и <a href="https://depfu.io/blog/2017/08/02/bundler-and-private-dependencies">Bundler and private dependencies</a></li>
-  <li><a href="https://github.com/jannishuebl/orchparty">Orchparty - write your own orchestration config with a Ruby DSL that allows you to have mixins, imports and variables</a>, <a href="https://github.com/exAspArk/graphql-guard">Graphql-Guard - simple authorization gem for GraphQL</a> и <a href="https://github.com/nikolalsvk/ordinare">Ordinare - sorts gems in your Gemfile alphabetically</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.chromestatus.com/features/schedule">Chrome release schedule</a> и <a href="https://medium.com/@diananina247/vue-vs-react-battle-of-the-javascript-frameworks-8e6615677dcb">Vue vs React: Battle of the Javascript Frameworks</a></li>
-  <li><a href="https://davidwalsh.name/css-focus">Focusing on Focus</a>, <a href="https://medium.freecodecamp.org/oh-yes-async-await-f54e5a079fc1">Oh yes! Async / Await</a> и <a href="https://css-tricks.com/the-critical-request/">The Critical Request</a></li>
-  <li><a href="https://tenso.rs/">TensorFire - runs neural networks in the browser using WebGL</a>, <a href="https://github.com/denysdovhan/wtfjs">WTF.JS - a list of funny and tricky JavaScript examples</a> и <a href="https://shoelace.style/">Shoelace.css - a highly customizable starter kit through CSS variables</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 08 Aug 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/08/08/podcast-05-31.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/08/08/podcast-05-31.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0531.mp3" length="30020522" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0531.mp3" fileSize="30020522" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.1.3 released, Avoid exception for dup ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.1.3 released, Avoid exception for dup on Integer и Why it is just lazy to bad-mouth Ruby on Rails
-
-  
-Elixir Envy ᐅ Ruby, Advanced Enumeration with Ruby и Bundler and private dependencies
-
-  
-Orchparty - write your own orchestration config with a Ruby DSL that allows you to have mixins, imports and variables, Graphql-Guard - simple authorization gem for GraphQL и Ordinare - sorts gems in your Gemfile alphabetically
-
-
-
-JavaScript
-
-
-  
-Chrome release schedule и Vue vs React: Battle of the Javascript Frameworks
-
-  
-Focusing on Focus, Oh yes! Async / Await и The Critical Request
-
-  
-TensorFire - runs neural networks in the browser using WebGL, WTF.JS - a list of funny and tricky JavaScript examples и Shoelace.css - a highly customizable starter kit through CSS variables
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0531.png"/>
-  <itunes:duration>00:31:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
