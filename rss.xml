@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 07 May 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 07 May 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 14 May 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>19 выпуск 06 сезона. Rails Testing Antipatterns, TensorStream, Guess.js, Isomorphic-git, ScrollHint и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/05/07/rails-5_2-adds-ruby-version-file-and-ruby-version-to-gemfile-by-default.html">Rails 5.2 sets Ruby version in Gemfile and adds .ruby-version file by default</a>, <a href="https://blog.bigbinary.com/2018/05/08/increase-reliability-of-background-job-processing-using-super_fetch-of-sidekiq-pro.html">Increase reliability of background job processing using super_fetch of Sidekiq Pro</a> и <a href="https://pauloancheta.com/aws/google%20cloud%20platform/ruby/2018/05/10/gcloud-vs-aws/">4 Reasons Why I Think Google Cloud Will Take Over Cloud Computing Space</a></li>
+  <li><a href="https://semaphoreci.com/blog/2014/01/21/rails-testing-antipatterns-models.html">Rails Testing Antipatterns: Models</a>, <a href="https://www.statusok.com/email-amazon-ses-rails-ec2">Email with Amazon SES from Rails on EC2</a> и <a href="https://github.com/jedld/tensor_stream">TensorStream - a reimplementation of TensorFlow for ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5">Real-time Human Pose Estimation in the Browser with TensorFlow.js</a>, <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained">Optimizing React: Virtual DOM explained</a> и <a href="https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/">Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web</a></li>
+  <li><a href="https://isomorphic-git.github.io/">Isomorphic-git - a pure JavaScript implementation of git for node and browsers</a>, <a href="https://appleple.github.io/scroll-hint/">ScrollHint - a JS library to suggest that the elements are scrollable horizontally, with the pointer icon</a> и <a href="https://www.youtube.com/watch?v=ed8SzALpx1Q">GraphQL Full Course - Novice to Expert</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/05/07/rails-5_2-adds-ruby-version-file-and-ruby-version-to-gemfile-by-default.html">Rails 5.2 sets Ruby version in Gemfile and adds .ruby-version file by default</a>, <a href="https://blog.bigbinary.com/2018/05/08/increase-reliability-of-background-job-processing-using-super_fetch-of-sidekiq-pro.html">Increase reliability of background job processing using super_fetch of Sidekiq Pro</a> и <a href="https://pauloancheta.com/aws/google%20cloud%20platform/ruby/2018/05/10/gcloud-vs-aws/">4 Reasons Why I Think Google Cloud Will Take Over Cloud Computing Space</a></li>
+  <li><a href="https://semaphoreci.com/blog/2014/01/21/rails-testing-antipatterns-models.html">Rails Testing Antipatterns: Models</a>, <a href="https://www.statusok.com/email-amazon-ses-rails-ec2">Email with Amazon SES from Rails on EC2</a> и <a href="https://github.com/jedld/tensor_stream">TensorStream - a reimplementation of TensorFlow for ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/tensorflow/real-time-human-pose-estimation-in-the-browser-with-tensorflow-js-7dd0bc881cd5">Real-time Human Pose Estimation in the Browser with TensorFlow.js</a>, <a href="https://evilmartians.com/chronicles/optimizing-react-virtual-dom-explained">Optimizing React: Virtual DOM explained</a> и <a href="https://blog.mgechev.com/2018/05/09/introducing-guess-js-data-driven-user-experiences-web/">Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web</a></li>
+  <li><a href="https://isomorphic-git.github.io/">Isomorphic-git - a pure JavaScript implementation of git for node and browsers</a>, <a href="https://appleple.github.io/scroll-hint/">ScrollHint - a JS library to suggest that the elements are scrollable horizontally, with the pointer icon</a> и <a href="https://www.youtube.com/watch?v=ed8SzALpx1Q">GraphQL Full Course - Novice to Expert</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 14 May 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/05/14/podcast-06-19.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/05/14/podcast-06-19.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0619.mp3" length="21267302" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0619.mp3" fileSize="21267302" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.2 sets Ruby version in Gemfile and add...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.2 sets Ruby version in Gemfile and adds .ruby-version file by default, Increase reliability of background job processing using super_fetch of Sidekiq Pro и 4 Reasons Why I Think Google Cloud Will Take Over Cloud Computing Space
+
+  
+Rails Testing Antipatterns: Models, Email with Amazon SES from Rails on EC2 и TensorStream - a reimplementation of TensorFlow for ruby
+
+
+
+JavaScript
+
+
+  
+Real-time Human Pose Estimation in the Browser with TensorFlow.js, Optimizing React: Virtual DOM explained и Introducing Guess.js - a toolkit for enabling data-driven user-experiences on the Web
+
+  
+Isomorphic-git - a pure JavaScript implementation of git for node and browsers, ScrollHint - a JS library to suggest that the elements are scrollable horizontally, with the pointer icon и GraphQL Full Course - Novice to Expert
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0619.png"/>
+  <itunes:duration>00:22:07</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>18 выпуск 06 сезона. Ruby 2.5.1 Released, Angular 6, Defeating Electron, Asylo, Proton-native, Selection.js, Is-google и прочее</title>
   <description>
@@ -3758,90 +3842,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0533.png"/>
   <itunes:duration>01:01:50</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>32 выпуск 05 сезона. Atom 1.19, Faster Rails: Eliminating N+1 queries, Hunting Malicious npm Packages, React-simple-maps и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-n-plus-one-queries.html">Faster Rails: Eliminating N+1 queries</a>, <a href="https://ksylvest.com/posts/2017-08-12/fabrication-vs-factorygirl">Fabrication vs FactoryGirl</a> и <a href="https://medium.com/rubyinside/a-deep-dive-into-csrf-protection-in-rails-19fa0a42c0ef">A Deep Dive into CSRF Protection in Rails</a></li>
-  <li><a href="https://blog.showoff.ie/using-gemstash-for-private-gem-hosting-8b6170da766c">Using Gemstash for Private Gem Hosting</a>, <a href="https://github.com/soulfly/unique_validation_inspector">UniqueValidationInspector - a rake task that helps you find unique validations in models that do not have proper DB indexes</a> и <a href="https://www.driftingruby.com/episodes/recurring-events-with-ice_cube">Recurring Events with ice_cube</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.atom.io/2017/08/08/atom-1-19.html">Atom 1.19</a>, <a href="https://threatpost.com/attackers-use-typo-squatting-to-steal-npm-credentials/127235/">Attackers Use Typo-Squatting To Steal npm Credentials</a> и <a href="https://duo.com/blog/hunting-malicious-npm-packages">Hunting Malicious npm Packages</a></li>
-  <li><a href="https://www.react-simple-maps.io/">React-simple-maps - a library of React components to make SVG maps using d3-geo and topojson</a>, <a href="https://hookrace.net/blog/time.gif/">Time.gif</a> и <a href="https://github.com/darcyclarke/rawkit">RawKit - immediately Open Chrome DevTools when debugging Node.js apps</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://semaphoreci.com/blog/2017/08/09/faster-rails-eliminating-n-plus-one-queries.html">Faster Rails: Eliminating N+1 queries</a>, <a href="https://ksylvest.com/posts/2017-08-12/fabrication-vs-factorygirl">Fabrication vs FactoryGirl</a> и <a href="https://medium.com/rubyinside/a-deep-dive-into-csrf-protection-in-rails-19fa0a42c0ef">A Deep Dive into CSRF Protection in Rails</a></li>
-  <li><a href="https://blog.showoff.ie/using-gemstash-for-private-gem-hosting-8b6170da766c">Using Gemstash for Private Gem Hosting</a>, <a href="https://github.com/soulfly/unique_validation_inspector">UniqueValidationInspector - a rake task that helps you find unique validations in models that do not have proper DB indexes</a> и <a href="https://www.driftingruby.com/episodes/recurring-events-with-ice_cube">Recurring Events with ice_cube</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.atom.io/2017/08/08/atom-1-19.html">Atom 1.19</a>, <a href="https://threatpost.com/attackers-use-typo-squatting-to-steal-npm-credentials/127235/">Attackers Use Typo-Squatting To Steal npm Credentials</a> и <a href="https://duo.com/blog/hunting-malicious-npm-packages">Hunting Malicious npm Packages</a></li>
-  <li><a href="https://www.react-simple-maps.io/">React-simple-maps - a library of React components to make SVG maps using d3-geo and topojson</a>, <a href="https://hookrace.net/blog/time.gif/">Time.gif</a> и <a href="https://github.com/darcyclarke/rawkit">RawKit - immediately Open Chrome DevTools when debugging Node.js apps</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 14 Aug 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/08/14/podcast-05-32.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/08/14/podcast-05-32.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0532.mp3" length="20673254" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0532.mp3" fileSize="20673254" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Faster Rails: Eliminating N+1 queries, Fabrica...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Faster Rails: Eliminating N+1 queries, Fabrication vs FactoryGirl и A Deep Dive into CSRF Protection in Rails
-
-  
-Using Gemstash for Private Gem Hosting, UniqueValidationInspector - a rake task that helps you find unique validations in models that do not have proper DB indexes и Recurring Events with ice_cube
-
-
-
-JavaScript
-
-
-  
-Atom 1.19, Attackers Use Typo-Squatting To Steal npm Credentials и Hunting Malicious npm Packages
-
-  
-React-simple-maps - a library of React components to make SVG maps using d3-geo and topojson, Time.gif и RawKit - immediately Open Chrome DevTools when debugging Node.js apps
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0532.png"/>
-  <itunes:duration>00:21:30</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
