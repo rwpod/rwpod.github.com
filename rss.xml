@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 14 May 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 14 May 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 21 May 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>20 выпуск 06 сезона. How to mitigate DDoS using Rack::Attack, Timeout::Error, Proxy, The new Javascript ES6 feature, Data-Forge и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/05/16/rails-5-2-fixes-query-caching-in-mysql-and-postgresql-adapters.html">Rails 5.2 fixes query caching in MySQL and PostgreSQL adapters</a>, <a href="https://blog.bigbinary.com/2018/05/15/how-to-mitigate-ddos-using-rack-attack.html">How to mitigate DDoS using Rack::Attack</a> и <a href="https://robots.thoughtbot.com/closing-the-trombone">Deprecating Paperclip</a></li>
+  <li><a href="https://revs.runtime-revolution.com/crystal-is-not-ruby-part-1-8736f8c2ae58">Crystal is not Ruby Part 1</a>, <a href="https://www.imaginarycloud.com/blog/paginating-ruby-on-rails-apps-with-pagy/">Paginating Ruby on Rails applications with Pagy</a> и <a href="https://www.exceptionalcreatures.com/bestiary/Timeout/Error.html">Timeout::Error</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.ghost.org/5/">After 5 years and $3M, here’s everything we’ve learned from building Ghost</a>, <a href="http://www.js-craft.io/blog/14-The-7-Most-Common-Mistakes-that-React-Developers-Make/">The 7 Most Common Mistakes that React Developers Make</a> и <a href="https://www.atyantik.com/proxy-javascript-es6-feature/">Proxy, The new Javascript ES6 feature</a></li>
+  <li><a href="http://www.data-forge-js.com/">Data-Forge - JavaScript data wrangling, transformation and analysis toolkit</a>, <a href="https://github.com/holtalanm/roman-num">RomaNum - Roman Numeral Math</a> и <a href="https://twikito.github.io/easy-toggle-state/">Easy Toggle State - a tiny JavaScript library to easily toggle the state of any HTML element and its targets</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/05/16/rails-5-2-fixes-query-caching-in-mysql-and-postgresql-adapters.html">Rails 5.2 fixes query caching in MySQL and PostgreSQL adapters</a>, <a href="https://blog.bigbinary.com/2018/05/15/how-to-mitigate-ddos-using-rack-attack.html">How to mitigate DDoS using Rack::Attack</a> и <a href="https://robots.thoughtbot.com/closing-the-trombone">Deprecating Paperclip</a></li>
+  <li><a href="https://revs.runtime-revolution.com/crystal-is-not-ruby-part-1-8736f8c2ae58">Crystal is not Ruby Part 1</a>, <a href="https://www.imaginarycloud.com/blog/paginating-ruby-on-rails-apps-with-pagy/">Paginating Ruby on Rails applications with Pagy</a> и <a href="https://www.exceptionalcreatures.com/bestiary/Timeout/Error.html">Timeout::Error</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.ghost.org/5/">After 5 years and $3M, here’s everything we’ve learned from building Ghost</a>, <a href="http://www.js-craft.io/blog/14-The-7-Most-Common-Mistakes-that-React-Developers-Make/">The 7 Most Common Mistakes that React Developers Make</a> и <a href="https://www.atyantik.com/proxy-javascript-es6-feature/">Proxy, The new Javascript ES6 feature</a></li>
+  <li><a href="http://www.data-forge-js.com/">Data-Forge - JavaScript data wrangling, transformation and analysis toolkit</a>, <a href="https://github.com/holtalanm/roman-num">RomaNum - Roman Numeral Math</a> и <a href="https://twikito.github.io/easy-toggle-state/">Easy Toggle State - a tiny JavaScript library to easily toggle the state of any HTML element and its targets</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 21 May 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/05/21/podcast-06-20.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/05/21/podcast-06-20.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0620.mp3" length="21267302" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0620.mp3" fileSize="21267302" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.2 fixes query caching in MySQL and Pos...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.2 fixes query caching in MySQL and PostgreSQL adapters, How to mitigate DDoS using Rack::Attack и Deprecating Paperclip
+
+  
+Crystal is not Ruby Part 1, Paginating Ruby on Rails applications with Pagy и Timeout::Error
+
+
+
+JavaScript
+
+
+  
+After 5 years and $3M, here’s everything we’ve learned from building Ghost, The 7 Most Common Mistakes that React Developers Make и Proxy, The new Javascript ES6 feature
+
+  
+Data-Forge - JavaScript data wrangling, transformation and analysis toolkit, RomaNum - Roman Numeral Math и Easy Toggle State - a tiny JavaScript library to easily toggle the state of any HTML element and its targets
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0620.png"/>
+  <itunes:duration>00:25:29</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>19 выпуск 06 сезона. Rails Testing Antipatterns, TensorStream, Guess.js, Isomorphic-git, ScrollHint и прочее</title>
   <description>
@@ -3719,129 +3803,6 @@ Architecting Electron Applications for 60fps и Promise me you won’t use Promi
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0534.png"/>
   <itunes:duration>00:31:15</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>33 выпуск 05 сезона. Six confusing features in Ruby, TestProf: a good doctor for slow Ruby tests, Repatch, Iroh и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://hqc.io/posts/six-confusing-features-in-ruby">Six confusing features in Ruby</a>, <a href="https://medium.com/@apneadiving/active-records-queries-tricks-2546181a98dd">Active Record’s queries tricks</a> и <a href="https://www.sharmaprakash.com.np/rails/same-enum-values-for-multiple-columns/">How to have same enum values for multiple columns in rails</a></li>
-  <li><a href="https://evilmartians.com/chronicles/testprof-a-good-doctor-for-slow-ruby-tests">TestProf: a good doctor for slow Ruby tests</a>, <a href="https://evilmartians.com/chronicles/factories-or-fixtures">Factories or fixtures? Give me both!</a> и <a href="https://www.driftingruby.com/episodes/recurring-events-with-fullcalendar">Recurring Events with FullCalendar</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://code.facebook.com/posts/112130496157735">Explaining React’s license</a>, <a href="https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf">How JavaScript works: an overview of the engine, the runtime, and the call stack</a> и <a href="https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775">Understanding V8’s Bytecode</a></li>
-  <li><a href="https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b">Rethinking drag and drop</a>, <a href="https://community.risingstack.com/repatch-the-simplified-redux/">Repatch - the simplified Redux</a>, <a href="https://www.ugnis.com/">Ugnis - a visual component editor for React and React Native</a>, <a href="https://github.com/GoogleChrome/puppeteer">Puppeteer - Headless Chrome Node API</a> и <a href="http://www.felixmaier.info/Iroh/">Iroh - a dynamic code analysis tool for JavaScript</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #17</a></li>
-</ul>
-
-<h2 id="vlad-moskovets">В гостях - Vlad Moskovets</h2>
-
-<ul>
-  <li><a href="https://github.com/slayer/">Github</a></li>
-  <li><a href="https://www.linkedin.com/in/vlad-moskovets-ab483428/">Linkedin</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://hqc.io/posts/six-confusing-features-in-ruby">Six confusing features in Ruby</a>, <a href="https://medium.com/@apneadiving/active-records-queries-tricks-2546181a98dd">Active Record’s queries tricks</a> и <a href="https://www.sharmaprakash.com.np/rails/same-enum-values-for-multiple-columns/">How to have same enum values for multiple columns in rails</a></li>
-  <li><a href="https://evilmartians.com/chronicles/testprof-a-good-doctor-for-slow-ruby-tests">TestProf: a good doctor for slow Ruby tests</a>, <a href="https://evilmartians.com/chronicles/factories-or-fixtures">Factories or fixtures? Give me both!</a> и <a href="https://www.driftingruby.com/episodes/recurring-events-with-fullcalendar">Recurring Events with FullCalendar</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://code.facebook.com/posts/112130496157735">Explaining React’s license</a>, <a href="https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf">How JavaScript works: an overview of the engine, the runtime, and the call stack</a> и <a href="https://medium.com/dailyjs/understanding-v8s-bytecode-317d46c94775">Understanding V8’s Bytecode</a></li>
-  <li><a href="https://medium.com/@alexandereardon/rethinking-drag-and-drop-d9f5770b4e6b">Rethinking drag and drop</a>, <a href="https://community.risingstack.com/repatch-the-simplified-redux/">Repatch - the simplified Redux</a>, <a href="https://www.ugnis.com/">Ugnis - a visual component editor for React and React Native</a>, <a href="https://github.com/GoogleChrome/puppeteer">Puppeteer - Headless Chrome Node API</a> и <a href="http://www.felixmaier.info/Iroh/">Iroh - a dynamic code analysis tool for JavaScript</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #17</a></li>
-</ul>
-
-<h2 id="vlad-moskovets">В гостях - Vlad Moskovets</h2>
-
-<ul>
-  <li><a href="https://github.com/slayer/">Github</a></li>
-  <li><a href="https://www.linkedin.com/in/vlad-moskovets-ab483428/">Linkedin</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 22 Aug 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/08/22/podcast-05-33.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/08/22/podcast-05-33.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0533.mp3" length="59395536" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0533.mp3" fileSize="59395536" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Six confusing features in Ruby, Active Record’...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Six confusing features in Ruby, Active Record’s queries tricks и How to have same enum values for multiple columns in rails
-
-  
-TestProf: a good doctor for slow Ruby tests, Factories or fixtures? Give me both! и Recurring Events with FullCalendar
-
-
-
-JavaScript
-
-
-  
-Explaining React’s license, How JavaScript works: an overview of the engine, the runtime, and the call stack и Understanding V8’s Bytecode
-
-  
-Rethinking drag and drop, Repatch - the simplified Redux, Ugnis - a visual component editor for React and React Native, Puppeteer - Headless Chrome Node API и Iroh - a dynamic code analysis tool for JavaScript
-
-
-
-Conferences
-
-
-  Ruby Meditation #17
-
-
-В гостях - Vlad Moskovets
-
-
-  Github
-  Linkedin
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0533.png"/>
-  <itunes:duration>01:01:50</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
