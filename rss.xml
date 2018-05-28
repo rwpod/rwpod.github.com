@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 21 May 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 21 May 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 28 May 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>21 выпуск 06 сезона. Controllers: the Rails way vs the Hanami way, MeRedis, Winds 2.0, Vuido, RSuite, nanoJS, Wired Elements и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/05/22/ruby-2-5-added-lazy-proc-allocation-for-block-parameters.html">Ruby 2.5 added lazy proc allocation for block parameters</a>, <a href="https://sipsandbits.com/2018/05/23/rails-controllers-vs-hanami-controllers/">Controllers: the Rails way vs the Hanami way</a> и <a href="https://reinteractive.com/posts/354-best-practices-async-reverse-geocoding-with-ruby-and-geocoder">Best practices: Async Reverse Geocoding with Ruby and Geocoder</a></li>
+  <li><a href="https://blog.planetargon.com/entries/our-favorite-ruby-on-rails-talks-from-railsconf-2018">Our Favorite Ruby on Rails Talks from RailsConf 2018</a>, <a href="https://blog.planetargon.com/entries/8-ruby-gems-were-loving-in-2018">8 Ruby Gems We’re Loving in 2018</a>, <a href="https://github.com/alekseyl/me-redis">MeRedis - Memory Efficient redis optimization</a> и <a href="https://github.com/alekseyl/niceql">Niceql - a small, nice, simple and dependentless solution for SQL prettifiyng for Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/pulsar/which-accessibility-testing-tool-should-you-use-e5990e6ef0a">Which accessibility testing tool should you use?</a>, <a href="https://deanhume.com/lazy-loading-images-using-intersection-observer/">Lazy loading images using Intersection Observer</a> и <a href="https://medium.com/@lucyhackwrench/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D1%82%D1%8C-%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8-%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%B2%D1%81%D0%B5%D1%85-%D1%81%D0%B5%D0%B1%D1%8F-%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BA%D0%BE%D0%B4-%D1%80%D0%B5%D0%B2%D1%8C%D1%8E-11fec8e17000">Как потерять друзей и заставить всех себя ненавидеть, делая код-ревью</a></li>
+  <li><a href="https://github.com/GetStream/Winds">Winds 2.0 - a Beautiful Open Source RSS &amp; Podcast App</a>, <a href="https://github.com/mimecorg/vuido">Vuido - create native desktop applications for Windows, OS X and Linux using Vue.js</a>, <a href="https://rsuitejs.com/en/">RSuite - a suite of React components</a>, <a href="https://vladocar.github.io/nanoJS/">nanoJS - minimal standalone JS library for DOM manipulation</a>, <a href="https://wiredjs.com/">Wired Elements - set of common UI elements with a hand-drawn, sketchy look</a> и <a href="http://mnater.github.io/Hyphenopoly/">Hyphenopoly.js - a JavaScript-polyfill for hyphenation in HTML</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/05/22/ruby-2-5-added-lazy-proc-allocation-for-block-parameters.html">Ruby 2.5 added lazy proc allocation for block parameters</a>, <a href="https://sipsandbits.com/2018/05/23/rails-controllers-vs-hanami-controllers/">Controllers: the Rails way vs the Hanami way</a> и <a href="https://reinteractive.com/posts/354-best-practices-async-reverse-geocoding-with-ruby-and-geocoder">Best practices: Async Reverse Geocoding with Ruby and Geocoder</a></li>
+  <li><a href="https://blog.planetargon.com/entries/our-favorite-ruby-on-rails-talks-from-railsconf-2018">Our Favorite Ruby on Rails Talks from RailsConf 2018</a>, <a href="https://blog.planetargon.com/entries/8-ruby-gems-were-loving-in-2018">8 Ruby Gems We’re Loving in 2018</a>, <a href="https://github.com/alekseyl/me-redis">MeRedis - Memory Efficient redis optimization</a> и <a href="https://github.com/alekseyl/niceql">Niceql - a small, nice, simple and dependentless solution for SQL prettifiyng for Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://medium.com/pulsar/which-accessibility-testing-tool-should-you-use-e5990e6ef0a">Which accessibility testing tool should you use?</a>, <a href="https://deanhume.com/lazy-loading-images-using-intersection-observer/">Lazy loading images using Intersection Observer</a> и <a href="https://medium.com/@lucyhackwrench/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D1%82%D1%8C-%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8-%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%B2%D1%81%D0%B5%D1%85-%D1%81%D0%B5%D0%B1%D1%8F-%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BA%D0%BE%D0%B4-%D1%80%D0%B5%D0%B2%D1%8C%D1%8E-11fec8e17000">Как потерять друзей и заставить всех себя ненавидеть, делая код-ревью</a></li>
+  <li><a href="https://github.com/GetStream/Winds">Winds 2.0 - a Beautiful Open Source RSS &amp; Podcast App</a>, <a href="https://github.com/mimecorg/vuido">Vuido - create native desktop applications for Windows, OS X and Linux using Vue.js</a>, <a href="https://rsuitejs.com/en/">RSuite - a suite of React components</a>, <a href="https://vladocar.github.io/nanoJS/">nanoJS - minimal standalone JS library for DOM manipulation</a>, <a href="https://wiredjs.com/">Wired Elements - set of common UI elements with a hand-drawn, sketchy look</a> и <a href="http://mnater.github.io/Hyphenopoly/">Hyphenopoly.js - a JavaScript-polyfill for hyphenation in HTML</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 28 May 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/05/28/podcast-06-21.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/05/28/podcast-06-21.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0621.mp3" length="33629372" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0621.mp3" fileSize="33629372" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.5 added lazy proc allocation for block ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.5 added lazy proc allocation for block parameters, Controllers: the Rails way vs the Hanami way и Best practices: Async Reverse Geocoding with Ruby and Geocoder
+
+  
+Our Favorite Ruby on Rails Talks from RailsConf 2018, 8 Ruby Gems We’re Loving in 2018, MeRedis - Memory Efficient redis optimization и Niceql - a small, nice, simple and dependentless solution for SQL prettifiyng for Ruby
+
+
+
+JavaScript
+
+
+  
+Which accessibility testing tool should you use?, Lazy loading images using Intersection Observer и Как потерять друзей и заставить всех себя ненавидеть, делая код-ревью
+
+  
+Winds 2.0 - a Beautiful Open Source RSS &amp; Podcast App, Vuido - create native desktop applications for Windows, OS X and Linux using Vue.js, RSuite - a suite of React components, nanoJS - minimal standalone JS library for DOM manipulation, Wired Elements - set of common UI elements with a hand-drawn, sketchy look и Hyphenopoly.js - a JavaScript-polyfill for hyphenation in HTML
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0621.png"/>
+  <itunes:duration>00:35:00</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>20 выпуск 06 сезона. How to mitigate DDoS using Rack::Attack, Timeout::Error, Proxy, The new Javascript ES6 feature, Data-Forge и прочее</title>
   <description>
@@ -3709,100 +3793,6 @@ Patent Free React Ecosystem Migration Plan, React-Move 2.0 🌀 Resonance joins 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0535.png"/>
   <itunes:duration>00:27:18</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>34 выпуск 05 сезона. Introduction to Concurrency Models with Ruby, Node.js forks again, Async, Fuzzysort и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2017/08/23/new-syntax-for-tag-helpers-in-rails-5-1.html">New Syntax for HTML Tag helpers in Rails 5.1</a>, <a href="https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-i-550d0dbb970">Introduction to Concurrency Models with Ruby. Part I</a> и <a href="https://www.engineyard.com/blog/five-ruby-methods-you-should-be-using">Five Ruby Methods You Should Be Using</a></li>
-  <li><a href="https://medium.com/rubyinside/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app-7f77382cfb5">Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App</a> и <a href="http://blog.arkency.com/the-equals-equals-equals-case-equality-operator-in-ruby/">The === (case equality) operator in Ruby</a></li>
-  <li><a href="https://medium.com/@nicolasblanco/translate-your-activerecord-records-without-stress-and-bloat-f77c394e95b4">Translate your ActiveRecord attributes without stress or bloat</a>, <a href="http://blog.scoutapp.com/articles/2017/08/17/pg_trgm-autocorrect">Autocorrect with Postgres Trigrams</a> и <a href="https://github.com/socketry/async">Async - a composable asynchronous I/O framework for Ruby based on nio4r and timers</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.theregister.co.uk/2017/08/24/nodejs_forks_ayo_code_of_conduct/">Node.js forks again – this time it’s a war of words over anti-sex-pest codes of conduct</a>, <a href="https://dev.to/anthonydelgado/javascript-is-eating-the-world">JavaScript Is Eating The World</a> и <a href="https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2">If you’re a startup, you should not use React (reflecting on the BSD + patents license)</a></li>
-  <li><a href="https://www.nearform.com/blog/architecting-electron-applications-for-60fps/">Architecting Electron Applications for 60fps</a> и <a href="https://www.jcore.com/2016/12/18/promise-me-you-wont-use-promise-race/">Promise me you won’t use Promise.race</a></li>
-  <li><a href="https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews">10 JavaScript concepts you need to know for interviews</a>, <a href="https://github.com/farzher/fuzzysort">Fuzzysort - fast SublimeText-like fuzzy search for JavaScript</a> и <a href="https://jonathantneal.github.io/media-player/">Media Player - a tiny, responsive, international, accessible, cross browser, easily customizable media player</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2017/08/23/new-syntax-for-tag-helpers-in-rails-5-1.html">New Syntax for HTML Tag helpers in Rails 5.1</a>, <a href="https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-i-550d0dbb970">Introduction to Concurrency Models with Ruby. Part I</a> и <a href="https://www.engineyard.com/blog/five-ruby-methods-you-should-be-using">Five Ruby Methods You Should Be Using</a></li>
-  <li><a href="https://medium.com/rubyinside/using-rails-5-actioncable-and-rethinkdb-to-build-a-reactive-websocket-app-7f77382cfb5">Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App</a> и <a href="http://blog.arkency.com/the-equals-equals-equals-case-equality-operator-in-ruby/">The === (case equality) operator in Ruby</a></li>
-  <li><a href="https://medium.com/@nicolasblanco/translate-your-activerecord-records-without-stress-and-bloat-f77c394e95b4">Translate your ActiveRecord attributes without stress or bloat</a>, <a href="http://blog.scoutapp.com/articles/2017/08/17/pg_trgm-autocorrect">Autocorrect with Postgres Trigrams</a> и <a href="https://github.com/socketry/async">Async - a composable asynchronous I/O framework for Ruby based on nio4r and timers</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://www.theregister.co.uk/2017/08/24/nodejs_forks_ayo_code_of_conduct/">Node.js forks again – this time it’s a war of words over anti-sex-pest codes of conduct</a>, <a href="https://dev.to/anthonydelgado/javascript-is-eating-the-world">JavaScript Is Eating The World</a> и <a href="https://medium.com/@raulk/if-youre-a-startup-you-should-not-use-react-reflecting-on-the-bsd-patents-license-b049d4a67dd2">If you’re a startup, you should not use React (reflecting on the BSD + patents license)</a></li>
-  <li><a href="https://www.nearform.com/blog/architecting-electron-applications-for-60fps/">Architecting Electron Applications for 60fps</a> и <a href="https://www.jcore.com/2016/12/18/promise-me-you-wont-use-promise-race/">Promise me you won’t use Promise.race</a></li>
-  <li><a href="https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews">10 JavaScript concepts you need to know for interviews</a>, <a href="https://github.com/farzher/fuzzysort">Fuzzysort - fast SublimeText-like fuzzy search for JavaScript</a> и <a href="https://jonathantneal.github.io/media-player/">Media Player - a tiny, responsive, international, accessible, cross browser, easily customizable media player</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 28 Aug 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/08/28/podcast-05-34.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/08/28/podcast-05-34.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0534.mp3" length="30033608" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0534.mp3" fileSize="30033608" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  New Syntax for HTML Tag helpers in Rails 5.1, ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-New Syntax for HTML Tag helpers in Rails 5.1, Introduction to Concurrency Models with Ruby. Part I и Five Ruby Methods You Should Be Using
-
-  
-Using Rails 5 ActionCable and RethinkDB to build a Reactive WebSocket App и The === (case equality) operator in Ruby
-
-  
-Translate your ActiveRecord attributes without stress or bloat, Autocorrect with Postgres Trigrams и Async - a composable asynchronous I/O framework for Ruby based on nio4r and timers
-
-
-
-JavaScript
-
-
-  
-Node.js forks again – this time it’s a war of words over anti-sex-pest codes of conduct, JavaScript Is Eating The World и If you’re a startup, you should not use React (reflecting on the BSD + patents license)
-
-  
-Architecting Electron Applications for 60fps и Promise me you won’t use Promise.race
-
-  
-10 JavaScript concepts you need to know for interviews, Fuzzysort - fast SublimeText-like fuzzy search for JavaScript и Media Player - a tiny, responsive, international, accessible, cross browser, easily customizable media player
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0534.png"/>
-  <itunes:duration>00:31:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
