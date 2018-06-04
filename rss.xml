@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 28 May 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 28 May 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 04 Jun 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>22 выпуск 06 сезона. Microsoft + GitHub, Http.rb is Great, The Cult of the Complex, Nuclide, ProppyJS, Minipack и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/05/30/rails-5-2-adds-allow_other_host-option-to-redirect_back-method.html">Rails 5.2 introduces allow_other_host option to redirect_back method</a>, <a href="https://robots.thoughtbot.com/closing-the-trombone">Deprecating Paperclip</a> и <a href="https://blog.bigbinary.com/2018/05/29/generating-json-using-postgresql-json-function.html">Faster JSON generation using PostgreSQL JSON function</a></li>
+  <li><a href="https://blog.dnsimple.com/2018/05/simple-async-map-reduce-queue-for-ruby/">Simple, Async, Map/Reduce queue for Ruby</a>, <a href="https://pawelurbanek.com/elk-nginx-logs-setup">Setup ELK for NGINX logs with Elasticsearch, Logstash, and Kibana</a> и <a href="https://mixandgo.com/blog/is-your-rails-team-slowing-down">Is Your Rails Team Slowing Down? Here’s Why, And What You Can Do About It.</a></li>
+  <li><a href="https://twin.github.io/httprb-is-great/">Http.rb is Great</a> и <a href="https://idiosyncratic-ruby.com/66-ruby-has-character.html">Ruby has Character</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.github.com/2018-06-04-github-microsoft/">Microsoft + GitHub</a> и <a href="https://alistapart.com/article/cult-of-the-complex">The Cult of the Complex</a></li>
+  <li><a href="https://hackernoon.com/introduction-to-the-headless-cms-1a8db3cb0c3d">Introduction to the Headless CMS</a> и <a href="https://medium.freecodecamp.org/firebase-cloud-functions-the-great-the-meh-and-the-ugly-c4562c6dc65d">Firebase Cloud Functions: the great, the meh, and the ugly</a></li>
+  <li><a href="https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade">11 Javascript Utility Libraries You Should Know In 2018</a>, <a href="https://nuclide.io/">Nuclide - an open IDE for web and native mobile development, built on top of Atom</a>, <a href="https://proppyjs.com/">ProppyJS - functional props composition for components</a>, <a href="https://github.com/GoogleChromeLabs/critters">Critters-webpack-plugin - a Webpack plugin that inlines your app’s critical CSS and lazy-loads the rest</a>, <a href="https://github.com/ronami/minipack">Minipack - a simplified example of a modern module bundler written in JavaScript</a> и <a href="https://github.com/pod4g/hiper/">Hiper - a statistical analysis tool for performance testing</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/05/30/rails-5-2-adds-allow_other_host-option-to-redirect_back-method.html">Rails 5.2 introduces allow_other_host option to redirect_back method</a>, <a href="https://robots.thoughtbot.com/closing-the-trombone">Deprecating Paperclip</a> и <a href="https://blog.bigbinary.com/2018/05/29/generating-json-using-postgresql-json-function.html">Faster JSON generation using PostgreSQL JSON function</a></li>
+  <li><a href="https://blog.dnsimple.com/2018/05/simple-async-map-reduce-queue-for-ruby/">Simple, Async, Map/Reduce queue for Ruby</a>, <a href="https://pawelurbanek.com/elk-nginx-logs-setup">Setup ELK for NGINX logs with Elasticsearch, Logstash, and Kibana</a> и <a href="https://mixandgo.com/blog/is-your-rails-team-slowing-down">Is Your Rails Team Slowing Down? Here’s Why, And What You Can Do About It.</a></li>
+  <li><a href="https://twin.github.io/httprb-is-great/">Http.rb is Great</a> и <a href="https://idiosyncratic-ruby.com/66-ruby-has-character.html">Ruby has Character</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blog.github.com/2018-06-04-github-microsoft/">Microsoft + GitHub</a> и <a href="https://alistapart.com/article/cult-of-the-complex">The Cult of the Complex</a></li>
+  <li><a href="https://hackernoon.com/introduction-to-the-headless-cms-1a8db3cb0c3d">Introduction to the Headless CMS</a> и <a href="https://medium.freecodecamp.org/firebase-cloud-functions-the-great-the-meh-and-the-ugly-c4562c6dc65d">Firebase Cloud Functions: the great, the meh, and the ugly</a></li>
+  <li><a href="https://blog.bitsrc.io/11-javascript-utility-libraries-you-should-know-in-2018-3646fb31ade">11 Javascript Utility Libraries You Should Know In 2018</a>, <a href="https://nuclide.io/">Nuclide - an open IDE for web and native mobile development, built on top of Atom</a>, <a href="https://proppyjs.com/">ProppyJS - functional props composition for components</a>, <a href="https://github.com/GoogleChromeLabs/critters">Critters-webpack-plugin - a Webpack plugin that inlines your app’s critical CSS and lazy-loads the rest</a>, <a href="https://github.com/ronami/minipack">Minipack - a simplified example of a modern module bundler written in JavaScript</a> и <a href="https://github.com/pod4g/hiper/">Hiper - a statistical analysis tool for performance testing</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 04 Jun 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/06/04/podcast-06-22.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/06/04/podcast-06-22.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0622.mp3" length="41287104" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0622.mp3" fileSize="41287104" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.2 introduces allow_other_host option t...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.2 introduces allow_other_host option to redirect_back method, Deprecating Paperclip и Faster JSON generation using PostgreSQL JSON function
+
+  
+Simple, Async, Map/Reduce queue for Ruby, Setup ELK for NGINX logs with Elasticsearch, Logstash, and Kibana и Is Your Rails Team Slowing Down? Here’s Why, And What You Can Do About It.
+
+  
+Http.rb is Great и Ruby has Character
+
+
+
+JavaScript
+
+
+  
+Microsoft + GitHub и The Cult of the Complex
+
+  
+Introduction to the Headless CMS и Firebase Cloud Functions: the great, the meh, and the ugly
+
+  
+11 Javascript Utility Libraries You Should Know In 2018, Nuclide - an open IDE for web and native mobile development, built on top of Atom, ProppyJS - functional props composition for components, Critters-webpack-plugin - a Webpack plugin that inlines your app’s critical CSS and lazy-loads the rest, Minipack - a simplified example of a modern module bundler written in JavaScript и Hiper - a statistical analysis tool for performance testing
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0622.png"/>
+  <itunes:duration>00:42:59</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>21 выпуск 06 сезона. Controllers: the Rails way vs the Hanami way, MeRedis, Winds 2.0, Vuido, RSuite, nanoJS, Wired Elements и прочее</title>
   <description>
@@ -3706,93 +3800,6 @@ Size Limit: Make the Web lighter, LookForward.js - a small library that helps yo
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0536.png"/>
   <itunes:duration>00:56:32</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>35 выпуск 05 сезона. Sequel 5.0.0, Webpacker 3.0, TypeScript 2.5, ExceptionAlarm, React-Move 2.0, Unmiss и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://groups.google.com/forum/#!topic/sequel-talk/-2By-YjfGNI">Sequel 5.0.0 Released</a>, <a href="http://weblog.rubyonrails.org/2017/8/30/webpacker-3-0/">Webpacker 3.0: No separate process needed, less config generated</a>, <a href="https://www.ruby-lang.org/en/news/2017/08/29/multiple-vulnerabilities-in-rubygems/">Multiple vulnerabilities in RubyGems</a> и <a href="https://pragtob.wordpress.com/2017/08/29/careful-what-you-measure-2-1-times-slower-to-4-2-times-faster-mjit-versus-truffle-ruby/">Careful what you measure: 2.1 times slower to 4.2 times faster - MJIT versus TruffleRuby</a></li>
-  <li><a href="https://medium.com/@apneadiving/why-i-do-not-use-strong-parameters-in-rails-e3bd07fcda1d">Why I do not use strong parameters in Rails</a>, <a href="https://github.com/pioz/exception_alarm">ExceptionAlarm - a simple gem play an alarm sound when an exception is raised on your Ruby code</a> и <a href="https://www.driftingruby.com/episodes/activerecord-migrations">ActiveRecord Migrations (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/">Announcing TypeScript 2.5</a>, <a href="https://v8project.blogspot.co.uk/2017/08/fast-properties.html">Fast Properties in V8</a> и <a href="https://webkit.org/blog/7846/concurrent-javascript-it-can-work/">Concurrent JavaScript:
-It can work!</a></li>
-  <li><a href="https://onespeed.io/blog/post/patent-free-react-ecosystem-migration-plan/">Patent Free React Ecosystem Migration Plan</a>, <a href="https://medium.com/react-tools/react-move-2-0-resonance-joins-react-move-to-make-your-animations-even-better-2279d95cefaf">React-Move 2.0 🌀 Resonance joins React-Move to make your animations even better!</a>, <a href="https://github.com/ramadis/unmiss">Unmiss - a Ruby’s method_missing implementation you can use in your javascript classes</a> и <a href="https://github.com/WeiChiaChang/easter-egg-collection">Easter-egg-collection</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://groups.google.com/forum/#!topic/sequel-talk/-2By-YjfGNI">Sequel 5.0.0 Released</a>, <a href="http://weblog.rubyonrails.org/2017/8/30/webpacker-3-0/">Webpacker 3.0: No separate process needed, less config generated</a>, <a href="https://www.ruby-lang.org/en/news/2017/08/29/multiple-vulnerabilities-in-rubygems/">Multiple vulnerabilities in RubyGems</a> и <a href="https://pragtob.wordpress.com/2017/08/29/careful-what-you-measure-2-1-times-slower-to-4-2-times-faster-mjit-versus-truffle-ruby/">Careful what you measure: 2.1 times slower to 4.2 times faster - MJIT versus TruffleRuby</a></li>
-  <li><a href="https://medium.com/@apneadiving/why-i-do-not-use-strong-parameters-in-rails-e3bd07fcda1d">Why I do not use strong parameters in Rails</a>, <a href="https://github.com/pioz/exception_alarm">ExceptionAlarm - a simple gem play an alarm sound when an exception is raised on your Ruby code</a> и <a href="https://www.driftingruby.com/episodes/activerecord-migrations">ActiveRecord Migrations (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2017/08/31/announcing-typescript-2-5/">Announcing TypeScript 2.5</a>, <a href="https://v8project.blogspot.co.uk/2017/08/fast-properties.html">Fast Properties in V8</a> и <a href="https://webkit.org/blog/7846/concurrent-javascript-it-can-work/">Concurrent JavaScript:
-It can work!</a></li>
-  <li><a href="https://onespeed.io/blog/post/patent-free-react-ecosystem-migration-plan/">Patent Free React Ecosystem Migration Plan</a>, <a href="https://medium.com/react-tools/react-move-2-0-resonance-joins-react-move-to-make-your-animations-even-better-2279d95cefaf">React-Move 2.0 🌀 Resonance joins React-Move to make your animations even better!</a>, <a href="https://github.com/ramadis/unmiss">Unmiss - a Ruby’s method_missing implementation you can use in your javascript classes</a> и <a href="https://github.com/WeiChiaChang/easter-egg-collection">Easter-egg-collection</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 04 Sep 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/09/04/podcast-05-35.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/09/04/podcast-05-35.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0535.mp3" length="26237270" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0535.mp3" fileSize="26237270" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Sequel 5.0.0 Released, Webpacker 3.0: No separ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Sequel 5.0.0 Released, Webpacker 3.0: No separate process needed, less config generated, Multiple vulnerabilities in RubyGems и Careful what you measure: 2.1 times slower to 4.2 times faster - MJIT versus TruffleRuby
-
-  
-Why I do not use strong parameters in Rails, ExceptionAlarm - a simple gem play an alarm sound when an exception is raised on your Ruby code и ActiveRecord Migrations (video)
-
-
-
-JavaScript
-
-
-  
-Announcing TypeScript 2.5, Fast Properties in V8 и Concurrent JavaScript:
-It can work!
-
-  
-Patent Free React Ecosystem Migration Plan, React-Move 2.0 🌀 Resonance joins React-Move to make your animations even better!, Unmiss - a Ruby’s method_missing implementation you can use in your javascript classes и Easter-egg-collection
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0535.png"/>
-  <itunes:duration>00:27:18</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
