@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 04 Jun 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 04 Jun 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 11 Jun 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 11 Jun 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>23 выпуск 06 сезона. Rails 5.2 credentials are not secure, WCAG 2.1 is a W3C recommendation, Deno, BLASjs, LuminJS и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/printercu/secure_credentials/wiki/Rails-5.2-credentials-are-not-secure">Rails 5.2 credentials are not secure</a> и <a href="https://crypt.codemancers.com/posts/2018-06-07-frozen-middleware-with-rack-freeze/">Frozen middleware with Rack freeze</a></li>
+  <li><a href="https://www.twilio.com/blog/2018/05/automated-speech-recognition-phone-calls-ruby-on-rails.html">Adding Automated Speech Recognition for Phone Calls to Ruby on Rails Applications</a>, <a href="https://blog.edwardloveall.com/rails-presence-method">The Rails presence Method</a>, <a href="https://blog.rwell.org/2018/05/29/navigating-to-safe-navigation.html">Navigating to safe navigation</a> и <a href="https://blog.appsignal.com/2018/06/05/redo-retry-next.html">Ruby’s redo, retry and next keywords</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.w3.org/blog/2018/06/wcag21-rec/">WCAG 2.1 is a W3C recommendation</a>, <a href="https://itnext.io/offline-ocr-with-tesseractjs-and-ionic-5054fc7eef86">Offline OCR with TesseractJS and Ionic</a> и <a href="https://jmperezperez.com/fostering-web-performance-culture/">Fostering a Web Performance Culture</a></li>
+  <li><a href="https://github.com/ry/deno">Deno - a secure TypeScript runtime built on V8</a>, <a href="https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59">11 Javascript Animation Libraries For 2018</a>, <a href="https://github.com/jacobbogers/blasjs">BLASjs (Basic Linear Algebra Subprograms)</a> и <a href="https://lumin.rocks/">LuminJS - a JavaScript library to progressively highlight any text on a page</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/printercu/secure_credentials/wiki/Rails-5.2-credentials-are-not-secure">Rails 5.2 credentials are not secure</a> и <a href="https://crypt.codemancers.com/posts/2018-06-07-frozen-middleware-with-rack-freeze/">Frozen middleware with Rack freeze</a></li>
+  <li><a href="https://www.twilio.com/blog/2018/05/automated-speech-recognition-phone-calls-ruby-on-rails.html">Adding Automated Speech Recognition for Phone Calls to Ruby on Rails Applications</a>, <a href="https://blog.edwardloveall.com/rails-presence-method">The Rails presence Method</a>, <a href="https://blog.rwell.org/2018/05/29/navigating-to-safe-navigation.html">Navigating to safe navigation</a> и <a href="https://blog.appsignal.com/2018/06/05/redo-retry-next.html">Ruby’s redo, retry and next keywords</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://www.w3.org/blog/2018/06/wcag21-rec/">WCAG 2.1 is a W3C recommendation</a>, <a href="https://itnext.io/offline-ocr-with-tesseractjs-and-ionic-5054fc7eef86">Offline OCR with TesseractJS and Ionic</a> и <a href="https://jmperezperez.com/fostering-web-performance-culture/">Fostering a Web Performance Culture</a></li>
+  <li><a href="https://github.com/ry/deno">Deno - a secure TypeScript runtime built on V8</a>, <a href="https://blog.bitsrc.io/11-javascript-animation-libraries-for-2018-9d7ac93a2c59">11 Javascript Animation Libraries For 2018</a>, <a href="https://github.com/jacobbogers/blasjs">BLASjs (Basic Linear Algebra Subprograms)</a> и <a href="https://lumin.rocks/">LuminJS - a JavaScript library to progressively highlight any text on a page</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 11 Jun 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/06/11/podcast-06-23.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/06/11/podcast-06-23.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0623.mp3" length="27142806" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0623.mp3" fileSize="27142806" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.2 credentials are not secure и Frozen ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.2 credentials are not secure и Frozen middleware with Rack freeze
+
+  
+Adding Automated Speech Recognition for Phone Calls to Ruby on Rails Applications, The Rails presence Method, Navigating to safe navigation и Ruby’s redo, retry and next keywords
+
+
+
+JavaScript
+
+
+  
+WCAG 2.1 is a W3C recommendation, Offline OCR with TesseractJS and Ionic и Fostering a Web Performance Culture
+
+  
+Deno - a secure TypeScript runtime built on V8, 11 Javascript Animation Libraries For 2018, BLASjs (Basic Linear Algebra Subprograms) и LuminJS - a JavaScript library to progressively highlight any text on a page
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0623.png"/>
+  <itunes:duration>00:28:15</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>22 выпуск 06 сезона. Microsoft + GitHub, Http.rb is Great, The Cult of the Complex, Nuclide, ProppyJS, Minipack и прочее</title>
   <description>
@@ -3690,116 +3774,6 @@ Build An Interactive Game of Thrones Map (Part I) - Node.js, PostGIS, and Redis,
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0537.png"/>
   <itunes:duration>00:20:39</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>36 выпуск 05 сезона. Yarn 1.0, Gemfile's new clothes, Headless Chrome vs PhantomJS, Size Limit: Make the Web lighter и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://depfu.com/blog/2017/09/06/gemfiles-new-clothes">Gemfile’s new clothes</a>, <a href="https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-ii-c39c7e612bed">Introduction to Concurrency Models with Ruby. Part II</a> и <a href="https://www.chrisblunt.com/rails-on-docker-using-docker-compose-with-your-ruby-on-rails-apps/">Rails on Docker: Using Docker Compose with Your Ruby on Rails Apps</a></li>
-  <li><a href="https://medium.com/@hartator/benchmark-headless-chrome-vs-phantomjs-e7f44c6956c">Headless Chrome vs PhantomJS Benchmark</a> и <a href="https://infinum.co/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy">Superfast CSV imports using PostgreSQL’s COPY command</a></li>
-  <li><a href="https://blog.lelonek.me/what-service-objects-are-not-7abef8aa2f99">What service objects are not</a>, <a href="https://medium.com/@carlescliment/about-rails-concerns-a6b2f1776d7d">About Rails concerns</a> и <a href="https://github.com/collectiveidea/interactor">Interactor - a common interface for performing complex user interactions</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://code.facebook.com/posts/274518539716230">Announcing Yarn 1.0</a>, <a href="https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163">Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)</a> и <a href="https://medium.com/open-collective/cycle-js-a-unified-theory-of-everything-for-javascript-e266ac9a59ad">Cycle.js: A Unified Theory of Everything for JavaScript</a></li>
-  <li><a href="https://evilmartians.com/chronicles/size-limit-make-the-web-lighter">Size Limit: Make the Web lighter</a>, <a href="https://appleple.github.io/lookforward/">LookForward.js - a small library that helps you to create smooth transitions between pages with the easiest way</a>, <a href="https://github.com/renatorib/react-powerplug">React PowerPlug - set of components to you add different types of state in your dumb components</a> и <a href="https://okazari.github.io/Rythm.js/">Rythm.js - a javascript library that makes your page dance</a></li>
-</ul>
-
-<h2 id="section">В гостях - Иван Фокеев</h2>
-
-<ul>
-  <li><a href="https://github.com/ifokeev">Github</a></li>
-  <li><a href="https://statsbot.co/">Work</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://depfu.com/blog/2017/09/06/gemfiles-new-clothes">Gemfile’s new clothes</a>, <a href="https://engineering.universe.com/introduction-to-concurrency-models-with-ruby-part-ii-c39c7e612bed">Introduction to Concurrency Models with Ruby. Part II</a> и <a href="https://www.chrisblunt.com/rails-on-docker-using-docker-compose-with-your-ruby-on-rails-apps/">Rails on Docker: Using Docker Compose with Your Ruby on Rails Apps</a></li>
-  <li><a href="https://medium.com/@hartator/benchmark-headless-chrome-vs-phantomjs-e7f44c6956c">Headless Chrome vs PhantomJS Benchmark</a> и <a href="https://infinum.co/the-capsized-eight/superfast-csv-imports-using-postgresqls-copy">Superfast CSV imports using PostgreSQL’s COPY command</a></li>
-  <li><a href="https://blog.lelonek.me/what-service-objects-are-not-7abef8aa2f99">What service objects are not</a>, <a href="https://medium.com/@carlescliment/about-rails-concerns-a6b2f1776d7d">About Rails concerns</a> и <a href="https://github.com/collectiveidea/interactor">Interactor - a common interface for performing complex user interactions</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://code.facebook.com/posts/274518539716230">Announcing Yarn 1.0</a>, <a href="https://medium.com/reverdev/why-we-moved-from-angular-2-to-vue-js-and-why-we-didnt-choose-react-ef807d9f4163">Why we moved from Angular 2 to Vue.js (and why we didn’t choose React)</a> и <a href="https://medium.com/open-collective/cycle-js-a-unified-theory-of-everything-for-javascript-e266ac9a59ad">Cycle.js: A Unified Theory of Everything for JavaScript</a></li>
-  <li><a href="https://evilmartians.com/chronicles/size-limit-make-the-web-lighter">Size Limit: Make the Web lighter</a>, <a href="https://appleple.github.io/lookforward/">LookForward.js - a small library that helps you to create smooth transitions between pages with the easiest way</a>, <a href="https://github.com/renatorib/react-powerplug">React PowerPlug - set of components to you add different types of state in your dumb components</a> и <a href="https://okazari.github.io/Rythm.js/">Rythm.js - a javascript library that makes your page dance</a></li>
-</ul>
-
-<h2 id="section">В гостях - Иван Фокеев</h2>
-
-<ul>
-  <li><a href="https://github.com/ifokeev">Github</a></li>
-  <li><a href="https://statsbot.co/">Work</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 11 Sep 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/09/11/podcast-05-36.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/09/11/podcast-05-36.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0536.mp3" length="54304164" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0536.mp3" fileSize="54304164" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Gemfile’s new clothes, Introduction to Concurr...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Gemfile’s new clothes, Introduction to Concurrency Models with Ruby. Part II и Rails on Docker: Using Docker Compose with Your Ruby on Rails Apps
-
-  
-Headless Chrome vs PhantomJS Benchmark и Superfast CSV imports using PostgreSQL’s COPY command
-
-  
-What service objects are not, About Rails concerns и Interactor - a common interface for performing complex user interactions
-
-
-
-JavaScript
-
-
-  
-Announcing Yarn 1.0, Why we moved from Angular 2 to Vue.js (and why we didn’t choose React) и Cycle.js: A Unified Theory of Everything for JavaScript
-
-  
-Size Limit: Make the Web lighter, LookForward.js - a small library that helps you to create smooth transitions between pages with the easiest way, React PowerPlug - set of components to you add different types of state in your dumb components и Rythm.js - a javascript library that makes your page dance
-
-
-
-В гостях - Иван Фокеев
-
-
-  Github
-  Work
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0536.png"/>
-  <itunes:duration>00:56:32</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
