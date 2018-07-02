@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 25 Jun 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 02 Jul 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>26 выпуск 06 сезона. Rails 5.2 uses AES-256-GCM authenticated encryption, ECMAScript 2018, Face-api.js, Rabbit Ear и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/06/26/rails-5-2-uses-aes-256-gcm-authenticated-encryption-as-default-cipher-for-encrypting-messages.html">Rails 5.2 uses AES-256-GCM authenticated encryption as default cipher for encrypting messages</a>, <a href="https://zverok.github.io/blog/2018-06-26-pattern-matching.html">Quest for Ruby Pattern Matching</a> и <a href="https://medium.com/@scottm/find-the-cause-of-randomly-failing-tests-with-rspec-bisect-dfe9ee2a70c2">Find the cause of randomly failing tests with RSpec bisect</a></li>
+  <li><a href="https://reinteractive.com/posts/358-frankenstein-s-activerecord-how-to-stitch-together-complex-activerecord-queries-from-simple-parts">Frankenstein’s ActiveRecord: How to stitch together complex ActiveRecord queries from simple parts</a> и <a href="https://mixandgo.com/learn/understanding-boolean-operator-precedence-in-ruby">Understanding Boolean Operator Precedence in Ruby (&#x26;&#x26;, and, ||, or)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://www.ecma-international.org/publications/standards/Ecma-262.htm">ECMAScript 2018 Language Specification Approved and Posted</a>, <a href="https://medium.com/@omm2/doing-vue-after-three-years-with-react-3d36d53abbd6">Doing Vue after three years with React</a> и <a href="https://hackernoon.com/i-abandonded-react-in-favor-of-hyperapp-heres-why-df65638f8a79">I abandoned React in favor of Hyperapp — Here’s why</a></li>
+  <li><a href="https://blog.apptension.com/2018/06/27/tensorflow-js-machine-learning-and-flappy-bird-frontend-artificial-intelligence/">TensorFlow.js, Machine Learning and Flappy Bird: Frontend Artificial Intelligence</a>, <a href="https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07">Face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js</a>, <a href="https://github.com/leptojs/lepto">Lepto - automated image Editing, Optimization and Analysis via CLI and a web interface</a>, <a href="https://rabbitear.org/">Rabbit Ear - a creative coding javascript library for designing origami</a> и <a href="https://tenori-off.glitch.me/#">Tenori-on✨ - a dope electronic music instrument sequencer thinkie that Yamaha made for a hot minute</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/06/26/rails-5-2-uses-aes-256-gcm-authenticated-encryption-as-default-cipher-for-encrypting-messages.html">Rails 5.2 uses AES-256-GCM authenticated encryption as default cipher for encrypting messages</a>, <a href="https://zverok.github.io/blog/2018-06-26-pattern-matching.html">Quest for Ruby Pattern Matching</a> и <a href="https://medium.com/@scottm/find-the-cause-of-randomly-failing-tests-with-rspec-bisect-dfe9ee2a70c2">Find the cause of randomly failing tests with RSpec bisect</a></li>
+  <li><a href="https://reinteractive.com/posts/358-frankenstein-s-activerecord-how-to-stitch-together-complex-activerecord-queries-from-simple-parts">Frankenstein’s ActiveRecord: How to stitch together complex ActiveRecord queries from simple parts</a> и <a href="https://mixandgo.com/learn/understanding-boolean-operator-precedence-in-ruby">Understanding Boolean Operator Precedence in Ruby (&#x26;&#x26;, and, ||, or)</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="http://www.ecma-international.org/publications/standards/Ecma-262.htm">ECMAScript 2018 Language Specification Approved and Posted</a>, <a href="https://medium.com/@omm2/doing-vue-after-three-years-with-react-3d36d53abbd6">Doing Vue after three years with React</a> и <a href="https://hackernoon.com/i-abandonded-react-in-favor-of-hyperapp-heres-why-df65638f8a79">I abandoned React in favor of Hyperapp — Here’s why</a></li>
+  <li><a href="https://blog.apptension.com/2018/06/27/tensorflow-js-machine-learning-and-flappy-bird-frontend-artificial-intelligence/">TensorFlow.js, Machine Learning and Flappy Bird: Frontend Artificial Intelligence</a>, <a href="https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07">Face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js</a>, <a href="https://github.com/leptojs/lepto">Lepto - automated image Editing, Optimization and Analysis via CLI and a web interface</a>, <a href="https://rabbitear.org/">Rabbit Ear - a creative coding javascript library for designing origami</a> и <a href="https://tenori-off.glitch.me/#">Tenori-on✨ - a dope electronic music instrument sequencer thinkie that Yamaha made for a hot minute</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 02 Jul 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/07/02/podcast-06-26.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/02/podcast-06-26.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0626.mp3" length="25797674" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0626.mp3" fileSize="25797674" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.2 uses AES-256-GCM authenticated encry...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.2 uses AES-256-GCM authenticated encryption as default cipher for encrypting messages, Quest for Ruby Pattern Matching и Find the cause of randomly failing tests with RSpec bisect
+
+  
+Frankenstein’s ActiveRecord: How to stitch together complex ActiveRecord queries from simple parts и Understanding Boolean Operator Precedence in Ruby (&amp;&amp;, and, ||, or)
+
+
+
+JavaScript
+
+
+  
+ECMAScript 2018 Language Specification Approved and Posted, Doing Vue after three years with React и I abandoned React in favor of Hyperapp — Here’s why
+
+  
+TensorFlow.js, Machine Learning and Flappy Bird: Frontend Artificial Intelligence, Face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js, Lepto - automated image Editing, Optimization and Analysis via CLI and a web interface, Rabbit Ear - a creative coding javascript library for designing origami и Tenori-on✨ - a dope electronic music instrument sequencer thinkie that Yamaha made for a hot minute
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0626.png"/>
+  <itunes:duration>00:26:50</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>25 выпуск 06 сезона. Ruby 2.5 and CGI.escape, Electron 3.0.0-beta.1, V8 v6.8, ESLint v5.0.0, MobX 5, Breaking Up a Monolith и прочее</title>
   <description>
@@ -3618,118 +3702,6 @@ The many faces of this in javascript, Asynchronous stack traces: why await beats
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0540.png"/>
   <itunes:duration>00:30:02</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>39 выпуск 05 сезона. Refinery CMS 4.0.0, Brakeman 4.0, React v16.0, Nullalign, Draggable, Lozad.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.refinerycms.com/blog/posts/refinery-cms-4-dot-0-dot-0-released-with-rails-5-dot-1-support">Refinery CMS 4.0.0 Released with Rails 5.1 support</a>, <a href="https://brakemanscanner.org/blog/2017/09/25/brakeman-4-dot-0-released/">Brakeman 4.0 Released</a>, <a href="http://mlomnicki.com/yield-self-in-ruby-25/">yield_self in Ruby 2.5</a> и <a href="http://blog.bigbinary.com/2017/09/25/csv-row-each-and-delete-if-return-enumerator-when-no-block-given.html">CSV::Row#each etc. return enumerator when no block given</a></li>
-  <li><a href="http://www.carlosramireziii.com/decide-for-yourself-if-rails-is-actually-dying.html">Decide For Yourself If Rails Is Actually Dying</a>, <a href="https://www.monterail.com/blog/ruby-without-rails">What Did I Learn After Going Eighteen Months Without Rails</a> и <a href="https://github.com/puma/puma/issues/1421">Kernel#fork broken in MacOS 10.13 High Sierra. Puma and Unicorn are affected</a></li>
-  <li><a href="https://karolgalanciak.com/blog/2017/09/24/do-or-do-not-there-is-no-try-object-number-try-considered-harmful/">Do. Or Do Not. There Is No Try - Object#try Considered Harmful</a>, <a href="https://github.com/tcopeland/nullalign">Nullalign - a tool to detect missing non-null constraints in Rails projects</a> и <a href="https://www.driftingruby.com/episodes/creating-a-basic-gem">Creating a Basic Gem</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://reactjs.org/blog/2017/09/26/react-v16.0.html">React v16.0</a>, <a href="https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/">React 16: A look inside an API-compatible rewrite of our frontend UI library</a> и <a href="https://code.facebook.com/posts/121714468491809/relicensing-the-graphql-specification/">Relicensing the GraphQL specification</a></li>
-  <li><a href="http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/">setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation</a>, <a href="https://www.lullabot.com/articles/fundamentals-of-responsive-images">Fundamentals of Responsive Images</a>, <a href="https://images.guide/">Essential Image Optimization (ebook)</a></li>
-  <li><a href="https://shopify.github.io/draggable/">Draggable -  lightweight, responsive, modern drag &amp; drop library</a>, <a href="https://css-tricks.com/lozad-js-performant-lazy-loading-images/">Lozad.js: Performant Lazy Loading of Images</a> и <a href="https://github.com/yangshun/tech-interview-handbook">Technical and non-technical guide for rocking your coding interview</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #18</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.refinerycms.com/blog/posts/refinery-cms-4-dot-0-dot-0-released-with-rails-5-dot-1-support">Refinery CMS 4.0.0 Released with Rails 5.1 support</a>, <a href="https://brakemanscanner.org/blog/2017/09/25/brakeman-4-dot-0-released/">Brakeman 4.0 Released</a>, <a href="http://mlomnicki.com/yield-self-in-ruby-25/">yield_self in Ruby 2.5</a> и <a href="http://blog.bigbinary.com/2017/09/25/csv-row-each-and-delete-if-return-enumerator-when-no-block-given.html">CSV::Row#each etc. return enumerator when no block given</a></li>
-  <li><a href="http://www.carlosramireziii.com/decide-for-yourself-if-rails-is-actually-dying.html">Decide For Yourself If Rails Is Actually Dying</a>, <a href="https://www.monterail.com/blog/ruby-without-rails">What Did I Learn After Going Eighteen Months Without Rails</a> и <a href="https://github.com/puma/puma/issues/1421">Kernel#fork broken in MacOS 10.13 High Sierra. Puma and Unicorn are affected</a></li>
-  <li><a href="https://karolgalanciak.com/blog/2017/09/24/do-or-do-not-there-is-no-try-object-number-try-considered-harmful/">Do. Or Do Not. There Is No Try - Object#try Considered Harmful</a>, <a href="https://github.com/tcopeland/nullalign">Nullalign - a tool to detect missing non-null constraints in Rails projects</a> и <a href="https://www.driftingruby.com/episodes/creating-a-basic-gem">Creating a Basic Gem</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://reactjs.org/blog/2017/09/26/react-v16.0.html">React v16.0</a>, <a href="https://code.facebook.com/posts/1716776591680069/react-16-a-look-inside-an-api-compatible-rewrite-of-our-frontend-ui-library/">React 16: A look inside an API-compatible rewrite of our frontend UI library</a> и <a href="https://code.facebook.com/posts/121714468491809/relicensing-the-graphql-specification/">Relicensing the GraphQL specification</a></li>
-  <li><a href="http://voidcanvas.com/setimmediate-vs-nexttick-vs-settimeout/">setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation</a>, <a href="https://www.lullabot.com/articles/fundamentals-of-responsive-images">Fundamentals of Responsive Images</a>, <a href="https://images.guide/">Essential Image Optimization (ebook)</a></li>
-  <li><a href="https://shopify.github.io/draggable/">Draggable -  lightweight, responsive, modern drag &amp; drop library</a>, <a href="https://css-tricks.com/lozad-js-performant-lazy-loading-images/">Lozad.js: Performant Lazy Loading of Images</a> и <a href="https://github.com/yangshun/tech-interview-handbook">Technical and non-technical guide for rocking your coding interview</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #18</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 02 Oct 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/10/02/podcast-05-39.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/10/02/podcast-05-39.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0539.mp3" length="30970162" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0539.mp3" fileSize="30970162" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Refinery CMS 4.0.0 Released with Rails 5.1 sup...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Refinery CMS 4.0.0 Released with Rails 5.1 support, Brakeman 4.0 Released, yield_self in Ruby 2.5 и CSV::Row#each etc. return enumerator when no block given
-
-  
-Decide For Yourself If Rails Is Actually Dying, What Did I Learn After Going Eighteen Months Without Rails и Kernel#fork broken in MacOS 10.13 High Sierra. Puma and Unicorn are affected
-
-  
-Do. Or Do Not. There Is No Try - Object#try Considered Harmful, Nullalign - a tool to detect missing non-null constraints in Rails projects и Creating a Basic Gem
-
-
-
-JavaScript
-
-
-  
-React v16.0, React 16: A look inside an API-compatible rewrite of our frontend UI library и Relicensing the GraphQL specification
-
-  
-setImmediate() vs nextTick() vs setTimeout(fn,0) – in depth explanation, Fundamentals of Responsive Images, Essential Image Optimization (ebook)
-
-  
-Draggable -  lightweight, responsive, modern drag &amp; drop library, Lozad.js: Performant Lazy Loading of Images и Technical and non-technical guide for rocking your coding interview
-
-
-
-Conferences
-
-
-  Ruby Meditation #18
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0539.png"/>
-  <itunes:duration>00:32:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
