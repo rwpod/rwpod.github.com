@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 02 Jul 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 02 Jul 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 09 Jul 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>27 выпуск 06 сезона. Ruby 2.6 adds endless range, Vue.js: the good, the meh, and the ugly, Pnpm, Rete.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/07/04/ruby-2-6-adds-endless-range.html">Ruby 2.6 adds endless range</a> и <a href="https://blog.bigbinary.com/2018/07/03/rails-5.2-adds-write_multi-for-cache-writes">Rails 5.2 added method write_multi to cache store</a></li>
+  <li><a href="https://medium.com/@jmanrubia/escaping-the-spa-rabbit-hole-with-turbolinks-903f942bf52c">Escaping the SPA rabbit hole with modern Rails</a> и <a href="https://blog.appsignal.com/2018/07/03/custom-exceptions-in-ruby.html">Custom Exceptions in Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102">React Native: A retrospective from the mobile-engineering team at Udacity</a>, <a href="https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/">Reduce JavaScript Payloads with Tree Shaking</a> и <a href="https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684">Vue.js: the good, the meh, and the ugly</a></li>
+  <li><a href="https://frontendmayhem.com/writing-your-own-eslint-plugin-autofix-code/">Writing your own ESLint Plugin: Autofix code</a>, <a href="https://pnpm.js.org/">Pnpm - fast, disk space efficient package manager</a> и <a href="https://github.com/retejs/rete">Rete.js - JavaScript framework for visual programming</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/07/04/ruby-2-6-adds-endless-range.html">Ruby 2.6 adds endless range</a> и <a href="https://blog.bigbinary.com/2018/07/03/rails-5.2-adds-write_multi-for-cache-writes">Rails 5.2 added method write_multi to cache store</a></li>
+  <li><a href="https://medium.com/@jmanrubia/escaping-the-spa-rabbit-hole-with-turbolinks-903f942bf52c">Escaping the SPA rabbit hole with modern Rails</a> и <a href="https://blog.appsignal.com/2018/07/03/custom-exceptions-in-ruby.html">Custom Exceptions in Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://engineering.udacity.com/react-native-a-retrospective-from-the-mobile-engineering-team-at-udacity-89975d6a8102">React Native: A retrospective from the mobile-engineering team at Udacity</a>, <a href="https://developers.google.com/web/fundamentals/performance/optimizing-javascript/tree-shaking/">Reduce JavaScript Payloads with Tree Shaking</a> и <a href="https://medium.com/@Pier/vue-js-the-good-the-meh-and-the-ugly-82800bbe6684">Vue.js: the good, the meh, and the ugly</a></li>
+  <li><a href="https://frontendmayhem.com/writing-your-own-eslint-plugin-autofix-code/">Writing your own ESLint Plugin: Autofix code</a>, <a href="https://pnpm.js.org/">Pnpm - fast, disk space efficient package manager</a> и <a href="https://github.com/retejs/rete">Rete.js - JavaScript framework for visual programming</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 09 Jul 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/07/09/podcast-06-27.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/09/podcast-06-27.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0627.mp3" length="30539880" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0627.mp3" fileSize="30539880" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6 adds endless range и Rails 5.2 added ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6 adds endless range и Rails 5.2 added method write_multi to cache store
+
+  
+Escaping the SPA rabbit hole with modern Rails и Custom Exceptions in Ruby
+
+
+
+JavaScript
+
+
+  
+React Native: A retrospective from the mobile-engineering team at Udacity, Reduce JavaScript Payloads with Tree Shaking и Vue.js: the good, the meh, and the ugly
+
+  
+Writing your own ESLint Plugin: Autofix code, Pnpm - fast, disk space efficient package manager и Rete.js - JavaScript framework for visual programming
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0627.png"/>
+  <itunes:duration>00:31:47</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>26 выпуск 06 сезона. Rails 5.2 uses AES-256-GCM authenticated encryption, ECMAScript 2018, Face-api.js, Rabbit Ear и прочее</title>
   <description>
@@ -3618,90 +3702,6 @@ React Sight - a live view of the component hierarchy tree of your React applicat
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0541.png"/>
   <itunes:duration>00:53:05</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>40 выпуск 05 сезона. On Bundler 2.0 compatibility, Ecto vs ActiveRecord, the road to Ember 3.0, PostgreSQL 10, CKEditor 5 и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://depfu.com/blog/2017/10/04/on-bundler-20-compatibility">On Bundler 2.0 compatibility</a> и <a href="https://www.dailydrip.com/blog/ecto-vs-activerecord">Ecto vs ActiveRecord</a></li>
-  <li><a href="https://www.postgresql.org/about/news/1786/">PostgreSQL 10 Released</a>, <a href="https://github.com/rkrage/pg_party">PgParty - ActiveRecord migrations and model helpers for creating and managing PostgreSQL 10 partitions</a> и <a href="https://github.com/exAspArk/graphql-errors">Graphql-errors - provides a simple error handling for graphql-ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://emberjs.com/blog/2017/10/03/the-road-to-ember-3-0.html">The Road to Ember 3.0</a>, <a href="https://www.sitepen.com/blog/2017/10/06/improving-performance-with-the-paint-timing-api/">Improving Performance with the Paint Timing API</a> и <a href="https://medium.com/dev-channel/the-future-of-accessibility-for-custom-elements-291cfb3ffabe">The future of accessibility for custom elements</a></li>
-  <li><a href="https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e">The many faces of this in javascript</a>, <a href="https://mathiasbynens.be/notes/async-stack-traces">Asynchronous stack traces: why await beats .then()</a> и <a href="https://ckeditor.com/ckeditor-5-builds/">CKEditor 5 Builds</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://depfu.com/blog/2017/10/04/on-bundler-20-compatibility">On Bundler 2.0 compatibility</a> и <a href="https://www.dailydrip.com/blog/ecto-vs-activerecord">Ecto vs ActiveRecord</a></li>
-  <li><a href="https://www.postgresql.org/about/news/1786/">PostgreSQL 10 Released</a>, <a href="https://github.com/rkrage/pg_party">PgParty - ActiveRecord migrations and model helpers for creating and managing PostgreSQL 10 partitions</a> и <a href="https://github.com/exAspArk/graphql-errors">Graphql-errors - provides a simple error handling for graphql-ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://emberjs.com/blog/2017/10/03/the-road-to-ember-3-0.html">The Road to Ember 3.0</a>, <a href="https://www.sitepen.com/blog/2017/10/06/improving-performance-with-the-paint-timing-api/">Improving Performance with the Paint Timing API</a> и <a href="https://medium.com/dev-channel/the-future-of-accessibility-for-custom-elements-291cfb3ffabe">The future of accessibility for custom elements</a></li>
-  <li><a href="https://blog.pragmatists.com/the-many-faces-of-this-in-javascript-5f8be40df52e">The many faces of this in javascript</a>, <a href="https://mathiasbynens.be/notes/async-stack-traces">Asynchronous stack traces: why await beats .then()</a> и <a href="https://ckeditor.com/ckeditor-5-builds/">CKEditor 5 Builds</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 09 Oct 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/10/09/podcast-05-40.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/10/09/podcast-05-40.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0540.mp3" length="28866460" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0540.mp3" fileSize="28866460" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  On Bundler 2.0 compatibility и Ecto vs ActiveR...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-On Bundler 2.0 compatibility и Ecto vs ActiveRecord
-
-  
-PostgreSQL 10 Released, PgParty - ActiveRecord migrations and model helpers for creating and managing PostgreSQL 10 partitions и Graphql-errors - provides a simple error handling for graphql-ruby
-
-
-
-JavaScript
-
-
-  
-The Road to Ember 3.0, Improving Performance with the Paint Timing API и The future of accessibility for custom elements
-
-  
-The many faces of this in javascript, Asynchronous stack traces: why await beats .then() и CKEditor 5 Builds
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0540.png"/>
-  <itunes:duration>00:30:02</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
