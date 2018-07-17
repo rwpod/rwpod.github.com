@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 09 Jul 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 09 Jul 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 17 Jul 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 17 Jul 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>28 выпуск 06 сезона. TypeScript 3.0 RC, Ruby 2.6 adds String#split with block, Goodbye Microservices, Chessboard.jsx и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/07/17/ruby-2-6-adds-split-with-block.html">Ruby 2.6 adds String#split with block</a>, <a href="https://blog.bigbinary.com/2018/07/10/ruby-2.6-raise-exception-for-else-without-rescue.html">Ruby 2.6 raises exception when ‘else’ is used inside ‘begin..end’ block without ‘rescue’</a>, <a href="https://www.imaginarycloud.com/blog/queries-on-rails/">Queries on Rails: extensive guide</a> и <a href="https://blog.appsignal.com/2018/07/10/ruby-magic-slurping-and-streaming-files.html">Under the Hood: “Slurping” and Streaming Files in Ruby</a></li>
+  <li><a href="https://segment.com/blog/goodbye-microservices/">Goodbye Microservices: From 100s of problem children to 1 superstar</a> и <a href="https://buttercms.com/blog/load-testing-round-up-8-tools-you-can-use-to-strengthen-your-stack">Load Testing Round Up: 8 tools you can use to strengthen your stack</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes">Postmortem for Malicious Packages Published on July 12th, 2018</a>, <a href="https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages">Two-factor authentication protection for packages</a>, <a href="https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/">Announcing TypeScript 3.0 RC</a> и <a href="https://cloudfour.com/thinks/when-7-kb-equals-7-mb/">When 7 KB Equals 7 MB</a></li>
+  <li><a href="https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d">The Best Explanation of JavaScript Reactivity</a>, <a href="https://www.chessboardjsx.com/">Chessboard.jsx - a customizable chessboard component that works as a standalone drag and drop chessboard on standard and touch devices</a> и <a href="https://github.com/rhysd/vim.wasm">Vim editor ported to WebAssembly</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/07/17/ruby-2-6-adds-split-with-block.html">Ruby 2.6 adds String#split with block</a>, <a href="https://blog.bigbinary.com/2018/07/10/ruby-2.6-raise-exception-for-else-without-rescue.html">Ruby 2.6 raises exception when ‘else’ is used inside ‘begin..end’ block without ‘rescue’</a>, <a href="https://www.imaginarycloud.com/blog/queries-on-rails/">Queries on Rails: extensive guide</a> и <a href="https://blog.appsignal.com/2018/07/10/ruby-magic-slurping-and-streaming-files.html">Under the Hood: “Slurping” and Streaming Files in Ruby</a></li>
+  <li><a href="https://segment.com/blog/goodbye-microservices/">Goodbye Microservices: From 100s of problem children to 1 superstar</a> и <a href="https://buttercms.com/blog/load-testing-round-up-8-tools-you-can-use-to-strengthen-your-stack">Load Testing Round Up: 8 tools you can use to strengthen your stack</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes">Postmortem for Malicious Packages Published on July 12th, 2018</a>, <a href="https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages">Two-factor authentication protection for packages</a>, <a href="https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/">Announcing TypeScript 3.0 RC</a> и <a href="https://cloudfour.com/thinks/when-7-kb-equals-7-mb/">When 7 KB Equals 7 MB</a></li>
+  <li><a href="https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d">The Best Explanation of JavaScript Reactivity</a>, <a href="https://www.chessboardjsx.com/">Chessboard.jsx - a customizable chessboard component that works as a standalone drag and drop chessboard on standard and touch devices</a> и <a href="https://github.com/rhysd/vim.wasm">Vim editor ported to WebAssembly</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 17 Jul 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/07/17/podcast-06-28.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/17/podcast-06-28.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0628.mp3" length="34280241" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0628.mp3" fileSize="34280241" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6 adds String#split with block, Ruby 2....</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6 adds String#split with block, Ruby 2.6 raises exception when ‘else’ is used inside ‘begin..end’ block without ‘rescue’, Queries on Rails: extensive guide и Under the Hood: “Slurping” and Streaming Files in Ruby
+
+  
+Goodbye Microservices: From 100s of problem children to 1 superstar и Load Testing Round Up: 8 tools you can use to strengthen your stack
+
+
+
+JavaScript
+
+
+  
+Postmortem for Malicious Packages Published on July 12th, 2018, Two-factor authentication protection for packages, Announcing TypeScript 3.0 RC и When 7 KB Equals 7 MB
+
+  
+The Best Explanation of JavaScript Reactivity, Chessboard.jsx - a customizable chessboard component that works as a standalone drag and drop chessboard on standard and touch devices и Vim editor ported to WebAssembly
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0628.png"/>
+  <itunes:duration>00:35:41</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>27 выпуск 06 сезона. Ruby 2.6 adds endless range, Vue.js: the good, the meh, and the ugly, Pnpm, Rete.js и прочее</title>
   <description>
@@ -3587,121 +3671,6 @@ Introducing PayPal’s open-source cross-domain javascript suite и Say hello to
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0542.png"/>
   <itunes:duration>00:22:53</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>41 выпуск 05 сезона. Ruby 2.5.0-preview1, Reusable UI components in Rails, React Sight, ProseMirror и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2017/10/10/ruby-2-5-0-preview1-released/">Ruby 2.5.0-preview1 Released</a>, <a href="https://mlomnicki.com/improved-stascktrace-display-in-ruby25/">Improved stacktrace display in Ruby 2.5</a>, <a href="https://blog.bigbinary.com/2017/10/09/expirty-option-for-signed-and-encrypted-cookies-in-Rails-5-2.html">Rails 5.2 adds expiry option for signed and encrypted cookies and adds relative expiry time</a> и <a href="http://blog.rubygems.org/2017/10/09/unsafe-object-deserialization-vulnerability.html">Unsafe Object Deserialization Vulnerability in RubyGems</a></li>
-  <li><a href="https://blog.phusion.nl/2017/10/13/why-ruby-app-servers-break-on-macos-high-sierra-and-what-can-be-done-about-it/">Why Ruby app servers break on macOS High Sierra and what can be done about it</a> и <a href="https://www.speedshop.co/2017/10/12/appserver.html">Configuring Puma, Unicorn and Passenger for Maximum Efficiency</a></li>
-  <li><a href="http://www.carlosramireziii.com/which-json-serializer-to-use-for-a-new-rails-api.html">Which JSON Serializer To Use For A New Rails API?</a>, <a href="https://goiabada.blog/rails-components-faedd412ce19">Reusable UI components in Rails</a> и <a href="https://www.codementor.io/omedale/simple-approach-to-rails-5-api-authentication-with-json-web-token-cpqbgrdo6">Simple approach to Rails 5 API authentication with Json Web Token</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://binary-studio.com/2017/09/12/love-hate-electron/">Things to love and hate in Electron</a> и <a href="https://medium.com/@connorleech/build-a-shopping-cart-with-vue-js-and-element-ui-no-vuex-54682e9df5cd">Build a shopping cart with Vue.js and Element UI (no Vuex)</a></li>
-  <li><a href="https://eev.ee/blog/2017/10/07/javascript-got-better-while-i-wasnt-looking/">JavaScript got better while I wasn’t looking</a> и <a href="https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html">JavaScript’s Promise Leaks Memory</a></li>
-  <li><a href="https://github.com/React-Sight/React-Sight">React Sight - a live view of the component hierarchy tree of your React application</a>, <a href="http://prosemirror.net/">ProseMirror - in-browser semantic rich text editing</a> и <a href="https://blog.taucharts.com/taucharts-one/">Taucharts One</a></li>
-</ul>
-
-<h2 id="section">В гостях - Тимофей Лавник</h2>
-
-<ul>
-  <li><a href="https://github.com/nwtima">Github</a></li>
-  <li><a href="https://www.linkedin.com/in/tim-lavnik-bb582bba/">Linkedin</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2017/10/10/ruby-2-5-0-preview1-released/">Ruby 2.5.0-preview1 Released</a>, <a href="https://mlomnicki.com/improved-stascktrace-display-in-ruby25/">Improved stacktrace display in Ruby 2.5</a>, <a href="https://blog.bigbinary.com/2017/10/09/expirty-option-for-signed-and-encrypted-cookies-in-Rails-5-2.html">Rails 5.2 adds expiry option for signed and encrypted cookies and adds relative expiry time</a> и <a href="http://blog.rubygems.org/2017/10/09/unsafe-object-deserialization-vulnerability.html">Unsafe Object Deserialization Vulnerability in RubyGems</a></li>
-  <li><a href="https://blog.phusion.nl/2017/10/13/why-ruby-app-servers-break-on-macos-high-sierra-and-what-can-be-done-about-it/">Why Ruby app servers break on macOS High Sierra and what can be done about it</a> и <a href="https://www.speedshop.co/2017/10/12/appserver.html">Configuring Puma, Unicorn and Passenger for Maximum Efficiency</a></li>
-  <li><a href="http://www.carlosramireziii.com/which-json-serializer-to-use-for-a-new-rails-api.html">Which JSON Serializer To Use For A New Rails API?</a>, <a href="https://goiabada.blog/rails-components-faedd412ce19">Reusable UI components in Rails</a> и <a href="https://www.codementor.io/omedale/simple-approach-to-rails-5-api-authentication-with-json-web-token-cpqbgrdo6">Simple approach to Rails 5 API authentication with Json Web Token</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://binary-studio.com/2017/09/12/love-hate-electron/">Things to love and hate in Electron</a> и <a href="https://medium.com/@connorleech/build-a-shopping-cart-with-vue-js-and-element-ui-no-vuex-54682e9df5cd">Build a shopping cart with Vue.js and Element UI (no Vuex)</a></li>
-  <li><a href="https://eev.ee/blog/2017/10/07/javascript-got-better-while-i-wasnt-looking/">JavaScript got better while I wasn’t looking</a> и <a href="https://alexn.org/blog/2017/10/11/javascript-promise-leaks-memory.html">JavaScript’s Promise Leaks Memory</a></li>
-  <li><a href="https://github.com/React-Sight/React-Sight">React Sight - a live view of the component hierarchy tree of your React application</a>, <a href="http://prosemirror.net/">ProseMirror - in-browser semantic rich text editing</a> и <a href="https://blog.taucharts.com/taucharts-one/">Taucharts One</a></li>
-</ul>
-
-<h2 id="section">В гостях - Тимофей Лавник</h2>
-
-<ul>
-  <li><a href="https://github.com/nwtima">Github</a></li>
-  <li><a href="https://www.linkedin.com/in/tim-lavnik-bb582bba/">Linkedin</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Sun, 15 Oct 2017 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2017/10/15/podcast-05-41.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/10/15/podcast-05-41.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0541.mp3" length="50982898" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0541.mp3" fileSize="50982898" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.5.0-preview1 Released, Improved stacktr...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.5.0-preview1 Released, Improved stacktrace display in Ruby 2.5, Rails 5.2 adds expiry option for signed and encrypted cookies and adds relative expiry time и Unsafe Object Deserialization Vulnerability in RubyGems
-
-  
-Why Ruby app servers break on macOS High Sierra and what can be done about it и Configuring Puma, Unicorn and Passenger for Maximum Efficiency
-
-  
-Which JSON Serializer To Use For A New Rails API?, Reusable UI components in Rails и Simple approach to Rails 5 API authentication with Json Web Token
-
-
-
-JavaScript
-
-
-  
-Things to love and hate in Electron и Build a shopping cart with Vue.js and Element UI (no Vuex)
-
-  
-JavaScript got better while I wasn’t looking и JavaScript’s Promise Leaks Memory
-
-  
-React Sight - a live view of the component hierarchy tree of your React application, ProseMirror - in-browser semantic rich text editing и Taucharts One
-
-
-
-В гостях - Тимофей Лавник
-
-
-  Github
-  Linkedin
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0541.png"/>
-  <itunes:duration>00:53:05</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
