@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 23 Jul 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 23 Jul 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 30 Jul 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,190 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>RWPod Кафе 8: Anton Davydov и Hanami</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:</p>
+
+<ul>
+  <li>Ruby/Rails development</li>
+  <li><a href="https://rubykaigi.org/2018">RubyKaigi 2018</a></li>
+  <li><a href="https://rubykaigi.org/2018/presentations/anton_davydov.html#may31">Architecture of hanami applications</a></li>
+  <li>Впечатления от Японии</li>
+  <li>Подача докладов на конференции</li>
+  <li>Open source и Hanami</li>
+  <li>Monolith vs microservices</li>
+  <li><a href="https://segment.com/blog/goodbye-microservices/">Goodbye Microservices: From 100s of problem children to 1 superstar</a></li>
+  <li>Healthy software development</li>
+  <li><a href="https://tonsky.livejournal.com/317265.html">История одной депрессии</a></li>
+  <li>Mechanical Keyboard</li>
+  <li><a href="https://www.hhkeyboard.com/">Happy Hacking Keyboard Professional 2</a></li>
+  <li>
+    <p>Пожелания слушателям</p>
+  </li>
+  <li><a href="http://davydovanton.com/">Site</a></li>
+  <li><a href="http://blog.davydovanton.com/">Blog</a></li>
+  <li><a href="https://github.com/davydovanton">Github</a></li>
+  <li><a href="https://twitter.com/anton_davydov">Twitter</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:</p>
+
+<ul>
+  <li>Ruby/Rails development</li>
+  <li><a href="https://rubykaigi.org/2018">RubyKaigi 2018</a></li>
+  <li><a href="https://rubykaigi.org/2018/presentations/anton_davydov.html#may31">Architecture of hanami applications</a></li>
+  <li>Впечатления от Японии</li>
+  <li>Подача докладов на конференции</li>
+  <li>Open source и Hanami</li>
+  <li>Monolith vs microservices</li>
+  <li><a href="https://segment.com/blog/goodbye-microservices/">Goodbye Microservices: From 100s of problem children to 1 superstar</a></li>
+  <li>Healthy software development</li>
+  <li><a href="https://tonsky.livejournal.com/317265.html">История одной депрессии</a></li>
+  <li>Mechanical Keyboard</li>
+  <li><a href="https://www.hhkeyboard.com/">Happy Hacking Keyboard Professional 2</a></li>
+  <li>
+    <p>Пожелания слушателям</p>
+  </li>
+  <li><a href="http://davydovanton.com/">Site</a></li>
+  <li><a href="http://blog.davydovanton.com/">Blog</a></li>
+  <li><a href="https://github.com/davydovanton">Github</a></li>
+  <li><a href="https://twitter.com/anton_davydov">Twitter</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/07/30/cafe-008.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/30/cafe-008.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/cafe/008.mp3" length="50353070" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/cafe/008.mp3" fileSize="50353070" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:
+
+
+  Ruby/Rails development
+  RubyKaigi 2018
+  Architecture of hanami ap...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:
+
+
+  Ruby/Rails development
+  RubyKaigi 2018
+  Architecture of hanami applications
+  Впечатления от Японии
+  Подача докладов на конференции
+  Open source и Hanami
+  Monolith vs microservices
+  Goodbye Microservices: From 100s of problem children to 1 superstar
+  Healthy software development
+  История одной депрессии
+  Mechanical Keyboard
+  Happy Hacking Keyboard Professional 2
+  
+    Пожелания слушателям
+  
+  Site
+  Blog
+  Github
+  Twitter
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/cafe/008.png"/>
+  <itunes:duration>00:52:25</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>30 выпуск 06 сезона. Elixir v1.7, TypeScript 3.0, Angular v6.1, Ruby 2.6 adds Matrix#antisymmertic?, Ndb, jsQR и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
+  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
+  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
+  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
+  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Elixir v1.7 released, Ruby 2.6 adds Matrix#ant...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Elixir v1.7 released, Ruby 2.6 adds Matrix#antisymmertic? и Ruby 2.6 adds Binding#source_location
+
+  
+Six Tips for Mastering your Procfile, Ruby on Rails: send emails with style и Rails 5.2 credentials cheat cheat
+
+
+
+JavaScript
+
+
+  
+Announcing TypeScript 3.0 и Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more
+
+  
+Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools и jsQR - pure JavaScript QR code decoding library
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0630.png"/>
+  <itunes:duration>00:19:17</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>29 выпуск 06 сезона. Pundit v2.0.0, GraphQL Cache, The future of WebAssembly, PWACompat, Deterministic StyleSheets, CoolHue и прочее</title>
   <description>
@@ -3503,184 +3687,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0545.png"/>
   <itunes:duration>01:37:44</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>44 выпуск 05 сезона. Performance Improvements in Ruby 2.5, Testing Stripe with Rails and RSpec, Electron.NET и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.rubyguides.com/2017/11/ruby-2-5-performance/">Performance Improvements in Ruby 2.5</a>, <a href="https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot">Lucky, an experimental new web framework by thoughtbot</a> и <a href="https://blog.heroku.com/pci-compliance-for-heroku-shield">Announcing PCI Compliance for Heroku Shield</a></li>
-  <li><a href="http://blog.arkency.com/a-bug-that-only-appears-once-a-year/">A bug that only appears once a year</a>, <a href="http://blog.honeybadger.io/cleanly-scaling-sidekiq/">Cleanly Scaling Sidekiq</a> и <a href="https://hackernoon.com/testing-stripe-with-rails-and-rspec-de79e1206839">Testing Stripe with Rails and RSpec</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/the-node-js-collection/news-node-js-8-moves-into-long-term-support-and-node-js-9-becomes-the-new-current-release-line-74cf754a10a0">Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line</a>, <a href="https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced">Version 5.0.0 of Angular Now Available</a> и <a href="https://about.sourcegraph.com/graphql/graphql-at-massive-scale-graphql-as-the-glue-in-a-microservice-architecture/">GraphQL at massive scale: GraphQL as the glue in a microservice architecture</a></li>
-  <li><a href="https://github.com/ElectronNET/Electron.NET">Electron.NET - build cross platform desktop apps with ASP.NET NET Core</a>, <a href="https://maptalks.org/">Maptalks.js - a light JavaScript library for integrated 2D/3D maps</a>, <a href="https://frappe.github.io/charts/">Frappé Charts - a github-inspired simple and modern charts for the web with zero dependencies</a> и <a href="https://www.focusingly.net/">Focusingly - a JavaScript library for better focus styling</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://www.rubyguides.com/2017/11/ruby-2-5-performance/">Performance Improvements in Ruby 2.5</a>, <a href="https://robots.thoughtbot.com/lucky-an-experimental-new-web-framework-by-thoughtbot">Lucky, an experimental new web framework by thoughtbot</a> и <a href="https://blog.heroku.com/pci-compliance-for-heroku-shield">Announcing PCI Compliance for Heroku Shield</a></li>
-  <li><a href="http://blog.arkency.com/a-bug-that-only-appears-once-a-year/">A bug that only appears once a year</a>, <a href="http://blog.honeybadger.io/cleanly-scaling-sidekiq/">Cleanly Scaling Sidekiq</a> и <a href="https://hackernoon.com/testing-stripe-with-rails-and-rspec-de79e1206839">Testing Stripe with Rails and RSpec</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/the-node-js-collection/news-node-js-8-moves-into-long-term-support-and-node-js-9-becomes-the-new-current-release-line-74cf754a10a0">Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line</a>, <a href="https://blog.angular.io/version-5-0-0-of-angular-now-available-37e414935ced">Version 5.0.0 of Angular Now Available</a> и <a href="https://about.sourcegraph.com/graphql/graphql-at-massive-scale-graphql-as-the-glue-in-a-microservice-architecture/">GraphQL at massive scale: GraphQL as the glue in a microservice architecture</a></li>
-  <li><a href="https://github.com/ElectronNET/Electron.NET">Electron.NET - build cross platform desktop apps with ASP.NET NET Core</a>, <a href="https://maptalks.org/">Maptalks.js - a light JavaScript library for integrated 2D/3D maps</a>, <a href="https://frappe.github.io/charts/">Frappé Charts - a github-inspired simple and modern charts for the web with zero dependencies</a> и <a href="https://www.focusingly.net/">Focusingly - a JavaScript library for better focus styling</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 06 Nov 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/11/06/podcast-05-44.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/11/06/podcast-05-44.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0544.mp3" length="18457106" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0544.mp3" fileSize="18457106" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Performance Improvements in Ruby 2.5, Lucky, a...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Performance Improvements in Ruby 2.5, Lucky, an experimental new web framework by thoughtbot и Announcing PCI Compliance for Heroku Shield
-
-  
-A bug that only appears once a year, Cleanly Scaling Sidekiq и Testing Stripe with Rails and RSpec
-
-
-
-JavaScript
-
-
-  
-Node.js 8 Moves into Long-Term Support and Node.js 9 Becomes the New Current Release Line, Version 5.0.0 of Angular Now Available и GraphQL at massive scale: GraphQL as the glue in a microservice architecture
-
-  
-Electron.NET - build cross platform desktop apps with ASP.NET NET Core, Maptalks.js - a light JavaScript library for integrated 2D/3D maps, Frappé Charts - a github-inspired simple and modern charts for the web with zero dependencies и Focusingly - a JavaScript library for better focus styling
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0544.png"/>
-  <itunes:duration>00:19:12</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>43 выпуск 05 сезона. Hanami v1.1.0, Scaling the GitLab database, Modern JavaScript Explained For Dinosaurs, React-mosaic, HEML и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html">Announcing Hanami v1.1.0</a>, <a href="https://blog.bigbinary.com/2017/10/24/ruby-2.5-allows-rescue-inside-do-end-blocks">Ruby 2.5 allows rescue/else/ensure inside do/end blocks</a> и <a href="https://medium.com/@gorbikoff/ruby-hash-key-showdown-symbol-vs-string-c0655afbcfca">Ruby Hash[key] Showdown :symbol vs “string”</a></li>
-  <li><a href="https://about.gitlab.com/2017/10/02/scaling-the-gitlab-database/">Scaling the GitLab database</a>, <a href="https://ksylvest.com/posts/2017-10-27/transactions-in-ruby-on-rails-and-atomic-bugs">Transactions in Ruby on Rails and Atomic Bugs</a> и <a href="https://www.schneems.com/2017/10/23/wtf-is-a-thread/">WTF is a Thread</a></li>
-  <li><a href="https://www.practicalai.io/implementing-ocr-using-random-forest-classifier-ruby/">Implementing OCR using a Random Forest Classifier in Ruby</a>, <a href="https://chase.pursu.es/how-to-be-good-at-turbolinks-5.html">How to Be Good at Turbolinks 5</a> и <a href="https://www.driftingruby.com/episodes/sample-data-with-factory-bot-and-faker">Sample Data with Factory Bot and Faker</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/vulnerability/oct-2017-dos/">DOS security vulnerability, October 2017</a>, <a href="https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/">Saying Goodbye to Firebug</a> и <a href="https://redfin.engineering/i-watched-all-of-the-chrome-dev-summit-2017-videos-so-you-dont-have-to-9b62a593c3cb">I Watched All of the Chrome Dev Summit 2017 Videos So You Don’t Have To</a></li>
-  <li><a href="https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern JavaScript Explained For Dinosaurs</a> и <a href="https://medium.com/samsung-internet-dev/success-with-css-33215f481422">Success with CSS</a></li>
-  <li><a href="https://palantir.github.io/react-mosaic/">React-mosaic - a full-featured React Tiling Window Manager</a>, <a href="https://github.com/FormidableLabs/webpack-dashboard">Webpack-dashboard - a CLI dashboard for your webpack dev server</a>, <a href="https://heml.io/">HEML - an open source markup language for building responsive email</a> и <a href="https://hunzaboy.github.io/Light-Modal/">Light Modal - a simple light-weight yet powerful and customizable css modal for content and images</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://hanamirb.org/blog/2017/10/25/annoucing-hanami-110.html">Announcing Hanami v1.1.0</a>, <a href="https://blog.bigbinary.com/2017/10/24/ruby-2.5-allows-rescue-inside-do-end-blocks">Ruby 2.5 allows rescue/else/ensure inside do/end blocks</a> и <a href="https://medium.com/@gorbikoff/ruby-hash-key-showdown-symbol-vs-string-c0655afbcfca">Ruby Hash[key] Showdown :symbol vs “string”</a></li>
-  <li><a href="https://about.gitlab.com/2017/10/02/scaling-the-gitlab-database/">Scaling the GitLab database</a>, <a href="https://ksylvest.com/posts/2017-10-27/transactions-in-ruby-on-rails-and-atomic-bugs">Transactions in Ruby on Rails and Atomic Bugs</a> и <a href="https://www.schneems.com/2017/10/23/wtf-is-a-thread/">WTF is a Thread</a></li>
-  <li><a href="https://www.practicalai.io/implementing-ocr-using-random-forest-classifier-ruby/">Implementing OCR using a Random Forest Classifier in Ruby</a>, <a href="https://chase.pursu.es/how-to-be-good-at-turbolinks-5.html">How to Be Good at Turbolinks 5</a> и <a href="https://www.driftingruby.com/episodes/sample-data-with-factory-bot-and-faker">Sample Data with Factory Bot and Faker</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/vulnerability/oct-2017-dos/">DOS security vulnerability, October 2017</a>, <a href="https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/">Saying Goodbye to Firebug</a> и <a href="https://redfin.engineering/i-watched-all-of-the-chrome-dev-summit-2017-videos-so-you-dont-have-to-9b62a593c3cb">I Watched All of the Chrome Dev Summit 2017 Videos So You Don’t Have To</a></li>
-  <li><a href="https://medium.com/@peterxjang/modern-javascript-explained-for-dinosaurs-f695e9747b70">Modern JavaScript Explained For Dinosaurs</a> и <a href="https://medium.com/samsung-internet-dev/success-with-css-33215f481422">Success with CSS</a></li>
-  <li><a href="https://palantir.github.io/react-mosaic/">React-mosaic - a full-featured React Tiling Window Manager</a>, <a href="https://github.com/FormidableLabs/webpack-dashboard">Webpack-dashboard - a CLI dashboard for your webpack dev server</a>, <a href="https://heml.io/">HEML - an open source markup language for building responsive email</a> и <a href="https://hunzaboy.github.io/Light-Modal/">Light Modal - a simple light-weight yet powerful and customizable css modal for content and images</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 30 Oct 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/10/30/podcast-05-43.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/10/30/podcast-05-43.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0543.mp3" length="32592012" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0543.mp3" fileSize="32592012" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Announcing Hanami v1.1.0, Ruby 2.5 allows resc...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Announcing Hanami v1.1.0, Ruby 2.5 allows rescue/else/ensure inside do/end blocks и Ruby Hash[key] Showdown :symbol vs “string”
-
-  
-Scaling the GitLab database, Transactions in Ruby on Rails and Atomic Bugs и WTF is a Thread
-
-  
-Implementing OCR using a Random Forest Classifier in Ruby, How to Be Good at Turbolinks 5 и Sample Data with Factory Bot and Faker
-
-
-
-JavaScript
-
-
-  
-DOS security vulnerability, October 2017, Saying Goodbye to Firebug и I Watched All of the Chrome Dev Summit 2017 Videos So You Don’t Have To
-
-  
-Modern JavaScript Explained For Dinosaurs и Success with CSS
-
-  
-React-mosaic - a full-featured React Tiling Window Manager, Webpack-dashboard - a CLI dashboard for your webpack dev server, HEML - an open source markup language for building responsive email и Light Modal - a simple light-weight yet powerful and customizable css modal for content and images
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0543.png"/>
-  <itunes:duration>00:33:55</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
