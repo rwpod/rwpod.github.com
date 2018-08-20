@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 13 Aug 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 13 Aug 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 20 Aug 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 20 Aug 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>33 выпуск 06 сезона. Ruby 2.6 adds write_timeout to Net::HTTP, 7 of the Best Code Playgrounds, TheoremJS и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/08/14/ruby-2-6-adds-write-timeout-to-net-http.html">Ruby 2.6 adds write_timeout to Net::HTTP</a> и <a href="https://crypt.codemancers.com/posts/2018-08-14-ruby-2-6-key-error-accepts-message-receiver-key-as-argument/">Ruby 2.6 KeyError#initialize accepts message, receiver, and key as arguments</a></li>
+  <li><a href="https://karolgalanciak.com/blog/2018/08/19/indexes-on-rails-how-to-make-the-most-of-your-postgres-database/">Indexes on Rails: How to Make the Most of Your Postgres Database</a>, <a href="https://anadea.info/blog/version-inheritance-in-carrierwave">Carrierwave: How to Avoid Issues with Version Inheritance</a> и <a href="https://thesmartnik.com/ruby-memory-profiling-in-practice.html">Ruby Memory Profiling in Practice</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://checklyhq.com/blog/2018/08/creating-a-chrome-extension-in-2018-the-good-the-bad-and-the-meh/">Creating a Chrome extension in 2018: The good, the bad and the meh</a>, <a href="https://www.sitepen.com/blog/2018/08/14/cross-tab-synchronization-with-the-web-locks-api/">Cross-tab Synchronization with the Web Locks API</a> и <a href="https://www.sitepoint.com/7-code-playgrounds/">7 of the Best Code Playgrounds</a></li>
+  <li><a href="https://theorem.js.org/">TheoremJS - a Math framework for computation in JavaScript</a>, <a href="https://github.com/robinwassen/electron-wallpaper">Electron-wallpaper - Node module that allows you to attach a window as wallpaper in Windows</a> и <a href="https://getbaker.io/">Baker: computation environment management</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/08/14/ruby-2-6-adds-write-timeout-to-net-http.html">Ruby 2.6 adds write_timeout to Net::HTTP</a> и <a href="https://crypt.codemancers.com/posts/2018-08-14-ruby-2-6-key-error-accepts-message-receiver-key-as-argument/">Ruby 2.6 KeyError#initialize accepts message, receiver, and key as arguments</a></li>
+  <li><a href="https://karolgalanciak.com/blog/2018/08/19/indexes-on-rails-how-to-make-the-most-of-your-postgres-database/">Indexes on Rails: How to Make the Most of Your Postgres Database</a>, <a href="https://anadea.info/blog/version-inheritance-in-carrierwave">Carrierwave: How to Avoid Issues with Version Inheritance</a> и <a href="https://thesmartnik.com/ruby-memory-profiling-in-practice.html">Ruby Memory Profiling in Practice</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://checklyhq.com/blog/2018/08/creating-a-chrome-extension-in-2018-the-good-the-bad-and-the-meh/">Creating a Chrome extension in 2018: The good, the bad and the meh</a>, <a href="https://www.sitepen.com/blog/2018/08/14/cross-tab-synchronization-with-the-web-locks-api/">Cross-tab Synchronization with the Web Locks API</a> и <a href="https://www.sitepoint.com/7-code-playgrounds/">7 of the Best Code Playgrounds</a></li>
+  <li><a href="https://theorem.js.org/">TheoremJS - a Math framework for computation in JavaScript</a>, <a href="https://github.com/robinwassen/electron-wallpaper">Electron-wallpaper - Node module that allows you to attach a window as wallpaper in Windows</a> и <a href="https://getbaker.io/">Baker: computation environment management</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 20 Aug 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/08/20/podcast-06-33.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/08/20/podcast-06-33.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0633.mp3" length="20892194" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0633.mp3" fileSize="20892194" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6 adds write_timeout to Net::HTTP и Rub...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6 adds write_timeout to Net::HTTP и Ruby 2.6 KeyError#initialize accepts message, receiver, and key as arguments
+
+  
+Indexes on Rails: How to Make the Most of Your Postgres Database, Carrierwave: How to Avoid Issues with Version Inheritance и Ruby Memory Profiling in Practice
+
+
+
+JavaScript
+
+
+  
+Creating a Chrome extension in 2018: The good, the bad and the meh, Cross-tab Synchronization with the Web Locks API и 7 of the Best Code Playgrounds
+
+  
+TheoremJS - a Math framework for computation in JavaScript, Electron-wallpaper - Node module that allows you to attach a window as wallpaper in Windows и Baker: computation environment management
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0633.png"/>
+  <itunes:duration>00:21:44</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>32 выпуск 06 сезона. Rails 5.2.1, TLS 1.3, Babel 7.0.0-rc.1, Vue CLI 3.0, Kimurai, Foxr, SuperSlide.js, Wexond и прочее</title>
   <description>
@@ -3533,90 +3617,6 @@ GiraffQL - an interactive GraphQL exploration tool built with React, Reactopt - 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/cafe/006.png"/>
   <itunes:duration>00:48:27</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>47 выпуск 05 сезона. Spend less on Google Translate, The Cost Of JavaScript, Sequel-pg_advisory_lock, React Chartkick и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2017/11/21/ruby-2_5-introduces-dir-children-and-dir-each_child.html">Ruby 2.5 introduces Dir.children and Dir.each_child</a>, <a href="https://drivy.engineering/sending-mass-emails/">Sending an e-mail to millions of users</a> и <a href="https://blog.codeship.com/improving-ruby-performance-with-rust/">Improving Ruby Performance with Rust</a></li>
-  <li><a href="https://evilmartians.com/chronicles/spend-less-on-google-translate">Spend less on Google Translate</a>, <a href="https://github.com/jedld/resque-fifo-queue">Resque::Fifo::Queue - implementation of a sharded First-in First-out queue using Redis and Resque</a> и <a href="https://github.com/yuryroot/sequel-pg_advisory_lock">Sequel-pg_advisory_lock - an extension for ruby Sequel library that allows using PostgreSQL advisory locks for application-level mutexes</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e">The Cost Of JavaScript</a>, <a href="https://blog.neufund.org/why-we-have-banned-default-exports-and-you-should-do-the-same-d51fdc2cf2ad">Why we have banned default exports in Javascript and you should do the same</a>, <a href="https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6">How to greatly improve your React app performance</a> и <a href="https://malloc.fi/performance-cost-of-server-side-rendered-react-node-js">The Performance Cost of Server Side Rendered React on Node.js</a></li>
-  <li><a href="https://denisraslov.github.io/grid/">React Spreadsheet Grid</a>, <a href="https://www.chartkick.com/react">React Chartkick - create beautiful JavaScript charts with one line of React</a>, <a href="http://kizu.ru/bemto-components/">Bemto-components - smart components for using BEM methodology with React</a> и <a href="https://unmanner.github.io/imaskjs/">Imaskjs - vanilla javascript input mask</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2017/11/21/ruby-2_5-introduces-dir-children-and-dir-each_child.html">Ruby 2.5 introduces Dir.children and Dir.each_child</a>, <a href="https://drivy.engineering/sending-mass-emails/">Sending an e-mail to millions of users</a> и <a href="https://blog.codeship.com/improving-ruby-performance-with-rust/">Improving Ruby Performance with Rust</a></li>
-  <li><a href="https://evilmartians.com/chronicles/spend-less-on-google-translate">Spend less on Google Translate</a>, <a href="https://github.com/jedld/resque-fifo-queue">Resque::Fifo::Queue - implementation of a sharded First-in First-out queue using Redis and Resque</a> и <a href="https://github.com/yuryroot/sequel-pg_advisory_lock">Sequel-pg_advisory_lock - an extension for ruby Sequel library that allows using PostgreSQL advisory locks for application-level mutexes</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/dev-channel/the-cost-of-javascript-84009f51e99e">The Cost Of JavaScript</a>, <a href="https://blog.neufund.org/why-we-have-banned-default-exports-and-you-should-do-the-same-d51fdc2cf2ad">Why we have banned default exports in Javascript and you should do the same</a>, <a href="https://medium.com/myheritage-engineering/how-to-greatly-improve-your-react-app-performance-e70f7cbbb5f6">How to greatly improve your React app performance</a> и <a href="https://malloc.fi/performance-cost-of-server-side-rendered-react-node-js">The Performance Cost of Server Side Rendered React on Node.js</a></li>
-  <li><a href="https://denisraslov.github.io/grid/">React Spreadsheet Grid</a>, <a href="https://www.chartkick.com/react">React Chartkick - create beautiful JavaScript charts with one line of React</a>, <a href="http://kizu.ru/bemto-components/">Bemto-components - smart components for using BEM methodology with React</a> и <a href="https://unmanner.github.io/imaskjs/">Imaskjs - vanilla javascript input mask</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 27 Nov 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/11/27/podcast-05-47.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/11/27/podcast-05-47.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0547.mp3" length="29521110" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0547.mp3" fileSize="29521110" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.5 introduces Dir.children and Dir.each_...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.5 introduces Dir.children and Dir.each_child, Sending an e-mail to millions of users и Improving Ruby Performance with Rust
-
-  
-Spend less on Google Translate, Resque::Fifo::Queue - implementation of a sharded First-in First-out queue using Redis and Resque и Sequel-pg_advisory_lock - an extension for ruby Sequel library that allows using PostgreSQL advisory locks for application-level mutexes
-
-
-
-JavaScript
-
-
-  
-The Cost Of JavaScript, Why we have banned default exports in Javascript and you should do the same, How to greatly improve your React app performance и The Performance Cost of Server Side Rendered React on Node.js
-
-  
-React Spreadsheet Grid, React Chartkick - create beautiful JavaScript charts with one line of React, Bemto-components - smart components for using BEM methodology with React и Imaskjs - vanilla javascript input mask
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0547.png"/>
-  <itunes:duration>00:30:43</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
