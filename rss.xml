@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 27 Aug 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 27 Aug 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 03 Sep 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 03 Sep 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>35 выпуск 06 сезона. Babel 7 Released, Rails… Still?!?!, GraphQL pagination in Rails, Aijs.rocks, Reworm, EuRuKo и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/08/28/ruby-2-6-adds-enumerable-filter-as-an-alias-of-enumerable-select.html">Ruby 2.6 adds Enumerable#filter as an alias of Enumerable#select</a> и <a href="https://blog.phusion.nl/2018/08/30/rails-still/">Rails… Still?!?!</a></li>
+  <li><a href="http://www.2n.pl/blog/graphql-pagination-in-rails">GraphQL pagination in Rails</a>, <a href="https://blog.rebased.pl/2018/08/31/101-oop.html">101: Advanced OOP structure</a>, <a href="https://blog.phusion.nl/2018/08/31/euruko-ruby-conference-day-1/">EuRuKo Ruby conference, day 1</a> и <a href="https://blog.phusion.nl/2018/08/31/euruko-ruby-conference-day-2/">EuRuKo Ruby conference, day 2</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://babeljs.io/blog/2018/08/27/7.0.0">Babel 7 Released</a>, <a href="https://blog.bitsrc.io/so-whats-new-in-babel-7-ea97cb984ef0">So What’s New in Babel 7?</a>, <a href="https://github.com/babel/babel-upgrade">Babel-upgrade: upgrade to v7</a> и <a href="https://github.com/facebook/react/issues/13525">React Fire: Modernizing React DOM</a></li>
+  <li><a href="https://aijs.rocks/">Aijs.rocks - a collection of inspirational AI-driven projects written in JavaScript</a>, <a href="https://github.com/pedronauck/reworm">Reworm - the simplest way to manage state</a> и <a href="https://github.com/mafintosh/turbo-json-parse">Turbo-json-parse - turbocharged JSON.parse for type stable JSON data</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/08/28/ruby-2-6-adds-enumerable-filter-as-an-alias-of-enumerable-select.html">Ruby 2.6 adds Enumerable#filter as an alias of Enumerable#select</a> и <a href="https://blog.phusion.nl/2018/08/30/rails-still/">Rails… Still?!?!</a></li>
+  <li><a href="http://www.2n.pl/blog/graphql-pagination-in-rails">GraphQL pagination in Rails</a>, <a href="https://blog.rebased.pl/2018/08/31/101-oop.html">101: Advanced OOP structure</a>, <a href="https://blog.phusion.nl/2018/08/31/euruko-ruby-conference-day-1/">EuRuKo Ruby conference, day 1</a> и <a href="https://blog.phusion.nl/2018/08/31/euruko-ruby-conference-day-2/">EuRuKo Ruby conference, day 2</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://babeljs.io/blog/2018/08/27/7.0.0">Babel 7 Released</a>, <a href="https://blog.bitsrc.io/so-whats-new-in-babel-7-ea97cb984ef0">So What’s New in Babel 7?</a>, <a href="https://github.com/babel/babel-upgrade">Babel-upgrade: upgrade to v7</a> и <a href="https://github.com/facebook/react/issues/13525">React Fire: Modernizing React DOM</a></li>
+  <li><a href="https://aijs.rocks/">Aijs.rocks - a collection of inspirational AI-driven projects written in JavaScript</a>, <a href="https://github.com/pedronauck/reworm">Reworm - the simplest way to manage state</a> и <a href="https://github.com/mafintosh/turbo-json-parse">Turbo-json-parse - turbocharged JSON.parse for type stable JSON data</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 03 Sep 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/09/03/podcast-06-35.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/09/03/podcast-06-35.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0635.mp3" length="22939470" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0635.mp3" fileSize="22939470" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6 adds Enumerable#filter as an alias of...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6 adds Enumerable#filter as an alias of Enumerable#select и Rails… Still?!?!
+
+  
+GraphQL pagination in Rails, 101: Advanced OOP structure, EuRuKo Ruby conference, day 1 и EuRuKo Ruby conference, day 2
+
+
+
+JavaScript
+
+
+  
+Babel 7 Released, So What’s New in Babel 7?, Babel-upgrade: upgrade to v7 и React Fire: Modernizing React DOM
+
+  
+Aijs.rocks - a collection of inspirational AI-driven projects written in JavaScript, Reworm - the simplest way to manage state и Turbo-json-parse - turbocharged JSON.parse for type stable JSON data
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0635.png"/>
+  <itunes:duration>00:23:52</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>34 выпуск 06 сезона. Go WebAssembly, Best image uploader for Rails, VueToolbox, Size-plugin, Windows 95 running in an Electron и прочее</title>
   <description>
@@ -3538,90 +3622,6 @@ Parcel - blazing fast, zero configuration web application bundler, Introducing e
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/05/0549.png"/>
   <itunes:duration>00:35:14</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>48 выпуск 05 сезона. ComfortableMexicanSofa, Partitionable, GiraffQL, Reactopt, Vuetron, Rapid.js, JSRobot и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2017/11/28/ruby-2-5-added-delete_prefix-and-delete_suffix-methods.html">Ruby 2.5 added delete_prefix and delete_suffix methods</a>, <a href="https://medium.com/kkempin/chain-of-responsibility-design-pattern-in-ruby-e0b756d4bb3b">Chain of responsibility design pattern in Ruby</a> и <a href="http://iridakos.com/tutorials/2017/12/03/elasticsearch-and-rails-tutorial">Using elasticsearch in a Rails application</a></li>
-  <li><a href="https://github.com/comfy/comfortable-mexican-sofa">ComfortableMexicanSofa - a powerful Ruby on Rails 5.2+ CMS Engine</a>, <a href="https://github.com/pacuna/partitionable">Partitionable - gem adds support for using the PostgreSQL partitioning mechanism</a> и <a href="https://www.driftingruby.com/episodes/tracking-errors-with-sentry">Tracking Errors with Sentry</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/">Announcing the Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset</a>, <a href="https://codeburst.io/mobx-vs-redux-with-react-a-noobs-comparison-and-questions-382ba340be09">MobX vs Redux with React: A noob’s comparison and questions</a> и <a href="https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be">How to Organize React Files Before It’s Messed Up</a></li>
-  <li><a href="https://www.giraffql.com">GiraffQL - an interactive GraphQL exploration tool built with React</a>, <a href="https://github.com/reactopt/reactopt">Reactopt - CLI React performance optimization tool that identifies potential unnecessary re-rendering</a>, <a href="http://vuetron.io/">Vuetron - a tool for testing and debugging your Vue + Vuex applications</a>, <a href="https://rapidjs.io/">Rapid.js - an ORM-like Interface and a Router For Your API Requests</a> и <a href="https://lab.reaal.me/jsrobot/">JSRobot - learn to code by playing video games</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2017/11/28/ruby-2-5-added-delete_prefix-and-delete_suffix-methods.html">Ruby 2.5 added delete_prefix and delete_suffix methods</a>, <a href="https://medium.com/kkempin/chain-of-responsibility-design-pattern-in-ruby-e0b756d4bb3b">Chain of responsibility design pattern in Ruby</a> и <a href="http://iridakos.com/tutorials/2017/12/03/elasticsearch-and-rails-tutorial">Using elasticsearch in a Rails application</a></li>
-  <li><a href="https://github.com/comfy/comfortable-mexican-sofa">ComfortableMexicanSofa - a powerful Ruby on Rails 5.2+ CMS Engine</a>, <a href="https://github.com/pacuna/partitionable">Partitionable - gem adds support for using the PostgreSQL partitioning mechanism</a> и <a href="https://www.driftingruby.com/episodes/tracking-errors-with-sentry">Tracking Errors with Sentry</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.mozilla.org/blog/2017/11/29/announcing-the-initial-release-of-mozillas-open-source-speech-recognition-model-and-voice-dataset/">Announcing the Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset</a>, <a href="https://codeburst.io/mobx-vs-redux-with-react-a-noobs-comparison-and-questions-382ba340be09">MobX vs Redux with React: A noob’s comparison and questions</a> и <a href="https://engineering.opsgenie.com/how-to-organize-react-files-before-its-messed-up-c85387f691be">How to Organize React Files Before It’s Messed Up</a></li>
-  <li><a href="https://www.giraffql.com">GiraffQL - an interactive GraphQL exploration tool built with React</a>, <a href="https://github.com/reactopt/reactopt">Reactopt - CLI React performance optimization tool that identifies potential unnecessary re-rendering</a>, <a href="http://vuetron.io/">Vuetron - a tool for testing and debugging your Vue + Vuex applications</a>, <a href="https://rapidjs.io/">Rapid.js - an ORM-like Interface and a Router For Your API Requests</a> и <a href="https://lab.reaal.me/jsrobot/">JSRobot - learn to code by playing video games</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 04 Dec 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/12/04/podcast-05-48.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/12/04/podcast-05-48.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0548.mp3" length="22897226" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0548.mp3" fileSize="22897226" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.5 added delete_prefix and delete_suffix...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.5 added delete_prefix and delete_suffix methods, Chain of responsibility design pattern in Ruby и Using elasticsearch in a Rails application
-
-  
-ComfortableMexicanSofa - a powerful Ruby on Rails 5.2+ CMS Engine, Partitionable - gem adds support for using the PostgreSQL partitioning mechanism и Tracking Errors with Sentry
-
-
-
-JavaScript
-
-
-  
-Announcing the Initial Release of Mozilla’s Open Source Speech Recognition Model and Voice Dataset, MobX vs Redux with React: A noob’s comparison and questions и How to Organize React Files Before It’s Messed Up
-
-  
-GiraffQL - an interactive GraphQL exploration tool built with React, Reactopt - CLI React performance optimization tool that identifies potential unnecessary re-rendering, Vuetron - a tool for testing and debugging your Vue + Vuex applications, Rapid.js - an ORM-like Interface and a Router For Your API Requests и JSRobot - learn to code by playing video games
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0548.png"/>
-  <itunes:duration>00:23:49</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
