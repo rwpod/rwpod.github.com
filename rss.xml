@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 17 Sep 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 17 Sep 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 24 Sep 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>38 выпуск 06 сезона. Flutter Release Preview 2, Electron 3.0.0, Migrating Passenger from C++ to Go?, iOS 12 Array reverse bug, RxDB и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.phusion.nl/2018/09/18/migrating-passenger-from-cxx-to-go/">Migrating Passenger from C++ to Go?</a>, <a href="http://www.carlosramireziii.com/what-options-can-be-passed-to-the-active-storage-variant-method.html">What Options Can Be Passed to the Active Storage variant Method?</a> и <a href="https://blog.arkency.com/3-ways-to-make-your-ruby-object-thread-safe/">3 ways to make your ruby object thread-safe</a></li>
+  <li><a href="https://www.occamslabs.com/blog/securing-your-ruby-and-rails-codebase">Securing your Ruby and Rails Codebase</a> и <a href="https://github.com/anjlab/graphql_authorize">GraphqlAuthorize - an authorize an access to you graphql-fields</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html">Flutter Release Preview 2: Pixel-Perfect on iOS</a>, <a href="https://electronjs.org/blog/electron-3-0">Electron 3.0.0</a> и <a href="https://github.com/npm/tink">Tink is an experimental package manager for JavaScript</a></li>
+  <li><a href="https://stackoverflow.com/questions/52390368/array-state-will-be-cached-in-ios-12-safari-is-it-a-bug-or-feature">iOS 12 Array reverse bug</a>, <a href="https://pubkey.github.io/rxdb/">RxDB - reactive, serverless, client-side, offline-first database in javascript</a> и <a href="https://github.com/aholachek/react-flip-toolkit">React-flip-toolkit - React FLIP animation library for highly configurable transitions</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.phusion.nl/2018/09/18/migrating-passenger-from-cxx-to-go/">Migrating Passenger from C++ to Go?</a>, <a href="http://www.carlosramireziii.com/what-options-can-be-passed-to-the-active-storage-variant-method.html">What Options Can Be Passed to the Active Storage variant Method?</a> и <a href="https://blog.arkency.com/3-ways-to-make-your-ruby-object-thread-safe/">3 ways to make your ruby object thread-safe</a></li>
+  <li><a href="https://www.occamslabs.com/blog/securing-your-ruby-and-rails-codebase">Securing your Ruby and Rails Codebase</a> и <a href="https://github.com/anjlab/graphql_authorize">GraphqlAuthorize - an authorize an access to you graphql-fields</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://developers.googleblog.com/2018/09/flutter-release-preview-2-pixel-perfect.html">Flutter Release Preview 2: Pixel-Perfect on iOS</a>, <a href="https://electronjs.org/blog/electron-3-0">Electron 3.0.0</a> и <a href="https://github.com/npm/tink">Tink is an experimental package manager for JavaScript</a></li>
+  <li><a href="https://stackoverflow.com/questions/52390368/array-state-will-be-cached-in-ios-12-safari-is-it-a-bug-or-feature">iOS 12 Array reverse bug</a>, <a href="https://pubkey.github.io/rxdb/">RxDB - reactive, serverless, client-side, offline-first database in javascript</a> и <a href="https://github.com/aholachek/react-flip-toolkit">React-flip-toolkit - React FLIP animation library for highly configurable transitions</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 24 Sep 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/09/24/podcast-06-38.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/09/24/podcast-06-38.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0638.mp3" length="21192032" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0638.mp3" fileSize="21192032" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Migrating Passenger from C++ to Go?, What Opti...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Migrating Passenger from C++ to Go?, What Options Can Be Passed to the Active Storage variant Method? и 3 ways to make your ruby object thread-safe
+
+  
+Securing your Ruby and Rails Codebase и GraphqlAuthorize - an authorize an access to you graphql-fields
+
+
+
+JavaScript
+
+
+  
+Flutter Release Preview 2: Pixel-Perfect on iOS, Electron 3.0.0 и Tink is an experimental package manager for JavaScript
+
+  
+iOS 12 Array reverse bug, RxDB - reactive, serverless, client-side, offline-first database in javascript и React-flip-toolkit - React FLIP animation library for highly configurable transitions
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0638.png"/>
+  <itunes:duration>00:22:03</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>37 выпуск 06 сезона. Safari DoS, Yarn Plug'n'Play, Dante Stories, Ramda Ruby, Vuesax, Low.js, Sqorn и прочее</title>
   <description>
@@ -3569,80 +3653,6 @@ A Tinder Progressive Web App Performance Case Study, I’m harvesting credit car
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/06/0601.png"/>
   <itunes:duration>00:43:12</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>51 выпуск 05 сезона. Ruby 2.5.0 Released, The Future of jQuery UI and jQuery Mobile, Markdown-to-jsx, Moon Sugar и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2017/12/25/ruby-2-5-0-released/">Ruby 2.5.0 Released</a>, <a href="https://blog.bigbinary.com/2017/12/20/ruby-2-5-requires-pp-by-default.html">Ruby 2.5 requires pp by default</a>, <a href="http://blog.bigbinary.com/2017/12/19/array-prepend-and-array-append-in-ruby-2-5.html">Array#prepend and Array#append in Ruby 2.5</a> и <a href="https://tomkadwill.github.io/2017/12/18/counting-or-sorting-by-an-association-in-a-rails-sql-query.html">Counting Or Sorting By An Association In A Rails SQL Query</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.jqueryui.com/2017/12/the-future-of-jquery-ui-and-jquery-mobile/">The Future of jQuery UI and jQuery Mobile</a>, <a href="https://www.shopify.com/partners/blog/conference-talks">16 Conference Talks From 2017 Every Designer and Developer Needs to Watch</a>, <a href="http://probablyup.github.io/markdown-to-jsx/">Markdown-to-jsx - Markdown Component for React</a> и <a href="https://hawkeyepierce89.github.io/Moon-Sugar/">Moon Sugar - a library for snowfall on your website</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2017/12/25/ruby-2-5-0-released/">Ruby 2.5.0 Released</a>, <a href="https://blog.bigbinary.com/2017/12/20/ruby-2-5-requires-pp-by-default.html">Ruby 2.5 requires pp by default</a>, <a href="http://blog.bigbinary.com/2017/12/19/array-prepend-and-array-append-in-ruby-2-5.html">Array#prepend and Array#append in Ruby 2.5</a> и <a href="https://tomkadwill.github.io/2017/12/18/counting-or-sorting-by-an-association-in-a-rails-sql-query.html">Counting Or Sorting By An Association In A Rails SQL Query</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.jqueryui.com/2017/12/the-future-of-jquery-ui-and-jquery-mobile/">The Future of jQuery UI and jQuery Mobile</a>, <a href="https://www.shopify.com/partners/blog/conference-talks">16 Conference Talks From 2017 Every Designer and Developer Needs to Watch</a>, <a href="http://probablyup.github.io/markdown-to-jsx/">Markdown-to-jsx - Markdown Component for React</a> и <a href="https://hawkeyepierce89.github.io/Moon-Sugar/">Moon Sugar - a library for snowfall on your website</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 25 Dec 2017 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2017/12/25/podcast-05-51.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2017/12/25/podcast-05-51.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/05/0551.mp3" length="11755584" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/05/0551.mp3" fileSize="11755584" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.5.0 Released, Ruby 2.5 requires pp by d...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.5.0 Released, Ruby 2.5 requires pp by default, Array#prepend and Array#append in Ruby 2.5 и Counting Or Sorting By An Association In A Rails SQL Query
-
-
-
-JavaScript
-
-
-  
-The Future of jQuery UI and jQuery Mobile, 16 Conference Talks From 2017 Every Designer and Developer Needs to Watch, Markdown-to-jsx - Markdown Component for React и Moon Sugar - a library for snowfall on your website
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/05/0551.png"/>
-  <itunes:duration>00:12:13</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
