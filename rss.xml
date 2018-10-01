@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 24 Sep 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>39 выпуск 06 сезона. Upgrading GitHub from Rails 3.2 to 5.2, Trix 1.0.0, SystemJS 2.0.0, Browserino, TurtleDB, Tabulator и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/">Upgrading GitHub from Rails 3.2 to 5.2</a>, <a href="https://sorbet.run/talks/StrangeLoop2018/#/">Presentation of Sorbet: A Typechecker for Ruby</a>, <a href="https://naturaily.com/blog/kafka-mosquitto-microservices">Kafka vs Mosquitto - which tool is better for communication between microservices?</a> и <a href="http://rspec.info/blog/2018/09/jon-rowe-and-sam-phippen-are-rspecs-new-leads/">Jon Rowe and Sam Phippen are RSpec’s new leads</a></li>
+  <li><a href="https://blog.appsignal.com/2018/09/25/explicitly-casting-vs-implicitly-coercing-types-in-ruby.html">#to_s or #to_str? Explicitly casting vs. implicitly coercing types in Ruby</a>, <a href="http://nelsonware.com/blog/2018/09/27/nine-tips-for-rails-migration-mastery.html">Nine tips for Rails migration mastery</a> и <a href="https://github.com/SidOfc/browserino">Browserino - a tool that parses a user agent string into a convenient object to work with</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://trix-editor.org/">Trix 1.0.0 - a rich text editor for everyday writing</a>, <a href="https://guybedford.com/systemjs-2.0">SystemJS 2.0.0 Release</a> и <a href="https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/">Grid vs Flexbox: Which Should You Choose?</a></li>
+  <li><a href="https://turtle-db.github.io/">TurtleDB - a framework for developers to build offline-first, collaborative web apps</a>, <a href="http://tabulator.info/">Tabulator - interactive tables and data grids for JavaScript</a> и <a href="https://github.com/apifytech/apify-js">Apify SDK - the scalable web crawling and scraping library for JavaScript</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/">Upgrading GitHub from Rails 3.2 to 5.2</a>, <a href="https://sorbet.run/talks/StrangeLoop2018/#/">Presentation of Sorbet: A Typechecker for Ruby</a>, <a href="https://naturaily.com/blog/kafka-mosquitto-microservices">Kafka vs Mosquitto - which tool is better for communication between microservices?</a> и <a href="http://rspec.info/blog/2018/09/jon-rowe-and-sam-phippen-are-rspecs-new-leads/">Jon Rowe and Sam Phippen are RSpec’s new leads</a></li>
+  <li><a href="https://blog.appsignal.com/2018/09/25/explicitly-casting-vs-implicitly-coercing-types-in-ruby.html">#to_s or #to_str? Explicitly casting vs. implicitly coercing types in Ruby</a>, <a href="http://nelsonware.com/blog/2018/09/27/nine-tips-for-rails-migration-mastery.html">Nine tips for Rails migration mastery</a> и <a href="https://github.com/SidOfc/browserino">Browserino - a tool that parses a user agent string into a convenient object to work with</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://trix-editor.org/">Trix 1.0.0 - a rich text editor for everyday writing</a>, <a href="https://guybedford.com/systemjs-2.0">SystemJS 2.0.0 Release</a> и <a href="https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/">Grid vs Flexbox: Which Should You Choose?</a></li>
+  <li><a href="https://turtle-db.github.io/">TurtleDB - a framework for developers to build offline-first, collaborative web apps</a>, <a href="http://tabulator.info/">Tabulator - interactive tables and data grids for JavaScript</a> и <a href="https://github.com/apifytech/apify-js">Apify SDK - the scalable web crawling and scraping library for JavaScript</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/10/01/podcast-06-39.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/10/01/podcast-06-39.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0639.mp3" length="34248416" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0639.mp3" fileSize="34248416" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Upgrading GitHub from Rails 3.2 to 5.2, Presen...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Upgrading GitHub from Rails 3.2 to 5.2, Presentation of Sorbet: A Typechecker for Ruby, Kafka vs Mosquitto - which tool is better for communication between microservices? и Jon Rowe and Sam Phippen are RSpec’s new leads
+
+  
+#to_s or #to_str? Explicitly casting vs. implicitly coercing types in Ruby, Nine tips for Rails migration mastery и Browserino - a tool that parses a user agent string into a convenient object to work with
+
+
+
+JavaScript
+
+
+  
+Trix 1.0.0 - a rich text editor for everyday writing, SystemJS 2.0.0 Release и Grid vs Flexbox: Which Should You Choose?
+
+  
+TurtleDB - a framework for developers to build offline-first, collaborative web apps, Tabulator - interactive tables and data grids for JavaScript и Apify SDK - the scalable web crawling and scraping library for JavaScript
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0639.png"/>
+  <itunes:duration>00:35:39</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>38 выпуск 06 сезона. Flutter Release Preview 2, Electron 3.0.0, Migrating Passenger from C++ to Go?, iOS 12 Array reverse bug, RxDB и прочее</title>
   <description>
@@ -736,90 +820,6 @@ The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rus
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
 <item>
-  <title>30 выпуск 06 сезона. Elixir v1.7, TypeScript 3.0, Angular v6.1, Ruby 2.6 adds Matrix#antisymmertic?, Ndb, jsQR и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
-  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
-  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
-  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
-  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Elixir v1.7 released, Ruby 2.6 adds Matrix#ant...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Elixir v1.7 released, Ruby 2.6 adds Matrix#antisymmertic? и Ruby 2.6 adds Binding#source_location
-
-  
-Six Tips for Mastering your Procfile, Ruby on Rails: send emails with style и Rails 5.2 credentials cheat cheat
-
-
-
-JavaScript
-
-
-  
-Announcing TypeScript 3.0 и Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more
-
-  
-Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools и jsQR - pure JavaScript QR code decoding library
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0630.png"/>
-  <itunes:duration>00:19:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
   <title>RWPod Кафе 8: Anton Davydov и Hanami</title>
   <description>
     <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:</p>
@@ -917,6 +917,90 @@ Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/cafe/008.png"/>
   <itunes:duration>00:52:25</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>30 выпуск 06 сезона. Elixir v1.7, TypeScript 3.0, Angular v6.1, Ruby 2.6 adds Matrix#antisymmertic?, Ndb, jsQR и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
+  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
+  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
+  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
+  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Elixir v1.7 released, Ruby 2.6 adds Matrix#ant...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Elixir v1.7 released, Ruby 2.6 adds Matrix#antisymmertic? и Ruby 2.6 adds Binding#source_location
+
+  
+Six Tips for Mastering your Procfile, Ruby on Rails: send emails with style и Rails 5.2 credentials cheat cheat
+
+
+
+JavaScript
+
+
+  
+Announcing TypeScript 3.0 и Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more
+
+  
+Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools и jsQR - pure JavaScript QR code decoding library
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0630.png"/>
+  <itunes:duration>00:19:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
 <item>
@@ -3569,90 +3653,6 @@ Ngx-kit - components and services for creating Angular ui-components и React Pe
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/06/0602.png"/>
   <itunes:duration>00:20:49</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>01 выпуск 06 сезона. Meltdown and Spectre, Npm operational incident, Uppy, Taskr и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://meltdownattack.com/">Meltdown and Spectre</a>, <a href="https://www.youtube.com/watch?v=I5mRwzVvFGE">Spectre &amp; Meltdown (video)</a>, <a href="http://blog.bigbinary.com/2018/01/02/ruby-2-5-enumerable-predicates-accept-pattern-argument.html">Ruby 2.5 enumerable predicates accept pattern argument</a>, <a href="http://blog.bigbinary.com/2018/01/09/ruby-2-5-adds-hash-transform_keys-method.html">Ruby 2.5 adds Hash#transform_keys method</a>, <a href="http://blog.bigbinary.com/2018/01/08/rails-5-2-allows-passing-request-params-to-action-mailer-previews.html">Rails 5.2 allows passing request params to Action Mailer previews</a> и <a href="http://blog.bigbinary.com/2018/01/01/rails-5-2-adds-bootsnap-to-the-app-to-speed-up-boot-time.html">Rails 5.2 adds bootsnap to the app to speed up boot time</a></li>
-  <li><a href="https://medium.com/@maciejmensfeld/ruby-2-5-0-upgrade-remarks-100d7c0dd73d">Ruby 2.5.0 upgrade remarks</a>, <a href="https://gettalong.org/blog/2017/benchmarking-ruby-2-5.html">Benchmarking Ruby 2.5.0, 2.4.3 and 2.3.6</a>, <a href="https://github.com/piotrmurach/strings">Strings - a set of useful functions for transforming strings</a> и <a href="https://www.driftingruby.com/episodes/ruby-on-rails-5-2-0-changes-and-new-features">Ruby on Rails 5.2.0 Changes and New Features</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.npmjs.org/post/169432444640/npm-operational-incident-6-jan-2018">Npm operational incident, 6 Jan 2018</a>, <a href="https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards">Chrome is turning into the new Internet Explorer 6</a> и <a href="https://levelup.gitconnected.com/5-front-end-technologies-im-keeping-my-eye-on-in-2018-a9d7b75babff">5 Front-End Technologies I’m Keeping My Eye on in 2018</a></li>
-  <li><a href="https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0">A Tinder Progressive Web App Performance Case Study</a>, <a href="https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5">I’m harvesting credit card numbers and passwords from your site. Here’s how.</a>, <a href="https://uppy.io/">Uppy - a sleek, modular file uploader that integrates seamlessly with any application</a> и <a href="https://github.com/bukinoshita/taskr">Taskr - a simple task manager app</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://meltdownattack.com/">Meltdown and Spectre</a>, <a href="https://www.youtube.com/watch?v=I5mRwzVvFGE">Spectre &amp; Meltdown (video)</a>, <a href="http://blog.bigbinary.com/2018/01/02/ruby-2-5-enumerable-predicates-accept-pattern-argument.html">Ruby 2.5 enumerable predicates accept pattern argument</a>, <a href="http://blog.bigbinary.com/2018/01/09/ruby-2-5-adds-hash-transform_keys-method.html">Ruby 2.5 adds Hash#transform_keys method</a>, <a href="http://blog.bigbinary.com/2018/01/08/rails-5-2-allows-passing-request-params-to-action-mailer-previews.html">Rails 5.2 allows passing request params to Action Mailer previews</a> и <a href="http://blog.bigbinary.com/2018/01/01/rails-5-2-adds-bootsnap-to-the-app-to-speed-up-boot-time.html">Rails 5.2 adds bootsnap to the app to speed up boot time</a></li>
-  <li><a href="https://medium.com/@maciejmensfeld/ruby-2-5-0-upgrade-remarks-100d7c0dd73d">Ruby 2.5.0 upgrade remarks</a>, <a href="https://gettalong.org/blog/2017/benchmarking-ruby-2-5.html">Benchmarking Ruby 2.5.0, 2.4.3 and 2.3.6</a>, <a href="https://github.com/piotrmurach/strings">Strings - a set of useful functions for transforming strings</a> и <a href="https://www.driftingruby.com/episodes/ruby-on-rails-5-2-0-changes-and-new-features">Ruby on Rails 5.2.0 Changes and New Features</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://blog.npmjs.org/post/169432444640/npm-operational-incident-6-jan-2018">Npm operational incident, 6 Jan 2018</a>, <a href="https://www.theverge.com/2018/1/4/16805216/google-chrome-only-sites-internet-explorer-6-web-standards">Chrome is turning into the new Internet Explorer 6</a> и <a href="https://levelup.gitconnected.com/5-front-end-technologies-im-keeping-my-eye-on-in-2018-a9d7b75babff">5 Front-End Technologies I’m Keeping My Eye on in 2018</a></li>
-  <li><a href="https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0">A Tinder Progressive Web App Performance Case Study</a>, <a href="https://hackernoon.com/im-harvesting-credit-card-numbers-and-passwords-from-your-site-here-s-how-9a8cb347c5b5">I’m harvesting credit card numbers and passwords from your site. Here’s how.</a>, <a href="https://uppy.io/">Uppy - a sleek, modular file uploader that integrates seamlessly with any application</a> и <a href="https://github.com/bukinoshita/taskr">Taskr - a simple task manager app</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 09 Jan 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/01/09/podcast-06-01.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/01/09/podcast-06-01.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0601.mp3" length="41495346" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0601.mp3" fileSize="41495346" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Meltdown and Spectre, Spectre &amp; Meltdown (vide...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Meltdown and Spectre, Spectre &amp; Meltdown (video), Ruby 2.5 enumerable predicates accept pattern argument, Ruby 2.5 adds Hash#transform_keys method, Rails 5.2 allows passing request params to Action Mailer previews и Rails 5.2 adds bootsnap to the app to speed up boot time
-
-  
-Ruby 2.5.0 upgrade remarks, Benchmarking Ruby 2.5.0, 2.4.3 and 2.3.6, Strings - a set of useful functions for transforming strings и Ruby on Rails 5.2.0 Changes and New Features
-
-
-
-JavaScript
-
-
-  
-Npm operational incident, 6 Jan 2018, Chrome is turning into the new Internet Explorer 6 и 5 Front-End Technologies I’m Keeping My Eye on in 2018
-
-  
-A Tinder Progressive Web App Performance Case Study, I’m harvesting credit card numbers and passwords from your site. Here’s how., Uppy - a sleek, modular file uploader that integrates seamlessly with any application и Taskr - a simple task manager app
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0601.png"/>
-  <itunes:duration>00:43:12</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
