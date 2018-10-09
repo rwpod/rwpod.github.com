@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 09 Oct 2018 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 09 Oct 2018 00:00:00 +0300</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>40 выпуск 06 сезона. Ruby 2.6 adds RubyVM::AST module, Action Text for Rails 6, Hacktoberfest 2018, Falcon, Cogear.JS и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/10/02/ruby-2-6-adds-rubyvm-ast-module.html">Ruby 2.6 adds RubyVM::AST module</a> и <a href="https://weblog.rubyonrails.org/2018/10/3/introducing-action-text-for-rails-6/">Introducing Action Text for Rails 6</a></li>
+  <li><a href="https://www.driftingruby.com/episodes/service-objects-for-api-interactions-with-twilio">Service Objects for API Interactions with Twilio</a>, <a href="https://medium.com/@baweaver/destructuring-in-ruby-9e9bd2be0360">Destructuring Methods in Ruby</a> и <a href="https://frontdeveloper.pl/2018/10/5-security-issues-in-ruby-on-rails/">5 security issues in Ruby on Rails apps from real life</a></li>
+  <li><a href="https://github.com/socketry/falcon">Falcon - a multi-process, multi-fiber rack-compatible HTTP server</a>, <a href="https://github.com/jedld/tensor_stream-opencl">TensorStream::Opencl - an OpenCL backend for TensorStream</a> и <a href="https://github.com/senselogic/CIBYL">Cibyl - lightweight curly-bracket language which compiles to Ruby and Crystal</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2018</a> и <a href="https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/">Calls between JavaScript and WebAssembly are finally fast</a></li>
+  <li><a href="https://levelup.gitconnected.com/a-comparison-of-server-side-rendering-in-react-and-angular-applications-fb95285fb716">A comparison of Server Side Rendering in React and Angular applications</a> и <a href="https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/">Death by a thousand cuts - a checklist for eliminating common React performance issues</a></li>
+  <li><a href="https://github.com/codemotion/cogear.js">Cogear.JS – modern static websites generator</a>, <a href="https://github.com/victorqribeiro/imgToAscii">imgToAscii - a JavaScript implementation of a image to ascii converter</a> и <a href="https://mciastek.github.io/sal/">Sal.js - lightweight scroll animation library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2018/10/02/ruby-2-6-adds-rubyvm-ast-module.html">Ruby 2.6 adds RubyVM::AST module</a> и <a href="https://weblog.rubyonrails.org/2018/10/3/introducing-action-text-for-rails-6/">Introducing Action Text for Rails 6</a></li>
+  <li><a href="https://www.driftingruby.com/episodes/service-objects-for-api-interactions-with-twilio">Service Objects for API Interactions with Twilio</a>, <a href="https://medium.com/@baweaver/destructuring-in-ruby-9e9bd2be0360">Destructuring Methods in Ruby</a> и <a href="https://frontdeveloper.pl/2018/10/5-security-issues-in-ruby-on-rails/">5 security issues in Ruby on Rails apps from real life</a></li>
+  <li><a href="https://github.com/socketry/falcon">Falcon - a multi-process, multi-fiber rack-compatible HTTP server</a>, <a href="https://github.com/jedld/tensor_stream-opencl">TensorStream::Opencl - an OpenCL backend for TensorStream</a> и <a href="https://github.com/senselogic/CIBYL">Cibyl - lightweight curly-bracket language which compiles to Ruby and Crystal</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2018</a> и <a href="https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/">Calls between JavaScript and WebAssembly are finally fast</a></li>
+  <li><a href="https://levelup.gitconnected.com/a-comparison-of-server-side-rendering-in-react-and-angular-applications-fb95285fb716">A comparison of Server Side Rendering in React and Angular applications</a> и <a href="https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/">Death by a thousand cuts - a checklist for eliminating common React performance issues</a></li>
+  <li><a href="https://github.com/codemotion/cogear.js">Cogear.JS – modern static websites generator</a>, <a href="https://github.com/victorqribeiro/imgToAscii">imgToAscii - a JavaScript implementation of a image to ascii converter</a> и <a href="https://mciastek.github.io/sal/">Sal.js - lightweight scroll animation library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 09 Oct 2018 00:00:00 +0300</pubDate>
+  <link>http://www.rwpod.com/posts/2018/10/09/podcast-06-40.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/10/09/podcast-06-40.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0640.mp3" length="37238332" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0640.mp3" fileSize="37238332" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6 adds RubyVM::AST module и Introducing...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6 adds RubyVM::AST module и Introducing Action Text for Rails 6
+
+  
+Service Objects for API Interactions with Twilio, Destructuring Methods in Ruby и 5 security issues in Ruby on Rails apps from real life
+
+  
+Falcon - a multi-process, multi-fiber rack-compatible HTTP server, TensorStream::Opencl - an OpenCL backend for TensorStream и Cibyl - lightweight curly-bracket language which compiles to Ruby and Crystal
+
+
+
+JavaScript
+
+
+  
+Hacktoberfest 2018 и Calls between JavaScript and WebAssembly are finally fast
+
+  
+A comparison of Server Side Rendering in React and Angular applications и Death by a thousand cuts - a checklist for eliminating common React performance issues
+
+  
+Cogear.JS – modern static websites generator, imgToAscii - a JavaScript implementation of a image to ascii converter и Sal.js - lightweight scroll animation library
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0640.png"/>
+  <itunes:duration>00:38:46</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>39 выпуск 06 сезона. Upgrading GitHub from Rails 3.2 to 5.2, Trix 1.0.0, SystemJS 2.0.0, Browserino, TurtleDB, Tabulator и прочее</title>
   <description>
@@ -3569,90 +3663,6 @@ After.js - next.js-like framework for server-rendered React apps built with Reac
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/06/0603.png"/>
   <itunes:duration>00:29:01</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>02 выпуск 06 сезона. Ruby 2.5 introduces FrozenError class, Awesome Ruby Meetups, What’s New in HTML 5.2, Ngx-kit и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2018/01/15/rails-5-2-allows-mailers-to-use-custom-active-job-class.html">Rails 5.2 allows mailers to use custom Active Job class</a>, <a href="http://blog.bigbinary.com/2018/01/10/rails-5-2-supports-descending-indexes-for-mysql.html">Rails 5.2 supports descending indexes for MySQL</a>, <a href="https://medium.com/@atul9/ruby-2-5-introduces-frozenerror-class-5fb7df21384">Ruby 2.5 introduces FrozenError class</a> и <a href="https://www.engineyard.com/blog/ruby-still-isnt-dead">Ruby Still isn’t dead</a></li>
-  <li><a href="http://blog.scoutapp.com/articles/2018/01/08/deploying-to-aws-part-i-running-a-rails-app-on-fargate">Deploying to AWS Part II: Running a Rails app on Fargate</a>, <a href="https://crystal-lang.org/2018/01/08/top-5-reasons-for-ruby-ists-to-use-crystal.html">Top 5 Reasons for Ruby-ists to Use Crystal</a> и <a href="https://github.com/planetruby/calendar/tree/master/meetups">Awesome Ruby Meetups</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://bitsofco.de/whats-new-in-html-5-2/">What’s New in HTML 5.2?</a>, <a href="https://risingstars.js.org/2017/en/">2017 JavaScript Rising Stars</a> и <a href="https://blog.floydhub.com/Turning-design-mockups-into-code-with-deep-learning/">Turning Design Mockups Into Code With Deep Learning</a></li>
-  <li><a href="https://ngx-kit.com/">Ngx-kit - components and services for creating Angular ui-components</a> и <a href="https://github.com/nitin42/react-perf-devtool">React Performance Devtool</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://blog.bigbinary.com/2018/01/15/rails-5-2-allows-mailers-to-use-custom-active-job-class.html">Rails 5.2 allows mailers to use custom Active Job class</a>, <a href="http://blog.bigbinary.com/2018/01/10/rails-5-2-supports-descending-indexes-for-mysql.html">Rails 5.2 supports descending indexes for MySQL</a>, <a href="https://medium.com/@atul9/ruby-2-5-introduces-frozenerror-class-5fb7df21384">Ruby 2.5 introduces FrozenError class</a> и <a href="https://www.engineyard.com/blog/ruby-still-isnt-dead">Ruby Still isn’t dead</a></li>
-  <li><a href="http://blog.scoutapp.com/articles/2018/01/08/deploying-to-aws-part-i-running-a-rails-app-on-fargate">Deploying to AWS Part II: Running a Rails app on Fargate</a>, <a href="https://crystal-lang.org/2018/01/08/top-5-reasons-for-ruby-ists-to-use-crystal.html">Top 5 Reasons for Ruby-ists to Use Crystal</a> и <a href="https://github.com/planetruby/calendar/tree/master/meetups">Awesome Ruby Meetups</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://bitsofco.de/whats-new-in-html-5-2/">What’s New in HTML 5.2?</a>, <a href="https://risingstars.js.org/2017/en/">2017 JavaScript Rising Stars</a> и <a href="https://blog.floydhub.com/Turning-design-mockups-into-code-with-deep-learning/">Turning Design Mockups Into Code With Deep Learning</a></li>
-  <li><a href="https://ngx-kit.com/">Ngx-kit - components and services for creating Angular ui-components</a> и <a href="https://github.com/nitin42/react-perf-devtool">React Performance Devtool</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 15 Jan 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/01/15/podcast-06-02.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/01/15/podcast-06-02.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0602.mp3" length="20012210" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0602.mp3" fileSize="20012210" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.2 allows mailers to use custom Active ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.2 allows mailers to use custom Active Job class, Rails 5.2 supports descending indexes for MySQL, Ruby 2.5 introduces FrozenError class и Ruby Still isn’t dead
-
-  
-Deploying to AWS Part II: Running a Rails app on Fargate, Top 5 Reasons for Ruby-ists to Use Crystal и Awesome Ruby Meetups
-
-
-
-JavaScript
-
-
-  
-What’s New in HTML 5.2?, 2017 JavaScript Rising Stars и Turning Design Mockups Into Code With Deep Learning
-
-  
-Ngx-kit - components and services for creating Angular ui-components и React Performance Devtool
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0602.png"/>
-  <itunes:duration>00:20:49</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
