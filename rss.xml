@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>http://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 22 Oct 2018 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 22 Oct 2018 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 30 Oct 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 30 Oct 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>43 выпуск 06 сезона. Hanami v1.3.0, Node v11.0.0, Storybook 4.0, React v16.6.0, Enkrip, IronDB, Lazy-brush и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://hanamirb.org/blog/2018/10/24/announcing-hanami-130.html">Announcing Hanami v1.3.0</a>, <a href="https://blog.bigbinary.com/2018/10/24/ruby-2-6-range-cover-now-accepts-range-object.html">Ruby 2.6 Range#cover? now accepts Range object as an argument</a> и <a href="https://blog.bigbinary.com/2018/10/23/rails-5-2-adds-dsl-for-configuring-content-security-policy-header.html">Rails 5.2 adds DSL for configuring Content Security Policy header</a></li>
+  <li><a href="http://www.wjwh.eu/posts/2018-10-29-double-hijack.html">Maintaining 65k open connections in a single Ruby process</a>, <a href="https://medium.com/textmaster-engineering/performance-of-regular-expressions-81371f569698">Performance of Regular Expressions</a> и <a href="https://blog.appsignal.com/2018/10/30/ruby-magic-building-a-ruby-c-extension-from-scratch.html">Building a Ruby C Extension From Scratch</a></li>
+  <li><a href="http://nts.strzibny.name/building-auto-login-for-fast-rails-development-with-sorcery/">Building auto login for fast Rails development with Sorcery</a>, <a href="https://metaredux.com/posts/2018/10/27/a-safer-rubocop.html">A Safer RuboCop</a> и <a href="https://www.railsmine.net/2018/10/introducing-enkrip.html">Introducing Enkrip</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://nodejs.org/en/blog/release/v11.0.0/">Node v11.0.0</a>, <a href="https://medium.com/storybookjs/storybook-4-0-is-here-10b9857fc7de">Storybook 4.0 is here!</a> и <a href="https://reactjs.org/blog/2018/10/23/react-v-16-6.html">React v16.6.0: lazy, memo and contextType</a></li>
+  <li><a href="https://reactjs.org/docs/hooks-intro.html">Introducing Hooks</a>, <a href="https://github.com/acdlite/recompose#a-note-from-the-author-acdlite-oct-25-2018">Recompose future</a> и <a href="https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/">Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation</a></li>
+  <li><a href="https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript">5 Tips to Write Better Conditionals in JavaScript</a>, <a href="https://github.com/gruns/irondb">IronDB - a resilient key-value store for the browser</a> и <a href="https://github.com/dulnan/lazy-brush">Lazy-brush - smooth drawing with a mouse, finger or any pointing device</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="http://hanamirb.org/blog/2018/10/24/announcing-hanami-130.html">Announcing Hanami v1.3.0</a>, <a href="https://blog.bigbinary.com/2018/10/24/ruby-2-6-range-cover-now-accepts-range-object.html">Ruby 2.6 Range#cover? now accepts Range object as an argument</a> и <a href="https://blog.bigbinary.com/2018/10/23/rails-5-2-adds-dsl-for-configuring-content-security-policy-header.html">Rails 5.2 adds DSL for configuring Content Security Policy header</a></li>
+  <li><a href="http://www.wjwh.eu/posts/2018-10-29-double-hijack.html">Maintaining 65k open connections in a single Ruby process</a>, <a href="https://medium.com/textmaster-engineering/performance-of-regular-expressions-81371f569698">Performance of Regular Expressions</a> и <a href="https://blog.appsignal.com/2018/10/30/ruby-magic-building-a-ruby-c-extension-from-scratch.html">Building a Ruby C Extension From Scratch</a></li>
+  <li><a href="http://nts.strzibny.name/building-auto-login-for-fast-rails-development-with-sorcery/">Building auto login for fast Rails development with Sorcery</a>, <a href="https://metaredux.com/posts/2018/10/27/a-safer-rubocop.html">A Safer RuboCop</a> и <a href="https://www.railsmine.net/2018/10/introducing-enkrip.html">Introducing Enkrip</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://nodejs.org/en/blog/release/v11.0.0/">Node v11.0.0</a>, <a href="https://medium.com/storybookjs/storybook-4-0-is-here-10b9857fc7de">Storybook 4.0 is here!</a> и <a href="https://reactjs.org/blog/2018/10/23/react-v-16-6.html">React v16.6.0: lazy, memo and contextType</a></li>
+  <li><a href="https://reactjs.org/docs/hooks-intro.html">Introducing Hooks</a>, <a href="https://github.com/acdlite/recompose#a-note-from-the-author-acdlite-oct-25-2018">Recompose future</a> и <a href="https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/">Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation</a></li>
+  <li><a href="https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript">5 Tips to Write Better Conditionals in JavaScript</a>, <a href="https://github.com/gruns/irondb">IronDB - a resilient key-value store for the browser</a> и <a href="https://github.com/dulnan/lazy-brush">Lazy-brush - smooth drawing with a mouse, finger or any pointing device</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 30 Oct 2018 00:00:00 +0200</pubDate>
+  <link>http://www.rwpod.com/posts/2018/10/30/podcast-06-43.html</link>
+  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/10/30/podcast-06-43.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0643.mp3" length="43608774" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0643.mp3" fileSize="43608774" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Announcing Hanami v1.3.0, Ruby 2.6 Range#cover...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Announcing Hanami v1.3.0, Ruby 2.6 Range#cover? now accepts Range object as an argument и Rails 5.2 adds DSL for configuring Content Security Policy header
+
+  
+Maintaining 65k open connections in a single Ruby process, Performance of Regular Expressions и Building a Ruby C Extension From Scratch
+
+  
+Building auto login for fast Rails development with Sorcery, A Safer RuboCop и Introducing Enkrip
+
+
+
+JavaScript
+
+
+  
+Node v11.0.0, Storybook 4.0 is here! и React v16.6.0: lazy, memo and contextType
+
+  
+Introducing Hooks, Recompose future и Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation
+
+  
+5 Tips to Write Better Conditionals in JavaScript, IronDB - a resilient key-value store for the browser и Lazy-brush - smooth drawing with a mouse, finger or any pointing device
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="http://www.rwpod.com/images/static/06/0643.png"/>
+  <itunes:duration>00:45:24</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>42 выпуск 06 сезона. Upcase is Now Free, ActiveSupport::StringInquirer magic, Spok, Evergreen, Omi, Colorblindly и прочее</title>
   <description>
@@ -3513,108 +3607,6 @@ Chiccocoin: Learn what is a Blockchain by creating one in NodeJS, Web Assembly S
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="http://www.rwpod.com/images/static/06/0606.png"/>
   <itunes:duration>00:26:50</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>05 выпуск 06 сезона. Rails 5.2: Active Storage and beyond, Embedding Go into Ruby applications, Localer, Webpack demos и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@atul9/using-ruby-2-5s-new-integer-sqrt-cd9cb5955e12">Using Ruby 2.5’s new Integer#sqrt method</a>, <a href="https://evilmartians.com/chronicles/rails-5-2-active-storage-and-beyond">Rails 5.2: Active Storage and beyond</a> и <a href="https://medium.com/netflix-techblog/fast-json-api-serialization-with-ruby-on-rails-7c06578ad17f">Fast JSON API serialization with Ruby on Rails</a></li>
-  <li><a href="https://blog.magrathealabs.com/embedding-golang-into-a-ruby-application-7c2bf63e93cf">Embedding Go into Ruby applications</a>, <a href="https://github.com/aderyabin/localer">Localer - a tool that automatically detects missing I18n translations</a> и <a href="https://www.driftingruby.com/episodes/ruby-on-rails-tips-and-tricks">Ruby on Rails - Tips and Tricks (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://dev.degreed.com/8-things-every-front-end-developer-must-learn-a74bf868df4">8 Things Every Front-End Developer Must Learn</a>, <a href="https://www.bram.us/2018/01/30/whats-new-in-ecmascript2018/">JavaScript: What’s new in ECMAScript 2018 (ES2018)?</a> и <a href="https://hackernoon.com/an-introduction-to-graphql-2c3f7d8fb4e0">An Introduction to GraphQL</a></li>
-  <li><a href="https://www.smashingmagazine.com/2018/02/javascript-firefox-debugger/">Debugging JavaScript With A Real Debugger You Did Not Know You Already Have</a>, <a href="https://medium.com/clear-left-thinking/how-to-use-variable-fonts-in-the-real-world-e6d73065a604">How to use variable fonts in the real world</a> (<a href="https://www.typenetwork.com/brochure/decovar-a-decorative-variable-font-by-david-berlow">Decovar шрифт</a>) и <a href="https://github.com/ruanyf/webpack-demos">Webpack demos</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #20</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@atul9/using-ruby-2-5s-new-integer-sqrt-cd9cb5955e12">Using Ruby 2.5’s new Integer#sqrt method</a>, <a href="https://evilmartians.com/chronicles/rails-5-2-active-storage-and-beyond">Rails 5.2: Active Storage and beyond</a> и <a href="https://medium.com/netflix-techblog/fast-json-api-serialization-with-ruby-on-rails-7c06578ad17f">Fast JSON API serialization with Ruby on Rails</a></li>
-  <li><a href="https://blog.magrathealabs.com/embedding-golang-into-a-ruby-application-7c2bf63e93cf">Embedding Go into Ruby applications</a>, <a href="https://github.com/aderyabin/localer">Localer - a tool that automatically detects missing I18n translations</a> и <a href="https://www.driftingruby.com/episodes/ruby-on-rails-tips-and-tricks">Ruby on Rails - Tips and Tricks (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://dev.degreed.com/8-things-every-front-end-developer-must-learn-a74bf868df4">8 Things Every Front-End Developer Must Learn</a>, <a href="https://www.bram.us/2018/01/30/whats-new-in-ecmascript2018/">JavaScript: What’s new in ECMAScript 2018 (ES2018)?</a> и <a href="https://hackernoon.com/an-introduction-to-graphql-2c3f7d8fb4e0">An Introduction to GraphQL</a></li>
-  <li><a href="https://www.smashingmagazine.com/2018/02/javascript-firefox-debugger/">Debugging JavaScript With A Real Debugger You Did Not Know You Already Have</a>, <a href="https://medium.com/clear-left-thinking/how-to-use-variable-fonts-in-the-real-world-e6d73065a604">How to use variable fonts in the real world</a> (<a href="https://www.typenetwork.com/brochure/decovar-a-decorative-variable-font-by-david-berlow">Decovar шрифт</a>) и <a href="https://github.com/ruanyf/webpack-demos">Webpack demos</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #20</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 05 Feb 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/02/05/podcast-06-05.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/02/05/podcast-06-05.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0605.mp3" length="27378998" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0605.mp3" fileSize="27378998" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Using Ruby 2.5’s new Integer#sqrt method, Rail...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Using Ruby 2.5’s new Integer#sqrt method, Rails 5.2: Active Storage and beyond и Fast JSON API serialization with Ruby on Rails
-
-  
-Embedding Go into Ruby applications, Localer - a tool that automatically detects missing I18n translations и Ruby on Rails - Tips and Tricks (video)
-
-
-
-JavaScript
-
-
-  
-8 Things Every Front-End Developer Must Learn, JavaScript: What’s new in ECMAScript 2018 (ES2018)? и An Introduction to GraphQL
-
-  
-Debugging JavaScript With A Real Debugger You Did Not Know You Already Have, How to use variable fonts in the real world (Decovar шрифт) и Webpack demos
-
-
-
-Conferences
-
-
-  Ruby Meditation #20
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0605.png"/>
-  <itunes:duration>00:28:29</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
