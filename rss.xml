@@ -5,7 +5,7 @@
     <title>RWpod - подкаст про мир Ruby и Web технологии</title>
     <description>RWpod - подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле).</description>
     <language>ru</language>
-    <link>http://www.rwpod.com</link>
+    <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
     <pubDate>Mon, 12 Nov 2018 00:00:00 +0200</pubDate>
     <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0200</lastBuildDate>
@@ -13,7 +13,7 @@
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
     <itunes:explicit>clean</itunes:explicit>
-    <itunes:image href="http://www.rwpod.com/images/logo-fc8bfc81.png"/>
+    <itunes:image href="https://www.rwpod.com/images/logo-fc8bfc81.png"/>
     <itunes:owner>
       <itunes:name>RWpod команда</itunes:name>
       <itunes:email>rwpod.com@gmail.com</itunes:email>
@@ -24,7 +24,7 @@
       <itunes:category text="Software How-To"/>
     </itunes:category>
     <media:copyright>Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
-    <media:thumbnail url="http://www.rwpod.com/images/logo-fc8bfc81.png"/>
+    <media:thumbnail url="https://www.rwpod.com/images/logo-fc8bfc81.png"/>
     <media:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
@@ -72,8 +72,8 @@
 ]]>
   </content:encoded>
   <pubDate>Mon, 12 Nov 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/11/12/podcast-06-45.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/11/12/podcast-06-45.html</guid>
+  <link>https://www.rwpod.com/posts/2018/11/12/podcast-06-45.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/11/12/podcast-06-45.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0645.mp3" length="37738654" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0645.mp3" fileSize="37738654" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -109,7 +109,7 @@ JSBI - a pure-JavaScript implementation of the official ECMAScript BigInt propos
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0645.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0645.png"/>
   <itunes:duration>00:39:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -154,8 +154,8 @@ JSBI - a pure-JavaScript implementation of the official ECMAScript BigInt propos
 ]]>
   </content:encoded>
   <pubDate>Mon, 05 Nov 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/11/05/podcast-06-44.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/11/05/podcast-06-44.html</guid>
+  <link>https://www.rwpod.com/posts/2018/11/05/podcast-06-44.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/11/05/podcast-06-44.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0644.mp3" length="23396716" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0644.mp3" fileSize="23396716" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -188,7 +188,7 @@ The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await, 
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0644.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0644.png"/>
   <itunes:duration>00:24:20</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -239,8 +239,8 @@ The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await, 
 ]]>
   </content:encoded>
   <pubDate>Tue, 30 Oct 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/10/30/podcast-06-43.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/10/30/podcast-06-43.html</guid>
+  <link>https://www.rwpod.com/posts/2018/10/30/podcast-06-43.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/10/30/podcast-06-43.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0643.mp3" length="43608774" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0643.mp3" fileSize="43608774" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -282,7 +282,7 @@ Introducing Hooks, Recompose future и Playing Mortal Kombat with TensorFlow.js.
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0643.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0643.png"/>
   <itunes:duration>00:45:24</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -329,8 +329,8 @@ Introducing Hooks, Recompose future и Playing Mortal Kombat with TensorFlow.js.
 ]]>
   </content:encoded>
   <pubDate>Mon, 22 Oct 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/10/22/podcast-06-42.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/10/22/podcast-06-42.html</guid>
+  <link>https://www.rwpod.com/posts/2018/10/22/podcast-06-42.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/10/22/podcast-06-42.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0642.mp3" length="30752954" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0642.mp3" fileSize="30752954" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -366,7 +366,7 @@ Evergreen - a React UI Framework for building ambitious products on the web, Omi
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0642.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0642.png"/>
   <itunes:duration>00:32:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -413,8 +413,8 @@ Evergreen - a React UI Framework for building ambitious products on the web, Omi
 ]]>
   </content:encoded>
   <pubDate>Mon, 15 Oct 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/10/15/podcast-06-41.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/10/15/podcast-06-41.html</guid>
+  <link>https://www.rwpod.com/posts/2018/10/15/podcast-06-41.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/10/15/podcast-06-41.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0641.mp3" length="31603730" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0641.mp3" fileSize="31603730" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -450,7 +450,7 @@ Favicon Checker, Google Drive Electron - a Google Drive desktop app made with El
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0641.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0641.png"/>
   <itunes:duration>00:32:53</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -501,8 +501,8 @@ Favicon Checker, Google Drive Electron - a Google Drive desktop app made with El
 ]]>
   </content:encoded>
   <pubDate>Tue, 09 Oct 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/10/09/podcast-06-40.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/10/09/podcast-06-40.html</guid>
+  <link>https://www.rwpod.com/posts/2018/10/09/podcast-06-40.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/10/09/podcast-06-40.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0640.mp3" length="37238332" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0640.mp3" fileSize="37238332" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -544,7 +544,7 @@ Cogear.JS – modern static websites generator, imgToAscii - a JavaScript implem
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0640.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0640.png"/>
   <itunes:duration>00:38:46</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -591,8 +591,8 @@ Cogear.JS – modern static websites generator, imgToAscii - a JavaScript implem
 ]]>
   </content:encoded>
   <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/10/01/podcast-06-39.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/10/01/podcast-06-39.html</guid>
+  <link>https://www.rwpod.com/posts/2018/10/01/podcast-06-39.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/10/01/podcast-06-39.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0639.mp3" length="34248416" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0639.mp3" fileSize="34248416" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -628,7 +628,7 @@ TurtleDB - a framework for developers to build offline-first, collaborative web 
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0639.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0639.png"/>
   <itunes:duration>00:35:39</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -675,8 +675,8 @@ TurtleDB - a framework for developers to build offline-first, collaborative web 
 ]]>
   </content:encoded>
   <pubDate>Mon, 24 Sep 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/09/24/podcast-06-38.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/09/24/podcast-06-38.html</guid>
+  <link>https://www.rwpod.com/posts/2018/09/24/podcast-06-38.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/09/24/podcast-06-38.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0638.mp3" length="21192032" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0638.mp3" fileSize="21192032" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -712,7 +712,7 @@ iOS 12 Array reverse bug, RxDB - reactive, serverless, client-side, offline-firs
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0638.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0638.png"/>
   <itunes:duration>00:22:03</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -759,8 +759,8 @@ iOS 12 Array reverse bug, RxDB - reactive, serverless, client-side, offline-firs
 ]]>
   </content:encoded>
   <pubDate>Mon, 17 Sep 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/09/17/podcast-06-37.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/09/17/podcast-06-37.html</guid>
+  <link>https://www.rwpod.com/posts/2018/09/17/podcast-06-37.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/09/17/podcast-06-37.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0637.mp3" length="24929614" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0637.mp3" fileSize="24929614" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -796,7 +796,7 @@ Vuesax - a library of Vuejs components, Low.js - the port of Node.JS for embedde
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0637.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0637.png"/>
   <itunes:duration>00:25:56</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -861,8 +861,8 @@ Vuesax - a library of Vuejs components, Low.js - the port of Node.JS for embedde
 ]]>
   </content:encoded>
   <pubDate>Mon, 10 Sep 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/09/10/podcast-06-36.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/09/10/podcast-06-36.html</guid>
+  <link>https://www.rwpod.com/posts/2018/09/10/podcast-06-36.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/09/10/podcast-06-36.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0636.mp3" length="39764636" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0636.mp3" fileSize="39764636" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -911,7 +911,7 @@ Conferences
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0636.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0636.png"/>
   <itunes:duration>00:41:23</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -958,8 +958,8 @@ Conferences
 ]]>
   </content:encoded>
   <pubDate>Mon, 03 Sep 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/09/03/podcast-06-35.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/09/03/podcast-06-35.html</guid>
+  <link>https://www.rwpod.com/posts/2018/09/03/podcast-06-35.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/09/03/podcast-06-35.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0635.mp3" length="22939470" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0635.mp3" fileSize="22939470" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -995,7 +995,7 @@ Aijs.rocks - a collection of inspirational AI-driven projects written in JavaScr
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0635.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0635.png"/>
   <itunes:duration>00:23:52</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1042,8 +1042,8 @@ Aijs.rocks - a collection of inspirational AI-driven projects written in JavaScr
 ]]>
   </content:encoded>
   <pubDate>Mon, 27 Aug 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/08/27/podcast-06-34.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/08/27/podcast-06-34.html</guid>
+  <link>https://www.rwpod.com/posts/2018/08/27/podcast-06-34.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/08/27/podcast-06-34.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0634.mp3" length="28829544" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0634.mp3" fileSize="28829544" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1079,7 +1079,7 @@ Tips for Improving CSS and JS Animation Performance, VueToolbox - Collection of 
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0634.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0634.png"/>
   <itunes:duration>00:30:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1126,8 +1126,8 @@ Tips for Improving CSS and JS Animation Performance, VueToolbox - Collection of 
 ]]>
   </content:encoded>
   <pubDate>Mon, 20 Aug 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/08/20/podcast-06-33.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/08/20/podcast-06-33.html</guid>
+  <link>https://www.rwpod.com/posts/2018/08/20/podcast-06-33.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/08/20/podcast-06-33.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0633.mp3" length="20892194" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0633.mp3" fileSize="20892194" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1163,7 +1163,7 @@ TheoremJS - a Math framework for computation in JavaScript, Electron-wallpaper -
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0633.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0633.png"/>
   <itunes:duration>00:21:44</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1210,8 +1210,8 @@ TheoremJS - a Math framework for computation in JavaScript, Electron-wallpaper -
 ]]>
   </content:encoded>
   <pubDate>Mon, 13 Aug 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/08/13/podcast-06-32.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/08/13/podcast-06-32.html</guid>
+  <link>https://www.rwpod.com/posts/2018/08/13/podcast-06-32.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/08/13/podcast-06-32.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0632.mp3" length="20191644" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0632.mp3" fileSize="20191644" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1247,7 +1247,7 @@ Foxr - node.js API to control Firefox, SuperSlide.js - a lightweight, configurab
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0632.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0632.png"/>
   <itunes:duration>00:21:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1296,8 +1296,8 @@ Foxr - node.js API to control Firefox, SuperSlide.js - a lightweight, configurab
 ]]>
   </content:encoded>
   <pubDate>Mon, 06 Aug 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/08/06/podcast-06-31.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/08/06/podcast-06-31.html</guid>
+  <link>https://www.rwpod.com/posts/2018/08/06/podcast-06-31.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/08/06/podcast-06-31.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0631.mp3" length="25609828" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0631.mp3" fileSize="25609828" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1334,7 +1334,7 @@ The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rus
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0631.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0631.png"/>
   <itunes:duration>00:26:39</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1397,8 +1397,8 @@ The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rus
 ]]>
   </content:encoded>
   <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/07/30/cafe-008.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/30/cafe-008.html</guid>
+  <link>https://www.rwpod.com/posts/2018/07/30/cafe-008.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/30/cafe-008.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/cafe/008.mp3" length="50353070" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/cafe/008.mp3" fileSize="50353070" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1434,7 +1434,7 @@ The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rus
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/cafe/008.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/cafe/008.png"/>
   <itunes:duration>00:52:25</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1481,8 +1481,8 @@ The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rus
 ]]>
   </content:encoded>
   <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
+  <link>https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1518,7 +1518,7 @@ Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0630.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0630.png"/>
   <itunes:duration>00:19:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1569,8 +1569,8 @@ Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.
 ]]>
   </content:encoded>
   <pubDate>Mon, 23 Jul 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/07/23/podcast-06-29.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/23/podcast-06-29.html</guid>
+  <link>https://www.rwpod.com/posts/2018/07/23/podcast-06-29.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/23/podcast-06-29.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0629.mp3" length="34023144" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0629.mp3" fileSize="34023144" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1612,7 +1612,7 @@ Popbox.js - a tiny javascript plugin for creating stackable modals, Pushbar.js -
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0629.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0629.png"/>
   <itunes:duration>00:35:25</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1659,8 +1659,8 @@ Popbox.js - a tiny javascript plugin for creating stackable modals, Pushbar.js -
 ]]>
   </content:encoded>
   <pubDate>Tue, 17 Jul 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/07/17/podcast-06-28.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/17/podcast-06-28.html</guid>
+  <link>https://www.rwpod.com/posts/2018/07/17/podcast-06-28.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/17/podcast-06-28.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0628.mp3" length="34280241" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0628.mp3" fileSize="34280241" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1696,7 +1696,7 @@ The Best Explanation of JavaScript Reactivity, Chessboard.jsx - a customizable c
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0628.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0628.png"/>
   <itunes:duration>00:35:41</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1743,8 +1743,8 @@ The Best Explanation of JavaScript Reactivity, Chessboard.jsx - a customizable c
 ]]>
   </content:encoded>
   <pubDate>Mon, 09 Jul 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/07/09/podcast-06-27.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/09/podcast-06-27.html</guid>
+  <link>https://www.rwpod.com/posts/2018/07/09/podcast-06-27.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/09/podcast-06-27.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0627.mp3" length="30539880" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0627.mp3" fileSize="30539880" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1780,7 +1780,7 @@ Writing your own ESLint Plugin: Autofix code, Pnpm - fast, disk space efficient 
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0627.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0627.png"/>
   <itunes:duration>00:31:47</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1827,8 +1827,8 @@ Writing your own ESLint Plugin: Autofix code, Pnpm - fast, disk space efficient 
 ]]>
   </content:encoded>
   <pubDate>Mon, 02 Jul 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/07/02/podcast-06-26.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/07/02/podcast-06-26.html</guid>
+  <link>https://www.rwpod.com/posts/2018/07/02/podcast-06-26.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/02/podcast-06-26.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0626.mp3" length="25797674" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0626.mp3" fileSize="25797674" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1864,7 +1864,7 @@ TensorFlow.js, Machine Learning and Flappy Bird: Frontend Artificial Intelligenc
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0626.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0626.png"/>
   <itunes:duration>00:26:50</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1911,8 +1911,8 @@ TensorFlow.js, Machine Learning and Flappy Bird: Frontend Artificial Intelligenc
 ]]>
   </content:encoded>
   <pubDate>Mon, 25 Jun 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/06/25/podcast-06-25.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/06/25/podcast-06-25.html</guid>
+  <link>https://www.rwpod.com/posts/2018/06/25/podcast-06-25.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/06/25/podcast-06-25.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0625.mp3" length="29554478" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0625.mp3" fileSize="29554478" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -1948,7 +1948,7 @@ Sunsetting React Native, Introducing Teleport: Over-the-air hot reloading &amp; 
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0625.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0625.png"/>
   <itunes:duration>00:30:45</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -1995,8 +1995,8 @@ Sunsetting React Native, Introducing Teleport: Over-the-air hot reloading &amp; 
 ]]>
   </content:encoded>
   <pubDate>Mon, 18 Jun 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/06/18/podcast-06-24.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/06/18/podcast-06-24.html</guid>
+  <link>https://www.rwpod.com/posts/2018/06/18/podcast-06-24.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/06/18/podcast-06-24.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0624.mp3" length="22115130" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0624.mp3" fileSize="22115130" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2032,7 +2032,7 @@ JavaScript/WebGL library to detect and reproduce facial expressions, Polly.JS - 
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0624.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0624.png"/>
   <itunes:duration>00:23:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2079,8 +2079,8 @@ JavaScript/WebGL library to detect and reproduce facial expressions, Polly.JS - 
 ]]>
   </content:encoded>
   <pubDate>Mon, 11 Jun 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/06/11/podcast-06-23.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/06/11/podcast-06-23.html</guid>
+  <link>https://www.rwpod.com/posts/2018/06/11/podcast-06-23.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/06/11/podcast-06-23.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0623.mp3" length="27142806" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0623.mp3" fileSize="27142806" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2116,7 +2116,7 @@ Deno - a secure TypeScript runtime built on V8, 11 Javascript Animation Librarie
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0623.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0623.png"/>
   <itunes:duration>00:28:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2167,8 +2167,8 @@ Deno - a secure TypeScript runtime built on V8, 11 Javascript Animation Librarie
 ]]>
   </content:encoded>
   <pubDate>Mon, 04 Jun 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/06/04/podcast-06-22.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/06/04/podcast-06-22.html</guid>
+  <link>https://www.rwpod.com/posts/2018/06/04/podcast-06-22.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/06/04/podcast-06-22.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0622.mp3" length="41287104" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0622.mp3" fileSize="41287104" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2210,7 +2210,7 @@ Introduction to the Headless CMS и Firebase Cloud Functions: the great, the meh
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0622.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0622.png"/>
   <itunes:duration>00:42:59</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2257,8 +2257,8 @@ Introduction to the Headless CMS и Firebase Cloud Functions: the great, the meh
 ]]>
   </content:encoded>
   <pubDate>Mon, 28 May 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/05/28/podcast-06-21.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/05/28/podcast-06-21.html</guid>
+  <link>https://www.rwpod.com/posts/2018/05/28/podcast-06-21.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/05/28/podcast-06-21.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0621.mp3" length="33629372" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0621.mp3" fileSize="33629372" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2294,7 +2294,7 @@ Winds 2.0 - a Beautiful Open Source RSS &amp; Podcast App, Vuido - create native
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0621.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0621.png"/>
   <itunes:duration>00:35:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2341,8 +2341,8 @@ Winds 2.0 - a Beautiful Open Source RSS &amp; Podcast App, Vuido - create native
 ]]>
   </content:encoded>
   <pubDate>Mon, 21 May 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/05/21/podcast-06-20.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/05/21/podcast-06-20.html</guid>
+  <link>https://www.rwpod.com/posts/2018/05/21/podcast-06-20.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/05/21/podcast-06-20.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0620.mp3" length="24490668" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0620.mp3" fileSize="24490668" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2378,7 +2378,7 @@ Data-Forge - JavaScript data wrangling, transformation and analysis toolkit, Rom
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0620.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0620.png"/>
   <itunes:duration>00:25:29</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2425,8 +2425,8 @@ Data-Forge - JavaScript data wrangling, transformation and analysis toolkit, Rom
 ]]>
   </content:encoded>
   <pubDate>Mon, 14 May 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/05/14/podcast-06-19.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/05/14/podcast-06-19.html</guid>
+  <link>https://www.rwpod.com/posts/2018/05/14/podcast-06-19.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/05/14/podcast-06-19.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0619.mp3" length="21267302" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0619.mp3" fileSize="21267302" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2462,7 +2462,7 @@ Isomorphic-git - a pure JavaScript implementation of git for node and browsers, 
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0619.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0619.png"/>
   <itunes:duration>00:22:07</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2513,8 +2513,8 @@ Isomorphic-git - a pure JavaScript implementation of git for node and browsers, 
 ]]>
   </content:encoded>
   <pubDate>Mon, 07 May 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/05/07/podcast-06-18.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/05/07/podcast-06-18.html</guid>
+  <link>https://www.rwpod.com/posts/2018/05/07/podcast-06-18.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/05/07/podcast-06-18.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0618.mp3" length="32134910" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0618.mp3" fileSize="32134910" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2556,7 +2556,7 @@ Proton-native - a React environment for cross platform native desktop apps, Shee
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0618.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0618.png"/>
   <itunes:duration>00:33:27</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2619,8 +2619,8 @@ Proton-native - a React environment for cross platform native desktop apps, Shee
 ]]>
   </content:encoded>
   <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/05/01/podcast-06-17.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/05/01/podcast-06-17.html</guid>
+  <link>https://www.rwpod.com/posts/2018/05/01/podcast-06-17.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/05/01/podcast-06-17.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0617.mp3" length="38237878" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0617.mp3" fileSize="38237878" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2668,7 +2668,7 @@ Conferences
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0617.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0617.png"/>
   <itunes:duration>00:39:48</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2733,8 +2733,8 @@ Conferences
 ]]>
   </content:encoded>
   <pubDate>Mon, 23 Apr 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/04/23/podcast-06-16.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/04/23/podcast-06-16.html</guid>
+  <link>https://www.rwpod.com/posts/2018/04/23/podcast-06-16.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/04/23/podcast-06-16.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0616.mp3" length="39672922" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0616.mp3" fileSize="39672922" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2783,7 +2783,7 @@ Conferences
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0616.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0616.png"/>
   <itunes:duration>00:41:18</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2830,8 +2830,8 @@ Conferences
 ]]>
   </content:encoded>
   <pubDate>Mon, 16 Apr 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/04/16/podcast-06-15.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/04/16/podcast-06-15.html</guid>
+  <link>https://www.rwpod.com/posts/2018/04/16/podcast-06-15.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/04/16/podcast-06-15.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0615.mp3" length="22436074" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0615.mp3" fileSize="22436074" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2867,7 +2867,7 @@ Why React needed yet another animation library. Introducing: react-spring, VuePr
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0615.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0615.png"/>
   <itunes:duration>00:23:20</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2914,8 +2914,8 @@ Why React needed yet another animation library. Introducing: react-spring, VuePr
 ]]>
   </content:encoded>
   <pubDate>Mon, 09 Apr 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/04/09/podcast-06-14.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/04/09/podcast-06-14.html</guid>
+  <link>https://www.rwpod.com/posts/2018/04/09/podcast-06-14.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/04/09/podcast-06-14.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0614.mp3" length="26772440" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0614.mp3" fileSize="26772440" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -2951,7 +2951,7 @@ D3 5.0, Sails 1.0 has arrived и Here are examples of everything new in ECMAScri
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0614.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0614.png"/>
   <itunes:duration>00:27:51</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -2998,8 +2998,8 @@ D3 5.0, Sails 1.0 has arrived и Here are examples of everything new in ECMAScri
 ]]>
   </content:encoded>
   <pubDate>Mon, 02 Apr 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/04/02/podcast-06-13.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/04/02/podcast-06-13.html</guid>
+  <link>https://www.rwpod.com/posts/2018/04/02/podcast-06-13.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/04/02/podcast-06-13.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0613.mp3" length="42731642" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0613.mp3" fileSize="42731642" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -3035,7 +3035,7 @@ From Express.js to AWS Lambda: Migrating existing Node.js applications to server
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0613.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0613.png"/>
   <itunes:duration>00:44:29</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -3082,8 +3082,8 @@ From Express.js to AWS Lambda: Migrating existing Node.js applications to server
 ]]>
   </content:encoded>
   <pubDate>Mon, 26 Mar 2018 00:00:00 +0300</pubDate>
-  <link>http://www.rwpod.com/posts/2018/03/26/podcast-06-12.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/03/26/podcast-06-12.html</guid>
+  <link>https://www.rwpod.com/posts/2018/03/26/podcast-06-12.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/03/26/podcast-06-12.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0612.mp3" length="22116062" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0612.mp3" fileSize="22116062" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -3118,7 +3118,7 @@ How Gmail came to stop supporting CSS animations, Webdash - the customizable web
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0612.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0612.png"/>
   <itunes:duration>00:23:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -3173,8 +3173,8 @@ How Gmail came to stop supporting CSS animations, Webdash - the customizable web
 ]]>
   </content:encoded>
   <pubDate>Sat, 24 Mar 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/03/24/cafe-007.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/03/24/cafe-007.html</guid>
+  <link>https://www.rwpod.com/posts/2018/03/24/cafe-007.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/03/24/cafe-007.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/cafe/007.mp3" length="58469464" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/cafe/007.mp3" fileSize="58469464" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -3206,7 +3206,7 @@ How Gmail came to stop supporting CSS animations, Webdash - the customizable web
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/cafe/007.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/cafe/007.png"/>
   <itunes:duration>01:00:53</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -3253,8 +3253,8 @@ How Gmail came to stop supporting CSS animations, Webdash - the customizable web
 ]]>
   </content:encoded>
   <pubDate>Mon, 19 Mar 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/03/19/podcast-06-11.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/03/19/podcast-06-11.html</guid>
+  <link>https://www.rwpod.com/posts/2018/03/19/podcast-06-11.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/03/19/podcast-06-11.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0611.mp3" length="31396234" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0611.mp3" fileSize="31396234" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -3290,7 +3290,7 @@ Using Apache Kafka for Asynchronous Communication in Microservices, IDEA - an on
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0611.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0611.png"/>
   <itunes:duration>00:32:40</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -3341,8 +3341,8 @@ Using Apache Kafka for Asynchronous Communication in Microservices, IDEA - an on
 ]]>
   </content:encoded>
   <pubDate>Mon, 12 Mar 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/03/12/podcast-06-10.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/03/12/podcast-06-10.html</guid>
+  <link>https://www.rwpod.com/posts/2018/03/12/podcast-06-10.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/03/12/podcast-06-10.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0610.mp3" length="37911572" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0610.mp3" fileSize="37911572" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -3384,7 +3384,7 @@ AppBandit - Web Security Proxy in NodeJS and Electron, Driver - a light-weight, 
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0610.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0610.png"/>
   <itunes:duration>00:39:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -3435,8 +3435,8 @@ AppBandit - Web Security Proxy in NodeJS and Electron, Driver - a light-weight, 
 ]]>
   </content:encoded>
   <pubDate>Mon, 05 Mar 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/03/05/podcast-06-09.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/03/05/podcast-06-09.html</guid>
+  <link>https://www.rwpod.com/posts/2018/03/05/podcast-06-09.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/03/05/podcast-06-09.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0609.mp3" length="38534602" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0609.mp3" fileSize="38534602" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -3478,7 +3478,7 @@ Reactive Search - a React and React Native UI components library for Elasticsear
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0609.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0609.png"/>
   <itunes:duration>00:40:07</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
@@ -3537,8 +3537,8 @@ Reactive Search - a React and React Native UI components library for Elasticsear
 ]]>
   </content:encoded>
   <pubDate>Mon, 26 Feb 2018 00:00:00 +0200</pubDate>
-  <link>http://www.rwpod.com/posts/2018/02/26/podcast-06-08.html</link>
-  <guid isPermaLink="true">http://www.rwpod.com/posts/2018/02/26/podcast-06-08.html</guid>
+  <link>https://www.rwpod.com/posts/2018/02/26/podcast-06-08.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/02/26/podcast-06-08.html</guid>
   <enclosure url="https://mp3.rwpod.com/podcasts/06/0608.mp3" length="29073048" type="audio/mpeg"/>
   <media:content url="https://mp3.rwpod.com/podcasts/06/0608.mp3" fileSize="29073048" type="audio/mpeg"/>
   <itunes:author>RWpod команда</itunes:author>
@@ -3580,7 +3580,7 @@ Conferences
 
 </itunes:summary>
   <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="http://www.rwpod.com/images/static/06/0608.png"/>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0608.png"/>
   <itunes:duration>00:30:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
