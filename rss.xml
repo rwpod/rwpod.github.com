@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 12 Nov 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 12 Nov 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 19 Nov 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 19 Nov 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>46 выпуск 06 сезона. What’s new in Ruby 2.6?, The State of JavaScript 2018, WebpackerCli, TensorSpace, Slate и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://medium.com/tailor-tech/whats-new-in-ruby-2-6-a4774f3631c1">What’s new in Ruby 2.6?</a> и <a href="http://nts.strzibny.name/how-fast-is-ruby-2-5-2-6-and-2-6-jit-in-generating-prawn-pdfs/">How fast is Ruby 2.5, 2.6 and 2.6 –jit in generating Prawn PDFs</a></li>
+  <li><a href="https://medium.com/appaloosa-store-engineering/ruby-memory-activerecord-and-draper-64f06abeeb34">Ruby memory, ActiveRecord and Draper</a> и <a href="https://github.com/danielpclark/webpacker-cli">WebpackerCli - bringing the power of Webpacker to any web framework</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://2018.stateofjs.com/">The State of JavaScript 2018</a>, <a href="https://www.zdnet.com/article/google-to-pay-javascript-frameworks-to-implement-performance-first-code/">Google to pay JavaScript frameworks to implement performance-first code</a> и <a href="https://medium.freecodecamp.org/the-virtual-dom-is-slow-meet-the-memoized-dom-bb19f546cc52">The Virtual DOM is slow. Meet the Memoized DOM.</a></li>
+  <li><a href="https://tensorspace.org/">TensorSpace - a neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js</a>, <a href="https://docs.slatejs.org/">Slate - a completely customizable framework for building rich text editors</a> и <a href="https://github.com/leoafarias/neardb">NearDB - simple document db made for globally distributed reads</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://medium.com/tailor-tech/whats-new-in-ruby-2-6-a4774f3631c1">What’s new in Ruby 2.6?</a> и <a href="http://nts.strzibny.name/how-fast-is-ruby-2-5-2-6-and-2-6-jit-in-generating-prawn-pdfs/">How fast is Ruby 2.5, 2.6 and 2.6 –jit in generating Prawn PDFs</a></li>
+  <li><a href="https://medium.com/appaloosa-store-engineering/ruby-memory-activerecord-and-draper-64f06abeeb34">Ruby memory, ActiveRecord and Draper</a> и <a href="https://github.com/danielpclark/webpacker-cli">WebpackerCli - bringing the power of Webpacker to any web framework</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://2018.stateofjs.com/">The State of JavaScript 2018</a>, <a href="https://www.zdnet.com/article/google-to-pay-javascript-frameworks-to-implement-performance-first-code/">Google to pay JavaScript frameworks to implement performance-first code</a> и <a href="https://medium.freecodecamp.org/the-virtual-dom-is-slow-meet-the-memoized-dom-bb19f546cc52">The Virtual DOM is slow. Meet the Memoized DOM.</a></li>
+  <li><a href="https://tensorspace.org/">TensorSpace - a neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js</a>, <a href="https://docs.slatejs.org/">Slate - a completely customizable framework for building rich text editors</a> и <a href="https://github.com/leoafarias/neardb">NearDB - simple document db made for globally distributed reads</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 19 Nov 2018 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2018/11/19/podcast-06-46.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/11/19/podcast-06-46.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0646.mp3" length="25486316" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0646.mp3" fileSize="25486316" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  What’s new in Ruby 2.6? и How fast is Ruby 2.5...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+What’s new in Ruby 2.6? и How fast is Ruby 2.5, 2.6 and 2.6 –jit in generating Prawn PDFs
+
+  
+Ruby memory, ActiveRecord and Draper и WebpackerCli - bringing the power of Webpacker to any web framework
+
+
+
+JavaScript
+
+
+  
+The State of JavaScript 2018, Google to pay JavaScript frameworks to implement performance-first code и The Virtual DOM is slow. Meet the Memoized DOM.
+
+  
+TensorSpace - a neural network 3D visualization framework built by TensorFlow.js, Three.js and Tween.js, Slate - a completely customizable framework for building rich text editors и NearDB - simple document db made for globally distributed reads
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0646.png"/>
+  <itunes:duration>00:26:31</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>45 выпуск 06 сезона. Ruby 2.6.0-preview3, GraphQL Foundation, Five years of PostCSS, Capybara::Chrome, Agoo, Typerb, JSBI и прочее</title>
   <description>
@@ -3480,108 +3564,6 @@ Reactive Search - a React and React Native UI components library for Elasticsear
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0609.png"/>
   <itunes:duration>00:40:07</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>08 выпуск 06 сезона. Ruby 2.6.0-preview1, Webpack 4, Gzip a file in Ruby, Detect and Refactor JavaScript Copy-Paste Code и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2018/02/24/ruby-2-6-0-preview1-released/">Ruby 2.6.0-preview1 Released</a> и <a href="https://blog.bigbinary.com/2018/02/21/rails-5-2-supports-specifying-default-value-for-a-class_attribute.html">Rails 5.2 supports specifying default value for a class_attribute</a></li>
-  <li><a href="http://pdabrowski.com/blog/ruby-on-rails/rspec-fix-randomly-failing-tests-easily/">Ruby on Rails / RSpec – fix randomly failing tests easily</a>, <a href="https://philna.sh/blog/2018/02/25/gzip-file-ruby/">Gzip a file in Ruby</a> и <a href="https://www.nopio.com/blog/blockchain-app-ruby/">Blockchain App with Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/webpack/webpack-4-released-today-6cdb994702d4">Webpack 4: released today!!</a>, <a href="https://css-tricks.com/understanding-web-fonts-getting/">Understanding Web Fonts and Getting the Most Out of Them</a> и <a href="https://css-tricks.com/javascript-learning-landscape-2018/">The JavaScript Learning Landscape in 2018</a></li>
-  <li><a href="http://elijahmanor.com/js-copypaste-detect/">Detect and Refactor JavaScript Copy-Paste Code</a>, <a href="https://github.com/funkia/list">List - a purely functional alternative to arrays</a>, <a href="http://exploringjs.com/es2018-es2019/">Exploring ES2018 and ES2019</a> и <a href="https://github.com/maxchehab/CSS-Keylogging">CSS Keylogger</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/433063470484546/">Elixir Club 10</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2018/02/24/ruby-2-6-0-preview1-released/">Ruby 2.6.0-preview1 Released</a> и <a href="https://blog.bigbinary.com/2018/02/21/rails-5-2-supports-specifying-default-value-for-a-class_attribute.html">Rails 5.2 supports specifying default value for a class_attribute</a></li>
-  <li><a href="http://pdabrowski.com/blog/ruby-on-rails/rspec-fix-randomly-failing-tests-easily/">Ruby on Rails / RSpec – fix randomly failing tests easily</a>, <a href="https://philna.sh/blog/2018/02/25/gzip-file-ruby/">Gzip a file in Ruby</a> и <a href="https://www.nopio.com/blog/blockchain-app-ruby/">Blockchain App with Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/webpack/webpack-4-released-today-6cdb994702d4">Webpack 4: released today!!</a>, <a href="https://css-tricks.com/understanding-web-fonts-getting/">Understanding Web Fonts and Getting the Most Out of Them</a> и <a href="https://css-tricks.com/javascript-learning-landscape-2018/">The JavaScript Learning Landscape in 2018</a></li>
-  <li><a href="http://elijahmanor.com/js-copypaste-detect/">Detect and Refactor JavaScript Copy-Paste Code</a>, <a href="https://github.com/funkia/list">List - a purely functional alternative to arrays</a>, <a href="http://exploringjs.com/es2018-es2019/">Exploring ES2018 and ES2019</a> и <a href="https://github.com/maxchehab/CSS-Keylogging">CSS Keylogger</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://www.facebook.com/events/433063470484546/">Elixir Club 10</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 26 Feb 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/02/26/podcast-06-08.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/02/26/podcast-06-08.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0608.mp3" length="29073048" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0608.mp3" fileSize="29073048" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6.0-preview1 Released и Rails 5.2 suppo...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6.0-preview1 Released и Rails 5.2 supports specifying default value for a class_attribute
-
-  
-Ruby on Rails / RSpec – fix randomly failing tests easily, Gzip a file in Ruby и Blockchain App with Ruby
-
-
-
-JavaScript
-
-
-  
-Webpack 4: released today!!, Understanding Web Fonts and Getting the Most Out of Them и The JavaScript Learning Landscape in 2018
-
-  
-Detect and Refactor JavaScript Copy-Paste Code, List - a purely functional alternative to arrays, Exploring ES2018 and ES2019 и CSS Keylogger
-
-
-
-Conferences
-
-
-  Elixir Club 10
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0608.png"/>
-  <itunes:duration>00:30:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
