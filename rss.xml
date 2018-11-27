@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 19 Nov 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 19 Nov 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 26 Nov 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 26 Nov 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>47 выпуск 06 сезона. AnyCable 0.6.0, Dart for JavaScript Programmers, Iguvium, Modulation, CMS.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/anycable/anycable/releases/tag/v0.6.0">AnyCable 0.6.0</a>, <a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-avl-trees-6206bf2035e0">Mastering data structures in Ruby - AVL Trees</a> и <a href="https://thesmartnik.com/why-on-earth-do-fibers-exist.html">Why on earth do fibers exist?</a></li>
+  <li><a href="https://bits.citrusbyte.com/building-sql-expressions-with-sequel/">Building SQL expressions with Sequel</a>, <a href="https://dev.to/amplifr/outdated-browser-detection-with-browserslist-10co">Outdated browser detection with Browserslist</a>, <a href="https://github.com/adworse/iguvium">Iguvium extracts tables from PDF file in a structured form</a> и <a href="https://github.com/ciconia/modulation">Modulation - explicit dependency management for Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/dominictarr/event-stream/issues/116">NPM package with 2,000,000 weekly downloads had malicious code injected into it</a>, <a href="https://medium.com/flutter-community/dart-for-javascript-programmers-24c905aadf6">Dart for JavaScript Programmers</a> и <a href="https://bitsofco.de/why-and-how-to-use-webp-images-today/">Why and how to use WebP images today</a></li>
+  <li><a href="http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html">Compiler basics: lisp to assembly</a>, <a href="http://chrisdiana.github.io/cms.js/">CMS.js - fully client-side, Javascript site generator</a> и <a href="https://github.com/galvez/yamlful">Yamlful - a utility for HTTP client code generation from YAML</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/anycable/anycable/releases/tag/v0.6.0">AnyCable 0.6.0</a>, <a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-avl-trees-6206bf2035e0">Mastering data structures in Ruby - AVL Trees</a> и <a href="https://thesmartnik.com/why-on-earth-do-fibers-exist.html">Why on earth do fibers exist?</a></li>
+  <li><a href="https://bits.citrusbyte.com/building-sql-expressions-with-sequel/">Building SQL expressions with Sequel</a>, <a href="https://dev.to/amplifr/outdated-browser-detection-with-browserslist-10co">Outdated browser detection with Browserslist</a>, <a href="https://github.com/adworse/iguvium">Iguvium extracts tables from PDF file in a structured form</a> и <a href="https://github.com/ciconia/modulation">Modulation - explicit dependency management for Ruby</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://github.com/dominictarr/event-stream/issues/116">NPM package with 2,000,000 weekly downloads had malicious code injected into it</a>, <a href="https://medium.com/flutter-community/dart-for-javascript-programmers-24c905aadf6">Dart for JavaScript Programmers</a> и <a href="https://bitsofco.de/why-and-how-to-use-webp-images-today/">Why and how to use WebP images today</a></li>
+  <li><a href="http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html">Compiler basics: lisp to assembly</a>, <a href="http://chrisdiana.github.io/cms.js/">CMS.js - fully client-side, Javascript site generator</a> и <a href="https://github.com/galvez/yamlful">Yamlful - a utility for HTTP client code generation from YAML</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 26 Nov 2018 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2018/11/26/podcast-06-47.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/11/26/podcast-06-47.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0647.mp3" length="31628762" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0647.mp3" fileSize="31628762" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  AnyCable 0.6.0, Mastering data structures in R...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+AnyCable 0.6.0, Mastering data structures in Ruby - AVL Trees и Why on earth do fibers exist?
+
+  
+Building SQL expressions with Sequel, Outdated browser detection with Browserslist, Iguvium extracts tables from PDF file in a structured form и Modulation - explicit dependency management for Ruby
+
+
+
+JavaScript
+
+
+  
+NPM package with 2,000,000 weekly downloads had malicious code injected into it, Dart for JavaScript Programmers и Why and how to use WebP images today
+
+  
+Compiler basics: lisp to assembly, CMS.js - fully client-side, Javascript site generator и Yamlful - a utility for HTTP client code generation from YAML
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0647.png"/>
+  <itunes:duration>00:32:55</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>46 выпуск 06 сезона. What’s new in Ruby 2.6?, The State of JavaScript 2018, WebpackerCli, TensorSpace, Slate и прочее</title>
   <description>
@@ -3470,100 +3554,6 @@ AppBandit - Web Security Proxy in NodeJS and Electron, Driver - a light-weight, 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0610.png"/>
   <itunes:duration>00:39:28</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>09 выпуск 06 сезона. Passenger 5.2.1, Flutter beta 1, Clowne, Pain Points of GraphQL, Reactive Search, Flatbush, Prompts и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.phusion.nl/2018/02/27/passenger-5-2-1/">Passenger 5.2.1: Heroku RAM-pricing, Apache crash &amp; max pool idle time fixed</a>, <a href="https://atulbhosale.in/posts/2018-02-26-ruby-kernel-system-now-accepts-exception-flag-as-an-argument/">Kernel#system now accepts exception flag as an argument</a> и <a href="https://pawelurbanek.com/ruby-ios-comparison">Practical Differences between Working in Ruby and iOS</a></li>
-  <li><a href="https://evilmartians.com/chronicles/clowne-clone-ruby-models-with-a-smile">Clowne: Clone Ruby models with a smile</a>, <a href="https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/">Ruby Optimization with One Magic Comment</a> и <a href="https://medium.com/@awin/graphql-server-with-sinatra-ruby-part-1-fdd664170715">GraphQL server with Sinatra (Ruby)</a></li>
-  <li><a href="https://medium.com/@Arafat./solving-captchas-with-tensorflow-and-ruby-bc704c6ab92c">Solving CAPTCHAs with TensorFlow and Ruby</a> и <a href="https://github.com/scoutapp/ruby_server_timing">Server Timing Response Headers for Rails</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/ariya/phantomjs/issues/15344">PhantomJS project development suspended due to lack of contributions</a>, <a href="https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0">Announcing Flutter beta 1: Build beautiful native apps</a>, <a href="https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf">Why Flutter Uses Dart</a> и <a href="https://hackernoon.com/creating-webassembly-powered-library-for-modern-web-846da334f8fc">Creating WebAssembly-powered library for modern web</a></li>
-  <li><a href="https://labs.getninjas.com.br/pain-points-of-graphql-7e83ba5ddef7">Pain Points of GraphQL</a>, <a href="https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15">Please stop using console.log(), it’s broken…</a> и <a href="https://www.elephate.com/blog/ultimate-guide-javascript-seo/">The Ultimate Guide to JavaScript SEO</a></li>
-  <li><a href="https://github.com/appbaseio/reactivesearch/">Reactive Search - a React and React Native UI components library for Elasticsearch</a>, <a href="https://github.com/mourner/flatbush">Flatbush - a really fast static spatial index for 2D points and rectangles in JavaScript</a> и <a href="https://github.com/terkelg/prompts">Prompts - lightweight, beautiful and user-friendly interactive prompts</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.phusion.nl/2018/02/27/passenger-5-2-1/">Passenger 5.2.1: Heroku RAM-pricing, Apache crash &amp; max pool idle time fixed</a>, <a href="https://atulbhosale.in/posts/2018-02-26-ruby-kernel-system-now-accepts-exception-flag-as-an-argument/">Kernel#system now accepts exception flag as an argument</a> и <a href="https://pawelurbanek.com/ruby-ios-comparison">Practical Differences between Working in Ruby and iOS</a></li>
-  <li><a href="https://evilmartians.com/chronicles/clowne-clone-ruby-models-with-a-smile">Clowne: Clone Ruby models with a smile</a>, <a href="https://www.mikeperham.com/2018/02/28/ruby-optimization-with-one-magic-comment/">Ruby Optimization with One Magic Comment</a> и <a href="https://medium.com/@awin/graphql-server-with-sinatra-ruby-part-1-fdd664170715">GraphQL server with Sinatra (Ruby)</a></li>
-  <li><a href="https://medium.com/@Arafat./solving-captchas-with-tensorflow-and-ruby-bc704c6ab92c">Solving CAPTCHAs with TensorFlow and Ruby</a> и <a href="https://github.com/scoutapp/ruby_server_timing">Server Timing Response Headers for Rails</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/ariya/phantomjs/issues/15344">PhantomJS project development suspended due to lack of contributions</a>, <a href="https://medium.com/flutter-io/announcing-flutter-beta-1-build-beautiful-native-apps-dc142aea74c0">Announcing Flutter beta 1: Build beautiful native apps</a>, <a href="https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf">Why Flutter Uses Dart</a> и <a href="https://hackernoon.com/creating-webassembly-powered-library-for-modern-web-846da334f8fc">Creating WebAssembly-powered library for modern web</a></li>
-  <li><a href="https://labs.getninjas.com.br/pain-points-of-graphql-7e83ba5ddef7">Pain Points of GraphQL</a>, <a href="https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15">Please stop using console.log(), it’s broken…</a> и <a href="https://www.elephate.com/blog/ultimate-guide-javascript-seo/">The Ultimate Guide to JavaScript SEO</a></li>
-  <li><a href="https://github.com/appbaseio/reactivesearch/">Reactive Search - a React and React Native UI components library for Elasticsearch</a>, <a href="https://github.com/mourner/flatbush">Flatbush - a really fast static spatial index for 2D points and rectangles in JavaScript</a> и <a href="https://github.com/terkelg/prompts">Prompts - lightweight, beautiful and user-friendly interactive prompts</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 05 Mar 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/03/05/podcast-06-09.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/03/05/podcast-06-09.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0609.mp3" length="38534602" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0609.mp3" fileSize="38534602" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Passenger 5.2.1: Heroku RAM-pricing, Apache cr...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Passenger 5.2.1: Heroku RAM-pricing, Apache crash &amp; max pool idle time fixed, Kernel#system now accepts exception flag as an argument и Practical Differences between Working in Ruby and iOS
-
-  
-Clowne: Clone Ruby models with a smile, Ruby Optimization with One Magic Comment и GraphQL server with Sinatra (Ruby)
-
-  
-Solving CAPTCHAs with TensorFlow and Ruby и Server Timing Response Headers for Rails
-
-
-
-JavaScript
-
-
-  
-PhantomJS project development suspended due to lack of contributions, Announcing Flutter beta 1: Build beautiful native apps, Why Flutter Uses Dart и Creating WebAssembly-powered library for modern web
-
-  
-Pain Points of GraphQL, Please stop using console.log(), it’s broken… и The Ultimate Guide to JavaScript SEO
-
-  
-Reactive Search - a React and React Native UI components library for Elasticsearch, Flatbush - a really fast static spatial index for 2D points and rectangles in JavaScript и Prompts - lightweight, beautiful and user-friendly interactive prompts
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0609.png"/>
-  <itunes:duration>00:40:07</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
