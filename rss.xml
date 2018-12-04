@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 26 Nov 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 26 Nov 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 03 Dec 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,108 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>48 выпуск 06 сезона. Announcing Ruby Support for AWS Lambda, TypeScript 3.2, Sneaker Generator, Progress-estimator и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://aws.amazon.com/blogs/compute/announcing-ruby-support-for-aws-lambda/">Announcing Ruby Support for AWS Lambda</a>, <a href="https://blog.honeybadger.io/using-ruby-on-aws-lamba/">Using Ruby on AWS Lamba</a> и <a href="https://blog.phusion.nl/2018/11/30/passenger-6-0-generic-language-support/">Hello World! Meet: Passenger 6 / Generic Language Support</a></li>
+  <li><a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-graphs-caa5892d50b1">Mastering data structures in Ruby — Graphs</a>, <a href="https://blog.weareredlight.com/using-scenic-and-sql-views-to-aggregate-data-72861b75a0fd">Using Scenic and SQL views to aggregate data</a>, <a href="https://medium.com/@rajagopals/scaling-sidekiq-in-production-ca4d3d0002db">Scaling Sidekiq in production</a> и <a href="https://about.gitlab.com/2018/10/29/why-we-use-rails-to-build-gitlab/">Why we use Ruby on Rails to build GitLab</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/11/29/announcing-typescript-3-2/">Announcing TypeScript 3.2</a>, <a href="https://schneid.io/blog/event-stream-vulnerability-explained/">event-stream vulnerability explained</a> и <a href="https://medium.freecodecamp.org/pragmatic-rules-of-web-accessibility-that-will-stick-to-your-mind-9d3eb85a1a28">Pragmatic rules of web accessibility that will stick to your mind</a></li>
+  <li><a href="https://blog.bitsrc.io/comparing-http-request-libraries-for-2019-7bedb1089c83">Comparing JavaScript HTTP Requests Libraries for 2019</a>, <a href="https://98mprice.github.io/sneaker-generator/">Sneaker Generator</a> и <a href="https://github.com/bvaughn/progress-estimator">Progress-estimator - logs a progress bar and estimation for how long a Promise will take to complete</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #25</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://aws.amazon.com/blogs/compute/announcing-ruby-support-for-aws-lambda/">Announcing Ruby Support for AWS Lambda</a>, <a href="https://blog.honeybadger.io/using-ruby-on-aws-lamba/">Using Ruby on AWS Lamba</a> и <a href="https://blog.phusion.nl/2018/11/30/passenger-6-0-generic-language-support/">Hello World! Meet: Passenger 6 / Generic Language Support</a></li>
+  <li><a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-graphs-caa5892d50b1">Mastering data structures in Ruby — Graphs</a>, <a href="https://blog.weareredlight.com/using-scenic-and-sql-views-to-aggregate-data-72861b75a0fd">Using Scenic and SQL views to aggregate data</a>, <a href="https://medium.com/@rajagopals/scaling-sidekiq-in-production-ca4d3d0002db">Scaling Sidekiq in production</a> и <a href="https://about.gitlab.com/2018/10/29/why-we-use-rails-to-build-gitlab/">Why we use Ruby on Rails to build GitLab</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/11/29/announcing-typescript-3-2/">Announcing TypeScript 3.2</a>, <a href="https://schneid.io/blog/event-stream-vulnerability-explained/">event-stream vulnerability explained</a> и <a href="https://medium.freecodecamp.org/pragmatic-rules-of-web-accessibility-that-will-stick-to-your-mind-9d3eb85a1a28">Pragmatic rules of web accessibility that will stick to your mind</a></li>
+  <li><a href="https://blog.bitsrc.io/comparing-http-request-libraries-for-2019-7bedb1089c83">Comparing JavaScript HTTP Requests Libraries for 2019</a>, <a href="https://98mprice.github.io/sneaker-generator/">Sneaker Generator</a> и <a href="https://github.com/bvaughn/progress-estimator">Progress-estimator - logs a progress bar and estimation for how long a Promise will take to complete</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #25</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 03 Dec 2018 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2018/12/03/podcast-06-48.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/12/03/podcast-06-48.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0648.mp3" length="30021436" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0648.mp3" fileSize="30021436" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Announcing Ruby Support for AWS Lambda, Using ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Announcing Ruby Support for AWS Lambda, Using Ruby on AWS Lamba и Hello World! Meet: Passenger 6 / Generic Language Support
+
+  
+Mastering data structures in Ruby — Graphs, Using Scenic and SQL views to aggregate data, Scaling Sidekiq in production и Why we use Ruby on Rails to build GitLab
+
+
+
+JavaScript
+
+
+  
+Announcing TypeScript 3.2, event-stream vulnerability explained и Pragmatic rules of web accessibility that will stick to your mind
+
+  
+Comparing JavaScript HTTP Requests Libraries for 2019, Sneaker Generator и Progress-estimator - logs a progress bar and estimation for how long a Promise will take to complete
+
+
+
+Conferences
+
+
+  Ruby Meditation #25
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0648.png"/>
+  <itunes:duration>00:31:14</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>47 выпуск 06 сезона. AnyCable 0.6.0, Dart for JavaScript Programmers, Iguvium, Modulation, CMS.js и прочее</title>
   <description>
@@ -3460,100 +3562,6 @@ Using Apache Kafka for Asynchronous Communication in Microservices, IDEA - an on
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0611.png"/>
   <itunes:duration>00:32:40</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>10 выпуск 06 сезона. Using Genetic Algorithms in Ruby, Standardizing lessons learned from AMP, AppBandit, Risk, Coördinator, Mutag и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@scottm/refactoring-views-with-ruby-on-rails-activesupport-helpers-7d8b71c81ce2">Refactoring views with Ruby on Rails’ ActiveSupport helpers</a> и <a href="http://pdabrowski.com/blog/ruby-on-rails/slow-query-log/">Ruby on Rails – your own slow query log, no sql configuration required</a></li>
-  <li><a href="https://blog.codeship.com/using-genetic-algorithms-in-ruby/">Using Genetic Algorithms in Ruby</a>, <a href="http://gustavocaso.github.io/2018/03/grpc-tutorial-with-ruby/">Grpc Tutorial With Ruby</a> и <a href="https://medium.com/@kopilov.vlad/write-your-own-scss-compiler-68269278dcce">Write your own scss-compiler</a></li>
-  <li><a href="https://blog.stanko.io/rabbitmq-is-more-than-a-sidekiq-replacement-b730d8176fb">RabbitMQ is more than a Sidekiq replacement</a> и <a href="https://www.driftingruby.com/episodes/encrypted-credentials-in-rails-5-2">Encrypted Credentials in Rails 5.2</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://amphtml.wordpress.com/2018/03/08/standardizing-lessons-learned-from-amp/">Standardizing lessons learned from AMP</a>, <a href="https://responsivedesign.is/articles/amp-is-not-the-issue-its-google/">AMP is not the issue, it’s Google</a>, <a href="https://medium.com/@allanbaptista/the-problem-with-webpack-8a025268a761">The Problem with Webpack and Why It Is (Kind of) Our Fault</a> и <a href="https://www.telerik.com/blogs/choose-between-progressive-web-apps-react-native-nativescript-2018">Choosing Between Progressive Web Apps, React Native &amp; NativeScript in 2018</a></li>
-  <li><a href="https://medium.com/@fuladuf/how-i-organize-css-in-large-projects-using-ufocss-part-1-9d04417f39f3">How I organize CSS in large projects using UFOCSS - Part 1</a> и <a href="https://scotch.io/tutorials/get-started-with-ngupgrade-going-from-angularjs-to-angular">Get Started with ngUpgrade: Going from AngularJS to Angular</a></li>
-  <li><a href="https://secapps.com/appbandit">AppBandit - Web Security Proxy in NodeJS and Electron</a>, <a href="http://kamranahmed.info/driver">Driver - a light-weight, no-dependency, vanilla JavaScript engine to drive the user’s focus across the page</a>, <a href="https://risk.joshbassett.info/">Risk - an implementation of the popular board game Risk</a>, <a href="https://spotify.github.io/coordinator/">Coördinator - turn an SVG into XY coördinates</a>, <a href="https://github.com/chunqiuyiyu/mutag">Mutag - a simple MP3 file tag parser</a> и <a href="https://github.com/asfktz/Awaity.js">Awaity.js - a functional, lightweight alternative to bluebird.js, built with async / await in mind</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@scottm/refactoring-views-with-ruby-on-rails-activesupport-helpers-7d8b71c81ce2">Refactoring views with Ruby on Rails’ ActiveSupport helpers</a> и <a href="http://pdabrowski.com/blog/ruby-on-rails/slow-query-log/">Ruby on Rails – your own slow query log, no sql configuration required</a></li>
-  <li><a href="https://blog.codeship.com/using-genetic-algorithms-in-ruby/">Using Genetic Algorithms in Ruby</a>, <a href="http://gustavocaso.github.io/2018/03/grpc-tutorial-with-ruby/">Grpc Tutorial With Ruby</a> и <a href="https://medium.com/@kopilov.vlad/write-your-own-scss-compiler-68269278dcce">Write your own scss-compiler</a></li>
-  <li><a href="https://blog.stanko.io/rabbitmq-is-more-than-a-sidekiq-replacement-b730d8176fb">RabbitMQ is more than a Sidekiq replacement</a> и <a href="https://www.driftingruby.com/episodes/encrypted-credentials-in-rails-5-2">Encrypted Credentials in Rails 5.2</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://amphtml.wordpress.com/2018/03/08/standardizing-lessons-learned-from-amp/">Standardizing lessons learned from AMP</a>, <a href="https://responsivedesign.is/articles/amp-is-not-the-issue-its-google/">AMP is not the issue, it’s Google</a>, <a href="https://medium.com/@allanbaptista/the-problem-with-webpack-8a025268a761">The Problem with Webpack and Why It Is (Kind of) Our Fault</a> и <a href="https://www.telerik.com/blogs/choose-between-progressive-web-apps-react-native-nativescript-2018">Choosing Between Progressive Web Apps, React Native &amp; NativeScript in 2018</a></li>
-  <li><a href="https://medium.com/@fuladuf/how-i-organize-css-in-large-projects-using-ufocss-part-1-9d04417f39f3">How I organize CSS in large projects using UFOCSS - Part 1</a> и <a href="https://scotch.io/tutorials/get-started-with-ngupgrade-going-from-angularjs-to-angular">Get Started with ngUpgrade: Going from AngularJS to Angular</a></li>
-  <li><a href="https://secapps.com/appbandit">AppBandit - Web Security Proxy in NodeJS and Electron</a>, <a href="http://kamranahmed.info/driver">Driver - a light-weight, no-dependency, vanilla JavaScript engine to drive the user’s focus across the page</a>, <a href="https://risk.joshbassett.info/">Risk - an implementation of the popular board game Risk</a>, <a href="https://spotify.github.io/coordinator/">Coördinator - turn an SVG into XY coördinates</a>, <a href="https://github.com/chunqiuyiyu/mutag">Mutag - a simple MP3 file tag parser</a> и <a href="https://github.com/asfktz/Awaity.js">Awaity.js - a functional, lightweight alternative to bluebird.js, built with async / await in mind</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 12 Mar 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/03/12/podcast-06-10.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/03/12/podcast-06-10.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0610.mp3" length="37911572" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0610.mp3" fileSize="37911572" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Refactoring views with Ruby on Rails’ ActiveSu...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Refactoring views with Ruby on Rails’ ActiveSupport helpers и Ruby on Rails – your own slow query log, no sql configuration required
-
-  
-Using Genetic Algorithms in Ruby, Grpc Tutorial With Ruby и Write your own scss-compiler
-
-  
-RabbitMQ is more than a Sidekiq replacement и Encrypted Credentials in Rails 5.2
-
-
-
-JavaScript
-
-
-  
-Standardizing lessons learned from AMP, AMP is not the issue, it’s Google, The Problem with Webpack and Why It Is (Kind of) Our Fault и Choosing Between Progressive Web Apps, React Native &amp; NativeScript in 2018
-
-  
-How I organize CSS in large projects using UFOCSS - Part 1 и Get Started with ngUpgrade: Going from AngularJS to Angular
-
-  
-AppBandit - Web Security Proxy in NodeJS and Electron, Driver - a light-weight, no-dependency, vanilla JavaScript engine to drive the user’s focus across the page, Risk - an implementation of the popular board game Risk, Coördinator - turn an SVG into XY coördinates, Mutag - a simple MP3 file tag parser и Awaity.js - a functional, lightweight alternative to bluebird.js, built with async / await in mind
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0610.png"/>
-  <itunes:duration>00:39:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
