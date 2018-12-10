@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 03 Dec 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 03 Dec 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 10 Dec 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>49 выпуск 06 сезона. Ruby 2.6.0-rc1, Truffleruby 1.0 RC10, Microsoft is building its own Chrome browser to replace Edge, Sharp, ForgJs и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2018/12/06/ruby-2-6-0-rc1-released/">Ruby 2.6.0-rc1 Released</a>, <a href="https://github.com/oracle/truffleruby/blob/master/CHANGELOG.md#10-rc-10">Truffleruby 1.0 RC10</a> и <a href="https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop">Big on Heroku: Scaling Fountain without losing a drop</a></li>
+  <li><a href="https://blog.bigbinary.com/2018/12/05/passing-current-user-by-default-in-sidekiq.html">Passing current_user by default in Sidekiq</a>, <a href="https://medium.com/@rajagopals/activerecord-on-mysql-iterating-over-large-tables-with-conditions-453bd8761c8b">ActiveRecord on MySQL— Iterating over large tables with conditions</a> и <a href="https://blog.kiprosh.com/how-to-store-emoji-characters-with-ruby-on-rails-and-mysql/">How to store emoji characters with Ruby on Rails &amp; MySQL</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/">Microsoft Edge: Making the web better through more open source collaboration</a> и <a href="https://css-tricks.com/bridging-the-gap-between-css-and-javascript-css-modules-postcss-and-the-future-of-css/">Bridging the Gap Between CSS and JavaScript: CSS Modules, PostCSS and the Future of CSS</a></li>
+  <li><a href="https://uxdesign.cc/the-fastest-way-to-pinpoint-frustrating-user-experiences-1f8b95bc94aa">The fastest way to pinpoint frustrating user experiences</a>, <a href="https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458">6 JavaScript User Authentication Libraries for 2019</a>, <a href="https://github.com/lovell/sharp">Sharp - high performance Node.js image processing</a> и <a href="https://github.com/oussamahamdaoui/forgJs">ForgJs - a JavaScript lightweight object validator</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2018/12/06/ruby-2-6-0-rc1-released/">Ruby 2.6.0-rc1 Released</a>, <a href="https://github.com/oracle/truffleruby/blob/master/CHANGELOG.md#10-rc-10">Truffleruby 1.0 RC10</a> и <a href="https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop">Big on Heroku: Scaling Fountain without losing a drop</a></li>
+  <li><a href="https://blog.bigbinary.com/2018/12/05/passing-current-user-by-default-in-sidekiq.html">Passing current_user by default in Sidekiq</a>, <a href="https://medium.com/@rajagopals/activerecord-on-mysql-iterating-over-large-tables-with-conditions-453bd8761c8b">ActiveRecord on MySQL— Iterating over large tables with conditions</a> и <a href="https://blog.kiprosh.com/how-to-store-emoji-characters-with-ruby-on-rails-and-mysql/">How to store emoji characters with Ruby on Rails &amp; MySQL</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/">Microsoft Edge: Making the web better through more open source collaboration</a> и <a href="https://css-tricks.com/bridging-the-gap-between-css-and-javascript-css-modules-postcss-and-the-future-of-css/">Bridging the Gap Between CSS and JavaScript: CSS Modules, PostCSS and the Future of CSS</a></li>
+  <li><a href="https://uxdesign.cc/the-fastest-way-to-pinpoint-frustrating-user-experiences-1f8b95bc94aa">The fastest way to pinpoint frustrating user experiences</a>, <a href="https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458">6 JavaScript User Authentication Libraries for 2019</a>, <a href="https://github.com/lovell/sharp">Sharp - high performance Node.js image processing</a> и <a href="https://github.com/oussamahamdaoui/forgJs">ForgJs - a JavaScript lightweight object validator</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 10 Dec 2018 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2018/12/10/podcast-06-49.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/12/10/podcast-06-49.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0649.mp3" length="35354132" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0649.mp3" fileSize="35354132" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6.0-rc1 Released, Truffleruby 1.0 RC10 ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6.0-rc1 Released, Truffleruby 1.0 RC10 и Big on Heroku: Scaling Fountain without losing a drop
+
+  
+Passing current_user by default in Sidekiq, ActiveRecord on MySQL— Iterating over large tables with conditions и How to store emoji characters with Ruby on Rails &amp; MySQL
+
+
+
+JavaScript
+
+
+  
+Microsoft Edge: Making the web better through more open source collaboration и Bridging the Gap Between CSS and JavaScript: CSS Modules, PostCSS and the Future of CSS
+
+  
+The fastest way to pinpoint frustrating user experiences, 6 JavaScript User Authentication Libraries for 2019, Sharp - high performance Node.js image processing и ForgJs - a JavaScript lightweight object validator
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0649.png"/>
+  <itunes:duration>00:36:48</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>48 выпуск 06 сезона. Announcing Ruby Support for AWS Lambda, TypeScript 3.2, Sneaker Generator, Progress-estimator и прочее</title>
   <description>
@@ -3478,90 +3562,6 @@ How Gmail came to stop supporting CSS animations, Webdash - the customizable web
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/007.png"/>
   <itunes:duration>01:00:53</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>11 выпуск 06 сезона. Desktop Ruby GUI development, Let's Encrypt support wildcard certificates, SmooshGate, IDEA и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/03/13/ruby-2-5-adds-exception-full_message-method.html">Ruby 2.5 adds Exception#full_message method</a>, <a href="https://readysteadycode.com/howto-parse-command-line-options-with-ruby-slop">HOWTO parse command line options with Ruby Slop</a> и <a href="https://pawelurbanek.com/profitable-slack-bot-rails">How I’ve Built a Profitable Slack Bot as a Side Project in Rails</a></li>
-  <li><a href="https://saveriomiroddi.github.io/An-overview-of-ruby-gui-development-in-2018/">An overview of Desktop Ruby GUI development in 2018</a>, <a href="https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources">Best Ruby &amp; Ruby on Rails Resources</a> и <a href="https://github.com/mrkamel/search_flip">SearchFlip - full-featured ElasticSearch Ruby client with a chainable DSL</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579">Let’s Encrypt releases support for wildcard certificates</a>, <a href="https://blogs.windows.com/msedgedev/2018/03/13/bringing-expressive-performant-typography-to-microsoft-edge-with-variable-fonts/">Bringing expressive, performant typography to Microsoft Edge with Variable Fonts</a> и <a href="https://medium.com/@jacobdfriedmann/smooshgate-the-ongoing-struggle-between-progress-and-stability-in-javascript-2a971c1162dd">SmooshGate: The ongoing struggle between progress and stability in JavaScript</a></li>
-  <li><a href="https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/">Using Apache Kafka for Asynchronous Communication in Microservices</a>, <a href="https://idea-instructions.com/">IDEA - an ongoing series of nonverbal algorithm assembly instructions</a>, <a href="http://roughjs.com/">Rough.js - a light weight, Canvas based library that lets you draw in a sketchy, hand-drawn-like, style</a> и <a href="https://pqina.nl/filepond/">Filepond - a JavaScript library that can upload anything you throw at it</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/03/13/ruby-2-5-adds-exception-full_message-method.html">Ruby 2.5 adds Exception#full_message method</a>, <a href="https://readysteadycode.com/howto-parse-command-line-options-with-ruby-slop">HOWTO parse command line options with Ruby Slop</a> и <a href="https://pawelurbanek.com/profitable-slack-bot-rails">How I’ve Built a Profitable Slack Bot as a Side Project in Rails</a></li>
-  <li><a href="https://saveriomiroddi.github.io/An-overview-of-ruby-gui-development-in-2018/">An overview of Desktop Ruby GUI development in 2018</a>, <a href="https://www.leighhalliday.com/best-ruby-and-ruby-on-rails-resources">Best Ruby &amp; Ruby on Rails Resources</a> и <a href="https://github.com/mrkamel/search_flip">SearchFlip - full-featured ElasticSearch Ruby client with a chainable DSL</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579">Let’s Encrypt releases support for wildcard certificates</a>, <a href="https://blogs.windows.com/msedgedev/2018/03/13/bringing-expressive-performant-typography-to-microsoft-edge-with-variable-fonts/">Bringing expressive, performant typography to Microsoft Edge with Variable Fonts</a> и <a href="https://medium.com/@jacobdfriedmann/smooshgate-the-ongoing-struggle-between-progress-and-stability-in-javascript-2a971c1162dd">SmooshGate: The ongoing struggle between progress and stability in JavaScript</a></li>
-  <li><a href="https://blog.codeship.com/using-apache-kafka-for-asynchronous-communication-in-microservices/">Using Apache Kafka for Asynchronous Communication in Microservices</a>, <a href="https://idea-instructions.com/">IDEA - an ongoing series of nonverbal algorithm assembly instructions</a>, <a href="http://roughjs.com/">Rough.js - a light weight, Canvas based library that lets you draw in a sketchy, hand-drawn-like, style</a> и <a href="https://pqina.nl/filepond/">Filepond - a JavaScript library that can upload anything you throw at it</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 19 Mar 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/03/19/podcast-06-11.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/03/19/podcast-06-11.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0611.mp3" length="31396234" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0611.mp3" fileSize="31396234" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.5 adds Exception#full_message method, H...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.5 adds Exception#full_message method, HOWTO parse command line options with Ruby Slop и How I’ve Built a Profitable Slack Bot as a Side Project in Rails
-
-  
-An overview of Desktop Ruby GUI development in 2018, Best Ruby &amp; Ruby on Rails Resources и SearchFlip - full-featured ElasticSearch Ruby client with a chainable DSL
-
-
-
-JavaScript
-
-
-  
-Let’s Encrypt releases support for wildcard certificates, Bringing expressive, performant typography to Microsoft Edge with Variable Fonts и SmooshGate: The ongoing struggle between progress and stability in JavaScript
-
-  
-Using Apache Kafka for Asynchronous Communication in Microservices, IDEA - an ongoing series of nonverbal algorithm assembly instructions, Rough.js - a light weight, Canvas based library that lets you draw in a sketchy, hand-drawn-like, style и Filepond - a JavaScript library that can upload anything you throw at it
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0611.png"/>
-  <itunes:duration>00:32:40</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
