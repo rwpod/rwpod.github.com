@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 10 Dec 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Dec 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 17 Dec 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Dec 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>50 выпуск 06 сезона. Ruby 2.6.0-rc2, Mruby 2.0.0, Action Mailbox for Rails 6, GraphQL code generator, Matchit и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2018/12/15/ruby-2-6-0-rc2-released/">Ruby 2.6.0-rc2 Released</a>, <a href="https://mruby.org/releases/2018/12/11/mruby-2.0.0-released.html">Mruby 2.0.0</a>, <a href="https://weblog.rubyonrails.org/2018/12/13/introducing-action-mailbox-for-rails-6/">Introducing Action Mailbox for Rails 6</a> и <a href="https://about.gitlab.com/2018/12/11/introducing-gitlab-serverless/">Announcing GitLab Serverless</a></li>
+  <li><a href="https://dev.to/jalerson/building-aws-lambdas-for-real-world-using-ruby-and-serverless-framework-2p49">Building AWS Lambdas for Real World using Ruby and Serverless Framework</a>, <a href="https://medium.com/@pawelpacana/serverless-slack-bot-on-lambda-with-ruby-f43e199f8e35">Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</a> и <a href="https://www.cookieshq.co.uk/posts/how-to-build-a-serverless-twitter-bot-with-ruby-and-aws-lambda">How to build a serverless Twitter bot with Ruby and AWS Lambda</a></li>
+  <li><a href="https://blog.bigbinary.com/2018/12/11/rails-5-attributes-api.html">Rails 5 Active Record attributes API</a> и <a href="https://www.ruby-toolbox.com/blog/2018-12-14/project-health-indicators">Project Health Indicators</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d">A Recap of Frontend Development in 2018</a> и <a href="https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f">Our learnings from adopting GraphQL</a></li>
+  <li><a href="https://areknawo.com/lets-talk-js-documentation/">Let’s talk JS ⚡: documentation</a> и <a href="https://calendar.perfplanet.com/2018/performance-anti-patterns-base64-encoding/">Performance Anti-Patterns: Base64 Encoding</a></li>
+  <li><a href="https://graphql-code-generator.com/">GraphQL code generator</a> и <a href="https://github.com/lukeed/matchit">Matchit - quickly parse &amp; match URLs</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2018/12/15/ruby-2-6-0-rc2-released/">Ruby 2.6.0-rc2 Released</a>, <a href="https://mruby.org/releases/2018/12/11/mruby-2.0.0-released.html">Mruby 2.0.0</a>, <a href="https://weblog.rubyonrails.org/2018/12/13/introducing-action-mailbox-for-rails-6/">Introducing Action Mailbox for Rails 6</a> и <a href="https://about.gitlab.com/2018/12/11/introducing-gitlab-serverless/">Announcing GitLab Serverless</a></li>
+  <li><a href="https://dev.to/jalerson/building-aws-lambdas-for-real-world-using-ruby-and-serverless-framework-2p49">Building AWS Lambdas for Real World using Ruby and Serverless Framework</a>, <a href="https://medium.com/@pawelpacana/serverless-slack-bot-on-lambda-with-ruby-f43e199f8e35">Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</a> и <a href="https://www.cookieshq.co.uk/posts/how-to-build-a-serverless-twitter-bot-with-ruby-and-aws-lambda">How to build a serverless Twitter bot with Ruby and AWS Lambda</a></li>
+  <li><a href="https://blog.bigbinary.com/2018/12/11/rails-5-attributes-api.html">Rails 5 Active Record attributes API</a> и <a href="https://www.ruby-toolbox.com/blog/2018-12-14/project-health-indicators">Project Health Indicators</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d">A Recap of Frontend Development in 2018</a> и <a href="https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f">Our learnings from adopting GraphQL</a></li>
+  <li><a href="https://areknawo.com/lets-talk-js-documentation/">Let’s talk JS ⚡: documentation</a> и <a href="https://calendar.perfplanet.com/2018/performance-anti-patterns-base64-encoding/">Performance Anti-Patterns: Base64 Encoding</a></li>
+  <li><a href="https://graphql-code-generator.com/">GraphQL code generator</a> и <a href="https://github.com/lukeed/matchit">Matchit - quickly parse &amp; match URLs</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 17 Dec 2018 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2018/12/17/podcast-06-50.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/12/17/podcast-06-50.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0650.mp3" length="26632978" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0650.mp3" fileSize="26632978" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6.0-rc2 Released, Mruby 2.0.0, Introduc...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6.0-rc2 Released, Mruby 2.0.0, Introducing Action Mailbox for Rails 6 и Announcing GitLab Serverless
+
+  
+Building AWS Lambdas for Real World using Ruby and Serverless Framework, Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it) и How to build a serverless Twitter bot with Ruby and AWS Lambda
+
+  
+Rails 5 Active Record attributes API и Project Health Indicators
+
+
+
+JavaScript
+
+
+  
+A Recap of Frontend Development in 2018 и Our learnings from adopting GraphQL
+
+  
+Let’s talk JS ⚡: documentation и Performance Anti-Patterns: Base64 Encoding
+
+  
+GraphQL code generator и Matchit - quickly parse &amp; match URLs
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0650.png"/>
+  <itunes:duration>00:27:43</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>49 выпуск 06 сезона. Ruby 2.6.0-rc1, Truffleruby 1.0 RC10, Microsoft is building its own Chrome browser to replace Edge, Sharp, ForgJs и прочее</title>
   <description>
@@ -3474,94 +3568,6 @@ How Gmail came to stop supporting CSS animations, Webdash - the customizable web
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0612.png"/>
   <itunes:duration>00:23:00</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>RWPod Кафе 7: Oleg Antonyan и Rust</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Oleg Antonyan:</p>
-
-<ul>
-  <li>Кто ты?</li>
-  <li><a href="https://insights.stackoverflow.com/survey/2018/">Developer Survey Results 2018</a></li>
-  <li><a href="https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579">Let’s Encrypt releases support for wildcard certificates</a></li>
-  <li><a href="https://github.com/atom/xray">Atom + Rust = XRay</a></li>
-  <li><a href="https://usehelix.com/">Ruby + Rust = Helix</a></li>
-  <li>Математика и программирование</li>
-  <li><a href="https://www.recode.net/2018/3/7/17093808/alexa-laughing-amazon-solution-fix">Amazon thinks it has a fix to Alexa’s terrifying laughing issue</a></li>
-  <li><a href="https://thenextweb.com/dd/2018/03/05/30-of-the-web-now-runs-on-wordpress/">30% of all sites now run on WordPress</a></li>
-  <li><a href="https://chrismorgan.info/blog/rust-fizzbuzz.html">Why your first FizzBuzz implementation may not work</a></li>
-  <li>
-    <p>Пожелания слушателям.</p>
-  </li>
-  <li><a href="http://undefined-reference.org/">Blog</a></li>
-  <li><a href="https://github.com/olegantonyan">Github</a></li>
-  <li><a href="https://twitter.com/oleg_antonyan">Twitter</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Oleg Antonyan:</p>
-
-<ul>
-  <li>Кто ты?</li>
-  <li><a href="https://insights.stackoverflow.com/survey/2018/">Developer Survey Results 2018</a></li>
-  <li><a href="https://community.letsencrypt.org/t/acme-v2-and-wildcard-certificate-support-is-live/55579">Let’s Encrypt releases support for wildcard certificates</a></li>
-  <li><a href="https://github.com/atom/xray">Atom + Rust = XRay</a></li>
-  <li><a href="https://usehelix.com/">Ruby + Rust = Helix</a></li>
-  <li>Математика и программирование</li>
-  <li><a href="https://www.recode.net/2018/3/7/17093808/alexa-laughing-amazon-solution-fix">Amazon thinks it has a fix to Alexa’s terrifying laughing issue</a></li>
-  <li><a href="https://thenextweb.com/dd/2018/03/05/30-of-the-web-now-runs-on-wordpress/">30% of all sites now run on WordPress</a></li>
-  <li><a href="https://chrismorgan.info/blog/rust-fizzbuzz.html">Why your first FizzBuzz implementation may not work</a></li>
-  <li>
-    <p>Пожелания слушателям.</p>
-  </li>
-  <li><a href="http://undefined-reference.org/">Blog</a></li>
-  <li><a href="https://github.com/olegantonyan">Github</a></li>
-  <li><a href="https://twitter.com/oleg_antonyan">Twitter</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Sat, 24 Mar 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/03/24/cafe-007.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/03/24/cafe-007.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/cafe/007.mp3" length="58469464" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/cafe/007.mp3" fileSize="58469464" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Oleg Antonyan:
-
-
-  Кто ты?
-  Developer Survey Results 2018
-  Let’s Encrypt releases su...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Oleg Antonyan:
-
-
-  Кто ты?
-  Developer Survey Results 2018
-  Let’s Encrypt releases support for wildcard certificates
-  Atom + Rust = XRay
-  Ruby + Rust = Helix
-  Математика и программирование
-  Amazon thinks it has a fix to Alexa’s terrifying laughing issue
-  30% of all sites now run on WordPress
-  Why your first FizzBuzz implementation may not work
-  
-    Пожелания слушателям.
-  
-  Blog
-  Github
-  Twitter
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/cafe/007.png"/>
-  <itunes:duration>01:00:53</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
