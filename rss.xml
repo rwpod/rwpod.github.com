@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 17 Dec 2018 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 17 Dec 2018 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 24 Dec 2018 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Dec 2018 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>51 выпуск 06 сезона. RubyGems 3.0.0, Ruby 2.6 JIT, Electron 4.0.0, React v16.7, Neural Network Knows When Cat Wants To Go Outside и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.rubygems.org/2018/12/19/3.0.0-released.html">RubyGems 3.0.0 Released</a>, <a href="https://weblog.rubyonrails.org/2018/12/20/timeline-for-the-release-of-Rails-6-0/">Timeline for the release of Rails 6.0</a> и <a href="https://medium.com/@k0kubun/ruby-2-6-jit-progress-and-future-84e0a830ecbf">Ruby 2.6 JIT - Progress and Future</a></li>
+  <li><a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-recap-682a698b90d0">Mastering data structures in Ruby — Recap</a>, <a href="https://medium.com/rubyinside/disassembling-rails-template-rendering-2-a99214c6fde8">Disassembling Rails — Template Rendering (2)</a> и <a href="https://planetruby.github.io/calendar/2019.html">Ruby Conferences ‘n’ Camps in 2019 - What’s Upcoming?</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://electronjs.org/blog/electron-4-0">Electron 4.0.0</a>, <a href="https://reactjs.org/blog/2018/12/19/react-v-16-7.html">React v16.7: No, This Is Not The One With Hooks</a> и <a href="https://overreacted.io/why-do-hooks-rely-on-call-order/">Why Do React Hooks Rely on Call Order?</a></li>
+  <li><a href="https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a">Why I no longer use D3.js</a>, <a href="https://statsbot.co/blog/building-open-source-google-analytics-from-scratch/">Building Open Source Google Analytics from Scratch</a> и <a href="https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/">Neural Network Knows When Cat Wants To Go Outside</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.rubygems.org/2018/12/19/3.0.0-released.html">RubyGems 3.0.0 Released</a>, <a href="https://weblog.rubyonrails.org/2018/12/20/timeline-for-the-release-of-Rails-6-0/">Timeline for the release of Rails 6.0</a> и <a href="https://medium.com/@k0kubun/ruby-2-6-jit-progress-and-future-84e0a830ecbf">Ruby 2.6 JIT - Progress and Future</a></li>
+  <li><a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-recap-682a698b90d0">Mastering data structures in Ruby — Recap</a>, <a href="https://medium.com/rubyinside/disassembling-rails-template-rendering-2-a99214c6fde8">Disassembling Rails — Template Rendering (2)</a> и <a href="https://planetruby.github.io/calendar/2019.html">Ruby Conferences ‘n’ Camps in 2019 - What’s Upcoming?</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://electronjs.org/blog/electron-4-0">Electron 4.0.0</a>, <a href="https://reactjs.org/blog/2018/12/19/react-v-16-7.html">React v16.7: No, This Is Not The One With Hooks</a> и <a href="https://overreacted.io/why-do-hooks-rely-on-call-order/">Why Do React Hooks Rely on Call Order?</a></li>
+  <li><a href="https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a">Why I no longer use D3.js</a>, <a href="https://statsbot.co/blog/building-open-source-google-analytics-from-scratch/">Building Open Source Google Analytics from Scratch</a> и <a href="https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/">Neural Network Knows When Cat Wants To Go Outside</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 24 Dec 2018 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2018/12/24/podcast-06-51.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/12/24/podcast-06-51.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0651.mp3" length="30235054" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0651.mp3" fileSize="30235054" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  RubyGems 3.0.0 Released, Timeline for the rele...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+RubyGems 3.0.0 Released, Timeline for the release of Rails 6.0 и Ruby 2.6 JIT - Progress and Future
+
+  
+Mastering data structures in Ruby — Recap, Disassembling Rails — Template Rendering (2) и Ruby Conferences ‘n’ Camps in 2019 - What’s Upcoming?
+
+
+
+JavaScript
+
+
+  
+Electron 4.0.0, React v16.7: No, This Is Not The One With Hooks и Why Do React Hooks Rely on Call Order?
+
+  
+Why I no longer use D3.js, Building Open Source Google Analytics from Scratch и Neural Network Knows When Cat Wants To Go Outside
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0651.png"/>
+  <itunes:duration>00:31:28</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>50 выпуск 06 сезона. Ruby 2.6.0-rc2, Mruby 2.0.0, Action Mailbox for Rails 6, GraphQL code generator, Matchit и прочее</title>
   <description>
@@ -3485,89 +3569,6 @@ From Express.js to AWS Lambda: Migrating existing Node.js applications to server
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0613.png"/>
   <itunes:duration>00:44:29</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>12 выпуск 06 сезона. Towards The Ruby 3×3 Performance Goal, Code editors for Mac, Webdash, ScrollBooster и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://developers.redhat.com/blog/2018/03/22/ruby-3x3-performance-goal/">Towards The Ruby 3×3 Performance Goal</a>, <a href="https://blog.browntreelabs.com/rails-is-still-king/">Rails is still King</a> и <a href="https://blog.phusion.nl/2018/03/21/how-to-win-friends-and-open-source-your-software/">How to win friends and open-source your software</a> (затронул поддержку <a href="https://github.com/railsware/upterm">Upterm</a>)</li>
-  <li><a href="https://medium.com/@davidmles/code-editors-for-mac-747fe90334d">Code editors for Mac</a>, <a href="https://zverok.github.io/blog/2018-03-23-yield_self2.html">More yield_self awesomeness. Also, the new name proposed</a> и <a href="https://medium.com/@farsi_mehdi/2-quick-tips-for-irb-360343bb8eb7">2 quick tips for IRB</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://webassemblycode.com/webassembly-cant-access-dom/">Webassembly can’t access the DOM. What?</a> и <a href="https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c">11 Javascript Machine Learning Libraries To Use In Your App</a></li>
-  <li><a href="https://emails.hteumeuleu.com/how-gmail-came-to-stop-supporting-css-animations-4e6fd81f1b75">How Gmail came to stop supporting CSS animations</a>, <a href="https://webdash.xyz/">Webdash - the customizable web dashboard</a> и <a href="https://ilyashubin.github.io/scrollbooster/">ScrollBooster - enjoyable content drag-to-scroll library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://developers.redhat.com/blog/2018/03/22/ruby-3x3-performance-goal/">Towards The Ruby 3×3 Performance Goal</a>, <a href="https://blog.browntreelabs.com/rails-is-still-king/">Rails is still King</a> и <a href="https://blog.phusion.nl/2018/03/21/how-to-win-friends-and-open-source-your-software/">How to win friends and open-source your software</a> (затронул поддержку <a href="https://github.com/railsware/upterm">Upterm</a>)</li>
-  <li><a href="https://medium.com/@davidmles/code-editors-for-mac-747fe90334d">Code editors for Mac</a>, <a href="https://zverok.github.io/blog/2018-03-23-yield_self2.html">More yield_self awesomeness. Also, the new name proposed</a> и <a href="https://medium.com/@farsi_mehdi/2-quick-tips-for-irb-360343bb8eb7">2 quick tips for IRB</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://webassemblycode.com/webassembly-cant-access-dom/">Webassembly can’t access the DOM. What?</a> и <a href="https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c">11 Javascript Machine Learning Libraries To Use In Your App</a></li>
-  <li><a href="https://emails.hteumeuleu.com/how-gmail-came-to-stop-supporting-css-animations-4e6fd81f1b75">How Gmail came to stop supporting CSS animations</a>, <a href="https://webdash.xyz/">Webdash - the customizable web dashboard</a> и <a href="https://ilyashubin.github.io/scrollbooster/">ScrollBooster - enjoyable content drag-to-scroll library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 26 Mar 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/03/26/podcast-06-12.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/03/26/podcast-06-12.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0612.mp3" length="22116062" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0612.mp3" fileSize="22116062" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Towards The Ruby 3×3 Performance Goal, Rails i...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Towards The Ruby 3×3 Performance Goal, Rails is still King и How to win friends and open-source your software (затронул поддержку Upterm)
-  
-Code editors for Mac, More yield_self awesomeness. Also, the new name proposed и 2 quick tips for IRB
-
-
-
-JavaScript
-
-
-  
-Webassembly can’t access the DOM. What? и 11 Javascript Machine Learning Libraries To Use In Your App
-
-  
-How Gmail came to stop supporting CSS animations, Webdash - the customizable web dashboard и ScrollBooster - enjoyable content drag-to-scroll library
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0612.png"/>
-  <itunes:duration>00:23:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
