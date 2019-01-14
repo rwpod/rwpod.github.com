@@ -36,7 +36,7 @@
       display: block;
       padding: 8px 15px;
       border-radius: 2px;
-      transition: background 0.3s ease; }
+      transition: background .3s ease; }
       .navigation a:hover {
         background: #f4f2ec; }
     .left-side .navigation {
@@ -64,6 +64,5 @@
       top: 153px;
       padding-bottom: 5px;
       border-radius: 0 0 2px 2px; }
-
   .menu-toggle {
     display: inline-block; } }

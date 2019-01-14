@@ -45,7 +45,7 @@ header.header {
   padding: 20px;
   margin: 0 auto; }
   .body:after {
-    content: "";
+    content: '';
     display: block;
     height: 64px; }
 
@@ -77,14 +77,13 @@ footer.footer {
   header.header .left-side,
   header.header .right-side {
     width: 34%; } }
+
 @media screen and (max-width: 768px) {
   .mainbar {
     width: 100%;
     padding: 0; }
-
   .sidebar {
     display: none; }
-
   footer.footer ul {
     display: none; }
   footer.footer .col1of2 {

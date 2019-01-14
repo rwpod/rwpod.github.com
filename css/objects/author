@@ -23,7 +23,7 @@
       color: #d26748;
       border-radius: 50%;
       margin-right: 5px;
-      transition: background 0.3s ease; }
+      transition: background .3s ease; }
       .author .contacts a:hover {
         background: #ead9af; }
         .author .contacts a:hover .svg-icon {

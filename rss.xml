@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 07 Jan 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 07 Jan 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 14 Jan 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 14 Jan 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -30,6 +30,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 <item>
+  <title>02 выпуск 07 сезона. Exploring a critical Net::Protocol issue in Ruby 2.6.0p0, Rubyoshka, Anime.js, React Kawaii и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://mensfeld.pl/2019/01/exploring-a-critical-netprotocol-issue-in-ruby-2-6-0p0-and-how-it-can-lead-to-a-security-problem/">Exploring a critical Net::Protocol issue in Ruby 2.6.0p0 and how it can lead to a security problem</a>, <a href="https://frontdeveloper.pl/2019/01/common-mistakes-that-cause-ruby-on-rails-apps-outages/">Common mistakes that cause Ruby on Rails apps outages</a> и <a href="https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html">3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present</a></li>
+  <li><a href="https://aonemd.github.io/blog/extracting-text-from-images-using-ruby">Extracting Text From Images Using Ruby</a>, <a href="https://www.driftingruby.com/episodes/using-action-text-in-a-rails-5-2-application">Using Action Text in a Rails 5.2 Application</a>, <a href="https://github.com/digital-fabric/rubyoshka">Rubyoshka - Composable HTML templating for Ruby</a> и <a href="https://hackernoon.com/recommended-books-blogs-for-software-engineers-8a4351abe804">25+ Recommended Blogs &amp; Books for Developers</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.github.com/2019-01-07-new-year-new-github/">New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering</a>, <a href="https://aws.amazon.com/documentdb/">Amazon DocumentDB (with MongoDB compatibility)</a>, <a href="https://www.zdnet.com/article/google-chromes-built-in-ad-blocker-to-roll-out-worldwide-on-july-9/">Google Chrome’s built-in ad blocker to roll out worldwide on July 9</a> и <a href="https://www.javascriptjanuary.com/blog/defensive-javascript">Defensive JavaScript</a></li>
+  <li><a href="https://animejs.com/">Anime.js v3.0.0</a>, <a href="https://areknawo.com/your-webgl-aiders/">Your WebGL aiders</a>, <a href="https://www.fullstack.io/30-days-of-vue/">30 Days of Vue</a> и <a href="https://react-kawaii.now.sh/">React Kawaii - Cute React SVG Components</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://mensfeld.pl/2019/01/exploring-a-critical-netprotocol-issue-in-ruby-2-6-0p0-and-how-it-can-lead-to-a-security-problem/">Exploring a critical Net::Protocol issue in Ruby 2.6.0p0 and how it can lead to a security problem</a>, <a href="https://frontdeveloper.pl/2019/01/common-mistakes-that-cause-ruby-on-rails-apps-outages/">Common mistakes that cause Ruby on Rails apps outages</a> и <a href="https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html">3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present</a></li>
+  <li><a href="https://aonemd.github.io/blog/extracting-text-from-images-using-ruby">Extracting Text From Images Using Ruby</a>, <a href="https://www.driftingruby.com/episodes/using-action-text-in-a-rails-5-2-application">Using Action Text in a Rails 5.2 Application</a>, <a href="https://github.com/digital-fabric/rubyoshka">Rubyoshka - Composable HTML templating for Ruby</a> и <a href="https://hackernoon.com/recommended-books-blogs-for-software-engineers-8a4351abe804">25+ Recommended Blogs &amp; Books for Developers</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.github.com/2019-01-07-new-year-new-github/">New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering</a>, <a href="https://aws.amazon.com/documentdb/">Amazon DocumentDB (with MongoDB compatibility)</a>, <a href="https://www.zdnet.com/article/google-chromes-built-in-ad-blocker-to-roll-out-worldwide-on-july-9/">Google Chrome’s built-in ad blocker to roll out worldwide on July 9</a> и <a href="https://www.javascriptjanuary.com/blog/defensive-javascript">Defensive JavaScript</a></li>
+  <li><a href="https://animejs.com/">Anime.js v3.0.0</a>, <a href="https://areknawo.com/your-webgl-aiders/">Your WebGL aiders</a>, <a href="https://www.fullstack.io/30-days-of-vue/">30 Days of Vue</a> и <a href="https://react-kawaii.now.sh/">React Kawaii - Cute React SVG Components</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 14 Jan 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/01/14/podcast-07-02.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/01/14/podcast-07-02.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0702.mp3" length="37740042" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0702.mp3" fileSize="37740042" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Exploring a critical Net::Protocol issue in Ru...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Exploring a critical Net::Protocol issue in Ruby 2.6.0p0 and how it can lead to a security problem, Common mistakes that cause Ruby on Rails apps outages и 3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present
+
+  
+Extracting Text From Images Using Ruby, Using Action Text in a Rails 5.2 Application, Rubyoshka - Composable HTML templating for Ruby и 25+ Recommended Blogs &amp; Books for Developers
+
+
+
+Web
+
+
+  
+New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering, Amazon DocumentDB (with MongoDB compatibility), Google Chrome’s built-in ad blocker to roll out worldwide on July 9 и Defensive JavaScript
+
+  
+Anime.js v3.0.0, Your WebGL aiders, 30 Days of Vue и React Kawaii - Cute React SVG Components
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0702.png"/>
+  <itunes:duration>00:39:17</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
   <title>01 выпуск 07 сезона. Ruby 2.6.0 Released, Bundler 2, TensorStream, How To Learn CSS, FBT, Readlint, Bandersnatch Life и прочее</title>
   <description>
     <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
@@ -41,7 +125,7 @@
   <li><a href="https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d">TensorStream: Bringing Machine Learning to Ruby</a>, <a href="http://bootstrap.me.uk/gems/2019/01/06/jongleur-etl.html">Parallelising ETL workflows with the Jongleur gem</a> и <a href="https://github.com/cryptocopycats/programming-cryptocollectibles">Programming Crypto Collectibles Step-by-Step Book / Guide</a> (<a href="https://www.youtube.com/watch?v=jGfvkjzLrNw">Видео про CryptoKitties</a>)</li>
 </ul>
 
-<h2 id="javascript">JavaScript</h2>
+<h2 id="web">Web</h2>
 
 <ul>
   <li><a href="https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20">Top JavaScript Frameworks and Topics to Learn in 2019</a>, <a href="https://medium.com/@js_tut/simple-css-animation-tutorial-c4ad941a5d5c">Simple CSS Animation Tutorial</a> и <a href="https://www.smashingmagazine.com/2019/01/how-to-learn-css/">How To Learn CSS</a></li>
@@ -61,7 +145,7 @@
   <li><a href="https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d">TensorStream: Bringing Machine Learning to Ruby</a>, <a href="http://bootstrap.me.uk/gems/2019/01/06/jongleur-etl.html">Parallelising ETL workflows with the Jongleur gem</a> и <a href="https://github.com/cryptocopycats/programming-cryptocollectibles">Programming Crypto Collectibles Step-by-Step Book / Guide</a> (<a href="https://www.youtube.com/watch?v=jGfvkjzLrNw">Видео про CryptoKitties</a>)</li>
 </ul>
 
-<h2 id="javascript">JavaScript</h2>
+<h2 id="web">Web</h2>
 
 <ul>
   <li><a href="https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20">Top JavaScript Frameworks and Topics to Learn in 2019</a>, <a href="https://medium.com/@js_tut/simple-css-animation-tutorial-c4ad941a5d5c">Simple CSS Animation Tutorial</a> и <a href="https://www.smashingmagazine.com/2019/01/how-to-learn-css/">How To Learn CSS</a></li>
@@ -95,7 +179,7 @@ Ruby 2.6.0 Released, Comprehensive Ruby 2.6 changelog, An update on the Bundler 
 TensorStream: Bringing Machine Learning to Ruby, Parallelising ETL workflows with the Jongleur gem и Programming Crypto Collectibles Step-by-Step Book / Guide (Видео про CryptoKitties)
 
 
-JavaScript
+Web
 
 
   
@@ -1954,90 +2038,6 @@ The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rus
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
 <item>
-  <title>30 выпуск 06 сезона. Elixir v1.7, TypeScript 3.0, Angular v6.1, Ruby 2.6 adds Matrix#antisymmertic?, Ndb, jsQR и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
-  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
-  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
-  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
-  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Elixir v1.7 released, Ruby 2.6 adds Matrix#ant...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Elixir v1.7 released, Ruby 2.6 adds Matrix#antisymmertic? и Ruby 2.6 adds Binding#source_location
-
-  
-Six Tips for Mastering your Procfile, Ruby on Rails: send emails with style и Rails 5.2 credentials cheat cheat
-
-
-
-JavaScript
-
-
-  
-Announcing TypeScript 3.0 и Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more
-
-  
-Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools и jsQR - pure JavaScript QR code decoding library
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0630.png"/>
-  <itunes:duration>00:19:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
   <title>RWPod Кафе 8: Anton Davydov и Hanami</title>
   <description>
     <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:</p>
@@ -2135,6 +2135,90 @@ Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/008.png"/>
   <itunes:duration>00:52:25</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>30 выпуск 06 сезона. Elixir v1.7, TypeScript 3.0, Angular v6.1, Ruby 2.6 adds Matrix#antisymmertic?, Ndb, jsQR и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
+  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
+  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
+  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
+  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Elixir v1.7 released, Ruby 2.6 adds Matrix#ant...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Elixir v1.7 released, Ruby 2.6 adds Matrix#antisymmertic? и Ruby 2.6 adds Binding#source_location
+
+  
+Six Tips for Mastering your Procfile, Ruby on Rails: send emails with style и Rails 5.2 credentials cheat cheat
+
+
+
+JavaScript
+
+
+  
+Announcing TypeScript 3.0 и Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more
+
+  
+Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools и jsQR - pure JavaScript QR code decoding library
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0630.png"/>
+  <itunes:duration>00:19:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
 <item>
@@ -3484,90 +3568,6 @@ Why React needed yet another animation library. Introducing: react-spring, VuePr
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0615.png"/>
   <itunes:duration>00:23:20</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>14 выпуск 06 сезона. D3 5.0, Sails 1.0, Ruby Sass to be put to pasture, ECMAScript 2016, 2017, and 2018, HTTPX и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.sideci.com/special-interview-with-matz-13823d824e94">Ruby creator ‘Matz’ discusses his standards for coding and the future of programming</a>, <a href="https://css-tricks.com/ruby-sass-to-be-put-to-pasture-on-march-26-2019/">Ruby Sass to be put to pasture on March 26, 2019</a> и <a href="https://bauland42.com/ruby-on-rails-content-security-policy-csp/">How to add a Content Security Policy (CSP) to Rails?</a></li>
-  <li><a href="http://pauloancheta.com/ruby/wat/2018/03/23/explaining-wats/">Understanding a Ruby WAT</a>, <a href="http://blog.katpadi.ph/handling-error-gracefully/">Handling Errors Gracefully</a>, <a href="http://honeyryderchuck.gitlab.io/httpx/">HTTPX - Ruby HTTP client which supports HTTP/2, HTTP/1 and concurrent requests</a> и <a href="https://github.com/ivoanjo/persistent-dmnd">Persistent-dmnd - ruby gem for diamond-beautiful immutable data structures</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/d3/d3/blob/master/CHANGES.md#changes-in-d3-50">D3 5.0</a>, <a href="https://sailsjs.com/documentation/upgrading/to-v-1-0">Sails 1.0 has arrived</a> и <a href="https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e">Here are examples of everything new in ECMAScript 2016, 2017, and 2018</a></li>
-  <li><a href="http://jem-space.ru/gibridnyie-nieironnyie-sieti-s-ghrafichieskim-uskorieniiem-v-javascript/">Гибридные нейронные сети с GPU ускорением в JavaScript</a>, <a href="https://www.loxodrome.io/post/cancelling-requests/">Cancelling Requests with Abortable Fetch</a> и <a href="https://blog.theodo.fr/2018/04/add-touch-id-react-native-app/">How to Add Touch ID to Your React Native App</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.sideci.com/special-interview-with-matz-13823d824e94">Ruby creator ‘Matz’ discusses his standards for coding and the future of programming</a>, <a href="https://css-tricks.com/ruby-sass-to-be-put-to-pasture-on-march-26-2019/">Ruby Sass to be put to pasture on March 26, 2019</a> и <a href="https://bauland42.com/ruby-on-rails-content-security-policy-csp/">How to add a Content Security Policy (CSP) to Rails?</a></li>
-  <li><a href="http://pauloancheta.com/ruby/wat/2018/03/23/explaining-wats/">Understanding a Ruby WAT</a>, <a href="http://blog.katpadi.ph/handling-error-gracefully/">Handling Errors Gracefully</a>, <a href="http://honeyryderchuck.gitlab.io/httpx/">HTTPX - Ruby HTTP client which supports HTTP/2, HTTP/1 and concurrent requests</a> и <a href="https://github.com/ivoanjo/persistent-dmnd">Persistent-dmnd - ruby gem for diamond-beautiful immutable data structures</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/d3/d3/blob/master/CHANGES.md#changes-in-d3-50">D3 5.0</a>, <a href="https://sailsjs.com/documentation/upgrading/to-v-1-0">Sails 1.0 has arrived</a> и <a href="https://medium.freecodecamp.org/here-are-examples-of-everything-new-in-ecmascript-2016-2017-and-2018-d52fa3b5a70e">Here are examples of everything new in ECMAScript 2016, 2017, and 2018</a></li>
-  <li><a href="http://jem-space.ru/gibridnyie-nieironnyie-sieti-s-ghrafichieskim-uskorieniiem-v-javascript/">Гибридные нейронные сети с GPU ускорением в JavaScript</a>, <a href="https://www.loxodrome.io/post/cancelling-requests/">Cancelling Requests with Abortable Fetch</a> и <a href="https://blog.theodo.fr/2018/04/add-touch-id-react-native-app/">How to Add Touch ID to Your React Native App</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 09 Apr 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/04/09/podcast-06-14.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/04/09/podcast-06-14.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0614.mp3" length="26772440" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0614.mp3" fileSize="26772440" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby creator ‘Matz’ discusses his standards fo...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby creator ‘Matz’ discusses his standards for coding and the future of programming, Ruby Sass to be put to pasture on March 26, 2019 и How to add a Content Security Policy (CSP) to Rails?
-
-  
-Understanding a Ruby WAT, Handling Errors Gracefully, HTTPX - Ruby HTTP client which supports HTTP/2, HTTP/1 and concurrent requests и Persistent-dmnd - ruby gem for diamond-beautiful immutable data structures
-
-
-
-JavaScript
-
-
-  
-D3 5.0, Sails 1.0 has arrived и Here are examples of everything new in ECMAScript 2016, 2017, and 2018
-
-  
-Гибридные нейронные сети с GPU ускорением в JavaScript, Cancelling Requests with Abortable Fetch и How to Add Touch ID to Your React Native App
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0614.png"/>
-  <itunes:duration>00:27:51</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
