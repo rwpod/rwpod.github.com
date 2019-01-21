@@ -63,7 +63,7 @@
 			<body>
 				<h1>RWpod - подкаст про мир Ruby и Web технологии XML Sitemap</h1>
 				<div id="intro">
-          <img title="RWpod - подкаст про мир Ruby и Web технологии" alt="RWpod - подкаст про мир Ruby и Web технологии" src="https://www.rwpod.com/images/logo200-72e8b01b.png" />
+          <img title="RWpod - подкаст про мир Ruby и Web технологии" alt="RWpod - подкаст про мир Ruby и Web технологии" src="https://www.rwpod.com/images/logo200.png" />
 					<p>RWpod - подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле).</p>
 				</div>
 				<div id="content">
