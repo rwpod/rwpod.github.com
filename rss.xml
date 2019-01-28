@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 21 Jan 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 21 Jan 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 28 Jan 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>04 выпуск 07 сезона. Run.rb, How ActionCable broke Puma, Node worker threads, The Great Divide, Hotkey Behavior, Flexbox ninja и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://runrb.io/">Run.rb - Run Ruby in the browser using WebAssembly</a>, <a href="https://medium.com/@plezi_io/how-actioncable-broke-puma-fcfeceac33b0">How ActionCable broke Puma</a> и <a href="https://www.mskog.com/posts/42-performance-tips-for-ruby-on-rails/">42 performance tips for Ruby on Rails</a></li>
+  <li><a href="https://blog.eq8.eu/til/exporting-importing-migrating-large-amount-of-data-in-ruby-on-rails.html">Exporting and Importing large amount of data in Rails</a>, <a href="https://medium.com/reflektive-engineering/faster-csv-downloads-using-enumerator-7e9b94b870d3">Faster CSV downloads using Enumerator</a> и <a href="https://blog.10pines.com/2019/01/14/testing-rake-tasks/">Testing Rake tasks</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="http://2ality.com/2019/01/future-js.html">Future JavaScript: what is still missing?</a>, <a href="https://medium.com/lazy-engineering/node-worker-threads-b57a32d84845">Node worker threads</a> и <a href="https://css-tricks.com/the-great-divide/">The Great Divide</a></li>
+  <li><a href="https://frontstuff.io/how-to-handle-monetary-values-in-javascript">How to Handle Monetary Values in JavaScript</a>, <a href="https://github.com/github/hotkey">Hotkey Behavior - trigger a action on element when keyboard hotkey is pressed</a>, <a href="https://flexbox.ninja/">Flexbox ninja - Flexbox Case Studies</a> и <a href="https://tarekraafat.github.io/autoComplete.js/#/">AutoComplete.js - Simple autocomplete pure vanilla Javascript library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://runrb.io/">Run.rb - Run Ruby in the browser using WebAssembly</a>, <a href="https://medium.com/@plezi_io/how-actioncable-broke-puma-fcfeceac33b0">How ActionCable broke Puma</a> и <a href="https://www.mskog.com/posts/42-performance-tips-for-ruby-on-rails/">42 performance tips for Ruby on Rails</a></li>
+  <li><a href="https://blog.eq8.eu/til/exporting-importing-migrating-large-amount-of-data-in-ruby-on-rails.html">Exporting and Importing large amount of data in Rails</a>, <a href="https://medium.com/reflektive-engineering/faster-csv-downloads-using-enumerator-7e9b94b870d3">Faster CSV downloads using Enumerator</a> и <a href="https://blog.10pines.com/2019/01/14/testing-rake-tasks/">Testing Rake tasks</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="http://2ality.com/2019/01/future-js.html">Future JavaScript: what is still missing?</a>, <a href="https://medium.com/lazy-engineering/node-worker-threads-b57a32d84845">Node worker threads</a> и <a href="https://css-tricks.com/the-great-divide/">The Great Divide</a></li>
+  <li><a href="https://frontstuff.io/how-to-handle-monetary-values-in-javascript">How to Handle Monetary Values in JavaScript</a>, <a href="https://github.com/github/hotkey">Hotkey Behavior - trigger a action on element when keyboard hotkey is pressed</a>, <a href="https://flexbox.ninja/">Flexbox ninja - Flexbox Case Studies</a> и <a href="https://tarekraafat.github.io/autoComplete.js/#/">AutoComplete.js - Simple autocomplete pure vanilla Javascript library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 28 Jan 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/01/28/podcast-07-04.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/01/28/podcast-07-04.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0704.mp3" length="39852068" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0704.mp3" fileSize="39852068" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Run.rb - Run Ruby in the browser using WebAsse...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Run.rb - Run Ruby in the browser using WebAssembly, How ActionCable broke Puma и 42 performance tips for Ruby on Rails
+
+  
+Exporting and Importing large amount of data in Rails, Faster CSV downloads using Enumerator и Testing Rake tasks
+
+
+
+Web
+
+
+  
+Future JavaScript: what is still missing?, Node worker threads и The Great Divide
+
+  
+How to Handle Monetary Values in JavaScript, Hotkey Behavior - trigger a action on element when keyboard hotkey is pressed, Flexbox ninja - Flexbox Case Studies и AutoComplete.js - Simple autocomplete pure vanilla Javascript library
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0704.png"/>
+  <itunes:duration>00:41:29</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>03 выпуск 07 сезона. Kramdown 2.0.0, Dynamic ActiveRecord columns, Amplify, Shiny, NES-style CSS Framework и прочее</title>
   <description>
@@ -2122,90 +2206,6 @@ The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rus
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
 <item>
-  <title>30 выпуск 06 сезона. Elixir v1.7, TypeScript 3.0, Angular v6.1, Ruby 2.6 adds Matrix#antisymmertic?, Ndb, jsQR и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
-  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
-  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
-  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
-  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Elixir v1.7 released, Ruby 2.6 adds Matrix#ant...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Elixir v1.7 released, Ruby 2.6 adds Matrix#antisymmertic? и Ruby 2.6 adds Binding#source_location
-
-  
-Six Tips for Mastering your Procfile, Ruby on Rails: send emails with style и Rails 5.2 credentials cheat cheat
-
-
-
-JavaScript
-
-
-  
-Announcing TypeScript 3.0 и Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more
-
-  
-Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools и jsQR - pure JavaScript QR code decoding library
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0630.png"/>
-  <itunes:duration>00:19:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
   <title>RWPod Кафе 8: Anton Davydov и Hanami</title>
   <description>
     <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:</p>
@@ -2303,6 +2303,90 @@ Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/008.png"/>
   <itunes:duration>00:52:25</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>30 выпуск 06 сезона. Elixir v1.7, TypeScript 3.0, Angular v6.1, Ruby 2.6 adds Matrix#antisymmertic?, Ndb, jsQR и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
+  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
+  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
+  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
+  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Elixir v1.7 released, Ruby 2.6 adds Matrix#ant...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Elixir v1.7 released, Ruby 2.6 adds Matrix#antisymmertic? и Ruby 2.6 adds Binding#source_location
+
+  
+Six Tips for Mastering your Procfile, Ruby on Rails: send emails with style и Rails 5.2 credentials cheat cheat
+
+
+
+JavaScript
+
+
+  
+Announcing TypeScript 3.0 и Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more
+
+  
+Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools и jsQR - pure JavaScript QR code decoding library
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0630.png"/>
+  <itunes:duration>00:19:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
 <item>
@@ -3453,121 +3537,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0617.png"/>
   <itunes:duration>00:39:48</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>16 выпуск 06 сезона. Ruby 2.5 enables Thread.report_on_exception, wasm-pack, Action Policy, Package Phobia, Pico.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/04/18/ruby-2-5-enables-thread-report_on_exception-by-default.html">Ruby 2.5 enables Thread.report_on_exception by default and we get more info when threads die</a>, <a href="https://medium.com/square-corner-blog/rubys-new-infinite-range-syntax-0-97777cf06270">Ruby’s New Infinite Range Syntax: (0..)</a> и <a href="https://blog.bigbinary.com/2018/04/17/rails-5-2-adds-date-methods-to-return-specified-next-or-previous-occurring-day-of-week.html">Rails 5.2 added Date#prev_occurring and Date#next_occurring to return specified next &amp; previous occurring day of week</a></li>
-  <li><a href="https://medium.com/@oem_83498/linear-regression-in-ruby-a170f9a892e5">Linear Regression in Ruby</a>, <a href="https://semaphoreci.com/community/tutorials/working-effectively-with-data-factories-using-factorybot">Working Effectively with Data Factories Using FactoryBot</a> и <a href="https://medium.com/@Nicholson85/handling-cors-issues-in-your-rails-api-120dfbcb8a24">Handling CORS issues in your Rails API</a></li>
-  <li><a href="https://readysteadycode.com/howto-execute-python-code-with-ruby">HOWTO execute Python code with Ruby</a>, <a href="http://actionpolicy.evilmartians.io/#/">Action Policy - an authorization framework for Ruby and Rails applications</a> и <a href="https://github.com/baweaver/xf">Xf - Transform Functions</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2018/04/hello-wasm-pack/">Hello wasm-pack!</a>, <a href="https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3">Designing very large (JavaScript) applications</a> и <a href="https://nodesource.com/blog/what-you-can-expect-from-node-js-10">What You Can Expect From Node.js 10</a></li>
-  <li><a href="https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c">&lt;link rel=”prefetch/preload”&gt; in webpack</a>, <a href="https://css-tricks.com/choosing-a-responsive-email-framework%E2%80%8Amjml-vs-foundation-for-emails/">Choosing a Responsive Email Framework: MJML vs. Foundation for Emails</a> и <a href="https://alligator.io/css/viewport-units/">A Look at CSS Viewport Units</a></li>
-  <li><a href="https://packagephobia.now.sh/">Package Phobia - find the cost of adding a new dev dependency to your project</a>, <a href="https://tkv.io/posts/picojs-intro/demo/">Pico.js: face detection in JavaScript</a>, <a href="https://github.com/fpapado/react-lazy-images">React Lazy Images - components and utilities for lazy image loading in React</a> и <a href="https://github.com/sindresorhus/slugify">Slugify - slugify a string</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://rubyc.eu/">RubyC</a></li>
-  <li><a href="http://www.rubymeditation.com/">RUBY Meditation #22</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/04/18/ruby-2-5-enables-thread-report_on_exception-by-default.html">Ruby 2.5 enables Thread.report_on_exception by default and we get more info when threads die</a>, <a href="https://medium.com/square-corner-blog/rubys-new-infinite-range-syntax-0-97777cf06270">Ruby’s New Infinite Range Syntax: (0..)</a> и <a href="https://blog.bigbinary.com/2018/04/17/rails-5-2-adds-date-methods-to-return-specified-next-or-previous-occurring-day-of-week.html">Rails 5.2 added Date#prev_occurring and Date#next_occurring to return specified next &amp; previous occurring day of week</a></li>
-  <li><a href="https://medium.com/@oem_83498/linear-regression-in-ruby-a170f9a892e5">Linear Regression in Ruby</a>, <a href="https://semaphoreci.com/community/tutorials/working-effectively-with-data-factories-using-factorybot">Working Effectively with Data Factories Using FactoryBot</a> и <a href="https://medium.com/@Nicholson85/handling-cors-issues-in-your-rails-api-120dfbcb8a24">Handling CORS issues in your Rails API</a></li>
-  <li><a href="https://readysteadycode.com/howto-execute-python-code-with-ruby">HOWTO execute Python code with Ruby</a>, <a href="http://actionpolicy.evilmartians.io/#/">Action Policy - an authorization framework for Ruby and Rails applications</a> и <a href="https://github.com/baweaver/xf">Xf - Transform Functions</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2018/04/hello-wasm-pack/">Hello wasm-pack!</a>, <a href="https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3">Designing very large (JavaScript) applications</a> и <a href="https://nodesource.com/blog/what-you-can-expect-from-node-js-10">What You Can Expect From Node.js 10</a></li>
-  <li><a href="https://medium.com/webpack/link-rel-prefetch-preload-in-webpack-51a52358f84c">&lt;link rel=”prefetch/preload”&gt; in webpack</a>, <a href="https://css-tricks.com/choosing-a-responsive-email-framework%E2%80%8Amjml-vs-foundation-for-emails/">Choosing a Responsive Email Framework: MJML vs. Foundation for Emails</a> и <a href="https://alligator.io/css/viewport-units/">A Look at CSS Viewport Units</a></li>
-  <li><a href="https://packagephobia.now.sh/">Package Phobia - find the cost of adding a new dev dependency to your project</a>, <a href="https://tkv.io/posts/picojs-intro/demo/">Pico.js: face detection in JavaScript</a>, <a href="https://github.com/fpapado/react-lazy-images">React Lazy Images - components and utilities for lazy image loading in React</a> и <a href="https://github.com/sindresorhus/slugify">Slugify - slugify a string</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="https://rubyc.eu/">RubyC</a></li>
-  <li><a href="http://www.rubymeditation.com/">RUBY Meditation #22</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 23 Apr 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/04/23/podcast-06-16.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/04/23/podcast-06-16.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0616.mp3" length="39672922" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0616.mp3" fileSize="39672922" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.5 enables Thread.report_on_exception by...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.5 enables Thread.report_on_exception by default and we get more info when threads die, Ruby’s New Infinite Range Syntax: (0..) и Rails 5.2 added Date#prev_occurring and Date#next_occurring to return specified next &amp; previous occurring day of week
-
-  
-Linear Regression in Ruby, Working Effectively with Data Factories Using FactoryBot и Handling CORS issues in your Rails API
-
-  
-HOWTO execute Python code with Ruby, Action Policy - an authorization framework for Ruby and Rails applications и Xf - Transform Functions
-
-
-
-JavaScript
-
-
-  
-Hello wasm-pack!, Designing very large (JavaScript) applications и What You Can Expect From Node.js 10
-
-  
-&lt;link rel=”prefetch/preload”&gt; in webpack, Choosing a Responsive Email Framework: MJML vs. Foundation for Emails и A Look at CSS Viewport Units
-
-  
-Package Phobia - find the cost of adding a new dev dependency to your project, Pico.js: face detection in JavaScript, React Lazy Images - components and utilities for lazy image loading in React и Slugify - slugify a string
-
-
-
-Conferences
-
-
-  RubyC
-  RUBY Meditation #22
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0616.png"/>
-  <itunes:duration>00:41:18</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
