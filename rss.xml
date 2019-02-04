@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 28 Jan 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 28 Jan 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Sun, 03 Feb 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>05 выпуск 07 сезона. Ruby 2.6.1, Hanami v2.0.0.alpha1, CSSans Pro, Neutralinojs, Notable, Finance.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/01/30/ruby-2-6-1-released/">Ruby 2.6.1 Released</a>, <a href="http://hanamirb.org/blog/2019/01/30/announcing-hanami-200alpha1.html">Announcing Hanami v2.0.0.alpha1</a> и <a href="https://dev.to/harri_etty/from-javascript-to-ruby-a-few-of-my-favourite-features-37mf">From JavaScript to Ruby: A few of my favourite features</a></li>
+  <li><a href="https://andycroll.com/ruby/replace-timecop-with-rails-time-helpers-in-rspec/">Replace Timecop With Rails’ Time Helpers in RSpec</a>, <a href="https://www.ombulabs.com/blog/best-practices/apis/api-best-practices.html">Often neglected API best practices</a>, <a href="http://nts.strzibny.name/rails-handles-large-number-of-nested-routes-better-than-sinatra/">Rails handles large number of nested routes better than Sinatra</a> и <a href="https://www.mutuallyhuman.com/blog/2018/12/18/slackbot-on-lambda-with-ruby/">Run a Ruby Slack Bot on AWS Lambda</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc">Google Play Store now open for Progressive Web Apps</a>, <a href="https://overreacted.io/making-setinterval-declarative-with-react-hooks/">Making setInterval Declarative with React Hooks</a> и <a href="https://dev.to/evilmartians/css-and-js-are-at-war-heres-how-to-stop-it-158a">CSS and JS Are at War, Here’s How to Stop It</a></li>
+  <li><a href="https://cssans.pro/">CSSans Pro - the Colourful, Sassy, CSS Font</a>, <a href="https://neutralino.js.org/">Neutralinojs - portable and lightweight cross platform application development framework</a>, <a href="https://github.com/fabiospampinato/notable">Notable - a markdown-based note-taking app that doesn’t suck</a> и <a href="http://financejs.org/">Finance.js makes it easy to incorporate common financial calculations into your application</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/01/30/ruby-2-6-1-released/">Ruby 2.6.1 Released</a>, <a href="http://hanamirb.org/blog/2019/01/30/announcing-hanami-200alpha1.html">Announcing Hanami v2.0.0.alpha1</a> и <a href="https://dev.to/harri_etty/from-javascript-to-ruby-a-few-of-my-favourite-features-37mf">From JavaScript to Ruby: A few of my favourite features</a></li>
+  <li><a href="https://andycroll.com/ruby/replace-timecop-with-rails-time-helpers-in-rspec/">Replace Timecop With Rails’ Time Helpers in RSpec</a>, <a href="https://www.ombulabs.com/blog/best-practices/apis/api-best-practices.html">Often neglected API best practices</a>, <a href="http://nts.strzibny.name/rails-handles-large-number-of-nested-routes-better-than-sinatra/">Rails handles large number of nested routes better than Sinatra</a> и <a href="https://www.mutuallyhuman.com/blog/2018/12/18/slackbot-on-lambda-with-ruby/">Run a Ruby Slack Bot on AWS Lambda</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc">Google Play Store now open for Progressive Web Apps</a>, <a href="https://overreacted.io/making-setinterval-declarative-with-react-hooks/">Making setInterval Declarative with React Hooks</a> и <a href="https://dev.to/evilmartians/css-and-js-are-at-war-heres-how-to-stop-it-158a">CSS and JS Are at War, Here’s How to Stop It</a></li>
+  <li><a href="https://cssans.pro/">CSSans Pro - the Colourful, Sassy, CSS Font</a>, <a href="https://neutralino.js.org/">Neutralinojs - portable and lightweight cross platform application development framework</a>, <a href="https://github.com/fabiospampinato/notable">Notable - a markdown-based note-taking app that doesn’t suck</a> и <a href="http://financejs.org/">Finance.js makes it easy to incorporate common financial calculations into your application</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Sun, 03 Feb 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/02/03/podcast-07-05.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/02/03/podcast-07-05.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0705.mp3" length="33784426" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0705.mp3" fileSize="33784426" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6.1 Released, Announcing Hanami v2.0.0....</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6.1 Released, Announcing Hanami v2.0.0.alpha1 и From JavaScript to Ruby: A few of my favourite features
+
+  
+Replace Timecop With Rails’ Time Helpers in RSpec, Often neglected API best practices, Rails handles large number of nested routes better than Sinatra и Run a Ruby Slack Bot on AWS Lambda
+
+
+
+Web
+
+
+  
+Google Play Store now open for Progressive Web Apps, Making setInterval Declarative with React Hooks и CSS and JS Are at War, Here’s How to Stop It
+
+  
+CSSans Pro - the Colourful, Sassy, CSS Font, Neutralinojs - portable and lightweight cross platform application development framework, Notable - a markdown-based note-taking app that doesn’t suck и Finance.js makes it easy to incorporate common financial calculations into your application
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0705.png"/>
+  <itunes:duration>00:35:10</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>04 выпуск 07 сезона. Run.rb, How ActionCable broke Puma, Node worker threads, The Great Divide, Hotkey Behavior, Flexbox ninja и прочее</title>
   <description>
@@ -3425,118 +3509,6 @@ Proton-native - a React environment for cross platform native desktop apps, Shee
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0618.png"/>
   <itunes:duration>00:33:27</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>17 выпуск 06 сезона. Ruby 2.6 added option to raise exception in Kernel#system, GDPR Rails, CKEditor 5 v10.0.0, Perfume.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/04/25/ruby-2-6-added-option-to-raise-exception-in-kernel-system.html">Ruby 2.6 added option to raise exception in Kernel#system</a>, <a href="http://www.blacktm.com/blog/ruby-on-webassembly">Ruby on WebAssembly</a> и <a href="https://dev.to/evilmartians/deploying-ruby-apps-to-google-cloud-kubernetes-engine-continuously-with-circleci-2765">Deploying Ruby apps to Google Cloud Kubernetes Engine continuously with CircleCI</a></li>
-  <li><a href="https://rollbar.com/blog/top-10-ruby-on-rails-errors/">Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)</a> и <a href="https://medium.freecodecamp.org/how-to-build-rock-solid-ruby-on-rails-apps-with-bdd-735de9319cc6">How to build rock-solid Ruby on Rails apps with BDD</a></li>
-  <li><a href="https://sipsandbits.com/2018/04/30/using-database-native-enums-with-rails/">Enums with Rails &amp; ActiveRecord: an improved way</a> и <a href="https://github.com/prey/gdpr_rails">GDPR Rails - Rails Engine for the GDPR compliance</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://ckeditor.com/blog/CKEditor-5-v10.0.0-the-future-of-rich-text-editing-looks-stable/">CKEditor 5 v10.0.0 – the future of rich text editing looks stable</a>, <a href="http://2ality.com/2018/04/async-iter-nodejs.html">Using async iteration natively in Node.js</a> и <a href="https://blog.github.com/2018-05-01-github-pages-custom-domains-https/">Custom domains on GitHub Pages gain support for HTTPS</a></li>
-  <li><a href="https://jamie.build/last-2-versions">“last 2 versions” considered harmful with babel-preset-env – matches on “Opera Mobile”, “QQ Browser”, “Baidu Browser”</a>, <a href="http://debuggerdotbreak.judahgabriel.com/2018/04/13/i-built-a-pwa-and-published-it-in-3-app-stores-heres-what-i-learned/">I built a PWA and published it in 3 app stores. Here’s what I learned</a> и <a href="https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db">Parallel programming in JavaScript</a></li>
-  <li><a href="http://zizzamia.github.io/perfume/">Perfume.js - a JavaScript library for measuring Short and Long Script, First (Contentful) Paint (FP/FCP), Time to Interactive (TTI), Component First Paint (CFM), annotating them to the DevTools timeline and reporting the results to Google Analytics</a>, <a href="https://sarahdayan.github.io/dinero.js/">Dinero.js - a library for working with monetary values in JavaScript</a>, <a href="http://web.jakoblind.no/webpack-config/">Webpack 4 configurator</a> и <a href="http://ui.toast.com/tui-calendar/">ToastUI Calendar - a JavaScript schedule calendar with full featured</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.elixirkyiv.club/">Elixir Evening Club 2</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/04/25/ruby-2-6-added-option-to-raise-exception-in-kernel-system.html">Ruby 2.6 added option to raise exception in Kernel#system</a>, <a href="http://www.blacktm.com/blog/ruby-on-webassembly">Ruby on WebAssembly</a> и <a href="https://dev.to/evilmartians/deploying-ruby-apps-to-google-cloud-kubernetes-engine-continuously-with-circleci-2765">Deploying Ruby apps to Google Cloud Kubernetes Engine continuously with CircleCI</a></li>
-  <li><a href="https://rollbar.com/blog/top-10-ruby-on-rails-errors/">Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them)</a> и <a href="https://medium.freecodecamp.org/how-to-build-rock-solid-ruby-on-rails-apps-with-bdd-735de9319cc6">How to build rock-solid Ruby on Rails apps with BDD</a></li>
-  <li><a href="https://sipsandbits.com/2018/04/30/using-database-native-enums-with-rails/">Enums with Rails &amp; ActiveRecord: an improved way</a> и <a href="https://github.com/prey/gdpr_rails">GDPR Rails - Rails Engine for the GDPR compliance</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://ckeditor.com/blog/CKEditor-5-v10.0.0-the-future-of-rich-text-editing-looks-stable/">CKEditor 5 v10.0.0 – the future of rich text editing looks stable</a>, <a href="http://2ality.com/2018/04/async-iter-nodejs.html">Using async iteration natively in Node.js</a> и <a href="https://blog.github.com/2018-05-01-github-pages-custom-domains-https/">Custom domains on GitHub Pages gain support for HTTPS</a></li>
-  <li><a href="https://jamie.build/last-2-versions">“last 2 versions” considered harmful with babel-preset-env – matches on “Opera Mobile”, “QQ Browser”, “Baidu Browser”</a>, <a href="http://debuggerdotbreak.judahgabriel.com/2018/04/13/i-built-a-pwa-and-published-it-in-3-app-stores-heres-what-i-learned/">I built a PWA and published it in 3 app stores. Here’s what I learned</a> и <a href="https://itnext.io/achieving-parallelism-in-javascript-using-web-workers-8f921f2d26db">Parallel programming in JavaScript</a></li>
-  <li><a href="http://zizzamia.github.io/perfume/">Perfume.js - a JavaScript library for measuring Short and Long Script, First (Contentful) Paint (FP/FCP), Time to Interactive (TTI), Component First Paint (CFM), annotating them to the DevTools timeline and reporting the results to Google Analytics</a>, <a href="https://sarahdayan.github.io/dinero.js/">Dinero.js - a library for working with monetary values in JavaScript</a>, <a href="http://web.jakoblind.no/webpack-config/">Webpack 4 configurator</a> и <a href="http://ui.toast.com/tui-calendar/">ToastUI Calendar - a JavaScript schedule calendar with full featured</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.elixirkyiv.club/">Elixir Evening Club 2</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 01 May 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/05/01/podcast-06-17.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/05/01/podcast-06-17.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0617.mp3" length="38237878" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0617.mp3" fileSize="38237878" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6 added option to raise exception in Ke...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6 added option to raise exception in Kernel#system, Ruby on WebAssembly и Deploying Ruby apps to Google Cloud Kubernetes Engine continuously with CircleCI
-
-  
-Top 10 errors from 1000+ Ruby on Rails projects (and how to avoid them) и How to build rock-solid Ruby on Rails apps with BDD
-
-  
-Enums with Rails &amp; ActiveRecord: an improved way и GDPR Rails - Rails Engine for the GDPR compliance
-
-
-
-JavaScript
-
-
-  
-CKEditor 5 v10.0.0 – the future of rich text editing looks stable, Using async iteration natively in Node.js и Custom domains on GitHub Pages gain support for HTTPS
-
-  
-“last 2 versions” considered harmful with babel-preset-env – matches on “Opera Mobile”, “QQ Browser”, “Baidu Browser”, I built a PWA and published it in 3 app stores. Here’s what I learned и Parallel programming in JavaScript
-
-  
-Perfume.js - a JavaScript library for measuring Short and Long Script, First (Contentful) Paint (FP/FCP), Time to Interactive (TTI), Component First Paint (CFM), annotating them to the DevTools timeline and reporting the results to Google Analytics, Dinero.js - a library for working with monetary values in JavaScript, Webpack 4 configurator и ToastUI Calendar - a JavaScript schedule calendar with full featured
-
-
-
-Conferences
-
-
-  Elixir Evening Club 2
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0617.png"/>
-  <itunes:duration>00:39:48</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
