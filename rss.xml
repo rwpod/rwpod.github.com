@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Sun, 03 Feb 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Sun, 03 Feb 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 11 Feb 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 Feb 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,109 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>06 выпуск 07 сезона. Homebrew 2.0.0, React v16.8, Prettier for Ruby, Jets, Tweakpane, MiniSearch, X-spreadsheet и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://brew.sh/2019/02/02/homebrew-2.0.0/">Homebrew 2.0.0</a> и <a href="https://medium.com/@baweaver/ruby-2-7-enumerable-tally-a706a5fb11ea">Ruby 2.7 — Enumerable#tally</a></li>
+  <li><a href="http://rubyonjets.com/">Jets: The Ruby Serverless Framework</a>, <a href="https://github.com/prettier/plugin-ruby">Prettier for Ruby</a> и <a href="https://github.com/machinio/solrb">Solrb - Object-Oriented approach to Solr in Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://reactjs.org/blog/2019/02/06/react-v16.8.0.html">React v16.8: The One With Hooks</a>, <a href="https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e">New features in Webpack 5</a> и <a href="https://developers.google.com/web/updates/2019/02/rendering-on-the-web">Rendering on the Web</a></li>
+  <li><a href="https://cocopon.github.io/tweakpane/">Tweakpane - compact pane library for fine-tuning parameters and monitoring value changes</a>, <a href="https://lucaong.github.io/minisearch/">MiniSearch - a tiny but powerful in-memory fulltext search engine for JavaScript</a>, <a href="https://github.com/myliang/x-spreadsheet">X-spreadsheet - a web-based JavaScript（canvas) spreadsheet</a> и <a href="https://sheety.co/">Sheety - turn any Google sheet into an API instantly</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">RUBY Meditation #26</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://brew.sh/2019/02/02/homebrew-2.0.0/">Homebrew 2.0.0</a> и <a href="https://medium.com/@baweaver/ruby-2-7-enumerable-tally-a706a5fb11ea">Ruby 2.7 — Enumerable#tally</a></li>
+  <li><a href="http://rubyonjets.com/">Jets: The Ruby Serverless Framework</a>, <a href="https://github.com/prettier/plugin-ruby">Prettier for Ruby</a> и <a href="https://github.com/machinio/solrb">Solrb - Object-Oriented approach to Solr in Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://reactjs.org/blog/2019/02/06/react-v16.8.0.html">React v16.8: The One With Hooks</a>, <a href="https://blog.logrocket.com/new-features-in-webpack-5-2559755adf5e">New features in Webpack 5</a> и <a href="https://developers.google.com/web/updates/2019/02/rendering-on-the-web">Rendering on the Web</a></li>
+  <li><a href="https://cocopon.github.io/tweakpane/">Tweakpane - compact pane library for fine-tuning parameters and monitoring value changes</a>, <a href="https://lucaong.github.io/minisearch/">MiniSearch - a tiny but powerful in-memory fulltext search engine for JavaScript</a>, <a href="https://github.com/myliang/x-spreadsheet">X-spreadsheet - a web-based JavaScript（canvas) spreadsheet</a> и <a href="https://sheety.co/">Sheety - turn any Google sheet into an API instantly</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="http://www.rubymeditation.com/">RUBY Meditation #26</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 11 Feb 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/02/11/podcast-07-06.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/02/11/podcast-07-06.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0706.mp3" length="34858896" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0706.mp3" fileSize="34858896" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Homebrew 2.0.0 и Ruby 2.7 — Enumerable#tally
+ ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Homebrew 2.0.0 и Ruby 2.7 — Enumerable#tally
+
+  
+Jets: The Ruby Serverless Framework, Prettier for Ruby и Solrb - Object-Oriented approach to Solr in Ruby
+
+
+
+Web
+
+
+  
+React v16.8: The One With Hooks, New features in Webpack 5 и Rendering on the Web
+
+  
+Tweakpane - compact pane library for fine-tuning parameters and monitoring value changes, MiniSearch - a tiny but powerful in-memory fulltext search engine for JavaScript, X-spreadsheet - a web-based JavaScript（canvas) spreadsheet и Sheety - turn any Google sheet into an API instantly
+
+
+
+Conferences
+
+
+  RUBY Meditation #26
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0706.png"/>
+  <itunes:duration>00:36:17</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>05 выпуск 07 сезона. Ruby 2.6.1, Hanami v2.0.0.alpha1, CSSans Pro, Neutralinojs, Notable, Finance.js и прочее</title>
   <description>
@@ -3415,100 +3518,6 @@ Isomorphic-git - a pure JavaScript implementation of git for node and browsers, 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0619.png"/>
   <itunes:duration>00:22:07</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>18 выпуск 06 сезона. Ruby 2.5.1 Released, Angular 6, Defeating Electron, Asylo, Proton-native, Selection.js, Is-google и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2018/03/28/ruby-2-5-1-released/">Ruby 2.5.1 Released</a> и <a href="https://medium.com/square-corner-blog/new-class-naming-rules-in-ruby-bb3b45150c37">New Class Naming Rules in Ruby</a></li>
-  <li><a href="https://brandonhilkert.com/blog/reducing-sidekiq-memory-usage-with-jemalloc/">Reducing Sidekiq Memory Usage with Jemalloc</a> и <a href="https://blog.appsignal.com/2018/05/01/client-side-caching-in-rails-conditional-get-requests.html">Client-side caching in Rails: conditional GET requests</a></li>
-  <li><a href="https://blog.phusion.nl/2018/05/03/collecting-usage-statistics-with-dynamodb-and-aws-lambda/">Collecting usage statistics with DynamoDB and AWS Lambda</a> и <a href="https://github.com/google/asylo">Asylo - an open and flexible framework for enclave applications</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4?gi=d4e0cff8e353">Version 6 of Angular Now Available</a>, <a href="https://blog.npmjs.org/post/173526807575/reported-malicious-module-getcookies">Reported malicious module: getcookies</a> и <a href="https://medium.com/@caspervonb/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068">The Node.js Ecosystem Is Chaotic and Insecure</a></li>
-  <li><a href="https://medium.com/@felixrieseberg/defeating-electron-e1464d075528">Defeating Electron</a> и <a href="https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/">Building A Serverless Contact Form For Your Static Site</a></li>
-  <li><a href="https://proton-native.js.org/#/">Proton-native - a React environment for cross platform native desktop apps</a>, <a href="https://github.com/socialpoint-labs/sheetfu">Sheetfu Table Class - Google apps scripts ORM to manipulate spreadsheets as database tables</a>, <a href="https://simonwep.github.io/selection/">Selection.js - a simple and lightweight library to realize visual DOM Selections</a> и <a href="https://github.com/roccomuso/is-google">Is-google - verify that a request is from Google crawlers</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2018/03/28/ruby-2-5-1-released/">Ruby 2.5.1 Released</a> и <a href="https://medium.com/square-corner-blog/new-class-naming-rules-in-ruby-bb3b45150c37">New Class Naming Rules in Ruby</a></li>
-  <li><a href="https://brandonhilkert.com/blog/reducing-sidekiq-memory-usage-with-jemalloc/">Reducing Sidekiq Memory Usage with Jemalloc</a> и <a href="https://blog.appsignal.com/2018/05/01/client-side-caching-in-rails-conditional-get-requests.html">Client-side caching in Rails: conditional GET requests</a></li>
-  <li><a href="https://blog.phusion.nl/2018/05/03/collecting-usage-statistics-with-dynamodb-and-aws-lambda/">Collecting usage statistics with DynamoDB and AWS Lambda</a> и <a href="https://github.com/google/asylo">Asylo - an open and flexible framework for enclave applications</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.angular.io/version-6-of-angular-now-available-cc56b0efa7a4?gi=d4e0cff8e353">Version 6 of Angular Now Available</a>, <a href="https://blog.npmjs.org/post/173526807575/reported-malicious-module-getcookies">Reported malicious module: getcookies</a> и <a href="https://medium.com/@caspervonb/the-internet-is-at-the-mercy-of-a-handful-of-people-73fac4bc5068">The Node.js Ecosystem Is Chaotic and Insecure</a></li>
-  <li><a href="https://medium.com/@felixrieseberg/defeating-electron-e1464d075528">Defeating Electron</a> и <a href="https://www.smashingmagazine.com/2018/05/building-serverless-contact-form-static-website/">Building A Serverless Contact Form For Your Static Site</a></li>
-  <li><a href="https://proton-native.js.org/#/">Proton-native - a React environment for cross platform native desktop apps</a>, <a href="https://github.com/socialpoint-labs/sheetfu">Sheetfu Table Class - Google apps scripts ORM to manipulate spreadsheets as database tables</a>, <a href="https://simonwep.github.io/selection/">Selection.js - a simple and lightweight library to realize visual DOM Selections</a> и <a href="https://github.com/roccomuso/is-google">Is-google - verify that a request is from Google crawlers</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 07 May 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/05/07/podcast-06-18.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/05/07/podcast-06-18.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0618.mp3" length="32134910" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0618.mp3" fileSize="32134910" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.5.1 Released и New Class Naming Rules i...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.5.1 Released и New Class Naming Rules in Ruby
-
-  
-Reducing Sidekiq Memory Usage with Jemalloc и Client-side caching in Rails: conditional GET requests
-
-  
-Collecting usage statistics with DynamoDB and AWS Lambda и Asylo - an open and flexible framework for enclave applications
-
-
-
-JavaScript
-
-
-  
-Version 6 of Angular Now Available, Reported malicious module: getcookies и The Node.js Ecosystem Is Chaotic and Insecure
-
-  
-Defeating Electron и Building A Serverless Contact Form For Your Static Site
-
-  
-Proton-native - a React environment for cross platform native desktop apps, Sheetfu Table Class - Google apps scripts ORM to manipulate spreadsheets as database tables, Selection.js - a simple and lightweight library to realize visual DOM Selections и Is-google - verify that a request is from Google crawlers
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0618.png"/>
-  <itunes:duration>00:33:27</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
