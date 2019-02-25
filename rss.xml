@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 18 Feb 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 18 Feb 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 25 Feb 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>08 выпуск 07 сезона. Register Transfer Language for CRuby, ECMAScript 2019, NSFW JS, Try GraphQL, Cleave.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://developers.redhat.com/blog/2019/02/19/register-transfer-language-for-cruby/">Register Transfer Language for CRuby</a>, <a href="https://naturaily.com/blog/8-frameworks-ruby-not-rails">8 Ruby frameworks that aren’t Rails</a> и <a href="https://everydayrails.com/2019/02/18/rails-sql-requirements.html">7 reasons why learning SQL is still important for Rails developers</a></li>
+  <li><a href="https://zorbash.com/post/the-10-minute-rails-pubsub/">The 10-minute Rails Pub/Sub</a>, <a href="https://lipanski.github.io/posts/one-ruby-file-to-rule-them-all">One Ruby file to rule them all: inline gems and inline ActiveRecord migrations</a> и <a href="http://www.wjwh.eu/posts/2019-02-18-prebuilt-base-image.html">Speed up Docker image builds with prebuilt base images</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="http://2ality.com/2018/02/ecmascript-2019.html">ECMAScript 2019: the final feature set</a>, <a href="https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/">CSS Variables + calc() + rgb() = Enforcing High Contrast Colors</a> и <a href="http://diana-adrianne.com/how/">Pure CSS Drawing Essentials</a></li>
+  <li><a href="https://houssein.me/progressive-react">Progressive react</a>, <a href="https://shift.infinite.red/avoid-nightmares-nsfw-js-ab7b176978b1">Avoid Nightmares — NSFW JS</a>, <a href="https://trygql.com/">Try GraphQL</a> и <a href="https://nosir.github.io/cleave.js/">Cleave.js - format your input content when you are typing</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://developers.redhat.com/blog/2019/02/19/register-transfer-language-for-cruby/">Register Transfer Language for CRuby</a>, <a href="https://naturaily.com/blog/8-frameworks-ruby-not-rails">8 Ruby frameworks that aren’t Rails</a> и <a href="https://everydayrails.com/2019/02/18/rails-sql-requirements.html">7 reasons why learning SQL is still important for Rails developers</a></li>
+  <li><a href="https://zorbash.com/post/the-10-minute-rails-pubsub/">The 10-minute Rails Pub/Sub</a>, <a href="https://lipanski.github.io/posts/one-ruby-file-to-rule-them-all">One Ruby file to rule them all: inline gems and inline ActiveRecord migrations</a> и <a href="http://www.wjwh.eu/posts/2019-02-18-prebuilt-base-image.html">Speed up Docker image builds with prebuilt base images</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="http://2ality.com/2018/02/ecmascript-2019.html">ECMAScript 2019: the final feature set</a>, <a href="https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/">CSS Variables + calc() + rgb() = Enforcing High Contrast Colors</a> и <a href="http://diana-adrianne.com/how/">Pure CSS Drawing Essentials</a></li>
+  <li><a href="https://houssein.me/progressive-react">Progressive react</a>, <a href="https://shift.infinite.red/avoid-nightmares-nsfw-js-ab7b176978b1">Avoid Nightmares — NSFW JS</a>, <a href="https://trygql.com/">Try GraphQL</a> и <a href="https://nosir.github.io/cleave.js/">Cleave.js - format your input content when you are typing</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 25 Feb 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/02/25/podcast-07-08.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/02/25/podcast-07-08.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0708.mp3" length="29148056" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0708.mp3" fileSize="29148056" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Register Transfer Language for CRuby, 8 Ruby f...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Register Transfer Language for CRuby, 8 Ruby frameworks that aren’t Rails и 7 reasons why learning SQL is still important for Rails developers
+
+  
+The 10-minute Rails Pub/Sub, One Ruby file to rule them all: inline gems and inline ActiveRecord migrations и Speed up Docker image builds with prebuilt base images
+
+
+
+Web
+
+
+  
+ECMAScript 2019: the final feature set, CSS Variables + calc() + rgb() = Enforcing High Contrast Colors и Pure CSS Drawing Essentials
+
+  
+Progressive react, Avoid Nightmares — NSFW JS, Try GraphQL и Cleave.js - format your input content when you are typing
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0708.png"/>
+  <itunes:duration>00:30:20</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>07 выпуск 07 сезона. Rails 6 unnoticed features, ReasonML vs TypeScript, Linaria 1.0, Webp Wasm, Third Party Web и прочее</title>
   <description>
@@ -3434,90 +3518,6 @@ Winds 2.0 - a Beautiful Open Source RSS &amp; Podcast App, Vuido - create native
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0621.png"/>
   <itunes:duration>00:35:00</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>20 выпуск 06 сезона. How to mitigate DDoS using Rack::Attack, Timeout::Error, Proxy, The new Javascript ES6 feature, Data-Forge и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/05/16/rails-5-2-fixes-query-caching-in-mysql-and-postgresql-adapters.html">Rails 5.2 fixes query caching in MySQL and PostgreSQL adapters</a>, <a href="https://blog.bigbinary.com/2018/05/15/how-to-mitigate-ddos-using-rack-attack.html">How to mitigate DDoS using Rack::Attack</a> и <a href="https://robots.thoughtbot.com/closing-the-trombone">Deprecating Paperclip</a></li>
-  <li><a href="https://revs.runtime-revolution.com/crystal-is-not-ruby-part-1-8736f8c2ae58">Crystal is not Ruby Part 1</a>, <a href="https://www.imaginarycloud.com/blog/paginating-ruby-on-rails-apps-with-pagy/">Paginating Ruby on Rails applications with Pagy</a> и <a href="https://www.exceptionalcreatures.com/bestiary/Timeout/Error.html">Timeout::Error</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.ghost.org/5/">After 5 years and $3M, here’s everything we’ve learned from building Ghost</a>, <a href="http://www.js-craft.io/blog/14-The-7-Most-Common-Mistakes-that-React-Developers-Make/">The 7 Most Common Mistakes that React Developers Make</a> и <a href="https://www.atyantik.com/proxy-javascript-es6-feature/">Proxy, The new Javascript ES6 feature</a></li>
-  <li><a href="http://www.data-forge-js.com/">Data-Forge - JavaScript data wrangling, transformation and analysis toolkit</a>, <a href="https://github.com/holtalanm/roman-num">RomaNum - Roman Numeral Math</a> и <a href="https://twikito.github.io/easy-toggle-state/">Easy Toggle State - a tiny JavaScript library to easily toggle the state of any HTML element and its targets</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/05/16/rails-5-2-fixes-query-caching-in-mysql-and-postgresql-adapters.html">Rails 5.2 fixes query caching in MySQL and PostgreSQL adapters</a>, <a href="https://blog.bigbinary.com/2018/05/15/how-to-mitigate-ddos-using-rack-attack.html">How to mitigate DDoS using Rack::Attack</a> и <a href="https://robots.thoughtbot.com/closing-the-trombone">Deprecating Paperclip</a></li>
-  <li><a href="https://revs.runtime-revolution.com/crystal-is-not-ruby-part-1-8736f8c2ae58">Crystal is not Ruby Part 1</a>, <a href="https://www.imaginarycloud.com/blog/paginating-ruby-on-rails-apps-with-pagy/">Paginating Ruby on Rails applications with Pagy</a> и <a href="https://www.exceptionalcreatures.com/bestiary/Timeout/Error.html">Timeout::Error</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.ghost.org/5/">After 5 years and $3M, here’s everything we’ve learned from building Ghost</a>, <a href="http://www.js-craft.io/blog/14-The-7-Most-Common-Mistakes-that-React-Developers-Make/">The 7 Most Common Mistakes that React Developers Make</a> и <a href="https://www.atyantik.com/proxy-javascript-es6-feature/">Proxy, The new Javascript ES6 feature</a></li>
-  <li><a href="http://www.data-forge-js.com/">Data-Forge - JavaScript data wrangling, transformation and analysis toolkit</a>, <a href="https://github.com/holtalanm/roman-num">RomaNum - Roman Numeral Math</a> и <a href="https://twikito.github.io/easy-toggle-state/">Easy Toggle State - a tiny JavaScript library to easily toggle the state of any HTML element and its targets</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 21 May 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/05/21/podcast-06-20.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/05/21/podcast-06-20.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0620.mp3" length="24490668" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0620.mp3" fileSize="24490668" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.2 fixes query caching in MySQL and Pos...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.2 fixes query caching in MySQL and PostgreSQL adapters, How to mitigate DDoS using Rack::Attack и Deprecating Paperclip
-
-  
-Crystal is not Ruby Part 1, Paginating Ruby on Rails applications with Pagy и Timeout::Error
-
-
-
-JavaScript
-
-
-  
-After 5 years and $3M, here’s everything we’ve learned from building Ghost, The 7 Most Common Mistakes that React Developers Make и Proxy, The new Javascript ES6 feature
-
-  
-Data-Forge - JavaScript data wrangling, transformation and analysis toolkit, RomaNum - Roman Numeral Math и Easy Toggle State - a tiny JavaScript library to easily toggle the state of any HTML element and its targets
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0620.png"/>
-  <itunes:duration>00:25:29</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
