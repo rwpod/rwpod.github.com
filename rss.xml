@@ -9,7 +9,7 @@
     <copyright>Copyright RWpod.</copyright>
     <pubDate>Mon, 25 Feb 2019 00:00:00 +0200</pubDate>
     <lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0200</lastBuildDate>
-    <atom:link href="http://feeds.rwpod.com/rwpod" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
     <itunes:explicit>clean</itunes:explicit>
