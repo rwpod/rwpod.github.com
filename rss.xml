@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 25 Feb 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 25 Feb 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 04 Mar 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 04 Mar 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>09 выпуск 07 сезона. Rails 6 adds support for timezones to Active Job, .dev for all, renchKiss.js, JavaScript SEO и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2019/02/26/ruby-2-7-method-shorthand.html">Ruby 2.7 adds shorthand operator for Object#method</a>, <a href="https://blog.saeloun.com/2019/03/02/rails-activejob-timezone-support.html">Rails 6 adds support for timezones to Active Job</a>, <a href="https://blog.saeloun.com/2019/03/01/rails-6-before-and-after-for-date-and-time.html">Rails 6 adds before? and after? methods to Date, DateTime, Time, and TimeWithZone</a>, <a href="https://blog.saeloun.com/2019/02/26/rails-6-negative-scopes-for-enum-values.html">Rails 6 adds negative scopes for all enum values</a> и <a href="https://blog.heroku.com/debugging-year-old-sprockets-bug">Debugging in Ruby—Busting a Year-old Bug in Sprockets</a></li>
+  <li><a href="https://blog.appsignal.com/2019/02/26/diving-into-dup-and-clone.html">Diving into Ruby’s #dup and #clone</a>, <a href="https://nebulab.it/blog/actioncable-vs-anycable-fight/">Action Cable vs AnyCable: fight!</a>, <a href="https://github.com/vinistock/sail">Sail - a lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app</a> и <a href="https://cryptozombies.io/">CryptoZombies - an interactive code school that teaches you to write smart contracts in Solidity through building your own crypto-collectables game</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://developers.googleblog.com/2019/02/dev-for-all.html">.dev for all</a>, <a href="https://twitter.com/bdc/status/1100921258839953408">The CSS Working Group agreed on adding many math functions</a> и <a href="https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6">8 Little Videos About the Firefox Shape Path Editor</a></li>
+  <li><a href="https://github.com/Microsoft/frontend-bootcamp">Frontend Bootcamp / Days in the Web</a>, <a href="https://github.com/koala-interactive/frenchkiss.js">FrenchKiss.js - a blazing fast lightweight i18n library written in JavaScript</a>, <a href="https://webaccessibility.guide/">Web Accessibility Guide</a> и <a href="https://www.youtube.com/watch?v=wSwzfEn5-6A">JavaScript SEO</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2019/02/26/ruby-2-7-method-shorthand.html">Ruby 2.7 adds shorthand operator for Object#method</a>, <a href="https://blog.saeloun.com/2019/03/02/rails-activejob-timezone-support.html">Rails 6 adds support for timezones to Active Job</a>, <a href="https://blog.saeloun.com/2019/03/01/rails-6-before-and-after-for-date-and-time.html">Rails 6 adds before? and after? methods to Date, DateTime, Time, and TimeWithZone</a>, <a href="https://blog.saeloun.com/2019/02/26/rails-6-negative-scopes-for-enum-values.html">Rails 6 adds negative scopes for all enum values</a> и <a href="https://blog.heroku.com/debugging-year-old-sprockets-bug">Debugging in Ruby—Busting a Year-old Bug in Sprockets</a></li>
+  <li><a href="https://blog.appsignal.com/2019/02/26/diving-into-dup-and-clone.html">Diving into Ruby’s #dup and #clone</a>, <a href="https://nebulab.it/blog/actioncable-vs-anycable-fight/">Action Cable vs AnyCable: fight!</a>, <a href="https://github.com/vinistock/sail">Sail - a lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app</a> и <a href="https://cryptozombies.io/">CryptoZombies - an interactive code school that teaches you to write smart contracts in Solidity through building your own crypto-collectables game</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://developers.googleblog.com/2019/02/dev-for-all.html">.dev for all</a>, <a href="https://twitter.com/bdc/status/1100921258839953408">The CSS Working Group agreed on adding many math functions</a> и <a href="https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6">8 Little Videos About the Firefox Shape Path Editor</a></li>
+  <li><a href="https://github.com/Microsoft/frontend-bootcamp">Frontend Bootcamp / Days in the Web</a>, <a href="https://github.com/koala-interactive/frenchkiss.js">FrenchKiss.js - a blazing fast lightweight i18n library written in JavaScript</a>, <a href="https://webaccessibility.guide/">Web Accessibility Guide</a> и <a href="https://www.youtube.com/watch?v=wSwzfEn5-6A">JavaScript SEO</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 04 Mar 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/03/04/podcast-07-09.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/03/04/podcast-07-09.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0709.mp3" length="31496544" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0709.mp3" fileSize="31496544" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7 adds shorthand operator for Object#me...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.7 adds shorthand operator for Object#method, Rails 6 adds support for timezones to Active Job, Rails 6 adds before? and after? methods to Date, DateTime, Time, and TimeWithZone, Rails 6 adds negative scopes for all enum values и Debugging in Ruby—Busting a Year-old Bug in Sprockets
+
+  
+Diving into Ruby’s #dup and #clone, Action Cable vs AnyCable: fight!, Sail - a lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app и CryptoZombies - an interactive code school that teaches you to write smart contracts in Solidity through building your own crypto-collectables game
+
+
+
+Web
+
+
+  
+.dev for all, The CSS Working Group agreed on adding many math functions и 8 Little Videos About the Firefox Shape Path Editor
+
+  
+Frontend Bootcamp / Days in the Web, FrenchKiss.js - a blazing fast lightweight i18n library written in JavaScript, Web Accessibility Guide и JavaScript SEO
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0709.png"/>
+  <itunes:duration>00:32:47</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>08 выпуск 07 сезона. Register Transfer Language for CRuby, ECMAScript 2019, NSFW JS, Try GraphQL, Cleave.js и прочее</title>
   <description>
@@ -3434,90 +3518,6 @@ Introduction to the Headless CMS и Firebase Cloud Functions: the great, the meh
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0622.png"/>
   <itunes:duration>00:42:59</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>21 выпуск 06 сезона. Controllers: the Rails way vs the Hanami way, MeRedis, Winds 2.0, Vuido, RSuite, nanoJS, Wired Elements и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/05/22/ruby-2-5-added-lazy-proc-allocation-for-block-parameters.html">Ruby 2.5 added lazy proc allocation for block parameters</a>, <a href="https://sipsandbits.com/2018/05/23/rails-controllers-vs-hanami-controllers/">Controllers: the Rails way vs the Hanami way</a> и <a href="https://reinteractive.com/posts/354-best-practices-async-reverse-geocoding-with-ruby-and-geocoder">Best practices: Async Reverse Geocoding with Ruby and Geocoder</a></li>
-  <li><a href="https://blog.planetargon.com/entries/our-favorite-ruby-on-rails-talks-from-railsconf-2018">Our Favorite Ruby on Rails Talks from RailsConf 2018</a>, <a href="https://blog.planetargon.com/entries/8-ruby-gems-were-loving-in-2018">8 Ruby Gems We’re Loving in 2018</a>, <a href="https://github.com/alekseyl/me-redis">MeRedis - Memory Efficient redis optimization</a> и <a href="https://github.com/alekseyl/niceql">Niceql - a small, nice, simple and dependentless solution for SQL prettifiyng for Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/pulsar/which-accessibility-testing-tool-should-you-use-e5990e6ef0a">Which accessibility testing tool should you use?</a>, <a href="https://deanhume.com/lazy-loading-images-using-intersection-observer/">Lazy loading images using Intersection Observer</a> и <a href="https://medium.com/@lucyhackwrench/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D1%82%D1%8C-%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8-%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%B2%D1%81%D0%B5%D1%85-%D1%81%D0%B5%D0%B1%D1%8F-%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BA%D0%BE%D0%B4-%D1%80%D0%B5%D0%B2%D1%8C%D1%8E-11fec8e17000">Как потерять друзей и заставить всех себя ненавидеть, делая код-ревью</a></li>
-  <li><a href="https://github.com/GetStream/Winds">Winds 2.0 - a Beautiful Open Source RSS &amp; Podcast App</a>, <a href="https://github.com/mimecorg/vuido">Vuido - create native desktop applications for Windows, OS X and Linux using Vue.js</a>, <a href="https://rsuitejs.com/en/">RSuite - a suite of React components</a>, <a href="https://vladocar.github.io/nanoJS/">nanoJS - minimal standalone JS library for DOM manipulation</a>, <a href="https://wiredjs.com/">Wired Elements - set of common UI elements with a hand-drawn, sketchy look</a> и <a href="http://mnater.github.io/Hyphenopoly/">Hyphenopoly.js - a JavaScript-polyfill for hyphenation in HTML</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/05/22/ruby-2-5-added-lazy-proc-allocation-for-block-parameters.html">Ruby 2.5 added lazy proc allocation for block parameters</a>, <a href="https://sipsandbits.com/2018/05/23/rails-controllers-vs-hanami-controllers/">Controllers: the Rails way vs the Hanami way</a> и <a href="https://reinteractive.com/posts/354-best-practices-async-reverse-geocoding-with-ruby-and-geocoder">Best practices: Async Reverse Geocoding with Ruby and Geocoder</a></li>
-  <li><a href="https://blog.planetargon.com/entries/our-favorite-ruby-on-rails-talks-from-railsconf-2018">Our Favorite Ruby on Rails Talks from RailsConf 2018</a>, <a href="https://blog.planetargon.com/entries/8-ruby-gems-were-loving-in-2018">8 Ruby Gems We’re Loving in 2018</a>, <a href="https://github.com/alekseyl/me-redis">MeRedis - Memory Efficient redis optimization</a> и <a href="https://github.com/alekseyl/niceql">Niceql - a small, nice, simple and dependentless solution for SQL prettifiyng for Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/pulsar/which-accessibility-testing-tool-should-you-use-e5990e6ef0a">Which accessibility testing tool should you use?</a>, <a href="https://deanhume.com/lazy-loading-images-using-intersection-observer/">Lazy loading images using Intersection Observer</a> и <a href="https://medium.com/@lucyhackwrench/%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D1%82%D0%B5%D1%80%D1%8F%D1%82%D1%8C-%D0%B4%D1%80%D1%83%D0%B7%D0%B5%D0%B9-%D0%B8-%D0%B7%D0%B0%D1%81%D1%82%D0%B0%D0%B2%D0%B8%D1%82%D1%8C-%D0%B2%D1%81%D0%B5%D1%85-%D1%81%D0%B5%D0%B1%D1%8F-%D0%BD%D0%B5%D0%BD%D0%B0%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C-%D0%B4%D0%B5%D0%BB%D0%B0%D1%8F-%D0%BA%D0%BE%D0%B4-%D1%80%D0%B5%D0%B2%D1%8C%D1%8E-11fec8e17000">Как потерять друзей и заставить всех себя ненавидеть, делая код-ревью</a></li>
-  <li><a href="https://github.com/GetStream/Winds">Winds 2.0 - a Beautiful Open Source RSS &amp; Podcast App</a>, <a href="https://github.com/mimecorg/vuido">Vuido - create native desktop applications for Windows, OS X and Linux using Vue.js</a>, <a href="https://rsuitejs.com/en/">RSuite - a suite of React components</a>, <a href="https://vladocar.github.io/nanoJS/">nanoJS - minimal standalone JS library for DOM manipulation</a>, <a href="https://wiredjs.com/">Wired Elements - set of common UI elements with a hand-drawn, sketchy look</a> и <a href="http://mnater.github.io/Hyphenopoly/">Hyphenopoly.js - a JavaScript-polyfill for hyphenation in HTML</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 28 May 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/05/28/podcast-06-21.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/05/28/podcast-06-21.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0621.mp3" length="33629372" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0621.mp3" fileSize="33629372" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.5 added lazy proc allocation for block ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.5 added lazy proc allocation for block parameters, Controllers: the Rails way vs the Hanami way и Best practices: Async Reverse Geocoding with Ruby and Geocoder
-
-  
-Our Favorite Ruby on Rails Talks from RailsConf 2018, 8 Ruby Gems We’re Loving in 2018, MeRedis - Memory Efficient redis optimization и Niceql - a small, nice, simple and dependentless solution for SQL prettifiyng for Ruby
-
-
-
-JavaScript
-
-
-  
-Which accessibility testing tool should you use?, Lazy loading images using Intersection Observer и Как потерять друзей и заставить всех себя ненавидеть, делая код-ревью
-
-  
-Winds 2.0 - a Beautiful Open Source RSS &amp; Podcast App, Vuido - create native desktop applications for Windows, OS X and Linux using Vue.js, RSuite - a suite of React components, nanoJS - minimal standalone JS library for DOM manipulation, Wired Elements - set of common UI elements with a hand-drawn, sketchy look и Hyphenopoly.js - a JavaScript-polyfill for hyphenation in HTML
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0621.png"/>
-  <itunes:duration>00:35:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
