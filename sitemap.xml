@@ -2,7 +2,7 @@
 <?xml-stylesheet href="/sitemap.xsl" type="text/xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.rwpod.com/page/26/</loc>
+    <loc>https://www.rwpod.com/page/30/</loc>
     <lastmod>2019-03-12T00:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -98,7 +98,67 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.rwpod.com/page/30/</loc>
+    <loc>https://www.rwpod.com/posts/2014.html</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/posts/2015.html</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/posts/2016.html</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/posts/2017.html</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/posts/2018.html</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/posts/2019.html</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/posts/categories/screencasts.html</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/posts/categories/cafe.html</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/posts/categories/podcasts.html</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/about.html</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/</loc>
     <lastmod>2019-03-12T00:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -117,6 +177,78 @@
   </url>
   <url>
     <loc>https://www.rwpod.com/page/27/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/26/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/25/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/24/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/23/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/22/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/21/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/20/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/19/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/18/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/17/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/16/</loc>
+    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.rwpod.com/page/15/</loc>
     <lastmod>2019-03-12T00:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -206,133 +338,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.rwpod.com/posts/2014.html</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/posts/2015.html</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/posts/2016.html</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/posts/2017.html</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/posts/2018.html</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/posts/2019.html</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/posts/categories/screencasts.html</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/posts/categories/cafe.html</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/posts/categories/podcasts.html</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/about.html</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/25/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/24/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/23/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/22/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/21/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/20/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/19/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/18/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/17/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/16/</loc>
-    <lastmod>2019-03-12T00:00:00+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.rwpod.com/page/15/</loc>
+    <loc>https://www.rwpod.com/posts/2019/03/12/cafe-009.html</loc>
     <lastmod>2019-03-12T00:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
@@ -524,13 +530,13 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.rwpod.com/posts/2018/07/30/cafe-008.html</loc>
+    <loc>https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</loc>
     <lastmod>2018-07-30T00:00:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</loc>
+    <loc>https://www.rwpod.com/posts/2018/07/30/cafe-008.html</loc>
     <lastmod>2018-07-30T00:00:00+03:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
