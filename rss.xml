@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 18 Mar 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Tue, 26 Mar 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,100 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>12 выпуск 07 сезона. React Router v5, React-Redux v7.0.0-beta.0, Cables vs. malloc_trim, Helix, Lamby, Flexulator, DropCSS и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/03/26/rails-6-adds-activemodel-errors-slice.html">Rails 6 adds ActiveModel::Errors#slice!</a>, <a href="https://blog.bigbinary.com/2019/03/20/rails-6-raises-activemodel-missingattributeerror-when-update_columns-is-used-with-non-existing-attribute.html">Rails 6 raises ActiveModel::MissingAttributeError when update_columns is used with non-existing attribute</a> и <a href="https://dev.to/evilmartians/cables-vs-malloctrim-or-yet-another-ruby-memory-usage-benchmark-3emo">Cables vs. malloc_trim, or yet another Ruby memory usage benchmark</a></li>
+  <li><a href="https://medium.com/@dvandersluis/an-rspec-time-issue-and-its-not-about-timezones-a89bbd167b86">An RSpec time issue (and it’s not due to timezones)</a>, <a href="https://medium.com/@joseph.dayo/an-deep-dive-into-tensorstream-d910342e08e2">An Deep Dive into TensorStream</a> и <a href="https://blog.arkency.com/a-scary-side-of-activerecords-find/">A scary side of ActiveRecord’s find</a></li>
+  <li><a href="https://headway.io/blog/helix-improve-the-performance-of-rails-with-rust/">Helix: Improve the Performance of Rails with Rust</a> и <a href="https://github.com/customink/lamby">Lamby - simple Rails &amp; AWS Lambda integration using Rack</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://reacttraining.com/blog/react-router-v5/">React Router v5</a>, <a href="https://github.com/reduxjs/react-redux/releases/tag/v7.0.0-beta.0">React-Redux v7.0.0-beta.0</a> и <a href="https://habr.com/en/company/jugru/blog/444652/">«Пора валить из фронтенда»: Андрей Ситник о стагнации сообщества, опенсорсе и не только</a></li>
+  <li><a href="https://wwwtyro.net/2019/03/21/advanced-map-shading.html">Advanced Map Shading</a> и <a href="https://ponyfoo.com/articles/react-state-choose-wisely">React State: Choose Wisely</a></li>
+  <li><a href="https://www.futurice.com/blog/announcing-fromfrom/">Announcing fromfrom</a>, <a href="https://www.flexulator.com/">Flexulator</a>, <a href="https://github.com/nirtz89/crumbsjs">CrumbsJS - a lightweight, intuitive, vanilla ES6 fueled JS cookie and local storage library</a> и <a href="https://github.com/leeoniya/dropcss">DropCSS - a simple, thorough and fast unused-CSS cleaner</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/03/26/rails-6-adds-activemodel-errors-slice.html">Rails 6 adds ActiveModel::Errors#slice!</a>, <a href="https://blog.bigbinary.com/2019/03/20/rails-6-raises-activemodel-missingattributeerror-when-update_columns-is-used-with-non-existing-attribute.html">Rails 6 raises ActiveModel::MissingAttributeError when update_columns is used with non-existing attribute</a> и <a href="https://dev.to/evilmartians/cables-vs-malloctrim-or-yet-another-ruby-memory-usage-benchmark-3emo">Cables vs. malloc_trim, or yet another Ruby memory usage benchmark</a></li>
+  <li><a href="https://medium.com/@dvandersluis/an-rspec-time-issue-and-its-not-about-timezones-a89bbd167b86">An RSpec time issue (and it’s not due to timezones)</a>, <a href="https://medium.com/@joseph.dayo/an-deep-dive-into-tensorstream-d910342e08e2">An Deep Dive into TensorStream</a> и <a href="https://blog.arkency.com/a-scary-side-of-activerecords-find/">A scary side of ActiveRecord’s find</a></li>
+  <li><a href="https://headway.io/blog/helix-improve-the-performance-of-rails-with-rust/">Helix: Improve the Performance of Rails with Rust</a> и <a href="https://github.com/customink/lamby">Lamby - simple Rails &amp; AWS Lambda integration using Rack</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://reacttraining.com/blog/react-router-v5/">React Router v5</a>, <a href="https://github.com/reduxjs/react-redux/releases/tag/v7.0.0-beta.0">React-Redux v7.0.0-beta.0</a> и <a href="https://habr.com/en/company/jugru/blog/444652/">«Пора валить из фронтенда»: Андрей Ситник о стагнации сообщества, опенсорсе и не только</a></li>
+  <li><a href="https://wwwtyro.net/2019/03/21/advanced-map-shading.html">Advanced Map Shading</a> и <a href="https://ponyfoo.com/articles/react-state-choose-wisely">React State: Choose Wisely</a></li>
+  <li><a href="https://www.futurice.com/blog/announcing-fromfrom/">Announcing fromfrom</a>, <a href="https://www.flexulator.com/">Flexulator</a>, <a href="https://github.com/nirtz89/crumbsjs">CrumbsJS - a lightweight, intuitive, vanilla ES6 fueled JS cookie and local storage library</a> и <a href="https://github.com/leeoniya/dropcss">DropCSS - a simple, thorough and fast unused-CSS cleaner</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 26 Mar 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/03/26/podcast-07-12.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/03/26/podcast-07-12.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0712.mp3" length="46857232" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0712.mp3" fileSize="46857232" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6 adds ActiveModel::Errors#slice!, Rails...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 6 adds ActiveModel::Errors#slice!, Rails 6 raises ActiveModel::MissingAttributeError when update_columns is used with non-existing attribute и Cables vs. malloc_trim, or yet another Ruby memory usage benchmark
+
+  
+An RSpec time issue (and it’s not due to timezones), An Deep Dive into TensorStream и A scary side of ActiveRecord’s find
+
+  
+Helix: Improve the Performance of Rails with Rust и Lamby - simple Rails &amp; AWS Lambda integration using Rack
+
+
+
+Web
+
+
+  
+React Router v5, React-Redux v7.0.0-beta.0 и «Пора валить из фронтенда»: Андрей Ситник о стагнации сообщества, опенсорсе и не только
+
+  
+Advanced Map Shading и React State: Choose Wisely
+
+  
+Announcing fromfrom, Flexulator, CrumbsJS - a lightweight, intuitive, vanilla ES6 fueled JS cookie and local storage library и DropCSS - a simple, thorough and fast unused-CSS cleaner
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0712.png"/>
+  <itunes:duration>00:39:01</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>11 выпуск 07 сезона. Ruby 2.6.2, Rails 6.0.0.beta3, React Native 0.59, CKEditor 5 v12.0.0, Firefox Send и прочее</title>
   <description>
@@ -3448,90 +3542,6 @@ TensorFlow.js, Machine Learning and Flappy Bird: Frontend Artificial Intelligenc
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0626.png"/>
   <itunes:duration>00:26:50</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>25 выпуск 06 сезона. Ruby 2.5 and CGI.escape, Electron 3.0.0-beta.1, V8 v6.8, ESLint v5.0.0, MobX 5, Breaking Up a Monolith и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.com/ruby/ruby/commit/e1b432754553423008a14d39d0901eabc99e7ddb#diff-94952cbdbe387aefd1bb19c8a4684a33">If you’re upgrading to Ruby 2.5, you should know about this undocumented change to CGI.escape</a>, <a href="https://blog.heroku.com/rails-asset-pipeline-vulnerability">Rails Asset Pipeline Directory Traversal Vulnerability (CVE-2018-3760)</a> и <a href="https://medium.com/@yoelblum_45935/demand-for-ruby-on-rails-is-still-huge-ea4434926c57">Demand for Ruby on Rails is Still Huge</a></li>
-  <li><a href="https://anadea.info/blog/how-hash-table-works-ruby-examples">Do You Know How Hash Table Works? (Ruby Examples)</a>, <a href="https://blog.appsignal.com/2018/06/19/activerecords-counter-cache.html">Caching counters with ActiveRecord’s counter caches</a> и <a href="https://buttercms.com/books/microservices-for-startups/breaking-up-a-monolith">Breaking Up a Monolith: Kong Case Study</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://electronjs.org/releases#3.0.0-beta.1">Electron 3.0.0-beta.1 released</a>, <a href="https://v8project.blogspot.com/2018/06/v8-release-68.html">V8 release v6.8</a>, <a href="https://eslint.org/blog/2018/06/eslint-v5.0.0-released">ESLint v5.0.0 released</a>, <a href="https://github.com/mobxjs/mobx/blob/e17c47833d1812eee6d77914be890aa41e4b7908/CHANGELOG.md#500">MobX 5</a>, <a href="https://blog.mozvr.com/introducing-a-terrain/">Introducing A-Terrain - a cartography component for A-Frame</a>, <a href="https://aframe.io/">A-Frame - a web framework for building virtual reality experiences</a> и <a href="https://building.lang.ai/we-analyzed-the-github-issues-from-the-most-popular-front-end-frameworks-heres-what-we-found-c3491b26ec95">We analyzed the GitHub Issues from the most popular Front-End frameworks, here’s what we found</a></li>
-  <li><a href="https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a">Sunsetting React Native</a>, <a href="https://medium.com/@ericsimons/introducing-teleport-over-the-air-hot-reloading-debugging-for-pwas-%EF%B8%8F-efd1e2b1c64c">Introducing Teleport: Over-the-air hot reloading &amp; debugging for PWA’s</a> и <a href="https://dev.tube/">DevTube - The best developer videos in one place</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.com/ruby/ruby/commit/e1b432754553423008a14d39d0901eabc99e7ddb#diff-94952cbdbe387aefd1bb19c8a4684a33">If you’re upgrading to Ruby 2.5, you should know about this undocumented change to CGI.escape</a>, <a href="https://blog.heroku.com/rails-asset-pipeline-vulnerability">Rails Asset Pipeline Directory Traversal Vulnerability (CVE-2018-3760)</a> и <a href="https://medium.com/@yoelblum_45935/demand-for-ruby-on-rails-is-still-huge-ea4434926c57">Demand for Ruby on Rails is Still Huge</a></li>
-  <li><a href="https://anadea.info/blog/how-hash-table-works-ruby-examples">Do You Know How Hash Table Works? (Ruby Examples)</a>, <a href="https://blog.appsignal.com/2018/06/19/activerecords-counter-cache.html">Caching counters with ActiveRecord’s counter caches</a> и <a href="https://buttercms.com/books/microservices-for-startups/breaking-up-a-monolith">Breaking Up a Monolith: Kong Case Study</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://electronjs.org/releases#3.0.0-beta.1">Electron 3.0.0-beta.1 released</a>, <a href="https://v8project.blogspot.com/2018/06/v8-release-68.html">V8 release v6.8</a>, <a href="https://eslint.org/blog/2018/06/eslint-v5.0.0-released">ESLint v5.0.0 released</a>, <a href="https://github.com/mobxjs/mobx/blob/e17c47833d1812eee6d77914be890aa41e4b7908/CHANGELOG.md#500">MobX 5</a>, <a href="https://blog.mozvr.com/introducing-a-terrain/">Introducing A-Terrain - a cartography component for A-Frame</a>, <a href="https://aframe.io/">A-Frame - a web framework for building virtual reality experiences</a> и <a href="https://building.lang.ai/we-analyzed-the-github-issues-from-the-most-popular-front-end-frameworks-heres-what-we-found-c3491b26ec95">We analyzed the GitHub Issues from the most popular Front-End frameworks, here’s what we found</a></li>
-  <li><a href="https://medium.com/airbnb-engineering/sunsetting-react-native-1868ba28e30a">Sunsetting React Native</a>, <a href="https://medium.com/@ericsimons/introducing-teleport-over-the-air-hot-reloading-debugging-for-pwas-%EF%B8%8F-efd1e2b1c64c">Introducing Teleport: Over-the-air hot reloading &amp; debugging for PWA’s</a> и <a href="https://dev.tube/">DevTube - The best developer videos in one place</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 25 Jun 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/06/25/podcast-06-25.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/06/25/podcast-06-25.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0625.mp3" length="29554478" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0625.mp3" fileSize="29554478" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  If you’re upgrading to Ruby 2.5, you should kn...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-If you’re upgrading to Ruby 2.5, you should know about this undocumented change to CGI.escape, Rails Asset Pipeline Directory Traversal Vulnerability (CVE-2018-3760) и Demand for Ruby on Rails is Still Huge
-
-  
-Do You Know How Hash Table Works? (Ruby Examples), Caching counters with ActiveRecord’s counter caches и Breaking Up a Monolith: Kong Case Study
-
-
-
-JavaScript
-
-
-  
-Electron 3.0.0-beta.1 released, V8 release v6.8, ESLint v5.0.0 released, MobX 5, Introducing A-Terrain - a cartography component for A-Frame, A-Frame - a web framework for building virtual reality experiences и We analyzed the GitHub Issues from the most popular Front-End frameworks, here’s what we found
-
-  
-Sunsetting React Native, Introducing Teleport: Over-the-air hot reloading &amp; debugging for PWA’s и DevTube - The best developer videos in one place
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0625.png"/>
-  <itunes:duration>00:30:45</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
