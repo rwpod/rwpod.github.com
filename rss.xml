@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 26 Mar 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Tue, 26 Mar 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 01 Apr 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>13 выпуск 07 сезона. Rails 5.2.3, TypeScript 3.4, Highly Performant App with Ruby on Rails and Phoenix, Cube.js, PreVue и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://weblog.rubyonrails.org/2019/3/28/Rails-5-2-3-has-been-released/">Rails 5.2.3 has been released</a>, <a href="https://blog.bigbinary.com/2019/03/27/rails-6-shows-routes-in-expanded-format.html">Rails 6 shows routes in expanded format</a>, <a href="https://aws.amazon.com/blogs/developer/announcing-amazon-transcribe-streaming-transcription-support-in-the-aws-sdk-for-ruby/">Announcing Amazon Transcribe streaming transcription support in the AWS SDK for Ruby</a> и <a href="https://twitter.com/SassCSS/status/1110648176912916480">Bye Bye (Ruby Powered) Sass</a></li>
+  <li><a href="https://www.monterail.com/blog/ruby-on-rails-development-phoenix-elixir">How we Built a Highly Performant App with Ruby on Rails and Phoenix</a>, <a href="https://samsaffron.com/archive/2019/03/31/why-i-stuck-with-windows-for-6-years-while-developing-discourse">Why I stuck with Windows for 6 years while developing Discourse</a> и <a href="https://www.joyfulbikeshedding.com/blog/2019-03-29-the-status-of-ruby-memory-trimming-and-how-you-can-help-with-testing.html">The status of Ruby memory trimming &amp; how you can help with testing</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/">Announcing TypeScript 3.4</a>, <a href="https://statsbot.co/blog/cubejs-open-source-dashboard-framework-ultimate-guide/">Cube.js, the Open Source Dashboard Framework: Ultimate Guide</a> и <a href="https://tsh.io/blog/how-i-ruined-my-javascript-code-still-won-coding-challenge/">How I ruined my JavaScript code and still won the Coding Challenge</a></li>
+  <li><a href="https://prevue.io/">PreVue - all in One Prototyping Tool For Vue Developers</a>, <a href="https://github.com/sindresorhus/eslint-plugin-unicorn">Eslint-plugin-unicorn - various awesome ESLint rules</a> и <a href="http://vexflow.com/vexchords/">JavaScript Chord Charts</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://weblog.rubyonrails.org/2019/3/28/Rails-5-2-3-has-been-released/">Rails 5.2.3 has been released</a>, <a href="https://blog.bigbinary.com/2019/03/27/rails-6-shows-routes-in-expanded-format.html">Rails 6 shows routes in expanded format</a>, <a href="https://aws.amazon.com/blogs/developer/announcing-amazon-transcribe-streaming-transcription-support-in-the-aws-sdk-for-ruby/">Announcing Amazon Transcribe streaming transcription support in the AWS SDK for Ruby</a> и <a href="https://twitter.com/SassCSS/status/1110648176912916480">Bye Bye (Ruby Powered) Sass</a></li>
+  <li><a href="https://www.monterail.com/blog/ruby-on-rails-development-phoenix-elixir">How we Built a Highly Performant App with Ruby on Rails and Phoenix</a>, <a href="https://samsaffron.com/archive/2019/03/31/why-i-stuck-with-windows-for-6-years-while-developing-discourse">Why I stuck with Windows for 6 years while developing Discourse</a> и <a href="https://www.joyfulbikeshedding.com/blog/2019-03-29-the-status-of-ruby-memory-trimming-and-how-you-can-help-with-testing.html">The status of Ruby memory trimming &amp; how you can help with testing</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-4/">Announcing TypeScript 3.4</a>, <a href="https://statsbot.co/blog/cubejs-open-source-dashboard-framework-ultimate-guide/">Cube.js, the Open Source Dashboard Framework: Ultimate Guide</a> и <a href="https://tsh.io/blog/how-i-ruined-my-javascript-code-still-won-coding-challenge/">How I ruined my JavaScript code and still won the Coding Challenge</a></li>
+  <li><a href="https://prevue.io/">PreVue - all in One Prototyping Tool For Vue Developers</a>, <a href="https://github.com/sindresorhus/eslint-plugin-unicorn">Eslint-plugin-unicorn - various awesome ESLint rules</a> и <a href="http://vexflow.com/vexchords/">JavaScript Chord Charts</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 01 Apr 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/04/01/podcast-07-13.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/04/01/podcast-07-13.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0713.mp3" length="37589122" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0713.mp3" fileSize="37589122" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.2.3 has been released, Rails 6 shows r...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.2.3 has been released, Rails 6 shows routes in expanded format, Announcing Amazon Transcribe streaming transcription support in the AWS SDK for Ruby и Bye Bye (Ruby Powered) Sass
+
+  
+How we Built a Highly Performant App with Ruby on Rails and Phoenix, Why I stuck with Windows for 6 years while developing Discourse и The status of Ruby memory trimming &amp; how you can help with testing
+
+
+
+Web
+
+
+  
+Announcing TypeScript 3.4, Cube.js, the Open Source Dashboard Framework: Ultimate Guide и How I ruined my JavaScript code and still won the Coding Challenge
+
+  
+PreVue - all in One Prototyping Tool For Vue Developers, Eslint-plugin-unicorn - various awesome ESLint rules и JavaScript Chord Charts
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0713.png"/>
+  <itunes:duration>00:31:18</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>12 выпуск 07 сезона. React Router v5, React-Redux v7.0.0-beta.0, Cables vs. malloc_trim, Helix, Lamby, Flexulator, DropCSS и прочее</title>
   <description>
@@ -3458,90 +3542,6 @@ Writing your own ESLint Plugin: Autofix code, Pnpm - fast, disk space efficient 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0627.png"/>
   <itunes:duration>00:31:47</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>26 выпуск 06 сезона. Rails 5.2 uses AES-256-GCM authenticated encryption, ECMAScript 2018, Face-api.js, Rabbit Ear и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/06/26/rails-5-2-uses-aes-256-gcm-authenticated-encryption-as-default-cipher-for-encrypting-messages.html">Rails 5.2 uses AES-256-GCM authenticated encryption as default cipher for encrypting messages</a>, <a href="https://zverok.github.io/blog/2018-06-26-pattern-matching.html">Quest for Ruby Pattern Matching</a> и <a href="https://medium.com/@scottm/find-the-cause-of-randomly-failing-tests-with-rspec-bisect-dfe9ee2a70c2">Find the cause of randomly failing tests with RSpec bisect</a></li>
-  <li><a href="https://reinteractive.com/posts/358-frankenstein-s-activerecord-how-to-stitch-together-complex-activerecord-queries-from-simple-parts">Frankenstein’s ActiveRecord: How to stitch together complex ActiveRecord queries from simple parts</a> и <a href="https://mixandgo.com/learn/understanding-boolean-operator-precedence-in-ruby">Understanding Boolean Operator Precedence in Ruby (&#x26;&#x26;, and, ||, or)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://www.ecma-international.org/publications/standards/Ecma-262.htm">ECMAScript 2018 Language Specification Approved and Posted</a>, <a href="https://medium.com/@omm2/doing-vue-after-three-years-with-react-3d36d53abbd6">Doing Vue after three years with React</a> и <a href="https://hackernoon.com/i-abandonded-react-in-favor-of-hyperapp-heres-why-df65638f8a79">I abandoned React in favor of Hyperapp — Here’s why</a></li>
-  <li><a href="https://blog.apptension.com/2018/06/27/tensorflow-js-machine-learning-and-flappy-bird-frontend-artificial-intelligence/">TensorFlow.js, Machine Learning and Flappy Bird: Frontend Artificial Intelligence</a>, <a href="https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07">Face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js</a>, <a href="https://github.com/leptojs/lepto">Lepto - automated image Editing, Optimization and Analysis via CLI and a web interface</a>, <a href="https://rabbitear.org/">Rabbit Ear - a creative coding javascript library for designing origami</a> и <a href="https://tenori-off.glitch.me/#">Tenori-on✨ - a dope electronic music instrument sequencer thinkie that Yamaha made for a hot minute</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/06/26/rails-5-2-uses-aes-256-gcm-authenticated-encryption-as-default-cipher-for-encrypting-messages.html">Rails 5.2 uses AES-256-GCM authenticated encryption as default cipher for encrypting messages</a>, <a href="https://zverok.github.io/blog/2018-06-26-pattern-matching.html">Quest for Ruby Pattern Matching</a> и <a href="https://medium.com/@scottm/find-the-cause-of-randomly-failing-tests-with-rspec-bisect-dfe9ee2a70c2">Find the cause of randomly failing tests with RSpec bisect</a></li>
-  <li><a href="https://reinteractive.com/posts/358-frankenstein-s-activerecord-how-to-stitch-together-complex-activerecord-queries-from-simple-parts">Frankenstein’s ActiveRecord: How to stitch together complex ActiveRecord queries from simple parts</a> и <a href="https://mixandgo.com/learn/understanding-boolean-operator-precedence-in-ruby">Understanding Boolean Operator Precedence in Ruby (&#x26;&#x26;, and, ||, or)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="http://www.ecma-international.org/publications/standards/Ecma-262.htm">ECMAScript 2018 Language Specification Approved and Posted</a>, <a href="https://medium.com/@omm2/doing-vue-after-three-years-with-react-3d36d53abbd6">Doing Vue after three years with React</a> и <a href="https://hackernoon.com/i-abandonded-react-in-favor-of-hyperapp-heres-why-df65638f8a79">I abandoned React in favor of Hyperapp — Here’s why</a></li>
-  <li><a href="https://blog.apptension.com/2018/06/27/tensorflow-js-machine-learning-and-flappy-bird-frontend-artificial-intelligence/">TensorFlow.js, Machine Learning and Flappy Bird: Frontend Artificial Intelligence</a>, <a href="https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07">Face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js</a>, <a href="https://github.com/leptojs/lepto">Lepto - automated image Editing, Optimization and Analysis via CLI and a web interface</a>, <a href="https://rabbitear.org/">Rabbit Ear - a creative coding javascript library for designing origami</a> и <a href="https://tenori-off.glitch.me/#">Tenori-on✨ - a dope electronic music instrument sequencer thinkie that Yamaha made for a hot minute</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 02 Jul 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/07/02/podcast-06-26.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/02/podcast-06-26.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0626.mp3" length="25797674" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0626.mp3" fileSize="25797674" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 5.2 uses AES-256-GCM authenticated encry...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 5.2 uses AES-256-GCM authenticated encryption as default cipher for encrypting messages, Quest for Ruby Pattern Matching и Find the cause of randomly failing tests with RSpec bisect
-
-  
-Frankenstein’s ActiveRecord: How to stitch together complex ActiveRecord queries from simple parts и Understanding Boolean Operator Precedence in Ruby (&amp;&amp;, and, ||, or)
-
-
-
-JavaScript
-
-
-  
-ECMAScript 2018 Language Specification Approved and Posted, Doing Vue after three years with React и I abandoned React in favor of Hyperapp — Here’s why
-
-  
-TensorFlow.js, Machine Learning and Flappy Bird: Frontend Artificial Intelligence, Face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js, Lepto - automated image Editing, Optimization and Analysis via CLI and a web interface, Rabbit Ear - a creative coding javascript library for designing origami и Tenori-on✨ - a dope electronic music instrument sequencer thinkie that Yamaha made for a hot minute
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0626.png"/>
-  <itunes:duration>00:26:50</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
