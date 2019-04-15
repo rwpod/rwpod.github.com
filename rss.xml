@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 08 Apr 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 08 Apr 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 15 Apr 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>15 выпуск 07 сезона. jQuery 3.4.0 , Asciidoctor 2.0.0, Front-end Developer Handbook 2019, AssemblyScript, QUIZ: Well aimed? и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/04/09/rails-6-requires-ruby-2-5-or-newer.html">Rails 6 requires Ruby 2.5 or newer</a>, <a href="https://blog.bigbinary.com/2019/04/10/rails-6-drops-support-for-postgresql-less-than-9-3.html">Rails 6 drops support for PostgreSQL version less than 9.3</a>, <a href="https://medium.com/@sanjaywrites/action-mailbox-explained-why-how-when-af92d8708662">Rails 6: Action Mailbox — Explained. Why?How? When?</a> и <a href="http://dgb.github.io/2019/04/05/bootstrap-sass-backdoor.html">Bootstrap Sass Backdoor</a></li>
+  <li><a href="https://flexport.engineering/approximating-prettier-for-ruby-with-rubocop-8b863bd64dc6">Approximating “Prettier for Ruby” with RuboCop</a>, <a href="https://dev.to/vinistock/creating-ruby-native-extensions-kg1">Creating Ruby native extensions</a> и <a href="https://github.com/asciidoctor/asciidoctor/releases/tag/v2.0.0">Asciidoctor 2.0.0</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/">jQuery 3.4.0 Released</a>, <a href="https://frontendmasters.com/books/front-end-handbook/2019/">Front-end Developer Handbook 2019</a> и <a href="https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca">Design patterns in modern JavaScript development</a></li>
+  <li><a href="https://medium.com/the-non-traditional-developer/styling-best-practices-using-react-c37b96b8be9c">Styling Best Practices Using React</a>, <a href="https://css-tricks.com/inline-svg-cached/">Inline SVG… Cached</a>, <a href="https://github.com/AssemblyScript/assemblyscript">AssemblyScript - a TypeScript to WebAssembly compiler</a> и <a href="https://codepen.io/pehaa/full/ROapJZ">QUIZ: Well aimed?</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/04/09/rails-6-requires-ruby-2-5-or-newer.html">Rails 6 requires Ruby 2.5 or newer</a>, <a href="https://blog.bigbinary.com/2019/04/10/rails-6-drops-support-for-postgresql-less-than-9-3.html">Rails 6 drops support for PostgreSQL version less than 9.3</a>, <a href="https://medium.com/@sanjaywrites/action-mailbox-explained-why-how-when-af92d8708662">Rails 6: Action Mailbox — Explained. Why?How? When?</a> и <a href="http://dgb.github.io/2019/04/05/bootstrap-sass-backdoor.html">Bootstrap Sass Backdoor</a></li>
+  <li><a href="https://flexport.engineering/approximating-prettier-for-ruby-with-rubocop-8b863bd64dc6">Approximating “Prettier for Ruby” with RuboCop</a>, <a href="https://dev.to/vinistock/creating-ruby-native-extensions-kg1">Creating Ruby native extensions</a> и <a href="https://github.com/asciidoctor/asciidoctor/releases/tag/v2.0.0">Asciidoctor 2.0.0</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/">jQuery 3.4.0 Released</a>, <a href="https://frontendmasters.com/books/front-end-handbook/2019/">Front-end Developer Handbook 2019</a> и <a href="https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca">Design patterns in modern JavaScript development</a></li>
+  <li><a href="https://medium.com/the-non-traditional-developer/styling-best-practices-using-react-c37b96b8be9c">Styling Best Practices Using React</a>, <a href="https://css-tricks.com/inline-svg-cached/">Inline SVG… Cached</a>, <a href="https://github.com/AssemblyScript/assemblyscript">AssemblyScript - a TypeScript to WebAssembly compiler</a> и <a href="https://codepen.io/pehaa/full/ROapJZ">QUIZ: Well aimed?</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 15 Apr 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/04/15/podcast-07-15.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/04/15/podcast-07-15.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0715.mp3" length="37531190" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0715.mp3" fileSize="37531190" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6 requires Ruby 2.5 or newer, Rails 6 dr...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 6 requires Ruby 2.5 or newer, Rails 6 drops support for PostgreSQL version less than 9.3, Rails 6: Action Mailbox — Explained. Why?How? When? и Bootstrap Sass Backdoor
+
+  
+Approximating “Prettier for Ruby” with RuboCop, Creating Ruby native extensions и Asciidoctor 2.0.0
+
+
+
+Web
+
+
+  
+jQuery 3.4.0 Released, Front-end Developer Handbook 2019 и Design patterns in modern JavaScript development
+
+  
+Styling Best Practices Using React, Inline SVG… Cached, AssemblyScript - a TypeScript to WebAssembly compiler и QUIZ: Well aimed?
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0715.png"/>
+  <itunes:duration>00:31:15</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>14 выпуск 07 сезона. CanCanCan 3.0, ActionPolicy 0.3.0, Native image lazy-loading for the web, Legacy Rails, CSSBattle и прочее</title>
   <description>
@@ -3458,90 +3542,6 @@ Popbox.js - a tiny javascript plugin for creating stackable modals, Pushbar.js -
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0629.png"/>
   <itunes:duration>00:35:25</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>28 выпуск 06 сезона. TypeScript 3.0 RC, Ruby 2.6 adds String#split with block, Goodbye Microservices, Chessboard.jsx и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/07/17/ruby-2-6-adds-split-with-block.html">Ruby 2.6 adds String#split with block</a>, <a href="https://blog.bigbinary.com/2018/07/10/ruby-2.6-raise-exception-for-else-without-rescue.html">Ruby 2.6 raises exception when ‘else’ is used inside ‘begin..end’ block without ‘rescue’</a>, <a href="https://www.imaginarycloud.com/blog/queries-on-rails/">Queries on Rails: extensive guide</a> и <a href="https://blog.appsignal.com/2018/07/10/ruby-magic-slurping-and-streaming-files.html">Under the Hood: “Slurping” and Streaming Files in Ruby</a></li>
-  <li><a href="https://segment.com/blog/goodbye-microservices/">Goodbye Microservices: From 100s of problem children to 1 superstar</a> и <a href="https://buttercms.com/blog/load-testing-round-up-8-tools-you-can-use-to-strengthen-your-stack">Load Testing Round Up: 8 tools you can use to strengthen your stack</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes">Postmortem for Malicious Packages Published on July 12th, 2018</a>, <a href="https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages">Two-factor authentication protection for packages</a>, <a href="https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/">Announcing TypeScript 3.0 RC</a> и <a href="https://cloudfour.com/thinks/when-7-kb-equals-7-mb/">When 7 KB Equals 7 MB</a></li>
-  <li><a href="https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d">The Best Explanation of JavaScript Reactivity</a>, <a href="https://www.chessboardjsx.com/">Chessboard.jsx - a customizable chessboard component that works as a standalone drag and drop chessboard on standard and touch devices</a> и <a href="https://github.com/rhysd/vim.wasm">Vim editor ported to WebAssembly</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/07/17/ruby-2-6-adds-split-with-block.html">Ruby 2.6 adds String#split with block</a>, <a href="https://blog.bigbinary.com/2018/07/10/ruby-2.6-raise-exception-for-else-without-rescue.html">Ruby 2.6 raises exception when ‘else’ is used inside ‘begin..end’ block without ‘rescue’</a>, <a href="https://www.imaginarycloud.com/blog/queries-on-rails/">Queries on Rails: extensive guide</a> и <a href="https://blog.appsignal.com/2018/07/10/ruby-magic-slurping-and-streaming-files.html">Under the Hood: “Slurping” and Streaming Files in Ruby</a></li>
-  <li><a href="https://segment.com/blog/goodbye-microservices/">Goodbye Microservices: From 100s of problem children to 1 superstar</a> и <a href="https://buttercms.com/blog/load-testing-round-up-8-tools-you-can-use-to-strengthen-your-stack">Load Testing Round Up: 8 tools you can use to strengthen your stack</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://eslint.org/blog/2018/07/postmortem-for-malicious-package-publishes">Postmortem for Malicious Packages Published on July 12th, 2018</a>, <a href="https://blog.npmjs.org/post/175861857230/two-factor-authentication-protection-for-packages">Two-factor authentication protection for packages</a>, <a href="https://blogs.msdn.microsoft.com/typescript/2018/07/12/announcing-typescript-3-0-rc/">Announcing TypeScript 3.0 RC</a> и <a href="https://cloudfour.com/thinks/when-7-kb-equals-7-mb/">When 7 KB Equals 7 MB</a></li>
-  <li><a href="https://medium.com/vue-mastery/the-best-explanation-of-javascript-reactivity-fea6112dd80d">The Best Explanation of JavaScript Reactivity</a>, <a href="https://www.chessboardjsx.com/">Chessboard.jsx - a customizable chessboard component that works as a standalone drag and drop chessboard on standard and touch devices</a> и <a href="https://github.com/rhysd/vim.wasm">Vim editor ported to WebAssembly</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 17 Jul 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/07/17/podcast-06-28.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/17/podcast-06-28.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0628.mp3" length="34280241" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0628.mp3" fileSize="34280241" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6 adds String#split with block, Ruby 2....</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6 adds String#split with block, Ruby 2.6 raises exception when ‘else’ is used inside ‘begin..end’ block without ‘rescue’, Queries on Rails: extensive guide и Under the Hood: “Slurping” and Streaming Files in Ruby
-
-  
-Goodbye Microservices: From 100s of problem children to 1 superstar и Load Testing Round Up: 8 tools you can use to strengthen your stack
-
-
-
-JavaScript
-
-
-  
-Postmortem for Malicious Packages Published on July 12th, 2018, Two-factor authentication protection for packages, Announcing TypeScript 3.0 RC и When 7 KB Equals 7 MB
-
-  
-The Best Explanation of JavaScript Reactivity, Chessboard.jsx - a customizable chessboard component that works as a standalone drag and drop chessboard on standard and touch devices и Vim editor ported to WebAssembly
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0628.png"/>
-  <itunes:duration>00:35:41</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
