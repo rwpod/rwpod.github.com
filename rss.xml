@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 15 Apr 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 15 Apr 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 23 Apr 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>16 выпуск 07 сезона. Ruby 2.6.3, Create React App v3, Pattern matching in Ruby, Reattempt, JavaScript For Cats и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/04/17/ruby-2-6-3-released/">Ruby 2.6.3 Released</a>, <a href="https://www.ruby-lang.org/en/news/2019/04/23/move-to-git-from-svn/">Ruby Repository Moved to Git from Subversion</a>, <a href="https://github.com/sparklemotion/nokogiri/issues/1892">Update your nokogiri gem to 1.10.3</a>, <a href="https://blog.bigbinary.com/2019/04/16/rails-6-adds-implicit_order_column.html">Rails 6 adds implicit_order_column</a>, <a href="https://blog.bigbinary.com/2019/04/23/rails-6-allows-configurable-attribute-name-on-has_secure_password.html">Rails 6 allows configurable attribute name on has_secure_password</a>, <a href="https://blog.bigbinary.com/2019/04/22/rails-6-allows-to-override-the-activemodel-errors-full_message-format-at-the-model-level-and-at-the-attribute-level.html">Rails 6 allows to override the ActiveModel::Errors#full_message format at the model level and at the attribute level</a>, <a href="https://twitter.com/darkdimius/status/1119115657776209920">Ruby3 will have types</a> и <a href="https://speakerdeck.com/k_tsj/pattern-matching-new-feature-in-ruby-2-dot-7">Pattern matching - New feature in Ruby 2.7</a></li>
+  <li><a href="https://blog.heroku.com/rails-database-optimization">Optimizing Database Performance in Rails</a>, <a href="https://github.com/baweaver/qo">Qo - Query Object - Pattern matching and fluent querying in Ruby</a> и <a href="https://github.com/typesigs/awesome-types">Awesome Types &amp; Type Signatures / Annotations for Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/facebook/create-react-app/releases/tag/v3.0.0">Create React App v3</a>, <a href="https://mathiasbynens.be/notes/globalthis">A horrifying globalThis polyfill in universal JavaScript</a>, <a href="https://css-tricks.com/simulating-mouse-movement/">Simulating Mouse Movement</a> и <a href="https://www.codebeast.dev/react-memoize-hooks-useRef-useCallback-useMemo/">A Closer Look at React Memoize Hooks: useRef, useCallback, and useMemo</a></li>
+  <li><a href="https://usehooks.com/">useHooks - easy to understand React Hook recipes</a>, <a href="https://www.trysmudford.com/blog/fade-out-siblings-css-trick/">Fading out siblings on hover in CSS</a>, <a href="https://github.com/amejiarosario/dsa.js">Data Structures and Algorithms in JavaScript</a>, <a href="https://github.com/wsmd/reattempt">Reattempt - a library lets you retry asynchronous functions when they fail</a> и <a href="http://jsforcats.com/">JavaScript For Cats</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/04/17/ruby-2-6-3-released/">Ruby 2.6.3 Released</a>, <a href="https://www.ruby-lang.org/en/news/2019/04/23/move-to-git-from-svn/">Ruby Repository Moved to Git from Subversion</a>, <a href="https://github.com/sparklemotion/nokogiri/issues/1892">Update your nokogiri gem to 1.10.3</a>, <a href="https://blog.bigbinary.com/2019/04/16/rails-6-adds-implicit_order_column.html">Rails 6 adds implicit_order_column</a>, <a href="https://blog.bigbinary.com/2019/04/23/rails-6-allows-configurable-attribute-name-on-has_secure_password.html">Rails 6 allows configurable attribute name on has_secure_password</a>, <a href="https://blog.bigbinary.com/2019/04/22/rails-6-allows-to-override-the-activemodel-errors-full_message-format-at-the-model-level-and-at-the-attribute-level.html">Rails 6 allows to override the ActiveModel::Errors#full_message format at the model level and at the attribute level</a>, <a href="https://twitter.com/darkdimius/status/1119115657776209920">Ruby3 will have types</a> и <a href="https://speakerdeck.com/k_tsj/pattern-matching-new-feature-in-ruby-2-dot-7">Pattern matching - New feature in Ruby 2.7</a></li>
+  <li><a href="https://blog.heroku.com/rails-database-optimization">Optimizing Database Performance in Rails</a>, <a href="https://github.com/baweaver/qo">Qo - Query Object - Pattern matching and fluent querying in Ruby</a> и <a href="https://github.com/typesigs/awesome-types">Awesome Types &amp; Type Signatures / Annotations for Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/facebook/create-react-app/releases/tag/v3.0.0">Create React App v3</a>, <a href="https://mathiasbynens.be/notes/globalthis">A horrifying globalThis polyfill in universal JavaScript</a>, <a href="https://css-tricks.com/simulating-mouse-movement/">Simulating Mouse Movement</a> и <a href="https://www.codebeast.dev/react-memoize-hooks-useRef-useCallback-useMemo/">A Closer Look at React Memoize Hooks: useRef, useCallback, and useMemo</a></li>
+  <li><a href="https://usehooks.com/">useHooks - easy to understand React Hook recipes</a>, <a href="https://www.trysmudford.com/blog/fade-out-siblings-css-trick/">Fading out siblings on hover in CSS</a>, <a href="https://github.com/amejiarosario/dsa.js">Data Structures and Algorithms in JavaScript</a>, <a href="https://github.com/wsmd/reattempt">Reattempt - a library lets you retry asynchronous functions when they fail</a> и <a href="http://jsforcats.com/">JavaScript For Cats</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 23 Apr 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/04/23/podcast-07-16.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/04/23/podcast-07-16.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0716.mp3" length="55521986" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0716.mp3" fileSize="55521986" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6.3 Released, Ruby Repository Moved to ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6.3 Released, Ruby Repository Moved to Git from Subversion, Update your nokogiri gem to 1.10.3, Rails 6 adds implicit_order_column, Rails 6 allows configurable attribute name on has_secure_password, Rails 6 allows to override the ActiveModel::Errors#full_message format at the model level and at the attribute level, Ruby3 will have types и Pattern matching - New feature in Ruby 2.7
+
+  
+Optimizing Database Performance in Rails, Qo - Query Object - Pattern matching and fluent querying in Ruby и Awesome Types &amp; Type Signatures / Annotations for Ruby
+
+
+
+Web
+
+
+  
+Create React App v3, A horrifying globalThis polyfill in universal JavaScript, Simulating Mouse Movement и A Closer Look at React Memoize Hooks: useRef, useCallback, and useMemo
+
+  
+useHooks - easy to understand React Hook recipes, Fading out siblings on hover in CSS, Data Structures and Algorithms in JavaScript, Reattempt - a library lets you retry asynchronous functions when they fail и JavaScript For Cats
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0716.png"/>
+  <itunes:duration>00:46:15</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>15 выпуск 07 сезона. jQuery 3.4.0 , Asciidoctor 2.0.0, Front-end Developer Handbook 2019, AssemblyScript, QUIZ: Well aimed? и прочее</title>
   <description>
@@ -3267,6 +3351,90 @@ The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rus
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
 <item>
+  <title>30 выпуск 06 сезона. Elixir v1.7, TypeScript 3.0, Angular v6.1, Ruby 2.6 adds Matrix#antisymmertic?, Ndb, jsQR и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
+  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
+  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
+  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
+</ul>
+
+<h2 id="javascript">JavaScript</h2>
+
+<ul>
+  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
+  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Elixir v1.7 released, Ruby 2.6 adds Matrix#ant...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Elixir v1.7 released, Ruby 2.6 adds Matrix#antisymmertic? и Ruby 2.6 adds Binding#source_location
+
+  
+Six Tips for Mastering your Procfile, Ruby on Rails: send emails with style и Rails 5.2 credentials cheat cheat
+
+
+
+JavaScript
+
+
+  
+Announcing TypeScript 3.0 и Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more
+
+  
+Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools и jsQR - pure JavaScript QR code decoding library
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/06/0630.png"/>
+  <itunes:duration>00:19:17</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
   <title>RWPod Кафе 8: Anton Davydov и Hanami</title>
   <description>
     <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:</p>
@@ -3364,184 +3532,6 @@ The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rus
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/008.png"/>
   <itunes:duration>00:52:25</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>30 выпуск 06 сезона. Elixir v1.7, TypeScript 3.0, Angular v6.1, Ruby 2.6 adds Matrix#antisymmertic?, Ndb, jsQR и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
-  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
-  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
-  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
-  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Elixir v1.7 released, Ruby 2.6 adds Matrix#ant...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Elixir v1.7 released, Ruby 2.6 adds Matrix#antisymmertic? и Ruby 2.6 adds Binding#source_location
-
-  
-Six Tips for Mastering your Procfile, Ruby on Rails: send emails with style и Rails 5.2 credentials cheat cheat
-
-
-
-JavaScript
-
-
-  
-Announcing TypeScript 3.0 и Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more
-
-  
-Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools и jsQR - pure JavaScript QR code decoding library
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0630.png"/>
-  <itunes:duration>00:19:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>29 выпуск 06 сезона. Pundit v2.0.0, GraphQL Cache, The future of WebAssembly, PWACompat, Deterministic StyleSheets, CoolHue и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.com/varvet/pundit/releases/tag/v2.0.0">Pundit v2.0.0</a> и <a href="https://www.mskog.com/posts/instant-page-loads-with-turbolinks-and-prefetch/">Instant page loads with Turbolinks and prefetch</a></li>
-  <li><a href="https://mkdev.me/en/posts/thin-and-maintainable-rails-mailers-how-we-refactored-rails-mailers-at-mkdev">Thin and maintainable Rails mailers: how we refactored Rails mailers at mkdev</a> и <a href="https://ilyabylich.svbtle.com/my-favorite-parts-of-ruby">My favorite parts of Ruby</a></li>
-  <li><a href="https://stackshare.io/posts/introducing-graphql-cache">Introducing GraphQL Cache</a>, <a href="https://supergood.software/dont-step-on-a-rake/">Don’t Step on a Rake, Use Rake::DSL</a> и <a href="https://buttercms.com/books/microservices-for-startups/designing-a-successful-microservices-engineering-culture">You can’t build successful microservices without a successful team culture</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.scottlogic.com/2018/07/20/wasm-future.html">The future of WebAssembly - A look at upcoming features and proposals</a>, <a href="https://css-tricks.com/weird-things-variable-fonts-can-do/">Weird things variable fonts can do</a> и <a href="https://developers.google.com/web/updates/2018/07/pwacompat">PWACompat: the Web App Manifest for all browsers</a></li>
-  <li><a href="https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2">Designing a GraphQL API</a> и <a href="https://dss-lang.com/">DSS (Deterministic StyleSheets) - a component-oriented CSS authoring system that compiles to high-performance atomic CSS classes-based stylesheets</a></li>
-  <li><a href="https://oncebot.github.io/popbox.js/">Popbox.js - a tiny javascript plugin for creating stackable modals</a>, <a href="https://oncebot.github.io/pushbar.js/">Pushbar.js - a tiny javascript plugin for creating sliding drawers in web apps</a> и <a href="https://webkul.github.io/coolhue/">CoolHue - Coolest Gradient Hues and Swatches</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.com/varvet/pundit/releases/tag/v2.0.0">Pundit v2.0.0</a> и <a href="https://www.mskog.com/posts/instant-page-loads-with-turbolinks-and-prefetch/">Instant page loads with Turbolinks and prefetch</a></li>
-  <li><a href="https://mkdev.me/en/posts/thin-and-maintainable-rails-mailers-how-we-refactored-rails-mailers-at-mkdev">Thin and maintainable Rails mailers: how we refactored Rails mailers at mkdev</a> и <a href="https://ilyabylich.svbtle.com/my-favorite-parts-of-ruby">My favorite parts of Ruby</a></li>
-  <li><a href="https://stackshare.io/posts/introducing-graphql-cache">Introducing GraphQL Cache</a>, <a href="https://supergood.software/dont-step-on-a-rake/">Don’t Step on a Rake, Use Rake::DSL</a> и <a href="https://buttercms.com/books/microservices-for-startups/designing-a-successful-microservices-engineering-culture">You can’t build successful microservices without a successful team culture</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.scottlogic.com/2018/07/20/wasm-future.html">The future of WebAssembly - A look at upcoming features and proposals</a>, <a href="https://css-tricks.com/weird-things-variable-fonts-can-do/">Weird things variable fonts can do</a> и <a href="https://developers.google.com/web/updates/2018/07/pwacompat">PWACompat: the Web App Manifest for all browsers</a></li>
-  <li><a href="https://gist.github.com/swalkinshaw/3a33e2d292b60e68fcebe12b62bbb3e2">Designing a GraphQL API</a> и <a href="https://dss-lang.com/">DSS (Deterministic StyleSheets) - a component-oriented CSS authoring system that compiles to high-performance atomic CSS classes-based stylesheets</a></li>
-  <li><a href="https://oncebot.github.io/popbox.js/">Popbox.js - a tiny javascript plugin for creating stackable modals</a>, <a href="https://oncebot.github.io/pushbar.js/">Pushbar.js - a tiny javascript plugin for creating sliding drawers in web apps</a> и <a href="https://webkul.github.io/coolhue/">CoolHue - Coolest Gradient Hues and Swatches</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 23 Jul 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/07/23/podcast-06-29.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/23/podcast-06-29.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0629.mp3" length="34023144" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0629.mp3" fileSize="34023144" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Pundit v2.0.0 и Instant page loads with Turbol...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Pundit v2.0.0 и Instant page loads with Turbolinks and prefetch
-
-  
-Thin and maintainable Rails mailers: how we refactored Rails mailers at mkdev и My favorite parts of Ruby
-
-  
-Introducing GraphQL Cache, Don’t Step on a Rake, Use Rake::DSL и You can’t build successful microservices without a successful team culture
-
-
-
-JavaScript
-
-
-  
-The future of WebAssembly - A look at upcoming features and proposals, Weird things variable fonts can do и PWACompat: the Web App Manifest for all browsers
-
-  
-Designing a GraphQL API и DSS (Deterministic StyleSheets) - a component-oriented CSS authoring system that compiles to high-performance atomic CSS classes-based stylesheets
-
-  
-Popbox.js - a tiny javascript plugin for creating stackable modals, Pushbar.js - a tiny javascript plugin for creating sliding drawers in web apps и CoolHue - Coolest Gradient Hues and Swatches
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0629.png"/>
-  <itunes:duration>00:35:25</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
