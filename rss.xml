@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 23 Apr 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 23 Apr 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 29 Apr 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>17 выпуск 07 сезона. Rails 6.0.0 rc1, Node.js 12, Ruby 3 Progress Report, Progressive Font Enrichment, GB Studio и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://weblog.rubyonrails.org/2019/4/24/Rails-6-0-rc1-released/">Rails 6.0.0 rc1 released</a>, <a href="https://blog.bigbinary.com/2019/04/24/rails-6-adds-cpu-time-idle-time-and-allocations-to-activesupport-notifications-event.html">Rails 6 adds CPU time, idle time and allocations to ActiveSupport::Notifications::Event</a>, <a href="https://rom-rb.org/blog/rom-5-0-and-rom-sql-3-0-released/">Rom 5.0.0 and rom-sql 3.0.0 released</a> и <a href="https://docs.google.com/presentation/d/1z_5JT0-MJySGn6UGrtdafK1oj9kGSO5sGlTtEQJz0JU/edit#slide=id.p">RubyKaigi2019 Ruby 3 Progress Report</a></li>
+  <li><a href="https://fastruby.io/blog/upgrade-rails/dual-boot/dual-boot-with-rails-6-0-beta.html">Getting Ready for Rails 6.0: How to Dual Boot</a>, <a href="https://dev.betterdoc.org/tools/2019/04/05/use-pessimistic-locking-to-make-long-running-tasks-in-rails-free-of-race-conditions.html">Use pessimistic locking to make long running tasks in Rails free of race conditions</a>, <a href="https://semaphoreci.com/blog/google-cloud-run-cicd-first-look">A first look at Google Cloud Run</a> и <a href="https://www.graphiti.dev/guides/">Graphiti: add REST-based Graph APIs to Ruby Webapps</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f">Introducing Node.js 12</a>, <a href="https://snyk.io/blog/after-three-years-of-silence-a-new-jquery-prototype-pollution-vulnerability-emerges-once-again/">After three years of silence, a new jQuery prototype pollution vulnerability emerges once again</a>, <a href="https://rwt.io/typography-tips/progressive-font-enrichment-reinventing-web-font-performance">Progressive Font Enrichment: reinventing web font performance</a> и <a href="https://davidwalsh.name/javascript-tricks">7 Useful JavaScript Tricks</a></li>
+  <li><a href="https://uppy.io/blog/2019/04/1.0/">Uppy 1.0: Your best friend in file uploading</a>, <a href="https://faastjs.org/">Faast.js - serverless batch computing made simple,</a> и <a href="https://www.gbstudio.dev/">GB Studio - visual retro game maker</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://weblog.rubyonrails.org/2019/4/24/Rails-6-0-rc1-released/">Rails 6.0.0 rc1 released</a>, <a href="https://blog.bigbinary.com/2019/04/24/rails-6-adds-cpu-time-idle-time-and-allocations-to-activesupport-notifications-event.html">Rails 6 adds CPU time, idle time and allocations to ActiveSupport::Notifications::Event</a>, <a href="https://rom-rb.org/blog/rom-5-0-and-rom-sql-3-0-released/">Rom 5.0.0 and rom-sql 3.0.0 released</a> и <a href="https://docs.google.com/presentation/d/1z_5JT0-MJySGn6UGrtdafK1oj9kGSO5sGlTtEQJz0JU/edit#slide=id.p">RubyKaigi2019 Ruby 3 Progress Report</a></li>
+  <li><a href="https://fastruby.io/blog/upgrade-rails/dual-boot/dual-boot-with-rails-6-0-beta.html">Getting Ready for Rails 6.0: How to Dual Boot</a>, <a href="https://dev.betterdoc.org/tools/2019/04/05/use-pessimistic-locking-to-make-long-running-tasks-in-rails-free-of-race-conditions.html">Use pessimistic locking to make long running tasks in Rails free of race conditions</a>, <a href="https://semaphoreci.com/blog/google-cloud-run-cicd-first-look">A first look at Google Cloud Run</a> и <a href="https://www.graphiti.dev/guides/">Graphiti: add REST-based Graph APIs to Ruby Webapps</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f">Introducing Node.js 12</a>, <a href="https://snyk.io/blog/after-three-years-of-silence-a-new-jquery-prototype-pollution-vulnerability-emerges-once-again/">After three years of silence, a new jQuery prototype pollution vulnerability emerges once again</a>, <a href="https://rwt.io/typography-tips/progressive-font-enrichment-reinventing-web-font-performance">Progressive Font Enrichment: reinventing web font performance</a> и <a href="https://davidwalsh.name/javascript-tricks">7 Useful JavaScript Tricks</a></li>
+  <li><a href="https://uppy.io/blog/2019/04/1.0/">Uppy 1.0: Your best friend in file uploading</a>, <a href="https://faastjs.org/">Faast.js - serverless batch computing made simple,</a> и <a href="https://www.gbstudio.dev/">GB Studio - visual retro game maker</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 29 Apr 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/04/29/podcast-07-17.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/04/29/podcast-07-17.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0717.mp3" length="42935498" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0717.mp3" fileSize="42935498" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6.0.0 rc1 released, Rails 6 adds CPU tim...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 6.0.0 rc1 released, Rails 6 adds CPU time, idle time and allocations to ActiveSupport::Notifications::Event, Rom 5.0.0 and rom-sql 3.0.0 released и RubyKaigi2019 Ruby 3 Progress Report
+
+  
+Getting Ready for Rails 6.0: How to Dual Boot, Use pessimistic locking to make long running tasks in Rails free of race conditions, A first look at Google Cloud Run и Graphiti: add REST-based Graph APIs to Ruby Webapps
+
+
+
+Web
+
+
+  
+Introducing Node.js 12, After three years of silence, a new jQuery prototype pollution vulnerability emerges once again, Progressive Font Enrichment: reinventing web font performance и 7 Useful JavaScript Tricks
+
+  
+Uppy 1.0: Your best friend in file uploading, Faast.js - serverless batch computing made simple, и GB Studio - visual retro game maker
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0717.png"/>
+  <itunes:duration>00:35:45</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>16 выпуск 07 сезона. Ruby 2.6.3, Create React App v3, Pattern matching in Ruby, Reattempt, JavaScript For Cats и прочее</title>
   <description>
@@ -3432,106 +3516,6 @@ Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0630.png"/>
   <itunes:duration>00:19:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>RWPod Кафе 8: Anton Davydov и Hanami</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:</p>
-
-<ul>
-  <li>Ruby/Rails development</li>
-  <li><a href="https://rubykaigi.org/2018">RubyKaigi 2018</a></li>
-  <li><a href="https://rubykaigi.org/2018/presentations/anton_davydov.html#may31">Architecture of hanami applications</a></li>
-  <li>Впечатления от Японии</li>
-  <li>Подача докладов на конференции</li>
-  <li>Open source и Hanami</li>
-  <li>Monolith vs microservices</li>
-  <li><a href="https://segment.com/blog/goodbye-microservices/">Goodbye Microservices: From 100s of problem children to 1 superstar</a></li>
-  <li>Healthy software development</li>
-  <li><a href="https://tonsky.livejournal.com/317265.html">История одной депрессии</a></li>
-  <li>Mechanical Keyboard</li>
-  <li><a href="https://www.hhkeyboard.com/">Happy Hacking Keyboard Professional 2</a></li>
-  <li>
-    <p>Пожелания слушателям</p>
-  </li>
-  <li><a href="http://davydovanton.com/">Site</a></li>
-  <li><a href="http://blog.davydovanton.com/">Blog</a></li>
-  <li><a href="https://github.com/davydovanton">Github</a></li>
-  <li><a href="https://twitter.com/anton_davydov">Twitter</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:</p>
-
-<ul>
-  <li>Ruby/Rails development</li>
-  <li><a href="https://rubykaigi.org/2018">RubyKaigi 2018</a></li>
-  <li><a href="https://rubykaigi.org/2018/presentations/anton_davydov.html#may31">Architecture of hanami applications</a></li>
-  <li>Впечатления от Японии</li>
-  <li>Подача докладов на конференции</li>
-  <li>Open source и Hanami</li>
-  <li>Monolith vs microservices</li>
-  <li><a href="https://segment.com/blog/goodbye-microservices/">Goodbye Microservices: From 100s of problem children to 1 superstar</a></li>
-  <li>Healthy software development</li>
-  <li><a href="https://tonsky.livejournal.com/317265.html">История одной депрессии</a></li>
-  <li>Mechanical Keyboard</li>
-  <li><a href="https://www.hhkeyboard.com/">Happy Hacking Keyboard Professional 2</a></li>
-  <li>
-    <p>Пожелания слушателям</p>
-  </li>
-  <li><a href="http://davydovanton.com/">Site</a></li>
-  <li><a href="http://blog.davydovanton.com/">Blog</a></li>
-  <li><a href="https://github.com/davydovanton">Github</a></li>
-  <li><a href="https://twitter.com/anton_davydov">Twitter</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/07/30/cafe-008.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/30/cafe-008.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/cafe/008.mp3" length="50353070" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/cafe/008.mp3" fileSize="50353070" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:
-
-
-  Ruby/Rails development
-  RubyKaigi 2018
-  Architecture of hanami ap...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Anton Davydov:
-
-
-  Ruby/Rails development
-  RubyKaigi 2018
-  Architecture of hanami applications
-  Впечатления от Японии
-  Подача докладов на конференции
-  Open source и Hanami
-  Monolith vs microservices
-  Goodbye Microservices: From 100s of problem children to 1 superstar
-  Healthy software development
-  История одной депрессии
-  Mechanical Keyboard
-  Happy Hacking Keyboard Professional 2
-  
-    Пожелания слушателям
-  
-  Site
-  Blog
-  Github
-  Twitter
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/cafe/008.png"/>
-  <itunes:duration>00:52:25</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
