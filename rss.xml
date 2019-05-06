@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 29 Apr 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 06 May 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>18 выпуск 07 сезона. Babylon.js 4.0, Electron 5.0.0, Rails 6: B-Sides and Rarities, Procodile, Shiba, Wasmer, Shimport и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://fastruby.io/blog/rails/upgrades/upgrade-rails-from-5-2-to-6-0.html">Upgrade Rails from 5.2 to 6.0</a>, <a href="https://www.botreetechnologies.com/blog/notable-activerecord-changes-in-rails-6-part-1">Notable ActiveRecord changes in Rails 6 – Part 1</a>, <a href="https://evilmartians.com/chronicles/rails-6-b-sides-and-rarities">Rails 6: B-Sides and Rarities</a> и <a href="https://www.ruby-toolbox.com/blog/2019-05-01/time-flies">10th anniversary of the Ruby Toolbox</a></li>
+  <li><a href="https://blog.appsignal.com/2019/04/30/ruby-magic-hidden-gems-delegator-forwardable.html">Ruby’s Hidden Gems: Delegator and Forwardable</a>, <a href="https://procodile.opnsrc.io/">Procodile: a Simple Process Manager for Development and Production</a>, <a href="https://shiba-sql.com/">Shiba - catch bad SQL queries before they cause problems in production</a> и <a href="https://github.com/wasmerio/ruby-ext-wasm/">Wasmer - a Ruby library for executing WebAssembly binaries</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blogs.windows.com/buildingapps/2019/04/30/babylon-js-4-0-is-here/">Babylon.js 4.0 Is Here!</a>, <a href="https://electronjs.org/blog/electron-5-0">Electron 5.0.0</a> и <a href="https://medium.com/@PurpleGreenLemon/is-angular-dying-because-of-react-a8e885f09421">Is Angular dying because of React?</a></li>
+  <li><a href="https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/">Building the New facebook.com with React, GraphQL and Relay</a>, <a href="https://github.com/Rich-Harris/shimport">Shimport - shim for import and export</a> и <a href="https://js-equality-jackpot.surge.sh/">JavaScript Equality Jackpot</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://fastruby.io/blog/rails/upgrades/upgrade-rails-from-5-2-to-6-0.html">Upgrade Rails from 5.2 to 6.0</a>, <a href="https://www.botreetechnologies.com/blog/notable-activerecord-changes-in-rails-6-part-1">Notable ActiveRecord changes in Rails 6 – Part 1</a>, <a href="https://evilmartians.com/chronicles/rails-6-b-sides-and-rarities">Rails 6: B-Sides and Rarities</a> и <a href="https://www.ruby-toolbox.com/blog/2019-05-01/time-flies">10th anniversary of the Ruby Toolbox</a></li>
+  <li><a href="https://blog.appsignal.com/2019/04/30/ruby-magic-hidden-gems-delegator-forwardable.html">Ruby’s Hidden Gems: Delegator and Forwardable</a>, <a href="https://procodile.opnsrc.io/">Procodile: a Simple Process Manager for Development and Production</a>, <a href="https://shiba-sql.com/">Shiba - catch bad SQL queries before they cause problems in production</a> и <a href="https://github.com/wasmerio/ruby-ext-wasm/">Wasmer - a Ruby library for executing WebAssembly binaries</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blogs.windows.com/buildingapps/2019/04/30/babylon-js-4-0-is-here/">Babylon.js 4.0 Is Here!</a>, <a href="https://electronjs.org/blog/electron-5-0">Electron 5.0.0</a> и <a href="https://medium.com/@PurpleGreenLemon/is-angular-dying-because-of-react-a8e885f09421">Is Angular dying because of React?</a></li>
+  <li><a href="https://developers.facebook.com/videos/2019/building-the-new-facebookcom-with-react-graphql-and-relay/">Building the New facebook.com with React, GraphQL and Relay</a>, <a href="https://github.com/Rich-Harris/shimport">Shimport - shim for import and export</a> и <a href="https://js-equality-jackpot.surge.sh/">JavaScript Equality Jackpot</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 06 May 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/05/06/podcast-07-18.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/05/06/podcast-07-18.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0718.mp3" length="44994882" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0718.mp3" fileSize="44994882" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Upgrade Rails from 5.2 to 6.0, Notable ActiveR...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Upgrade Rails from 5.2 to 6.0, Notable ActiveRecord changes in Rails 6 – Part 1, Rails 6: B-Sides and Rarities и 10th anniversary of the Ruby Toolbox
+
+  
+Ruby’s Hidden Gems: Delegator and Forwardable, Procodile: a Simple Process Manager for Development and Production, Shiba - catch bad SQL queries before they cause problems in production и Wasmer - a Ruby library for executing WebAssembly binaries
+
+
+
+Web
+
+
+  
+Babylon.js 4.0 Is Here!, Electron 5.0.0 и Is Angular dying because of React?
+
+  
+Building the New facebook.com with React, GraphQL and Relay, Shimport - shim for import and export и JavaScript Equality Jackpot
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0718.png"/>
+  <itunes:duration>00:37:28</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>17 выпуск 07 сезона. Rails 6.0.0 rc1, Node.js 12, Ruby 3 Progress Report, Progressive Font Enrichment, GB Studio и прочее</title>
   <description>
@@ -3432,90 +3516,6 @@ The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rus
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0631.png"/>
   <itunes:duration>00:26:39</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>30 выпуск 06 сезона. Elixir v1.7, TypeScript 3.0, Angular v6.1, Ruby 2.6 adds Matrix#antisymmertic?, Ndb, jsQR и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
-  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
-  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://elixir-lang.org/blog/2018/07/25/elixir-v1-7-0-released/">Elixir v1.7 released</a>, <a href="https://atulbhosale.in/posts/2018-07-23-ruby-2-6-adds-antisymmertic/">Ruby 2.6 adds Matrix#antisymmertic?</a> и <a href="https://blog.bigbinary.com/2018/07/24/ruby-2-6-adds-binding-source-location.html">Ruby 2.6 adds Binding#source_location</a></li>
-  <li><a href="https://medium.com/@adam_41691/six-tips-for-mastering-your-procfile-64ea1207b779">Six Tips for Mastering your Procfile</a>, <a href="https://www.imaginarycloud.com/blog/rails-send-emails-with-style/">Ruby on Rails: send emails with style</a> и <a href="https://blog.eq8.eu/til/rails-52-credentials-tricks.html">Rails 5.2 credentials cheat cheat</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/07/30/announcing-typescript-3-0/">Announcing TypeScript 3.0</a> и <a href="https://blog.angular.io/angular-v6-1-now-available-typescript-2-9-scroll-positioning-and-more-9f1c03007bb6">Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more</a></li>
-  <li><a href="https://nodesource.com/blog/why-the-new-v8-is-so-damn-fast">Why the New V8 is so Damn Fast</a>, <a href="https://github.com/GoogleChromeLabs/ndb/">Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools</a> и <a href="https://cozmo.github.io/jsQR/">jsQR - pure JavaScript QR code decoding library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 30 Jul 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/07/30/podcast-06-30.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0630.mp3" length="18534140" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0630.mp3" fileSize="18534140" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Elixir v1.7 released, Ruby 2.6 adds Matrix#ant...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Elixir v1.7 released, Ruby 2.6 adds Matrix#antisymmertic? и Ruby 2.6 adds Binding#source_location
-
-  
-Six Tips for Mastering your Procfile, Ruby on Rails: send emails with style и Rails 5.2 credentials cheat cheat
-
-
-
-JavaScript
-
-
-  
-Announcing TypeScript 3.0 и Angular v6.1 Now Available — TypeScript 2.9, Scroll Positioning, and more
-
-  
-Why the New V8 is so Damn Fast, Ndb - an improved debugging experience for Node.js, enabled by Chrome DevTools и jsQR - pure JavaScript QR code decoding library
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0630.png"/>
-  <itunes:duration>00:19:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
