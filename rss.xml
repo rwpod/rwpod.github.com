@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 06 May 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 06 May 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 13 May 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 13 May 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>19 выпуск 07 сезона. GitHub Package Registry, Opal 1.0, React Native for Windows, Hybrid Lazy Loading, Hybrids, Cssfx.dev и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.blog/2019-05-10-introducing-github-package-registry/">Introducing GitHub Package Registry</a>, <a href="http://opalrb.com/blog/2019/05/12/opal-1-0/">Opal 1.0</a> и <a href="https://developer.squareup.com/blog/rubykaigi-and-the-path-to-ruby-3/">RubyKaigi and the Path to Ruby 3</a></li>
+  <li><a href="https://www.ghostcassette.com/function-composition-in-ruby/">A Guide to Function Composition in Ruby</a>, <a href="https://github.com/djezzzl/factory_trace">FactoryTrace - simple tool to maintain factories and traits from FactoryBot</a> и <a href="https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A/videos">RubyKaigi 2019 (videos)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://techcrunch.com/2019/05/06/microsoft-launches-react-native-for-windows/">Microsoft launches React Native for Windows</a>, <a href="https://snyk.io/blog/a-denial-of-service-vulnerability-discovered-in-the-axios-javascript-package-affecting-all-versions-of-the-popular-http-client/">A Denial of Service vulnerability discovered in the Axios JavaScript package - affecting all versions of the popular HTTP client</a>, <a href="https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html">The new evergreen Googlebot</a> и <a href="https://web.dev/hands-on-portals">Hands-on with Portals: seamless navigations on the Web</a></li>
+  <li><a href="https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/">Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading</a>, <a href="https://snipcart.com/blog/choose-best-static-site-generator">How to Choose the Best Static Site Generator for Your 2019 Project</a>, <a href="https://github.com/victorvoid/dinoql">Dinoql - a customizable GraphQL style query language for interacting with JavaScript objects</a>, <a href="https://hybrids.js.org/">Hybrids - a UI library for creating Web Components, which favors plain objects and pure functions</a> и <a href="https://cssfx.dev/">Cssfx.dev - beautifully simple click-to-copy CSS effects</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.blog/2019-05-10-introducing-github-package-registry/">Introducing GitHub Package Registry</a>, <a href="http://opalrb.com/blog/2019/05/12/opal-1-0/">Opal 1.0</a> и <a href="https://developer.squareup.com/blog/rubykaigi-and-the-path-to-ruby-3/">RubyKaigi and the Path to Ruby 3</a></li>
+  <li><a href="https://www.ghostcassette.com/function-composition-in-ruby/">A Guide to Function Composition in Ruby</a>, <a href="https://github.com/djezzzl/factory_trace">FactoryTrace - simple tool to maintain factories and traits from FactoryBot</a> и <a href="https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A/videos">RubyKaigi 2019 (videos)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://techcrunch.com/2019/05/06/microsoft-launches-react-native-for-windows/">Microsoft launches React Native for Windows</a>, <a href="https://snyk.io/blog/a-denial-of-service-vulnerability-discovered-in-the-axios-javascript-package-affecting-all-versions-of-the-popular-http-client/">A Denial of Service vulnerability discovered in the Axios JavaScript package - affecting all versions of the popular HTTP client</a>, <a href="https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html">The new evergreen Googlebot</a> и <a href="https://web.dev/hands-on-portals">Hands-on with Portals: seamless navigations on the Web</a></li>
+  <li><a href="https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/">Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading</a>, <a href="https://snipcart.com/blog/choose-best-static-site-generator">How to Choose the Best Static Site Generator for Your 2019 Project</a>, <a href="https://github.com/victorvoid/dinoql">Dinoql - a customizable GraphQL style query language for interacting with JavaScript objects</a>, <a href="https://hybrids.js.org/">Hybrids - a UI library for creating Web Components, which favors plain objects and pure functions</a> и <a href="https://cssfx.dev/">Cssfx.dev - beautifully simple click-to-copy CSS effects</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 13 May 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/05/13/podcast-07-19.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/05/13/podcast-07-19.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0719.mp3" length="39108706" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0719.mp3" fileSize="39108706" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Introducing GitHub Package Registry, Opal 1.0 ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Introducing GitHub Package Registry, Opal 1.0 и RubyKaigi and the Path to Ruby 3
+
+  
+A Guide to Function Composition in Ruby, FactoryTrace - simple tool to maintain factories and traits from FactoryBot и RubyKaigi 2019 (videos)
+
+
+
+Web
+
+
+  
+Microsoft launches React Native for Windows, A Denial of Service vulnerability discovered in the Axios JavaScript package - affecting all versions of the popular HTTP client, The new evergreen Googlebot и Hands-on with Portals: seamless navigations on the Web
+
+  
+Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading, How to Choose the Best Static Site Generator for Your 2019 Project, Dinoql - a customizable GraphQL style query language for interacting with JavaScript objects, Hybrids - a UI library for creating Web Components, which favors plain objects and pure functions и Cssfx.dev - beautifully simple click-to-copy CSS effects
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0719.png"/>
+  <itunes:duration>00:32:34</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>18 выпуск 07 сезона. Babylon.js 4.0, Electron 5.0.0, Rails 6: B-Sides and Rarities, Procodile, Shiba, Wasmer, Shimport и прочее</title>
   <description>
@@ -3429,93 +3513,6 @@ Foxr - node.js API to control Firefox, SuperSlide.js - a lightweight, configurab
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0632.png"/>
   <itunes:duration>00:21:00</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>31 выпуск 06 сезона. Ember 3.3, Ruby 2.6 added options to Exception#full_message, Fusion.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/07/31/ruby-2-6-adds-option-to-not-raise-exception-for-integer-float-methods.html">Ruby 2.6 adds option to not raise exception for Integer, Float methods</a> и <a href="https://crypt.codemancers.com/posts/2018-07-30-ruby-2-6-added-options-exception-full-message/">Ruby 2.6 added options to Exception#full_message</a></li>
-  <li><a href="https://blog.appsignal.com/2018/07/31/generating-random-numbers-in-ruby.html">Generating Random Numbers in Ruby</a>, <a href="https://medium.com/@ccschmitz/client-side-validation-powered-by-activerecord-6d8c1fed4e6">Client-Side Validation Powered By ActiveRecord</a> и <a href="https://www.driftingruby.com/episodes/improving-partial-loading-performance">Improving Partial Loading Performance</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://emberjs.com/blog/2018/07/16/ember-3-3-released.html">Ember 3.3 Released</a>, <a href="https://eng.uber.com/fusionjs/">Introducing Fusion.js: A Plugin-based Universal Web Framework
-</a> и <a href="https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f">This one line of Javascript made FT.com 10 times slower</a></li>
-  <li><a href="https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4">The Cost Of JavaScript In 2018</a>, <a href="https://medium.com/@robert.balicki_2494/writing-a-front-end-webassembly-framework-in-rust-lessons-learned-7cc48ed27d96">Writing a front-end WebAssembly framework in Rust: lessons learned</a> и <a href="https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day/">How we scaled nginx and saved the world 54 years every day</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/07/31/ruby-2-6-adds-option-to-not-raise-exception-for-integer-float-methods.html">Ruby 2.6 adds option to not raise exception for Integer, Float methods</a> и <a href="https://crypt.codemancers.com/posts/2018-07-30-ruby-2-6-added-options-exception-full-message/">Ruby 2.6 added options to Exception#full_message</a></li>
-  <li><a href="https://blog.appsignal.com/2018/07/31/generating-random-numbers-in-ruby.html">Generating Random Numbers in Ruby</a>, <a href="https://medium.com/@ccschmitz/client-side-validation-powered-by-activerecord-6d8c1fed4e6">Client-Side Validation Powered By ActiveRecord</a> и <a href="https://www.driftingruby.com/episodes/improving-partial-loading-performance">Improving Partial Loading Performance</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://emberjs.com/blog/2018/07/16/ember-3-3-released.html">Ember 3.3 Released</a>, <a href="https://eng.uber.com/fusionjs/">Introducing Fusion.js: A Plugin-based Universal Web Framework
-</a> и <a href="https://medium.com/ft-product-technology/this-one-line-of-javascript-made-ft-com-10-times-slower-5afb02bfd93f">This one line of Javascript made FT.com 10 times slower</a></li>
-  <li><a href="https://medium.com/@addyosmani/the-cost-of-javascript-in-2018-7d8950fbb5d4">The Cost Of JavaScript In 2018</a>, <a href="https://medium.com/@robert.balicki_2494/writing-a-front-end-webassembly-framework-in-rust-lessons-learned-7cc48ed27d96">Writing a front-end WebAssembly framework in Rust: lessons learned</a> и <a href="https://blog.cloudflare.com/how-we-scaled-nginx-and-saved-the-world-54-years-every-day/">How we scaled nginx and saved the world 54 years every day</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 06 Aug 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/08/06/podcast-06-31.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/08/06/podcast-06-31.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0631.mp3" length="25609828" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0631.mp3" fileSize="25609828" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6 adds option to not raise exception fo...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6 adds option to not raise exception for Integer, Float methods и Ruby 2.6 added options to Exception#full_message
-
-  
-Generating Random Numbers in Ruby, Client-Side Validation Powered By ActiveRecord и Improving Partial Loading Performance
-
-
-
-JavaScript
-
-
-  
-Ember 3.3 Released, Introducing Fusion.js: A Plugin-based Universal Web Framework
- и This one line of Javascript made FT.com 10 times slower
-
-  
-The Cost Of JavaScript In 2018, Writing a front-end WebAssembly framework in Rust: lessons learned и How we scaled nginx and saved the world 54 years every day
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0631.png"/>
-  <itunes:duration>00:26:39</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
