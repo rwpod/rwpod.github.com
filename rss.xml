@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 20 May 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 20 May 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 27 May 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>21 выпуск 07 сезона. Weird Ruby, WebAssembly at eBay, A Modular RuboCop, Mittsu, Tornis, V8n, Is-incognito-mode и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/05/22/rails-6-adds-if_not_exists-option-to-create_table.html">Rails 6 adds if_not_exists option to create_table</a>, <a href="https://metaredux.com/posts/2019/05/22/weird-ruby-single-quoted-heredocs.html">Weird Ruby: Single-quoted Heredocs</a> и <a href="https://andycroll.com/ruby/watch-out-for-nils-in-ranges/">Watch Out For nil in Ranges</a></li>
+  <li><a href="https://metaredux.com/posts/2019/05/22/a-modular-rubocop.html">A Modular RuboCop</a>, <a href="https://github.com/jellymann/mittsu">Mittsu - 3D Graphics Library for Ruby</a>, <a href="https://github.com/trusche/httplog">Httplog - log outgoing HTTP requests made from your application</a> и <a href="https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOq3HlRm9h_Q_WhWKqm5xc">RailsConf 2019 (videos)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/">WebAssembly at eBay: A Real-World Use Case</a>, <a href="https://css-tricks.com/front-end-documentation-style-guides-and-the-rise-of-mdx/">Front-End Documentation, Style Guides and the Rise of MDX</a>, <a href="https://www.cargurus.dev/Cutting-our-webpack-build-time-in-half/">Cutting our webpack build times in half</a> и <a href="https://habr.com/ru/company/oleg-bunin/blog/450822/">Исчезающие фреймворки</a></li>
+  <li><a href="https://dev.to/ananyaneogi/css-can-do-that-18g7">CSS can do that?</a>, <a href="https://tornis.robbowen.digital/">Introducing Tornis</a>, <a href="https://github.com/imbrn/v8n">V8n - JavaScript fluent validation library</a> и <a href="https://github.com/yankouskia/is-incognito-mode">Is-incognito-mode - function to identify whether browser is in incognito mode</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/05/22/rails-6-adds-if_not_exists-option-to-create_table.html">Rails 6 adds if_not_exists option to create_table</a>, <a href="https://metaredux.com/posts/2019/05/22/weird-ruby-single-quoted-heredocs.html">Weird Ruby: Single-quoted Heredocs</a> и <a href="https://andycroll.com/ruby/watch-out-for-nils-in-ranges/">Watch Out For nil in Ranges</a></li>
+  <li><a href="https://metaredux.com/posts/2019/05/22/a-modular-rubocop.html">A Modular RuboCop</a>, <a href="https://github.com/jellymann/mittsu">Mittsu - 3D Graphics Library for Ruby</a>, <a href="https://github.com/trusche/httplog">Httplog - log outgoing HTTP requests made from your application</a> и <a href="https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOq3HlRm9h_Q_WhWKqm5xc">RailsConf 2019 (videos)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/">WebAssembly at eBay: A Real-World Use Case</a>, <a href="https://css-tricks.com/front-end-documentation-style-guides-and-the-rise-of-mdx/">Front-End Documentation, Style Guides and the Rise of MDX</a>, <a href="https://www.cargurus.dev/Cutting-our-webpack-build-time-in-half/">Cutting our webpack build times in half</a> и <a href="https://habr.com/ru/company/oleg-bunin/blog/450822/">Исчезающие фреймворки</a></li>
+  <li><a href="https://dev.to/ananyaneogi/css-can-do-that-18g7">CSS can do that?</a>, <a href="https://tornis.robbowen.digital/">Introducing Tornis</a>, <a href="https://github.com/imbrn/v8n">V8n - JavaScript fluent validation library</a> и <a href="https://github.com/yankouskia/is-incognito-mode">Is-incognito-mode - function to identify whether browser is in incognito mode</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 27 May 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/05/27/podcast-07-21.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/05/27/podcast-07-21.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0721.mp3" length="45510366" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0721.mp3" fileSize="45510366" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6 adds if_not_exists option to create_ta...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 6 adds if_not_exists option to create_table, Weird Ruby: Single-quoted Heredocs и Watch Out For nil in Ranges
+
+  
+A Modular RuboCop, Mittsu - 3D Graphics Library for Ruby, Httplog - log outgoing HTTP requests made from your application и RailsConf 2019 (videos)
+
+
+
+Web
+
+
+  
+WebAssembly at eBay: A Real-World Use Case, Front-End Documentation, Style Guides and the Rise of MDX, Cutting our webpack build times in half и Исчезающие фреймворки
+
+  
+CSS can do that?, Introducing Tornis, V8n - JavaScript fluent validation library и Is-incognito-mode - function to identify whether browser is in incognito mode
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0721.png"/>
+  <itunes:duration>00:37:54</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>20 выпуск 07 сезона. RubyKaigi 2019: A speaker’s report, JAMstack, Svelte 3, Storeon, Blueprint, Ant Design, Ola и прочее</title>
   <description>
@@ -3429,90 +3513,6 @@ Tips for Improving CSS and JS Animation Performance, VueToolbox - Collection of 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0634.png"/>
   <itunes:duration>00:30:00</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>33 выпуск 06 сезона. Ruby 2.6 adds write_timeout to Net::HTTP, 7 of the Best Code Playgrounds, TheoremJS и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/08/14/ruby-2-6-adds-write-timeout-to-net-http.html">Ruby 2.6 adds write_timeout to Net::HTTP</a> и <a href="https://crypt.codemancers.com/posts/2018-08-14-ruby-2-6-key-error-accepts-message-receiver-key-as-argument/">Ruby 2.6 KeyError#initialize accepts message, receiver, and key as arguments</a></li>
-  <li><a href="https://karolgalanciak.com/blog/2018/08/19/indexes-on-rails-how-to-make-the-most-of-your-postgres-database/">Indexes on Rails: How to Make the Most of Your Postgres Database</a>, <a href="https://anadea.info/blog/version-inheritance-in-carrierwave">Carrierwave: How to Avoid Issues with Version Inheritance</a> и <a href="https://thesmartnik.com/ruby-memory-profiling-in-practice.html">Ruby Memory Profiling in Practice</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://checklyhq.com/blog/2018/08/creating-a-chrome-extension-in-2018-the-good-the-bad-and-the-meh/">Creating a Chrome extension in 2018: The good, the bad and the meh</a>, <a href="https://www.sitepen.com/blog/2018/08/14/cross-tab-synchronization-with-the-web-locks-api/">Cross-tab Synchronization with the Web Locks API</a> и <a href="https://www.sitepoint.com/7-code-playgrounds/">7 of the Best Code Playgrounds</a></li>
-  <li><a href="https://theorem.js.org/">TheoremJS - a Math framework for computation in JavaScript</a>, <a href="https://github.com/robinwassen/electron-wallpaper">Electron-wallpaper - Node module that allows you to attach a window as wallpaper in Windows</a> и <a href="https://getbaker.io/">Baker: computation environment management</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/08/14/ruby-2-6-adds-write-timeout-to-net-http.html">Ruby 2.6 adds write_timeout to Net::HTTP</a> и <a href="https://crypt.codemancers.com/posts/2018-08-14-ruby-2-6-key-error-accepts-message-receiver-key-as-argument/">Ruby 2.6 KeyError#initialize accepts message, receiver, and key as arguments</a></li>
-  <li><a href="https://karolgalanciak.com/blog/2018/08/19/indexes-on-rails-how-to-make-the-most-of-your-postgres-database/">Indexes on Rails: How to Make the Most of Your Postgres Database</a>, <a href="https://anadea.info/blog/version-inheritance-in-carrierwave">Carrierwave: How to Avoid Issues with Version Inheritance</a> и <a href="https://thesmartnik.com/ruby-memory-profiling-in-practice.html">Ruby Memory Profiling in Practice</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://checklyhq.com/blog/2018/08/creating-a-chrome-extension-in-2018-the-good-the-bad-and-the-meh/">Creating a Chrome extension in 2018: The good, the bad and the meh</a>, <a href="https://www.sitepen.com/blog/2018/08/14/cross-tab-synchronization-with-the-web-locks-api/">Cross-tab Synchronization with the Web Locks API</a> и <a href="https://www.sitepoint.com/7-code-playgrounds/">7 of the Best Code Playgrounds</a></li>
-  <li><a href="https://theorem.js.org/">TheoremJS - a Math framework for computation in JavaScript</a>, <a href="https://github.com/robinwassen/electron-wallpaper">Electron-wallpaper - Node module that allows you to attach a window as wallpaper in Windows</a> и <a href="https://getbaker.io/">Baker: computation environment management</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 20 Aug 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/08/20/podcast-06-33.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/08/20/podcast-06-33.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0633.mp3" length="20892194" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0633.mp3" fileSize="20892194" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6 adds write_timeout to Net::HTTP и Rub...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6 adds write_timeout to Net::HTTP и Ruby 2.6 KeyError#initialize accepts message, receiver, and key as arguments
-
-  
-Indexes on Rails: How to Make the Most of Your Postgres Database, Carrierwave: How to Avoid Issues with Version Inheritance и Ruby Memory Profiling in Practice
-
-
-
-JavaScript
-
-
-  
-Creating a Chrome extension in 2018: The good, the bad and the meh, Cross-tab Synchronization with the Web Locks API и 7 of the Best Code Playgrounds
-
-  
-TheoremJS - a Math framework for computation in JavaScript, Electron-wallpaper - Node module that allows you to attach a window as wallpaper in Windows и Baker: computation environment management
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0633.png"/>
-  <itunes:duration>00:21:44</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
