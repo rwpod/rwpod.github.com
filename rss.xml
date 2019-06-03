@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 27 May 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 27 May 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 03 Jun 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,95 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>22 выпуск 07 сезона. Ruby 2.7.0-preview1, Angular 8, Dependabot is joining GitHub, Phonelib, Graphsrb, Xstyled, Zdog и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/05/30/ruby-2-7-0-preview1-released/">Ruby 2.7.0-preview1 Released</a>, <a href="https://samsaffron.com/archive/2019/05/15/tests-that-sometimes-fail">Tests that sometimes fail</a> и <a href="http://danilobarion1986.github.io/ruby/backend/pills/tips/2019/05/31/ruby-pills-enums-options.html">Ruby Pills: Enums Options</a></li>
+  <li><a href="https://www.imaginarycloud.com/blog/from-capybara-webkit-to-headless-chrome-and-chromedriver/">From capybara-webkit to Headless Chrome and ChromeDriver</a>, <a href="https://github.com/daddyz/phonelib">Phonelib - a gem allowing you to validate phone number</a> и <a href="https://github.com/fade2black/graphsrb">Graphsrb allows to create simple directed and undirected graphs</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27">Version 8 of Angular — Smaller bundles, CLI APIs, and alignment with the ecosystem</a>, <a href="https://dependabot.com/blog/hello-github/">Dependabot is joining GitHub</a> и <a href="https://devinduct.com/blogpost/26/8-useful-javascript-tricks">8 Useful JavaScript Tricks</a></li>
+  <li><a href="https://dev.to/alvaromontoro/fix-85-of-your-web-accessibility-issues-in-5-easy-steps-pnf">Fix 85% of your Web Accessibility issues in 5 easy steps</a>, <a href="https://css-tricks.com/color-contrast-accessibility-tools/">Color contrast accessibility tools</a> и <a href="https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables">Why we prefer CSS Custom Properties to SASS variables</a></li>
+  <li><a href="https://www.smooth-code.com/open-source/xstyled/">Xstyled - consistent theme based CSS for styled-components</a>, <a href="https://github.com/daybrush/scenejs">Scene.js is JavaScript &amp; CSS timeline-based animation library</a>, <a href="https://zzz.dog/">Zdog - round, flat, designer-friendly pseudo-3D engine for canvas &amp; SVG</a> и <a href="https://github.com/xobotyi/zoom-level">Zoom-level - a comprehensive cross-browser package that allow you to determine page’s and element’s zoom level</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/05/30/ruby-2-7-0-preview1-released/">Ruby 2.7.0-preview1 Released</a>, <a href="https://samsaffron.com/archive/2019/05/15/tests-that-sometimes-fail">Tests that sometimes fail</a> и <a href="http://danilobarion1986.github.io/ruby/backend/pills/tips/2019/05/31/ruby-pills-enums-options.html">Ruby Pills: Enums Options</a></li>
+  <li><a href="https://www.imaginarycloud.com/blog/from-capybara-webkit-to-headless-chrome-and-chromedriver/">From capybara-webkit to Headless Chrome and ChromeDriver</a>, <a href="https://github.com/daddyz/phonelib">Phonelib - a gem allowing you to validate phone number</a> и <a href="https://github.com/fade2black/graphsrb">Graphsrb allows to create simple directed and undirected graphs</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27">Version 8 of Angular — Smaller bundles, CLI APIs, and alignment with the ecosystem</a>, <a href="https://dependabot.com/blog/hello-github/">Dependabot is joining GitHub</a> и <a href="https://devinduct.com/blogpost/26/8-useful-javascript-tricks">8 Useful JavaScript Tricks</a></li>
+  <li><a href="https://dev.to/alvaromontoro/fix-85-of-your-web-accessibility-issues-in-5-easy-steps-pnf">Fix 85% of your Web Accessibility issues in 5 easy steps</a>, <a href="https://css-tricks.com/color-contrast-accessibility-tools/">Color contrast accessibility tools</a> и <a href="https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables">Why we prefer CSS Custom Properties to SASS variables</a></li>
+  <li><a href="https://www.smooth-code.com/open-source/xstyled/">Xstyled - consistent theme based CSS for styled-components</a>, <a href="https://github.com/daybrush/scenejs">Scene.js is JavaScript &amp; CSS timeline-based animation library</a>, <a href="https://zzz.dog/">Zdog - round, flat, designer-friendly pseudo-3D engine for canvas &amp; SVG</a> и <a href="https://github.com/xobotyi/zoom-level">Zoom-level - a comprehensive cross-browser package that allow you to determine page’s and element’s zoom level</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 03 Jun 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/06/03/podcast-07-22.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/06/03/podcast-07-22.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0722.mp3" length="48663556" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0722.mp3" fileSize="48663556" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7.0-preview1 Released, Tests that somet...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.7.0-preview1 Released, Tests that sometimes fail и Ruby Pills: Enums Options
+
+  
+From capybara-webkit to Headless Chrome and ChromeDriver, Phonelib - a gem allowing you to validate phone number и Graphsrb allows to create simple directed and undirected graphs
+
+
+
+Web
+
+
+  
+Version 8 of Angular — Smaller bundles, CLI APIs, and alignment with the ecosystem, Dependabot is joining GitHub и 8 Useful JavaScript Tricks
+
+  
+Fix 85% of your Web Accessibility issues in 5 easy steps, Color contrast accessibility tools и Why we prefer CSS Custom Properties to SASS variables
+
+  
+Xstyled - consistent theme based CSS for styled-components, Scene.js is JavaScript &amp; CSS timeline-based animation library, Zdog - round, flat, designer-friendly pseudo-3D engine for canvas &amp; SVG и Zoom-level - a comprehensive cross-browser package that allow you to determine page’s and element’s zoom level
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0722.png"/>
+  <itunes:duration>00:40:32</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>21 выпуск 07 сезона. Weird Ruby, WebAssembly at eBay, A Modular RuboCop, Mittsu, Tornis, V8n, Is-incognito-mode и прочее</title>
   <description>
@@ -3429,90 +3518,6 @@ Aijs.rocks - a collection of inspirational AI-driven projects written in JavaScr
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0635.png"/>
   <itunes:duration>00:23:52</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>34 выпуск 06 сезона. Go WebAssembly, Best image uploader for Rails, VueToolbox, Size-plugin, Windows 95 running in an Electron и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/08/22/ruby-2.6-adds-support-for-non-ascii-capital-case-constant.html">Ruby 2.6 adds support for non-ASCII capital letter as a first character in constant name</a>, <a href="https://blog.eq8.eu/article/is-rails-still-relevant-in-2018.html">Is Rails still relevant in 2018 ?</a> и <a href="https://blog.stanko.io/best-image-uploader-for-rails-revisited-3b3b7618cc4c">Best image uploader for Rails — Revisited</a></li>
-  <li><a href="https://drivy.engineering/security-tips-for-rails-apps/">Security tips for rails apps</a>, <a href="https://blog.eq8.eu/til/metaprogramming-ruby-examples.html">Metaprogramming Ruby cheatcheat</a> и <a href="https://medium.com/@lfv89/rails-console-magic-tricks-da1fdd657d32">Rails Console Magic Tricks</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.golang.org/go1.11">Go 1.11 is released</a>, <a href="https://hackernoon.com/go-webassembly-building-a-calculator-tutorial-70fff89db6a9">Go WebAssembly — Building a Calculator Tutorial</a> и <a href="https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a">10 Things You Will Eventually Learn About JavaScript Projects</a></li>
-  <li><a href="https://www.keycdn.com/blog/animation-performance/">Tips for Improving CSS and JS Animation Performance</a>, <a href="http://www.vuetoolbox.com/">VueToolbox - Collection of the best Vue.js libraries</a>, <a href="https://github.com/GoogleChromeLabs/size-plugin">Size-plugin - prints the gzipped sizes of your webpack assets and the changes since the last build</a> и <a href="https://github.com/felixrieseberg/windows95">Windows 95, running in an Electron app</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/08/22/ruby-2.6-adds-support-for-non-ascii-capital-case-constant.html">Ruby 2.6 adds support for non-ASCII capital letter as a first character in constant name</a>, <a href="https://blog.eq8.eu/article/is-rails-still-relevant-in-2018.html">Is Rails still relevant in 2018 ?</a> и <a href="https://blog.stanko.io/best-image-uploader-for-rails-revisited-3b3b7618cc4c">Best image uploader for Rails — Revisited</a></li>
-  <li><a href="https://drivy.engineering/security-tips-for-rails-apps/">Security tips for rails apps</a>, <a href="https://blog.eq8.eu/til/metaprogramming-ruby-examples.html">Metaprogramming Ruby cheatcheat</a> и <a href="https://medium.com/@lfv89/rails-console-magic-tricks-da1fdd657d32">Rails Console Magic Tricks</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blog.golang.org/go1.11">Go 1.11 is released</a>, <a href="https://hackernoon.com/go-webassembly-building-a-calculator-tutorial-70fff89db6a9">Go WebAssembly — Building a Calculator Tutorial</a> и <a href="https://blog.usejournal.com/10-things-you-will-eventually-learn-about-javascript-projects-efd7646b958a">10 Things You Will Eventually Learn About JavaScript Projects</a></li>
-  <li><a href="https://www.keycdn.com/blog/animation-performance/">Tips for Improving CSS and JS Animation Performance</a>, <a href="http://www.vuetoolbox.com/">VueToolbox - Collection of the best Vue.js libraries</a>, <a href="https://github.com/GoogleChromeLabs/size-plugin">Size-plugin - prints the gzipped sizes of your webpack assets and the changes since the last build</a> и <a href="https://github.com/felixrieseberg/windows95">Windows 95, running in an Electron app</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 27 Aug 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/08/27/podcast-06-34.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/08/27/podcast-06-34.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0634.mp3" length="28829544" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0634.mp3" fileSize="28829544" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6 adds support for non-ASCII capital le...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6 adds support for non-ASCII capital letter as a first character in constant name, Is Rails still relevant in 2018 ? и Best image uploader for Rails — Revisited
-
-  
-Security tips for rails apps, Metaprogramming Ruby cheatcheat и Rails Console Magic Tricks
-
-
-
-JavaScript
-
-
-  
-Go 1.11 is released, Go WebAssembly — Building a Calculator Tutorial и 10 Things You Will Eventually Learn About JavaScript Projects
-
-  
-Tips for Improving CSS and JS Animation Performance, VueToolbox - Collection of the best Vue.js libraries, Size-plugin - prints the gzipped sizes of your webpack assets and the changes since the last build и Windows 95, running in an Electron app
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0634.png"/>
-  <itunes:duration>00:30:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
