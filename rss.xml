@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 10 Jun 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 10 Jun 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 17 Jun 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>24 выпуск 07 сезона. Ruby 2.7: The Pipeline Operator, Entropic, Styled-components v5, Algorithm Visualizer, Impersonator и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://dev.to/baweaver/ruby-2-7-the-pipeline-operator-1b2d">Ruby 2.7: The Pipeline Operator</a>, <a href="https://blog.mavenhive.in/ruby-2-7-adds-enumerable-filter-map-d84aad03b6d4">Ruby-2.7 adds Enumerable#filter_map</a>, <a href="https://github.com/rails/rails/pull/36388">Introduce support for ActionView::Component</a>, <a href="https://blog.bigbinary.com/2019/06/10/rails-6-adds-private-option-to-delegate-method.html">Rails 6 adds private option to delegate method</a> и <a href="https://dev.to/appsignal/the-ultimate-checklist-to-properly-internationalize-devise-59m6">The Ultimate Checklist to Properly Internationalize Devise</a></li>
+  <li><a href="https://dev.to/evilmartians/normalization-consistency-and-clowne-44mn">Normalization, Consistency, and Clowne</a>, <a href="https://nebulab.it/blog/rails-middleware-change-log-level/">A Rails middleware to change log level at runtime</a>, <a href="https://github.com/jorgemanrubia/impersonator">Impersonator - a Ruby library to record and replay object interactions</a> и <a href="https://www.youtube.com/watch?v=H8iWLoarTZc">Compacting GC in Ruby 2.7 - Aaron Patterson</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/entropic-dev/entropic">Entropic: a federated package registry for anything</a> (<a href="https://www.youtube.com/watch?v=MO8hZlgK5zc">The economics of open source by C J Silverio</a>), <a href="https://medium.com/styled-components/announcing-styled-components-v5-beast-mode-389747abd987">Announcing styled-components v5: Beast Mode</a>, <a href="https://v8.dev/features/promise-combinators">Promise combinators</a>, <a href="https://www.richsnapp.com/blog/2019/06-09-reduce-spread-anti-pattern">The reduce ({…spread}) anti-pattern</a> и <a href="https://staging.dassur.ma/things/when-workers/">When should you be using Web Workers?</a></li>
+  <li><a href="https://algorithm-visualizer.org/">Algorithm Visualizer is an interactive online platform that visualizes algorithms from code</a>, <a href="https://www.pika.dev/cdn">Pika CDN: A CDN for Modern JavaScript</a>, <a href="https://github.com/kefranabg/readme-md-generator">Readme-md-generator - CLI that generates beautiful README.md files</a> и <a href="https://every-layout.dev/">Relearn CSS layout</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://dev.to/baweaver/ruby-2-7-the-pipeline-operator-1b2d">Ruby 2.7: The Pipeline Operator</a>, <a href="https://blog.mavenhive.in/ruby-2-7-adds-enumerable-filter-map-d84aad03b6d4">Ruby-2.7 adds Enumerable#filter_map</a>, <a href="https://github.com/rails/rails/pull/36388">Introduce support for ActionView::Component</a>, <a href="https://blog.bigbinary.com/2019/06/10/rails-6-adds-private-option-to-delegate-method.html">Rails 6 adds private option to delegate method</a> и <a href="https://dev.to/appsignal/the-ultimate-checklist-to-properly-internationalize-devise-59m6">The Ultimate Checklist to Properly Internationalize Devise</a></li>
+  <li><a href="https://dev.to/evilmartians/normalization-consistency-and-clowne-44mn">Normalization, Consistency, and Clowne</a>, <a href="https://nebulab.it/blog/rails-middleware-change-log-level/">A Rails middleware to change log level at runtime</a>, <a href="https://github.com/jorgemanrubia/impersonator">Impersonator - a Ruby library to record and replay object interactions</a> и <a href="https://www.youtube.com/watch?v=H8iWLoarTZc">Compacting GC in Ruby 2.7 - Aaron Patterson</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/entropic-dev/entropic">Entropic: a federated package registry for anything</a> (<a href="https://www.youtube.com/watch?v=MO8hZlgK5zc">The economics of open source by C J Silverio</a>), <a href="https://medium.com/styled-components/announcing-styled-components-v5-beast-mode-389747abd987">Announcing styled-components v5: Beast Mode</a>, <a href="https://v8.dev/features/promise-combinators">Promise combinators</a>, <a href="https://www.richsnapp.com/blog/2019/06-09-reduce-spread-anti-pattern">The reduce ({…spread}) anti-pattern</a> и <a href="https://staging.dassur.ma/things/when-workers/">When should you be using Web Workers?</a></li>
+  <li><a href="https://algorithm-visualizer.org/">Algorithm Visualizer is an interactive online platform that visualizes algorithms from code</a>, <a href="https://www.pika.dev/cdn">Pika CDN: A CDN for Modern JavaScript</a>, <a href="https://github.com/kefranabg/readme-md-generator">Readme-md-generator - CLI that generates beautiful README.md files</a> и <a href="https://every-layout.dev/">Relearn CSS layout</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 17 Jun 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/06/17/podcast-07-24.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/06/17/podcast-07-24.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0724.mp3" length="47463150" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0724.mp3" fileSize="47463150" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7: The Pipeline Operator, Ruby-2.7 adds...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.7: The Pipeline Operator, Ruby-2.7 adds Enumerable#filter_map, Introduce support for ActionView::Component, Rails 6 adds private option to delegate method и The Ultimate Checklist to Properly Internationalize Devise
+
+  
+Normalization, Consistency, and Clowne, A Rails middleware to change log level at runtime, Impersonator - a Ruby library to record and replay object interactions и Compacting GC in Ruby 2.7 - Aaron Patterson
+
+
+
+Web
+
+
+  
+Entropic: a federated package registry for anything (The economics of open source by C J Silverio), Announcing styled-components v5: Beast Mode, Promise combinators, The reduce ({…spread}) anti-pattern и When should you be using Web Workers?
+
+  
+Algorithm Visualizer is an interactive online platform that visualizes algorithms from code, Pika CDN: A CDN for Modern JavaScript, Readme-md-generator - CLI that generates beautiful README.md files и Relearn CSS layout
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0724.png"/>
+  <itunes:duration>00:39:32</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>23 выпуск 07 сезона. macOS to Remove Having Ruby Installed by Default, Optional Chaining for JavaScript, React Spring и прочее</title>
   <description>
@@ -3403,121 +3487,6 @@ Vuesax - a library of Vuejs components, Low.js - the port of Node.JS for embedde
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0637.png"/>
   <itunes:duration>00:25:56</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>36 выпуск 06 сезона. Rack Explained For Ruby Developers, JavaScript idiosyncrasies, Vuidget, Hygen, PostGraphile, JSLinux и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.rubyguides.com/2018/09/rack-middleware/">Rack Explained For Ruby Developers</a> и <a href="https://blog.bigbinary.com/2018/09/04/uploading-files-directly-to-s3-using-pre-signed-post-request.html">Uploading files directly to S3 using Pre-signed POST request</a></li>
-  <li><a href="https://medium.com/@baweaver/understanding-transducers-in-ruby-209766372c39">Understanding Transducers in Ruby</a>, <a href="http://nelsonware.com/blog/2018/08/29/finding-the-right-level-of-dry-for-your-rspec-test-suite.html">Finding the right level of DRY for your RSpec test suite</a> и <a href="https://depfu.com/blog/we-need-to-talk-about-changelogs">We need to talk about changelogs</a></li>
-  <li><a href="https://naturaily.com/blog/value-based-pagination-rails">Value based pagination in Ruby on Rails</a>, <a href="https://www.rockstarcoders.com/parallel-map/">Parallel map in Ruby - Nectarine</a> и <a href="https://www.driftingruby.com/episodes/rails-presenters">Rails Presenters (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests">GitHub Pull Requests in Visual Studio Code</a>, <a href="https://medium.com/styled-components/announcing-styled-components-v4-better-faster-stronger-3fe1aba1a112">Announcing styled-components v4: Better, Faster, Stronger</a> и <a href="https://cpury.github.io/learning-where-you-are-looking-at/">Learning where you are looking at (in the browser)</a></li>
-  <li><a href="https://odykyi.github.io/javascript-idiosyncrasies/">JavaScript idiosyncrasies</a> и <a href="https://github.com/you-dont-need/You-Dont-Need-Momentjs">You don’t (may not) need Moment.js</a></li>
-  <li><a href="https://itnext.io/vuidget-how-to-create-an-embeddable-vue-js-widget-with-vue-custom-element-674bdcb96b97">Vuidget — How to create an embeddable Vue.js widget with vue-custom-element</a>, <a href="http://www.hygen.io/">Hygen - scalable code generator that saves you time</a>, <a href="https://www.graphile.org/postgraphile/">PostGraphile - instant GraphQL API for PostgreSQL database</a> и <a href="https://bellard.org/jslinux/">JSLinux - run Linux or other Operating Systems in your browser</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #23</a></li>
-  <li><a href="https://www.facebook.com/events/1931370470526709">Elixir Club 12</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.rubyguides.com/2018/09/rack-middleware/">Rack Explained For Ruby Developers</a> и <a href="https://blog.bigbinary.com/2018/09/04/uploading-files-directly-to-s3-using-pre-signed-post-request.html">Uploading files directly to S3 using Pre-signed POST request</a></li>
-  <li><a href="https://medium.com/@baweaver/understanding-transducers-in-ruby-209766372c39">Understanding Transducers in Ruby</a>, <a href="http://nelsonware.com/blog/2018/08/29/finding-the-right-level-of-dry-for-your-rspec-test-suite.html">Finding the right level of DRY for your RSpec test suite</a> и <a href="https://depfu.com/blog/we-need-to-talk-about-changelogs">We need to talk about changelogs</a></li>
-  <li><a href="https://naturaily.com/blog/value-based-pagination-rails">Value based pagination in Ruby on Rails</a>, <a href="https://www.rockstarcoders.com/parallel-map/">Parallel map in Ruby - Nectarine</a> и <a href="https://www.driftingruby.com/episodes/rails-presenters">Rails Presenters (video)</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://code.visualstudio.com/blogs/2018/09/10/introducing-github-pullrequests">GitHub Pull Requests in Visual Studio Code</a>, <a href="https://medium.com/styled-components/announcing-styled-components-v4-better-faster-stronger-3fe1aba1a112">Announcing styled-components v4: Better, Faster, Stronger</a> и <a href="https://cpury.github.io/learning-where-you-are-looking-at/">Learning where you are looking at (in the browser)</a></li>
-  <li><a href="https://odykyi.github.io/javascript-idiosyncrasies/">JavaScript idiosyncrasies</a> и <a href="https://github.com/you-dont-need/You-Dont-Need-Momentjs">You don’t (may not) need Moment.js</a></li>
-  <li><a href="https://itnext.io/vuidget-how-to-create-an-embeddable-vue-js-widget-with-vue-custom-element-674bdcb96b97">Vuidget — How to create an embeddable Vue.js widget with vue-custom-element</a>, <a href="http://www.hygen.io/">Hygen - scalable code generator that saves you time</a>, <a href="https://www.graphile.org/postgraphile/">PostGraphile - instant GraphQL API for PostgreSQL database</a> и <a href="https://bellard.org/jslinux/">JSLinux - run Linux or other Operating Systems in your browser</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #23</a></li>
-  <li><a href="https://www.facebook.com/events/1931370470526709">Elixir Club 12</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 10 Sep 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/09/10/podcast-06-36.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/09/10/podcast-06-36.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0636.mp3" length="39764636" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0636.mp3" fileSize="39764636" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rack Explained For Ruby Developers и Uploading...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rack Explained For Ruby Developers и Uploading files directly to S3 using Pre-signed POST request
-
-  
-Understanding Transducers in Ruby, Finding the right level of DRY for your RSpec test suite и We need to talk about changelogs
-
-  
-Value based pagination in Ruby on Rails, Parallel map in Ruby - Nectarine и Rails Presenters (video)
-
-
-
-JavaScript
-
-
-  
-GitHub Pull Requests in Visual Studio Code, Announcing styled-components v4: Better, Faster, Stronger и Learning where you are looking at (in the browser)
-
-  
-JavaScript idiosyncrasies и You don’t (may not) need Moment.js
-
-  
-Vuidget — How to create an embeddable Vue.js widget with vue-custom-element, Hygen - scalable code generator that saves you time, PostGraphile - instant GraphQL API for PostgreSQL database и JSLinux - run Linux or other Operating Systems in your browser
-
-
-
-Conferences
-
-
-  Ruby Meditation #23
-  Elixir Club 12
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0636.png"/>
-  <itunes:duration>00:41:23</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
