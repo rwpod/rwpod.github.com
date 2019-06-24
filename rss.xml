@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 17 Jun 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 17 Jun 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 24 Jun 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 24 Jun 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>25 выпуск 07 сезона. Fullstaq Ruby, Sorbet, time.cloudflare.com, Just, Ts-toolbelt, jExcel, Freezeframe.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://fullstaqruby.org/">Fullstaq Ruby</a>, <a href="https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet">Open-sourcing Sorbet: a fast, powerful type checker for Ruby</a>, <a href="https://rubytogether.org/news/2019-06-10-may-2019-monthly-update">Ruby Together May 2019 newsletter – bundler/rubygems merger</a> и <a href="https://www.codica.com/blog/developing-rails-web-app-with-elasticsearch/">How to Implement Elasticsearch When Developing a Rails Web App</a></li>
+  <li><a href="https://evilmartians.com/chronicles/graphql-on-rails-2-updating-the-data">GraphQL on Rails: updating the data</a>, <a href="https://github.com/javan/whenever/releases/tag/v1.0.0">Whenever 1.0.0</a> и <a href="https://github.com/ambethia/recaptcha/releases/tag/v5.0.1">Recaptcha 5.0.1</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.cloudflare.com/secure-time/">Introducing time.cloudflare.com</a>, <a href="https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/">Optimizing Google Fonts Performance</a> и <a href="https://github.com/lydiahallie/javascript-questions">List of (Advanced) JavaScript Questions</a></li>
+  <li><a href="https://microsoft.github.io/just/">Just - a build task definition library</a>, <a href="https://github.com/pirix-gh/ts-toolbelt">Ts-toolbelt is a collection of types that makes TypeScript even safer</a>, <a href="https://github.com/paulhodel/jexcel">jExcel - a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets</a> и <a href="https://github.com/ctrl-freaks/freezeframe.js/">Freezeframe.js - a library that pauses animated .gifs and enables them to animate on events</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://fullstaqruby.org/">Fullstaq Ruby</a>, <a href="https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet">Open-sourcing Sorbet: a fast, powerful type checker for Ruby</a>, <a href="https://rubytogether.org/news/2019-06-10-may-2019-monthly-update">Ruby Together May 2019 newsletter – bundler/rubygems merger</a> и <a href="https://www.codica.com/blog/developing-rails-web-app-with-elasticsearch/">How to Implement Elasticsearch When Developing a Rails Web App</a></li>
+  <li><a href="https://evilmartians.com/chronicles/graphql-on-rails-2-updating-the-data">GraphQL on Rails: updating the data</a>, <a href="https://github.com/javan/whenever/releases/tag/v1.0.0">Whenever 1.0.0</a> и <a href="https://github.com/ambethia/recaptcha/releases/tag/v5.0.1">Recaptcha 5.0.1</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.cloudflare.com/secure-time/">Introducing time.cloudflare.com</a>, <a href="https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/">Optimizing Google Fonts Performance</a> и <a href="https://github.com/lydiahallie/javascript-questions">List of (Advanced) JavaScript Questions</a></li>
+  <li><a href="https://microsoft.github.io/just/">Just - a build task definition library</a>, <a href="https://github.com/pirix-gh/ts-toolbelt">Ts-toolbelt is a collection of types that makes TypeScript even safer</a>, <a href="https://github.com/paulhodel/jexcel">jExcel - a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets</a> и <a href="https://github.com/ctrl-freaks/freezeframe.js/">Freezeframe.js - a library that pauses animated .gifs and enables them to animate on events</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 24 Jun 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/06/24/podcast-07-25.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/06/24/podcast-07-25.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0725.mp3" length="33233136" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0725.mp3" fileSize="33233136" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Fullstaq Ruby, Open-sourcing Sorbet: a fast, p...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Fullstaq Ruby, Open-sourcing Sorbet: a fast, powerful type checker for Ruby, Ruby Together May 2019 newsletter – bundler/rubygems merger и How to Implement Elasticsearch When Developing a Rails Web App
+
+  
+GraphQL on Rails: updating the data, Whenever 1.0.0 и Recaptcha 5.0.1
+
+
+
+Web
+
+
+  
+Introducing time.cloudflare.com, Optimizing Google Fonts Performance и List of (Advanced) JavaScript Questions
+
+  
+Just - a build task definition library, Ts-toolbelt is a collection of types that makes TypeScript even safer, jExcel - a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets и Freezeframe.js - a library that pauses animated .gifs and enables them to animate on events
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0725.png"/>
+  <itunes:duration>00:27:40</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>24 выпуск 07 сезона. Ruby 2.7: The Pipeline Operator, Entropic, Styled-components v5, Algorithm Visualizer, Impersonator и прочее</title>
   <description>
@@ -3403,90 +3487,6 @@ iOS 12 Array reverse bug, RxDB - reactive, serverless, client-side, offline-firs
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0638.png"/>
   <itunes:duration>00:22:03</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>37 выпуск 06 сезона. Safari DoS, Yarn Plug'n'Play, Dante Stories, Ramda Ruby, Vuesax, Low.js, Sqorn и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://depfu.com/blog/what-makes-a-good-changelog">What makes a good changelog?</a>, <a href="https://godaddy.github.io/2018/09/11/redis-ruby-bloom-filter/">Implementing a custom Redis and in-memory bloom filter</a> и <a href="https://blog.jedrychowski.org/2018/caching-docker-rails-images/">Caching Docker Rails images</a></li>
-  <li><a href="https://github.com/michelson/dante-stories">Dante Stories - a self hosted Medium like solution</a> и <a href="https://github.com/lazebny/ramda-ruby">Ramda Ruby - a ruby version of Ramda Js library</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://gist.github.com/pwnsdx/ce64de2760996a6c432f06d612e33aea">Safari DoS</a>, <a href="https://github.com/yarnpkg/rfcs/pull/101">Yarn Plug’n’Play: Getting rid of node_modules</a> и <a href="https://www.pixelstech.net/article/1537002042-The-danger-of-target=_blank-and-opener">The danger of target=_blank and opener</a></li>
-  <li><a href="https://lusaxweb.github.io/vuesax/">Vuesax - a library of Vuejs components</a>, <a href="http://www.lowjs.org/">Low.js - the port of Node.JS for embedded devices</a> и <a href="https://github.com/lusakasa/sqorn">Sqorn - a Javascript library for building SQL queries</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://depfu.com/blog/what-makes-a-good-changelog">What makes a good changelog?</a>, <a href="https://godaddy.github.io/2018/09/11/redis-ruby-bloom-filter/">Implementing a custom Redis and in-memory bloom filter</a> и <a href="https://blog.jedrychowski.org/2018/caching-docker-rails-images/">Caching Docker Rails images</a></li>
-  <li><a href="https://github.com/michelson/dante-stories">Dante Stories - a self hosted Medium like solution</a> и <a href="https://github.com/lazebny/ramda-ruby">Ramda Ruby - a ruby version of Ramda Js library</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://gist.github.com/pwnsdx/ce64de2760996a6c432f06d612e33aea">Safari DoS</a>, <a href="https://github.com/yarnpkg/rfcs/pull/101">Yarn Plug’n’Play: Getting rid of node_modules</a> и <a href="https://www.pixelstech.net/article/1537002042-The-danger-of-target=_blank-and-opener">The danger of target=_blank and opener</a></li>
-  <li><a href="https://lusaxweb.github.io/vuesax/">Vuesax - a library of Vuejs components</a>, <a href="http://www.lowjs.org/">Low.js - the port of Node.JS for embedded devices</a> и <a href="https://github.com/lusakasa/sqorn">Sqorn - a Javascript library for building SQL queries</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 17 Sep 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/09/17/podcast-06-37.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/09/17/podcast-06-37.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0637.mp3" length="24929614" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0637.mp3" fileSize="24929614" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  What makes a good changelog?, Implementing a c...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-What makes a good changelog?, Implementing a custom Redis and in-memory bloom filter и Caching Docker Rails images
-
-  
-Dante Stories - a self hosted Medium like solution и Ramda Ruby - a ruby version of Ramda Js library
-
-
-
-JavaScript
-
-
-  
-Safari DoS, Yarn Plug’n’Play: Getting rid of node_modules и The danger of target=_blank and opener
-
-  
-Vuesax - a library of Vuejs components, Low.js - the port of Node.JS for embedded devices и Sqorn - a Javascript library for building SQL queries
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0637.png"/>
-  <itunes:duration>00:25:56</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
