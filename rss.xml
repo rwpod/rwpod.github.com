@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 01 Jul 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 08 Jul 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>27 выпуск 07 сезона. React Apollo vs Redux + REST, Native Payment Request API, Scallop, TimeCalc, Bounds.js, Zip и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://snyk.io/blog/ruby-gem-strong_password-found-to-contain-remote-code-execution-code-in-a-malicious-version-further-strengthening-worries-of-growth-in-supply-chain-attacks/">Ruby gem strong_password found to contain remote code execution code in a malicious version, further strengthening worries of growth in supply-chain attacks</a>, <a href="https://blog.bigbinary.com/2019/07/03/rails-6-adds-support-for-multi-environment-credentials.html">Rails 6 adds support for Multi Environment credentials</a> и <a href="https://sourcediving.com/less-known-changes-in-ruby-2-7-8d5db660370f">6 changes you might have missed coming in Ruby 2.7</a></li>
+  <li><a href="https://www.xuuso.com/programming/ruby/2019/07/01/i-just-made-ruby-plusplus.html">I just made Ruby++</a>, <a href="https://blog.appsignal.com/2019/07/02/ruby-magic-brewing-our-own-template-lexer-in-ruby.html">Brewing our own Template Lexer in Ruby</a>, <a href="https://github.com/fetlife/scallop">Scallop - ergonomic shell wrapper</a> и <a href="https://github.com/zverok/time_calc">TimeCalc - next generation of Time arithmetic library</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://snyk.io/blog/snyk-research-team-discovers-severe-prototype-pollution-security-vulnerabilities-affecting-all-versions-of-lodash/">Snyk research team discovers severe prototype pollution security vulnerabilities affecting all versions of lodash</a>, <a href="https://2ality.com/2019/07/global-scope.html">How do JavaScript’s global variables really work?</a> и <a href="https://css-tricks.com/where-do-you-learn-html-css-in-2019/">Where Do You Learn HTML &amp; CSS in 2019?</a></li>
+  <li><a href="https://medium.com/wix-engineering/react-apollo-vs-redux-rest-implementing-the-same-feature-twice-1b47e39d6d6a">React Apollo vs Redux + REST: Implementing the same feature twice</a>, <a href="https://medium.com/better-programming/what-is-the-native-payments-request-api-905c60a996e8">What Is the Native Payment Request API?</a>, <a href="https://chriscavs.github.io/bounds-demo/">Bounds.js - asynchronous boundary detection, without dependencies</a> и <a href="https://github.com/ronomon/zip">Zip - Robust ZIP decoder with defenses against dangerous compression ratios, spec deviations, malicious archive signatures, etc</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://snyk.io/blog/ruby-gem-strong_password-found-to-contain-remote-code-execution-code-in-a-malicious-version-further-strengthening-worries-of-growth-in-supply-chain-attacks/">Ruby gem strong_password found to contain remote code execution code in a malicious version, further strengthening worries of growth in supply-chain attacks</a>, <a href="https://blog.bigbinary.com/2019/07/03/rails-6-adds-support-for-multi-environment-credentials.html">Rails 6 adds support for Multi Environment credentials</a> и <a href="https://sourcediving.com/less-known-changes-in-ruby-2-7-8d5db660370f">6 changes you might have missed coming in Ruby 2.7</a></li>
+  <li><a href="https://www.xuuso.com/programming/ruby/2019/07/01/i-just-made-ruby-plusplus.html">I just made Ruby++</a>, <a href="https://blog.appsignal.com/2019/07/02/ruby-magic-brewing-our-own-template-lexer-in-ruby.html">Brewing our own Template Lexer in Ruby</a>, <a href="https://github.com/fetlife/scallop">Scallop - ergonomic shell wrapper</a> и <a href="https://github.com/zverok/time_calc">TimeCalc - next generation of Time arithmetic library</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://snyk.io/blog/snyk-research-team-discovers-severe-prototype-pollution-security-vulnerabilities-affecting-all-versions-of-lodash/">Snyk research team discovers severe prototype pollution security vulnerabilities affecting all versions of lodash</a>, <a href="https://2ality.com/2019/07/global-scope.html">How do JavaScript’s global variables really work?</a> и <a href="https://css-tricks.com/where-do-you-learn-html-css-in-2019/">Where Do You Learn HTML &amp; CSS in 2019?</a></li>
+  <li><a href="https://medium.com/wix-engineering/react-apollo-vs-redux-rest-implementing-the-same-feature-twice-1b47e39d6d6a">React Apollo vs Redux + REST: Implementing the same feature twice</a>, <a href="https://medium.com/better-programming/what-is-the-native-payments-request-api-905c60a996e8">What Is the Native Payment Request API?</a>, <a href="https://chriscavs.github.io/bounds-demo/">Bounds.js - asynchronous boundary detection, without dependencies</a> и <a href="https://github.com/ronomon/zip">Zip - Robust ZIP decoder with defenses against dangerous compression ratios, spec deviations, malicious archive signatures, etc</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 08 Jul 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/07/08/podcast-07-27.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/07/08/podcast-07-27.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0727.mp3" length="39914236" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0727.mp3" fileSize="39914236" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby gem strong_password found to contain remo...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby gem strong_password found to contain remote code execution code in a malicious version, further strengthening worries of growth in supply-chain attacks, Rails 6 adds support for Multi Environment credentials и 6 changes you might have missed coming in Ruby 2.7
+
+  
+I just made Ruby++, Brewing our own Template Lexer in Ruby, Scallop - ergonomic shell wrapper и TimeCalc - next generation of Time arithmetic library
+
+
+
+Web
+
+
+  
+Snyk research team discovers severe prototype pollution security vulnerabilities affecting all versions of lodash, How do JavaScript’s global variables really work? и Where Do You Learn HTML &amp; CSS in 2019?
+
+  
+React Apollo vs Redux + REST: Implementing the same feature twice, What Is the Native Payment Request API?, Bounds.js - asynchronous boundary detection, without dependencies и Zip - Robust ZIP decoder with defenses against dangerous compression ratios, spec deviations, malicious archive signatures, etc
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0727.png"/>
+  <itunes:duration>00:33:14</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>26 выпуск 07 сезона. Rails 6 adds Array#extract!, Fuchsia Project, Sorbetting a gem, Black candy, Pixelmatch и прочее</title>
   <description>
@@ -3403,90 +3487,6 @@ Cogear.JS – modern static websites generator, imgToAscii - a JavaScript implem
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0640.png"/>
   <itunes:duration>00:38:46</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>39 выпуск 06 сезона. Upgrading GitHub from Rails 3.2 to 5.2, Trix 1.0.0, SystemJS 2.0.0, Browserino, TurtleDB, Tabulator и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/">Upgrading GitHub from Rails 3.2 to 5.2</a>, <a href="https://sorbet.run/talks/StrangeLoop2018/#/">Presentation of Sorbet: A Typechecker for Ruby</a>, <a href="https://naturaily.com/blog/kafka-mosquitto-microservices">Kafka vs Mosquitto - which tool is better for communication between microservices?</a> и <a href="http://rspec.info/blog/2018/09/jon-rowe-and-sam-phippen-are-rspecs-new-leads/">Jon Rowe and Sam Phippen are RSpec’s new leads</a></li>
-  <li><a href="https://blog.appsignal.com/2018/09/25/explicitly-casting-vs-implicitly-coercing-types-in-ruby.html">#to_s or #to_str? Explicitly casting vs. implicitly coercing types in Ruby</a>, <a href="http://nelsonware.com/blog/2018/09/27/nine-tips-for-rails-migration-mastery.html">Nine tips for Rails migration mastery</a> и <a href="https://github.com/SidOfc/browserino">Browserino - a tool that parses a user agent string into a convenient object to work with</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://trix-editor.org/">Trix 1.0.0 - a rich text editor for everyday writing</a>, <a href="https://guybedford.com/systemjs-2.0">SystemJS 2.0.0 Release</a> и <a href="https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/">Grid vs Flexbox: Which Should You Choose?</a></li>
-  <li><a href="https://turtle-db.github.io/">TurtleDB - a framework for developers to build offline-first, collaborative web apps</a>, <a href="http://tabulator.info/">Tabulator - interactive tables and data grids for JavaScript</a> и <a href="https://github.com/apifytech/apify-js">Apify SDK - the scalable web crawling and scraping library for JavaScript</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://githubengineering.com/upgrading-github-from-rails-3-2-to-5-2/">Upgrading GitHub from Rails 3.2 to 5.2</a>, <a href="https://sorbet.run/talks/StrangeLoop2018/#/">Presentation of Sorbet: A Typechecker for Ruby</a>, <a href="https://naturaily.com/blog/kafka-mosquitto-microservices">Kafka vs Mosquitto - which tool is better for communication between microservices?</a> и <a href="http://rspec.info/blog/2018/09/jon-rowe-and-sam-phippen-are-rspecs-new-leads/">Jon Rowe and Sam Phippen are RSpec’s new leads</a></li>
-  <li><a href="https://blog.appsignal.com/2018/09/25/explicitly-casting-vs-implicitly-coercing-types-in-ruby.html">#to_s or #to_str? Explicitly casting vs. implicitly coercing types in Ruby</a>, <a href="http://nelsonware.com/blog/2018/09/27/nine-tips-for-rails-migration-mastery.html">Nine tips for Rails migration mastery</a> и <a href="https://github.com/SidOfc/browserino">Browserino - a tool that parses a user agent string into a convenient object to work with</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://trix-editor.org/">Trix 1.0.0 - a rich text editor for everyday writing</a>, <a href="https://guybedford.com/systemjs-2.0">SystemJS 2.0.0 Release</a> и <a href="https://www.webdesignerdepot.com/2018/09/grid-vs-flexbox-which-should-you-choose/">Grid vs Flexbox: Which Should You Choose?</a></li>
-  <li><a href="https://turtle-db.github.io/">TurtleDB - a framework for developers to build offline-first, collaborative web apps</a>, <a href="http://tabulator.info/">Tabulator - interactive tables and data grids for JavaScript</a> и <a href="https://github.com/apifytech/apify-js">Apify SDK - the scalable web crawling and scraping library for JavaScript</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 01 Oct 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/10/01/podcast-06-39.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/10/01/podcast-06-39.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0639.mp3" length="34248416" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0639.mp3" fileSize="34248416" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Upgrading GitHub from Rails 3.2 to 5.2, Presen...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Upgrading GitHub from Rails 3.2 to 5.2, Presentation of Sorbet: A Typechecker for Ruby, Kafka vs Mosquitto - which tool is better for communication between microservices? и Jon Rowe and Sam Phippen are RSpec’s new leads
-
-  
-#to_s or #to_str? Explicitly casting vs. implicitly coercing types in Ruby, Nine tips for Rails migration mastery и Browserino - a tool that parses a user agent string into a convenient object to work with
-
-
-
-JavaScript
-
-
-  
-Trix 1.0.0 - a rich text editor for everyday writing, SystemJS 2.0.0 Release и Grid vs Flexbox: Which Should You Choose?
-
-  
-TurtleDB - a framework for developers to build offline-first, collaborative web apps, Tabulator - interactive tables and data grids for JavaScript и Apify SDK - the scalable web crawling and scraping library for JavaScript
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0639.png"/>
-  <itunes:duration>00:35:39</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
