@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 08 Jul 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 08 Jul 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 16 Jul 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>28 выпуск 07 сезона. Babel 7.5.0, React Native 0.60, Lefthook, Crystalball, Next.js 9, Dragon Ruby, Hermes, Quark и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/07/09/rails-6-adds-hooks-to-activejob-around-retries-and-discards.html">Rails 6 adds hooks to Active Job around retries and discards</a>, <a href="https://blog.bigbinary.com/2019/07/15/rails-6-adds-annotate-to-activerecord-relation-queries.html">Rails 6 adds ActiveRecord::Relation#annotate</a> и <a href="https://dev.to/evilmartians/lefthook-crystalball-and-git-magic-for-smooth-development-experience-33mc">Lefthook, Crystalball, and git magic for smooth development experience</a></li>
+  <li><a href="https://github.com/MarioRuiz/string_pattern">StringPattern - you can easily generate strings supplying a very simple pattern</a>, <a href="https://github.com/styd/apexcharts.rb">Apexcharts.rb - a ruby gem that wraps a apexcharts.js charting library</a> и <a href="https://www.driftingruby.com/episodes/introduction-to-dragon-ruby">Introduction to Dragon Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://babeljs.io/blog/2019/07/03/7.5.0">Babel 7.5.0</a>, <a href="https://facebook.github.io/react-native/blog/2019/07/03/version-60">Announcing React Native 0.60</a>, <a href="https://nextjs.org/blog/next-9">Next.js 9</a> и <a href="https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/">Functional JavaScript: What are higher-order functions, and why should anyone care?</a></li>
+  <li><a href="https://hermesengine.dev/">Hermes - JavaScript engine optimized for React Native</a>, <a href="https://daybrush.com/moveable/">Moveable is Draggable! Resizable! Scalable! Rotatable!</a>, <a href="https://quarkjs.io/">Quark - a general purpose software tool</a> и <a href="https://abcjs.net/">Abcjs - javascript for rendering abc music notation</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/07/09/rails-6-adds-hooks-to-activejob-around-retries-and-discards.html">Rails 6 adds hooks to Active Job around retries and discards</a>, <a href="https://blog.bigbinary.com/2019/07/15/rails-6-adds-annotate-to-activerecord-relation-queries.html">Rails 6 adds ActiveRecord::Relation#annotate</a> и <a href="https://dev.to/evilmartians/lefthook-crystalball-and-git-magic-for-smooth-development-experience-33mc">Lefthook, Crystalball, and git magic for smooth development experience</a></li>
+  <li><a href="https://github.com/MarioRuiz/string_pattern">StringPattern - you can easily generate strings supplying a very simple pattern</a>, <a href="https://github.com/styd/apexcharts.rb">Apexcharts.rb - a ruby gem that wraps a apexcharts.js charting library</a> и <a href="https://www.driftingruby.com/episodes/introduction-to-dragon-ruby">Introduction to Dragon Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://babeljs.io/blog/2019/07/03/7.5.0">Babel 7.5.0</a>, <a href="https://facebook.github.io/react-native/blog/2019/07/03/version-60">Announcing React Native 0.60</a>, <a href="https://nextjs.org/blog/next-9">Next.js 9</a> и <a href="https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/">Functional JavaScript: What are higher-order functions, and why should anyone care?</a></li>
+  <li><a href="https://hermesengine.dev/">Hermes - JavaScript engine optimized for React Native</a>, <a href="https://daybrush.com/moveable/">Moveable is Draggable! Resizable! Scalable! Rotatable!</a>, <a href="https://quarkjs.io/">Quark - a general purpose software tool</a> и <a href="https://abcjs.net/">Abcjs - javascript for rendering abc music notation</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 16 Jul 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/07/16/podcast-07-28.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/07/16/podcast-07-28.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0728.mp3" length="33481318" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0728.mp3" fileSize="33481318" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6 adds hooks to Active Job around retrie...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 6 adds hooks to Active Job around retries and discards, Rails 6 adds ActiveRecord::Relation#annotate и Lefthook, Crystalball, and git magic for smooth development experience
+
+  
+StringPattern - you can easily generate strings supplying a very simple pattern, Apexcharts.rb - a ruby gem that wraps a apexcharts.js charting library и Introduction to Dragon Ruby
+
+
+
+Web
+
+
+  
+Babel 7.5.0, Announcing React Native 0.60, Next.js 9 и Functional JavaScript: What are higher-order functions, and why should anyone care?
+
+  
+Hermes - JavaScript engine optimized for React Native, Moveable is Draggable! Resizable! Scalable! Rotatable!, Quark - a general purpose software tool и Abcjs - javascript for rendering abc music notation
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0728.png"/>
+  <itunes:duration>00:27:53</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>27 выпуск 07 сезона. React Apollo vs Redux + REST, Native Payment Request API, Scallop, TimeCalc, Bounds.js, Zip и прочее</title>
   <description>
@@ -3393,100 +3477,6 @@ Favicon Checker, Google Drive Electron - a Google Drive desktop app made with El
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0641.png"/>
   <itunes:duration>00:32:53</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>40 выпуск 06 сезона. Ruby 2.6 adds RubyVM::AST module, Action Text for Rails 6, Hacktoberfest 2018, Falcon, Cogear.JS и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/10/02/ruby-2-6-adds-rubyvm-ast-module.html">Ruby 2.6 adds RubyVM::AST module</a> и <a href="https://weblog.rubyonrails.org/2018/10/3/introducing-action-text-for-rails-6/">Introducing Action Text for Rails 6</a></li>
-  <li><a href="https://www.driftingruby.com/episodes/service-objects-for-api-interactions-with-twilio">Service Objects for API Interactions with Twilio</a>, <a href="https://medium.com/@baweaver/destructuring-in-ruby-9e9bd2be0360">Destructuring Methods in Ruby</a> и <a href="https://frontdeveloper.pl/2018/10/5-security-issues-in-ruby-on-rails/">5 security issues in Ruby on Rails apps from real life</a></li>
-  <li><a href="https://github.com/socketry/falcon">Falcon - a multi-process, multi-fiber rack-compatible HTTP server</a>, <a href="https://github.com/jedld/tensor_stream-opencl">TensorStream::Opencl - an OpenCL backend for TensorStream</a> и <a href="https://github.com/senselogic/CIBYL">Cibyl - lightweight curly-bracket language which compiles to Ruby and Crystal</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2018</a> и <a href="https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/">Calls between JavaScript and WebAssembly are finally fast</a></li>
-  <li><a href="https://levelup.gitconnected.com/a-comparison-of-server-side-rendering-in-react-and-angular-applications-fb95285fb716">A comparison of Server Side Rendering in React and Angular applications</a> и <a href="https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/">Death by a thousand cuts - a checklist for eliminating common React performance issues</a></li>
-  <li><a href="https://github.com/codemotion/cogear.js">Cogear.JS – modern static websites generator</a>, <a href="https://github.com/victorqribeiro/imgToAscii">imgToAscii - a JavaScript implementation of a image to ascii converter</a> и <a href="https://mciastek.github.io/sal/">Sal.js - lightweight scroll animation library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2018/10/02/ruby-2-6-adds-rubyvm-ast-module.html">Ruby 2.6 adds RubyVM::AST module</a> и <a href="https://weblog.rubyonrails.org/2018/10/3/introducing-action-text-for-rails-6/">Introducing Action Text for Rails 6</a></li>
-  <li><a href="https://www.driftingruby.com/episodes/service-objects-for-api-interactions-with-twilio">Service Objects for API Interactions with Twilio</a>, <a href="https://medium.com/@baweaver/destructuring-in-ruby-9e9bd2be0360">Destructuring Methods in Ruby</a> и <a href="https://frontdeveloper.pl/2018/10/5-security-issues-in-ruby-on-rails/">5 security issues in Ruby on Rails apps from real life</a></li>
-  <li><a href="https://github.com/socketry/falcon">Falcon - a multi-process, multi-fiber rack-compatible HTTP server</a>, <a href="https://github.com/jedld/tensor_stream-opencl">TensorStream::Opencl - an OpenCL backend for TensorStream</a> и <a href="https://github.com/senselogic/CIBYL">Cibyl - lightweight curly-bracket language which compiles to Ruby and Crystal</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://hacktoberfest.digitalocean.com/">Hacktoberfest 2018</a> и <a href="https://hacks.mozilla.org/2018/10/calls-between-javascript-and-webassembly-are-finally-fast-%F0%9F%8E%89/">Calls between JavaScript and WebAssembly are finally fast</a></li>
-  <li><a href="https://levelup.gitconnected.com/a-comparison-of-server-side-rendering-in-react-and-angular-applications-fb95285fb716">A comparison of Server Side Rendering in React and Angular applications</a> и <a href="https://logrocket-blog.ghost.io/death-by-a-thousand-cuts-a-checklist-for-eliminating-common-react-performance-issues/">Death by a thousand cuts - a checklist for eliminating common React performance issues</a></li>
-  <li><a href="https://github.com/codemotion/cogear.js">Cogear.JS – modern static websites generator</a>, <a href="https://github.com/victorqribeiro/imgToAscii">imgToAscii - a JavaScript implementation of a image to ascii converter</a> и <a href="https://mciastek.github.io/sal/">Sal.js - lightweight scroll animation library</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 09 Oct 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/10/09/podcast-06-40.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/10/09/podcast-06-40.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0640.mp3" length="37238332" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0640.mp3" fileSize="37238332" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6 adds RubyVM::AST module и Introducing...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6 adds RubyVM::AST module и Introducing Action Text for Rails 6
-
-  
-Service Objects for API Interactions with Twilio, Destructuring Methods in Ruby и 5 security issues in Ruby on Rails apps from real life
-
-  
-Falcon - a multi-process, multi-fiber rack-compatible HTTP server, TensorStream::Opencl - an OpenCL backend for TensorStream и Cibyl - lightweight curly-bracket language which compiles to Ruby and Crystal
-
-
-
-JavaScript
-
-
-  
-Hacktoberfest 2018 и Calls between JavaScript and WebAssembly are finally fast
-
-  
-A comparison of Server Side Rendering in React and Angular applications и Death by a thousand cuts - a checklist for eliminating common React performance issues
-
-  
-Cogear.JS – modern static websites generator, imgToAscii - a JavaScript implementation of a image to ascii converter и Sal.js - lightweight scroll animation library
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0640.png"/>
-  <itunes:duration>00:38:46</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
