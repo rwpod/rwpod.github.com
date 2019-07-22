@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 16 Jul 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 16 Jul 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 22 Jul 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>29 выпуск 07 сезона. GraphQL on Rails, The Web Can't Survive a Monoculture, Regexp-examples, Osgood, Color Thief и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://evilmartians.com/chronicles/graphql-on-rails-3-on-the-way-to-perfection">GraphQL on Rails: On the way to perfection</a>, <a href="https://www.honeybadger.io/blog/turbolinks/">How We Migrated To Turbolinks Without Breaking Javascript</a> и <a href="https://serverless.com/blog/dynamic-image-resizing-ruby/">Dynamic image resizing with Ruby and Serverless framework</a></li>
+  <li><a href="https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5">Fetching millions of rows from PostgreSQL with Rails</a>, <a href="https://github.com/tom-lord/regexp-examples">Regexp-examples - generate strings that match a given regular expression</a> и <a href="https://github.com/piotrmurach/tty-logger">TTY::Logger - a readable, structured and beautiful logging for the terminal</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="http://mikepennisi.com/blog/2019/the-web-cant-survive-a-monoculture/">The Web Can’t Survive a Monoculture</a>, <a href="https://overreacted.io/algebraic-effects-for-the-rest-of-us/">Algebraic Effects for the Rest of Us</a> и <a href="http://mishravikas.com/articles/2019-07/bypassing-anti-incognito-detection-google-chrome.html">Bypassing anti-incognito detection in Google Chrome</a></li>
+  <li><a href="https://dev.to/tlhunter/introducing-osgood-4k1m">Introducing Osgood</a>, <a href="https://smashtest.io/">Smashtest - a language for rapidly describing and deploying test cases</a>, <a href="https://lokeshdhakar.com/projects/color-thief/">Color Thief</a> и <a href="https://github.com/wpmed92/backpropaganda">Backpropaganda - a JavaScript neural network framework for educational purposes</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://evilmartians.com/chronicles/graphql-on-rails-3-on-the-way-to-perfection">GraphQL on Rails: On the way to perfection</a>, <a href="https://www.honeybadger.io/blog/turbolinks/">How We Migrated To Turbolinks Without Breaking Javascript</a> и <a href="https://serverless.com/blog/dynamic-image-resizing-ruby/">Dynamic image resizing with Ruby and Serverless framework</a></li>
+  <li><a href="https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5">Fetching millions of rows from PostgreSQL with Rails</a>, <a href="https://github.com/tom-lord/regexp-examples">Regexp-examples - generate strings that match a given regular expression</a> и <a href="https://github.com/piotrmurach/tty-logger">TTY::Logger - a readable, structured and beautiful logging for the terminal</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="http://mikepennisi.com/blog/2019/the-web-cant-survive-a-monoculture/">The Web Can’t Survive a Monoculture</a>, <a href="https://overreacted.io/algebraic-effects-for-the-rest-of-us/">Algebraic Effects for the Rest of Us</a> и <a href="http://mishravikas.com/articles/2019-07/bypassing-anti-incognito-detection-google-chrome.html">Bypassing anti-incognito detection in Google Chrome</a></li>
+  <li><a href="https://dev.to/tlhunter/introducing-osgood-4k1m">Introducing Osgood</a>, <a href="https://smashtest.io/">Smashtest - a language for rapidly describing and deploying test cases</a>, <a href="https://lokeshdhakar.com/projects/color-thief/">Color Thief</a> и <a href="https://github.com/wpmed92/backpropaganda">Backpropaganda - a JavaScript neural network framework for educational purposes</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 22 Jul 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/07/22/podcast-07-29.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/07/22/podcast-07-29.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0729.mp3" length="43290066" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0729.mp3" fileSize="43290066" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  GraphQL on Rails: On the way to perfection, Ho...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+GraphQL on Rails: On the way to perfection, How We Migrated To Turbolinks Without Breaking Javascript и Dynamic image resizing with Ruby and Serverless framework
+
+  
+Fetching millions of rows from PostgreSQL with Rails, Regexp-examples - generate strings that match a given regular expression и TTY::Logger - a readable, structured and beautiful logging for the terminal
+
+
+
+Web
+
+
+  
+The Web Can’t Survive a Monoculture, Algebraic Effects for the Rest of Us и Bypassing anti-incognito detection in Google Chrome
+
+  
+Introducing Osgood, Smashtest - a language for rapidly describing and deploying test cases, Color Thief и Backpropaganda - a JavaScript neural network framework for educational purposes
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0729.png"/>
+  <itunes:duration>00:36:03</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>28 выпуск 07 сезона. Babel 7.5.0, React Native 0.60, Lefthook, Crystalball, Next.js 9, Dragon Ruby, Hermes, Quark и прочее</title>
   <description>
@@ -3393,90 +3477,6 @@ Evergreen - a React UI Framework for building ambitious products on the web, Omi
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0642.png"/>
   <itunes:duration>00:32:00</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>41 выпуск 06 сезона. The Evolution of Ruby Strings, JavaScript Visualizer, FaaStRuby, Favicon Checker, ProbaClick и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@carmenhchung/how-we-halved-our-memory-consumption-in-rails-with-jemalloc-86afa4e54aa3">How we halved our memory consumption in Rails with jemalloc</a>, <a href="https://medium.com/@farsi_mehdi/evolution-of-ruby-string-from-1-8-to-2-5-d47afd3505df">The Evolution of Ruby Strings from 1.8 to 2.5</a> и <a href="https://blog.calendly.com/ruby-gotchas-javascript-developer/">Ruby gotchas for the JavaScript developer</a></li>
-  <li><a href="https://medium.com/@kopilov.vlad/working-with-thread-in-ruby-948cd7e5f1a8">Working with Thread in Ruby</a>, <a href="https://www.chrisblunt.com/rails-5-matching-asset-urls-in-feature-specs/">Rails 5: Matching Asset URLs in Feature Specs</a> и <a href="https://faastruby.io/">FaaStRuby - a serverless platform built for Ruby developers</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3">Start Performance Budgeting</a>, <a href="https://tylermcginnis.com/javascript-visualizer/">JavaScript Visualizer - a tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript</a> и <a href="https://github.com/ballercat/walt">Walt - an alternative syntax for WebAssembly text format</a></li>
-  <li><a href="http://www.colinkeany.com/favicon-checker/">Favicon Checker</a>, <a href="https://github.com/alexkim205/Google-Drive-Electron">Google Drive Electron - a Google Drive desktop app made with ElectronJS</a>, <a href="https://github.com/alexmacarthur/probaclick">ProbaClick - do something when someone’s probably going to click something</a> и <a href="https://github.com/danburzo/percollate">Percollate - a command-line tool to turn web pages into beautifully formatted PDFs</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://medium.com/@carmenhchung/how-we-halved-our-memory-consumption-in-rails-with-jemalloc-86afa4e54aa3">How we halved our memory consumption in Rails with jemalloc</a>, <a href="https://medium.com/@farsi_mehdi/evolution-of-ruby-string-from-1-8-to-2-5-d47afd3505df">The Evolution of Ruby Strings from 1.8 to 2.5</a> и <a href="https://blog.calendly.com/ruby-gotchas-javascript-developer/">Ruby gotchas for the JavaScript developer</a></li>
-  <li><a href="https://medium.com/@kopilov.vlad/working-with-thread-in-ruby-948cd7e5f1a8">Working with Thread in Ruby</a>, <a href="https://www.chrisblunt.com/rails-5-matching-asset-urls-in-feature-specs/">Rails 5: Matching Asset URLs in Feature Specs</a> и <a href="https://faastruby.io/">FaaStRuby - a serverless platform built for Ruby developers</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://medium.com/@addyosmani/start-performance-budgeting-dabde04cf6a3">Start Performance Budgeting</a>, <a href="https://tylermcginnis.com/javascript-visualizer/">JavaScript Visualizer - a tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript</a> и <a href="https://github.com/ballercat/walt">Walt - an alternative syntax for WebAssembly text format</a></li>
-  <li><a href="http://www.colinkeany.com/favicon-checker/">Favicon Checker</a>, <a href="https://github.com/alexkim205/Google-Drive-Electron">Google Drive Electron - a Google Drive desktop app made with ElectronJS</a>, <a href="https://github.com/alexmacarthur/probaclick">ProbaClick - do something when someone’s probably going to click something</a> и <a href="https://github.com/danburzo/percollate">Percollate - a command-line tool to turn web pages into beautifully formatted PDFs</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 15 Oct 2018 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2018/10/15/podcast-06-41.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/10/15/podcast-06-41.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0641.mp3" length="31603730" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0641.mp3" fileSize="31603730" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  How we halved our memory consumption in Rails ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-How we halved our memory consumption in Rails with jemalloc, The Evolution of Ruby Strings from 1.8 to 2.5 и Ruby gotchas for the JavaScript developer
-
-  
-Working with Thread in Ruby, Rails 5: Matching Asset URLs in Feature Specs и FaaStRuby - a serverless platform built for Ruby developers
-
-
-
-JavaScript
-
-
-  
-Start Performance Budgeting, JavaScript Visualizer - a tool for visualizing Execution Context, Hoisting, Closures, and Scopes in JavaScript и Walt - an alternative syntax for WebAssembly text format
-
-  
-Favicon Checker, Google Drive Electron - a Google Drive desktop app made with ElectronJS, ProbaClick - do something when someone’s probably going to click something и Percollate - a command-line tool to turn web pages into beautifully formatted PDFs
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0641.png"/>
-  <itunes:duration>00:32:53</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
