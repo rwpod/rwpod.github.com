@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 23 Jul 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 23 Jul 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 29 Jul 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 29 Jul 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>30 выпуск 07 сезона. Rails 6 Features, Mithril.js 2.0.3, Vuetify 2.0.2, Heroku vs self-hosted PaaS, Cesium.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.toptal.com/ruby-on-rails/rails-6-features">Rails 6 Features: What’s New and Why It Matters</a>, <a href="https://blog.bigbinary.com/2019/07/23/rails-6-reports-object-allocations-made-while-rendering-view-templates.html">Rails 6 reports object allocations made while rendering view templates</a> и <a href="https://www.saturnflyer.com/blog/reading-ruby-metaprogramming-inside-devise">Reading Ruby Metaprogramming inside Devise</a></li>
+  <li><a href="https://www.mskog.com/posts/heroku-vs-self-hosted-paas/">Heroku vs self-hosted PaaS</a>, <a href="https://semaphoreci.com/blog/kubernetes-deployment">Kubernetes Deployments: The Ultimate Guide</a>, <a href="https://github.com/collectiveidea/audited">Audited (previously acts_as_audited) is an ORM extension that logs all changes to your models</a> и <a href="https://github.com/kirillshevch/query_track">QueryTrack - find time-consuming database queries for ActiveRecord-based Rails Apps</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/MithrilJS/mithril.js/releases/tag/v2.0.3">Mithril.js 2.0.3</a>, <a href="https://github.com/vuetifyjs/vuetify/releases/tag/v2.0.2">Vuetify 2.0.2</a>, <a href="https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4">When a rewrite isn’t: rebuilding Slack on the desktop</a> и <a href="https://jscomplete.com/learn/complete-intro-react">The Complete Introduction to React</a></li>
+  <li><a href="https://davidwalsh.name/javascript-proxy-with-storage">JavaScript Proxy with Storage</a>, <a href="https://harry.garrood.me/blog/malicious-code-in-purescript-npm-installer/">Malicious code in the purescript npm installer</a>, <a href="https://github.com/nikersify/jay">Jay - supercharged JavaScript REPL</a>, <a href="https://seek-oss.github.io/treat/">Treat - themeable, statically extracted CSS‑in‑JS with near‑zero runtime</a> и <a href="https://cesiumjs.org/">Cesium.js - an open-source JavaScript library for world-class 3D globes and maps</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.toptal.com/ruby-on-rails/rails-6-features">Rails 6 Features: What’s New and Why It Matters</a>, <a href="https://blog.bigbinary.com/2019/07/23/rails-6-reports-object-allocations-made-while-rendering-view-templates.html">Rails 6 reports object allocations made while rendering view templates</a> и <a href="https://www.saturnflyer.com/blog/reading-ruby-metaprogramming-inside-devise">Reading Ruby Metaprogramming inside Devise</a></li>
+  <li><a href="https://www.mskog.com/posts/heroku-vs-self-hosted-paas/">Heroku vs self-hosted PaaS</a>, <a href="https://semaphoreci.com/blog/kubernetes-deployment">Kubernetes Deployments: The Ultimate Guide</a>, <a href="https://github.com/collectiveidea/audited">Audited (previously acts_as_audited) is an ORM extension that logs all changes to your models</a> и <a href="https://github.com/kirillshevch/query_track">QueryTrack - find time-consuming database queries for ActiveRecord-based Rails Apps</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/MithrilJS/mithril.js/releases/tag/v2.0.3">Mithril.js 2.0.3</a>, <a href="https://github.com/vuetifyjs/vuetify/releases/tag/v2.0.2">Vuetify 2.0.2</a>, <a href="https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4">When a rewrite isn’t: rebuilding Slack on the desktop</a> и <a href="https://jscomplete.com/learn/complete-intro-react">The Complete Introduction to React</a></li>
+  <li><a href="https://davidwalsh.name/javascript-proxy-with-storage">JavaScript Proxy with Storage</a>, <a href="https://harry.garrood.me/blog/malicious-code-in-purescript-npm-installer/">Malicious code in the purescript npm installer</a>, <a href="https://github.com/nikersify/jay">Jay - supercharged JavaScript REPL</a>, <a href="https://seek-oss.github.io/treat/">Treat - themeable, statically extracted CSS‑in‑JS with near‑zero runtime</a> и <a href="https://cesiumjs.org/">Cesium.js - an open-source JavaScript library for world-class 3D globes and maps</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 29 Jul 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/07/29/podcast-07-30.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/07/29/podcast-07-30.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0730.mp3" length="45516562" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0730.mp3" fileSize="45516562" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6 Features: What’s New and Why It Matter...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 6 Features: What’s New and Why It Matters, Rails 6 reports object allocations made while rendering view templates и Reading Ruby Metaprogramming inside Devise
+
+  
+Heroku vs self-hosted PaaS, Kubernetes Deployments: The Ultimate Guide, Audited (previously acts_as_audited) is an ORM extension that logs all changes to your models и QueryTrack - find time-consuming database queries for ActiveRecord-based Rails Apps
+
+
+
+Web
+
+
+  
+Mithril.js 2.0.3, Vuetify 2.0.2, When a rewrite isn’t: rebuilding Slack on the desktop и The Complete Introduction to React
+
+  
+JavaScript Proxy with Storage, Malicious code in the purescript npm installer, Jay - supercharged JavaScript REPL, Treat - themeable, statically extracted CSS‑in‑JS with near‑zero runtime и Cesium.js - an open-source JavaScript library for world-class 3D globes and maps
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0730.png"/>
+  <itunes:duration>00:37:54</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>RWPod Кафе 10: Dávid Halász</title>
   <description>
@@ -3388,100 +3472,6 @@ The Evolution of Async JavaScript: From Callbacks, to Promises, to Async/Await, 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0644.png"/>
   <itunes:duration>00:24:20</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>43 выпуск 06 сезона. Hanami v1.3.0, Node v11.0.0, Storybook 4.0, React v16.6.0, Enkrip, IronDB, Lazy-brush и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://hanamirb.org/blog/2018/10/24/announcing-hanami-130.html">Announcing Hanami v1.3.0</a>, <a href="https://blog.bigbinary.com/2018/10/24/ruby-2-6-range-cover-now-accepts-range-object.html">Ruby 2.6 Range#cover? now accepts Range object as an argument</a> и <a href="https://blog.bigbinary.com/2018/10/23/rails-5-2-adds-dsl-for-configuring-content-security-policy-header.html">Rails 5.2 adds DSL for configuring Content Security Policy header</a></li>
-  <li><a href="http://www.wjwh.eu/posts/2018-10-29-double-hijack.html">Maintaining 65k open connections in a single Ruby process</a>, <a href="https://medium.com/textmaster-engineering/performance-of-regular-expressions-81371f569698">Performance of Regular Expressions</a> и <a href="https://blog.appsignal.com/2018/10/30/ruby-magic-building-a-ruby-c-extension-from-scratch.html">Building a Ruby C Extension From Scratch</a></li>
-  <li><a href="http://nts.strzibny.name/building-auto-login-for-fast-rails-development-with-sorcery/">Building auto login for fast Rails development with Sorcery</a>, <a href="https://metaredux.com/posts/2018/10/27/a-safer-rubocop.html">A Safer RuboCop</a> и <a href="https://www.railsmine.net/2018/10/introducing-enkrip.html">Introducing Enkrip</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v11.0.0/">Node v11.0.0</a>, <a href="https://medium.com/storybookjs/storybook-4-0-is-here-10b9857fc7de">Storybook 4.0 is here!</a> и <a href="https://reactjs.org/blog/2018/10/23/react-v-16-6.html">React v16.6.0: lazy, memo and contextType</a></li>
-  <li><a href="https://reactjs.org/docs/hooks-intro.html">Introducing Hooks</a>, <a href="https://github.com/acdlite/recompose#a-note-from-the-author-acdlite-oct-25-2018">Recompose future</a> и <a href="https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/">Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation</a></li>
-  <li><a href="https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript">5 Tips to Write Better Conditionals in JavaScript</a>, <a href="https://github.com/gruns/irondb">IronDB - a resilient key-value store for the browser</a> и <a href="https://github.com/dulnan/lazy-brush">Lazy-brush - smooth drawing with a mouse, finger or any pointing device</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://hanamirb.org/blog/2018/10/24/announcing-hanami-130.html">Announcing Hanami v1.3.0</a>, <a href="https://blog.bigbinary.com/2018/10/24/ruby-2-6-range-cover-now-accepts-range-object.html">Ruby 2.6 Range#cover? now accepts Range object as an argument</a> и <a href="https://blog.bigbinary.com/2018/10/23/rails-5-2-adds-dsl-for-configuring-content-security-policy-header.html">Rails 5.2 adds DSL for configuring Content Security Policy header</a></li>
-  <li><a href="http://www.wjwh.eu/posts/2018-10-29-double-hijack.html">Maintaining 65k open connections in a single Ruby process</a>, <a href="https://medium.com/textmaster-engineering/performance-of-regular-expressions-81371f569698">Performance of Regular Expressions</a> и <a href="https://blog.appsignal.com/2018/10/30/ruby-magic-building-a-ruby-c-extension-from-scratch.html">Building a Ruby C Extension From Scratch</a></li>
-  <li><a href="http://nts.strzibny.name/building-auto-login-for-fast-rails-development-with-sorcery/">Building auto login for fast Rails development with Sorcery</a>, <a href="https://metaredux.com/posts/2018/10/27/a-safer-rubocop.html">A Safer RuboCop</a> и <a href="https://www.railsmine.net/2018/10/introducing-enkrip.html">Introducing Enkrip</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://nodejs.org/en/blog/release/v11.0.0/">Node v11.0.0</a>, <a href="https://medium.com/storybookjs/storybook-4-0-is-here-10b9857fc7de">Storybook 4.0 is here!</a> и <a href="https://reactjs.org/blog/2018/10/23/react-v-16-6.html">React v16.6.0: lazy, memo and contextType</a></li>
-  <li><a href="https://reactjs.org/docs/hooks-intro.html">Introducing Hooks</a>, <a href="https://github.com/acdlite/recompose#a-note-from-the-author-acdlite-oct-25-2018">Recompose future</a> и <a href="https://blog.mgechev.com/2018/10/20/transfer-learning-tensorflow-js-data-augmentation-mobile-net/">Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation</a></li>
-  <li><a href="https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript">5 Tips to Write Better Conditionals in JavaScript</a>, <a href="https://github.com/gruns/irondb">IronDB - a resilient key-value store for the browser</a> и <a href="https://github.com/dulnan/lazy-brush">Lazy-brush - smooth drawing with a mouse, finger or any pointing device</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 30 Oct 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/10/30/podcast-06-43.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/10/30/podcast-06-43.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0643.mp3" length="43608774" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0643.mp3" fileSize="43608774" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Announcing Hanami v1.3.0, Ruby 2.6 Range#cover...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Announcing Hanami v1.3.0, Ruby 2.6 Range#cover? now accepts Range object as an argument и Rails 5.2 adds DSL for configuring Content Security Policy header
-
-  
-Maintaining 65k open connections in a single Ruby process, Performance of Regular Expressions и Building a Ruby C Extension From Scratch
-
-  
-Building auto login for fast Rails development with Sorcery, A Safer RuboCop и Introducing Enkrip
-
-
-
-JavaScript
-
-
-  
-Node v11.0.0, Storybook 4.0 is here! и React v16.6.0: lazy, memo and contextType
-
-  
-Introducing Hooks, Recompose future и Playing Mortal Kombat with TensorFlow.js. Transfer learning and data augmentation
-
-  
-5 Tips to Write Better Conditionals in JavaScript, IronDB - a resilient key-value store for the browser и Lazy-brush - smooth drawing with a mouse, finger or any pointing device
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0643.png"/>
-  <itunes:duration>00:45:24</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
