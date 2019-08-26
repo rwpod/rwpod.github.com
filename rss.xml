@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 19 Aug 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 19 Aug 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 26 Aug 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,108 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>34 выпуск 07 сезона. Jekyll 4.0.0, Hyper 3, Rest-client gem compromised, CSS Can Do This, NodeGUI, Chart.xkcd и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/rest-client/rest-client/issues/713">Rest-client gem compromised</a>, <a href="https://www.zdnet.com/article/backdoor-code-found-in-11-ruby-libraries/">Backdoor code found in 11 Ruby libraries</a>, <a href="http://sinatrarb.com/2019/08/21/sinatra-2.0.6.html">Sinatra 2.0.6 Released</a>, <a href="https://jekyllrb.com/news/2019/08/20/jekyll-4-0-0-released/">Jekyll 4.0.0 Released</a> и <a href="https://blog.saeloun.com/2019/08/20/ruby-2-7-time-ceil-and-time-floor-methods.html">Ruby 2.7 adds Time#ceil and Time#floor methods</a></li>
+  <li><a href="https://dev.to/loribbaum/rails-5-2-x-rails-6-countercache-gotcha-3bgc">Rails 5.2.x –&gt; Rails 6 counter_cache Gotcha</a>, <a href="https://medium.com/rubyinside/active-storage-file-upload-behind-the-scenes-59a660c43781">Active Storage File Upload Behind The Scenes</a> и <a href="https://supergood.software/a-ruby-gem-debugging-strategy/">A Ruby Gem Debugging Strategy</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://hyper.is/blog">Hyper 3</a>, <a href="https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/">Using Native JavaScript Modules in Production Today</a> и <a href="https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying/">CSS Can Do This… And It’s Terrifying!</a></li>
+  <li><a href="https://blog.atulr.com/nodegui-intro/">Announcing NodeGUI and React NodeGUI</a>, <a href="https://pqina.nl/filepond/">FilePond: A Flexible File Uploader with a Smooth UI</a> и <a href="https://timqian.com/chart.xkcd/">Chart.xkcd</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://rubyc.eu/">RubyC 2019</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/rest-client/rest-client/issues/713">Rest-client gem compromised</a>, <a href="https://www.zdnet.com/article/backdoor-code-found-in-11-ruby-libraries/">Backdoor code found in 11 Ruby libraries</a>, <a href="http://sinatrarb.com/2019/08/21/sinatra-2.0.6.html">Sinatra 2.0.6 Released</a>, <a href="https://jekyllrb.com/news/2019/08/20/jekyll-4-0-0-released/">Jekyll 4.0.0 Released</a> и <a href="https://blog.saeloun.com/2019/08/20/ruby-2-7-time-ceil-and-time-floor-methods.html">Ruby 2.7 adds Time#ceil and Time#floor methods</a></li>
+  <li><a href="https://dev.to/loribbaum/rails-5-2-x-rails-6-countercache-gotcha-3bgc">Rails 5.2.x –&gt; Rails 6 counter_cache Gotcha</a>, <a href="https://medium.com/rubyinside/active-storage-file-upload-behind-the-scenes-59a660c43781">Active Storage File Upload Behind The Scenes</a> и <a href="https://supergood.software/a-ruby-gem-debugging-strategy/">A Ruby Gem Debugging Strategy</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://hyper.is/blog">Hyper 3</a>, <a href="https://philipwalton.com/articles/using-native-javascript-modules-in-production-today/">Using Native JavaScript Modules in Production Today</a> и <a href="https://www.aaron-powell.com/posts/2019-08-14-css-can-do-this-and-its-terrifying/">CSS Can Do This… And It’s Terrifying!</a></li>
+  <li><a href="https://blog.atulr.com/nodegui-intro/">Announcing NodeGUI and React NodeGUI</a>, <a href="https://pqina.nl/filepond/">FilePond: A Flexible File Uploader with a Smooth UI</a> и <a href="https://timqian.com/chart.xkcd/">Chart.xkcd</a></li>
+</ul>
+
+<h2 id="conferences">Conferences</h2>
+
+<ul>
+  <li><a href="https://rubyc.eu/">RubyC 2019</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 26 Aug 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/08/26/podcast-07-34.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/08/26/podcast-07-34.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0734.mp3" length="45484728" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0734.mp3" fileSize="45484728" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rest-client gem compromised, Backdoor code fou...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rest-client gem compromised, Backdoor code found in 11 Ruby libraries, Sinatra 2.0.6 Released, Jekyll 4.0.0 Released и Ruby 2.7 adds Time#ceil and Time#floor methods
+
+  
+Rails 5.2.x –&gt; Rails 6 counter_cache Gotcha, Active Storage File Upload Behind The Scenes и A Ruby Gem Debugging Strategy
+
+
+
+Web
+
+
+  
+Hyper 3, Using Native JavaScript Modules in Production Today и CSS Can Do This… And It’s Terrifying!
+
+  
+Announcing NodeGUI and React NodeGUI, FilePond: A Flexible File Uploader with a Smooth UI и Chart.xkcd
+
+
+
+Conferences
+
+
+  RubyC 2019
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0734.png"/>
+  <itunes:duration>00:37:53</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>33 выпуск 07 сезона. Rails 6.0, New React DevTools, Fail Fast and Fail Often, Konfig, meSpeak.js 2.0, Npkill и прочее</title>
   <description>
@@ -3403,90 +3505,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0648.png"/>
   <itunes:duration>00:31:14</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>47 выпуск 06 сезона. AnyCable 0.6.0, Dart for JavaScript Programmers, Iguvium, Modulation, CMS.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.com/anycable/anycable/releases/tag/v0.6.0">AnyCable 0.6.0</a>, <a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-avl-trees-6206bf2035e0">Mastering data structures in Ruby - AVL Trees</a> и <a href="https://thesmartnik.com/why-on-earth-do-fibers-exist.html">Why on earth do fibers exist?</a></li>
-  <li><a href="https://bits.citrusbyte.com/building-sql-expressions-with-sequel/">Building SQL expressions with Sequel</a>, <a href="https://dev.to/amplifr/outdated-browser-detection-with-browserslist-10co">Outdated browser detection with Browserslist</a>, <a href="https://github.com/adworse/iguvium">Iguvium extracts tables from PDF file in a structured form</a> и <a href="https://github.com/ciconia/modulation">Modulation - explicit dependency management for Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/dominictarr/event-stream/issues/116">NPM package with 2,000,000 weekly downloads had malicious code injected into it</a>, <a href="https://medium.com/flutter-community/dart-for-javascript-programmers-24c905aadf6">Dart for JavaScript Programmers</a> и <a href="https://bitsofco.de/why-and-how-to-use-webp-images-today/">Why and how to use WebP images today</a></li>
-  <li><a href="http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html">Compiler basics: lisp to assembly</a>, <a href="http://chrisdiana.github.io/cms.js/">CMS.js - fully client-side, Javascript site generator</a> и <a href="https://github.com/galvez/yamlful">Yamlful - a utility for HTTP client code generation from YAML</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.com/anycable/anycable/releases/tag/v0.6.0">AnyCable 0.6.0</a>, <a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-avl-trees-6206bf2035e0">Mastering data structures in Ruby - AVL Trees</a> и <a href="https://thesmartnik.com/why-on-earth-do-fibers-exist.html">Why on earth do fibers exist?</a></li>
-  <li><a href="https://bits.citrusbyte.com/building-sql-expressions-with-sequel/">Building SQL expressions with Sequel</a>, <a href="https://dev.to/amplifr/outdated-browser-detection-with-browserslist-10co">Outdated browser detection with Browserslist</a>, <a href="https://github.com/adworse/iguvium">Iguvium extracts tables from PDF file in a structured form</a> и <a href="https://github.com/ciconia/modulation">Modulation - explicit dependency management for Ruby</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://github.com/dominictarr/event-stream/issues/116">NPM package with 2,000,000 weekly downloads had malicious code injected into it</a>, <a href="https://medium.com/flutter-community/dart-for-javascript-programmers-24c905aadf6">Dart for JavaScript Programmers</a> и <a href="https://bitsofco.de/why-and-how-to-use-webp-images-today/">Why and how to use WebP images today</a></li>
-  <li><a href="http://notes.eatonphil.com/compiler-basics-lisp-to-assembly.html">Compiler basics: lisp to assembly</a>, <a href="http://chrisdiana.github.io/cms.js/">CMS.js - fully client-side, Javascript site generator</a> и <a href="https://github.com/galvez/yamlful">Yamlful - a utility for HTTP client code generation from YAML</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 26 Nov 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/11/26/podcast-06-47.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/11/26/podcast-06-47.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0647.mp3" length="31628762" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0647.mp3" fileSize="31628762" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  AnyCable 0.6.0, Mastering data structures in R...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-AnyCable 0.6.0, Mastering data structures in Ruby - AVL Trees и Why on earth do fibers exist?
-
-  
-Building SQL expressions with Sequel, Outdated browser detection with Browserslist, Iguvium extracts tables from PDF file in a structured form и Modulation - explicit dependency management for Ruby
-
-
-
-JavaScript
-
-
-  
-NPM package with 2,000,000 weekly downloads had malicious code injected into it, Dart for JavaScript Programmers и Why and how to use WebP images today
-
-  
-Compiler basics: lisp to assembly, CMS.js - fully client-side, Javascript site generator и Yamlful - a utility for HTTP client code generation from YAML
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0647.png"/>
-  <itunes:duration>00:32:55</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
