@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 26 Aug 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 26 Aug 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 02 Sep 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,108 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>35 выпуск 07 сезона. Ruby 2.6.4, Npm bans terminal ads, Optional chaining, WebGL Fluid Simulation, Lotion и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/08/28/ruby-2-6-4-released/">Ruby 2.6.4 Released</a>, <a href="https://github.com/ruby/ruby/commit/2ed68d0ff9a932efbc4393c869534040dec8f647">Ruby’s pipeline operator reverted</a>, <a href="https://twin.github.io/upcoming-features-in-shrine-3-0/">Upcoming Features in Shrine 3.0</a> и <a href="https://prathamesh.tech/2019/09/02/dns-rebinding-attacks-protection-in-rails-6/">DNS rebinding attacks protection in Rails 6</a></li>
+  <li><a href="https://jetrockets.pro/blog/how-to-store-large-json-in-postgresql-with-rails-attributes-api">How to store large JSON in PostgreSQL with Rails Attributes API</a>, <a href="https://www.driftingruby.com/episodes/push-notifications-with-actioncable">Push Notifications with ActionCable</a> и <a href="https://gorails.com/episodes/rails-6-multiple-databases">How to use Multiple Databases in Rails 6.0</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://www.zdnet.com/article/npm-bans-terminal-ads/">Npm bans terminal ads</a>, <a href="https://v8.dev/features/optional-chaining">Optional chaining</a> и <a href="https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/">How Web Content Can Affect Power Usage</a></li>
+  <li><a href="https://paveldogreat.github.io/WebGL-Fluid-Simulation/">WebGL Fluid Simulation</a> и <a href="https://font.nina.coffee/">Lotion - a monospace typeface for programming</a></li>
+</ul>
+
+<h2 id="rubyc-2019">Розыгрыш билета на RubyC 2019</h2>
+
+<ul>
+  <li><a href="https://take.ms/ZZXCq">Результат на видео</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/08/28/ruby-2-6-4-released/">Ruby 2.6.4 Released</a>, <a href="https://github.com/ruby/ruby/commit/2ed68d0ff9a932efbc4393c869534040dec8f647">Ruby’s pipeline operator reverted</a>, <a href="https://twin.github.io/upcoming-features-in-shrine-3-0/">Upcoming Features in Shrine 3.0</a> и <a href="https://prathamesh.tech/2019/09/02/dns-rebinding-attacks-protection-in-rails-6/">DNS rebinding attacks protection in Rails 6</a></li>
+  <li><a href="https://jetrockets.pro/blog/how-to-store-large-json-in-postgresql-with-rails-attributes-api">How to store large JSON in PostgreSQL with Rails Attributes API</a>, <a href="https://www.driftingruby.com/episodes/push-notifications-with-actioncable">Push Notifications with ActionCable</a> и <a href="https://gorails.com/episodes/rails-6-multiple-databases">How to use Multiple Databases in Rails 6.0</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://www.zdnet.com/article/npm-bans-terminal-ads/">Npm bans terminal ads</a>, <a href="https://v8.dev/features/optional-chaining">Optional chaining</a> и <a href="https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/">How Web Content Can Affect Power Usage</a></li>
+  <li><a href="https://paveldogreat.github.io/WebGL-Fluid-Simulation/">WebGL Fluid Simulation</a> и <a href="https://font.nina.coffee/">Lotion - a monospace typeface for programming</a></li>
+</ul>
+
+<h2 id="rubyc-2019">Розыгрыш билета на RubyC 2019</h2>
+
+<ul>
+  <li><a href="https://take.ms/ZZXCq">Результат на видео</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 02 Sep 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/09/02/podcast-07-35.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/09/02/podcast-07-35.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0735.mp3" length="49510838" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0735.mp3" fileSize="49510838" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6.4 Released, Ruby’s pipeline operator ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6.4 Released, Ruby’s pipeline operator reverted, Upcoming Features in Shrine 3.0 и DNS rebinding attacks protection in Rails 6
+
+  
+How to store large JSON in PostgreSQL with Rails Attributes API, Push Notifications with ActionCable и How to use Multiple Databases in Rails 6.0
+
+
+
+Web
+
+
+  
+Npm bans terminal ads, Optional chaining и How Web Content Can Affect Power Usage
+
+  
+WebGL Fluid Simulation и Lotion - a monospace typeface for programming
+
+
+
+Розыгрыш билета на RubyC 2019
+
+
+  Результат на видео
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0735.png"/>
+  <itunes:duration>00:41:14</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>34 выпуск 07 сезона. Jekyll 4.0.0, Hyper 3, Rest-client gem compromised, CSS Can Do This, NodeGUI, Chart.xkcd и прочее</title>
   <description>
@@ -3403,108 +3505,6 @@ The fastest way to pinpoint frustrating user experiences, 6 JavaScript User Auth
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0649.png"/>
   <itunes:duration>00:36:48</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>48 выпуск 06 сезона. Announcing Ruby Support for AWS Lambda, TypeScript 3.2, Sneaker Generator, Progress-estimator и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://aws.amazon.com/blogs/compute/announcing-ruby-support-for-aws-lambda/">Announcing Ruby Support for AWS Lambda</a>, <a href="https://blog.honeybadger.io/using-ruby-on-aws-lamba/">Using Ruby on AWS Lamba</a> и <a href="https://blog.phusion.nl/2018/11/30/passenger-6-0-generic-language-support/">Hello World! Meet: Passenger 6 / Generic Language Support</a></li>
-  <li><a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-graphs-caa5892d50b1">Mastering data structures in Ruby — Graphs</a>, <a href="https://blog.weareredlight.com/using-scenic-and-sql-views-to-aggregate-data-72861b75a0fd">Using Scenic and SQL views to aggregate data</a>, <a href="https://medium.com/@rajagopals/scaling-sidekiq-in-production-ca4d3d0002db">Scaling Sidekiq in production</a> и <a href="https://about.gitlab.com/2018/10/29/why-we-use-rails-to-build-gitlab/">Why we use Ruby on Rails to build GitLab</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/11/29/announcing-typescript-3-2/">Announcing TypeScript 3.2</a>, <a href="https://schneid.io/blog/event-stream-vulnerability-explained/">event-stream vulnerability explained</a> и <a href="https://medium.freecodecamp.org/pragmatic-rules-of-web-accessibility-that-will-stick-to-your-mind-9d3eb85a1a28">Pragmatic rules of web accessibility that will stick to your mind</a></li>
-  <li><a href="https://blog.bitsrc.io/comparing-http-request-libraries-for-2019-7bedb1089c83">Comparing JavaScript HTTP Requests Libraries for 2019</a>, <a href="https://98mprice.github.io/sneaker-generator/">Sneaker Generator</a> и <a href="https://github.com/bvaughn/progress-estimator">Progress-estimator - logs a progress bar and estimation for how long a Promise will take to complete</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #25</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://aws.amazon.com/blogs/compute/announcing-ruby-support-for-aws-lambda/">Announcing Ruby Support for AWS Lambda</a>, <a href="https://blog.honeybadger.io/using-ruby-on-aws-lamba/">Using Ruby on AWS Lamba</a> и <a href="https://blog.phusion.nl/2018/11/30/passenger-6-0-generic-language-support/">Hello World! Meet: Passenger 6 / Generic Language Support</a></li>
-  <li><a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-graphs-caa5892d50b1">Mastering data structures in Ruby — Graphs</a>, <a href="https://blog.weareredlight.com/using-scenic-and-sql-views-to-aggregate-data-72861b75a0fd">Using Scenic and SQL views to aggregate data</a>, <a href="https://medium.com/@rajagopals/scaling-sidekiq-in-production-ca4d3d0002db">Scaling Sidekiq in production</a> и <a href="https://about.gitlab.com/2018/10/29/why-we-use-rails-to-build-gitlab/">Why we use Ruby on Rails to build GitLab</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.msdn.microsoft.com/typescript/2018/11/29/announcing-typescript-3-2/">Announcing TypeScript 3.2</a>, <a href="https://schneid.io/blog/event-stream-vulnerability-explained/">event-stream vulnerability explained</a> и <a href="https://medium.freecodecamp.org/pragmatic-rules-of-web-accessibility-that-will-stick-to-your-mind-9d3eb85a1a28">Pragmatic rules of web accessibility that will stick to your mind</a></li>
-  <li><a href="https://blog.bitsrc.io/comparing-http-request-libraries-for-2019-7bedb1089c83">Comparing JavaScript HTTP Requests Libraries for 2019</a>, <a href="https://98mprice.github.io/sneaker-generator/">Sneaker Generator</a> и <a href="https://github.com/bvaughn/progress-estimator">Progress-estimator - logs a progress bar and estimation for how long a Promise will take to complete</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">Ruby Meditation #25</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 03 Dec 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/12/03/podcast-06-48.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/12/03/podcast-06-48.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0648.mp3" length="30021436" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0648.mp3" fileSize="30021436" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Announcing Ruby Support for AWS Lambda, Using ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Announcing Ruby Support for AWS Lambda, Using Ruby on AWS Lamba и Hello World! Meet: Passenger 6 / Generic Language Support
-
-  
-Mastering data structures in Ruby — Graphs, Using Scenic and SQL views to aggregate data, Scaling Sidekiq in production и Why we use Ruby on Rails to build GitLab
-
-
-
-JavaScript
-
-
-  
-Announcing TypeScript 3.2, event-stream vulnerability explained и Pragmatic rules of web accessibility that will stick to your mind
-
-  
-Comparing JavaScript HTTP Requests Libraries for 2019, Sneaker Generator и Progress-estimator - logs a progress bar and estimation for how long a Promise will take to complete
-
-
-
-Conferences
-
-
-  Ruby Meditation #25
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0648.png"/>
-  <itunes:duration>00:31:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
