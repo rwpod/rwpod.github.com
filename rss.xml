@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 02 Sep 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 02 Sep 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 09 Sep 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>36 выпуск 07 сезона. Sidekiq 6.0, TypeScript 3.6, String corruption in 2.6.4, Ferrum, Electron Fiddle, Trumbowyg и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://bugs.ruby-lang.org/issues/16136">String corruption in 2.6.4</a>, <a href="https://www.mikeperham.com/2019/09/03/welcome-to-sidekiq-6.0/">Welcome to Sidekiq 6.0</a>, <a href="https://blog.saeloun.com/2019/09/02/ruby-2-7-proc-without-block-warning.html">Ruby 2.7 adds warning for Proc.new and proc without block and error for lambda without block</a> и <a href="https://blog.bigbinary.com/2019/09/03/rails-6-adds-activerecord-base-filter_attributes.html">Rails 6 adds filter_attributes on ActiveRecord::Base</a></li>
+  <li><a href="https://medium.com/cedarcode/ruby-pattern-matching-1e84cab3b44a">Ruby Pattern Matching</a> и <a href="https://github.com/route/ferrum">Ferrum - fearless Ruby Chrome driver</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-6/">Announcing TypeScript 3.6</a> и <a href="https://blog.feathersjs.com/introducing-feathers-4-a-framework-for-real-time-apps-and-rest-apis-afff3819055b">Introducing Feathers 4: A framework for real-time apps and REST APIs</a></li>
+  <li><a href="https://electronjs.org/fiddle">Electron Fiddle</a>, <a href="https://apexcharts.com/">Apexcharts.js - Modern &amp; Interactive Open-source Charts</a>, <a href="https://alex-d.github.io/Trumbowyg/">Trumbowyg - a lightweight WYSIWYG editor</a> и <a href="https://typeof.net/Iosevka/">Iosevka - a slender monospace sans-serif and slab-serif typeface</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://bugs.ruby-lang.org/issues/16136">String corruption in 2.6.4</a>, <a href="https://www.mikeperham.com/2019/09/03/welcome-to-sidekiq-6.0/">Welcome to Sidekiq 6.0</a>, <a href="https://blog.saeloun.com/2019/09/02/ruby-2-7-proc-without-block-warning.html">Ruby 2.7 adds warning for Proc.new and proc without block and error for lambda without block</a> и <a href="https://blog.bigbinary.com/2019/09/03/rails-6-adds-activerecord-base-filter_attributes.html">Rails 6 adds filter_attributes on ActiveRecord::Base</a></li>
+  <li><a href="https://medium.com/cedarcode/ruby-pattern-matching-1e84cab3b44a">Ruby Pattern Matching</a> и <a href="https://github.com/route/ferrum">Ferrum - fearless Ruby Chrome driver</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-6/">Announcing TypeScript 3.6</a> и <a href="https://blog.feathersjs.com/introducing-feathers-4-a-framework-for-real-time-apps-and-rest-apis-afff3819055b">Introducing Feathers 4: A framework for real-time apps and REST APIs</a></li>
+  <li><a href="https://electronjs.org/fiddle">Electron Fiddle</a>, <a href="https://apexcharts.com/">Apexcharts.js - Modern &amp; Interactive Open-source Charts</a>, <a href="https://alex-d.github.io/Trumbowyg/">Trumbowyg - a lightweight WYSIWYG editor</a> и <a href="https://typeof.net/Iosevka/">Iosevka - a slender monospace sans-serif and slab-serif typeface</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 09 Sep 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/09/09/podcast-07-36.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/09/09/podcast-07-36.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0736.mp3" length="33614424" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0736.mp3" fileSize="33614424" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  String corruption in 2.6.4, Welcome to Sidekiq...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+String corruption in 2.6.4, Welcome to Sidekiq 6.0, Ruby 2.7 adds warning for Proc.new and proc without block and error for lambda without block и Rails 6 adds filter_attributes on ActiveRecord::Base
+
+  
+Ruby Pattern Matching и Ferrum - fearless Ruby Chrome driver
+
+
+
+Web
+
+
+  
+Announcing TypeScript 3.6 и Introducing Feathers 4: A framework for real-time apps and REST APIs
+
+  
+Electron Fiddle, Apexcharts.js - Modern &amp; Interactive Open-source Charts, Trumbowyg - a lightweight WYSIWYG editor и Iosevka - a slender monospace sans-serif and slab-serif typeface
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0736.png"/>
+  <itunes:duration>00:27:59</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>35 выпуск 07 сезона. Ruby 2.6.4, Npm bans terminal ads, Optional chaining, WebGL Fluid Simulation, Lotion и прочее</title>
   <description>
@@ -3421,90 +3505,6 @@ GraphQL code generator и Matchit - quickly parse &amp; match URLs
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0650.png"/>
   <itunes:duration>00:27:43</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>49 выпуск 06 сезона. Ruby 2.6.0-rc1, Truffleruby 1.0 RC10, Microsoft is building its own Chrome browser to replace Edge, Sharp, ForgJs и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2018/12/06/ruby-2-6-0-rc1-released/">Ruby 2.6.0-rc1 Released</a>, <a href="https://github.com/oracle/truffleruby/blob/master/CHANGELOG.md#10-rc-10">Truffleruby 1.0 RC10</a> и <a href="https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop">Big on Heroku: Scaling Fountain without losing a drop</a></li>
-  <li><a href="https://blog.bigbinary.com/2018/12/05/passing-current-user-by-default-in-sidekiq.html">Passing current_user by default in Sidekiq</a>, <a href="https://medium.com/@rajagopals/activerecord-on-mysql-iterating-over-large-tables-with-conditions-453bd8761c8b">ActiveRecord on MySQL— Iterating over large tables with conditions</a> и <a href="https://blog.kiprosh.com/how-to-store-emoji-characters-with-ruby-on-rails-and-mysql/">How to store emoji characters with Ruby on Rails &amp; MySQL</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/">Microsoft Edge: Making the web better through more open source collaboration</a> и <a href="https://css-tricks.com/bridging-the-gap-between-css-and-javascript-css-modules-postcss-and-the-future-of-css/">Bridging the Gap Between CSS and JavaScript: CSS Modules, PostCSS and the Future of CSS</a></li>
-  <li><a href="https://uxdesign.cc/the-fastest-way-to-pinpoint-frustrating-user-experiences-1f8b95bc94aa">The fastest way to pinpoint frustrating user experiences</a>, <a href="https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458">6 JavaScript User Authentication Libraries for 2019</a>, <a href="https://github.com/lovell/sharp">Sharp - high performance Node.js image processing</a> и <a href="https://github.com/oussamahamdaoui/forgJs">ForgJs - a JavaScript lightweight object validator</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2018/12/06/ruby-2-6-0-rc1-released/">Ruby 2.6.0-rc1 Released</a>, <a href="https://github.com/oracle/truffleruby/blob/master/CHANGELOG.md#10-rc-10">Truffleruby 1.0 RC10</a> и <a href="https://evilmartians.com/chronicles/big-on-heroku-scaling-fountain-without-losing-a-drop">Big on Heroku: Scaling Fountain without losing a drop</a></li>
-  <li><a href="https://blog.bigbinary.com/2018/12/05/passing-current-user-by-default-in-sidekiq.html">Passing current_user by default in Sidekiq</a>, <a href="https://medium.com/@rajagopals/activerecord-on-mysql-iterating-over-large-tables-with-conditions-453bd8761c8b">ActiveRecord on MySQL— Iterating over large tables with conditions</a> и <a href="https://blog.kiprosh.com/how-to-store-emoji-characters-with-ruby-on-rails-and-mysql/">How to store emoji characters with Ruby on Rails &amp; MySQL</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://blogs.windows.com/windowsexperience/2018/12/06/microsoft-edge-making-the-web-better-through-more-open-source-collaboration/">Microsoft Edge: Making the web better through more open source collaboration</a> и <a href="https://css-tricks.com/bridging-the-gap-between-css-and-javascript-css-modules-postcss-and-the-future-of-css/">Bridging the Gap Between CSS and JavaScript: CSS Modules, PostCSS and the Future of CSS</a></li>
-  <li><a href="https://uxdesign.cc/the-fastest-way-to-pinpoint-frustrating-user-experiences-1f8b95bc94aa">The fastest way to pinpoint frustrating user experiences</a>, <a href="https://blog.bitsrc.io/6-javascript-user-authentication-libraries-for-2019-6c7c45fbe458">6 JavaScript User Authentication Libraries for 2019</a>, <a href="https://github.com/lovell/sharp">Sharp - high performance Node.js image processing</a> и <a href="https://github.com/oussamahamdaoui/forgJs">ForgJs - a JavaScript lightweight object validator</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 10 Dec 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/12/10/podcast-06-49.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/12/10/podcast-06-49.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0649.mp3" length="35354132" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0649.mp3" fileSize="35354132" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6.0-rc1 Released, Truffleruby 1.0 RC10 ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6.0-rc1 Released, Truffleruby 1.0 RC10 и Big on Heroku: Scaling Fountain without losing a drop
-
-  
-Passing current_user by default in Sidekiq, ActiveRecord on MySQL— Iterating over large tables with conditions и How to store emoji characters with Ruby on Rails &amp; MySQL
-
-
-
-JavaScript
-
-
-  
-Microsoft Edge: Making the web better through more open source collaboration и Bridging the Gap Between CSS and JavaScript: CSS Modules, PostCSS and the Future of CSS
-
-  
-The fastest way to pinpoint frustrating user experiences, 6 JavaScript User Authentication Libraries for 2019, Sharp - high performance Node.js image processing и ForgJs - a JavaScript lightweight object validator
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0649.png"/>
-  <itunes:duration>00:36:48</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
