@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 09 Sep 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 09 Sep 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 16 Sep 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>37 выпуск 07 сезона. Running GitHub on Rails 6.0, A lighter V8, Rbnacl, Noticent, Spacekit, NanoSQL, React Suite и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/09/11/rails-6-marks-arrays-of-translations-as-trusted-safe-by-using-the-_html-suffix.html">Rails 6 marks arrays of translations as trusted safe by using the ‘_html’ suffix</a>, <a href="https://blog.saeloun.com/2019/09/11/rails-6-custom-serializers-for-activejob-arguments.html">Rails 6 - Custom Serializers for ActiveJob arguments</a>, <a href="https://blog.saeloun.com/2019/09/10/rails-6-adds-hash-deep_transform_values.html">Rails 6 adds Hash#deep_transform_values and Hash#deep_transform_values!</a>, <a href="https://blog.saeloun.com/2019/09/09/rails-6-disable-advisory-locks.html">Rails 6 adds support for disabling database advisory locks</a> и <a href="https://github.blog/2019-09-09-running-github-on-rails-6-0/">Running GitHub on Rails 6.0</a></li>
+  <li><a href="https://medium.com/@igkuz/managing-unicorn-puma-with-systemd-93e95f75d1ae">Managing Unicorn &amp; Puma web servers with systemd</a>, <a href="https://blog.cloud66.com/introducing-noticent-a-ruby-gem-for-notification-management/">Introducing Noticent. A Ruby Gem for Notification Management</a>, <a href="https://github.com/crypto-rb/rbnacl">Rbnacl - Ruby FFI binding to the Networking and Cryptography (NaCl) library</a> и <a href="https://www.vimfromscratch.com/articles/vim-for-ruby-and-rails-in-2019/">Vim for Ruby and Rails in 2019</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://v8.dev/blog/v8-lite">A lighter V8</a>, <a href="https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231">Contemporary Front-end Architectures</a>, <a href="https://css-tricks.com/logical-operations-with-css-variables/">Logical Operations with CSS Variables</a> и <a href="https://www.caniemail.com/news/2019-09-09-introducing-caniemail/">Introducing caniemail.com</a></li>
+  <li><a href="https://github.com/typpo/spacekit">Spacekit - a JavaScript library for creating interactive 3D space visualizations</a>, <a href="https://nanosql.io/">NanoSQL - universal database layer for the client, server &amp; mobile devices</a>, <a href="https://rsuitejs.com/en/">React Suite</a> и <a href="http://wicky.nillia.ms/headroom.js/">Headroom.js - hide your header until you need it</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/09/11/rails-6-marks-arrays-of-translations-as-trusted-safe-by-using-the-_html-suffix.html">Rails 6 marks arrays of translations as trusted safe by using the ‘_html’ suffix</a>, <a href="https://blog.saeloun.com/2019/09/11/rails-6-custom-serializers-for-activejob-arguments.html">Rails 6 - Custom Serializers for ActiveJob arguments</a>, <a href="https://blog.saeloun.com/2019/09/10/rails-6-adds-hash-deep_transform_values.html">Rails 6 adds Hash#deep_transform_values and Hash#deep_transform_values!</a>, <a href="https://blog.saeloun.com/2019/09/09/rails-6-disable-advisory-locks.html">Rails 6 adds support for disabling database advisory locks</a> и <a href="https://github.blog/2019-09-09-running-github-on-rails-6-0/">Running GitHub on Rails 6.0</a></li>
+  <li><a href="https://medium.com/@igkuz/managing-unicorn-puma-with-systemd-93e95f75d1ae">Managing Unicorn &amp; Puma web servers with systemd</a>, <a href="https://blog.cloud66.com/introducing-noticent-a-ruby-gem-for-notification-management/">Introducing Noticent. A Ruby Gem for Notification Management</a>, <a href="https://github.com/crypto-rb/rbnacl">Rbnacl - Ruby FFI binding to the Networking and Cryptography (NaCl) library</a> и <a href="https://www.vimfromscratch.com/articles/vim-for-ruby-and-rails-in-2019/">Vim for Ruby and Rails in 2019</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://v8.dev/blog/v8-lite">A lighter V8</a>, <a href="https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231">Contemporary Front-end Architectures</a>, <a href="https://css-tricks.com/logical-operations-with-css-variables/">Logical Operations with CSS Variables</a> и <a href="https://www.caniemail.com/news/2019-09-09-introducing-caniemail/">Introducing caniemail.com</a></li>
+  <li><a href="https://github.com/typpo/spacekit">Spacekit - a JavaScript library for creating interactive 3D space visualizations</a>, <a href="https://nanosql.io/">NanoSQL - universal database layer for the client, server &amp; mobile devices</a>, <a href="https://rsuitejs.com/en/">React Suite</a> и <a href="http://wicky.nillia.ms/headroom.js/">Headroom.js - hide your header until you need it</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 16 Sep 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/09/16/podcast-07-37.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/09/16/podcast-07-37.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0737.mp3" length="45845940" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0737.mp3" fileSize="45845940" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6 marks arrays of translations as truste...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 6 marks arrays of translations as trusted safe by using the ‘_html’ suffix, Rails 6 - Custom Serializers for ActiveJob arguments, Rails 6 adds Hash#deep_transform_values and Hash#deep_transform_values!, Rails 6 adds support for disabling database advisory locks и Running GitHub on Rails 6.0
+
+  
+Managing Unicorn &amp; Puma web servers with systemd, Introducing Noticent. A Ruby Gem for Notification Management, Rbnacl - Ruby FFI binding to the Networking and Cryptography (NaCl) library и Vim for Ruby and Rails in 2019
+
+
+
+Web
+
+
+  
+A lighter V8, Contemporary Front-end Architectures, Logical Operations with CSS Variables и Introducing caniemail.com
+
+  
+Spacekit - a JavaScript library for creating interactive 3D space visualizations, NanoSQL - universal database layer for the client, server &amp; mobile devices, React Suite и Headroom.js - hide your header until you need it
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0737.png"/>
+  <itunes:duration>00:38:11</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>36 выпуск 07 сезона. Sidekiq 6.0, TypeScript 3.6, String corruption in 2.6.4, Ferrum, Electron Fiddle, Trumbowyg и прочее</title>
   <description>
@@ -3411,100 +3495,6 @@ Why I no longer use D3.js, Building Open Source Google Analytics from Scratch и
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/06/0651.png"/>
   <itunes:duration>00:31:28</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>50 выпуск 06 сезона. Ruby 2.6.0-rc2, Mruby 2.0.0, Action Mailbox for Rails 6, GraphQL code generator, Matchit и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2018/12/15/ruby-2-6-0-rc2-released/">Ruby 2.6.0-rc2 Released</a>, <a href="https://mruby.org/releases/2018/12/11/mruby-2.0.0-released.html">Mruby 2.0.0</a>, <a href="https://weblog.rubyonrails.org/2018/12/13/introducing-action-mailbox-for-rails-6/">Introducing Action Mailbox for Rails 6</a> и <a href="https://about.gitlab.com/2018/12/11/introducing-gitlab-serverless/">Announcing GitLab Serverless</a></li>
-  <li><a href="https://dev.to/jalerson/building-aws-lambdas-for-real-world-using-ruby-and-serverless-framework-2p49">Building AWS Lambdas for Real World using Ruby and Serverless Framework</a>, <a href="https://medium.com/@pawelpacana/serverless-slack-bot-on-lambda-with-ruby-f43e199f8e35">Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</a> и <a href="https://www.cookieshq.co.uk/posts/how-to-build-a-serverless-twitter-bot-with-ruby-and-aws-lambda">How to build a serverless Twitter bot with Ruby and AWS Lambda</a></li>
-  <li><a href="https://blog.bigbinary.com/2018/12/11/rails-5-attributes-api.html">Rails 5 Active Record attributes API</a> и <a href="https://www.ruby-toolbox.com/blog/2018-12-14/project-health-indicators">Project Health Indicators</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d">A Recap of Frontend Development in 2018</a> и <a href="https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f">Our learnings from adopting GraphQL</a></li>
-  <li><a href="https://areknawo.com/lets-talk-js-documentation/">Let’s talk JS ⚡: documentation</a> и <a href="https://calendar.perfplanet.com/2018/performance-anti-patterns-base64-encoding/">Performance Anti-Patterns: Base64 Encoding</a></li>
-  <li><a href="https://graphql-code-generator.com/">GraphQL code generator</a> и <a href="https://github.com/lukeed/matchit">Matchit - quickly parse &amp; match URLs</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2018/12/15/ruby-2-6-0-rc2-released/">Ruby 2.6.0-rc2 Released</a>, <a href="https://mruby.org/releases/2018/12/11/mruby-2.0.0-released.html">Mruby 2.0.0</a>, <a href="https://weblog.rubyonrails.org/2018/12/13/introducing-action-mailbox-for-rails-6/">Introducing Action Mailbox for Rails 6</a> и <a href="https://about.gitlab.com/2018/12/11/introducing-gitlab-serverless/">Announcing GitLab Serverless</a></li>
-  <li><a href="https://dev.to/jalerson/building-aws-lambdas-for-real-world-using-ruby-and-serverless-framework-2p49">Building AWS Lambdas for Real World using Ruby and Serverless Framework</a>, <a href="https://medium.com/@pawelpacana/serverless-slack-bot-on-lambda-with-ruby-f43e199f8e35">Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it)</a> и <a href="https://www.cookieshq.co.uk/posts/how-to-build-a-serverless-twitter-bot-with-ruby-and-aws-lambda">How to build a serverless Twitter bot with Ruby and AWS Lambda</a></li>
-  <li><a href="https://blog.bigbinary.com/2018/12/11/rails-5-attributes-api.html">Rails 5 Active Record attributes API</a> и <a href="https://www.ruby-toolbox.com/blog/2018-12-14/project-health-indicators">Project Health Indicators</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://levelup.gitconnected.com/a-recap-of-frontend-development-in-2018-715724c9441d">A Recap of Frontend Development in 2018</a> и <a href="https://medium.com/netflix-techblog/our-learnings-from-adopting-graphql-f099de39ae5f">Our learnings from adopting GraphQL</a></li>
-  <li><a href="https://areknawo.com/lets-talk-js-documentation/">Let’s talk JS ⚡: documentation</a> и <a href="https://calendar.perfplanet.com/2018/performance-anti-patterns-base64-encoding/">Performance Anti-Patterns: Base64 Encoding</a></li>
-  <li><a href="https://graphql-code-generator.com/">GraphQL code generator</a> и <a href="https://github.com/lukeed/matchit">Matchit - quickly parse &amp; match URLs</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 17 Dec 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/12/17/podcast-06-50.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/12/17/podcast-06-50.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0650.mp3" length="26632978" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0650.mp3" fileSize="26632978" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6.0-rc2 Released, Mruby 2.0.0, Introduc...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6.0-rc2 Released, Mruby 2.0.0, Introducing Action Mailbox for Rails 6 и Announcing GitLab Serverless
-
-  
-Building AWS Lambdas for Real World using Ruby and Serverless Framework, Serverless Slack bot on Lambda with Ruby (and what’s the less pleasant part about it) и How to build a serverless Twitter bot with Ruby and AWS Lambda
-
-  
-Rails 5 Active Record attributes API и Project Health Indicators
-
-
-
-JavaScript
-
-
-  
-A Recap of Frontend Development in 2018 и Our learnings from adopting GraphQL
-
-  
-Let’s talk JS ⚡: documentation и Performance Anti-Patterns: Base64 Encoding
-
-  
-GraphQL code generator и Matchit - quickly parse &amp; match URLs
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0650.png"/>
-  <itunes:duration>00:27:43</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
