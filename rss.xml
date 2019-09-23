@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 16 Sep 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 16 Sep 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 23 Sep 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>38 выпуск 07 сезона. Storybook 5.2, Textmate 2.0, RubyGems.org and Chef Gem Ownership, TensorFlow, Vue Select и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/09/18/rails-6-adds-actiondispatch-request-session-dig.html">Rails 6 adds ActionDispatch::Request::Session#dig</a>, <a href="https://blog.rubygems.org/2019/09/20/chef-ownership.html">RubyGems.org and Chef Gem Ownership</a>, <a href="http://engineering.appfolio.com/appfolio-engineering/2019/9/13/benchmarking-fibers-threads-and-processes">Benchmarking Fibers, Threads and Processes</a> и <a href="http://blog.headius.com/2019/09/jruby-startup-time-exploration.html">Start It Up: Improving JRuby’s Startup Time</a></li>
+  <li><a href="https://github.com/ankane/tensorflow">TensorFlow - the end-to-end machine learning platform - for Ruby</a>, <a href="https://github.com/whomwah/rqrcode">RQRCode - a library for creating and rendering QR codes into various formats</a> и <a href="https://github.com/textmate/textmate/commit/54b232f6b1fa4257d512987248265acfd567cc13">Textmate 2.0</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/storybookjs/storybook-5-2-794958b9b111">Storybook 5.2</a>, <a href="https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/">Cheat sheet for moving from jQuery to vanilla JavaScript</a>, <a href="https://kentcdodds.com/blog/profile-a-react-app-for-performance">Profile a React App for Performance</a> и <a href="https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada">Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node</a></li>
+  <li><a href="https://sortablejs.github.io/Sortable/">SortableJS 1.10.0</a>, <a href="https://vue-select.org/">Vue Select</a> и <a href="https://github.com/HarryStevens/geometric">Geometric.js - a JavaScript library for doing geometry</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2019/09/18/rails-6-adds-actiondispatch-request-session-dig.html">Rails 6 adds ActionDispatch::Request::Session#dig</a>, <a href="https://blog.rubygems.org/2019/09/20/chef-ownership.html">RubyGems.org and Chef Gem Ownership</a>, <a href="http://engineering.appfolio.com/appfolio-engineering/2019/9/13/benchmarking-fibers-threads-and-processes">Benchmarking Fibers, Threads and Processes</a> и <a href="http://blog.headius.com/2019/09/jruby-startup-time-exploration.html">Start It Up: Improving JRuby’s Startup Time</a></li>
+  <li><a href="https://github.com/ankane/tensorflow">TensorFlow - the end-to-end machine learning platform - for Ruby</a>, <a href="https://github.com/whomwah/rqrcode">RQRCode - a library for creating and rendering QR codes into various formats</a> и <a href="https://github.com/textmate/textmate/commit/54b232f6b1fa4257d512987248265acfd567cc13">Textmate 2.0</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/storybookjs/storybook-5-2-794958b9b111">Storybook 5.2</a>, <a href="https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/">Cheat sheet for moving from jQuery to vanilla JavaScript</a>, <a href="https://kentcdodds.com/blog/profile-a-react-app-for-performance">Profile a React App for Performance</a> и <a href="https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada">Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node</a></li>
+  <li><a href="https://sortablejs.github.io/Sortable/">SortableJS 1.10.0</a>, <a href="https://vue-select.org/">Vue Select</a> и <a href="https://github.com/HarryStevens/geometric">Geometric.js - a JavaScript library for doing geometry</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 23 Sep 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/09/23/podcast-07-38.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/09/23/podcast-07-38.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0738.mp3" length="48753320" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0738.mp3" fileSize="48753320" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6 adds ActionDispatch::Request::Session#...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 6 adds ActionDispatch::Request::Session#dig, RubyGems.org and Chef Gem Ownership, Benchmarking Fibers, Threads and Processes и Start It Up: Improving JRuby’s Startup Time
+
+  
+TensorFlow - the end-to-end machine learning platform - for Ruby, RQRCode - a library for creating and rendering QR codes into various formats и Textmate 2.0
+
+
+
+Web
+
+
+  
+Storybook 5.2, Cheat sheet for moving from jQuery to vanilla JavaScript, Profile a React App for Performance и Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node
+
+  
+SortableJS 1.10.0, Vue Select и Geometric.js - a JavaScript library for doing geometry
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0738.png"/>
+  <itunes:duration>00:40:36</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>37 выпуск 07 сезона. Running GitHub on Rails 6.0, A lighter V8, Rbnacl, Noticent, Spacekit, NanoSQL, React Suite и прочее</title>
   <description>
@@ -3411,90 +3495,6 @@ Static Site Boilerplate, FBT - an internationalization framework, Readlint - lin
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0701.png"/>
   <itunes:duration>00:36:31</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>51 выпуск 06 сезона. RubyGems 3.0.0, Ruby 2.6 JIT, Electron 4.0.0, React v16.7, Neural Network Knows When Cat Wants To Go Outside и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.rubygems.org/2018/12/19/3.0.0-released.html">RubyGems 3.0.0 Released</a>, <a href="https://weblog.rubyonrails.org/2018/12/20/timeline-for-the-release-of-Rails-6-0/">Timeline for the release of Rails 6.0</a> и <a href="https://medium.com/@k0kubun/ruby-2-6-jit-progress-and-future-84e0a830ecbf">Ruby 2.6 JIT - Progress and Future</a></li>
-  <li><a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-recap-682a698b90d0">Mastering data structures in Ruby — Recap</a>, <a href="https://medium.com/rubyinside/disassembling-rails-template-rendering-2-a99214c6fde8">Disassembling Rails — Template Rendering (2)</a> и <a href="https://planetruby.github.io/calendar/2019.html">Ruby Conferences ‘n’ Camps in 2019 - What’s Upcoming?</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://electronjs.org/blog/electron-4-0">Electron 4.0.0</a>, <a href="https://reactjs.org/blog/2018/12/19/react-v-16-7.html">React v16.7: No, This Is Not The One With Hooks</a> и <a href="https://overreacted.io/why-do-hooks-rely-on-call-order/">Why Do React Hooks Rely on Call Order?</a></li>
-  <li><a href="https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a">Why I no longer use D3.js</a>, <a href="https://statsbot.co/blog/building-open-source-google-analytics-from-scratch/">Building Open Source Google Analytics from Scratch</a> и <a href="https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/">Neural Network Knows When Cat Wants To Go Outside</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.rubygems.org/2018/12/19/3.0.0-released.html">RubyGems 3.0.0 Released</a>, <a href="https://weblog.rubyonrails.org/2018/12/20/timeline-for-the-release-of-Rails-6-0/">Timeline for the release of Rails 6.0</a> и <a href="https://medium.com/@k0kubun/ruby-2-6-jit-progress-and-future-84e0a830ecbf">Ruby 2.6 JIT - Progress and Future</a></li>
-  <li><a href="https://medium.com/amiralles/mastering-data-structures-in-ruby-recap-682a698b90d0">Mastering data structures in Ruby — Recap</a>, <a href="https://medium.com/rubyinside/disassembling-rails-template-rendering-2-a99214c6fde8">Disassembling Rails — Template Rendering (2)</a> и <a href="https://planetruby.github.io/calendar/2019.html">Ruby Conferences ‘n’ Camps in 2019 - What’s Upcoming?</a></li>
-</ul>
-
-<h2 id="javascript">JavaScript</h2>
-
-<ul>
-  <li><a href="https://electronjs.org/blog/electron-4-0">Electron 4.0.0</a>, <a href="https://reactjs.org/blog/2018/12/19/react-v-16-7.html">React v16.7: No, This Is Not The One With Hooks</a> и <a href="https://overreacted.io/why-do-hooks-rely-on-call-order/">Why Do React Hooks Rely on Call Order?</a></li>
-  <li><a href="https://medium.com/@PepsRyuu/why-i-no-longer-use-d3-js-b8288f306c9a">Why I no longer use D3.js</a>, <a href="https://statsbot.co/blog/building-open-source-google-analytics-from-scratch/">Building Open Source Google Analytics from Scratch</a> и <a href="https://hackaday.com/2018/12/21/neural-network-knows-when-cat-wants-to-go-outside/">Neural Network Knows When Cat Wants To Go Outside</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 24 Dec 2018 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2018/12/24/podcast-06-51.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2018/12/24/podcast-06-51.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/06/0651.mp3" length="30235054" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/06/0651.mp3" fileSize="30235054" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  RubyGems 3.0.0 Released, Timeline for the rele...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-RubyGems 3.0.0 Released, Timeline for the release of Rails 6.0 и Ruby 2.6 JIT - Progress and Future
-
-  
-Mastering data structures in Ruby — Recap, Disassembling Rails — Template Rendering (2) и Ruby Conferences ‘n’ Camps in 2019 - What’s Upcoming?
-
-
-
-JavaScript
-
-
-  
-Electron 4.0.0, React v16.7: No, This Is Not The One With Hooks и Why Do React Hooks Rely on Call Order?
-
-  
-Why I no longer use D3.js, Building Open Source Google Analytics from Scratch и Neural Network Knows When Cat Wants To Go Outside
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/06/0651.png"/>
-  <itunes:duration>00:31:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
