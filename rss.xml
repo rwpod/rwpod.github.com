@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 23 Sep 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 23 Sep 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 14 Oct 2019 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 14 Oct 2019 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,258 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>41 выпуск 07 сезона. Spree 4.0, Sprockets 4.0.0, Sinuous, SAGE, PunyLinux, RoughViz.js, Ferrum, Rotary Dial и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2019/10/07/ruby-2-7-keyword-arguments-redesign.html">Ruby 2.7 deprecates automatic conversion from a hash to keyword arguments</a>, <a href="https://blog.saeloun.com/2019/10/10/rails-6-adds-support-for-multi-environment-credentials.html">Rails 6 adds support for multi environment credentials</a>, <a href="https://spreecommerce.org/spree-4-0-for-rails-6-released/">Spree 4.0 for Rails 6 released</a> и <a href="https://github.com/rails/sprockets/blob/master/UPGRADING.md#guide-to-upgrading-from-sprockets-3x-to-4x">Sprockets 4.0.0</a></li>
+  <li><a href="https://madabout.software/articles/sage-early-warning-system-for-design-mistakes/">SAGE: Early Warning System for Design Mistakes</a> и <a href="https://github.com/RyanScottLewis/punylinux">PunyLinux - Build automation for a very minimal Linux system</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://madewithvuejs.com/blog/vue-3-roundup">Vue 3 – A roundup of infos about the new version of Vue.js</a>, <a href="https://davidwalsh.name/pornhub-interview">Interview with a Pornhub Web Developer</a>, <a href="https://pawelgrzybek.com/til-the-power-of-json-stringify-replacer-parameter/">The power of JSON.stringify replacer parameter</a></li>
+  <li><a href="https://sinuous.netlify.com/">Sinuous - a small, blazing fast, reactive UI library</a>, <a href="https://github.com/jwilber/roughViz">RoughViz.js - a reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser</a>, <a href="https://github.com/adobe/ferrum">Ferrum - features from the Rust language in JavaScript</a> и <a href="https://github.com/victorqribeiro/dial">Rotary Dial for input numbers</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2019/10/07/ruby-2-7-keyword-arguments-redesign.html">Ruby 2.7 deprecates automatic conversion from a hash to keyword arguments</a>, <a href="https://blog.saeloun.com/2019/10/10/rails-6-adds-support-for-multi-environment-credentials.html">Rails 6 adds support for multi environment credentials</a>, <a href="https://spreecommerce.org/spree-4-0-for-rails-6-released/">Spree 4.0 for Rails 6 released</a> и <a href="https://github.com/rails/sprockets/blob/master/UPGRADING.md#guide-to-upgrading-from-sprockets-3x-to-4x">Sprockets 4.0.0</a></li>
+  <li><a href="https://madabout.software/articles/sage-early-warning-system-for-design-mistakes/">SAGE: Early Warning System for Design Mistakes</a> и <a href="https://github.com/RyanScottLewis/punylinux">PunyLinux - Build automation for a very minimal Linux system</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://madewithvuejs.com/blog/vue-3-roundup">Vue 3 – A roundup of infos about the new version of Vue.js</a>, <a href="https://davidwalsh.name/pornhub-interview">Interview with a Pornhub Web Developer</a>, <a href="https://pawelgrzybek.com/til-the-power-of-json-stringify-replacer-parameter/">The power of JSON.stringify replacer parameter</a></li>
+  <li><a href="https://sinuous.netlify.com/">Sinuous - a small, blazing fast, reactive UI library</a>, <a href="https://github.com/jwilber/roughViz">RoughViz.js - a reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser</a>, <a href="https://github.com/adobe/ferrum">Ferrum - features from the Rust language in JavaScript</a> и <a href="https://github.com/victorqribeiro/dial">Rotary Dial for input numbers</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 14 Oct 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/10/14/podcast-07-41.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/10/14/podcast-07-41.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0741.mp3" length="45535502" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0741.mp3" fileSize="45535502" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7 deprecates automatic conversion from ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.7 deprecates automatic conversion from a hash to keyword arguments, Rails 6 adds support for multi environment credentials, Spree 4.0 for Rails 6 released и Sprockets 4.0.0
+
+  
+SAGE: Early Warning System for Design Mistakes и PunyLinux - Build automation for a very minimal Linux system
+
+
+
+Web
+
+
+  
+Vue 3 – A roundup of infos about the new version of Vue.js, Interview with a Pornhub Web Developer, The power of JSON.stringify replacer parameter
+
+  
+Sinuous - a small, blazing fast, reactive UI library, RoughViz.js - a reusable JavaScript library for creating sketchy/hand-drawn styled charts in the browser, Ferrum - features from the Rust language in JavaScript и Rotary Dial for input numbers
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0741.png"/>
+  <itunes:duration>00:37:55</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>40 выпуск 07 сезона. Ruby 2.6.5, TensorFlow 2.0, Preact X, Zeitwerk in Rails 6, Carbon, SweetAlert2 и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/10/01/ruby-2-6-5-released/">Ruby 2.6.5 Released</a>, <a href="https://blog.saeloun.com/2019/10/03/ruby-2-7-adds-enumerator-lazy-eager.html">Ruby 2.7 adds Enumerator::Lazy#eager</a>, <a href="https://medium.com/cedarcode/understanding-zeitwerk-in-rails-6-f168a9f09a1f">Understanding Zeitwerk in Rails 6</a>, <a href="https://blog.bigbinary.com/2019/10/01/rails-6-adds-active-support-actionable-error.html">Rails 6 adds ActiveSupport::ActionableError</a> и <a href="https://blog.saeloun.com/2019/10/01/rails-6-1-adds-http-feature-policy.html">Rails 6.1 adds HTTP Feature Policy</a></li>
+  <li><a href="https://blog.kiprosh.com/implement-optimistic-locking-in-rails/">Optimistic vs. Pessimistic locking in Rails</a>, <a href="https://www.mskog.com/posts/visual-studio-code-plugins-for-ruby/">Visual Studio Code plugins for Ruby</a> и <a href="https://metaredux.com/posts/2019/10/04/rubocop-meets-minitest.html">RuboCop Meets Minitest</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/tensorflow/tensorflow-2-0-is-now-available-57d706c2a9ab">TensorFlow 2.0 is now available!</a>, <a href="https://github.com/preactjs/preact/releases/tag/10.0.0">Preact X</a>, <a href="https://technology.customink.com/blog/2019/10/05/building-a-cloudfront-cookie-dashboard-using-aws-lambda-at-edge-kinesis-and-quicksight/">Building a CloudFront Cookie Dashboard</a> и <a href="https://lihautan.com/creating-custom-javascript-syntax-with-babel/">Creating custom JavaScript syntax with Babel</a></li>
+  <li><a href="https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/">Don’t Use JavaScript Variables Without Knowing Temporal Dead Zone</a>, <a href="https://hankchizljaw.com/wrote/keeping-it-simple-with-css-that-scales/">Keeping it simple with CSS that scales</a>, <a href="https://carbon.now.sh/">Carbon - create and share beautiful images of your source code </a> и <a href="https://sweetalert2.github.io/">SweetAlert2 - replacement for JavaScript’s popup boxes</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/10/01/ruby-2-6-5-released/">Ruby 2.6.5 Released</a>, <a href="https://blog.saeloun.com/2019/10/03/ruby-2-7-adds-enumerator-lazy-eager.html">Ruby 2.7 adds Enumerator::Lazy#eager</a>, <a href="https://medium.com/cedarcode/understanding-zeitwerk-in-rails-6-f168a9f09a1f">Understanding Zeitwerk in Rails 6</a>, <a href="https://blog.bigbinary.com/2019/10/01/rails-6-adds-active-support-actionable-error.html">Rails 6 adds ActiveSupport::ActionableError</a> и <a href="https://blog.saeloun.com/2019/10/01/rails-6-1-adds-http-feature-policy.html">Rails 6.1 adds HTTP Feature Policy</a></li>
+  <li><a href="https://blog.kiprosh.com/implement-optimistic-locking-in-rails/">Optimistic vs. Pessimistic locking in Rails</a>, <a href="https://www.mskog.com/posts/visual-studio-code-plugins-for-ruby/">Visual Studio Code plugins for Ruby</a> и <a href="https://metaredux.com/posts/2019/10/04/rubocop-meets-minitest.html">RuboCop Meets Minitest</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/tensorflow/tensorflow-2-0-is-now-available-57d706c2a9ab">TensorFlow 2.0 is now available!</a>, <a href="https://github.com/preactjs/preact/releases/tag/10.0.0">Preact X</a>, <a href="https://technology.customink.com/blog/2019/10/05/building-a-cloudfront-cookie-dashboard-using-aws-lambda-at-edge-kinesis-and-quicksight/">Building a CloudFront Cookie Dashboard</a> и <a href="https://lihautan.com/creating-custom-javascript-syntax-with-babel/">Creating custom JavaScript syntax with Babel</a></li>
+  <li><a href="https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/">Don’t Use JavaScript Variables Without Knowing Temporal Dead Zone</a>, <a href="https://hankchizljaw.com/wrote/keeping-it-simple-with-css-that-scales/">Keeping it simple with CSS that scales</a>, <a href="https://carbon.now.sh/">Carbon - create and share beautiful images of your source code </a> и <a href="https://sweetalert2.github.io/">SweetAlert2 - replacement for JavaScript’s popup boxes</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 07 Oct 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/10/07/podcast-07-40.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/10/07/podcast-07-40.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0740.mp3" length="55046594" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0740.mp3" fileSize="55046594" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.6.5 Released, Ruby 2.7 adds Enumerator:...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.6.5 Released, Ruby 2.7 adds Enumerator::Lazy#eager, Understanding Zeitwerk in Rails 6, Rails 6 adds ActiveSupport::ActionableError и Rails 6.1 adds HTTP Feature Policy
+
+  
+Optimistic vs. Pessimistic locking in Rails, Visual Studio Code plugins for Ruby и RuboCop Meets Minitest
+
+
+
+Web
+
+
+  
+TensorFlow 2.0 is now available!, Preact X, Building a CloudFront Cookie Dashboard и Creating custom JavaScript syntax with Babel
+
+  
+Don’t Use JavaScript Variables Without Knowing Temporal Dead Zone, Keeping it simple with CSS that scales, Carbon - create and share beautiful images of your source code  и SweetAlert2 - replacement for JavaScript’s popup boxes
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0740.png"/>
+  <itunes:duration>00:45:51</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
+<item>
+  <title>39 выпуск 07 сезона. New Ruby 2.7 IRB, Puma 4.2.0, V8 v7.8, Node v12.11.0, GPU.js 2.0, React-Toastify 5.4.0 и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2019/09/23/new-irb-features.html">What’s new in Interactive Ruby Shell (IRB) with Ruby 2.7</a>, <a href="https://blog.saeloun.com/2019/09/24/ruby-2-7-integer-with-range.html">Ruby 2.7 adds Integer#[] to support range values</a>, <a href="https://blog.bigbinary.com/2019/09/24/rails-6-adds-add_foreign_key-and-remove_foreign_key-for-sqlite3.html">Rails 6 adds add_foreign_key and remove_foreign_key for SQLite3</a>, <a href="https://github.com/puma/puma/blob/master/History.md#420--2019-09-23">Puma 4.2.0</a> и <a href="https://medium.com/@liroy/geared-pagination-in-rails-behind-the-scenes-61d9e227540e">Behind-the-scenes of ‘Geared Pagination’ in Rails</a></li>
+  <li><a href="https://lipanski.github.io/posts/dockerfile-ruby-best-practices">Best practices when writing a Dockerfile for a Ruby application</a>, <a href="https://github.com/jeremyevans/erubi">Erubi - a ERB template engine for ruby</a> и <a href="https://www.youtube.com/watch?v=Dtn9Uudw4Mo">The Journey to One Million by Samuel Williams (video)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://v8.dev/blog/v8-release-78">V8 release v7.8</a>, <a href="https://nodejs.org/en/blog/release/v12.11.0/">Node v12.11.0</a>, <a href="https://phabricator.wikimedia.org/phame/live/7/post/175/wikipedia_s_javascript_initialisation_on_a_budget/">Wikipedia’s JavaScript initialisation on a budget</a> и <a href="https://www.swyx.io/writing/js-tooling/">Why JavaScript Tooling Sucks</a></li>
+  <li><a href="https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity">15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity</a>, <a href="https://gpu.rocks/">GPU.js 2.0</a>, <a href="https://github.com/oframe/ogl">OGL - a small, effective WebGL framework</a>, <a href="https://repeater.js.org/">Repeater.js - a missing constructor for creating safe async iterators</a>, <a href="https://thisrobot.life/">Robot - fast 1kB functional library for creating Finite State Machines</a> и <a href="https://github.com/fkhadra/react-toastify">React-Toastify 5.4.0</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2019/09/23/new-irb-features.html">What’s new in Interactive Ruby Shell (IRB) with Ruby 2.7</a>, <a href="https://blog.saeloun.com/2019/09/24/ruby-2-7-integer-with-range.html">Ruby 2.7 adds Integer#[] to support range values</a>, <a href="https://blog.bigbinary.com/2019/09/24/rails-6-adds-add_foreign_key-and-remove_foreign_key-for-sqlite3.html">Rails 6 adds add_foreign_key and remove_foreign_key for SQLite3</a>, <a href="https://github.com/puma/puma/blob/master/History.md#420--2019-09-23">Puma 4.2.0</a> и <a href="https://medium.com/@liroy/geared-pagination-in-rails-behind-the-scenes-61d9e227540e">Behind-the-scenes of ‘Geared Pagination’ in Rails</a></li>
+  <li><a href="https://lipanski.github.io/posts/dockerfile-ruby-best-practices">Best practices when writing a Dockerfile for a Ruby application</a>, <a href="https://github.com/jeremyevans/erubi">Erubi - a ERB template engine for ruby</a> и <a href="https://www.youtube.com/watch?v=Dtn9Uudw4Mo">The Journey to One Million by Samuel Williams (video)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://v8.dev/blog/v8-release-78">V8 release v7.8</a>, <a href="https://nodejs.org/en/blog/release/v12.11.0/">Node v12.11.0</a>, <a href="https://phabricator.wikimedia.org/phame/live/7/post/175/wikipedia_s_javascript_initialisation_on_a_budget/">Wikipedia’s JavaScript initialisation on a budget</a> и <a href="https://www.swyx.io/writing/js-tooling/">Why JavaScript Tooling Sucks</a></li>
+  <li><a href="https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity">15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity</a>, <a href="https://gpu.rocks/">GPU.js 2.0</a>, <a href="https://github.com/oframe/ogl">OGL - a small, effective WebGL framework</a>, <a href="https://repeater.js.org/">Repeater.js - a missing constructor for creating safe async iterators</a>, <a href="https://thisrobot.life/">Robot - fast 1kB functional library for creating Finite State Machines</a> и <a href="https://github.com/fkhadra/react-toastify">React-Toastify 5.4.0</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Sun, 29 Sep 2019 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2019/09/29/podcast-07-39.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/09/29/podcast-07-39.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0739.mp3" length="116360232" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0739.mp3" fileSize="116360232" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  What’s new in Interactive Ruby Shell (IRB) wit...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+What’s new in Interactive Ruby Shell (IRB) with Ruby 2.7, Ruby 2.7 adds Integer#[] to support range values, Rails 6 adds add_foreign_key and remove_foreign_key for SQLite3, Puma 4.2.0 и Behind-the-scenes of ‘Geared Pagination’ in Rails
+
+  
+Best practices when writing a Dockerfile for a Ruby application, Erubi - a ERB template engine for ruby и The Journey to One Million by Samuel Williams (video)
+
+
+
+Web
+
+
+  
+V8 release v7.8, Node v12.11.0, Wikipedia’s JavaScript initialisation on a budget и Why JavaScript Tooling Sucks
+
+  
+15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity, GPU.js 2.0, OGL - a small, effective WebGL framework, Repeater.js - a missing constructor for creating safe async iterators, Robot - fast 1kB functional library for creating Finite State Machines и React-Toastify 5.4.0
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0739.png"/>
+  <itunes:duration>01:36:57</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>38 выпуск 07 сезона. Storybook 5.2, Textmate 2.0, RubyGems.org and Chef Gem Ownership, TensorFlow, Vue Select и прочее</title>
   <description>
@@ -3244,257 +3496,6 @@ How to Handle Monetary Values in JavaScript, Hotkey Behavior - trigger a action 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0704.png"/>
   <itunes:duration>00:41:29</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>03 выпуск 07 сезона. Kramdown 2.0.0, Dynamic ActiveRecord columns, Amplify, Shiny, NES-style CSS Framework и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://kramdown.gettalong.org/news.html">Kramdown 2.0.0 released</a>, <a href="https://blog.driftingruby.com/ruby-on-rails-6-0-beta-1-deprecations/">Ruby on Rails 6.0 Beta 1 Deprecations</a> и <a href="https://dev.to/kojix2/easy-machine-learning-with-ruby-using-svmkit-4n86">Easy machine learning with Ruby using SVMKit</a></li>
-  <li><a href="https://engineering.culturehq.com/posts/2019-01-18-dynamic-activerecord-columns">Dynamic ActiveRecord columns</a>, <a href="https://scottw.com/using-postgresql-perform-tasks-user-local-time-zone">Using Postgresql To Perform Tasks In A User’s Local Time Zone</a> и <a href="https://gorails.com/episodes/server-administration-with-cockpit">Server Administration with Cockpit (video)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/">Why I’ve stopped exporting defaults from my JavaScript modules</a> и <a href="https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d">Handling Time Zone in JavaScript</a></li>
-  <li><a href="https://aws-amplify.github.io/">Amplify - category-based client framework for building scalable mobile and web apps</a>, <a href="https://github.com/rikschennink/shiny">Shiny reflections for mobile websites</a> и <a href="https://nostalgic-css.github.io/NES.css/">NES-style CSS Framework</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://kramdown.gettalong.org/news.html">Kramdown 2.0.0 released</a>, <a href="https://blog.driftingruby.com/ruby-on-rails-6-0-beta-1-deprecations/">Ruby on Rails 6.0 Beta 1 Deprecations</a> и <a href="https://dev.to/kojix2/easy-machine-learning-with-ruby-using-svmkit-4n86">Easy machine learning with Ruby using SVMKit</a></li>
-  <li><a href="https://engineering.culturehq.com/posts/2019-01-18-dynamic-activerecord-columns">Dynamic ActiveRecord columns</a>, <a href="https://scottw.com/using-postgresql-perform-tasks-user-local-time-zone">Using Postgresql To Perform Tasks In A User’s Local Time Zone</a> и <a href="https://gorails.com/episodes/server-administration-with-cockpit">Server Administration with Cockpit (video)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://humanwhocodes.com/blog/2019/01/stop-using-default-exports-javascript-module/">Why I’ve stopped exporting defaults from my JavaScript modules</a> и <a href="https://medium.com/@toastui/handling-time-zone-in-javascript-547e67aa842d">Handling Time Zone in JavaScript</a></li>
-  <li><a href="https://aws-amplify.github.io/">Amplify - category-based client framework for building scalable mobile and web apps</a>, <a href="https://github.com/rikschennink/shiny">Shiny reflections for mobile websites</a> и <a href="https://nostalgic-css.github.io/NES.css/">NES-style CSS Framework</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 21 Jan 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/01/21/podcast-07-03.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/01/21/podcast-07-03.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0703.mp3" length="30397840" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0703.mp3" fileSize="30397840" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Kramdown 2.0.0 released, Ruby on Rails 6.0 Bet...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Kramdown 2.0.0 released, Ruby on Rails 6.0 Beta 1 Deprecations и Easy machine learning with Ruby using SVMKit
-
-  
-Dynamic ActiveRecord columns, Using Postgresql To Perform Tasks In A User’s Local Time Zone и Server Administration with Cockpit (video)
-
-
-
-Web
-
-
-  
-Why I’ve stopped exporting defaults from my JavaScript modules и Handling Time Zone in JavaScript
-
-  
-Amplify - category-based client framework for building scalable mobile and web apps, Shiny reflections for mobile websites и NES-style CSS Framework
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0703.png"/>
-  <itunes:duration>00:31:38</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>02 выпуск 07 сезона. Exploring a critical Net::Protocol issue in Ruby 2.6.0p0, Rubyoshka, Anime.js, React Kawaii и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://mensfeld.pl/2019/01/exploring-a-critical-netprotocol-issue-in-ruby-2-6-0p0-and-how-it-can-lead-to-a-security-problem/">Exploring a critical Net::Protocol issue in Ruby 2.6.0p0 and how it can lead to a security problem</a>, <a href="https://frontdeveloper.pl/2019/01/common-mistakes-that-cause-ruby-on-rails-apps-outages/">Common mistakes that cause Ruby on Rails apps outages</a> и <a href="https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html">3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present</a></li>
-  <li><a href="https://aonemd.github.io/blog/extracting-text-from-images-using-ruby">Extracting Text From Images Using Ruby</a>, <a href="https://www.driftingruby.com/episodes/using-action-text-in-a-rails-5-2-application">Using Action Text in a Rails 5.2 Application</a>, <a href="https://github.com/digital-fabric/rubyoshka">Rubyoshka - Composable HTML templating for Ruby</a> и <a href="https://hackernoon.com/recommended-books-blogs-for-software-engineers-8a4351abe804">25+ Recommended Blogs &amp; Books for Developers</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://blog.github.com/2019-01-07-new-year-new-github/">New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering</a>, <a href="https://aws.amazon.com/documentdb/">Amazon DocumentDB (with MongoDB compatibility)</a>, <a href="https://www.zdnet.com/article/google-chromes-built-in-ad-blocker-to-roll-out-worldwide-on-july-9/">Google Chrome’s built-in ad blocker to roll out worldwide on July 9</a> и <a href="https://www.javascriptjanuary.com/blog/defensive-javascript">Defensive JavaScript</a></li>
-  <li><a href="https://animejs.com/">Anime.js v3.0.0</a>, <a href="https://areknawo.com/your-webgl-aiders/">Your WebGL aiders</a>, <a href="https://www.fullstack.io/30-days-of-vue/">30 Days of Vue</a> и <a href="https://react-kawaii.now.sh/">React Kawaii - Cute React SVG Components</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://mensfeld.pl/2019/01/exploring-a-critical-netprotocol-issue-in-ruby-2-6-0p0-and-how-it-can-lead-to-a-security-problem/">Exploring a critical Net::Protocol issue in Ruby 2.6.0p0 and how it can lead to a security problem</a>, <a href="https://frontdeveloper.pl/2019/01/common-mistakes-that-cause-ruby-on-rails-apps-outages/">Common mistakes that cause Ruby on Rails apps outages</a> и <a href="https://www.speedshop.co/2019/01/10/three-activerecord-mistakes.html">3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present</a></li>
-  <li><a href="https://aonemd.github.io/blog/extracting-text-from-images-using-ruby">Extracting Text From Images Using Ruby</a>, <a href="https://www.driftingruby.com/episodes/using-action-text-in-a-rails-5-2-application">Using Action Text in a Rails 5.2 Application</a>, <a href="https://github.com/digital-fabric/rubyoshka">Rubyoshka - Composable HTML templating for Ruby</a> и <a href="https://hackernoon.com/recommended-books-blogs-for-software-engineers-8a4351abe804">25+ Recommended Blogs &amp; Books for Developers</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://blog.github.com/2019-01-07-new-year-new-github/">New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering</a>, <a href="https://aws.amazon.com/documentdb/">Amazon DocumentDB (with MongoDB compatibility)</a>, <a href="https://www.zdnet.com/article/google-chromes-built-in-ad-blocker-to-roll-out-worldwide-on-july-9/">Google Chrome’s built-in ad blocker to roll out worldwide on July 9</a> и <a href="https://www.javascriptjanuary.com/blog/defensive-javascript">Defensive JavaScript</a></li>
-  <li><a href="https://animejs.com/">Anime.js v3.0.0</a>, <a href="https://areknawo.com/your-webgl-aiders/">Your WebGL aiders</a>, <a href="https://www.fullstack.io/30-days-of-vue/">30 Days of Vue</a> и <a href="https://react-kawaii.now.sh/">React Kawaii - Cute React SVG Components</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 14 Jan 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/01/14/podcast-07-02.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/01/14/podcast-07-02.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0702.mp3" length="37740042" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0702.mp3" fileSize="37740042" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Exploring a critical Net::Protocol issue in Ru...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Exploring a critical Net::Protocol issue in Ruby 2.6.0p0 and how it can lead to a security problem, Common mistakes that cause Ruby on Rails apps outages и 3 ActiveRecord Mistakes That Slow Down Rails Apps: Count, Where and Present
-
-  
-Extracting Text From Images Using Ruby, Using Action Text in a Rails 5.2 Application, Rubyoshka - Composable HTML templating for Ruby и 25+ Recommended Blogs &amp; Books for Developers
-
-
-
-Web
-
-
-  
-New year, new GitHub: Announcing unlimited free private repos and unified Enterprise offering, Amazon DocumentDB (with MongoDB compatibility), Google Chrome’s built-in ad blocker to roll out worldwide on July 9 и Defensive JavaScript
-
-  
-Anime.js v3.0.0, Your WebGL aiders, 30 Days of Vue и React Kawaii - Cute React SVG Components
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0702.png"/>
-  <itunes:duration>00:39:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>01 выпуск 07 сезона. Ruby 2.6.0 Released, Bundler 2, TensorStream, How To Learn CSS, FBT, Readlint, Bandersnatch Life и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2018/12/25/ruby-2-6-0-released/">Ruby 2.6.0 Released</a>, <a href="https://rubyreferences.github.io/rubychanges/">Comprehensive Ruby 2.6 changelog</a>, <a href="https://bundler.io/blog/2019/01/04/an-update-on-the-bundler-2-release.html">An update on the Bundler 2 release</a> и <a href="https://pawelurbanek.com/active-admin-tips-optimizations">Active Admin Tips and Performance Optimizations for Rails Apps</a></li>
-  <li><a href="https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d">TensorStream: Bringing Machine Learning to Ruby</a>, <a href="http://bootstrap.me.uk/gems/2019/01/06/jongleur-etl.html">Parallelising ETL workflows with the Jongleur gem</a> и <a href="https://github.com/cryptocopycats/programming-cryptocollectibles">Programming Crypto Collectibles Step-by-Step Book / Guide</a> (<a href="https://www.youtube.com/watch?v=jGfvkjzLrNw">Видео про CryptoKitties</a>)</li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20">Top JavaScript Frameworks and Topics to Learn in 2019</a>, <a href="https://medium.com/@js_tut/simple-css-animation-tutorial-c4ad941a5d5c">Simple CSS Animation Tutorial</a> и <a href="https://www.smashingmagazine.com/2019/01/how-to-learn-css/">How To Learn CSS</a></li>
-  <li><a href="http://staticsiteboilerplate.com/">Static Site Boilerplate</a>, <a href="https://facebookincubator.github.io/fbt/">FBT - an internationalization framework</a>, <a href="https://github.com/Wildhoney/Readlint">Readlint - lint all of the code examples in your README documentation using shared configs</a>, <a href="https://github.com/jfet97/omniclone">Omniclone - an isomorphic and configurable javascript function for object deep cloning</a> и <a href="https://github.com/Ahmad-Magdy-Osman/Bandersnatch">Bandersnatch Life is an interactive website for the movie Black Mirror: Bandersnatch by Netflix</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2018/12/25/ruby-2-6-0-released/">Ruby 2.6.0 Released</a>, <a href="https://rubyreferences.github.io/rubychanges/">Comprehensive Ruby 2.6 changelog</a>, <a href="https://bundler.io/blog/2019/01/04/an-update-on-the-bundler-2-release.html">An update on the Bundler 2 release</a> и <a href="https://pawelurbanek.com/active-admin-tips-optimizations">Active Admin Tips and Performance Optimizations for Rails Apps</a></li>
-  <li><a href="https://medium.com/@joseph.dayo/tensorstream-bringing-machine-learning-to-ruby-114582060e3d">TensorStream: Bringing Machine Learning to Ruby</a>, <a href="http://bootstrap.me.uk/gems/2019/01/06/jongleur-etl.html">Parallelising ETL workflows with the Jongleur gem</a> и <a href="https://github.com/cryptocopycats/programming-cryptocollectibles">Programming Crypto Collectibles Step-by-Step Book / Guide</a> (<a href="https://www.youtube.com/watch?v=jGfvkjzLrNw">Видео про CryptoKitties</a>)</li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/javascript-scene/top-javascript-frameworks-and-topics-to-learn-in-2019-b4142f38df20">Top JavaScript Frameworks and Topics to Learn in 2019</a>, <a href="https://medium.com/@js_tut/simple-css-animation-tutorial-c4ad941a5d5c">Simple CSS Animation Tutorial</a> и <a href="https://www.smashingmagazine.com/2019/01/how-to-learn-css/">How To Learn CSS</a></li>
-  <li><a href="http://staticsiteboilerplate.com/">Static Site Boilerplate</a>, <a href="https://facebookincubator.github.io/fbt/">FBT - an internationalization framework</a>, <a href="https://github.com/Wildhoney/Readlint">Readlint - lint all of the code examples in your README documentation using shared configs</a>, <a href="https://github.com/jfet97/omniclone">Omniclone - an isomorphic and configurable javascript function for object deep cloning</a> и <a href="https://github.com/Ahmad-Magdy-Osman/Bandersnatch">Bandersnatch Life is an interactive website for the movie Black Mirror: Bandersnatch by Netflix</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 07 Jan 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/01/07/podcast-07-01.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/01/07/podcast-07-01.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0701.mp3" length="35090558" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0701.mp3" fileSize="35090558" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6.0 Released, Comprehensive Ruby 2.6 ch...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6.0 Released, Comprehensive Ruby 2.6 changelog, An update on the Bundler 2 release и Active Admin Tips and Performance Optimizations for Rails Apps
-
-  
-TensorStream: Bringing Machine Learning to Ruby, Parallelising ETL workflows with the Jongleur gem и Programming Crypto Collectibles Step-by-Step Book / Guide (Видео про CryptoKitties)
-
-
-Web
-
-
-  
-Top JavaScript Frameworks and Topics to Learn in 2019, Simple CSS Animation Tutorial и How To Learn CSS
-
-  
-Static Site Boilerplate, FBT - an internationalization framework, Readlint - lint all of the code examples in your README documentation using shared configs, Omniclone - an isomorphic and configurable javascript function for object deep cloning и Bandersnatch Life is an interactive website for the movie Black Mirror: Bandersnatch by Netflix
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0701.png"/>
-  <itunes:duration>00:36:31</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
