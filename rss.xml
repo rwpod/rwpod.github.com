@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 21 Oct 2019 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 28 Oct 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Oct 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>43 выпуск 07 сезона. Ruby 2.7.0-preview2, Node.js 12 LTS, Electron 7.0.0, Puppeteer 2.0.0, Peaks.js, Mermaid и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/10/22/ruby-2-7-0-preview2-released/">Ruby 2.7.0-preview2 Released</a>, <a href="https://blog.bigbinary.com/2019/10/22/rails-6-adds-actionmailer-email_address_with_name.html">Rails 6 adds ActionMailer#email_address_with_name</a>, <a href="https://blog.saeloun.com/2019/10/21/rails-6-activerecord-relation-pick-method.html">Rails 6 adds Active Record Relation#pick</a> и <a href="https://www.oop.wtf/dont-write-clever-code">Please Don’t Write “Clever” Code</a></li>
+  <li><a href="https://phili.pe/posts/loading-additional-ruby-gems-in-development/">Loading Additional Ruby Gems in Development</a>, <a href="https://piotrmurach.com/articles/streaming-large-zip-files-in-rails/">Streaming Large ZIP Files in Rails</a> и <a href="https://medium.com/@nikolalsvk/getting-started-with-svelte-and-rails-6-d8384c80ad6c">Getting Started with Svelte and Rails 6</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/@nodejs/node-js-12-to-lts-and-node-js-13-is-here-e28d6a4a2bd">Node.js 12 to LTS and Node.js 13 is here!</a>, <a href="https://electronjs.org/blog/electron-7-0">Electron 7.0.0</a>, <a href="https://pptr.dev/">Puppeteer 2.0.0</a> и <a href="https://dev.to/x-team/7-most-popular-node-js-frameworks-in-2019-58o0">7 Most Popular Node.js Frameworks in 2019</a></li>
+  <li><a href="https://dev.to/hexrcs/svelte-crash-course-with-pics-27cc">Svelte Crash Course (in 10 pics!)</a>, <a href="https://blog.bitsrc.io/writing-a-typing-game-with-melonjs-ef0dd42f37bf">Building a Typing Game with MelonJS</a>, <a href="https://medium.com/better-programming/peaks-js-interact-with-audio-waveforms-b7cb5bd3939a">Peaks.js — Interact With Audio Waveforms</a> и <a href="http://knsv.github.io/mermaid/#/">Mermaid - generation of diagram and flowchart from text in a similar manner as markdown</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/10/22/ruby-2-7-0-preview2-released/">Ruby 2.7.0-preview2 Released</a>, <a href="https://blog.bigbinary.com/2019/10/22/rails-6-adds-actionmailer-email_address_with_name.html">Rails 6 adds ActionMailer#email_address_with_name</a>, <a href="https://blog.saeloun.com/2019/10/21/rails-6-activerecord-relation-pick-method.html">Rails 6 adds Active Record Relation#pick</a> и <a href="https://www.oop.wtf/dont-write-clever-code">Please Don’t Write “Clever” Code</a></li>
+  <li><a href="https://phili.pe/posts/loading-additional-ruby-gems-in-development/">Loading Additional Ruby Gems in Development</a>, <a href="https://piotrmurach.com/articles/streaming-large-zip-files-in-rails/">Streaming Large ZIP Files in Rails</a> и <a href="https://medium.com/@nikolalsvk/getting-started-with-svelte-and-rails-6-d8384c80ad6c">Getting Started with Svelte and Rails 6</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/@nodejs/node-js-12-to-lts-and-node-js-13-is-here-e28d6a4a2bd">Node.js 12 to LTS and Node.js 13 is here!</a>, <a href="https://electronjs.org/blog/electron-7-0">Electron 7.0.0</a>, <a href="https://pptr.dev/">Puppeteer 2.0.0</a> и <a href="https://dev.to/x-team/7-most-popular-node-js-frameworks-in-2019-58o0">7 Most Popular Node.js Frameworks in 2019</a></li>
+  <li><a href="https://dev.to/hexrcs/svelte-crash-course-with-pics-27cc">Svelte Crash Course (in 10 pics!)</a>, <a href="https://blog.bitsrc.io/writing-a-typing-game-with-melonjs-ef0dd42f37bf">Building a Typing Game with MelonJS</a>, <a href="https://medium.com/better-programming/peaks-js-interact-with-audio-waveforms-b7cb5bd3939a">Peaks.js — Interact With Audio Waveforms</a> и <a href="http://knsv.github.io/mermaid/#/">Mermaid - generation of diagram and flowchart from text in a similar manner as markdown</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 28 Oct 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/10/28/podcast-07-43.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/10/28/podcast-07-43.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0743.mp3" length="45885402" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0743.mp3" fileSize="45885402" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7.0-preview2 Released, Rails 6 adds Act...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.7.0-preview2 Released, Rails 6 adds ActionMailer#email_address_with_name, Rails 6 adds Active Record Relation#pick и Please Don’t Write “Clever” Code
+
+  
+Loading Additional Ruby Gems in Development, Streaming Large ZIP Files in Rails и Getting Started with Svelte and Rails 6
+
+
+
+Web
+
+
+  
+Node.js 12 to LTS and Node.js 13 is here!, Electron 7.0.0, Puppeteer 2.0.0 и 7 Most Popular Node.js Frameworks in 2019
+
+  
+Svelte Crash Course (in 10 pics!), Building a Typing Game with MelonJS, Peaks.js — Interact With Audio Waveforms и Mermaid - generation of diagram and flowchart from text in a similar manner as markdown
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0743.png"/>
+  <itunes:duration>00:44:30</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>42 выпуск 07 сезона. Shrine 3.0, fun with each_with_object, Ionic React, TinaCMS, Zero, React-three-fiber game и прочее</title>
   <description>
@@ -3430,90 +3514,6 @@ Conferences
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0706.png"/>
   <itunes:duration>00:36:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>05 выпуск 07 сезона. Ruby 2.6.1, Hanami v2.0.0.alpha1, CSSans Pro, Neutralinojs, Notable, Finance.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2019/01/30/ruby-2-6-1-released/">Ruby 2.6.1 Released</a>, <a href="http://hanamirb.org/blog/2019/01/30/announcing-hanami-200alpha1.html">Announcing Hanami v2.0.0.alpha1</a> и <a href="https://dev.to/harri_etty/from-javascript-to-ruby-a-few-of-my-favourite-features-37mf">From JavaScript to Ruby: A few of my favourite features</a></li>
-  <li><a href="https://andycroll.com/ruby/replace-timecop-with-rails-time-helpers-in-rspec/">Replace Timecop With Rails’ Time Helpers in RSpec</a>, <a href="https://www.ombulabs.com/blog/best-practices/apis/api-best-practices.html">Often neglected API best practices</a>, <a href="http://nts.strzibny.name/rails-handles-large-number-of-nested-routes-better-than-sinatra/">Rails handles large number of nested routes better than Sinatra</a> и <a href="https://www.mutuallyhuman.com/blog/2018/12/18/slackbot-on-lambda-with-ruby/">Run a Ruby Slack Bot on AWS Lambda</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc">Google Play Store now open for Progressive Web Apps</a>, <a href="https://overreacted.io/making-setinterval-declarative-with-react-hooks/">Making setInterval Declarative with React Hooks</a> и <a href="https://dev.to/evilmartians/css-and-js-are-at-war-heres-how-to-stop-it-158a">CSS and JS Are at War, Here’s How to Stop It</a></li>
-  <li><a href="https://cssans.pro/">CSSans Pro - the Colourful, Sassy, CSS Font</a>, <a href="https://neutralino.js.org/">Neutralinojs - portable and lightweight cross platform application development framework</a>, <a href="https://github.com/fabiospampinato/notable">Notable - a markdown-based note-taking app that doesn’t suck</a> и <a href="http://financejs.org/">Finance.js makes it easy to incorporate common financial calculations into your application</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2019/01/30/ruby-2-6-1-released/">Ruby 2.6.1 Released</a>, <a href="http://hanamirb.org/blog/2019/01/30/announcing-hanami-200alpha1.html">Announcing Hanami v2.0.0.alpha1</a> и <a href="https://dev.to/harri_etty/from-javascript-to-ruby-a-few-of-my-favourite-features-37mf">From JavaScript to Ruby: A few of my favourite features</a></li>
-  <li><a href="https://andycroll.com/ruby/replace-timecop-with-rails-time-helpers-in-rspec/">Replace Timecop With Rails’ Time Helpers in RSpec</a>, <a href="https://www.ombulabs.com/blog/best-practices/apis/api-best-practices.html">Often neglected API best practices</a>, <a href="http://nts.strzibny.name/rails-handles-large-number-of-nested-routes-better-than-sinatra/">Rails handles large number of nested routes better than Sinatra</a> и <a href="https://www.mutuallyhuman.com/blog/2018/12/18/slackbot-on-lambda-with-ruby/">Run a Ruby Slack Bot on AWS Lambda</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/@firt/google-play-store-now-open-for-progressive-web-apps-ec6f3c6ff3cc">Google Play Store now open for Progressive Web Apps</a>, <a href="https://overreacted.io/making-setinterval-declarative-with-react-hooks/">Making setInterval Declarative with React Hooks</a> и <a href="https://dev.to/evilmartians/css-and-js-are-at-war-heres-how-to-stop-it-158a">CSS and JS Are at War, Here’s How to Stop It</a></li>
-  <li><a href="https://cssans.pro/">CSSans Pro - the Colourful, Sassy, CSS Font</a>, <a href="https://neutralino.js.org/">Neutralinojs - portable and lightweight cross platform application development framework</a>, <a href="https://github.com/fabiospampinato/notable">Notable - a markdown-based note-taking app that doesn’t suck</a> и <a href="http://financejs.org/">Finance.js makes it easy to incorporate common financial calculations into your application</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Sun, 03 Feb 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/02/03/podcast-07-05.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/02/03/podcast-07-05.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0705.mp3" length="33784426" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0705.mp3" fileSize="33784426" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6.1 Released, Announcing Hanami v2.0.0....</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6.1 Released, Announcing Hanami v2.0.0.alpha1 и From JavaScript to Ruby: A few of my favourite features
-
-  
-Replace Timecop With Rails’ Time Helpers in RSpec, Often neglected API best practices, Rails handles large number of nested routes better than Sinatra и Run a Ruby Slack Bot on AWS Lambda
-
-
-
-Web
-
-
-  
-Google Play Store now open for Progressive Web Apps, Making setInterval Declarative with React Hooks и CSS and JS Are at War, Here’s How to Stop It
-
-  
-CSSans Pro - the Colourful, Sassy, CSS Font, Neutralinojs - portable and lightweight cross platform application development framework, Notable - a markdown-based note-taking app that doesn’t suck и Finance.js makes it easy to incorporate common financial calculations into your application
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0705.png"/>
-  <itunes:duration>00:35:10</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
