@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 05 Nov 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Tue, 05 Nov 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 11 Nov 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>45 выпуск 07 сезона. Rails 6.0.1, TypeScript 3.7, ANTLR, Prism, Skunk, FFmpeg.js, Sharp, Tenko, Proton и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://weblog.rubyonrails.org/2019/11/5/Rails-6-0-1-released/">Rails 6.0.1 released</a>, <a href="https://www.schneems.com/2019/11/07/why-does-my-apps-memory-usage-grow-asymptotically-over-time/">Why does my App’s Memory Use Grow Over Time?</a>, <a href="https://mensfeld.pl/2019/11/the-hidden-cost-of-the-ruby-2-7-dot-colon-method-reference-usage/">The hidden cost of the Ruby 2.7 dot-colon method reference usage</a> и <a href="https://blog.heroku.com/static-typing-ruby-with-sorbet">Static Typing in Ruby with a Side of Sorbet</a></li>
+  <li><a href="https://github.com/prism-rb/prism">Prism - build frontend web apps with Ruby and WebAssembly</a>, <a href="https://www.fastruby.io/blog/code-quality/intruducing-skunk-stink-score-calculator.html">Introducing Skunk: Combine Code Quality and Coverage to Calculate a Stink Score</a>, <a href="https://github.com/matt-harvey/tabulo">Tabulo - a terminal table generator for Ruby</a> и <a href="https://www.driftingruby.com/episodes/plugging-in-anycable">Plugging in AnyCable (video)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-7/">Announcing TypeScript 3.7</a>, <a href="https://ayushgp.github.io/scaling-websockets-using-sharedworkers/">Scaling WebSocket Connections using Shared Workers</a> и <a href="https://rockset.com/blog/client-side-sql-query-parsing-with-antlr/">Client-Side SQL Query Parsing with ANTLR</a></li>
+  <li><a href="https://medium.com/@jeromewus/build-ffmpeg-webassembly-version-ffmpeg-js-part-5-ffmpeg-js-v0-3-pre-js-and-live-streaming-c1498939a74c">Build FFmpeg WebAssembly version (= ffmpeg.js): Part.5 ffmpeg.js v0.3 — pre-js and live streaming</a>, <a href="https://sharp.pixelplumbing.com/en/stable/">Sharp - a high performance Node.js image processing</a>, <a href="https://github.com/pvdz/tenko">Tenko - 100% spec compliant JavaScript parser written in JavaScript</a> и <a href="http://a-jie.github.io/Proton/">Proton - a Javascript particle animation engine</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://weblog.rubyonrails.org/2019/11/5/Rails-6-0-1-released/">Rails 6.0.1 released</a>, <a href="https://www.schneems.com/2019/11/07/why-does-my-apps-memory-usage-grow-asymptotically-over-time/">Why does my App’s Memory Use Grow Over Time?</a>, <a href="https://mensfeld.pl/2019/11/the-hidden-cost-of-the-ruby-2-7-dot-colon-method-reference-usage/">The hidden cost of the Ruby 2.7 dot-colon method reference usage</a> и <a href="https://blog.heroku.com/static-typing-ruby-with-sorbet">Static Typing in Ruby with a Side of Sorbet</a></li>
+  <li><a href="https://github.com/prism-rb/prism">Prism - build frontend web apps with Ruby and WebAssembly</a>, <a href="https://www.fastruby.io/blog/code-quality/intruducing-skunk-stink-score-calculator.html">Introducing Skunk: Combine Code Quality and Coverage to Calculate a Stink Score</a>, <a href="https://github.com/matt-harvey/tabulo">Tabulo - a terminal table generator for Ruby</a> и <a href="https://www.driftingruby.com/episodes/plugging-in-anycable">Plugging in AnyCable (video)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-7/">Announcing TypeScript 3.7</a>, <a href="https://ayushgp.github.io/scaling-websockets-using-sharedworkers/">Scaling WebSocket Connections using Shared Workers</a> и <a href="https://rockset.com/blog/client-side-sql-query-parsing-with-antlr/">Client-Side SQL Query Parsing with ANTLR</a></li>
+  <li><a href="https://medium.com/@jeromewus/build-ffmpeg-webassembly-version-ffmpeg-js-part-5-ffmpeg-js-v0-3-pre-js-and-live-streaming-c1498939a74c">Build FFmpeg WebAssembly version (= ffmpeg.js): Part.5 ffmpeg.js v0.3 — pre-js and live streaming</a>, <a href="https://sharp.pixelplumbing.com/en/stable/">Sharp - a high performance Node.js image processing</a>, <a href="https://github.com/pvdz/tenko">Tenko - 100% spec compliant JavaScript parser written in JavaScript</a> и <a href="http://a-jie.github.io/Proton/">Proton - a Javascript particle animation engine</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 11 Nov 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/11/11/podcast-07-45.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/11/11/podcast-07-45.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0745.mp3" length="47473480" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0745.mp3" fileSize="47473480" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6.0.1 released, Why does my App’s Memory...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 6.0.1 released, Why does my App’s Memory Use Grow Over Time?, The hidden cost of the Ruby 2.7 dot-colon method reference usage и Static Typing in Ruby with a Side of Sorbet
+
+  
+Prism - build frontend web apps with Ruby and WebAssembly, Introducing Skunk: Combine Code Quality and Coverage to Calculate a Stink Score, Tabulo - a terminal table generator for Ruby и Plugging in AnyCable (video)
+
+
+
+Web
+
+
+  
+Announcing TypeScript 3.7, Scaling WebSocket Connections using Shared Workers и Client-Side SQL Query Parsing with ANTLR
+
+  
+Build FFmpeg WebAssembly version (= ffmpeg.js): Part.5 ffmpeg.js v0.3 — pre-js and live streaming, Sharp - a high performance Node.js image processing, Tenko - 100% spec compliant JavaScript parser written in JavaScript и Proton - a Javascript particle animation engine
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0745.png"/>
+  <itunes:duration>00:45:52</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>44 выпуск 07 сезона. Firefox 70, React.js Concurrent Mode, HTTPX, Deimos, Madge, Web-extension-starter и прочее</title>
   <description>
@@ -3411,90 +3495,6 @@ Progressive react, Avoid Nightmares — NSFW JS, Try GraphQL и Cleave.js - 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0708.png"/>
   <itunes:duration>00:30:20</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>07 выпуск 07 сезона. Rails 6 unnoticed features, ReasonML vs TypeScript, Linaria 1.0, Webp Wasm, Third Party Web и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://drivy.engineering/rails-6-unnoticed-features/">Rails 6 unnoticed features</a>, <a href="https://blog.codemy.net/ruby-on-rails-api-authentication/">Ruby on Rails API Authentication</a> и <a href="https://www.ombulabs.com/blog/rails/data-migrations/three-useful-data-migrations-patterns-in-rails.html">Three Useful Data Migration Patterns for Rails</a></li>
-  <li><a href="https://dev.to/evilmartians/carve-your-controllers-like-papa-carlo-32m6">Carve your controllers like Papa Carlo</a> и <a href="https://devtechnica.com/ruby-language/debugging-sidekiq-workers-using-pry-remote-on-rails-applications">Debugging Sidekiq Workers Using pry-remote on Rails Applications</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://github.com/twbs/bootstrap/pull/23586">Bootstrap 5 will remove jQuery as a dependency</a>, <a href="https://medium.freecodecamp.org/reasonml-typescript-comparing-their-type-systems-620e4343221c">ReasonML vs TypeScript: comparing their type systems</a> и <a href="https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/">Quick! What’s the Difference Between Flexbox and Grid?</a></li>
-  <li><a href="https://blog.callstack.io/announcing-linaria-1-0-d5c7756ff511">Announcing Linaria 1.0</a>, <a href="https://webp.leopard.in.ua/#/">Webp Wasm</a> и <a href="https://github.com/patrickhulce/third-party-web">Third Party Web - a summary of which third party scripts are most responsible for excessive JavaScript execution on the web today</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://drivy.engineering/rails-6-unnoticed-features/">Rails 6 unnoticed features</a>, <a href="https://blog.codemy.net/ruby-on-rails-api-authentication/">Ruby on Rails API Authentication</a> и <a href="https://www.ombulabs.com/blog/rails/data-migrations/three-useful-data-migrations-patterns-in-rails.html">Three Useful Data Migration Patterns for Rails</a></li>
-  <li><a href="https://dev.to/evilmartians/carve-your-controllers-like-papa-carlo-32m6">Carve your controllers like Papa Carlo</a> и <a href="https://devtechnica.com/ruby-language/debugging-sidekiq-workers-using-pry-remote-on-rails-applications">Debugging Sidekiq Workers Using pry-remote on Rails Applications</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://github.com/twbs/bootstrap/pull/23586">Bootstrap 5 will remove jQuery as a dependency</a>, <a href="https://medium.freecodecamp.org/reasonml-typescript-comparing-their-type-systems-620e4343221c">ReasonML vs TypeScript: comparing their type systems</a> и <a href="https://css-tricks.com/quick-whats-the-difference-between-flexbox-and-grid/">Quick! What’s the Difference Between Flexbox and Grid?</a></li>
-  <li><a href="https://blog.callstack.io/announcing-linaria-1-0-d5c7756ff511">Announcing Linaria 1.0</a>, <a href="https://webp.leopard.in.ua/#/">Webp Wasm</a> и <a href="https://github.com/patrickhulce/third-party-web">Third Party Web - a summary of which third party scripts are most responsible for excessive JavaScript execution on the web today</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 18 Feb 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/02/18/podcast-07-07.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/02/18/podcast-07-07.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0707.mp3" length="31150200" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0707.mp3" fileSize="31150200" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 unnoticed features, Ruby on Rails API ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 unnoticed features, Ruby on Rails API Authentication и Three Useful Data Migration Patterns for Rails
-
-  
-Carve your controllers like Papa Carlo и Debugging Sidekiq Workers Using pry-remote on Rails Applications
-
-
-
-Web
-
-
-  
-Bootstrap 5 will remove jQuery as a dependency, ReasonML vs TypeScript: comparing their type systems и Quick! What’s the Difference Between Flexbox and Grid?
-
-  
-Announcing Linaria 1.0, Webp Wasm и Third Party Web - a summary of which third party scripts are most responsible for excessive JavaScript execution on the web today
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0707.png"/>
-  <itunes:duration>00:32:25</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
