@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 11 Nov 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 11 Nov 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 18 Nov 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>46 выпуск 07 сезона. Bytecode Alliance, Scalable Concurrency, Front-End Tooling Survey 2019, Top-level await, Ky и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2019/11/12/rails-6-adds-purpose-metadata-to-cookies">Rails 6 adds Purpose Metadata to Cookies</a>, <a href="https://eregon.me/blog/2019/11/10/the-delegation-challenge-of-ruby27.html">The Delegation Challenge of Ruby 2.7</a> и <a href="https://medium.com/better-programming/scalable-concurrency-meet-non-blocking-i-o-edb6b39c59d7">Scalable Concurrency — Meet Non-Blocking I/O</a></li>
+  <li><a href="https://blog.saeloun.com/2019/11/12/attachments-in-action-text-rails-6">Handling attachments in Action Text in Rails 6</a>, <a href="https://www.fastruby.io/blog/rails/simplecov/upgrades/merging-multiple-simpleCov-coverage-results.html">Merging Multiple SimpleCov Coverage Results</a> и <a href="https://github.com/fnix/activestorage-resumable">Active Storage Resumable allow you to continue an upload even after a browser restart</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/">Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly</a>, <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results">The Front-End Tooling Survey 2019 - Results</a>, <a href="https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502">How Discord achieves native iOS performance with React Native</a> и <a href="https://v8.dev/features/top-level-await">Top-level await</a></li>
+  <li><a href="https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8">Making instagram.com faster: Code size and execution optimizations (Part 4)</a>, <a href="https://pomb.us/build-your-own-react/">Build your own React</a>, <a href="https://github.com/doodlewind/react-ssd1306/blob/master/docs/tutorial.md">Render React to Embedded LCD</a> и <a href="https://github.com/sindresorhus/ky">Ky is a tiny and elegant HTTP client based on the browser Fetch API</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2019/11/12/rails-6-adds-purpose-metadata-to-cookies">Rails 6 adds Purpose Metadata to Cookies</a>, <a href="https://eregon.me/blog/2019/11/10/the-delegation-challenge-of-ruby27.html">The Delegation Challenge of Ruby 2.7</a> и <a href="https://medium.com/better-programming/scalable-concurrency-meet-non-blocking-i-o-edb6b39c59d7">Scalable Concurrency — Meet Non-Blocking I/O</a></li>
+  <li><a href="https://blog.saeloun.com/2019/11/12/attachments-in-action-text-rails-6">Handling attachments in Action Text in Rails 6</a>, <a href="https://www.fastruby.io/blog/rails/simplecov/upgrades/merging-multiple-simpleCov-coverage-results.html">Merging Multiple SimpleCov Coverage Results</a> и <a href="https://github.com/fnix/activestorage-resumable">Active Storage Resumable allow you to continue an upload even after a browser restart</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/">Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly</a>, <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results">The Front-End Tooling Survey 2019 - Results</a>, <a href="https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502">How Discord achieves native iOS performance with React Native</a> и <a href="https://v8.dev/features/top-level-await">Top-level await</a></li>
+  <li><a href="https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8">Making instagram.com faster: Code size and execution optimizations (Part 4)</a>, <a href="https://pomb.us/build-your-own-react/">Build your own React</a>, <a href="https://github.com/doodlewind/react-ssd1306/blob/master/docs/tutorial.md">Render React to Embedded LCD</a> и <a href="https://github.com/sindresorhus/ky">Ky is a tiny and elegant HTTP client based on the browser Fetch API</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 18 Nov 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/11/18/podcast-07-46.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/11/18/podcast-07-46.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0746.mp3" length="58985968" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0746.mp3" fileSize="58985968" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6 adds Purpose Metadata to Cookies, The ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 6 adds Purpose Metadata to Cookies, The Delegation Challenge of Ruby 2.7 и Scalable Concurrency — Meet Non-Blocking I/O
+
+  
+Handling attachments in Action Text in Rails 6, Merging Multiple SimpleCov Coverage Results и Active Storage Resumable allow you to continue an upload even after a browser restart
+
+
+
+Web
+
+
+  
+Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly, The Front-End Tooling Survey 2019 - Results, How Discord achieves native iOS performance with React Native и Top-level await
+
+  
+Making instagram.com faster: Code size and execution optimizations (Part 4), Build your own React, Render React to Embedded LCD и Ky is a tiny and elegant HTTP client based on the browser Fetch API
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0746.png"/>
+  <itunes:duration>00:57:08</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>45 выпуск 07 сезона. Rails 6.0.1, TypeScript 3.7, ANTLR, Prism, Skunk, FFmpeg.js, Sharp, Tenko, Proton и прочее</title>
   <description>
@@ -3411,90 +3495,6 @@ Frontend Bootcamp / Days in the Web, FrenchKiss.js - a blazing fast lightweight 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0709.png"/>
   <itunes:duration>00:32:47</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>08 выпуск 07 сезона. Register Transfer Language for CRuby, ECMAScript 2019, NSFW JS, Try GraphQL, Cleave.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://developers.redhat.com/blog/2019/02/19/register-transfer-language-for-cruby/">Register Transfer Language for CRuby</a>, <a href="https://naturaily.com/blog/8-frameworks-ruby-not-rails">8 Ruby frameworks that aren’t Rails</a> и <a href="https://everydayrails.com/2019/02/18/rails-sql-requirements.html">7 reasons why learning SQL is still important for Rails developers</a></li>
-  <li><a href="https://zorbash.com/post/the-10-minute-rails-pubsub/">The 10-minute Rails Pub/Sub</a>, <a href="https://lipanski.github.io/posts/one-ruby-file-to-rule-them-all">One Ruby file to rule them all: inline gems and inline ActiveRecord migrations</a> и <a href="http://www.wjwh.eu/posts/2019-02-18-prebuilt-base-image.html">Speed up Docker image builds with prebuilt base images</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="http://2ality.com/2018/02/ecmascript-2019.html">ECMAScript 2019: the final feature set</a>, <a href="https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/">CSS Variables + calc() + rgb() = Enforcing High Contrast Colors</a> и <a href="http://diana-adrianne.com/how/">Pure CSS Drawing Essentials</a></li>
-  <li><a href="https://houssein.me/progressive-react">Progressive react</a>, <a href="https://shift.infinite.red/avoid-nightmares-nsfw-js-ab7b176978b1">Avoid Nightmares — NSFW JS</a>, <a href="https://trygql.com/">Try GraphQL</a> и <a href="https://nosir.github.io/cleave.js/">Cleave.js - format your input content when you are typing</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://developers.redhat.com/blog/2019/02/19/register-transfer-language-for-cruby/">Register Transfer Language for CRuby</a>, <a href="https://naturaily.com/blog/8-frameworks-ruby-not-rails">8 Ruby frameworks that aren’t Rails</a> и <a href="https://everydayrails.com/2019/02/18/rails-sql-requirements.html">7 reasons why learning SQL is still important for Rails developers</a></li>
-  <li><a href="https://zorbash.com/post/the-10-minute-rails-pubsub/">The 10-minute Rails Pub/Sub</a>, <a href="https://lipanski.github.io/posts/one-ruby-file-to-rule-them-all">One Ruby file to rule them all: inline gems and inline ActiveRecord migrations</a> и <a href="http://www.wjwh.eu/posts/2019-02-18-prebuilt-base-image.html">Speed up Docker image builds with prebuilt base images</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="http://2ality.com/2018/02/ecmascript-2019.html">ECMAScript 2019: the final feature set</a>, <a href="https://css-tricks.com/css-variables-calc-rgb-enforcing-high-contrast-colors/">CSS Variables + calc() + rgb() = Enforcing High Contrast Colors</a> и <a href="http://diana-adrianne.com/how/">Pure CSS Drawing Essentials</a></li>
-  <li><a href="https://houssein.me/progressive-react">Progressive react</a>, <a href="https://shift.infinite.red/avoid-nightmares-nsfw-js-ab7b176978b1">Avoid Nightmares — NSFW JS</a>, <a href="https://trygql.com/">Try GraphQL</a> и <a href="https://nosir.github.io/cleave.js/">Cleave.js - format your input content when you are typing</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 25 Feb 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/02/25/podcast-07-08.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/02/25/podcast-07-08.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0708.mp3" length="29148056" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0708.mp3" fileSize="29148056" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Register Transfer Language for CRuby, 8 Ruby f...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Register Transfer Language for CRuby, 8 Ruby frameworks that aren’t Rails и 7 reasons why learning SQL is still important for Rails developers
-
-  
-The 10-minute Rails Pub/Sub, One Ruby file to rule them all: inline gems and inline ActiveRecord migrations и Speed up Docker image builds with prebuilt base images
-
-
-
-Web
-
-
-  
-ECMAScript 2019: the final feature set, CSS Variables + calc() + rgb() = Enforcing High Contrast Colors и Pure CSS Drawing Essentials
-
-  
-Progressive react, Avoid Nightmares — NSFW JS, Try GraphQL и Cleave.js - format your input content when you are typing
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0708.png"/>
-  <itunes:duration>00:30:20</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
