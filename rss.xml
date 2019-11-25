@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 18 Nov 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 25 Nov 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>47 выпуск 07 сезона. 10 New Things in Active Record, Ruby Next, Postwoman, Chatwoot, GraphQuill, SiriwaveJS и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://hint.io/blog/10-New-Things-in-Active-Record">10 New Things in Active Record</a>, <a href="https://evilmartians.com/chronicles/pulling-the-trigger-how-to-update-counter-caches-in-you-rails-app-without-active-record-callbacks">Pulling the trigger: How to update counter caches in your Rails app without Active Record callbacks</a> и <a href="https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams">Similarity in Postgres and Rails using Trigrams</a></li>
+  <li><a href="https://github.com/chatwoot/chatwoot">Chatwoot - a simple and elegant live chat software</a>, <a href="https://github.com/ruby-next/ruby-next">Ruby Next - makes modern Ruby code run in older versions and alternative implementations</a> и <a href="https://gorails.com/episodes/testing-times-and-dates-with-rails">Testing Times &amp; Dates with Rails (video)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663">Announcing core Node.js support for ECMAScript modules</a>, <a href="https://medium.com/@lakatos/30-tips-tricks-with-the-firefox-developer-tools-2e3f2ca5bc61">30 Tips &amp; Tricks with the Firefox Developer Tools</a> и <a href="https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-svelte-here-are-the-differences-c0bd2cc9b3f8">I created the exact same app in React and Svelte. Here are the differences</a></li>
+  <li><a href="https://github.com/liyasthomas/postwoman">Postwoman - API request builder</a>, <a href="https://github.com/oslabs-beta/GraphQuill">GraphQuill - a VS Code extension that performs GraphQL API endpoint testing</a>, <a href="http://kopiro.github.io/siriwave/">SiriwaveJS - The Apple Siri wave-form replicated in a JS library</a>, <a href="https://github.com/penge/my-notes">My Notes - Chrome Extension that turns your “New Tab” into a note taking tool</a> и <a href="https://www.youtube.com/watch?v=ff4fgQxPaO0">Faster apps with JSON.parse (Chrome Dev Summit 2019)</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://hint.io/blog/10-New-Things-in-Active-Record">10 New Things in Active Record</a>, <a href="https://evilmartians.com/chronicles/pulling-the-trigger-how-to-update-counter-caches-in-you-rails-app-without-active-record-callbacks">Pulling the trigger: How to update counter caches in your Rails app without Active Record callbacks</a> и <a href="https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams">Similarity in Postgres and Rails using Trigrams</a></li>
+  <li><a href="https://github.com/chatwoot/chatwoot">Chatwoot - a simple and elegant live chat software</a>, <a href="https://github.com/ruby-next/ruby-next">Ruby Next - makes modern Ruby code run in older versions and alternative implementations</a> и <a href="https://gorails.com/episodes/testing-times-and-dates-with-rails">Testing Times &amp; Dates with Rails (video)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663">Announcing core Node.js support for ECMAScript modules</a>, <a href="https://medium.com/@lakatos/30-tips-tricks-with-the-firefox-developer-tools-2e3f2ca5bc61">30 Tips &amp; Tricks with the Firefox Developer Tools</a> и <a href="https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-svelte-here-are-the-differences-c0bd2cc9b3f8">I created the exact same app in React and Svelte. Here are the differences</a></li>
+  <li><a href="https://github.com/liyasthomas/postwoman">Postwoman - API request builder</a>, <a href="https://github.com/oslabs-beta/GraphQuill">GraphQuill - a VS Code extension that performs GraphQL API endpoint testing</a>, <a href="http://kopiro.github.io/siriwave/">SiriwaveJS - The Apple Siri wave-form replicated in a JS library</a>, <a href="https://github.com/penge/my-notes">My Notes - Chrome Extension that turns your “New Tab” into a note taking tool</a> и <a href="https://www.youtube.com/watch?v=ff4fgQxPaO0">Faster apps with JSON.parse (Chrome Dev Summit 2019)</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 25 Nov 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/11/25/podcast-07-47.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/11/25/podcast-07-47.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0747.mp3" length="46444322" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0747.mp3" fileSize="46444322" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  10 New Things in Active Record, Pulling the tr...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+10 New Things in Active Record, Pulling the trigger: How to update counter caches in your Rails app without Active Record callbacks и Similarity in Postgres and Rails using Trigrams
+
+  
+Chatwoot - a simple and elegant live chat software, Ruby Next - makes modern Ruby code run in older versions and alternative implementations и Testing Times &amp; Dates with Rails (video)
+
+
+
+Web
+
+
+  
+Announcing core Node.js support for ECMAScript modules, 30 Tips &amp; Tricks with the Firefox Developer Tools и I created the exact same app in React and Svelte. Here are the differences
+
+  
+Postwoman - API request builder, GraphQuill - a VS Code extension that performs GraphQL API endpoint testing, SiriwaveJS - The Apple Siri wave-form replicated in a JS library, My Notes - Chrome Extension that turns your “New Tab” into a note taking tool и Faster apps with JSON.parse (Chrome Dev Summit 2019)
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0747.png"/>
+  <itunes:duration>00:45:08</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>46 выпуск 07 сезона. Bytecode Alliance, Scalable Concurrency, Front-End Tooling Survey 2019, Top-level await, Ky и прочее</title>
   <description>
@@ -3411,90 +3495,6 @@ JavaScript Algorithms and Data Structures, Handtrack.js: Hand Tracking Interacti
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0710.png"/>
   <itunes:duration>00:44:14</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>09 выпуск 07 сезона. Rails 6 adds support for timezones to Active Job, .dev for all, renchKiss.js, JavaScript SEO и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/02/26/ruby-2-7-method-shorthand.html">Ruby 2.7 adds shorthand operator for Object#method</a>, <a href="https://blog.saeloun.com/2019/03/02/rails-activejob-timezone-support.html">Rails 6 adds support for timezones to Active Job</a>, <a href="https://blog.saeloun.com/2019/03/01/rails-6-before-and-after-for-date-and-time.html">Rails 6 adds before? and after? methods to Date, DateTime, Time, and TimeWithZone</a>, <a href="https://blog.saeloun.com/2019/02/26/rails-6-negative-scopes-for-enum-values.html">Rails 6 adds negative scopes for all enum values</a> и <a href="https://blog.heroku.com/debugging-year-old-sprockets-bug">Debugging in Ruby—Busting a Year-old Bug in Sprockets</a></li>
-  <li><a href="https://blog.appsignal.com/2019/02/26/diving-into-dup-and-clone.html">Diving into Ruby’s #dup and #clone</a>, <a href="https://nebulab.it/blog/actioncable-vs-anycable-fight/">Action Cable vs AnyCable: fight!</a>, <a href="https://github.com/vinistock/sail">Sail - a lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app</a> и <a href="https://cryptozombies.io/">CryptoZombies - an interactive code school that teaches you to write smart contracts in Solidity through building your own crypto-collectables game</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://developers.googleblog.com/2019/02/dev-for-all.html">.dev for all</a>, <a href="https://twitter.com/bdc/status/1100921258839953408">The CSS Working Group agreed on adding many math functions</a> и <a href="https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6">8 Little Videos About the Firefox Shape Path Editor</a></li>
-  <li><a href="https://github.com/Microsoft/frontend-bootcamp">Frontend Bootcamp / Days in the Web</a>, <a href="https://github.com/koala-interactive/frenchkiss.js">FrenchKiss.js - a blazing fast lightweight i18n library written in JavaScript</a>, <a href="https://webaccessibility.guide/">Web Accessibility Guide</a> и <a href="https://www.youtube.com/watch?v=wSwzfEn5-6A">JavaScript SEO</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/02/26/ruby-2-7-method-shorthand.html">Ruby 2.7 adds shorthand operator for Object#method</a>, <a href="https://blog.saeloun.com/2019/03/02/rails-activejob-timezone-support.html">Rails 6 adds support for timezones to Active Job</a>, <a href="https://blog.saeloun.com/2019/03/01/rails-6-before-and-after-for-date-and-time.html">Rails 6 adds before? and after? methods to Date, DateTime, Time, and TimeWithZone</a>, <a href="https://blog.saeloun.com/2019/02/26/rails-6-negative-scopes-for-enum-values.html">Rails 6 adds negative scopes for all enum values</a> и <a href="https://blog.heroku.com/debugging-year-old-sprockets-bug">Debugging in Ruby—Busting a Year-old Bug in Sprockets</a></li>
-  <li><a href="https://blog.appsignal.com/2019/02/26/diving-into-dup-and-clone.html">Diving into Ruby’s #dup and #clone</a>, <a href="https://nebulab.it/blog/actioncable-vs-anycable-fight/">Action Cable vs AnyCable: fight!</a>, <a href="https://github.com/vinistock/sail">Sail - a lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app</a> и <a href="https://cryptozombies.io/">CryptoZombies - an interactive code school that teaches you to write smart contracts in Solidity through building your own crypto-collectables game</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://developers.googleblog.com/2019/02/dev-for-all.html">.dev for all</a>, <a href="https://twitter.com/bdc/status/1100921258839953408">The CSS Working Group agreed on adding many math functions</a> и <a href="https://blog.bitsrc.io/8-little-videos-about-the-firefox-shape-path-editor-96a12c7cd3b6">8 Little Videos About the Firefox Shape Path Editor</a></li>
-  <li><a href="https://github.com/Microsoft/frontend-bootcamp">Frontend Bootcamp / Days in the Web</a>, <a href="https://github.com/koala-interactive/frenchkiss.js">FrenchKiss.js - a blazing fast lightweight i18n library written in JavaScript</a>, <a href="https://webaccessibility.guide/">Web Accessibility Guide</a> и <a href="https://www.youtube.com/watch?v=wSwzfEn5-6A">JavaScript SEO</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 04 Mar 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/03/04/podcast-07-09.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/03/04/podcast-07-09.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0709.mp3" length="31496544" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0709.mp3" fileSize="31496544" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.7 adds shorthand operator for Object#me...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.7 adds shorthand operator for Object#method, Rails 6 adds support for timezones to Active Job, Rails 6 adds before? and after? methods to Date, DateTime, Time, and TimeWithZone, Rails 6 adds negative scopes for all enum values и Debugging in Ruby—Busting a Year-old Bug in Sprockets
-
-  
-Diving into Ruby’s #dup and #clone, Action Cable vs AnyCable: fight!, Sail - a lightweight Rails engine that brings an admin panel for managing configuration settings on a live Rails app и CryptoZombies - an interactive code school that teaches you to write smart contracts in Solidity through building your own crypto-collectables game
-
-
-
-Web
-
-
-  
-.dev for all, The CSS Working Group agreed on adding many math functions и 8 Little Videos About the Firefox Shape Path Editor
-
-  
-Frontend Bootcamp / Days in the Web, FrenchKiss.js - a blazing fast lightweight i18n library written in JavaScript, Web Accessibility Guide и JavaScript SEO
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0709.png"/>
-  <itunes:duration>00:32:47</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
