@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 25 Nov 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 25 Nov 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 02 Dec 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>48 выпуск 07 сезона. Rails 5.2.4, reverted Ruby 2.7 new feature, Scaling SVG Elements, Matestack, NeatJS и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://weblog.rubyonrails.org/2019/11/27/Rails-5-2-4-has-been-released/">Rails 5.2.4 has been released</a>, <a href="https://dev.to/hanachin/ruby-27-new-feature-method-reference-operator-38l2">Reverted Ruby 2.7 new feature: Method reference operator</a>, <a href="https://blog.saeloun.com/2019/11/27/ruby-2-7-enumerator-produce">Ruby 2.7 adds Enumerator#produce</a>, <a href="https://blog.saeloun.com/2019/11/24/ruby-2-7-comparable-clamp-with-a-range">Ruby 2.7 adds supports for Comparable#clamp with a range</a> и <a href="https://blog.saeloun.com/2019/11/26/rails-6-insert-all">Rails 6 bulk insert records</a></li>
+  <li><a href="https://www.twilio.com/blog/track-email-status-ruby-on-rails-sendgrid">Track email statuses in Ruby on Rails with SendGrid</a> и <a href="https://www.matestack.org/">Matestack - rapidly create interactive UIs in pure Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/javascript-in-plain-english/javascript-doesnt-need-to-be-replaced-bd01e2f12d51">JavaScript doesn’t need to be replaced</a>, <a href="http://willtaylor.blog/client-side-routing-in-vanilla-js/">Understanding client side routing by implementing a router in Vanilla JS</a> и <a href="https://github.com/GoogleChrome/lighthouse-ci">New Lighthouse CI</a></li>
+  <li><a href="https://wattenberger.com/guide/scaling-svg">Scaling SVG Elements</a>, <a href="https://redux.js.org/style-guide/style-guide">Redux Style Guide</a>, <a href="https://gabrieltavernini.github.io/NeatJS/">NeatJS - a JavaScript implementation of the Neat Algorithm</a> и <a href="https://github.com/KilledByAPixel/JSONCrush">JSONCrush - Compress JSON into URL friendly strings</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://weblog.rubyonrails.org/2019/11/27/Rails-5-2-4-has-been-released/">Rails 5.2.4 has been released</a>, <a href="https://dev.to/hanachin/ruby-27-new-feature-method-reference-operator-38l2">Reverted Ruby 2.7 new feature: Method reference operator</a>, <a href="https://blog.saeloun.com/2019/11/27/ruby-2-7-enumerator-produce">Ruby 2.7 adds Enumerator#produce</a>, <a href="https://blog.saeloun.com/2019/11/24/ruby-2-7-comparable-clamp-with-a-range">Ruby 2.7 adds supports for Comparable#clamp with a range</a> и <a href="https://blog.saeloun.com/2019/11/26/rails-6-insert-all">Rails 6 bulk insert records</a></li>
+  <li><a href="https://www.twilio.com/blog/track-email-status-ruby-on-rails-sendgrid">Track email statuses in Ruby on Rails with SendGrid</a> и <a href="https://www.matestack.org/">Matestack - rapidly create interactive UIs in pure Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/javascript-in-plain-english/javascript-doesnt-need-to-be-replaced-bd01e2f12d51">JavaScript doesn’t need to be replaced</a>, <a href="http://willtaylor.blog/client-side-routing-in-vanilla-js/">Understanding client side routing by implementing a router in Vanilla JS</a> и <a href="https://github.com/GoogleChrome/lighthouse-ci">New Lighthouse CI</a></li>
+  <li><a href="https://wattenberger.com/guide/scaling-svg">Scaling SVG Elements</a>, <a href="https://redux.js.org/style-guide/style-guide">Redux Style Guide</a>, <a href="https://gabrieltavernini.github.io/NeatJS/">NeatJS - a JavaScript implementation of the Neat Algorithm</a> и <a href="https://github.com/KilledByAPixel/JSONCrush">JSONCrush - Compress JSON into URL friendly strings</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 02 Dec 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/12/02/podcast-07-48.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/12/02/podcast-07-48.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0748.mp3" length="48374326" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0748.mp3" fileSize="48374326" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 5.2.4 has been released, Reverted Ruby 2...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Rails 5.2.4 has been released, Reverted Ruby 2.7 new feature: Method reference operator, Ruby 2.7 adds Enumerator#produce, Ruby 2.7 adds supports for Comparable#clamp with a range и Rails 6 bulk insert records
+
+  
+Track email statuses in Ruby on Rails with SendGrid и Matestack - rapidly create interactive UIs in pure Ruby
+
+
+
+Web
+
+
+  
+JavaScript doesn’t need to be replaced, Understanding client side routing by implementing a router in Vanilla JS и New Lighthouse CI
+
+  
+Scaling SVG Elements, Redux Style Guide, NeatJS - a JavaScript implementation of the Neat Algorithm и JSONCrush - Compress JSON into URL friendly strings
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0748.png"/>
+  <itunes:duration>00:47:08</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>47 выпуск 07 сезона. 10 New Things in Active Record, Ruby Next, Postwoman, Chatwoot, GraphQuill, SiriwaveJS и прочее</title>
   <description>
@@ -3411,90 +3495,6 @@ Why you shouldn’t use Moment.js…, When “Zoë” !== “Zoë”. Or why you
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/009.jpg"/>
   <itunes:duration>00:27:48</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>10 выпуск 07 сезона. Webpacker 4.0.2, Storybook 5.0, Rubygems: March 2019 Security Advisories, Mruby/c, RFS и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.com/rails/webpacker/blob/master/docs/v4-upgrade.md">Webpacker 4.0.2</a>, <a href="https://blog.rubygems.org/2019/03/05/security-advisories-2019-03.html">Rubygems: March 2019 Security Advisories</a>, <a href="https://blog.saeloun.com/2019/03/05/rails-6-relation-reselect.html">Rails 6 adds Relation#reselect</a> и <a href="https://blog.appsignal.com/2019/03/05/stringscanner.html">Ruby’s Hidden Gems, StringScanner</a></li>
-  <li><a href="https://github.com/mrubyc/mrubyc">Mruby/c - an another implementation of mruby</a>, <a href="https://github.com/DmitryTsepelev/store_model">StoreModel - gem for handling JSON-backed attributes as ActiveRecord models</a>, <a href="https://github.com/brunofacca/active-record-query-trace">Active-record-query-trace - find the origin of all SQL queries in your Rails applications</a> и <a href="https://www.driftingruby.com/episodes/what-s-new-in-rails-6">What’s New in Rails 6 (video)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8">Storybook 5.0</a>, <a href="https://ponyfoo.com/articles/javascript-performance-pitfalls-v8">JavaScript Performance Pitfalls in V8</a>, <a href="https://9elements.com/io/maintaining-large-javascript-projects/">Maintaining large JavaScript applications</a> и <a href="https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a">JavaScript naming conventions: do’s and don’ts</a></li>
-  <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a>, <a href="https://hackernoon.com/handtrackjs-677c29c1d585">Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code</a> и <a href="https://github.com/twbs/rfs">RFS - a font size engine which automatically calculates the appropriate font size based on the dimensions of the browser viewport</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.com/rails/webpacker/blob/master/docs/v4-upgrade.md">Webpacker 4.0.2</a>, <a href="https://blog.rubygems.org/2019/03/05/security-advisories-2019-03.html">Rubygems: March 2019 Security Advisories</a>, <a href="https://blog.saeloun.com/2019/03/05/rails-6-relation-reselect.html">Rails 6 adds Relation#reselect</a> и <a href="https://blog.appsignal.com/2019/03/05/stringscanner.html">Ruby’s Hidden Gems, StringScanner</a></li>
-  <li><a href="https://github.com/mrubyc/mrubyc">Mruby/c - an another implementation of mruby</a>, <a href="https://github.com/DmitryTsepelev/store_model">StoreModel - gem for handling JSON-backed attributes as ActiveRecord models</a>, <a href="https://github.com/brunofacca/active-record-query-trace">Active-record-query-trace - find the origin of all SQL queries in your Rails applications</a> и <a href="https://www.driftingruby.com/episodes/what-s-new-in-rails-6">What’s New in Rails 6 (video)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/storybookjs/storybook-5-0-db1d0f9c83b8">Storybook 5.0</a>, <a href="https://ponyfoo.com/articles/javascript-performance-pitfalls-v8">JavaScript Performance Pitfalls in V8</a>, <a href="https://9elements.com/io/maintaining-large-javascript-projects/">Maintaining large JavaScript applications</a> и <a href="https://medium.freecodecamp.org/javascript-naming-conventions-dos-and-don-ts-99c0e2fdd78a">JavaScript naming conventions: do’s and don’ts</a></li>
-  <li><a href="https://github.com/trekhleb/javascript-algorithms">JavaScript Algorithms and Data Structures</a>, <a href="https://hackernoon.com/handtrackjs-677c29c1d585">Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code</a> и <a href="https://github.com/twbs/rfs">RFS - a font size engine which automatically calculates the appropriate font size based on the dimensions of the browser viewport</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 11 Mar 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/03/11/podcast-07-10.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/03/11/podcast-07-10.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0710.mp3" length="42490588" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0710.mp3" fileSize="42490588" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Webpacker 4.0.2, Rubygems: March 2019 Security...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Webpacker 4.0.2, Rubygems: March 2019 Security Advisories, Rails 6 adds Relation#reselect и Ruby’s Hidden Gems, StringScanner
-
-  
-Mruby/c - an another implementation of mruby, StoreModel - gem for handling JSON-backed attributes as ActiveRecord models, Active-record-query-trace - find the origin of all SQL queries in your Rails applications и What’s New in Rails 6 (video)
-
-
-
-Web
-
-
-  
-Storybook 5.0, JavaScript Performance Pitfalls in V8, Maintaining large JavaScript applications и JavaScript naming conventions: do’s and don’ts
-
-  
-JavaScript Algorithms and Data Structures, Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code и RFS - a font size engine which automatically calculates the appropriate font size based on the dimensions of the browser viewport
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0710.png"/>
-  <itunes:duration>00:44:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
