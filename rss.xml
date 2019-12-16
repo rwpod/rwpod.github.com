@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 09 Dec 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 16 Dec 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>50 выпуск 07 сезона. Bundler 2.1.0, JIT and Ruby's MJIT, JavaScript component-level CPU costs, Snabberb, FX и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/bundler/bundler/releases/v2.1.0">Bundler 2.1.0</a>, <a href="https://blog.saeloun.com/2019/12/10/rails-block-writes-to-database-connection-while-prevent-writes">Rails 6 adds ability to block writes to a database</a> и <a href="http://engineering.appfolio.com/appfolio-engineering/2019/7/18/jit-and-rubys-mjit">JIT and Ruby’s MJIT</a></li>
+  <li><a href="https://blog.kalina.tech/2019/12/nested-api-parameter-validation-in-rails.html">Nested API parameter validation in Rails with ActiveModel::Validations</a>, <a href="https://blog.capsens.eu/how-to-write-javascript-in-rails-6-webpacker-yarn-and-sprockets-cdf990387463">How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets</a> и <a href="https://github.com/tobymao/snabberb">Snabberb - a simple Ruby view framework built on Opal and Snabbdom</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/">Electron joins the OpenJS Foundation</a>, <a href="https://alain.xyz/blog/raw-webgl">Raw WebGL</a>, <a href="https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/">JavaScript component-level CPU costs</a> и <a href="https://www.bram.us/2019/12/09/esnext-relatively-format-time-with-intl-relativetimeformat/">ESNext: Relatively format time with Intl.RelativeTimeFormat</a></li>
+  <li><a href="https://blog.bitsrc.io/5-top-cloud-ides-for-javascript-developers-62ee672c6e88">5 Top Cloud IDEs for JavaScript Developers</a> и <a href="https://github.com/antonmedv/fx">FX - command-line JSON processing tool</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/bundler/bundler/releases/v2.1.0">Bundler 2.1.0</a>, <a href="https://blog.saeloun.com/2019/12/10/rails-block-writes-to-database-connection-while-prevent-writes">Rails 6 adds ability to block writes to a database</a> и <a href="http://engineering.appfolio.com/appfolio-engineering/2019/7/18/jit-and-rubys-mjit">JIT and Ruby’s MJIT</a></li>
+  <li><a href="https://blog.kalina.tech/2019/12/nested-api-parameter-validation-in-rails.html">Nested API parameter validation in Rails with ActiveModel::Validations</a>, <a href="https://blog.capsens.eu/how-to-write-javascript-in-rails-6-webpacker-yarn-and-sprockets-cdf990387463">How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets</a> и <a href="https://github.com/tobymao/snabberb">Snabberb - a simple Ruby view framework built on Opal and Snabbdom</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/">Electron joins the OpenJS Foundation</a>, <a href="https://alain.xyz/blog/raw-webgl">Raw WebGL</a>, <a href="https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/">JavaScript component-level CPU costs</a> и <a href="https://www.bram.us/2019/12/09/esnext-relatively-format-time-with-intl-relativetimeformat/">ESNext: Relatively format time with Intl.RelativeTimeFormat</a></li>
+  <li><a href="https://blog.bitsrc.io/5-top-cloud-ides-for-javascript-developers-62ee672c6e88">5 Top Cloud IDEs for JavaScript Developers</a> и <a href="https://github.com/antonmedv/fx">FX - command-line JSON processing tool</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 16 Dec 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/12/16/podcast-07-50.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/12/16/podcast-07-50.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0750.mp3" length="25662926" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0750.mp3" fileSize="25662926" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Bundler 2.1.0, Rails 6 adds ability to block w...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Bundler 2.1.0, Rails 6 adds ability to block writes to a database и JIT and Ruby’s MJIT
+
+  
+Nested API parameter validation in Rails with ActiveModel::Validations, How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets и Snabberb - a simple Ruby view framework built on Opal and Snabbdom
+
+
+
+Web
+
+
+  
+Electron joins the OpenJS Foundation, Raw WebGL, JavaScript component-level CPU costs и ESNext: Relatively format time with Intl.RelativeTimeFormat
+
+  
+5 Top Cloud IDEs for JavaScript Developers и FX - command-line JSON processing tool
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0750.png"/>
+  <itunes:duration>00:25:08</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>49 выпуск 07 сезона. What's new in Ruby 2.7, Rubyfmt with Atom, ImageProcessing, NanoNeuron, Creepyface и прочее</title>
   <description>
@@ -3387,90 +3471,6 @@ Announcing fromfrom, Flexulator, CrumbsJS - a lightweight, intuitive, vanilla ES
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0712.png"/>
   <itunes:duration>00:39:01</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>11 выпуск 07 сезона. Ruby 2.6.2, Rails 6.0.0.beta3, React Native 0.59, CKEditor 5 v12.0.0, Firefox Send и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2019/03/13/ruby-2-6-2-released/">Ruby 2.6.2 Released</a>, <a href="https://weblog.rubyonrails.org/2019/3/13/Rails-4-2-5-1-5-1-6-2-have-been-released/">Rails 4.2.11.1, 5.0.7.2, 5.1.6.2, 5.2.2.1, and 6.0.0.beta3 have been released!</a>, <a href="https://medium.com/@baweaver/ruby-2-7-numbered-parameters-3f5c06a55fe4">Ruby 2.7 — Numbered Parameters</a>, <a href="https://blog.bigbinary.com/2019/03/12/rails-6-adds-activerecord-relation-touch-all.html">Rails 6 adds ActiveRecord::Relation#touch_all</a>, <a href="https://blog.bigbinary.com/2019/03/13/rails-6-adds-activerecord-relation-delete_by-and-activerecord-relation-destroy_by.html">Rails 6 adds delete_by and destroy_by as ActiveRecord::Relation methods</a> и <a href="https://medium.com/@retrorubies/upcoming-rails-6-bulk-insert-upsert-feature-2d642419557d">Upcoming Rails 6 Bulk insert/Upsert feature</a></li>
-  <li><a href="https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html">What causes Ruby memory bloat?</a>, <a href="http://florianhanke.com/phony/">Phony - E164 international phone number normalizing, splitting, formatting</a>, <a href="https://shrinerb.com/">Shrine - file attachment toolkit for Ruby applications</a> и <a href="https://github.com/samphippen/rubyfmt">Ruby Autoformatter</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="http://facebook.github.io/react-native/blog/2019/03/12/releasing-react-native-059">Releasing React Native 0.59</a>, <a href="https://ckeditor.com/blog/CKEditor-5-v12.0.0-with-inline-widgets-and-distraction-free-editor-released/">CKEditor 5 v12.0.0 with inline widgets and distraction free editor released</a>, <a href="https://blog.mozilla.org/blog/2019/03/12/introducing-firefox-send-providing-free-file-transfers-while-keeping-your-personal-information-private/">Introducing Firefox Send, Providing Free File Transfers while Keeping your Personal Information Private</a>, <a href="https://www.zdnet.com/article/js-foundation-and-node-js-foundation-join-forces/">JS Foundation and Node.js Foundation join forces</a> и <a href="https://developers.google.com/web/updates/2019/03/kv-storage">KV Storage: the Web’s First Built-in Module</a></li>
-  <li><a href="https://inventi.studio/en/blog/why-you-shouldnt-use-moment-js">Why you shouldn’t use Moment.js…</a>, <a href="https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html">When “Zoë” !== “Zoë”. Or why you need to normalize Unicode strings</a> и <a href="https://github.com/blend/promise-utils">Promise-utils is a dependency-free JavaScript/TypeScript library that provides Lodash-like utility functions for dealing with native ES6 promises</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2019/03/13/ruby-2-6-2-released/">Ruby 2.6.2 Released</a>, <a href="https://weblog.rubyonrails.org/2019/3/13/Rails-4-2-5-1-5-1-6-2-have-been-released/">Rails 4.2.11.1, 5.0.7.2, 5.1.6.2, 5.2.2.1, and 6.0.0.beta3 have been released!</a>, <a href="https://medium.com/@baweaver/ruby-2-7-numbered-parameters-3f5c06a55fe4">Ruby 2.7 — Numbered Parameters</a>, <a href="https://blog.bigbinary.com/2019/03/12/rails-6-adds-activerecord-relation-touch-all.html">Rails 6 adds ActiveRecord::Relation#touch_all</a>, <a href="https://blog.bigbinary.com/2019/03/13/rails-6-adds-activerecord-relation-delete_by-and-activerecord-relation-destroy_by.html">Rails 6 adds delete_by and destroy_by as ActiveRecord::Relation methods</a> и <a href="https://medium.com/@retrorubies/upcoming-rails-6-bulk-insert-upsert-feature-2d642419557d">Upcoming Rails 6 Bulk insert/Upsert feature</a></li>
-  <li><a href="https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html">What causes Ruby memory bloat?</a>, <a href="http://florianhanke.com/phony/">Phony - E164 international phone number normalizing, splitting, formatting</a>, <a href="https://shrinerb.com/">Shrine - file attachment toolkit for Ruby applications</a> и <a href="https://github.com/samphippen/rubyfmt">Ruby Autoformatter</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="http://facebook.github.io/react-native/blog/2019/03/12/releasing-react-native-059">Releasing React Native 0.59</a>, <a href="https://ckeditor.com/blog/CKEditor-5-v12.0.0-with-inline-widgets-and-distraction-free-editor-released/">CKEditor 5 v12.0.0 with inline widgets and distraction free editor released</a>, <a href="https://blog.mozilla.org/blog/2019/03/12/introducing-firefox-send-providing-free-file-transfers-while-keeping-your-personal-information-private/">Introducing Firefox Send, Providing Free File Transfers while Keeping your Personal Information Private</a>, <a href="https://www.zdnet.com/article/js-foundation-and-node-js-foundation-join-forces/">JS Foundation and Node.js Foundation join forces</a> и <a href="https://developers.google.com/web/updates/2019/03/kv-storage">KV Storage: the Web’s First Built-in Module</a></li>
-  <li><a href="https://inventi.studio/en/blog/why-you-shouldnt-use-moment-js">Why you shouldn’t use Moment.js…</a>, <a href="https://withblue.ink/2019/03/11/why-you-need-to-normalize-unicode-strings.html">When “Zoë” !== “Zoë”. Or why you need to normalize Unicode strings</a> и <a href="https://github.com/blend/promise-utils">Promise-utils is a dependency-free JavaScript/TypeScript library that provides Lodash-like utility functions for dealing with native ES6 promises</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 18 Mar 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/03/18/podcast-07-11.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/03/18/podcast-07-11.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0711.mp3" length="37232584" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0711.mp3" fileSize="37232584" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6.2 Released, Rails 4.2.11.1, 5.0.7.2, ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6.2 Released, Rails 4.2.11.1, 5.0.7.2, 5.1.6.2, 5.2.2.1, and 6.0.0.beta3 have been released!, Ruby 2.7 — Numbered Parameters, Rails 6 adds ActiveRecord::Relation#touch_all, Rails 6 adds delete_by and destroy_by as ActiveRecord::Relation methods и Upcoming Rails 6 Bulk insert/Upsert feature
-
-  
-What causes Ruby memory bloat?, Phony - E164 international phone number normalizing, splitting, formatting, Shrine - file attachment toolkit for Ruby applications и Ruby Autoformatter
-
-
-
-Web
-
-
-  
-Releasing React Native 0.59, CKEditor 5 v12.0.0 with inline widgets and distraction free editor released, Introducing Firefox Send, Providing Free File Transfers while Keeping your Personal Information Private, JS Foundation and Node.js Foundation join forces и KV Storage: the Web’s First Built-in Module
-
-  
-Why you shouldn’t use Moment.js…, When “Zoë” !== “Zoë”. Or why you need to normalize Unicode strings и Promise-utils is a dependency-free JavaScript/TypeScript library that provides Lodash-like utility functions for dealing with native ES6 promises
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0711.png"/>
-  <itunes:duration>00:38:45</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
