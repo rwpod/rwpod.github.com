@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 16 Dec 2019 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 16 Dec 2019 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 30 Dec 2019 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,80 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>51 выпуск 07 сезона. Ruby 2.7.0, Rack 1.6.12, 2.0.8 security patches, State of JavaScript, V8 release v8.0 и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/12/25/ruby-2-7-0-released/">Ruby 2.7.0 released</a>, <a href="https://rubyreferences.github.io/rubychanges/2.7.html">Ruby 2.7 comprehensive changelog</a>, <a href="https://medium.com/@k0kubun/jit-development-progress-at-ruby-2-7-d6dd62a8c76a?">JIT development progress at Ruby 2.7</a>, <a href="https://weblog.rubyonrails.org/2019/12/18/Rails-6-0-2-1-has-been-released/">Rails 6.0.2.1 has been released</a> и <a href="https://github.com/rack/rack/security/advisories/GHSA-hrqr-hxpp-chr3">Rack 1.6.12, 2.0.8 security patches</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://2019.stateofjs.com/">Results from the ‘State of JavaScript’ 2019 Survey</a>, <a href="https://v8.dev/blog/v8-release-80">V8 release v8.0</a>, <a href="https://tesseract.projectnaptha.com/">Tesseract.js 2 released</a> и <a href="https://aframe.io/blog/aframe-v1.0.0/">A-Frame v1.0.0 - WebXR Support, AR Mode</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2019/12/25/ruby-2-7-0-released/">Ruby 2.7.0 released</a>, <a href="https://rubyreferences.github.io/rubychanges/2.7.html">Ruby 2.7 comprehensive changelog</a>, <a href="https://medium.com/@k0kubun/jit-development-progress-at-ruby-2-7-d6dd62a8c76a?">JIT development progress at Ruby 2.7</a>, <a href="https://weblog.rubyonrails.org/2019/12/18/Rails-6-0-2-1-has-been-released/">Rails 6.0.2.1 has been released</a> и <a href="https://github.com/rack/rack/security/advisories/GHSA-hrqr-hxpp-chr3">Rack 1.6.12, 2.0.8 security patches</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://2019.stateofjs.com/">Results from the ‘State of JavaScript’ 2019 Survey</a>, <a href="https://v8.dev/blog/v8-release-80">V8 release v8.0</a>, <a href="https://tesseract.projectnaptha.com/">Tesseract.js 2 released</a> и <a href="https://aframe.io/blog/aframe-v1.0.0/">A-Frame v1.0.0 - WebXR Support, AR Mode</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Dec 2019 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2019/12/30/podcast-07-51.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/12/30/podcast-07-51.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/07/0751.mp3" length="21831104" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/07/0751.mp3" fileSize="21831104" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7.0 released, Ruby 2.7 comprehensive ch...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Ruby 2.7.0 released, Ruby 2.7 comprehensive changelog, JIT development progress at Ruby 2.7, Rails 6.0.2.1 has been released и Rack 1.6.12, 2.0.8 security patches
+
+
+
+Web
+
+
+  
+Results from the ‘State of JavaScript’ 2019 Survey, V8 release v8.0, Tesseract.js 2 released и A-Frame v1.0.0 - WebXR Support, AR Mode
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/07/0751.png"/>
+  <itunes:duration>00:21:20</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>50 выпуск 07 сезона. Bundler 2.1.0, JIT and Ruby's MJIT, JavaScript component-level CPU costs, Snabberb, FX и прочее</title>
   <description>
@@ -3377,100 +3451,6 @@ PreVue - all in One Prototyping Tool For Vue Developers, Eslint-plugin-unicorn -
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0713.png"/>
   <itunes:duration>00:31:18</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>12 выпуск 07 сезона. React Router v5, React-Redux v7.0.0-beta.0, Cables vs. malloc_trim, Helix, Lamby, Flexulator, DropCSS и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/03/26/rails-6-adds-activemodel-errors-slice.html">Rails 6 adds ActiveModel::Errors#slice!</a>, <a href="https://blog.bigbinary.com/2019/03/20/rails-6-raises-activemodel-missingattributeerror-when-update_columns-is-used-with-non-existing-attribute.html">Rails 6 raises ActiveModel::MissingAttributeError when update_columns is used with non-existing attribute</a> и <a href="https://dev.to/evilmartians/cables-vs-malloctrim-or-yet-another-ruby-memory-usage-benchmark-3emo">Cables vs. malloc_trim, or yet another Ruby memory usage benchmark</a></li>
-  <li><a href="https://medium.com/@dvandersluis/an-rspec-time-issue-and-its-not-about-timezones-a89bbd167b86">An RSpec time issue (and it’s not due to timezones)</a>, <a href="https://medium.com/@joseph.dayo/an-deep-dive-into-tensorstream-d910342e08e2">An Deep Dive into TensorStream</a> и <a href="https://blog.arkency.com/a-scary-side-of-activerecords-find/">A scary side of ActiveRecord’s find</a></li>
-  <li><a href="https://headway.io/blog/helix-improve-the-performance-of-rails-with-rust/">Helix: Improve the Performance of Rails with Rust</a> и <a href="https://github.com/customink/lamby">Lamby - simple Rails &amp; AWS Lambda integration using Rack</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://reacttraining.com/blog/react-router-v5/">React Router v5</a>, <a href="https://github.com/reduxjs/react-redux/releases/tag/v7.0.0-beta.0">React-Redux v7.0.0-beta.0</a> и <a href="https://habr.com/en/company/jugru/blog/444652/">«Пора валить из фронтенда»: Андрей Ситник о стагнации сообщества, опенсорсе и не только</a></li>
-  <li><a href="https://wwwtyro.net/2019/03/21/advanced-map-shading.html">Advanced Map Shading</a> и <a href="https://ponyfoo.com/articles/react-state-choose-wisely">React State: Choose Wisely</a></li>
-  <li><a href="https://www.futurice.com/blog/announcing-fromfrom/">Announcing fromfrom</a>, <a href="https://www.flexulator.com/">Flexulator</a>, <a href="https://github.com/nirtz89/crumbsjs">CrumbsJS - a lightweight, intuitive, vanilla ES6 fueled JS cookie and local storage library</a> и <a href="https://github.com/leeoniya/dropcss">DropCSS - a simple, thorough and fast unused-CSS cleaner</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/03/26/rails-6-adds-activemodel-errors-slice.html">Rails 6 adds ActiveModel::Errors#slice!</a>, <a href="https://blog.bigbinary.com/2019/03/20/rails-6-raises-activemodel-missingattributeerror-when-update_columns-is-used-with-non-existing-attribute.html">Rails 6 raises ActiveModel::MissingAttributeError when update_columns is used with non-existing attribute</a> и <a href="https://dev.to/evilmartians/cables-vs-malloctrim-or-yet-another-ruby-memory-usage-benchmark-3emo">Cables vs. malloc_trim, or yet another Ruby memory usage benchmark</a></li>
-  <li><a href="https://medium.com/@dvandersluis/an-rspec-time-issue-and-its-not-about-timezones-a89bbd167b86">An RSpec time issue (and it’s not due to timezones)</a>, <a href="https://medium.com/@joseph.dayo/an-deep-dive-into-tensorstream-d910342e08e2">An Deep Dive into TensorStream</a> и <a href="https://blog.arkency.com/a-scary-side-of-activerecords-find/">A scary side of ActiveRecord’s find</a></li>
-  <li><a href="https://headway.io/blog/helix-improve-the-performance-of-rails-with-rust/">Helix: Improve the Performance of Rails with Rust</a> и <a href="https://github.com/customink/lamby">Lamby - simple Rails &amp; AWS Lambda integration using Rack</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://reacttraining.com/blog/react-router-v5/">React Router v5</a>, <a href="https://github.com/reduxjs/react-redux/releases/tag/v7.0.0-beta.0">React-Redux v7.0.0-beta.0</a> и <a href="https://habr.com/en/company/jugru/blog/444652/">«Пора валить из фронтенда»: Андрей Ситник о стагнации сообщества, опенсорсе и не только</a></li>
-  <li><a href="https://wwwtyro.net/2019/03/21/advanced-map-shading.html">Advanced Map Shading</a> и <a href="https://ponyfoo.com/articles/react-state-choose-wisely">React State: Choose Wisely</a></li>
-  <li><a href="https://www.futurice.com/blog/announcing-fromfrom/">Announcing fromfrom</a>, <a href="https://www.flexulator.com/">Flexulator</a>, <a href="https://github.com/nirtz89/crumbsjs">CrumbsJS - a lightweight, intuitive, vanilla ES6 fueled JS cookie and local storage library</a> и <a href="https://github.com/leeoniya/dropcss">DropCSS - a simple, thorough and fast unused-CSS cleaner</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 26 Mar 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/03/26/podcast-07-12.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/03/26/podcast-07-12.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0712.mp3" length="46857232" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0712.mp3" fileSize="46857232" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 adds ActiveModel::Errors#slice!, Rails...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 adds ActiveModel::Errors#slice!, Rails 6 raises ActiveModel::MissingAttributeError when update_columns is used with non-existing attribute и Cables vs. malloc_trim, or yet another Ruby memory usage benchmark
-
-  
-An RSpec time issue (and it’s not due to timezones), An Deep Dive into TensorStream и A scary side of ActiveRecord’s find
-
-  
-Helix: Improve the Performance of Rails with Rust и Lamby - simple Rails &amp; AWS Lambda integration using Rack
-
-
-
-Web
-
-
-  
-React Router v5, React-Redux v7.0.0-beta.0 и «Пора валить из фронтенда»: Андрей Ситник о стагнации сообщества, опенсорсе и не только
-
-  
-Advanced Map Shading и React State: Choose Wisely
-
-  
-Announcing fromfrom, Flexulator, CrumbsJS - a lightweight, intuitive, vanilla ES6 fueled JS cookie and local storage library и DropCSS - a simple, thorough and fast unused-CSS cleaner
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0712.png"/>
-  <itunes:duration>00:39:01</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
