@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 13 Jan 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 13 Jan 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 20 Jan 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,90 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>02 выпуск 08 сезона. Microsoft Edge, Git 2.25, Deep dive into Did You Mean, Snowpack, Pxi, Postgres.js, Nano ID и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://evrone.com/yukihiro-matsumoto-interview">Yukihiro Matsumoto: “Ruby is designed for humans, not machines”</a>, <a href="https://eregon.me/blog/2020/01/13/a-migration-path-to-bundler2.html">A Migration Path to Bundler 2+</a>, <a href="https://pganalyze.com/blog/materialized-views-ruby-rails">Effectively Using Materialized Views in Ruby on Rails</a> и <a href="https://blog.appsignal.com/2020/01/15/the-pros-and-cons-of-using-structure-sql-in-your-ruby-on-rails-application.html">Pros and Cons of Using structure.sql in Your Ruby on Rails Application</a></li>
+  <li><a href="https://shime.sh/deep-dive-into-did-you-mean">Deep dive into Did You Mean</a>, <a href="https://www.mayerdan.com/ruby/2020/01/14/rails-flaky-specs-solutions">Rails Flaky Spec Solutions</a>, <a href="https://goiabada.blog/faster-ruby-apis-with-postgres-238c2f4a272c">Faster Ruby APIs with Postgres</a>, <a href="https://philna.sh/blog/2020/01/15/test-signed-cookies-in-rails/">Testing signed and encrypted cookies in Rails</a> и <a href="https://github.com/digitalocean/droplet_kit">DropletKit - the official DigitalOcean V2 API client</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://www.microsoft.com/en-us/edge">Microsoft Edge released</a> и <a href="https://github.blog/2020-01-13-highlights-from-git-2-25/">Highlights from Git 2.25</a></li>
+  <li><a href="https://www.snowpack.dev/">Snowpack - build web applications with less tooling and 10x faster iteration</a>, <a href="https://github.com/porsager/postgres">Postgres.js - The Fastest full featured PostgreSQL client for Node.js</a>, <a href="https://github.com/Yord/pxi">Pxi (pixie) - a small, fast, and magical command-line data processor</a> и <a href="https://zelark.github.io/nano-id-cc/">Nano ID is a library for generating random IDs</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://evrone.com/yukihiro-matsumoto-interview">Yukihiro Matsumoto: “Ruby is designed for humans, not machines”</a>, <a href="https://eregon.me/blog/2020/01/13/a-migration-path-to-bundler2.html">A Migration Path to Bundler 2+</a>, <a href="https://pganalyze.com/blog/materialized-views-ruby-rails">Effectively Using Materialized Views in Ruby on Rails</a> и <a href="https://blog.appsignal.com/2020/01/15/the-pros-and-cons-of-using-structure-sql-in-your-ruby-on-rails-application.html">Pros and Cons of Using structure.sql in Your Ruby on Rails Application</a></li>
+  <li><a href="https://shime.sh/deep-dive-into-did-you-mean">Deep dive into Did You Mean</a>, <a href="https://www.mayerdan.com/ruby/2020/01/14/rails-flaky-specs-solutions">Rails Flaky Spec Solutions</a>, <a href="https://goiabada.blog/faster-ruby-apis-with-postgres-238c2f4a272c">Faster Ruby APIs with Postgres</a>, <a href="https://philna.sh/blog/2020/01/15/test-signed-cookies-in-rails/">Testing signed and encrypted cookies in Rails</a> и <a href="https://github.com/digitalocean/droplet_kit">DropletKit - the official DigitalOcean V2 API client</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://www.microsoft.com/en-us/edge">Microsoft Edge released</a> и <a href="https://github.blog/2020-01-13-highlights-from-git-2-25/">Highlights from Git 2.25</a></li>
+  <li><a href="https://www.snowpack.dev/">Snowpack - build web applications with less tooling and 10x faster iteration</a>, <a href="https://github.com/porsager/postgres">Postgres.js - The Fastest full featured PostgreSQL client for Node.js</a>, <a href="https://github.com/Yord/pxi">Pxi (pixie) - a small, fast, and magical command-line data processor</a> и <a href="https://zelark.github.io/nano-id-cc/">Nano ID is a library for generating random IDs</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 20 Jan 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/01/20/podcast-08-02.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/01/20/podcast-08-02.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0802.mp3" length="34350430" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0802.mp3" fileSize="34350430" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Yukihiro Matsumoto: “Ruby is designed for huma...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  
+Yukihiro Matsumoto: “Ruby is designed for humans, not machines”, A Migration Path to Bundler 2+, Effectively Using Materialized Views in Ruby on Rails и Pros and Cons of Using structure.sql in Your Ruby on Rails Application
+
+  
+Deep dive into Did You Mean, Rails Flaky Spec Solutions, Faster Ruby APIs with Postgres, Testing signed and encrypted cookies in Rails и DropletKit - the official DigitalOcean V2 API client
+
+
+
+Web
+
+
+  
+Microsoft Edge released и Highlights from Git 2.25
+
+  
+Snowpack - build web applications with less tooling and 10x faster iteration, Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Pxi (pixie) - a small, fast, and magical command-line data processor и Nano ID is a library for generating random IDs
+
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0802.png"/>
+  <itunes:duration>00:34:14</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>01 выпуск 08 сезона. Goodbye, Clean Code, Developer Roadmaps, Rails PG Extras, Asdf-vm, IsoCity и прочее</title>
   <description>
@@ -3367,90 +3451,6 @@ Styling Best Practices Using React, Inline SVG… Cached, AssemblyScript - a Typ
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0715.png"/>
   <itunes:duration>00:31:15</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>14 выпуск 07 сезона. CanCanCan 3.0, ActionPolicy 0.3.0, Native image lazy-loading for the web, Legacy Rails, CSSBattle и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://faastruby.io/blog/faastruby-intends-to-open-source-platform/">faastRuby announces intent to open source its platform to help accelerate serverless adoption</a>, <a href="https://www.zdnet.com/article/backdoor-code-found-in-popular-bootstrap-sass-ruby-library/">Backdoor code found in popular Bootstrap-Sass Ruby library</a>, <a href="https://medium.com/@coorasse/hello-cancancan-3-0-d6f444312e6f">Hello, CanCanCan 3.0</a> и <a href="https://github.com/palkan/action_policy/releases/tag/v0.3.0">ActionPolicy 0.3.0</a></li>
-  <li><a href="https://www.botreetechnologies.com/blog/extracting-text-from-image-using-google-cloud-vision-ocr-with-ruby">Extracting text from image using Google Cloud vision OCR with Ruby</a>, <a href="https://dev.to/amplifr/monitoring-puma-web-server-with-prometheus-and-grafana-5b5o">Monitoring Puma web server with Prometheus and Grafana</a> и <a href="https://fastruby.io/blog/upgrade-rails/legacy-rails-silently-judging-you.html">Legacy Rails: Silently Judging You</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://addyosmani.com/blog/lazy-loading/">Native image lazy-loading for the web!</a>, <a href="https://www.microsoftedgeinsider.com/en-us/">Microsoft releases new Microsoft Edge based on Chromium</a>, <a href="https://devblogs.microsoft.com/visualstudio/visual-studio-2019-code-faster-work-smarter-create-the-future/">Visual Studio 2019: Code faster. Work smarter. Create the future</a> и <a href="https://dev.to/lostintangent/collaboration-doesn-t-come-in-one-size-fits-all-33ai">Collaboration doesn’t come in “One Size Fits All”</a></li>
-  <li><a href="https://victorzhou.com/blog/replacing-disqus/">Why I Replaced Disqus and You Should Too</a>, <a href="https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74">How to create better themes with CSS variables</a> и <a href="https://cssbattle.dev/">CSSBattle - replicate targets with smallest possible code</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://faastruby.io/blog/faastruby-intends-to-open-source-platform/">faastRuby announces intent to open source its platform to help accelerate serverless adoption</a>, <a href="https://www.zdnet.com/article/backdoor-code-found-in-popular-bootstrap-sass-ruby-library/">Backdoor code found in popular Bootstrap-Sass Ruby library</a>, <a href="https://medium.com/@coorasse/hello-cancancan-3-0-d6f444312e6f">Hello, CanCanCan 3.0</a> и <a href="https://github.com/palkan/action_policy/releases/tag/v0.3.0">ActionPolicy 0.3.0</a></li>
-  <li><a href="https://www.botreetechnologies.com/blog/extracting-text-from-image-using-google-cloud-vision-ocr-with-ruby">Extracting text from image using Google Cloud vision OCR with Ruby</a>, <a href="https://dev.to/amplifr/monitoring-puma-web-server-with-prometheus-and-grafana-5b5o">Monitoring Puma web server with Prometheus and Grafana</a> и <a href="https://fastruby.io/blog/upgrade-rails/legacy-rails-silently-judging-you.html">Legacy Rails: Silently Judging You</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://addyosmani.com/blog/lazy-loading/">Native image lazy-loading for the web!</a>, <a href="https://www.microsoftedgeinsider.com/en-us/">Microsoft releases new Microsoft Edge based on Chromium</a>, <a href="https://devblogs.microsoft.com/visualstudio/visual-studio-2019-code-faster-work-smarter-create-the-future/">Visual Studio 2019: Code faster. Work smarter. Create the future</a> и <a href="https://dev.to/lostintangent/collaboration-doesn-t-come-in-one-size-fits-all-33ai">Collaboration doesn’t come in “One Size Fits All”</a></li>
-  <li><a href="https://victorzhou.com/blog/replacing-disqus/">Why I Replaced Disqus and You Should Too</a>, <a href="https://blog.logrocket.com/how-to-create-better-themes-with-css-variables-5a3744105c74">How to create better themes with CSS variables</a> и <a href="https://cssbattle.dev/">CSSBattle - replicate targets with smallest possible code</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 08 Apr 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/04/08/podcast-07-14.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/04/08/podcast-07-14.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0714.mp3" length="47193506" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0714.mp3" fileSize="47193506" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  faastRuby announces intent to open source its ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-faastRuby announces intent to open source its platform to help accelerate serverless adoption, Backdoor code found in popular Bootstrap-Sass Ruby library, Hello, CanCanCan 3.0 и ActionPolicy 0.3.0
-
-  
-Extracting text from image using Google Cloud vision OCR with Ruby, Monitoring Puma web server with Prometheus and Grafana и Legacy Rails: Silently Judging You
-
-
-
-Web
-
-
-  
-Native image lazy-loading for the web!, Microsoft releases new Microsoft Edge based on Chromium, Visual Studio 2019: Code faster. Work smarter. Create the future и Collaboration doesn’t come in “One Size Fits All”
-
-  
-Why I Replaced Disqus and You Should Too, How to create better themes with CSS variables и CSSBattle - replicate targets with smallest possible code
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0714.png"/>
-  <itunes:duration>00:39:18</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
