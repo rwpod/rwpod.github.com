@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 20 Jan 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 20 Jan 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Sat, 25 Jan 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,99 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>RWPod Кафе 11: Victor Shepelev (zverok)</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Victor Shepelev (zverok):</p>
+
+<ul>
+  <li>Привет. Кто ты? Чем занимаешься?</li>
+  <li>Как ты попал в программирование и язык Ruby?</li>
+  <li>Вовлечение в разработку MRI. С чего все началось?</li>
+  <li>Тяжело ли было добавлять <a href="https://ruby-doc.org/core-mruby/Kernel.html#method-i-then">Kernel#then</a>?</li>
+  <li>Судьба <a href="https://blog.saeloun.com/2019/02/26/ruby-2-7-method-shorthand.html">”.:” (Method reference operator)</a> - интересно твое мнение</li>
+  <li>Твое увлечение open data и open source</li>
+  <li>Твои самые последние open source библиотеки. Как пришел к идеи создания?</li>
+  <li>У тебя огромное количество библиотек. Как успеваешь это все поддерживать?</li>
+  <li>Какое думаешь будущее у Ruby и комьюнити</li>
+  <li>
+    <p>Пожелание слушателям</p>
+  </li>
+  <li><a href="https://zverok.github.io">Web page</a></li>
+  <li><a href="https://zverok.github.io/blog/">Блог</a></li>
+  <li><a href="https://github.com/zverok">Github</a></li>
+  <li><a href="https://twitter.com/zverok">Twitter</a></li>
+  <li><a href="https://zverok.github.io/public.html">Public contributions</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Victor Shepelev (zverok):</p>
+
+<ul>
+  <li>Привет. Кто ты? Чем занимаешься?</li>
+  <li>Как ты попал в программирование и язык Ruby?</li>
+  <li>Вовлечение в разработку MRI. С чего все началось?</li>
+  <li>Тяжело ли было добавлять <a href="https://ruby-doc.org/core-mruby/Kernel.html#method-i-then">Kernel#then</a>?</li>
+  <li>Судьба <a href="https://blog.saeloun.com/2019/02/26/ruby-2-7-method-shorthand.html">”.:” (Method reference operator)</a> - интересно твое мнение</li>
+  <li>Твое увлечение open data и open source</li>
+  <li>Твои самые последние open source библиотеки. Как пришел к идеи создания?</li>
+  <li>У тебя огромное количество библиотек. Как успеваешь это все поддерживать?</li>
+  <li>Какое думаешь будущее у Ruby и комьюнити</li>
+  <li>
+    <p>Пожелание слушателям</p>
+  </li>
+  <li><a href="https://zverok.github.io">Web page</a></li>
+  <li><a href="https://zverok.github.io/blog/">Блог</a></li>
+  <li><a href="https://github.com/zverok">Github</a></li>
+  <li><a href="https://twitter.com/zverok">Twitter</a></li>
+  <li><a href="https://zverok.github.io/public.html">Public contributions</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Sat, 25 Jan 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/01/25/cafe-011.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/01/25/cafe-011.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/cafe/011.mp3" length="51718095" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/cafe/011.mp3" fileSize="51718095" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Victor Shepelev (zverok):
+
+
+  Привет. Кто ты? Чем занимаешься?
+  Как ты попал в програ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Victor Shepelev (zverok):
+
+
+  Привет. Кто ты? Чем занимаешься?
+  Как ты попал в программирование и язык Ruby?
+  Вовлечение в разработку MRI. С чего все началось?
+  Тяжело ли было добавлять Kernel#then?
+  Судьба ”.:” (Method reference operator) - интересно твое мнение
+  Твое увлечение open data и open source
+  Твои самые последние open source библиотеки. Как пришел к идеи создания?
+  У тебя огромное количество библиотек. Как успеваешь это все поддерживать?
+  Какое думаешь будущее у Ruby и комьюнити
+  
+    Пожелание слушателям
+  
+  Web page
+  Блог
+  Github
+  Twitter
+  Public contributions
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/cafe/011.png"/>
+  <itunes:duration>00:52:17</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>02 выпуск 08 сезона. Microsoft Edge, Git 2.25, Deep dive into Did You Mean, Snowpack, Pxi, Postgres.js, Nano ID и прочее</title>
   <description>
@@ -3367,90 +3460,6 @@ useHooks - easy to understand React Hook recipes, Fading out siblings on hover i
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0716.png"/>
   <itunes:duration>00:46:15</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>15 выпуск 07 сезона. jQuery 3.4.0 , Asciidoctor 2.0.0, Front-end Developer Handbook 2019, AssemblyScript, QUIZ: Well aimed? и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/04/09/rails-6-requires-ruby-2-5-or-newer.html">Rails 6 requires Ruby 2.5 or newer</a>, <a href="https://blog.bigbinary.com/2019/04/10/rails-6-drops-support-for-postgresql-less-than-9-3.html">Rails 6 drops support for PostgreSQL version less than 9.3</a>, <a href="https://medium.com/@sanjaywrites/action-mailbox-explained-why-how-when-af92d8708662">Rails 6: Action Mailbox — Explained. Why?How? When?</a> и <a href="http://dgb.github.io/2019/04/05/bootstrap-sass-backdoor.html">Bootstrap Sass Backdoor</a></li>
-  <li><a href="https://flexport.engineering/approximating-prettier-for-ruby-with-rubocop-8b863bd64dc6">Approximating “Prettier for Ruby” with RuboCop</a>, <a href="https://dev.to/vinistock/creating-ruby-native-extensions-kg1">Creating Ruby native extensions</a> и <a href="https://github.com/asciidoctor/asciidoctor/releases/tag/v2.0.0">Asciidoctor 2.0.0</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/">jQuery 3.4.0 Released</a>, <a href="https://frontendmasters.com/books/front-end-handbook/2019/">Front-end Developer Handbook 2019</a> и <a href="https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca">Design patterns in modern JavaScript development</a></li>
-  <li><a href="https://medium.com/the-non-traditional-developer/styling-best-practices-using-react-c37b96b8be9c">Styling Best Practices Using React</a>, <a href="https://css-tricks.com/inline-svg-cached/">Inline SVG… Cached</a>, <a href="https://github.com/AssemblyScript/assemblyscript">AssemblyScript - a TypeScript to WebAssembly compiler</a> и <a href="https://codepen.io/pehaa/full/ROapJZ">QUIZ: Well aimed?</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/04/09/rails-6-requires-ruby-2-5-or-newer.html">Rails 6 requires Ruby 2.5 or newer</a>, <a href="https://blog.bigbinary.com/2019/04/10/rails-6-drops-support-for-postgresql-less-than-9-3.html">Rails 6 drops support for PostgreSQL version less than 9.3</a>, <a href="https://medium.com/@sanjaywrites/action-mailbox-explained-why-how-when-af92d8708662">Rails 6: Action Mailbox — Explained. Why?How? When?</a> и <a href="http://dgb.github.io/2019/04/05/bootstrap-sass-backdoor.html">Bootstrap Sass Backdoor</a></li>
-  <li><a href="https://flexport.engineering/approximating-prettier-for-ruby-with-rubocop-8b863bd64dc6">Approximating “Prettier for Ruby” with RuboCop</a>, <a href="https://dev.to/vinistock/creating-ruby-native-extensions-kg1">Creating Ruby native extensions</a> и <a href="https://github.com/asciidoctor/asciidoctor/releases/tag/v2.0.0">Asciidoctor 2.0.0</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://blog.jquery.com/2019/04/10/jquery-3-4-0-released/">jQuery 3.4.0 Released</a>, <a href="https://frontendmasters.com/books/front-end-handbook/2019/">Front-end Developer Handbook 2019</a> и <a href="https://levelup.gitconnected.com/design-patterns-in-modern-javascript-development-ec84d8be06ca">Design patterns in modern JavaScript development</a></li>
-  <li><a href="https://medium.com/the-non-traditional-developer/styling-best-practices-using-react-c37b96b8be9c">Styling Best Practices Using React</a>, <a href="https://css-tricks.com/inline-svg-cached/">Inline SVG… Cached</a>, <a href="https://github.com/AssemblyScript/assemblyscript">AssemblyScript - a TypeScript to WebAssembly compiler</a> и <a href="https://codepen.io/pehaa/full/ROapJZ">QUIZ: Well aimed?</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 15 Apr 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/04/15/podcast-07-15.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/04/15/podcast-07-15.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0715.mp3" length="37531190" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0715.mp3" fileSize="37531190" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 requires Ruby 2.5 or newer, Rails 6 dr...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 requires Ruby 2.5 or newer, Rails 6 drops support for PostgreSQL version less than 9.3, Rails 6: Action Mailbox — Explained. Why?How? When? и Bootstrap Sass Backdoor
-
-  
-Approximating “Prettier for Ruby” with RuboCop, Creating Ruby native extensions и Asciidoctor 2.0.0
-
-
-
-Web
-
-
-  
-jQuery 3.4.0 Released, Front-end Developer Handbook 2019 и Design patterns in modern JavaScript development
-
-  
-Styling Best Practices Using React, Inline SVG… Cached, AssemblyScript - a TypeScript to WebAssembly compiler и QUIZ: Well aimed?
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0715.png"/>
-  <itunes:duration>00:31:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
