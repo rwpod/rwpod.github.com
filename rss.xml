@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Sat, 25 Jan 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Sat, 25 Jan 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 27 Jan 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,130 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>03 выпуск 08 сезона. Yarn 2, MIR, Playwright, Web in 2020, Ruby ML for Python Coders, React Nice Dates и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/01/21/rails-6-1-adds-query-method-missing-to-find-orphan-records">Rails 6.1 adds query method missing to find orphan records</a></li>
+  <li><a href="https://docs.knapsackpro.com/2020/uri-escape-is-obsolete-percent-encoding-your-query-string">URI.escape is obsolete. Percent-encoding your query string</a></li>
+  <li><a href="https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project/">MIR: A lightweight JIT compiler project</a></li>
+  <li>
+    <p><a href="https://ilyabylich.svbtle.com/evaluating-ruby-in-ruby">Evaluating Ruby in Ruby</a></p>
+  </li>
+  <li><a href="https://blog.appsignal.com/2020/01/22/rails-is-fast-optimize-your-view-performance.html">Rails is Fast: Optimize Your View Performance</a></li>
+  <li><a href="https://blog.nelhage.com/post/why-sorbet-is-fast/">Why the Sorbet typechecker is fast</a></li>
+  <li><a href="https://ankane.org/ruby-ml-for-python-coders">Ruby ML for Python Coders</a></li>
+  <li><a href="https://github.com/rgrove/crass">Crass - a Ruby CSS parser that’s fully compliant with the CSS Syntax Level 3 specification</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://dev.to/arcanis/introducing-yarn-2-4eh1">Introducing Yarn 2 !</a></li>
+  <li><a href="https://css-tricks.com/playwright/">Playwright</a></li>
+  <li><a href="https://css-tricks.com/the-web-in-2020-extensibility-and-interoperability/">The Web in 2020: Extensibility and Interoperability</a></li>
+  <li>
+    <p><a href="https://blog.sapegin.me/all/internationalization/">Six donts of web app internationalization</a></p>
+  </li>
+  <li><a href="https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36">JavaScript Visualized: Generators and Iterators</a></li>
+  <li><a href="https://gist.github.com/chooie/7094d8340b673241ee203c944a29658d">3 things I’ve learned in 5 years of JavaScript Software Development</a></li>
+  <li><a href="https://reactnicedates.hernansartorio.com/">React Nice Dates - a responsive, touch-friendly, and modular date picker library</a></li>
+  <li><a href="https://dev.to/fezvrasta/smarter-tooltips-and-popovers-with-popper-2-44bh">Smarter Tooltips and Popovers with Popper 2</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/01/21/rails-6-1-adds-query-method-missing-to-find-orphan-records">Rails 6.1 adds query method missing to find orphan records</a></li>
+  <li><a href="https://docs.knapsackpro.com/2020/uri-escape-is-obsolete-percent-encoding-your-query-string">URI.escape is obsolete. Percent-encoding your query string</a></li>
+  <li><a href="https://developers.redhat.com/blog/2020/01/20/mir-a-lightweight-jit-compiler-project/">MIR: A lightweight JIT compiler project</a></li>
+  <li>
+    <p><a href="https://ilyabylich.svbtle.com/evaluating-ruby-in-ruby">Evaluating Ruby in Ruby</a></p>
+  </li>
+  <li><a href="https://blog.appsignal.com/2020/01/22/rails-is-fast-optimize-your-view-performance.html">Rails is Fast: Optimize Your View Performance</a></li>
+  <li><a href="https://blog.nelhage.com/post/why-sorbet-is-fast/">Why the Sorbet typechecker is fast</a></li>
+  <li><a href="https://ankane.org/ruby-ml-for-python-coders">Ruby ML for Python Coders</a></li>
+  <li><a href="https://github.com/rgrove/crass">Crass - a Ruby CSS parser that’s fully compliant with the CSS Syntax Level 3 specification</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://dev.to/arcanis/introducing-yarn-2-4eh1">Introducing Yarn 2 !</a></li>
+  <li><a href="https://css-tricks.com/playwright/">Playwright</a></li>
+  <li><a href="https://css-tricks.com/the-web-in-2020-extensibility-and-interoperability/">The Web in 2020: Extensibility and Interoperability</a></li>
+  <li>
+    <p><a href="https://blog.sapegin.me/all/internationalization/">Six donts of web app internationalization</a></p>
+  </li>
+  <li><a href="https://dev.to/lydiahallie/javascript-visualized-generators-and-iterators-e36">JavaScript Visualized: Generators and Iterators</a></li>
+  <li><a href="https://gist.github.com/chooie/7094d8340b673241ee203c944a29658d">3 things I’ve learned in 5 years of JavaScript Software Development</a></li>
+  <li><a href="https://reactnicedates.hernansartorio.com/">React Nice Dates - a responsive, touch-friendly, and modular date picker library</a></li>
+  <li><a href="https://dev.to/fezvrasta/smarter-tooltips-and-popovers-with-popper-2-44bh">Smarter Tooltips and Popovers with Popper 2</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 27 Jan 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/01/27/podcast-08-03.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/01/27/podcast-08-03.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0803.mp3" length="44915919" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0803.mp3" fileSize="44915919" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6.1 adds query method missing to find or...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6.1 adds query method missing to find orphan records
+  URI.escape is obsolete. Percent-encoding your query string
+  MIR: A lightweight JIT compiler project
+  
+    Evaluating Ruby in Ruby
+  
+  Rails is Fast: Optimize Your View Performance
+  Why the Sorbet typechecker is fast
+  Ruby ML for Python Coders
+  Crass - a Ruby CSS parser that’s fully compliant with the CSS Syntax Level 3 specification
+
+
+Web
+
+
+  Introducing Yarn 2 !
+  Playwright
+  The Web in 2020: Extensibility and Interoperability
+  
+    Six donts of web app internationalization
+  
+  JavaScript Visualized: Generators and Iterators
+  3 things I’ve learned in 5 years of JavaScript Software Development
+  React Nice Dates - a responsive, touch-friendly, and modular date picker library
+  Smarter Tooltips and Popovers with Popper 2
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0803.png"/>
+  <itunes:duration>00:44:34</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>RWPod Кафе 11: Victor Shepelev (zverok)</title>
   <description>
@@ -3376,90 +3500,6 @@ Uppy 1.0: Your best friend in file uploading, Faast.js - serverless batch comput
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0717.png"/>
   <itunes:duration>00:35:45</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>16 выпуск 07 сезона. Ruby 2.6.3, Create React App v3, Pattern matching in Ruby, Reattempt, JavaScript For Cats и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2019/04/17/ruby-2-6-3-released/">Ruby 2.6.3 Released</a>, <a href="https://www.ruby-lang.org/en/news/2019/04/23/move-to-git-from-svn/">Ruby Repository Moved to Git from Subversion</a>, <a href="https://github.com/sparklemotion/nokogiri/issues/1892">Update your nokogiri gem to 1.10.3</a>, <a href="https://blog.bigbinary.com/2019/04/16/rails-6-adds-implicit_order_column.html">Rails 6 adds implicit_order_column</a>, <a href="https://blog.bigbinary.com/2019/04/23/rails-6-allows-configurable-attribute-name-on-has_secure_password.html">Rails 6 allows configurable attribute name on has_secure_password</a>, <a href="https://blog.bigbinary.com/2019/04/22/rails-6-allows-to-override-the-activemodel-errors-full_message-format-at-the-model-level-and-at-the-attribute-level.html">Rails 6 allows to override the ActiveModel::Errors#full_message format at the model level and at the attribute level</a>, <a href="https://twitter.com/darkdimius/status/1119115657776209920">Ruby3 will have types</a> и <a href="https://speakerdeck.com/k_tsj/pattern-matching-new-feature-in-ruby-2-dot-7">Pattern matching - New feature in Ruby 2.7</a></li>
-  <li><a href="https://blog.heroku.com/rails-database-optimization">Optimizing Database Performance in Rails</a>, <a href="https://github.com/baweaver/qo">Qo - Query Object - Pattern matching and fluent querying in Ruby</a> и <a href="https://github.com/typesigs/awesome-types">Awesome Types &amp; Type Signatures / Annotations for Ruby</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://github.com/facebook/create-react-app/releases/tag/v3.0.0">Create React App v3</a>, <a href="https://mathiasbynens.be/notes/globalthis">A horrifying globalThis polyfill in universal JavaScript</a>, <a href="https://css-tricks.com/simulating-mouse-movement/">Simulating Mouse Movement</a> и <a href="https://www.codebeast.dev/react-memoize-hooks-useRef-useCallback-useMemo/">A Closer Look at React Memoize Hooks: useRef, useCallback, and useMemo</a></li>
-  <li><a href="https://usehooks.com/">useHooks - easy to understand React Hook recipes</a>, <a href="https://www.trysmudford.com/blog/fade-out-siblings-css-trick/">Fading out siblings on hover in CSS</a>, <a href="https://github.com/amejiarosario/dsa.js">Data Structures and Algorithms in JavaScript</a>, <a href="https://github.com/wsmd/reattempt">Reattempt - a library lets you retry asynchronous functions when they fail</a> и <a href="http://jsforcats.com/">JavaScript For Cats</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2019/04/17/ruby-2-6-3-released/">Ruby 2.6.3 Released</a>, <a href="https://www.ruby-lang.org/en/news/2019/04/23/move-to-git-from-svn/">Ruby Repository Moved to Git from Subversion</a>, <a href="https://github.com/sparklemotion/nokogiri/issues/1892">Update your nokogiri gem to 1.10.3</a>, <a href="https://blog.bigbinary.com/2019/04/16/rails-6-adds-implicit_order_column.html">Rails 6 adds implicit_order_column</a>, <a href="https://blog.bigbinary.com/2019/04/23/rails-6-allows-configurable-attribute-name-on-has_secure_password.html">Rails 6 allows configurable attribute name on has_secure_password</a>, <a href="https://blog.bigbinary.com/2019/04/22/rails-6-allows-to-override-the-activemodel-errors-full_message-format-at-the-model-level-and-at-the-attribute-level.html">Rails 6 allows to override the ActiveModel::Errors#full_message format at the model level and at the attribute level</a>, <a href="https://twitter.com/darkdimius/status/1119115657776209920">Ruby3 will have types</a> и <a href="https://speakerdeck.com/k_tsj/pattern-matching-new-feature-in-ruby-2-dot-7">Pattern matching - New feature in Ruby 2.7</a></li>
-  <li><a href="https://blog.heroku.com/rails-database-optimization">Optimizing Database Performance in Rails</a>, <a href="https://github.com/baweaver/qo">Qo - Query Object - Pattern matching and fluent querying in Ruby</a> и <a href="https://github.com/typesigs/awesome-types">Awesome Types &amp; Type Signatures / Annotations for Ruby</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://github.com/facebook/create-react-app/releases/tag/v3.0.0">Create React App v3</a>, <a href="https://mathiasbynens.be/notes/globalthis">A horrifying globalThis polyfill in universal JavaScript</a>, <a href="https://css-tricks.com/simulating-mouse-movement/">Simulating Mouse Movement</a> и <a href="https://www.codebeast.dev/react-memoize-hooks-useRef-useCallback-useMemo/">A Closer Look at React Memoize Hooks: useRef, useCallback, and useMemo</a></li>
-  <li><a href="https://usehooks.com/">useHooks - easy to understand React Hook recipes</a>, <a href="https://www.trysmudford.com/blog/fade-out-siblings-css-trick/">Fading out siblings on hover in CSS</a>, <a href="https://github.com/amejiarosario/dsa.js">Data Structures and Algorithms in JavaScript</a>, <a href="https://github.com/wsmd/reattempt">Reattempt - a library lets you retry asynchronous functions when they fail</a> и <a href="http://jsforcats.com/">JavaScript For Cats</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 23 Apr 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/04/23/podcast-07-16.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/04/23/podcast-07-16.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0716.mp3" length="55521986" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0716.mp3" fileSize="55521986" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6.3 Released, Ruby Repository Moved to ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6.3 Released, Ruby Repository Moved to Git from Subversion, Update your nokogiri gem to 1.10.3, Rails 6 adds implicit_order_column, Rails 6 allows configurable attribute name on has_secure_password, Rails 6 allows to override the ActiveModel::Errors#full_message format at the model level and at the attribute level, Ruby3 will have types и Pattern matching - New feature in Ruby 2.7
-
-  
-Optimizing Database Performance in Rails, Qo - Query Object - Pattern matching and fluent querying in Ruby и Awesome Types &amp; Type Signatures / Annotations for Ruby
-
-
-
-Web
-
-
-  
-Create React App v3, A horrifying globalThis polyfill in universal JavaScript, Simulating Mouse Movement и A Closer Look at React Memoize Hooks: useRef, useCallback, and useMemo
-
-  
-useHooks - easy to understand React Hook recipes, Fading out siblings on hover in CSS, Data Structures and Algorithms in JavaScript, Reattempt - a library lets you retry asynchronous functions when they fail и JavaScript For Cats
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0716.png"/>
-  <itunes:duration>00:46:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
