@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 27 Jan 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 27 Jan 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Fri, 31 Jan 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,102 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>RWPod Кафе 12: Valentine Zavadskiy</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Valentine Zavadskiy:</p>
+
+<ul>
+  <li>Привет. Кто ты? Чем занимаешься?</li>
+  <li>Как ты увлекся программированием?</li>
+  <li>Когда начал профессионально заниматься программированием?</li>
+  <li>Получал ли образование в этой сфере и пригодилось ли?</li>
+  <li>Как познакомился с Ruby?</li>
+  <li>Любишь ли фронтенд, как складывались у тебя с ним отношения?</li>
+  <li>Minsk.rb - идея создания, сложности, комьюнити, будующее</li>
+  <li>Подкаст ProConf - идея создания, интересные доклады</li>
+  <li>Вторая любимая технология, после Ruby?</li>
+  <li>Какое думаешь будущее у Ruby и комьюнити</li>
+  <li>Рекоммендации слушателям (книги / фильмы / что угодно)</li>
+  <li>
+    <p>Пожелание слушателям (личное)</p>
+  </li>
+  <li><a href="https://www.facebook.com/saicheg">Facebook</a></li>
+  <li><a href="https://github.com/Saicheg">Github</a></li>
+  <li><a href="https://www.facebook.com/minskruby/">Minsk.rb</a></li>
+  <li><a href="https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw">ProConf</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Valentine Zavadskiy:</p>
+
+<ul>
+  <li>Привет. Кто ты? Чем занимаешься?</li>
+  <li>Как ты увлекся программированием?</li>
+  <li>Когда начал профессионально заниматься программированием?</li>
+  <li>Получал ли образование в этой сфере и пригодилось ли?</li>
+  <li>Как познакомился с Ruby?</li>
+  <li>Любишь ли фронтенд, как складывались у тебя с ним отношения?</li>
+  <li>Minsk.rb - идея создания, сложности, комьюнити, будующее</li>
+  <li>Подкаст ProConf - идея создания, интересные доклады</li>
+  <li>Вторая любимая технология, после Ruby?</li>
+  <li>Какое думаешь будущее у Ruby и комьюнити</li>
+  <li>Рекоммендации слушателям (книги / фильмы / что угодно)</li>
+  <li>
+    <p>Пожелание слушателям (личное)</p>
+  </li>
+  <li><a href="https://www.facebook.com/saicheg">Facebook</a></li>
+  <li><a href="https://github.com/Saicheg">Github</a></li>
+  <li><a href="https://www.facebook.com/minskruby/">Minsk.rb</a></li>
+  <li><a href="https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw">ProConf</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Fri, 31 Jan 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/01/31/cafe-012.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/01/31/cafe-012.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/cafe/012.mp3" length="64606287" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/cafe/012.mp3" fileSize="64606287" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Valentine Zavadskiy:
+
+
+  Привет. Кто ты? Чем занимаешься?
+  Как ты увлекся программиро...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Valentine Zavadskiy:
+
+
+  Привет. Кто ты? Чем занимаешься?
+  Как ты увлекся программированием?
+  Когда начал профессионально заниматься программированием?
+  Получал ли образование в этой сфере и пригодилось ли?
+  Как познакомился с Ruby?
+  Любишь ли фронтенд, как складывались у тебя с ним отношения?
+  Minsk.rb - идея создания, сложности, комьюнити, будующее
+  Подкаст ProConf - идея создания, интересные доклады
+  Вторая любимая технология, после Ruby?
+  Какое думаешь будущее у Ruby и комьюнити
+  Рекоммендации слушателям (книги / фильмы / что угодно)
+  
+    Пожелание слушателям (личное)
+  
+  Facebook
+  Github
+  Minsk.rb
+  ProConf
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/cafe/012.png"/>
+  <itunes:duration>01:05:15</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>03 выпуск 08 сезона. Yarn 2, MIR, Playwright, Web in 2020, Ruby ML for Python Coders, React Nice Dates и прочее</title>
   <description>
@@ -3416,90 +3512,6 @@ Building the New facebook.com with React, GraphQL and Relay, Shimport - shim for
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0718.png"/>
   <itunes:duration>00:37:28</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>17 выпуск 07 сезона. Rails 6.0.0 rc1, Node.js 12, Ruby 3 Progress Report, Progressive Font Enrichment, GB Studio и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://weblog.rubyonrails.org/2019/4/24/Rails-6-0-rc1-released/">Rails 6.0.0 rc1 released</a>, <a href="https://blog.bigbinary.com/2019/04/24/rails-6-adds-cpu-time-idle-time-and-allocations-to-activesupport-notifications-event.html">Rails 6 adds CPU time, idle time and allocations to ActiveSupport::Notifications::Event</a>, <a href="https://rom-rb.org/blog/rom-5-0-and-rom-sql-3-0-released/">Rom 5.0.0 and rom-sql 3.0.0 released</a> и <a href="https://docs.google.com/presentation/d/1z_5JT0-MJySGn6UGrtdafK1oj9kGSO5sGlTtEQJz0JU/edit#slide=id.p">RubyKaigi2019 Ruby 3 Progress Report</a></li>
-  <li><a href="https://fastruby.io/blog/upgrade-rails/dual-boot/dual-boot-with-rails-6-0-beta.html">Getting Ready for Rails 6.0: How to Dual Boot</a>, <a href="https://dev.betterdoc.org/tools/2019/04/05/use-pessimistic-locking-to-make-long-running-tasks-in-rails-free-of-race-conditions.html">Use pessimistic locking to make long running tasks in Rails free of race conditions</a>, <a href="https://semaphoreci.com/blog/google-cloud-run-cicd-first-look">A first look at Google Cloud Run</a> и <a href="https://www.graphiti.dev/guides/">Graphiti: add REST-based Graph APIs to Ruby Webapps</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f">Introducing Node.js 12</a>, <a href="https://snyk.io/blog/after-three-years-of-silence-a-new-jquery-prototype-pollution-vulnerability-emerges-once-again/">After three years of silence, a new jQuery prototype pollution vulnerability emerges once again</a>, <a href="https://rwt.io/typography-tips/progressive-font-enrichment-reinventing-web-font-performance">Progressive Font Enrichment: reinventing web font performance</a> и <a href="https://davidwalsh.name/javascript-tricks">7 Useful JavaScript Tricks</a></li>
-  <li><a href="https://uppy.io/blog/2019/04/1.0/">Uppy 1.0: Your best friend in file uploading</a>, <a href="https://faastjs.org/">Faast.js - serverless batch computing made simple,</a> и <a href="https://www.gbstudio.dev/">GB Studio - visual retro game maker</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://weblog.rubyonrails.org/2019/4/24/Rails-6-0-rc1-released/">Rails 6.0.0 rc1 released</a>, <a href="https://blog.bigbinary.com/2019/04/24/rails-6-adds-cpu-time-idle-time-and-allocations-to-activesupport-notifications-event.html">Rails 6 adds CPU time, idle time and allocations to ActiveSupport::Notifications::Event</a>, <a href="https://rom-rb.org/blog/rom-5-0-and-rom-sql-3-0-released/">Rom 5.0.0 and rom-sql 3.0.0 released</a> и <a href="https://docs.google.com/presentation/d/1z_5JT0-MJySGn6UGrtdafK1oj9kGSO5sGlTtEQJz0JU/edit#slide=id.p">RubyKaigi2019 Ruby 3 Progress Report</a></li>
-  <li><a href="https://fastruby.io/blog/upgrade-rails/dual-boot/dual-boot-with-rails-6-0-beta.html">Getting Ready for Rails 6.0: How to Dual Boot</a>, <a href="https://dev.betterdoc.org/tools/2019/04/05/use-pessimistic-locking-to-make-long-running-tasks-in-rails-free-of-race-conditions.html">Use pessimistic locking to make long running tasks in Rails free of race conditions</a>, <a href="https://semaphoreci.com/blog/google-cloud-run-cicd-first-look">A first look at Google Cloud Run</a> и <a href="https://www.graphiti.dev/guides/">Graphiti: add REST-based Graph APIs to Ruby Webapps</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/@nodejs/introducing-node-js-12-76c41a1b3f3f">Introducing Node.js 12</a>, <a href="https://snyk.io/blog/after-three-years-of-silence-a-new-jquery-prototype-pollution-vulnerability-emerges-once-again/">After three years of silence, a new jQuery prototype pollution vulnerability emerges once again</a>, <a href="https://rwt.io/typography-tips/progressive-font-enrichment-reinventing-web-font-performance">Progressive Font Enrichment: reinventing web font performance</a> и <a href="https://davidwalsh.name/javascript-tricks">7 Useful JavaScript Tricks</a></li>
-  <li><a href="https://uppy.io/blog/2019/04/1.0/">Uppy 1.0: Your best friend in file uploading</a>, <a href="https://faastjs.org/">Faast.js - serverless batch computing made simple,</a> и <a href="https://www.gbstudio.dev/">GB Studio - visual retro game maker</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 29 Apr 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/04/29/podcast-07-17.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/04/29/podcast-07-17.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0717.mp3" length="42935498" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0717.mp3" fileSize="42935498" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6.0.0 rc1 released, Rails 6 adds CPU tim...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6.0.0 rc1 released, Rails 6 adds CPU time, idle time and allocations to ActiveSupport::Notifications::Event, Rom 5.0.0 and rom-sql 3.0.0 released и RubyKaigi2019 Ruby 3 Progress Report
-
-  
-Getting Ready for Rails 6.0: How to Dual Boot, Use pessimistic locking to make long running tasks in Rails free of race conditions, A first look at Google Cloud Run и Graphiti: add REST-based Graph APIs to Ruby Webapps
-
-
-
-Web
-
-
-  
-Introducing Node.js 12, After three years of silence, a new jQuery prototype pollution vulnerability emerges once again, Progressive Font Enrichment: reinventing web font performance и 7 Useful JavaScript Tricks
-
-  
-Uppy 1.0: Your best friend in file uploading, Faast.js - serverless batch computing made simple, и GB Studio - visual retro game maker
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0717.png"/>
-  <itunes:duration>00:35:45</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
