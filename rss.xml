@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 03 Feb 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 03 Feb 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 10 Feb 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,130 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>05 выпуск 08 сезона. Angular 9, Electron 8.0.0, Rails 6.1 introduces class_names helper, CheerpJ 2.0, Strong Migrations и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/02/04/rails-support-for-if_exists-if_not_exists-on-remove_column-add_column-in-migrations">Rails adds support for if_exists/if_not_exists on remove_column/add_column in migrations</a></li>
+  <li><a href="https://blog.bigbinary.com/2020/02/04/rails-6-1-introduces-class_names-helper.html">Rails 6.1 introduces class_names helper</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/03/rails-allows-configure-service-for-attachments-to-activestorage">Rails 6.1 adds support for multiple storage services to Active Storage</a></li>
+  <li>
+    <p><a href="https://kukicola.io/posts/handling-ruby-27-deprecations-warnings">Handling Ruby 2.7 deprecations warnings</a></p>
+  </li>
+  <li><a href="https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application">Dockerizing a Ruby on Rails Application</a></li>
+  <li><a href="https://withatwist.dev/backward-compatible-database-migrations.html">Backward-compatible database migrations</a></li>
+  <li><a href="https://github.com/ankane/strong_migrations">Strong Migrations - catch unsafe migrations in development</a></li>
+  <li><a href="https://github.com/victor-am/ruby_detective">Ruby Detective - investigating your code dependencies</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3">Version 9 of Angular Now Available — Project Ivy has arrived!</a></li>
+  <li><a href="https://www.electronjs.org/blog/electron-8-0">Electron 8.0.0</a></li>
+  <li>
+    <p><a href="https://alligator.io/js/es2020/">What’s new in ECMAScript 2020 (ES2020)</a></p>
+  </li>
+  <li><a href="https://medium.com/leaningtech/cheerpj-2-0-released-381f6d03e4e">CheerpJ 2.0 released — now with WebAssembly support</a></li>
+  <li><a href="https://estevanmaito.github.io/sharect/">Sharect - a JavaScript library to let people share their text selections to social networks</a></li>
+  <li><a href="https://volument.com/baretest">Baretest — An extremely minimalistic alternative to Jest</a></li>
+  <li><a href="https://nickdeny.github.io/darkmode-js/">DarkModeJS - pure Javascript, without any plugins and jQuery</a></li>
+  <li><a href="https://neumorphism.io/">Neumorphism.io - generate Soft-UI CSS code</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/02/04/rails-support-for-if_exists-if_not_exists-on-remove_column-add_column-in-migrations">Rails adds support for if_exists/if_not_exists on remove_column/add_column in migrations</a></li>
+  <li><a href="https://blog.bigbinary.com/2020/02/04/rails-6-1-introduces-class_names-helper.html">Rails 6.1 introduces class_names helper</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/03/rails-allows-configure-service-for-attachments-to-activestorage">Rails 6.1 adds support for multiple storage services to Active Storage</a></li>
+  <li>
+    <p><a href="https://kukicola.io/posts/handling-ruby-27-deprecations-warnings">Handling Ruby 2.7 deprecations warnings</a></p>
+  </li>
+  <li><a href="https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application">Dockerizing a Ruby on Rails Application</a></li>
+  <li><a href="https://withatwist.dev/backward-compatible-database-migrations.html">Backward-compatible database migrations</a></li>
+  <li><a href="https://github.com/ankane/strong_migrations">Strong Migrations - catch unsafe migrations in development</a></li>
+  <li><a href="https://github.com/victor-am/ruby_detective">Ruby Detective - investigating your code dependencies</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.angular.io/version-9-of-angular-now-available-project-ivy-has-arrived-23c97b63cfa3">Version 9 of Angular Now Available — Project Ivy has arrived!</a></li>
+  <li><a href="https://www.electronjs.org/blog/electron-8-0">Electron 8.0.0</a></li>
+  <li>
+    <p><a href="https://alligator.io/js/es2020/">What’s new in ECMAScript 2020 (ES2020)</a></p>
+  </li>
+  <li><a href="https://medium.com/leaningtech/cheerpj-2-0-released-381f6d03e4e">CheerpJ 2.0 released — now with WebAssembly support</a></li>
+  <li><a href="https://estevanmaito.github.io/sharect/">Sharect - a JavaScript library to let people share their text selections to social networks</a></li>
+  <li><a href="https://volument.com/baretest">Baretest — An extremely minimalistic alternative to Jest</a></li>
+  <li><a href="https://nickdeny.github.io/darkmode-js/">DarkModeJS - pure Javascript, without any plugins and jQuery</a></li>
+  <li><a href="https://neumorphism.io/">Neumorphism.io - generate Soft-UI CSS code</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 10 Feb 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/02/10/podcast-08-05.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/02/10/podcast-08-05.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0805.mp3" length="33831570" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0805.mp3" fileSize="33831570" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails adds support for if_exists/if_not_exists...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails adds support for if_exists/if_not_exists on remove_column/add_column in migrations
+  Rails 6.1 introduces class_names helper
+  Rails 6.1 adds support for multiple storage services to Active Storage
+  
+    Handling Ruby 2.7 deprecations warnings
+  
+  Dockerizing a Ruby on Rails Application
+  Backward-compatible database migrations
+  Strong Migrations - catch unsafe migrations in development
+  Ruby Detective - investigating your code dependencies
+
+
+Web
+
+
+  Version 9 of Angular Now Available — Project Ivy has arrived!
+  Electron 8.0.0
+  
+    What’s new in ECMAScript 2020 (ES2020)
+  
+  CheerpJ 2.0 released — now with WebAssembly support
+  Sharect - a JavaScript library to let people share their text selections to social networks
+  Baretest — An extremely minimalistic alternative to Jest
+  DarkModeJS - pure Javascript, without any plugins and jQuery
+  Neumorphism.io - generate Soft-UI CSS code
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0805.png"/>
+  <itunes:duration>00:33:19</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>04 выпуск 08 сезона. Deno, Timestamp Truncation, 16 New ML Gems for Ruby, ResizeObserver, Vacuum и прочее</title>
   <description>
@@ -3462,90 +3586,6 @@ Storeon: “Redux” in 173 bytes, Blueprint - a React-based UI toolkit for the 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0720.png"/>
   <itunes:duration>00:30:42</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>19 выпуск 07 сезона. GitHub Package Registry, Opal 1.0, React Native for Windows, Hybrid Lazy Loading, Hybrids, Cssfx.dev и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.blog/2019-05-10-introducing-github-package-registry/">Introducing GitHub Package Registry</a>, <a href="http://opalrb.com/blog/2019/05/12/opal-1-0/">Opal 1.0</a> и <a href="https://developer.squareup.com/blog/rubykaigi-and-the-path-to-ruby-3/">RubyKaigi and the Path to Ruby 3</a></li>
-  <li><a href="https://www.ghostcassette.com/function-composition-in-ruby/">A Guide to Function Composition in Ruby</a>, <a href="https://github.com/djezzzl/factory_trace">FactoryTrace - simple tool to maintain factories and traits from FactoryBot</a> и <a href="https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A/videos">RubyKaigi 2019 (videos)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://techcrunch.com/2019/05/06/microsoft-launches-react-native-for-windows/">Microsoft launches React Native for Windows</a>, <a href="https://snyk.io/blog/a-denial-of-service-vulnerability-discovered-in-the-axios-javascript-package-affecting-all-versions-of-the-popular-http-client/">A Denial of Service vulnerability discovered in the Axios JavaScript package - affecting all versions of the popular HTTP client</a>, <a href="https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html">The new evergreen Googlebot</a> и <a href="https://web.dev/hands-on-portals">Hands-on with Portals: seamless navigations on the Web</a></li>
-  <li><a href="https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/">Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading</a>, <a href="https://snipcart.com/blog/choose-best-static-site-generator">How to Choose the Best Static Site Generator for Your 2019 Project</a>, <a href="https://github.com/victorvoid/dinoql">Dinoql - a customizable GraphQL style query language for interacting with JavaScript objects</a>, <a href="https://hybrids.js.org/">Hybrids - a UI library for creating Web Components, which favors plain objects and pure functions</a> и <a href="https://cssfx.dev/">Cssfx.dev - beautifully simple click-to-copy CSS effects</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://github.blog/2019-05-10-introducing-github-package-registry/">Introducing GitHub Package Registry</a>, <a href="http://opalrb.com/blog/2019/05/12/opal-1-0/">Opal 1.0</a> и <a href="https://developer.squareup.com/blog/rubykaigi-and-the-path-to-ruby-3/">RubyKaigi and the Path to Ruby 3</a></li>
-  <li><a href="https://www.ghostcassette.com/function-composition-in-ruby/">A Guide to Function Composition in Ruby</a>, <a href="https://github.com/djezzzl/factory_trace">FactoryTrace - simple tool to maintain factories and traits from FactoryBot</a> и <a href="https://www.youtube.com/channel/UCBSg5zH-VFJ42BGQFk4VH2A/videos">RubyKaigi 2019 (videos)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://techcrunch.com/2019/05/06/microsoft-launches-react-native-for-windows/">Microsoft launches React Native for Windows</a>, <a href="https://snyk.io/blog/a-denial-of-service-vulnerability-discovered-in-the-axios-javascript-package-affecting-all-versions-of-the-popular-http-client/">A Denial of Service vulnerability discovered in the Axios JavaScript package - affecting all versions of the popular HTTP client</a>, <a href="https://webmasters.googleblog.com/2019/05/the-new-evergreen-googlebot.html">The new evergreen Googlebot</a> и <a href="https://web.dev/hands-on-portals">Hands-on with Portals: seamless navigations on the Web</a></li>
-  <li><a href="https://www.smashingmagazine.com/2019/05/hybrid-lazy-loading-progressive-migration-native/">Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading</a>, <a href="https://snipcart.com/blog/choose-best-static-site-generator">How to Choose the Best Static Site Generator for Your 2019 Project</a>, <a href="https://github.com/victorvoid/dinoql">Dinoql - a customizable GraphQL style query language for interacting with JavaScript objects</a>, <a href="https://hybrids.js.org/">Hybrids - a UI library for creating Web Components, which favors plain objects and pure functions</a> и <a href="https://cssfx.dev/">Cssfx.dev - beautifully simple click-to-copy CSS effects</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 13 May 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/05/13/podcast-07-19.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/05/13/podcast-07-19.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0719.mp3" length="39108706" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0719.mp3" fileSize="39108706" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Introducing GitHub Package Registry, Opal 1.0 ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Introducing GitHub Package Registry, Opal 1.0 и RubyKaigi and the Path to Ruby 3
-
-  
-A Guide to Function Composition in Ruby, FactoryTrace - simple tool to maintain factories and traits from FactoryBot и RubyKaigi 2019 (videos)
-
-
-
-Web
-
-
-  
-Microsoft launches React Native for Windows, A Denial of Service vulnerability discovered in the Axios JavaScript package - affecting all versions of the popular HTTP client, The new evergreen Googlebot и Hands-on with Portals: seamless navigations on the Web
-
-  
-Hybrid Lazy Loading: A Progressive Migration To Native Lazy Loading, How to Choose the Best Static Site Generator for Your 2019 Project, Dinoql - a customizable GraphQL style query language for interacting with JavaScript objects, Hybrids - a UI library for creating Web Components, which favors plain objects and pure functions и Cssfx.dev - beautifully simple click-to-copy CSS effects
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0719.png"/>
-  <itunes:duration>00:32:34</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
