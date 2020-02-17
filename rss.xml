@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 10 Feb 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 10 Feb 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 17 Feb 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,127 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>06 выпуск 08 сезона. Opening The Ruby Concurrency Toolbox, Ionic 5, Ruby API, Type Route, Esbuild, Legra и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/02/14/rails-6-multiple-database-support">Rails adds ActiveRecord API for switching multiple database connections</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/12/rails-active-support-disallowed-deprecations">Rails introduces disallowed deprecations in ActiveSupport</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/11/rails-benchmark-generator">Rails has added a benchmark generator</a></li>
+  <li>
+    <p><a href="https://www.honeybadger.io/blog/ruby-concurrency-parallelism/">Opening The Ruby Concurrency Toolbox</a></p>
+  </li>
+  <li><a href="https://blog.planetargon.com/entries/how-to-deal-with-1000-failing-specs-in-a-rails-app">How to Deal with 1,000 Failing Specs in a Rails App</a></li>
+  <li><a href="https://kukicola.io/posts/automatic-image-moderation-using-amazon-rekognition">Automatic image moderation using Amazon Rekognition</a></li>
+  <li><a href="https://medium.com/faun/health-check-rack-middleware-b6b126efbaa8">Health Check Rack Middleware</a></li>
+  <li><a href="https://rubyapi.org/">Ruby API - easily find Ruby documentation</a></li>
+  <li><a href="https://github.com/omniauth/omniauth-github/releases/tag/v1.4.0">Omniauth-github 1.4.0</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://ionicframework.com/blog/announcing-ionic-5/">Announcing Ionic 5!</a></li>
+  <li><a href="https://medium.com/javascript-in-plain-english/7-really-good-reasons-not-to-use-typescript-166af597c466">7 really good reasons not to use TypeScript</a></li>
+  <li>
+    <p><a href="https://css-tricks.com/why-javascript-is-eating-html/">Why JavaScript is Eating HTML</a></p>
+  </li>
+  <li><a href="https://www.type-route.org/">Type Route - a flexible, type safe routing library</a></li>
+  <li><a href="https://github.com/evanw/esbuild">Esbuild - an extremely fast JavaScript bundler and minifier</a></li>
+  <li><a href="https://legrajs.com/">Legra is a small JavaScript library that lets you draw using LEGO® like brick shapes on an HTML canvas element</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/02/14/rails-6-multiple-database-support">Rails adds ActiveRecord API for switching multiple database connections</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/12/rails-active-support-disallowed-deprecations">Rails introduces disallowed deprecations in ActiveSupport</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/11/rails-benchmark-generator">Rails has added a benchmark generator</a></li>
+  <li>
+    <p><a href="https://www.honeybadger.io/blog/ruby-concurrency-parallelism/">Opening The Ruby Concurrency Toolbox</a></p>
+  </li>
+  <li><a href="https://blog.planetargon.com/entries/how-to-deal-with-1000-failing-specs-in-a-rails-app">How to Deal with 1,000 Failing Specs in a Rails App</a></li>
+  <li><a href="https://kukicola.io/posts/automatic-image-moderation-using-amazon-rekognition">Automatic image moderation using Amazon Rekognition</a></li>
+  <li><a href="https://medium.com/faun/health-check-rack-middleware-b6b126efbaa8">Health Check Rack Middleware</a></li>
+  <li><a href="https://rubyapi.org/">Ruby API - easily find Ruby documentation</a></li>
+  <li><a href="https://github.com/omniauth/omniauth-github/releases/tag/v1.4.0">Omniauth-github 1.4.0</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://ionicframework.com/blog/announcing-ionic-5/">Announcing Ionic 5!</a></li>
+  <li><a href="https://medium.com/javascript-in-plain-english/7-really-good-reasons-not-to-use-typescript-166af597c466">7 really good reasons not to use TypeScript</a></li>
+  <li>
+    <p><a href="https://css-tricks.com/why-javascript-is-eating-html/">Why JavaScript is Eating HTML</a></p>
+  </li>
+  <li><a href="https://www.type-route.org/">Type Route - a flexible, type safe routing library</a></li>
+  <li><a href="https://github.com/evanw/esbuild">Esbuild - an extremely fast JavaScript bundler and minifier</a></li>
+  <li><a href="https://legrajs.com/">Legra is a small JavaScript library that lets you draw using LEGO® like brick shapes on an HTML canvas element</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 17 Feb 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/02/17/podcast-08-06.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/02/17/podcast-08-06.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0806.mp3" length="32507342" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0806.mp3" fileSize="32507342" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails adds ActiveRecord API for switching mult...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails adds ActiveRecord API for switching multiple database connections
+  Rails introduces disallowed deprecations in ActiveSupport
+  Rails has added a benchmark generator
+  
+    Opening The Ruby Concurrency Toolbox
+  
+  How to Deal with 1,000 Failing Specs in a Rails App
+  Automatic image moderation using Amazon Rekognition
+  Health Check Rack Middleware
+  Ruby API - easily find Ruby documentation
+  Omniauth-github 1.4.0
+
+
+Web
+
+
+  Announcing Ionic 5!
+  7 really good reasons not to use TypeScript
+  
+    Why JavaScript is Eating HTML
+  
+  Type Route - a flexible, type safe routing library
+  Esbuild - an extremely fast JavaScript bundler and minifier
+  Legra is a small JavaScript library that lets you draw using LEGO® like brick shapes on an HTML canvas element
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0806.png"/>
+  <itunes:duration>00:32:11</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>05 выпуск 08 сезона. Angular 9, Electron 8.0.0, Rails 6.1 introduces class_names helper, CheerpJ 2.0, Strong Migrations и прочее</title>
   <description>
@@ -3502,90 +3623,6 @@ CSS can do that?, Introducing Tornis, V8n - JavaScript fluent validation library
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0721.png"/>
   <itunes:duration>00:37:54</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>20 выпуск 07 сезона. RubyKaigi 2019: A speaker’s report, JAMstack, Svelte 3, Storeon, Blueprint, Ant Design, Ola и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://gustavocaso.github.io/2019/04/30/migrating-millions-of-redis-keys-without-downtime/">Migrating millions of Redis keys without downtime</a>, <a href="https://evilmartians.com/chronicles/rubykaigi-2019-a-speakers-report">RubyKaigi 2019: A speaker’s report</a> и <a href="https://blog.saeloun.com/2019/04/11/rails-6-rails-db-prepare.html">Rails 6 adds db:prepare rake task</a></li>
-  <li><a href="https://medium.com/driven-by-code/facebook-messenger-bot-using-webhooks-e481218ee7a2?sk=a222d7f59a18e65b32e466bb7ed8d4f1">Facebook Messenger Bot Using Webhooks</a> и <a href="https://gorails.com/episodes/action-mailbox-rails-6">How to use Action Mailbox in Rails 6</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2019/05/faster-smarter-javascript-debugging-in-firefox/">Faster smarter JavaScript debugging in Firefox DevTools</a>, <a href="https://medium.freecodecamp.org/an-introduction-to-the-jamstack-the-architecture-of-the-modern-web-c4a0d128d9ca">An introduction to the JAMstack: the architecture of the modern web</a> и <a href="https://alligator.io/svelte/getting-started-with-svelte/">Getting Started with Svelte 3</a></li>
-  <li><a href="https://evilmartians.com/chronicles/storeon-redux-in-173-bytes">Storeon: “Redux” in 173 bytes</a>, <a href="https://blueprintjs.com/">Blueprint - a React-based UI toolkit for the web</a>, <a href="https://ant.design/">Ant Design - a design system with values of Nature and Determinacy for better user experience of enterprise applications</a>, <a href="https://github.com/franciscop/ola/">Ola - smooth animation library for interpolating numbers</a>, <a href="https://github.com/LikaloLLC/tourguide.js">Tourguide.js - a simple, lightweight product tour js library</a> и <a href="https://frontity.org/">Frontity - a framework to build super fast WordPress themes using React</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="http://gustavocaso.github.io/2019/04/30/migrating-millions-of-redis-keys-without-downtime/">Migrating millions of Redis keys without downtime</a>, <a href="https://evilmartians.com/chronicles/rubykaigi-2019-a-speakers-report">RubyKaigi 2019: A speaker’s report</a> и <a href="https://blog.saeloun.com/2019/04/11/rails-6-rails-db-prepare.html">Rails 6 adds db:prepare rake task</a></li>
-  <li><a href="https://medium.com/driven-by-code/facebook-messenger-bot-using-webhooks-e481218ee7a2?sk=a222d7f59a18e65b32e466bb7ed8d4f1">Facebook Messenger Bot Using Webhooks</a> и <a href="https://gorails.com/episodes/action-mailbox-rails-6">How to use Action Mailbox in Rails 6</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2019/05/faster-smarter-javascript-debugging-in-firefox/">Faster smarter JavaScript debugging in Firefox DevTools</a>, <a href="https://medium.freecodecamp.org/an-introduction-to-the-jamstack-the-architecture-of-the-modern-web-c4a0d128d9ca">An introduction to the JAMstack: the architecture of the modern web</a> и <a href="https://alligator.io/svelte/getting-started-with-svelte/">Getting Started with Svelte 3</a></li>
-  <li><a href="https://evilmartians.com/chronicles/storeon-redux-in-173-bytes">Storeon: “Redux” in 173 bytes</a>, <a href="https://blueprintjs.com/">Blueprint - a React-based UI toolkit for the web</a>, <a href="https://ant.design/">Ant Design - a design system with values of Nature and Determinacy for better user experience of enterprise applications</a>, <a href="https://github.com/franciscop/ola/">Ola - smooth animation library for interpolating numbers</a>, <a href="https://github.com/LikaloLLC/tourguide.js">Tourguide.js - a simple, lightweight product tour js library</a> и <a href="https://frontity.org/">Frontity - a framework to build super fast WordPress themes using React</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 20 May 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/05/20/podcast-07-20.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/05/20/podcast-07-20.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0720.mp3" length="36873568" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0720.mp3" fileSize="36873568" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Migrating millions of Redis keys without downt...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Migrating millions of Redis keys without downtime, RubyKaigi 2019: A speaker’s report и Rails 6 adds db:prepare rake task
-
-  
-Facebook Messenger Bot Using Webhooks и How to use Action Mailbox in Rails 6
-
-
-
-Web
-
-
-  
-Faster smarter JavaScript debugging in Firefox DevTools, An introduction to the JAMstack: the architecture of the modern web и Getting Started with Svelte 3
-
-  
-Storeon: “Redux” in 173 bytes, Blueprint - a React-based UI toolkit for the web, Ant Design - a design system with values of Nature and Determinacy for better user experience of enterprise applications, Ola - smooth animation library for interpolating numbers, Tourguide.js - a simple, lightweight product tour js library и Frontity - a framework to build super fast WordPress themes using React
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0720.png"/>
-  <itunes:duration>00:30:42</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
