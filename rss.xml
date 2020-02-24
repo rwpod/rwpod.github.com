@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 17 Feb 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 17 Feb 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 24 Feb 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,128 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>07 выпуск 08 сезона. GraphqlRails 1.0.0, Kiba 3.0.0, Gemfile lint, Paged.js, Disappearing-People и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/02/18/ruby-2-7-access-and-setting-of-safe-warned-will-become-global-variable">Ruby 2.7 removes taint checking mechanism</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/17/rails-6-1-adds-at-option-to-perform_enqueued_jobs-test-helper">Rails 6.1 adds at option to perform_enqueued_jobs test helper</a></li>
+  <li><a href="https://medium.com/faun/three-methods-to-share-rails-assets-with-nginx-f39c90bb7d68">Three Methods to Share Rails Assets With Nginx</a></li>
+  <li>
+    <p><a href="http://gavinmiller.io/2020/how-i-mitmd-rubygems-org-kinda/">How I MITM’d rubygems.org … Kinda</a></p>
+  </li>
+  <li><a href="https://www.codewithjason.com/used-intelligently-rails-concerns-great/">When used intelligently, Rails concerns are great</a></li>
+  <li><a href="https://dev.to/povilasjurcys/graphqlrails-1-0-0-has-been-released-ko">GraphqlRails 1.0.0 has been released</a></li>
+  <li><a href="https://github.com/thbar/kiba/releases/tag/v3.0.0">Kiba - ETL jobs using Ruby (version 3.0.0)</a></li>
+  <li><a href="https://github.com/kddeisz/gemfilelint">Gemfile lint - check all of your listed sources against known trusted sources</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://alligator.io/js/gotchas/">JavaScript Interview Questions: Common Gotchas</a></li>
+  <li><a href="https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/">Fixing memory leaks in web applications</a></li>
+  <li>
+    <p><a href="https://alexanderell.is/posts/taking-over-my-clipboard/">Don’t touch my clipboard</a></p>
+  </li>
+  <li><a href="https://ishadeed.com/article/styling-the-good-old-button/">Styling The Good Ol’ Button Element</a></li>
+  <li><a href="https://kentcdodds.com/blog/make-your-own-dev-tools">Make your own DevTools</a></li>
+  <li><a href="https://www.pagedjs.org/">Paged.js - a JS library that paginates content in the browser to create PDF output from any HTML content</a></li>
+  <li><a href="https://github.com/jasonmayes/Real-Time-Person-Removal">Disappearing-People - Person removal from complex backgrounds over time</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/02/18/ruby-2-7-access-and-setting-of-safe-warned-will-become-global-variable">Ruby 2.7 removes taint checking mechanism</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/17/rails-6-1-adds-at-option-to-perform_enqueued_jobs-test-helper">Rails 6.1 adds at option to perform_enqueued_jobs test helper</a></li>
+  <li><a href="https://medium.com/faun/three-methods-to-share-rails-assets-with-nginx-f39c90bb7d68">Three Methods to Share Rails Assets With Nginx</a></li>
+  <li>
+    <p><a href="http://gavinmiller.io/2020/how-i-mitmd-rubygems-org-kinda/">How I MITM’d rubygems.org … Kinda</a></p>
+  </li>
+  <li><a href="https://www.codewithjason.com/used-intelligently-rails-concerns-great/">When used intelligently, Rails concerns are great</a></li>
+  <li><a href="https://dev.to/povilasjurcys/graphqlrails-1-0-0-has-been-released-ko">GraphqlRails 1.0.0 has been released</a></li>
+  <li><a href="https://github.com/thbar/kiba/releases/tag/v3.0.0">Kiba - ETL jobs using Ruby (version 3.0.0)</a></li>
+  <li><a href="https://github.com/kddeisz/gemfilelint">Gemfile lint - check all of your listed sources against known trusted sources</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://alligator.io/js/gotchas/">JavaScript Interview Questions: Common Gotchas</a></li>
+  <li><a href="https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/">Fixing memory leaks in web applications</a></li>
+  <li>
+    <p><a href="https://alexanderell.is/posts/taking-over-my-clipboard/">Don’t touch my clipboard</a></p>
+  </li>
+  <li><a href="https://ishadeed.com/article/styling-the-good-old-button/">Styling The Good Ol’ Button Element</a></li>
+  <li><a href="https://kentcdodds.com/blog/make-your-own-dev-tools">Make your own DevTools</a></li>
+  <li><a href="https://www.pagedjs.org/">Paged.js - a JS library that paginates content in the browser to create PDF output from any HTML content</a></li>
+  <li><a href="https://github.com/jasonmayes/Real-Time-Person-Removal">Disappearing-People - Person removal from complex backgrounds over time</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 24 Feb 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/02/24/podcast-08-07.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/02/24/podcast-08-07.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0807.mp3" length="42264359" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0807.mp3" fileSize="42264359" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7 removes taint checking mechanism
+  Ra...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7 removes taint checking mechanism
+  Rails 6.1 adds at option to perform_enqueued_jobs test helper
+  Three Methods to Share Rails Assets With Nginx
+  
+    How I MITM’d rubygems.org … Kinda
+  
+  When used intelligently, Rails concerns are great
+  GraphqlRails 1.0.0 has been released
+  Kiba - ETL jobs using Ruby (version 3.0.0)
+  Gemfile lint - check all of your listed sources against known trusted sources
+
+
+Web
+
+
+  JavaScript Interview Questions: Common Gotchas
+  Fixing memory leaks in web applications
+  
+    Don’t touch my clipboard
+  
+  Styling The Good Ol’ Button Element
+  Make your own DevTools
+  Paged.js - a JS library that paginates content in the browser to create PDF output from any HTML content
+  Disappearing-People - Person removal from complex backgrounds over time
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0807.png"/>
+  <itunes:duration>00:41:44</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>06 выпуск 08 сезона. Opening The Ruby Concurrency Toolbox, Ionic 5, Ruby API, Type Route, Esbuild, Legra и прочее</title>
   <description>
@@ -3539,90 +3661,6 @@ Xstyled - consistent theme based CSS for styled-components, Scene.js is JavaScri
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0722.png"/>
   <itunes:duration>00:40:32</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>21 выпуск 07 сезона. Weird Ruby, WebAssembly at eBay, A Modular RuboCop, Mittsu, Tornis, V8n, Is-incognito-mode и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/05/22/rails-6-adds-if_not_exists-option-to-create_table.html">Rails 6 adds if_not_exists option to create_table</a>, <a href="https://metaredux.com/posts/2019/05/22/weird-ruby-single-quoted-heredocs.html">Weird Ruby: Single-quoted Heredocs</a> и <a href="https://andycroll.com/ruby/watch-out-for-nils-in-ranges/">Watch Out For nil in Ranges</a></li>
-  <li><a href="https://metaredux.com/posts/2019/05/22/a-modular-rubocop.html">A Modular RuboCop</a>, <a href="https://github.com/jellymann/mittsu">Mittsu - 3D Graphics Library for Ruby</a>, <a href="https://github.com/trusche/httplog">Httplog - log outgoing HTTP requests made from your application</a> и <a href="https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOq3HlRm9h_Q_WhWKqm5xc">RailsConf 2019 (videos)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/">WebAssembly at eBay: A Real-World Use Case</a>, <a href="https://css-tricks.com/front-end-documentation-style-guides-and-the-rise-of-mdx/">Front-End Documentation, Style Guides and the Rise of MDX</a>, <a href="https://www.cargurus.dev/Cutting-our-webpack-build-time-in-half/">Cutting our webpack build times in half</a> и <a href="https://habr.com/ru/company/oleg-bunin/blog/450822/">Исчезающие фреймворки</a></li>
-  <li><a href="https://dev.to/ananyaneogi/css-can-do-that-18g7">CSS can do that?</a>, <a href="https://tornis.robbowen.digital/">Introducing Tornis</a>, <a href="https://github.com/imbrn/v8n">V8n - JavaScript fluent validation library</a> и <a href="https://github.com/yankouskia/is-incognito-mode">Is-incognito-mode - function to identify whether browser is in incognito mode</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/05/22/rails-6-adds-if_not_exists-option-to-create_table.html">Rails 6 adds if_not_exists option to create_table</a>, <a href="https://metaredux.com/posts/2019/05/22/weird-ruby-single-quoted-heredocs.html">Weird Ruby: Single-quoted Heredocs</a> и <a href="https://andycroll.com/ruby/watch-out-for-nils-in-ranges/">Watch Out For nil in Ranges</a></li>
-  <li><a href="https://metaredux.com/posts/2019/05/22/a-modular-rubocop.html">A Modular RuboCop</a>, <a href="https://github.com/jellymann/mittsu">Mittsu - 3D Graphics Library for Ruby</a>, <a href="https://github.com/trusche/httplog">Httplog - log outgoing HTTP requests made from your application</a> и <a href="https://www.youtube.com/playlist?list=PLE7tQUdRKcyaOq3HlRm9h_Q_WhWKqm5xc">RailsConf 2019 (videos)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://www.ebayinc.com/stories/blogs/tech/webassembly-at-ebay-a-real-world-use-case/">WebAssembly at eBay: A Real-World Use Case</a>, <a href="https://css-tricks.com/front-end-documentation-style-guides-and-the-rise-of-mdx/">Front-End Documentation, Style Guides and the Rise of MDX</a>, <a href="https://www.cargurus.dev/Cutting-our-webpack-build-time-in-half/">Cutting our webpack build times in half</a> и <a href="https://habr.com/ru/company/oleg-bunin/blog/450822/">Исчезающие фреймворки</a></li>
-  <li><a href="https://dev.to/ananyaneogi/css-can-do-that-18g7">CSS can do that?</a>, <a href="https://tornis.robbowen.digital/">Introducing Tornis</a>, <a href="https://github.com/imbrn/v8n">V8n - JavaScript fluent validation library</a> и <a href="https://github.com/yankouskia/is-incognito-mode">Is-incognito-mode - function to identify whether browser is in incognito mode</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 27 May 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/05/27/podcast-07-21.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/05/27/podcast-07-21.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0721.mp3" length="45510366" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0721.mp3" fileSize="45510366" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 adds if_not_exists option to create_ta...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 adds if_not_exists option to create_table, Weird Ruby: Single-quoted Heredocs и Watch Out For nil in Ranges
-
-  
-A Modular RuboCop, Mittsu - 3D Graphics Library for Ruby, Httplog - log outgoing HTTP requests made from your application и RailsConf 2019 (videos)
-
-
-
-Web
-
-
-  
-WebAssembly at eBay: A Real-World Use Case, Front-End Documentation, Style Guides and the Rise of MDX, Cutting our webpack build times in half и Исчезающие фреймворки
-
-  
-CSS can do that?, Introducing Tornis, V8n - JavaScript fluent validation library и Is-incognito-mode - function to identify whether browser is in incognito mode
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0721.png"/>
-  <itunes:duration>00:37:54</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
