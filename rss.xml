@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 24 Feb 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 24 Feb 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 02 Mar 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,146 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>08 выпуск 08 сезона. Happy 27th birthday, Ruby, GitHub CLI, Hanami::API, Scala.js 1.0.0, Rome, CLI Diagram, Buttono и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://twitter.com/yukihiro_matz/status/1231730031589675008">Happy Birthday, Ruby!</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/26/ruby-hash-transform_keys-now-accepts-a-hash-that-maps-existing-keys-to-new-keys">Ruby Hash#transform_keys now accepts a hash that maps existing keys to new keys</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/25/rails-strict-loading-mode-to-fix-n-1.html">Rails has added strict loading mode to prevent lazy loading</a></li>
+  <li><a href="https://blog.bigbinary.com/2020/02/25/rails-6-fixes-a-bug-where-after_commit-callbacks-are-called-on-failed-update-in-a-transaction-block.html">Rails 6 fixes a bug where after_commit callbacks are called on failed update in a transaction block</a></li>
+  <li><a href="https://aws.amazon.com/blogs/compute/aws-lambda-now-supports-ruby-2-7/">AWS Lambda now supports Ruby 2.7</a></li>
+  <li>
+    <p><a href="https://blog.saeloun.com/2020/02/24/rails-6.1-rake-eager-load">Rails adds config rake_eager_load</a></p>
+  </li>
+  <li><a href="https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/">Supercharge your command line experience: GitHub CLI is now in beta</a></li>
+  <li><a href="https://prathamesh.tech/2020/02/23/pending-cops-to-make-updating-rubocop-easier/">Pending cops in Rubocop to make upgrade easier</a></li>
+  <li><a href="https://pawelurbanek.com/rails-mistakes-downtime">Ruby on Rails Mistakes that could Kill Your Production Servers</a></li>
+  <li><a href="https://medium.com/faun/ruby-on-rails-single-line-logging-5a76852de1d2">Ruby on Rails Single Line Logging</a></li>
+  <li><a href="http://hanamirb.org/blog/2020/02/26/introducing-hanami-api.html">Introducing Hanami::API</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/facebookexperimental/rome">Rome - an experimental JavaScript toolchain</a></li>
+  <li><a href="https://jasonformat.com/rome-javascript-toolchain/">Rome, a new JavaScript Toolchain</a></li>
+  <li><a href="https://dev.to/codedivoire/a-day-in-the-life-how-a-frontend-developer-solves-a-simple-bug-3e98">A day in the life: how a frontend developer solves a “simple” bug</a></li>
+  <li><a href="https://www.pzuraq.com/how-autotracking-works/">How Autotracking Works</a></li>
+  <li>
+    <p><a href="https://gomakethings.com/how-to-use-requestanimationframe-with-vanilla-js/">How to use requestAnimationFrame() with vanilla JS</a></p>
+  </li>
+  <li><a href="https://www.scala-js.org/news/2020/02/25/announcing-scalajs-1.0.0/">Announcing Scala.js 1.0.0</a></li>
+  <li><a href="https://github.com/yahoo/serialize-javascript">Serialize JavaScript to a superset of JSON that includes regular expressions, dates and functions</a></li>
+  <li><a href="https://github.com/Lakitna/cli-diagram">CLI Diagram - draw needlessly complex diagrams in the console</a></li>
+  <li><a href="https://hsnaydd.github.io/buttono/">Buttono - a flexible Sass mixin for creating BEM-style buttons</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLtEPUaeDclku1ECmuN3IsUimHApukWIOf">Documentaries for Developers</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://twitter.com/yukihiro_matz/status/1231730031589675008">Happy Birthday, Ruby!</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/26/ruby-hash-transform_keys-now-accepts-a-hash-that-maps-existing-keys-to-new-keys">Ruby Hash#transform_keys now accepts a hash that maps existing keys to new keys</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/25/rails-strict-loading-mode-to-fix-n-1.html">Rails has added strict loading mode to prevent lazy loading</a></li>
+  <li><a href="https://blog.bigbinary.com/2020/02/25/rails-6-fixes-a-bug-where-after_commit-callbacks-are-called-on-failed-update-in-a-transaction-block.html">Rails 6 fixes a bug where after_commit callbacks are called on failed update in a transaction block</a></li>
+  <li><a href="https://aws.amazon.com/blogs/compute/aws-lambda-now-supports-ruby-2-7/">AWS Lambda now supports Ruby 2.7</a></li>
+  <li>
+    <p><a href="https://blog.saeloun.com/2020/02/24/rails-6.1-rake-eager-load">Rails adds config rake_eager_load</a></p>
+  </li>
+  <li><a href="https://github.blog/2020-02-12-supercharge-your-command-line-experience-github-cli-is-now-in-beta/">Supercharge your command line experience: GitHub CLI is now in beta</a></li>
+  <li><a href="https://prathamesh.tech/2020/02/23/pending-cops-to-make-updating-rubocop-easier/">Pending cops in Rubocop to make upgrade easier</a></li>
+  <li><a href="https://pawelurbanek.com/rails-mistakes-downtime">Ruby on Rails Mistakes that could Kill Your Production Servers</a></li>
+  <li><a href="https://medium.com/faun/ruby-on-rails-single-line-logging-5a76852de1d2">Ruby on Rails Single Line Logging</a></li>
+  <li><a href="http://hanamirb.org/blog/2020/02/26/introducing-hanami-api.html">Introducing Hanami::API</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/facebookexperimental/rome">Rome - an experimental JavaScript toolchain</a></li>
+  <li><a href="https://jasonformat.com/rome-javascript-toolchain/">Rome, a new JavaScript Toolchain</a></li>
+  <li><a href="https://dev.to/codedivoire/a-day-in-the-life-how-a-frontend-developer-solves-a-simple-bug-3e98">A day in the life: how a frontend developer solves a “simple” bug</a></li>
+  <li><a href="https://www.pzuraq.com/how-autotracking-works/">How Autotracking Works</a></li>
+  <li>
+    <p><a href="https://gomakethings.com/how-to-use-requestanimationframe-with-vanilla-js/">How to use requestAnimationFrame() with vanilla JS</a></p>
+  </li>
+  <li><a href="https://www.scala-js.org/news/2020/02/25/announcing-scalajs-1.0.0/">Announcing Scala.js 1.0.0</a></li>
+  <li><a href="https://github.com/yahoo/serialize-javascript">Serialize JavaScript to a superset of JSON that includes regular expressions, dates and functions</a></li>
+  <li><a href="https://github.com/Lakitna/cli-diagram">CLI Diagram - draw needlessly complex diagrams in the console</a></li>
+  <li><a href="https://hsnaydd.github.io/buttono/">Buttono - a flexible Sass mixin for creating BEM-style buttons</a></li>
+  <li><a href="https://www.youtube.com/playlist?list=PLtEPUaeDclku1ECmuN3IsUimHApukWIOf">Documentaries for Developers</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 02 Mar 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/03/02/podcast-08-08.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/03/02/podcast-08-08.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0808.mp3" length="36580866" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0808.mp3" fileSize="36580866" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Happy Birthday, Ruby!
+  Ruby Hash#transform_ke...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Happy Birthday, Ruby!
+  Ruby Hash#transform_keys now accepts a hash that maps existing keys to new keys
+  Rails has added strict loading mode to prevent lazy loading
+  Rails 6 fixes a bug where after_commit callbacks are called on failed update in a transaction block
+  AWS Lambda now supports Ruby 2.7
+  
+    Rails adds config rake_eager_load
+  
+  Supercharge your command line experience: GitHub CLI is now in beta
+  Pending cops in Rubocop to make upgrade easier
+  Ruby on Rails Mistakes that could Kill Your Production Servers
+  Ruby on Rails Single Line Logging
+  Introducing Hanami::API
+
+
+Web
+
+
+  Rome - an experimental JavaScript toolchain
+  Rome, a new JavaScript Toolchain
+  A day in the life: how a frontend developer solves a “simple” bug
+  How Autotracking Works
+  
+    How to use requestAnimationFrame() with vanilla JS
+  
+  Announcing Scala.js 1.0.0
+  Serialize JavaScript to a superset of JSON that includes regular expressions, dates and functions
+  CLI Diagram - draw needlessly complex diagrams in the console
+  Buttono - a flexible Sass mixin for creating BEM-style buttons
+  Documentaries for Developers
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0808.png"/>
+  <itunes:duration>00:36:08</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>07 выпуск 08 сезона. GraphqlRails 1.0.0, Kiba 3.0.0, Gemfile lint, Paged.js, Disappearing-People и прочее</title>
   <description>
@@ -3572,95 +3712,6 @@ Extract critical CSS, Variable fonts and quirky custom axes и Creating Animatio
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0723.png"/>
   <itunes:duration>00:29:02</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>22 выпуск 07 сезона. Ruby 2.7.0-preview1, Angular 8, Dependabot is joining GitHub, Phonelib, Graphsrb, Xstyled, Zdog и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2019/05/30/ruby-2-7-0-preview1-released/">Ruby 2.7.0-preview1 Released</a>, <a href="https://samsaffron.com/archive/2019/05/15/tests-that-sometimes-fail">Tests that sometimes fail</a> и <a href="http://danilobarion1986.github.io/ruby/backend/pills/tips/2019/05/31/ruby-pills-enums-options.html">Ruby Pills: Enums Options</a></li>
-  <li><a href="https://www.imaginarycloud.com/blog/from-capybara-webkit-to-headless-chrome-and-chromedriver/">From capybara-webkit to Headless Chrome and ChromeDriver</a>, <a href="https://github.com/daddyz/phonelib">Phonelib - a gem allowing you to validate phone number</a> и <a href="https://github.com/fade2black/graphsrb">Graphsrb allows to create simple directed and undirected graphs</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27">Version 8 of Angular — Smaller bundles, CLI APIs, and alignment with the ecosystem</a>, <a href="https://dependabot.com/blog/hello-github/">Dependabot is joining GitHub</a> и <a href="https://devinduct.com/blogpost/26/8-useful-javascript-tricks">8 Useful JavaScript Tricks</a></li>
-  <li><a href="https://dev.to/alvaromontoro/fix-85-of-your-web-accessibility-issues-in-5-easy-steps-pnf">Fix 85% of your Web Accessibility issues in 5 easy steps</a>, <a href="https://css-tricks.com/color-contrast-accessibility-tools/">Color contrast accessibility tools</a> и <a href="https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables">Why we prefer CSS Custom Properties to SASS variables</a></li>
-  <li><a href="https://www.smooth-code.com/open-source/xstyled/">Xstyled - consistent theme based CSS for styled-components</a>, <a href="https://github.com/daybrush/scenejs">Scene.js is JavaScript &amp; CSS timeline-based animation library</a>, <a href="https://zzz.dog/">Zdog - round, flat, designer-friendly pseudo-3D engine for canvas &amp; SVG</a> и <a href="https://github.com/xobotyi/zoom-level">Zoom-level - a comprehensive cross-browser package that allow you to determine page’s and element’s zoom level</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2019/05/30/ruby-2-7-0-preview1-released/">Ruby 2.7.0-preview1 Released</a>, <a href="https://samsaffron.com/archive/2019/05/15/tests-that-sometimes-fail">Tests that sometimes fail</a> и <a href="http://danilobarion1986.github.io/ruby/backend/pills/tips/2019/05/31/ruby-pills-enums-options.html">Ruby Pills: Enums Options</a></li>
-  <li><a href="https://www.imaginarycloud.com/blog/from-capybara-webkit-to-headless-chrome-and-chromedriver/">From capybara-webkit to Headless Chrome and ChromeDriver</a>, <a href="https://github.com/daddyz/phonelib">Phonelib - a gem allowing you to validate phone number</a> и <a href="https://github.com/fade2black/graphsrb">Graphsrb allows to create simple directed and undirected graphs</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://blog.angular.io/version-8-of-angular-smaller-bundles-cli-apis-and-alignment-with-the-ecosystem-af0261112a27">Version 8 of Angular — Smaller bundles, CLI APIs, and alignment with the ecosystem</a>, <a href="https://dependabot.com/blog/hello-github/">Dependabot is joining GitHub</a> и <a href="https://devinduct.com/blogpost/26/8-useful-javascript-tricks">8 Useful JavaScript Tricks</a></li>
-  <li><a href="https://dev.to/alvaromontoro/fix-85-of-your-web-accessibility-issues-in-5-easy-steps-pnf">Fix 85% of your Web Accessibility issues in 5 easy steps</a>, <a href="https://css-tricks.com/color-contrast-accessibility-tools/">Color contrast accessibility tools</a> и <a href="https://codyhouse.co/blog/post/css-custom-properties-vs-sass-variables">Why we prefer CSS Custom Properties to SASS variables</a></li>
-  <li><a href="https://www.smooth-code.com/open-source/xstyled/">Xstyled - consistent theme based CSS for styled-components</a>, <a href="https://github.com/daybrush/scenejs">Scene.js is JavaScript &amp; CSS timeline-based animation library</a>, <a href="https://zzz.dog/">Zdog - round, flat, designer-friendly pseudo-3D engine for canvas &amp; SVG</a> и <a href="https://github.com/xobotyi/zoom-level">Zoom-level - a comprehensive cross-browser package that allow you to determine page’s and element’s zoom level</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 03 Jun 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/06/03/podcast-07-22.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/06/03/podcast-07-22.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0722.mp3" length="48663556" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0722.mp3" fileSize="48663556" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.7.0-preview1 Released, Tests that somet...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.7.0-preview1 Released, Tests that sometimes fail и Ruby Pills: Enums Options
-
-  
-From capybara-webkit to Headless Chrome and ChromeDriver, Phonelib - a gem allowing you to validate phone number и Graphsrb allows to create simple directed and undirected graphs
-
-
-
-Web
-
-
-  
-Version 8 of Angular — Smaller bundles, CLI APIs, and alignment with the ecosystem, Dependabot is joining GitHub и 8 Useful JavaScript Tricks
-
-  
-Fix 85% of your Web Accessibility issues in 5 easy steps, Color contrast accessibility tools и Why we prefer CSS Custom Properties to SASS variables
-
-  
-Xstyled - consistent theme based CSS for styled-components, Scene.js is JavaScript &amp; CSS timeline-based animation library, Zdog - round, flat, designer-friendly pseudo-3D engine for canvas &amp; SVG и Zoom-level - a comprehensive cross-browser package that allow you to determine page’s and element’s zoom level
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0722.png"/>
-  <itunes:duration>00:40:32</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
