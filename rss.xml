@@ -420,7 +420,7 @@ Web
 <h2 id="ruby">Ruby</h2>
 
 <ul>
-  <li><a href="https://blog.saeloun.com/2020/02/04/rails-support-for-if_exists-if_not_exists-on-remove_column-add_column-in-migrations">Rails adds support for if_exists/if_not_exists on remove_column/add_column in migrations</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/10/rails-support-for-if_exists-if_not_exists-on-remove_column-add_column-in-migrations">Rails adds support for if_exists/if_not_exists on remove_column/add_column in migrations</a></li>
   <li><a href="https://blog.bigbinary.com/2020/02/04/rails-6-1-introduces-class_names-helper.html">Rails 6.1 introduces class_names helper</a></li>
   <li><a href="https://blog.saeloun.com/2020/02/03/rails-allows-configure-service-for-attachments-to-activestorage">Rails 6.1 adds support for multiple storage services to Active Storage</a></li>
   <li>
@@ -456,7 +456,7 @@ Web
 <h2 id="ruby">Ruby</h2>
 
 <ul>
-  <li><a href="https://blog.saeloun.com/2020/02/04/rails-support-for-if_exists-if_not_exists-on-remove_column-add_column-in-migrations">Rails adds support for if_exists/if_not_exists on remove_column/add_column in migrations</a></li>
+  <li><a href="https://blog.saeloun.com/2020/02/10/rails-support-for-if_exists-if_not_exists-on-remove_column-add_column-in-migrations">Rails adds support for if_exists/if_not_exists on remove_column/add_column in migrations</a></li>
   <li><a href="https://blog.bigbinary.com/2020/02/04/rails-6-1-introduces-class_names-helper.html">Rails 6.1 introduces class_names helper</a></li>
   <li><a href="https://blog.saeloun.com/2020/02/03/rails-allows-configure-service-for-attachments-to-activestorage">Rails 6.1 adds support for multiple storage services to Active Storage</a></li>
   <li>
