@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 02 Mar 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 02 Mar 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 09 Mar 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 09 Mar 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,145 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>09 выпуск 08 сезона. Rollup 2.0, Isomorphic-git 1.0, RubyKaigi 2020 and COVID-19, Chaskiq, Stryker, Vue Formulate и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2020/03/03/ruby-2-7-introduces-numbered-parameters-as-default-block-parameters.html">Ruby 2.7 introduces numbered parameters as default block parameters</a></li>
+  <li><a href="https://blog.saeloun.com/2020/03/04/rails-adds-jitter-to-activejob-exceptions-retry_on.html">Rails adds jitter to ActiveJob::Exceptions.retry_on</a></li>
+  <li><a href="https://esa-pages.io/p/sharing/68/posts/1006/b15a58c675f5a69d06e5.html">RubyKaigi 2020 announcements on the Novel Coronavirus COVID-19 outbreak</a></li>
+  <li>
+    <p><a href="https://lucaguidi.com/2020/03/04/hanamiapi-on-amazon-aws-lambda/">Hanami::API on Amazon AWS Lambda</a></p>
+  </li>
+  <li><a href="https://piotrmurach.com/articles/writing-a-ruby-gem-specification/">Writing a Ruby Gem Specification</a></li>
+  <li><a href="https://caspg.com/blog/optimizing-full-text-search-with-postgres-materialized-view-in-rails">Optimizing full-text search with Postgres materialized view in Rails</a></li>
+  <li><a href="https://prathamesh.tech/2020/03/02/converting-timestamps-to-ruby-objects/">Converting Unix epoch timestamps to Ruby objects</a></li>
+  <li><a href="https://github.com/chaskiq/chaskiq">Chaskiq - a 100% open source conversational marketing platform build as an alternative for Intercom, Drift, and others</a></li>
+  <li><a href="https://github.com/guilleiguaran/fakeredis">FakeRedis - a fake implementation of redis-rb for machines without Redis or test environments</a></li>
+  <li><a href="https://www.driftingruby.com/episodes/syntax-highlighting-with-action-text">Syntax Highlighting with Action Text</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/rollup/rollup/releases/tag/v2.0.0">Rollup 2.0 Released</a></li>
+  <li><a href="https://isomorphic-git.org/blog/2020/02/25/version-1-0-0">Isomorphic-git version 1.0</a></li>
+  <li><a href="https://observablehq.com/@mitvis/introduction-to-d3">An Interactive Introduction to D3</a></li>
+  <li>
+    <p><a href="https://github.com/goldbergyoni/nodebestpractices#readme">The Node.js best practices list</a></p>
+  </li>
+  <li><a href="https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492">7 Types of Native Errors in JavaScript You Should Know</a></li>
+  <li><a href="https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/">The JavaScript Beginner’s Handbook (2020 Edition)</a></li>
+  <li><a href="https://tympanus.net/codrops/2020/03/03/awesome-demos-roundup-14/">Awesome Demos Roundup #14</a></li>
+  <li><a href="https://tympanus.net/codrops/2020/03/05/inspirational-websites-roundup-13/">Inspirational Websites Roundup #13</a></li>
+  <li><a href="https://stryker-mutator.io/">Stryker - test your tests with mutation testing</a></li>
+  <li><a href="https://vueformulate.com/">Vue Formulate - the easiest way to build forms with Vue</a></li>
+  <li><a href="https://github.com/loeffel-io/ls-lint">Ls-lint - an extremely fast file and directory name linter</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2020/03/03/ruby-2-7-introduces-numbered-parameters-as-default-block-parameters.html">Ruby 2.7 introduces numbered parameters as default block parameters</a></li>
+  <li><a href="https://blog.saeloun.com/2020/03/04/rails-adds-jitter-to-activejob-exceptions-retry_on.html">Rails adds jitter to ActiveJob::Exceptions.retry_on</a></li>
+  <li><a href="https://esa-pages.io/p/sharing/68/posts/1006/b15a58c675f5a69d06e5.html">RubyKaigi 2020 announcements on the Novel Coronavirus COVID-19 outbreak</a></li>
+  <li>
+    <p><a href="https://lucaguidi.com/2020/03/04/hanamiapi-on-amazon-aws-lambda/">Hanami::API on Amazon AWS Lambda</a></p>
+  </li>
+  <li><a href="https://piotrmurach.com/articles/writing-a-ruby-gem-specification/">Writing a Ruby Gem Specification</a></li>
+  <li><a href="https://caspg.com/blog/optimizing-full-text-search-with-postgres-materialized-view-in-rails">Optimizing full-text search with Postgres materialized view in Rails</a></li>
+  <li><a href="https://prathamesh.tech/2020/03/02/converting-timestamps-to-ruby-objects/">Converting Unix epoch timestamps to Ruby objects</a></li>
+  <li><a href="https://github.com/chaskiq/chaskiq">Chaskiq - a 100% open source conversational marketing platform build as an alternative for Intercom, Drift, and others</a></li>
+  <li><a href="https://github.com/guilleiguaran/fakeredis">FakeRedis - a fake implementation of redis-rb for machines without Redis or test environments</a></li>
+  <li><a href="https://www.driftingruby.com/episodes/syntax-highlighting-with-action-text">Syntax Highlighting with Action Text</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/rollup/rollup/releases/tag/v2.0.0">Rollup 2.0 Released</a></li>
+  <li><a href="https://isomorphic-git.org/blog/2020/02/25/version-1-0-0">Isomorphic-git version 1.0</a></li>
+  <li><a href="https://observablehq.com/@mitvis/introduction-to-d3">An Interactive Introduction to D3</a></li>
+  <li>
+    <p><a href="https://github.com/goldbergyoni/nodebestpractices#readme">The Node.js best practices list</a></p>
+  </li>
+  <li><a href="https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492">7 Types of Native Errors in JavaScript You Should Know</a></li>
+  <li><a href="https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/">The JavaScript Beginner’s Handbook (2020 Edition)</a></li>
+  <li><a href="https://tympanus.net/codrops/2020/03/03/awesome-demos-roundup-14/">Awesome Demos Roundup #14</a></li>
+  <li><a href="https://tympanus.net/codrops/2020/03/05/inspirational-websites-roundup-13/">Inspirational Websites Roundup #13</a></li>
+  <li><a href="https://stryker-mutator.io/">Stryker - test your tests with mutation testing</a></li>
+  <li><a href="https://vueformulate.com/">Vue Formulate - the easiest way to build forms with Vue</a></li>
+  <li><a href="https://github.com/loeffel-io/ls-lint">Ls-lint - an extremely fast file and directory name linter</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 09 Mar 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/03/09/podcast-08-09.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/03/09/podcast-08-09.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0809.mp3" length="38671006" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0809.mp3" fileSize="38671006" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7 introduces numbered parameters as def...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7 introduces numbered parameters as default block parameters
+  Rails adds jitter to ActiveJob::Exceptions.retry_on
+  RubyKaigi 2020 announcements on the Novel Coronavirus COVID-19 outbreak
+  
+    Hanami::API on Amazon AWS Lambda
+  
+  Writing a Ruby Gem Specification
+  Optimizing full-text search with Postgres materialized view in Rails
+  Converting Unix epoch timestamps to Ruby objects
+  Chaskiq - a 100% open source conversational marketing platform build as an alternative for Intercom, Drift, and others
+  FakeRedis - a fake implementation of redis-rb for machines without Redis or test environments
+  Syntax Highlighting with Action Text
+
+
+Web
+
+
+  Rollup 2.0 Released
+  Isomorphic-git version 1.0
+  An Interactive Introduction to D3
+  
+    The Node.js best practices list
+  
+  7 Types of Native Errors in JavaScript You Should Know
+  The JavaScript Beginner’s Handbook (2020 Edition)
+  Awesome Demos Roundup #14
+  Inspirational Websites Roundup #13
+  Stryker - test your tests with mutation testing
+  Vue Formulate - the easiest way to build forms with Vue
+  Ls-lint - an extremely fast file and directory name linter
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0809.png"/>
+  <itunes:duration>00:38:18</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>08 выпуск 08 сезона. Happy 27th birthday, Ruby, GitHub CLI, Hanami::API, Scala.js 1.0.0, Rome, CLI Diagram, Buttono и прочее</title>
   <description>
@@ -3628,90 +3767,6 @@ Algorithm Visualizer is an interactive online platform that visualizes algorithm
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0724.png"/>
   <itunes:duration>00:39:32</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>23 выпуск 07 сезона. macOS to Remove Having Ruby Installed by Default, Optional Chaining for JavaScript, React Spring и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/06/05/rails-6-allows-spaces-in-postgres-table-names.html">Rails 6 allows spaces in postgres table names</a>, <a href="https://developer.apple.com/documentation/macos_release_notes/macos_10_15_beta_release_notes#3318257">macOS to Remove Having Ruby Installed by Default</a>, <a href="https://github.blog/2019-06-04-direct-instruction-marking-in-ruby-2-6/">Direct instruction marking in Ruby 2.6</a> и <a href="https://blog.capsens.eu/rails-6-boot-sequence-d289b44d2e94">Rails 6 boot sequence</a></li>
-  <li><a href="https://www.marionzualo.com/2019/06/06/an-overview-redisdistributed-redis-client-side-partitioning-in-ruby/">An overview of Redis::Distributed – Redis client side partitioning in Ruby</a>, <a href="https://github.com/afair/postgresql_cursor">PostgreSQLCursor for handling large Result Sets</a>, <a href="https://github.com/damir/modulator">Modulator - a tool for adding HTTP layer on top of your application using AWS Lambda and API Gateway services</a> и <a href="https://github.com/rubygarage/truemail">Truemail gem helps you validate emails by regex pattern, presence of domain mx-records, and real existence of email account on a current email server</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://github.com/tc39/proposal-optional-chaining">Optional Chaining for JavaScript - Stage 2</a> и <a href="http://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm">Plot to steal cryptocurrency foiled by the npm security team</a></li>
-  <li><a href="https://web.dev/extract-critical-css">Extract critical CSS</a>, <a href="https://rwt.io/typography-tips/variable-fonts-and-quirky-custom-axes">Variable fonts and quirky custom axes</a> и <a href="https://css-tricks.com/creating-animations-using-react-spring/">Creating Animations Using React Spring</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/06/05/rails-6-allows-spaces-in-postgres-table-names.html">Rails 6 allows spaces in postgres table names</a>, <a href="https://developer.apple.com/documentation/macos_release_notes/macos_10_15_beta_release_notes#3318257">macOS to Remove Having Ruby Installed by Default</a>, <a href="https://github.blog/2019-06-04-direct-instruction-marking-in-ruby-2-6/">Direct instruction marking in Ruby 2.6</a> и <a href="https://blog.capsens.eu/rails-6-boot-sequence-d289b44d2e94">Rails 6 boot sequence</a></li>
-  <li><a href="https://www.marionzualo.com/2019/06/06/an-overview-redisdistributed-redis-client-side-partitioning-in-ruby/">An overview of Redis::Distributed – Redis client side partitioning in Ruby</a>, <a href="https://github.com/afair/postgresql_cursor">PostgreSQLCursor for handling large Result Sets</a>, <a href="https://github.com/damir/modulator">Modulator - a tool for adding HTTP layer on top of your application using AWS Lambda and API Gateway services</a> и <a href="https://github.com/rubygarage/truemail">Truemail gem helps you validate emails by regex pattern, presence of domain mx-records, and real existence of email account on a current email server</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://github.com/tc39/proposal-optional-chaining">Optional Chaining for JavaScript - Stage 2</a> и <a href="http://blog.npmjs.org/post/185397814280/plot-to-steal-cryptocurrency-foiled-by-the-npm">Plot to steal cryptocurrency foiled by the npm security team</a></li>
-  <li><a href="https://web.dev/extract-critical-css">Extract critical CSS</a>, <a href="https://rwt.io/typography-tips/variable-fonts-and-quirky-custom-axes">Variable fonts and quirky custom axes</a> и <a href="https://css-tricks.com/creating-animations-using-react-spring/">Creating Animations Using React Spring</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 10 Jun 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/06/10/podcast-07-23.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/06/10/podcast-07-23.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0723.mp3" length="34863822" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0723.mp3" fileSize="34863822" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 allows spaces in postgres table names,...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 allows spaces in postgres table names, macOS to Remove Having Ruby Installed by Default, Direct instruction marking in Ruby 2.6 и Rails 6 boot sequence
-
-  
-An overview of Redis::Distributed – Redis client side partitioning in Ruby, PostgreSQLCursor for handling large Result Sets, Modulator - a tool for adding HTTP layer on top of your application using AWS Lambda and API Gateway services и Truemail gem helps you validate emails by regex pattern, presence of domain mx-records, and real existence of email account on a current email server
-
-
-
-Web
-
-
-  
-Optional Chaining for JavaScript - Stage 2 и Plot to steal cryptocurrency foiled by the npm security team
-
-  
-Extract critical CSS, Variable fonts and quirky custom axes и Creating Animations Using React Spring
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0723.png"/>
-  <itunes:duration>00:29:02</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
