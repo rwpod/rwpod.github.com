@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Wed, 11 Mar 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Wed, 11 Mar 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 16 Mar 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,120 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>10 выпуск 08 сезона. RailsConf 2020 Cancelled, npm is joining GitHub, DeliveryBoy, RedwoodJS, COVID API и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://railsconf.com/">RailsConf 2020 Cancelled</a></li>
+  <li>
+    <p><a href="https://rossta.net/blog/reasons-to-switch-to-webpacker.html">25 reasons to switch to Webpack(er)</a></p>
+  </li>
+  <li><a href="https://github.com/MiniProfiler/rack-mini-profiler/releases/tag/v2.0.0">Rack-mini-profiler 2.0.0</a></li>
+  <li><a href="https://github.com/zendesk/delivery_boy">DeliveryBoy - a simple way to publish messages to Kafka</a></li>
+  <li><a href="https://github.com/cmur2/dyndnsd">Dyndnsd.rb - a small, lightweight and extensible DynDNS server written with Ruby and Rack</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.blog/2020-03-16-npm-is-joining-github/">npm is joining GitHub</a></li>
+  <li><a href="https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript/">Aborting a signal: How to cancel an asynchronous task in JavaScript</a></li>
+  <li>
+    <p><a href="https://gist.github.com/slikts/dee3702357765dda3d484d8888d3029e">A case for using void in modern JavaScript</a></p>
+  </li>
+  <li><a href="https://github.com/feltcoop/why-svelte">Why Svelte is our choice for a large web project in 2020</a></li>
+  <li><a href="https://redwoodjs.com/">RedwoodJS - bringing full-stack to the JAMstack</a></li>
+  <li><a href="https://github.com/leeoniya/uPlot">μPlot - a fast, memory-efficient Canvas 2D-based chart for plotting time series, lines, areas, ohlc &amp; bars</a></li>
+  <li><a href="https://github.com/javieraviles/covidAPI">COVID API - API for live information about COVID-19</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://railsconf.com/">RailsConf 2020 Cancelled</a></li>
+  <li>
+    <p><a href="https://rossta.net/blog/reasons-to-switch-to-webpacker.html">25 reasons to switch to Webpack(er)</a></p>
+  </li>
+  <li><a href="https://github.com/MiniProfiler/rack-mini-profiler/releases/tag/v2.0.0">Rack-mini-profiler 2.0.0</a></li>
+  <li><a href="https://github.com/zendesk/delivery_boy">DeliveryBoy - a simple way to publish messages to Kafka</a></li>
+  <li><a href="https://github.com/cmur2/dyndnsd">Dyndnsd.rb - a small, lightweight and extensible DynDNS server written with Ruby and Rack</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.blog/2020-03-16-npm-is-joining-github/">npm is joining GitHub</a></li>
+  <li><a href="https://ckeditor.com/blog/Aborting-a-signal-how-to-cancel-an-asynchronous-task-in-JavaScript/">Aborting a signal: How to cancel an asynchronous task in JavaScript</a></li>
+  <li>
+    <p><a href="https://gist.github.com/slikts/dee3702357765dda3d484d8888d3029e">A case for using void in modern JavaScript</a></p>
+  </li>
+  <li><a href="https://github.com/feltcoop/why-svelte">Why Svelte is our choice for a large web project in 2020</a></li>
+  <li><a href="https://redwoodjs.com/">RedwoodJS - bringing full-stack to the JAMstack</a></li>
+  <li><a href="https://github.com/leeoniya/uPlot">μPlot - a fast, memory-efficient Canvas 2D-based chart for plotting time series, lines, areas, ohlc &amp; bars</a></li>
+  <li><a href="https://github.com/javieraviles/covidAPI">COVID API - API for live information about COVID-19</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 16 Mar 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/03/16/podcast-08-10.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/03/16/podcast-08-10.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0810.mp3" length="29112328" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0810.mp3" fileSize="29112328" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  RailsConf 2020 Cancelled
+  
+    25 reasons to ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  RailsConf 2020 Cancelled
+  
+    25 reasons to switch to Webpack(er)
+  
+  Rack-mini-profiler 2.0.0
+  DeliveryBoy - a simple way to publish messages to Kafka
+  Dyndnsd.rb - a small, lightweight and extensible DynDNS server written with Ruby and Rack
+
+
+Web
+
+
+  npm is joining GitHub
+  Aborting a signal: How to cancel an asynchronous task in JavaScript
+  
+    A case for using void in modern JavaScript
+  
+  Why Svelte is our choice for a large web project in 2020
+  RedwoodJS - bringing full-stack to the JAMstack
+  μPlot - a fast, memory-efficient Canvas 2D-based chart for plotting time series, lines, areas, ohlc &amp; bars
+  COVID API - API for live information about COVID-19
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0810.png"/>
+  <itunes:duration>00:28:47</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>RWPod Кафе 13: Vladimir Dementyev</title>
   <description>
@@ -3720,90 +3834,6 @@ Spam Detection APIs, Pixelmatch - smallest, simplest and fastest JavaScript pixe
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0726.png"/>
   <itunes:duration>00:42:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>25 выпуск 07 сезона. Fullstaq Ruby, Sorbet, time.cloudflare.com, Just, Ts-toolbelt, jExcel, Freezeframe.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://fullstaqruby.org/">Fullstaq Ruby</a>, <a href="https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet">Open-sourcing Sorbet: a fast, powerful type checker for Ruby</a>, <a href="https://rubytogether.org/news/2019-06-10-may-2019-monthly-update">Ruby Together May 2019 newsletter – bundler/rubygems merger</a> и <a href="https://www.codica.com/blog/developing-rails-web-app-with-elasticsearch/">How to Implement Elasticsearch When Developing a Rails Web App</a></li>
-  <li><a href="https://evilmartians.com/chronicles/graphql-on-rails-2-updating-the-data">GraphQL on Rails: updating the data</a>, <a href="https://github.com/javan/whenever/releases/tag/v1.0.0">Whenever 1.0.0</a> и <a href="https://github.com/ambethia/recaptcha/releases/tag/v5.0.1">Recaptcha 5.0.1</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://blog.cloudflare.com/secure-time/">Introducing time.cloudflare.com</a>, <a href="https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/">Optimizing Google Fonts Performance</a> и <a href="https://github.com/lydiahallie/javascript-questions">List of (Advanced) JavaScript Questions</a></li>
-  <li><a href="https://microsoft.github.io/just/">Just - a build task definition library</a>, <a href="https://github.com/pirix-gh/ts-toolbelt">Ts-toolbelt is a collection of types that makes TypeScript even safer</a>, <a href="https://github.com/paulhodel/jexcel">jExcel - a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets</a> и <a href="https://github.com/ctrl-freaks/freezeframe.js/">Freezeframe.js - a library that pauses animated .gifs and enables them to animate on events</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://fullstaqruby.org/">Fullstaq Ruby</a>, <a href="https://sorbet.org/blog/2019/06/20/open-sourcing-sorbet">Open-sourcing Sorbet: a fast, powerful type checker for Ruby</a>, <a href="https://rubytogether.org/news/2019-06-10-may-2019-monthly-update">Ruby Together May 2019 newsletter – bundler/rubygems merger</a> и <a href="https://www.codica.com/blog/developing-rails-web-app-with-elasticsearch/">How to Implement Elasticsearch When Developing a Rails Web App</a></li>
-  <li><a href="https://evilmartians.com/chronicles/graphql-on-rails-2-updating-the-data">GraphQL on Rails: updating the data</a>, <a href="https://github.com/javan/whenever/releases/tag/v1.0.0">Whenever 1.0.0</a> и <a href="https://github.com/ambethia/recaptcha/releases/tag/v5.0.1">Recaptcha 5.0.1</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://blog.cloudflare.com/secure-time/">Introducing time.cloudflare.com</a>, <a href="https://www.smashingmagazine.com/2019/06/optimizing-google-fonts-performance/">Optimizing Google Fonts Performance</a> и <a href="https://github.com/lydiahallie/javascript-questions">List of (Advanced) JavaScript Questions</a></li>
-  <li><a href="https://microsoft.github.io/just/">Just - a build task definition library</a>, <a href="https://github.com/pirix-gh/ts-toolbelt">Ts-toolbelt is a collection of types that makes TypeScript even safer</a>, <a href="https://github.com/paulhodel/jexcel">jExcel - a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets</a> и <a href="https://github.com/ctrl-freaks/freezeframe.js/">Freezeframe.js - a library that pauses animated .gifs and enables them to animate on events</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 24 Jun 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/06/24/podcast-07-25.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/06/24/podcast-07-25.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0725.mp3" length="33233136" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0725.mp3" fileSize="33233136" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Fullstaq Ruby, Open-sourcing Sorbet: a fast, p...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Fullstaq Ruby, Open-sourcing Sorbet: a fast, powerful type checker for Ruby, Ruby Together May 2019 newsletter – bundler/rubygems merger и How to Implement Elasticsearch When Developing a Rails Web App
-
-  
-GraphQL on Rails: updating the data, Whenever 1.0.0 и Recaptcha 5.0.1
-
-
-
-Web
-
-
-  
-Introducing time.cloudflare.com, Optimizing Google Fonts Performance и List of (Advanced) JavaScript Questions
-
-  
-Just - a build task definition library, Ts-toolbelt is a collection of types that makes TypeScript even safer, jExcel - a lightweight vanilla javascript plugin to create amazing web-based interactive tables and spreadsheets и Freezeframe.js - a library that pauses animated .gifs and enables them to animate on events
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0725.png"/>
-  <itunes:duration>00:27:40</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
