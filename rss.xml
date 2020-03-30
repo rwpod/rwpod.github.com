@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 23 Mar 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 23 Mar 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 30 Mar 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,119 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>12 выпуск 08 сезона. Rails 6.0.2.2, Webpacker 5.0, Nanoid 3.0.0, Truemail, Pgsync, CS 253 Web Security и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://weblog.rubyonrails.org/2020/3/19/Rails-6-0-2-2-and-5-2-4-2-has-been-released/">Rails 6.0.2.2 and 5.2.4.2 have been released!</a></li>
+  <li><a href="https://prathamesh.tech/2020/03/25/webpacker-5-0-released/">Webpacker 5.0 released</a></li>
+  <li>
+    <p><a href="https://github.com/binarylogic/authlogic/releases/tag/v6.0.0">Authlogic 6.0.0</a></p>
+  </li>
+  <li><a href="https://evilmartians.com/chronicles/rubocoping-with-legacy-bring-your-ruby-code-up-to-standard">RuboCoping with legacy: Bring your Ruby code up to Standard</a></li>
+  <li><a href="https://github.com/rubygarage/truemail">Truemail - configurable framework agnostic plain Ruby email validator.</a></li>
+  <li><a href="https://github.com/dry-rb/dry-rails">Dry-rails - official dry-rb railtie</a></li>
+  <li><a href="https://github.com/ankane/pgsync">Pgsync - sync data from one Postgres database to another</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://dev.to/themesberg/bootstrap-5-dropping-ie-10-11-browser-support-where-does-that-leave-us-1b4a">Bootstrap 5 dropping IE 10 &amp; 11 browser support: where does that leave us?</a></li>
+  <li><a href="https://www.theregister.co.uk/2020/03/26/corejs_maintainer_jailed_code_release/">What happens when the maintainer of a JS library downloaded 26m times a week goes to prison for killing someone with a motorbike? Core-js just found out</a></li>
+  <li>
+    <p><a href="https://felixgerschau.com/measuring-the-performance-of-java-script-functions">Measuring the Performance of JavaScript Functions</a></p>
+  </li>
+  <li><a href="https://github.com/ai/nanoid/releases/tag/3.0.0">Nanoid 3.0.0</a></li>
+  <li><a href="https://web.stanford.edu/class/cs253/">CS 253 Web Security - Stanford</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://weblog.rubyonrails.org/2020/3/19/Rails-6-0-2-2-and-5-2-4-2-has-been-released/">Rails 6.0.2.2 and 5.2.4.2 have been released!</a></li>
+  <li><a href="https://prathamesh.tech/2020/03/25/webpacker-5-0-released/">Webpacker 5.0 released</a></li>
+  <li>
+    <p><a href="https://github.com/binarylogic/authlogic/releases/tag/v6.0.0">Authlogic 6.0.0</a></p>
+  </li>
+  <li><a href="https://evilmartians.com/chronicles/rubocoping-with-legacy-bring-your-ruby-code-up-to-standard">RuboCoping with legacy: Bring your Ruby code up to Standard</a></li>
+  <li><a href="https://github.com/rubygarage/truemail">Truemail - configurable framework agnostic plain Ruby email validator.</a></li>
+  <li><a href="https://github.com/dry-rb/dry-rails">Dry-rails - official dry-rb railtie</a></li>
+  <li><a href="https://github.com/ankane/pgsync">Pgsync - sync data from one Postgres database to another</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://dev.to/themesberg/bootstrap-5-dropping-ie-10-11-browser-support-where-does-that-leave-us-1b4a">Bootstrap 5 dropping IE 10 &amp; 11 browser support: where does that leave us?</a></li>
+  <li><a href="https://www.theregister.co.uk/2020/03/26/corejs_maintainer_jailed_code_release/">What happens when the maintainer of a JS library downloaded 26m times a week goes to prison for killing someone with a motorbike? Core-js just found out</a></li>
+  <li>
+    <p><a href="https://felixgerschau.com/measuring-the-performance-of-java-script-functions">Measuring the Performance of JavaScript Functions</a></p>
+  </li>
+  <li><a href="https://github.com/ai/nanoid/releases/tag/3.0.0">Nanoid 3.0.0</a></li>
+  <li><a href="https://web.stanford.edu/class/cs253/">CS 253 Web Security - Stanford</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Mar 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/03/30/podcast-08-12.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/03/30/podcast-08-12.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0812.mp3" length="26435923" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0812.mp3" fileSize="26435923" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6.0.2.2 and 5.2.4.2 have been released!
+...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6.0.2.2 and 5.2.4.2 have been released!
+  Webpacker 5.0 released
+  
+    Authlogic 6.0.0
+  
+  RuboCoping with legacy: Bring your Ruby code up to Standard
+  Truemail - configurable framework agnostic plain Ruby email validator.
+  Dry-rails - official dry-rb railtie
+  Pgsync - sync data from one Postgres database to another
+
+
+Web
+
+
+  Bootstrap 5 dropping IE 10 &amp; 11 browser support: where does that leave us?
+  What happens when the maintainer of a JS library downloaded 26m times a week goes to prison for killing someone with a motorbike? Core-js just found out
+  
+    Measuring the Performance of JavaScript Functions
+  
+  Nanoid 3.0.0
+  CS 253 Web Security - Stanford
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0812.png"/>
+  <itunes:duration>00:26:13</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>11 выпуск 08 сезона. Babel 7.9.0, CVE-2020-10663, The Coronavirus App, StrMetrics, AntV, Kovid и прочее</title>
   <description>
@@ -3781,90 +3894,6 @@ Hermes - JavaScript engine optimized for React Native, Moveable is Draggable! Re
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0728.png"/>
   <itunes:duration>00:27:53</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>27 выпуск 07 сезона. React Apollo vs Redux + REST, Native Payment Request API, Scallop, TimeCalc, Bounds.js, Zip и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://snyk.io/blog/ruby-gem-strong_password-found-to-contain-remote-code-execution-code-in-a-malicious-version-further-strengthening-worries-of-growth-in-supply-chain-attacks/">Ruby gem strong_password found to contain remote code execution code in a malicious version, further strengthening worries of growth in supply-chain attacks</a>, <a href="https://blog.bigbinary.com/2019/07/03/rails-6-adds-support-for-multi-environment-credentials.html">Rails 6 adds support for Multi Environment credentials</a> и <a href="https://sourcediving.com/less-known-changes-in-ruby-2-7-8d5db660370f">6 changes you might have missed coming in Ruby 2.7</a></li>
-  <li><a href="https://www.xuuso.com/programming/ruby/2019/07/01/i-just-made-ruby-plusplus.html">I just made Ruby++</a>, <a href="https://blog.appsignal.com/2019/07/02/ruby-magic-brewing-our-own-template-lexer-in-ruby.html">Brewing our own Template Lexer in Ruby</a>, <a href="https://github.com/fetlife/scallop">Scallop - ergonomic shell wrapper</a> и <a href="https://github.com/zverok/time_calc">TimeCalc - next generation of Time arithmetic library</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://snyk.io/blog/snyk-research-team-discovers-severe-prototype-pollution-security-vulnerabilities-affecting-all-versions-of-lodash/">Snyk research team discovers severe prototype pollution security vulnerabilities affecting all versions of lodash</a>, <a href="https://2ality.com/2019/07/global-scope.html">How do JavaScript’s global variables really work?</a> и <a href="https://css-tricks.com/where-do-you-learn-html-css-in-2019/">Where Do You Learn HTML &amp; CSS in 2019?</a></li>
-  <li><a href="https://medium.com/wix-engineering/react-apollo-vs-redux-rest-implementing-the-same-feature-twice-1b47e39d6d6a">React Apollo vs Redux + REST: Implementing the same feature twice</a>, <a href="https://medium.com/better-programming/what-is-the-native-payments-request-api-905c60a996e8">What Is the Native Payment Request API?</a>, <a href="https://chriscavs.github.io/bounds-demo/">Bounds.js - asynchronous boundary detection, without dependencies</a> и <a href="https://github.com/ronomon/zip">Zip - Robust ZIP decoder with defenses against dangerous compression ratios, spec deviations, malicious archive signatures, etc</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://snyk.io/blog/ruby-gem-strong_password-found-to-contain-remote-code-execution-code-in-a-malicious-version-further-strengthening-worries-of-growth-in-supply-chain-attacks/">Ruby gem strong_password found to contain remote code execution code in a malicious version, further strengthening worries of growth in supply-chain attacks</a>, <a href="https://blog.bigbinary.com/2019/07/03/rails-6-adds-support-for-multi-environment-credentials.html">Rails 6 adds support for Multi Environment credentials</a> и <a href="https://sourcediving.com/less-known-changes-in-ruby-2-7-8d5db660370f">6 changes you might have missed coming in Ruby 2.7</a></li>
-  <li><a href="https://www.xuuso.com/programming/ruby/2019/07/01/i-just-made-ruby-plusplus.html">I just made Ruby++</a>, <a href="https://blog.appsignal.com/2019/07/02/ruby-magic-brewing-our-own-template-lexer-in-ruby.html">Brewing our own Template Lexer in Ruby</a>, <a href="https://github.com/fetlife/scallop">Scallop - ergonomic shell wrapper</a> и <a href="https://github.com/zverok/time_calc">TimeCalc - next generation of Time arithmetic library</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://snyk.io/blog/snyk-research-team-discovers-severe-prototype-pollution-security-vulnerabilities-affecting-all-versions-of-lodash/">Snyk research team discovers severe prototype pollution security vulnerabilities affecting all versions of lodash</a>, <a href="https://2ality.com/2019/07/global-scope.html">How do JavaScript’s global variables really work?</a> и <a href="https://css-tricks.com/where-do-you-learn-html-css-in-2019/">Where Do You Learn HTML &amp; CSS in 2019?</a></li>
-  <li><a href="https://medium.com/wix-engineering/react-apollo-vs-redux-rest-implementing-the-same-feature-twice-1b47e39d6d6a">React Apollo vs Redux + REST: Implementing the same feature twice</a>, <a href="https://medium.com/better-programming/what-is-the-native-payments-request-api-905c60a996e8">What Is the Native Payment Request API?</a>, <a href="https://chriscavs.github.io/bounds-demo/">Bounds.js - asynchronous boundary detection, without dependencies</a> и <a href="https://github.com/ronomon/zip">Zip - Robust ZIP decoder with defenses against dangerous compression ratios, spec deviations, malicious archive signatures, etc</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 08 Jul 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/07/08/podcast-07-27.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/07/08/podcast-07-27.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0727.mp3" length="39914236" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0727.mp3" fileSize="39914236" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby gem strong_password found to contain remo...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby gem strong_password found to contain remote code execution code in a malicious version, further strengthening worries of growth in supply-chain attacks, Rails 6 adds support for Multi Environment credentials и 6 changes you might have missed coming in Ruby 2.7
-
-  
-I just made Ruby++, Brewing our own Template Lexer in Ruby, Scallop - ergonomic shell wrapper и TimeCalc - next generation of Time arithmetic library
-
-
-
-Web
-
-
-  
-Snyk research team discovers severe prototype pollution security vulnerabilities affecting all versions of lodash, How do JavaScript’s global variables really work? и Where Do You Learn HTML &amp; CSS in 2019?
-
-  
-React Apollo vs Redux + REST: Implementing the same feature twice, What Is the Native Payment Request API?, Bounds.js - asynchronous boundary detection, without dependencies и Zip - Robust ZIP decoder with defenses against dangerous compression ratios, spec deviations, malicious archive signatures, etc
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0727.png"/>
-  <itunes:duration>00:33:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
