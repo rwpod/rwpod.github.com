@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 30 Mar 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 30 Mar 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Thu, 02 Apr 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,168 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>RWPod Кафе 14: Vladimir Agafonkin</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Vladimir Agafonkin:</p>
+
+<ul>
+  <li>Привет. Кто ты?</li>
+  <li>Как ты попал в программирование?</li>
+  <li>Что думаешь о JS инфраструктуре и комьюнити?</li>
+  <li><a href="https://leafletjs.com/">Leaflet</a> - идея создания и реализация.</li>
+  <li>Какое самое сложное было в реализации библиотеки?</li>
+  <li><a href="https://github.com/mourner/projects">https://github.com/mourner/projects</a> - как приходил к идеи создания библиотек? Не тяжело поддерживать такое количество open source?</li>
+  <li>Твои последнии доклады на конференциях - что стоит обязательно глянуть?</li>
+  <li>Немного о группе “Обійми Дощу”</li>
+  <li>Твои планы по проектам</li>
+  <li>Пожелание слушателям</li>
+</ul>
+
+<h4 id="section">Страницы</h4>
+
+<ul>
+  <li><a href="https://www.facebook.com/agafonkin">Facebook</a></li>
+  <li><a href="https://github.com/mourner">Github</a></li>
+  <li><a href="https://twitter.com/mourner">Twitter</a></li>
+  <li><a href="https://agafonkin.com/">Сайт</a></li>
+</ul>
+
+<h4 id="section-1">Программирование</h4>
+
+<ul>
+  <li><a href="https://leafletjs.com/">Leaflet</a></li>
+  <li><a href="https://github.com/mapbox/mapbox-gl-js">Mapbox GL JS</a></li>
+  <li><a href="https://github.com/mourner/projects">Библиотеки и алгоритмы</a></li>
+  <li><a href="https://www.youtube.com/watch?v=kl7a1LWXjtI">Быстро по умолчанию: алгоритмическое мышление на практике (видео)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=owcvg2YZ7Y8">Fast By Default: Algorithmic Performance Optimization in Practice (video)</a></li>
+</ul>
+
+<h4 id="section-2">Музыка</h4>
+
+<ul>
+  <li><a href="https://rain.in.ua/">Обійми Дощу сайт</a></li>
+  <li><a href="https://www.facebook.com/obiymydoschu/">Обійми Дощу / Obiymy Doschu Facebook</a></li>
+  <li><a href="https://www.youtube.com/watch?v=yt6PGTyLNVE">Obiymy Doschu — Na Vidstani (Official Video)</a></li>
+  <li><a href="https://apple.co/2OXQMEY">Apple Music</a></li>
+  <li><a href="https://spoti.fi/2A6gHnY">Spotify</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Vladimir Agafonkin:</p>
+
+<ul>
+  <li>Привет. Кто ты?</li>
+  <li>Как ты попал в программирование?</li>
+  <li>Что думаешь о JS инфраструктуре и комьюнити?</li>
+  <li><a href="https://leafletjs.com/">Leaflet</a> - идея создания и реализация.</li>
+  <li>Какое самое сложное было в реализации библиотеки?</li>
+  <li><a href="https://github.com/mourner/projects">https://github.com/mourner/projects</a> - как приходил к идеи создания библиотек? Не тяжело поддерживать такое количество open source?</li>
+  <li>Твои последнии доклады на конференциях - что стоит обязательно глянуть?</li>
+  <li>Немного о группе “Обійми Дощу”</li>
+  <li>Твои планы по проектам</li>
+  <li>Пожелание слушателям</li>
+</ul>
+
+<h4 id="section">Страницы</h4>
+
+<ul>
+  <li><a href="https://www.facebook.com/agafonkin">Facebook</a></li>
+  <li><a href="https://github.com/mourner">Github</a></li>
+  <li><a href="https://twitter.com/mourner">Twitter</a></li>
+  <li><a href="https://agafonkin.com/">Сайт</a></li>
+</ul>
+
+<h4 id="section-1">Программирование</h4>
+
+<ul>
+  <li><a href="https://leafletjs.com/">Leaflet</a></li>
+  <li><a href="https://github.com/mapbox/mapbox-gl-js">Mapbox GL JS</a></li>
+  <li><a href="https://github.com/mourner/projects">Библиотеки и алгоритмы</a></li>
+  <li><a href="https://www.youtube.com/watch?v=kl7a1LWXjtI">Быстро по умолчанию: алгоритмическое мышление на практике (видео)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=owcvg2YZ7Y8">Fast By Default: Algorithmic Performance Optimization in Practice (video)</a></li>
+</ul>
+
+<h4 id="section-2">Музыка</h4>
+
+<ul>
+  <li><a href="https://rain.in.ua/">Обійми Дощу сайт</a></li>
+  <li><a href="https://www.facebook.com/obiymydoschu/">Обійми Дощу / Obiymy Doschu Facebook</a></li>
+  <li><a href="https://www.youtube.com/watch?v=yt6PGTyLNVE">Obiymy Doschu — Na Vidstani (Official Video)</a></li>
+  <li><a href="https://apple.co/2OXQMEY">Apple Music</a></li>
+  <li><a href="https://spoti.fi/2A6gHnY">Spotify</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Thu, 02 Apr 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/04/02/cafe-014.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/04/02/cafe-014.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/cafe/014.mp3" length="50910096" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/cafe/014.mp3" fileSize="50910096" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Vladimir Agafonkin:
+
+
+  Привет. Кто ты?
+  Как ты попал в программирование?
+  Что думае...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Vladimir Agafonkin:
+
+
+  Привет. Кто ты?
+  Как ты попал в программирование?
+  Что думаешь о JS инфраструктуре и комьюнити?
+  
+Leaflet - идея создания и реализация.
+  Какое самое сложное было в реализации библиотеки?
+  
+https://github.com/mourner/projects - как приходил к идеи создания библиотек? Не тяжело поддерживать такое количество open source?
+  Твои последнии доклады на конференциях - что стоит обязательно глянуть?
+  Немного о группе “Обійми Дощу”
+  Твои планы по проектам
+  Пожелание слушателям
+
+
+Страницы
+
+
+  Facebook
+  Github
+  Twitter
+  Сайт
+
+
+Программирование
+
+
+  Leaflet
+  Mapbox GL JS
+  Библиотеки и алгоритмы
+  Быстро по умолчанию: алгоритмическое мышление на практике (видео)
+  Fast By Default: Algorithmic Performance Optimization in Practice (video)
+
+
+Музыка
+
+
+  Обійми Дощу сайт
+  Обійми Дощу / Obiymy Doschu Facebook
+  Obiymy Doschu — Na Vidstani (Official Video)
+  Apple Music
+  Spotify
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/cafe/014.jpg"/>
+  <itunes:duration>00:52:12</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>12 выпуск 08 сезона. Rails 6.0.2.2, Webpacker 5.0, Nanoid 3.0.0, Truemail, Pgsync, CS 253 Web Security и прочее</title>
   <description>
@@ -3810,90 +3972,6 @@ Introducing Osgood, Smashtest - a language for rapidly describing and deploying 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0729.png"/>
   <itunes:duration>00:36:03</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>28 выпуск 07 сезона. Babel 7.5.0, React Native 0.60, Lefthook, Crystalball, Next.js 9, Dragon Ruby, Hermes, Quark и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/07/09/rails-6-adds-hooks-to-activejob-around-retries-and-discards.html">Rails 6 adds hooks to Active Job around retries and discards</a>, <a href="https://blog.bigbinary.com/2019/07/15/rails-6-adds-annotate-to-activerecord-relation-queries.html">Rails 6 adds ActiveRecord::Relation#annotate</a> и <a href="https://dev.to/evilmartians/lefthook-crystalball-and-git-magic-for-smooth-development-experience-33mc">Lefthook, Crystalball, and git magic for smooth development experience</a></li>
-  <li><a href="https://github.com/MarioRuiz/string_pattern">StringPattern - you can easily generate strings supplying a very simple pattern</a>, <a href="https://github.com/styd/apexcharts.rb">Apexcharts.rb - a ruby gem that wraps a apexcharts.js charting library</a> и <a href="https://www.driftingruby.com/episodes/introduction-to-dragon-ruby">Introduction to Dragon Ruby</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://babeljs.io/blog/2019/07/03/7.5.0">Babel 7.5.0</a>, <a href="https://facebook.github.io/react-native/blog/2019/07/03/version-60">Announcing React Native 0.60</a>, <a href="https://nextjs.org/blog/next-9">Next.js 9</a> и <a href="https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/">Functional JavaScript: What are higher-order functions, and why should anyone care?</a></li>
-  <li><a href="https://hermesengine.dev/">Hermes - JavaScript engine optimized for React Native</a>, <a href="https://daybrush.com/moveable/">Moveable is Draggable! Resizable! Scalable! Rotatable!</a>, <a href="https://quarkjs.io/">Quark - a general purpose software tool</a> и <a href="https://abcjs.net/">Abcjs - javascript for rendering abc music notation</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/07/09/rails-6-adds-hooks-to-activejob-around-retries-and-discards.html">Rails 6 adds hooks to Active Job around retries and discards</a>, <a href="https://blog.bigbinary.com/2019/07/15/rails-6-adds-annotate-to-activerecord-relation-queries.html">Rails 6 adds ActiveRecord::Relation#annotate</a> и <a href="https://dev.to/evilmartians/lefthook-crystalball-and-git-magic-for-smooth-development-experience-33mc">Lefthook, Crystalball, and git magic for smooth development experience</a></li>
-  <li><a href="https://github.com/MarioRuiz/string_pattern">StringPattern - you can easily generate strings supplying a very simple pattern</a>, <a href="https://github.com/styd/apexcharts.rb">Apexcharts.rb - a ruby gem that wraps a apexcharts.js charting library</a> и <a href="https://www.driftingruby.com/episodes/introduction-to-dragon-ruby">Introduction to Dragon Ruby</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://babeljs.io/blog/2019/07/03/7.5.0">Babel 7.5.0</a>, <a href="https://facebook.github.io/react-native/blog/2019/07/03/version-60">Announcing React Native 0.60</a>, <a href="https://nextjs.org/blog/next-9">Next.js 9</a> и <a href="https://jrsinclair.com/articles/2019/what-is-a-higher-order-function-and-why-should-anyone-care/">Functional JavaScript: What are higher-order functions, and why should anyone care?</a></li>
-  <li><a href="https://hermesengine.dev/">Hermes - JavaScript engine optimized for React Native</a>, <a href="https://daybrush.com/moveable/">Moveable is Draggable! Resizable! Scalable! Rotatable!</a>, <a href="https://quarkjs.io/">Quark - a general purpose software tool</a> и <a href="https://abcjs.net/">Abcjs - javascript for rendering abc music notation</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 16 Jul 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/07/16/podcast-07-28.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/07/16/podcast-07-28.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0728.mp3" length="33481318" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0728.mp3" fileSize="33481318" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 adds hooks to Active Job around retrie...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 adds hooks to Active Job around retries and discards, Rails 6 adds ActiveRecord::Relation#annotate и Lefthook, Crystalball, and git magic for smooth development experience
-
-  
-StringPattern - you can easily generate strings supplying a very simple pattern, Apexcharts.rb - a ruby gem that wraps a apexcharts.js charting library и Introduction to Dragon Ruby
-
-
-
-Web
-
-
-  
-Babel 7.5.0, Announcing React Native 0.60, Next.js 9 и Functional JavaScript: What are higher-order functions, and why should anyone care?
-
-  
-Hermes - JavaScript engine optimized for React Native, Moveable is Draggable! Resizable! Scalable! Rotatable!, Quark - a general purpose software tool и Abcjs - javascript for rendering abc music notation
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0728.png"/>
-  <itunes:duration>00:27:53</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
