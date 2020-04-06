@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Thu, 02 Apr 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Thu, 02 Apr 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 06 Apr 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,134 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>13 выпуск 08 сезона. Ruby 2.7.1, ECMAScript 2020, Optimism, Puma-status, Monty Hall problem, Notyf, Perflink и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2020/03/31/ruby-2-7-1-released/">Ruby 2.7.1 Released</a></li>
+  <li><a href="http://railsconf.com/">RailsConf 2020.2: Couch edition</a></li>
+  <li><a href="https://discuss.rubyonrails.org/t/why-is-rails-boot-so-slow-on-macos/74021">Why is Rails boot so slow on macOS?</a></li>
+  <li>
+    <p><a href="https://hixonrails.com/ruby-on-rails-tutorials/ruby-on-rails-security-best-practices/">70+ Ruby on Rails Security Best Practices &amp; Vulnerabilities</a></p>
+  </li>
+  <li><a href="https://www.cookieshq.co.uk/posts/page-animations-with-turbolinks">Animated page transitions with Ruby on Rails and Turbolinks</a></li>
+  <li><a href="https://levelup.gitconnected.com/centralize-your-docker-logging-with-fluentd-a2b7e0a379ce">Centralize Your Docker Logging With FluentD</a></li>
+  <li><a href="https://optimism.leastbad.com/">Optimism - the missing drop-in solution for realtime remote form validation in Rails</a></li>
+  <li><a href="https://github.com/ylecuyer/puma-status">Puma-status - command-line tool for puma to display information about running request/process</a></li>
+  <li><a href="https://github.com/DeegC/monty_hall_paradox">Understanding the Monty Hall Problem through code</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://2ality.com/2019/12/ecmascript-2020.html">ECMAScript 2020: the final feature set</a></li>
+  <li><a href="https://github.com/tc39/proposal-logical-assignment">A proposal to combine Logical Operators and Assignment Expressions - stage 3</a></li>
+  <li><a href="https://xy2.dev/article/re-bab/">How an anti ad-blocker works: Reverse-engineering BlockAdBlock</a></li>
+  <li>
+    <p><a href="https://mintel.me/why-i-abandoned-default-exports/">5 reasons you should abandon default exports</a></p>
+  </li>
+  <li><a href="https://htmldom.dev/">How to manage HTML DOM with vanilla JavaScript only?</a></li>
+  <li><a href="https://carlosroso.com/notyf/">Notyf - a minimalistic JavaScript library for toast notifications</a></li>
+  <li><a href="https://perf.link/">Perflink - quick and easy JavaScript benchmarks</a></li>
+  <li><a href="https://github.com/qrohlf/trianglify">Trianglify - algorithmically generated triangle art</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2020/03/31/ruby-2-7-1-released/">Ruby 2.7.1 Released</a></li>
+  <li><a href="http://railsconf.com/">RailsConf 2020.2: Couch edition</a></li>
+  <li><a href="https://discuss.rubyonrails.org/t/why-is-rails-boot-so-slow-on-macos/74021">Why is Rails boot so slow on macOS?</a></li>
+  <li>
+    <p><a href="https://hixonrails.com/ruby-on-rails-tutorials/ruby-on-rails-security-best-practices/">70+ Ruby on Rails Security Best Practices &amp; Vulnerabilities</a></p>
+  </li>
+  <li><a href="https://www.cookieshq.co.uk/posts/page-animations-with-turbolinks">Animated page transitions with Ruby on Rails and Turbolinks</a></li>
+  <li><a href="https://levelup.gitconnected.com/centralize-your-docker-logging-with-fluentd-a2b7e0a379ce">Centralize Your Docker Logging With FluentD</a></li>
+  <li><a href="https://optimism.leastbad.com/">Optimism - the missing drop-in solution for realtime remote form validation in Rails</a></li>
+  <li><a href="https://github.com/ylecuyer/puma-status">Puma-status - command-line tool for puma to display information about running request/process</a></li>
+  <li><a href="https://github.com/DeegC/monty_hall_paradox">Understanding the Monty Hall Problem through code</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://2ality.com/2019/12/ecmascript-2020.html">ECMAScript 2020: the final feature set</a></li>
+  <li><a href="https://github.com/tc39/proposal-logical-assignment">A proposal to combine Logical Operators and Assignment Expressions - stage 3</a></li>
+  <li><a href="https://xy2.dev/article/re-bab/">How an anti ad-blocker works: Reverse-engineering BlockAdBlock</a></li>
+  <li>
+    <p><a href="https://mintel.me/why-i-abandoned-default-exports/">5 reasons you should abandon default exports</a></p>
+  </li>
+  <li><a href="https://htmldom.dev/">How to manage HTML DOM with vanilla JavaScript only?</a></li>
+  <li><a href="https://carlosroso.com/notyf/">Notyf - a minimalistic JavaScript library for toast notifications</a></li>
+  <li><a href="https://perf.link/">Perflink - quick and easy JavaScript benchmarks</a></li>
+  <li><a href="https://github.com/qrohlf/trianglify">Trianglify - algorithmically generated triangle art</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 06 Apr 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/04/06/podcast-08-13.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/04/06/podcast-08-13.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0813.mp3" length="35626500" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0813.mp3" fileSize="35626500" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7.1 Released
+  RailsConf 2020.2: Couch ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7.1 Released
+  RailsConf 2020.2: Couch edition
+  Why is Rails boot so slow on macOS?
+  
+    70+ Ruby on Rails Security Best Practices &amp; Vulnerabilities
+  
+  Animated page transitions with Ruby on Rails and Turbolinks
+  Centralize Your Docker Logging With FluentD
+  Optimism - the missing drop-in solution for realtime remote form validation in Rails
+  Puma-status - command-line tool for puma to display information about running request/process
+  Understanding the Monty Hall Problem through code
+
+
+Web
+
+
+  ECMAScript 2020: the final feature set
+  A proposal to combine Logical Operators and Assignment Expressions - stage 3
+  How an anti ad-blocker works: Reverse-engineering BlockAdBlock
+  
+    5 reasons you should abandon default exports
+  
+  How to manage HTML DOM with vanilla JavaScript only?
+  Notyf - a minimalistic JavaScript library for toast notifications
+  Perflink - quick and easy JavaScript benchmarks
+  Trianglify - algorithmically generated triangle art
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0813.png"/>
+  <itunes:duration>00:35:26</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>RWPod Кафе 14: Vladimir Agafonkin</title>
   <description>
@@ -3888,90 +4016,6 @@ JavaScript Proxy with Storage, Malicious code in the purescript npm installer, J
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/010.png"/>
   <itunes:duration>00:22:51</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>29 выпуск 07 сезона. GraphQL on Rails, The Web Can't Survive a Monoculture, Regexp-examples, Osgood, Color Thief и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://evilmartians.com/chronicles/graphql-on-rails-3-on-the-way-to-perfection">GraphQL on Rails: On the way to perfection</a>, <a href="https://www.honeybadger.io/blog/turbolinks/">How We Migrated To Turbolinks Without Breaking Javascript</a> и <a href="https://serverless.com/blog/dynamic-image-resizing-ruby/">Dynamic image resizing with Ruby and Serverless framework</a></li>
-  <li><a href="https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5">Fetching millions of rows from PostgreSQL with Rails</a>, <a href="https://github.com/tom-lord/regexp-examples">Regexp-examples - generate strings that match a given regular expression</a> и <a href="https://github.com/piotrmurach/tty-logger">TTY::Logger - a readable, structured and beautiful logging for the terminal</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="http://mikepennisi.com/blog/2019/the-web-cant-survive-a-monoculture/">The Web Can’t Survive a Monoculture</a>, <a href="https://overreacted.io/algebraic-effects-for-the-rest-of-us/">Algebraic Effects for the Rest of Us</a> и <a href="http://mishravikas.com/articles/2019-07/bypassing-anti-incognito-detection-google-chrome.html">Bypassing anti-incognito detection in Google Chrome</a></li>
-  <li><a href="https://dev.to/tlhunter/introducing-osgood-4k1m">Introducing Osgood</a>, <a href="https://smashtest.io/">Smashtest - a language for rapidly describing and deploying test cases</a>, <a href="https://lokeshdhakar.com/projects/color-thief/">Color Thief</a> и <a href="https://github.com/wpmed92/backpropaganda">Backpropaganda - a JavaScript neural network framework for educational purposes</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://evilmartians.com/chronicles/graphql-on-rails-3-on-the-way-to-perfection">GraphQL on Rails: On the way to perfection</a>, <a href="https://www.honeybadger.io/blog/turbolinks/">How We Migrated To Turbolinks Without Breaking Javascript</a> и <a href="https://serverless.com/blog/dynamic-image-resizing-ruby/">Dynamic image resizing with Ruby and Serverless framework</a></li>
-  <li><a href="https://blog.magrathealabs.com/fetching-millions-of-rows-from-postgresql-with-rails-70c0cec1b6f5">Fetching millions of rows from PostgreSQL with Rails</a>, <a href="https://github.com/tom-lord/regexp-examples">Regexp-examples - generate strings that match a given regular expression</a> и <a href="https://github.com/piotrmurach/tty-logger">TTY::Logger - a readable, structured and beautiful logging for the terminal</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="http://mikepennisi.com/blog/2019/the-web-cant-survive-a-monoculture/">The Web Can’t Survive a Monoculture</a>, <a href="https://overreacted.io/algebraic-effects-for-the-rest-of-us/">Algebraic Effects for the Rest of Us</a> и <a href="http://mishravikas.com/articles/2019-07/bypassing-anti-incognito-detection-google-chrome.html">Bypassing anti-incognito detection in Google Chrome</a></li>
-  <li><a href="https://dev.to/tlhunter/introducing-osgood-4k1m">Introducing Osgood</a>, <a href="https://smashtest.io/">Smashtest - a language for rapidly describing and deploying test cases</a>, <a href="https://lokeshdhakar.com/projects/color-thief/">Color Thief</a> и <a href="https://github.com/wpmed92/backpropaganda">Backpropaganda - a JavaScript neural network framework for educational purposes</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 22 Jul 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/07/22/podcast-07-29.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/07/22/podcast-07-29.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0729.mp3" length="43290066" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0729.mp3" fileSize="43290066" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  GraphQL on Rails: On the way to perfection, Ho...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-GraphQL on Rails: On the way to perfection, How We Migrated To Turbolinks Without Breaking Javascript и Dynamic image resizing with Ruby and Serverless framework
-
-  
-Fetching millions of rows from PostgreSQL with Rails, Regexp-examples - generate strings that match a given regular expression и TTY::Logger - a readable, structured and beautiful logging for the terminal
-
-
-
-Web
-
-
-  
-The Web Can’t Survive a Monoculture, Algebraic Effects for the Rest of Us и Bypassing anti-incognito detection in Google Chrome
-
-  
-Introducing Osgood, Smashtest - a language for rapidly describing and deploying test cases, Color Thief и Backpropaganda - a JavaScript neural network framework for educational purposes
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0729.png"/>
-  <itunes:duration>00:36:03</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
