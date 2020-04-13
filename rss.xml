@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 06 Apr 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 06 Apr 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 13 Apr 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,124 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>14 выпуск 08 сезона. Upgrading Rails, GitHub Protips, Super Bombinhas, COVID-19 timeline prediction, Franc и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://labs.clio.com/upgrading-rails-tracking-down-deprecated-callbacks-in-rails-5-0-b4288c5fab5e">Upgrading Rails: Tracking down deprecated callbacks in Rails 5.0</a></li>
+  <li><a href="https://blog.testdouble.com/posts/2020-04-07-favorite-things/">A Few of My Favorite Things</a></li>
+  <li>
+    <p><a href="https://blog.saeloun.com/2020/04/08/heredoc-in-ruby-and-rails">Heredocs and how to use them in Ruby and Rails</a></p>
+  </li>
+  <li><a href="https://medium.com/faun/monitor-delayed-jobs-with-prometheus-and-grafana-1-bc32ae12525c">Monitor Delayed Jobs with Prometheus and Grafana 1</a></li>
+  <li><a href="https://www.codewithjason.com/restart-sidekiq-automatically-deployment/">How to restart Sidekiq automatically for each deployment</a></li>
+  <li><a href="https://github.com/victords/super-bombinhas">Super Bombinhas - an ongoing platformer game project</a></li>
+  <li><a href="https://github.com/slack-ruby/slack-ruby-bot">Slack-Ruby-Bot - a generic Slack bot framework written in Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/">GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly</a></li>
+  <li><a href="https://medium.com/better-programming/10-critical-performance-optimization-steps-you-should-take-b560a3fcf658">10 Critical Performance Optimization Steps You Should Take</a></li>
+  <li>
+    <p><a href="https://covid-gauss.site/">COVID-19 timeline prediction with Gaussian curve</a></p>
+  </li>
+  <li><a href="https://github.com/wooorm/franc">Franc - detect the language of text</a></li>
+  <li><a href="http://chocolat.insipi.de/">Chocolat.js - lightbox candy</a></li>
+  <li><a href="https://markmap.js.org/">Markmap-lib - markdown + mindmap + library</a></li>
+  <li><a href="https://jsmonk.github.io/hegel/">Hegel - an advanced static type checker</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://labs.clio.com/upgrading-rails-tracking-down-deprecated-callbacks-in-rails-5-0-b4288c5fab5e">Upgrading Rails: Tracking down deprecated callbacks in Rails 5.0</a></li>
+  <li><a href="https://blog.testdouble.com/posts/2020-04-07-favorite-things/">A Few of My Favorite Things</a></li>
+  <li>
+    <p><a href="https://blog.saeloun.com/2020/04/08/heredoc-in-ruby-and-rails">Heredocs and how to use them in Ruby and Rails</a></p>
+  </li>
+  <li><a href="https://medium.com/faun/monitor-delayed-jobs-with-prometheus-and-grafana-1-bc32ae12525c">Monitor Delayed Jobs with Prometheus and Grafana 1</a></li>
+  <li><a href="https://www.codewithjason.com/restart-sidekiq-automatically-deployment/">How to restart Sidekiq automatically for each deployment</a></li>
+  <li><a href="https://github.com/victords/super-bombinhas">Super Bombinhas - an ongoing platformer game project</a></li>
+  <li><a href="https://github.com/slack-ruby/slack-ruby-bot">Slack-Ruby-Bot - a generic Slack bot framework written in Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/">GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly</a></li>
+  <li><a href="https://medium.com/better-programming/10-critical-performance-optimization-steps-you-should-take-b560a3fcf658">10 Critical Performance Optimization Steps You Should Take</a></li>
+  <li>
+    <p><a href="https://covid-gauss.site/">COVID-19 timeline prediction with Gaussian curve</a></p>
+  </li>
+  <li><a href="https://github.com/wooorm/franc">Franc - detect the language of text</a></li>
+  <li><a href="http://chocolat.insipi.de/">Chocolat.js - lightbox candy</a></li>
+  <li><a href="https://markmap.js.org/">Markmap-lib - markdown + mindmap + library</a></li>
+  <li><a href="https://jsmonk.github.io/hegel/">Hegel - an advanced static type checker</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 13 Apr 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/04/13/podcast-08-14.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/04/13/podcast-08-14.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0814.mp3" length="35864217" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0814.mp3" fileSize="35864217" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Upgrading Rails: Tracking down deprecated call...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Upgrading Rails: Tracking down deprecated callbacks in Rails 5.0
+  A Few of My Favorite Things
+  
+    Heredocs and how to use them in Ruby and Rails
+  
+  Monitor Delayed Jobs with Prometheus and Grafana 1
+  How to restart Sidekiq automatically for each deployment
+  Super Bombinhas - an ongoing platformer game project
+  Slack-Ruby-Bot - a generic Slack bot framework written in Ruby
+
+
+Web
+
+
+  GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly
+  10 Critical Performance Optimization Steps You Should Take
+  
+    COVID-19 timeline prediction with Gaussian curve
+  
+  Franc - detect the language of text
+  Chocolat.js - lightbox candy
+  Markmap-lib - markdown + mindmap + library
+  Hegel - an advanced static type checker
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0814.png"/>
+  <itunes:duration>00:35:33</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>13 выпуск 08 сезона. Ruby 2.7.1, ECMAScript 2020, Optimism, Puma-status, Monty Hall problem, Notyf, Perflink и прочее</title>
   <description>
@@ -3927,95 +4045,6 @@ JavaScript Proxy with Storage, Malicious code in the purescript npm installer, J
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0730.png"/>
   <itunes:duration>00:37:54</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>RWPod Кафе 10: Dávid Halász</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Dávid Halász:</p>
-
-<ul>
-  <li>We know that you are an active Ruby community member, participating and presenting on many conferences. RubyConf.by (Minsk), Ruby Unconf (Hamburg), Ruby Wine (Moldova). Are we missing some more? What have you learned on these conferences? Any favorites?</li>
-  <li>What other conferences except for Ruby do you visit?</li>
-  <li>You seem to be an active traveler. What countries have been to this year?</li>
-  <li>How do you manage such a working/travelling mode? Do you have any lifehacks to share?</li>
-  <li>According to github you are working on tree projects. Taking into account your traveling and speaker’s schedule, how in the world do you manage this?!</li>
-  <li>Your most popular project is the library for traffic smuggling through HTTP (<a href="https://github.com/skateman/purr">Purr</a>). Any plans to extend and evolve it?</li>
-  <li>You have recently been promoted to Senior Software Engineer, congratulations!, what has changed for you since then? Can you share your working stories, what are you working on at present?</li>
-  <li>At RubyC you are presenting talk named “How to hijack, proxy and smuggle sockets with Rack/Ruby”. What is story behind this talk? Why did you choose it? What pains does it help to solve?</li>
-  <li>
-    <p>One last “reading” question. What is new on your list?</p>
-  </li>
-  <li><a href="https://www.skateman.eu/">Web page</a></li>
-  <li><a href="https://github.com/skateman">Github</a></li>
-  <li><a href="https://twitter.com/halaszdavid">Twitter</a></li>
-  <li><a href="https://github.com/skateman/purr">Purr</a></li>
-  <li><a href="https://rubyc.eu/">RubyC 2019</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Dávid Halász:</p>
-
-<ul>
-  <li>We know that you are an active Ruby community member, participating and presenting on many conferences. RubyConf.by (Minsk), Ruby Unconf (Hamburg), Ruby Wine (Moldova). Are we missing some more? What have you learned on these conferences? Any favorites?</li>
-  <li>What other conferences except for Ruby do you visit?</li>
-  <li>You seem to be an active traveler. What countries have been to this year?</li>
-  <li>How do you manage such a working/travelling mode? Do you have any lifehacks to share?</li>
-  <li>According to github you are working on tree projects. Taking into account your traveling and speaker’s schedule, how in the world do you manage this?!</li>
-  <li>Your most popular project is the library for traffic smuggling through HTTP (<a href="https://github.com/skateman/purr">Purr</a>). Any plans to extend and evolve it?</li>
-  <li>You have recently been promoted to Senior Software Engineer, congratulations!, what has changed for you since then? Can you share your working stories, what are you working on at present?</li>
-  <li>At RubyC you are presenting talk named “How to hijack, proxy and smuggle sockets with Rack/Ruby”. What is story behind this talk? Why did you choose it? What pains does it help to solve?</li>
-  <li>
-    <p>One last “reading” question. What is new on your list?</p>
-  </li>
-  <li><a href="https://www.skateman.eu/">Web page</a></li>
-  <li><a href="https://github.com/skateman">Github</a></li>
-  <li><a href="https://twitter.com/halaszdavid">Twitter</a></li>
-  <li><a href="https://github.com/skateman/purr">Purr</a></li>
-  <li><a href="https://rubyc.eu/">RubyC 2019</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 23 Jul 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/07/23/cafe-010.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/07/23/cafe-010.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/cafe/010.mp3" length="27452623" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/cafe/010.mp3" fileSize="27452623" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Dávid Halász:
-
-
-  We know that you are an active Ruby community member, participating ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Dávid Halász:
-
-
-  We know that you are an active Ruby community member, participating and presenting on many conferences. RubyConf.by (Minsk), Ruby Unconf (Hamburg), Ruby Wine (Moldova). Are we missing some more? What have you learned on these conferences? Any favorites?
-  What other conferences except for Ruby do you visit?
-  You seem to be an active traveler. What countries have been to this year?
-  How do you manage such a working/travelling mode? Do you have any lifehacks to share?
-  According to github you are working on tree projects. Taking into account your traveling and speaker’s schedule, how in the world do you manage this?!
-  Your most popular project is the library for traffic smuggling through HTTP (Purr). Any plans to extend and evolve it?
-  You have recently been promoted to Senior Software Engineer, congratulations!, what has changed for you since then? Can you share your working stories, what are you working on at present?
-  At RubyC you are presenting talk named “How to hijack, proxy and smuggle sockets with Rack/Ruby”. What is story behind this talk? Why did you choose it? What pains does it help to solve?
-  
-    One last “reading” question. What is new on your list?
-  
-  Web page
-  Github
-  Twitter
-  Purr
-  RubyC 2019
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/cafe/010.png"/>
-  <itunes:duration>00:22:51</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
