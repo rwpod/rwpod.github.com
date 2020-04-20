@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 13 Apr 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 13 Apr 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,133 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>15 выпуск 08 сезона. jQuery 3.5.0, Puppeteer 3.0.0, Anyway Config, Global, Redaxios, Simpsons: Hit &amp; Run API и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://thehackernews.com/2020/04/rubygem-typosquatting-malware.html">Over 700 Malicious Typosquatted Libraries Found On RubyGems Repository</a></li>
+  <li><a href="https://boringrails.com/articles/feature-flags-simplest-thing-that-could-work/">Feature Flags: The stupid simple way to de-stress production releases</a></li>
+  <li><a href="https://medium.com/@igor04/ruby-main-789ff58320f">Ruby “main”</a></li>
+  <li>
+    <p><a href="https://pganalyze.com/blog/full-text-search-ruby-rails-postgres">Full Text Search in Milliseconds with Rails and PostgreSQL</a></p>
+  </li>
+  <li><a href="https://rossta.net/blog/how-to-use-webpacker-yml.html">Understanding webpacker.yml</a></li>
+  <li><a href="https://evilmartians.com/chronicles/anyway-config-keep-your-ruby-configuration-sane">Anyway Config: Keep your Ruby configuration sane</a></li>
+  <li><a href="https://github.com/railsware/global">Global 2.0.0</a></li>
+  <li><a href="https://tomo-deploy.com/">Tomo - a friendly command-line tool for deploying Rails apps</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="http://blog.jquery.com/2020/04/10/jquery-3-5-0-released/">jQuery 3.5.0 Released!</a></li>
+  <li><a href="https://github.com/puppeteer/puppeteer/releases/tag/v3.0.0">Puppeteer 3.0.0</a></li>
+  <li><a href="https://snyk.io/security-scanner-vuln-cost/">Vuln Cost: security scanner for VS Code</a></li>
+  <li><a href="https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/">Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)</a></li>
+  <li>
+    <p><a href="https://addyosmani.com/blog/profiling-react-js/">Profiling React.js Performance</a></p>
+  </li>
+  <li><a href="https://blog.logrocket.com/getting-started-with-alpine-js/">Getting started with Alpine.js</a></li>
+  <li><a href="https://github.com/developit/redaxios">Redaxios - the Axios API, as an 800 byte Fetch wrapper</a></li>
+  <li><a href="https://jalal246.github.io/builderz/">Builderz - Zero Configuration JavaScript Bundler</a></li>
+  <li><a href="https://github.com/taviso/sharapi">Simpsons: Hit &amp; Run API</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://thehackernews.com/2020/04/rubygem-typosquatting-malware.html">Over 700 Malicious Typosquatted Libraries Found On RubyGems Repository</a></li>
+  <li><a href="https://boringrails.com/articles/feature-flags-simplest-thing-that-could-work/">Feature Flags: The stupid simple way to de-stress production releases</a></li>
+  <li><a href="https://medium.com/@igor04/ruby-main-789ff58320f">Ruby “main”</a></li>
+  <li>
+    <p><a href="https://pganalyze.com/blog/full-text-search-ruby-rails-postgres">Full Text Search in Milliseconds with Rails and PostgreSQL</a></p>
+  </li>
+  <li><a href="https://rossta.net/blog/how-to-use-webpacker-yml.html">Understanding webpacker.yml</a></li>
+  <li><a href="https://evilmartians.com/chronicles/anyway-config-keep-your-ruby-configuration-sane">Anyway Config: Keep your Ruby configuration sane</a></li>
+  <li><a href="https://github.com/railsware/global">Global 2.0.0</a></li>
+  <li><a href="https://tomo-deploy.com/">Tomo - a friendly command-line tool for deploying Rails apps</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="http://blog.jquery.com/2020/04/10/jquery-3-5-0-released/">jQuery 3.5.0 Released!</a></li>
+  <li><a href="https://github.com/puppeteer/puppeteer/releases/tag/v3.0.0">Puppeteer 3.0.0</a></li>
+  <li><a href="https://snyk.io/security-scanner-vuln-cost/">Vuln Cost: security scanner for VS Code</a></li>
+  <li><a href="https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/">Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)</a></li>
+  <li>
+    <p><a href="https://addyosmani.com/blog/profiling-react-js/">Profiling React.js Performance</a></p>
+  </li>
+  <li><a href="https://blog.logrocket.com/getting-started-with-alpine-js/">Getting started with Alpine.js</a></li>
+  <li><a href="https://github.com/developit/redaxios">Redaxios - the Axios API, as an 800 byte Fetch wrapper</a></li>
+  <li><a href="https://jalal246.github.io/builderz/">Builderz - Zero Configuration JavaScript Bundler</a></li>
+  <li><a href="https://github.com/taviso/sharapi">Simpsons: Hit &amp; Run API</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/04/20/podcast-08-15.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/04/20/podcast-08-15.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0815.mp3" length="45054724" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0815.mp3" fileSize="45054724" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Over 700 Malicious Typosquatted Libraries Foun...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Over 700 Malicious Typosquatted Libraries Found On RubyGems Repository
+  Feature Flags: The stupid simple way to de-stress production releases
+  Ruby “main”
+  
+    Full Text Search in Milliseconds with Rails and PostgreSQL
+  
+  Understanding webpacker.yml
+  Anyway Config: Keep your Ruby configuration sane
+  Global 2.0.0
+  Tomo - a friendly command-line tool for deploying Rails apps
+
+
+Web
+
+
+  jQuery 3.5.0 Released!
+  Puppeteer 3.0.0
+  Vuln Cost: security scanner for VS Code
+  Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)
+  
+    Profiling React.js Performance
+  
+  Getting started with Alpine.js
+  Redaxios - the Axios API, as an 800 byte Fetch wrapper
+  Builderz - Zero Configuration JavaScript Bundler
+  Simpsons: Hit &amp; Run API
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0815.png"/>
+  <itunes:duration>00:45:21</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>14 выпуск 08 сезона. Upgrading Rails, GitHub Protips, Super Bombinhas, COVID-19 timeline prediction, Franc и прочее</title>
   <description>
@@ -3961,90 +4088,6 @@ Open source Minecraft clone, Cube.js - Open Source Analytics Framework и Esprin
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0731.png"/>
   <itunes:duration>00:44:59</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>30 выпуск 07 сезона. Rails 6 Features, Mithril.js 2.0.3, Vuetify 2.0.2, Heroku vs self-hosted PaaS, Cesium.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.toptal.com/ruby-on-rails/rails-6-features">Rails 6 Features: What’s New and Why It Matters</a>, <a href="https://blog.bigbinary.com/2019/07/23/rails-6-reports-object-allocations-made-while-rendering-view-templates.html">Rails 6 reports object allocations made while rendering view templates</a> и <a href="https://www.saturnflyer.com/blog/reading-ruby-metaprogramming-inside-devise">Reading Ruby Metaprogramming inside Devise</a></li>
-  <li><a href="https://www.mskog.com/posts/heroku-vs-self-hosted-paas/">Heroku vs self-hosted PaaS</a>, <a href="https://semaphoreci.com/blog/kubernetes-deployment">Kubernetes Deployments: The Ultimate Guide</a>, <a href="https://github.com/collectiveidea/audited">Audited (previously acts_as_audited) is an ORM extension that logs all changes to your models</a> и <a href="https://github.com/kirillshevch/query_track">QueryTrack - find time-consuming database queries for ActiveRecord-based Rails Apps</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://github.com/MithrilJS/mithril.js/releases/tag/v2.0.3">Mithril.js 2.0.3</a>, <a href="https://github.com/vuetifyjs/vuetify/releases/tag/v2.0.2">Vuetify 2.0.2</a>, <a href="https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4">When a rewrite isn’t: rebuilding Slack on the desktop</a> и <a href="https://jscomplete.com/learn/complete-intro-react">The Complete Introduction to React</a></li>
-  <li><a href="https://davidwalsh.name/javascript-proxy-with-storage">JavaScript Proxy with Storage</a>, <a href="https://harry.garrood.me/blog/malicious-code-in-purescript-npm-installer/">Malicious code in the purescript npm installer</a>, <a href="https://github.com/nikersify/jay">Jay - supercharged JavaScript REPL</a>, <a href="https://seek-oss.github.io/treat/">Treat - themeable, statically extracted CSS‑in‑JS with near‑zero runtime</a> и <a href="https://cesiumjs.org/">Cesium.js - an open-source JavaScript library for world-class 3D globes and maps</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.toptal.com/ruby-on-rails/rails-6-features">Rails 6 Features: What’s New and Why It Matters</a>, <a href="https://blog.bigbinary.com/2019/07/23/rails-6-reports-object-allocations-made-while-rendering-view-templates.html">Rails 6 reports object allocations made while rendering view templates</a> и <a href="https://www.saturnflyer.com/blog/reading-ruby-metaprogramming-inside-devise">Reading Ruby Metaprogramming inside Devise</a></li>
-  <li><a href="https://www.mskog.com/posts/heroku-vs-self-hosted-paas/">Heroku vs self-hosted PaaS</a>, <a href="https://semaphoreci.com/blog/kubernetes-deployment">Kubernetes Deployments: The Ultimate Guide</a>, <a href="https://github.com/collectiveidea/audited">Audited (previously acts_as_audited) is an ORM extension that logs all changes to your models</a> и <a href="https://github.com/kirillshevch/query_track">QueryTrack - find time-consuming database queries for ActiveRecord-based Rails Apps</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://github.com/MithrilJS/mithril.js/releases/tag/v2.0.3">Mithril.js 2.0.3</a>, <a href="https://github.com/vuetifyjs/vuetify/releases/tag/v2.0.2">Vuetify 2.0.2</a>, <a href="https://slack.engineering/rebuilding-slack-on-the-desktop-308d6fe94ae4">When a rewrite isn’t: rebuilding Slack on the desktop</a> и <a href="https://jscomplete.com/learn/complete-intro-react">The Complete Introduction to React</a></li>
-  <li><a href="https://davidwalsh.name/javascript-proxy-with-storage">JavaScript Proxy with Storage</a>, <a href="https://harry.garrood.me/blog/malicious-code-in-purescript-npm-installer/">Malicious code in the purescript npm installer</a>, <a href="https://github.com/nikersify/jay">Jay - supercharged JavaScript REPL</a>, <a href="https://seek-oss.github.io/treat/">Treat - themeable, statically extracted CSS‑in‑JS with near‑zero runtime</a> и <a href="https://cesiumjs.org/">Cesium.js - an open-source JavaScript library for world-class 3D globes and maps</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 29 Jul 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/07/29/podcast-07-30.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/07/29/podcast-07-30.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0730.mp3" length="45516562" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0730.mp3" fileSize="45516562" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 Features: What’s New and Why It Matter...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 Features: What’s New and Why It Matters, Rails 6 reports object allocations made while rendering view templates и Reading Ruby Metaprogramming inside Devise
-
-  
-Heroku vs self-hosted PaaS, Kubernetes Deployments: The Ultimate Guide, Audited (previously acts_as_audited) is an ORM extension that logs all changes to your models и QueryTrack - find time-consuming database queries for ActiveRecord-based Rails Apps
-
-
-
-Web
-
-
-  
-Mithril.js 2.0.3, Vuetify 2.0.2, When a rewrite isn’t: rebuilding Slack on the desktop и The Complete Introduction to React
-
-  
-JavaScript Proxy with Storage, Malicious code in the purescript npm installer, Jay - supercharged JavaScript REPL, Treat - themeable, statically extracted CSS‑in‑JS with near‑zero runtime и Cesium.js - an open-source JavaScript library for world-class 3D globes and maps
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0730.png"/>
-  <itunes:duration>00:37:54</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
