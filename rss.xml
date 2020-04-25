@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 20 Apr 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Sun, 26 Apr 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,105 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>RWPod Кафе 15: Andrey Sitnik</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Andrey Sitnik:</p>
+
+<ul>
+  <li><a href="https://logux.io/">Logux</a></li>
+  <li><a href="https://firebase.google.com/">Firebase</a></li>
+  <li><a href="http://y-js.org/">Y.js</a></li>
+  <li><a href="https://github.com/automerge/automerge">Automerge</a></li>
+  <li><a href="https://amplifr.com/uikit/#AnalyticsPage:ru">Сторибук Амплифера со страницами</a></li>
+  <li><a href="https://github.com/vrizo/uibook">UIbook</a></li>
+  <li><a href="https://www.inkandswitch.com/local-first.html">Local-first software</a></li>
+  <li><a href="https://text-crdt-compare.surge.sh/">Визуализация редактирования текста в CRDT</a></li>
+  <li><a href="https://evilmartians.com/chronicles/new-home-for-logux-pouring-love-into-an-oss-documentation-website">Как мы сделали сайт Логакса без Реакта</a></li>
+</ul>
+
+<h4 id="section">Страницы</h4>
+
+<ul>
+  <li><a href="https://sitnik.ru/ru/">Сайт</a></li>
+  <li><a href="https://github.com/ai">Github</a></li>
+  <li><a href="https://www.facebook.com/andrey.sitnik">Facebook</a></li>
+  <li><a href="https://twitter.com/andrey_sitnik">Twitter</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Andrey Sitnik:</p>
+
+<ul>
+  <li><a href="https://logux.io/">Logux</a></li>
+  <li><a href="https://firebase.google.com/">Firebase</a></li>
+  <li><a href="http://y-js.org/">Y.js</a></li>
+  <li><a href="https://github.com/automerge/automerge">Automerge</a></li>
+  <li><a href="https://amplifr.com/uikit/#AnalyticsPage:ru">Сторибук Амплифера со страницами</a></li>
+  <li><a href="https://github.com/vrizo/uibook">UIbook</a></li>
+  <li><a href="https://www.inkandswitch.com/local-first.html">Local-first software</a></li>
+  <li><a href="https://text-crdt-compare.surge.sh/">Визуализация редактирования текста в CRDT</a></li>
+  <li><a href="https://evilmartians.com/chronicles/new-home-for-logux-pouring-love-into-an-oss-documentation-website">Как мы сделали сайт Логакса без Реакта</a></li>
+</ul>
+
+<h4 id="section">Страницы</h4>
+
+<ul>
+  <li><a href="https://sitnik.ru/ru/">Сайт</a></li>
+  <li><a href="https://github.com/ai">Github</a></li>
+  <li><a href="https://www.facebook.com/andrey.sitnik">Facebook</a></li>
+  <li><a href="https://twitter.com/andrey_sitnik">Twitter</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Sun, 26 Apr 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/04/26/cafe-015.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/04/26/cafe-015.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/cafe/015.mp3" length="80843314" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/cafe/015.mp3" fileSize="80843314" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Andrey Sitnik:
+
+
+  Logux
+  Firebase
+  Y.js
+  Automerge
+  Сторибук Амплифера со страниц...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Andrey Sitnik:
+
+
+  Logux
+  Firebase
+  Y.js
+  Automerge
+  Сторибук Амплифера со страницами
+  UIbook
+  Local-first software
+  Визуализация редактирования текста в CRDT
+  Как мы сделали сайт Логакса без Реакта
+
+
+Страницы
+
+
+  Сайт
+  Github
+  Facebook
+  Twitter
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/cafe/015.jpg"/>
+  <itunes:duration>01:23:34</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>15 выпуск 08 сезона. jQuery 3.5.0, Puppeteer 3.0.0, Anyway Config, Global, Redaxios, Simpsons: Hit &amp; Run API и прочее</title>
   <description>
@@ -3994,100 +4093,6 @@ Metaprogramming in JavaScript with jscodeshift, TypeLighter.js - JS TypeWriter �
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0732.png"/>
   <itunes:duration>00:45:14</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>31 выпуск 07 сезона. Rails 6.0.0 rc2, Electron 6.0.0, Sidekiq Batches, Lefthook, Minecraft clone, Cube.js, Esprint и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://weblog.rubyonrails.org/2019/7/30/Rails-6-0-rc2-released/">Rails 6.0.0 rc2 released</a>, <a href="https://blog.bigbinary.com/2019/07/31/rails-6-deprecates-where-not-working-as-nor-and-will-change-to-nand-in-rails-6-1.html">Rails 6 deprecates where.not working as NOR and will change to NAND in Rails 6.1</a> и <a href="https://blog.bigbinary.com/2019/07/30/rails-6-supports-optimizer-hints.html">Rails 6 adds support for Optimizer Hints</a></li>
-  <li><a href="https://blog.magrathealabs.com/sidekiq-batches-tips-tricks-56bae4f8a5dd">Sidekiq Batches: Tips &amp; Tricks</a>, <a href="https://www.marionzualo.com/2019/08/04/dont-change-the-signature-of-sidekiq-jobs-running-in-production/">Don’t change the signature of Sidekiq jobs running in production</a> и <a href="https://emmanuelhayford.com/7-ways-to-selectively-run-rspec-tests/">7 Ways to Selectively Run RSpec Tests</a></li>
-  <li><a href="https://medium.com/braintree-product-technology/https-medium-com-braintree-product-technology-runbook-be6f072cfc0d">Runbook: A Ruby DSL for Gradual System Automation</a>, <a href="https://evilmartians.com/chronicles/lefthook-knock-your-teams-code-back-into-shape">Lefthook: Knock your team’s code back into shape</a> и <a href="https://github.com/artichoke/artichoke">Artichoke is a Ruby implementation written in Rust</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="http://electronjs.org/blog/electron-6-0">Electron 6.0.0</a>, <a href="https://medium.com/better-programming/js-reliable-fdea261012ee">Here’s How Not to Suck at JavaScript</a> и <a href="https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672">Do React Hooks Replace Redux?</a></li>
-  <li><a href="https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/">Detecting incognito mode in Chrome 76 with a timing attack</a>, <a href="https://www.stefanjudis.com/today-i-learned/string-prototype-replace-supports-replacement-patterns/">String.prototype.replace supports replacement patterns</a> и <a href="https://css-tricks.com/making-a-realistic-glass-effect-with-svg/">Making a Realistic Glass Effect with SVG</a></li>
-  <li><a href="https://github.com/ian13456/minecraft.js">Open source Minecraft clone</a>, <a href="https://cube.dev/">Cube.js - Open Source Analytics Framework</a> и <a href="https://github.com/pinterest/esprint">Esprint - a fast eslint runner</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://weblog.rubyonrails.org/2019/7/30/Rails-6-0-rc2-released/">Rails 6.0.0 rc2 released</a>, <a href="https://blog.bigbinary.com/2019/07/31/rails-6-deprecates-where-not-working-as-nor-and-will-change-to-nand-in-rails-6-1.html">Rails 6 deprecates where.not working as NOR and will change to NAND in Rails 6.1</a> и <a href="https://blog.bigbinary.com/2019/07/30/rails-6-supports-optimizer-hints.html">Rails 6 adds support for Optimizer Hints</a></li>
-  <li><a href="https://blog.magrathealabs.com/sidekiq-batches-tips-tricks-56bae4f8a5dd">Sidekiq Batches: Tips &amp; Tricks</a>, <a href="https://www.marionzualo.com/2019/08/04/dont-change-the-signature-of-sidekiq-jobs-running-in-production/">Don’t change the signature of Sidekiq jobs running in production</a> и <a href="https://emmanuelhayford.com/7-ways-to-selectively-run-rspec-tests/">7 Ways to Selectively Run RSpec Tests</a></li>
-  <li><a href="https://medium.com/braintree-product-technology/https-medium-com-braintree-product-technology-runbook-be6f072cfc0d">Runbook: A Ruby DSL for Gradual System Automation</a>, <a href="https://evilmartians.com/chronicles/lefthook-knock-your-teams-code-back-into-shape">Lefthook: Knock your team’s code back into shape</a> и <a href="https://github.com/artichoke/artichoke">Artichoke is a Ruby implementation written in Rust</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="http://electronjs.org/blog/electron-6-0">Electron 6.0.0</a>, <a href="https://medium.com/better-programming/js-reliable-fdea261012ee">Here’s How Not to Suck at JavaScript</a> и <a href="https://medium.com/javascript-scene/do-react-hooks-replace-redux-210bab340672">Do React Hooks Replace Redux?</a></li>
-  <li><a href="https://blog.jse.li/posts/chrome-76-incognito-filesystem-timing/">Detecting incognito mode in Chrome 76 with a timing attack</a>, <a href="https://www.stefanjudis.com/today-i-learned/string-prototype-replace-supports-replacement-patterns/">String.prototype.replace supports replacement patterns</a> и <a href="https://css-tricks.com/making-a-realistic-glass-effect-with-svg/">Making a Realistic Glass Effect with SVG</a></li>
-  <li><a href="https://github.com/ian13456/minecraft.js">Open source Minecraft clone</a>, <a href="https://cube.dev/">Cube.js - Open Source Analytics Framework</a> и <a href="https://github.com/pinterest/esprint">Esprint - a fast eslint runner</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 05 Aug 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/08/05/podcast-07-31.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/08/05/podcast-07-31.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0731.mp3" length="54001002" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0731.mp3" fileSize="54001002" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6.0.0 rc2 released, Rails 6 deprecates w...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6.0.0 rc2 released, Rails 6 deprecates where.not working as NOR and will change to NAND in Rails 6.1 и Rails 6 adds support for Optimizer Hints
-
-  
-Sidekiq Batches: Tips &amp; Tricks, Don’t change the signature of Sidekiq jobs running in production и 7 Ways to Selectively Run RSpec Tests
-
-  
-Runbook: A Ruby DSL for Gradual System Automation, Lefthook: Knock your team’s code back into shape и Artichoke is a Ruby implementation written in Rust
-
-
-
-Web
-
-
-  
-Electron 6.0.0, Here’s How Not to Suck at JavaScript и Do React Hooks Replace Redux?
-
-  
-Detecting incognito mode in Chrome 76 with a timing attack, String.prototype.replace supports replacement patterns и Making a Realistic Glass Effect with SVG
-
-  
-Open source Minecraft clone, Cube.js - Open Source Analytics Framework и Esprint - a fast eslint runner
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0731.png"/>
-  <itunes:duration>00:44:59</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
