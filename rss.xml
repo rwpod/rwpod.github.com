@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Sun, 26 Apr 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 27 Apr 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 27 Apr 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,127 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>16 выпуск 08 сезона. Node.js 14, How Trix works, Crank, Bridgetown, Vidact, Codedoc, Pico, Eloquent JavaScript и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/04/21/rails-adds-support-for-db-rollback-name-for-multiple-database-applications">Rails adds support for db:rollback:name for multiple database applications</a></li>
+  <li><a href="https://medium.com/@matayoshi.mariano/how-to-add-ssl-to-your-localhost-with-puma-37a66a649f29">How to add SSL to your localhost development environment using Ruby on Rails with Puma</a></li>
+  <li>
+    <p><a href="https://www.thatweeklytech.com/posts/16-how-trix-works">How Trix works</a></p>
+  </li>
+  <li><a href="https://blog.arkency.com/rails-connections-pools-and-handlers/">Rails connections, pools and handlers</a></li>
+  <li><a href="https://tejasbubane.github.io/posts/2020-04-22-redis-connection-pool-in-rails/">Redis connection pool in Rails</a></li>
+  <li><a href="https://www.bridgetownrb.com/">Bridgetown - a Webpack-aware, Ruby-powered static site generator for the modern Jamstack era</a></li>
+  <li><a href="https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts">The Ultimate Guide to Ruby Timeouts</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e">Node.js version 14 available now</a></li>
+  <li><a href="https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/">The Cost of Javascript Frameworks</a></li>
+  <li><a href="https://crank.js.org/blog/introducing-crank">Introducing Crank</a></li>
+  <li>
+    <p><a href="http://thecodebarbarian.com/what-is-the-tojson-function-in-javascript.html">What is the <code>toJSON()</code> Function in JavaScript?</a></p>
+  </li>
+  <li><a href="https://mohebifar.github.io/vidact/">Vidact - a compiler that converts React-compatible codes to VanillaJS with no Virtual DOM</a></li>
+  <li><a href="https://codedoc.cc/">Codedoc - easily create beautiful and modern docs/wiki for your software projects</a></li>
+  <li><a href="https://github.com/gripeless/pico">Pico - take browser screenshots in Javascript</a></li>
+  <li><a href="https://eloquentjavascript.net/">Eloquent JavaScript, 3rd edition</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/04/21/rails-adds-support-for-db-rollback-name-for-multiple-database-applications">Rails adds support for db:rollback:name for multiple database applications</a></li>
+  <li><a href="https://medium.com/@matayoshi.mariano/how-to-add-ssl-to-your-localhost-with-puma-37a66a649f29">How to add SSL to your localhost development environment using Ruby on Rails with Puma</a></li>
+  <li>
+    <p><a href="https://www.thatweeklytech.com/posts/16-how-trix-works">How Trix works</a></p>
+  </li>
+  <li><a href="https://blog.arkency.com/rails-connections-pools-and-handlers/">Rails connections, pools and handlers</a></li>
+  <li><a href="https://tejasbubane.github.io/posts/2020-04-22-redis-connection-pool-in-rails/">Redis connection pool in Rails</a></li>
+  <li><a href="https://www.bridgetownrb.com/">Bridgetown - a Webpack-aware, Ruby-powered static site generator for the modern Jamstack era</a></li>
+  <li><a href="https://github.com/ankane/the-ultimate-guide-to-ruby-timeouts">The Ultimate Guide to Ruby Timeouts</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/@nodejs/node-js-version-14-available-now-8170d384567e">Node.js version 14 available now</a></li>
+  <li><a href="https://timkadlec.com/remembers/2020-04-21-the-cost-of-javascript-frameworks/">The Cost of Javascript Frameworks</a></li>
+  <li><a href="https://crank.js.org/blog/introducing-crank">Introducing Crank</a></li>
+  <li>
+    <p><a href="http://thecodebarbarian.com/what-is-the-tojson-function-in-javascript.html">What is the <code>toJSON()</code> Function in JavaScript?</a></p>
+  </li>
+  <li><a href="https://mohebifar.github.io/vidact/">Vidact - a compiler that converts React-compatible codes to VanillaJS with no Virtual DOM</a></li>
+  <li><a href="https://codedoc.cc/">Codedoc - easily create beautiful and modern docs/wiki for your software projects</a></li>
+  <li><a href="https://github.com/gripeless/pico">Pico - take browser screenshots in Javascript</a></li>
+  <li><a href="https://eloquentjavascript.net/">Eloquent JavaScript, 3rd edition</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 27 Apr 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/04/27/podcast-08-16.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/04/27/podcast-08-16.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0816.mp3" length="37027216" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0816.mp3" fileSize="37027216" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails adds support for db:rollback:name for mu...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails adds support for db:rollback:name for multiple database applications
+  How to add SSL to your localhost development environment using Ruby on Rails with Puma
+  
+    How Trix works
+  
+  Rails connections, pools and handlers
+  Redis connection pool in Rails
+  Bridgetown - a Webpack-aware, Ruby-powered static site generator for the modern Jamstack era
+  The Ultimate Guide to Ruby Timeouts
+
+
+Web
+
+
+  Node.js version 14 available now
+  The Cost of Javascript Frameworks
+  Introducing Crank
+  
+    What is the toJSON() Function in JavaScript?
+  
+  Vidact - a compiler that converts React-compatible codes to VanillaJS with no Virtual DOM
+  Codedoc - easily create beautiful and modern docs/wiki for your software projects
+  Pico - take browser screenshots in Javascript
+  Eloquent JavaScript, 3rd edition
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0816.png"/>
+  <itunes:duration>00:37:03</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>RWPod Кафе 15: Andrey Sitnik</title>
   <description>
@@ -4009,90 +4130,6 @@ JavaScript &amp; Node.js testing best practices Announcing meSpeak.js 2.0, Npkil
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0733.png"/>
   <itunes:duration>00:36:25</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>32 выпуск 07 сезона. React v16.9.0, VS Code 1.37, Recyclable cache keys in Rails, Ciao, TypeLighter.js, Resemble.js и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/08/06/rails-adds-support-for-recyclable-cache-keys.html">Recyclable cache keys in Rails</a>, <a href="https://prathamesh.tech/2019/08/06/setting-up-rails-6-multiple-databases-on-heroku/">Setting up Rails 6 app with multiple databases on Heroku</a>, <a href="https://blog.saeloun.com/2019/07/24/explicit-rails-server-handler-option.html">Rails 6: Introduces explicitly adding rails server handler option</a> и <a href="https://dev.to/evilmartians/fullstaq-ruby-first-impressions-and-how-to-migrate-your-docker-kubernetes-ruby-apps-today-4fm7">Fullstaq Ruby: First impressions, and how to migrate your Docker/Kubernetes Ruby apps today</a></li>
-  <li><a href="https://www.honeybadger.io/blog/safeguarding-redis/">What if I called FLUSHALL on your Redis instance?</a>, <a href="https://brotandgames.com/ciao/">Ciao - HTTP checks &amp; tests (private &amp; public) monitoring</a> и <a href="https://github.com/jkeen/comma_splice">Comma Splice - fixes CSVs with unquoted commas in values</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://reactjs.org/blog/2019/08/08/react-v16.9.0.html">React v16.9.0 and the Roadmap Update</a>, <a href="https://code.visualstudio.com/updates/v1_37">VS Code 1.37</a> и <a href="https://blog.tildeloop.com/posts/javascript-what%E2%80%99s-new-in-es2019">JavaScript: What’s new in ES2019</a></li>
-  <li><a href="https://medium.com/onfido-tech/metaprogramming-in-javascript-with-jscodeshift-8c72ae56759c">Metaprogramming in JavaScript with jscodeshift</a>, <a href="https://edernclemente.com/plugin/typelighterjs">TypeLighter.js - JS TypeWriter</a> и <a href="http://rsmbl.github.io/Resemble.js/">Resemble.js : Image analysis and comparison</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/08/06/rails-adds-support-for-recyclable-cache-keys.html">Recyclable cache keys in Rails</a>, <a href="https://prathamesh.tech/2019/08/06/setting-up-rails-6-multiple-databases-on-heroku/">Setting up Rails 6 app with multiple databases on Heroku</a>, <a href="https://blog.saeloun.com/2019/07/24/explicit-rails-server-handler-option.html">Rails 6: Introduces explicitly adding rails server handler option</a> и <a href="https://dev.to/evilmartians/fullstaq-ruby-first-impressions-and-how-to-migrate-your-docker-kubernetes-ruby-apps-today-4fm7">Fullstaq Ruby: First impressions, and how to migrate your Docker/Kubernetes Ruby apps today</a></li>
-  <li><a href="https://www.honeybadger.io/blog/safeguarding-redis/">What if I called FLUSHALL on your Redis instance?</a>, <a href="https://brotandgames.com/ciao/">Ciao - HTTP checks &amp; tests (private &amp; public) monitoring</a> и <a href="https://github.com/jkeen/comma_splice">Comma Splice - fixes CSVs with unquoted commas in values</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://reactjs.org/blog/2019/08/08/react-v16.9.0.html">React v16.9.0 and the Roadmap Update</a>, <a href="https://code.visualstudio.com/updates/v1_37">VS Code 1.37</a> и <a href="https://blog.tildeloop.com/posts/javascript-what%E2%80%99s-new-in-es2019">JavaScript: What’s new in ES2019</a></li>
-  <li><a href="https://medium.com/onfido-tech/metaprogramming-in-javascript-with-jscodeshift-8c72ae56759c">Metaprogramming in JavaScript with jscodeshift</a>, <a href="https://edernclemente.com/plugin/typelighterjs">TypeLighter.js - JS TypeWriter</a> и <a href="http://rsmbl.github.io/Resemble.js/">Resemble.js : Image analysis and comparison</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Sun, 11 Aug 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/08/11/podcast-07-32.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/08/11/podcast-07-32.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0732.mp3" length="54305486" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0732.mp3" fileSize="54305486" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Recyclable cache keys in Rails, Setting up Rai...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Recyclable cache keys in Rails, Setting up Rails 6 app with multiple databases on Heroku, Rails 6: Introduces explicitly adding rails server handler option и Fullstaq Ruby: First impressions, and how to migrate your Docker/Kubernetes Ruby apps today
-
-  
-What if I called FLUSHALL on your Redis instance?, Ciao - HTTP checks &amp; tests (private &amp; public) monitoring и Comma Splice - fixes CSVs with unquoted commas in values
-
-
-
-Web
-
-
-  
-React v16.9.0 and the Roadmap Update, VS Code 1.37 и JavaScript: What’s new in ES2019
-
-  
-Metaprogramming in JavaScript with jscodeshift, TypeLighter.js - JS TypeWriter и Resemble.js : Image analysis and comparison
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0732.png"/>
-  <itunes:duration>00:45:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
