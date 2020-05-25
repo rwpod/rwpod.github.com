@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 18 May 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 18 May 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 25 May 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,128 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>20 выпуск 08 сезона. 19 Must-Have Gems for 2020, The Third Age of JavaScript, Awspec, Painterro, Reveal.js, NanoPop и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://robrace.dev/must-have-gems-for-saas-2020/">19 Must-Have Gems for 2020</a></li>
+  <li><a href="https://www.botreetechnologies.com/blog/extracting-text-from-image-using-google-cloud-vision-ocr-with-ruby">Extracting text from image using Google Cloud vision OCR with Ruby</a></li>
+  <li>
+    <p><a href="https://julienchien.com/posts/assignments-in-conditional-expressions/">Ruby Assignments in Conditional Expressions</a></p>
+  </li>
+  <li><a href="https://www.davydovanton.com/2020/05/19/five-common-issues-with-services-and-dry-monads/">Five common issues with services and dry-monads</a></li>
+  <li><a href="https://hint.io/blog/5-ways-to-splat-in-ruby">5 Ways to Splat in Ruby</a></li>
+  <li><a href="https://github.com/k1LoW/awspec">Awspec - RSpec tests for your AWS resources</a></li>
+  <li><a href="https://github.com/bongloy/cursor_paginator">CursorPaginator - Cursor Paginator for Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://www.swyx.io/writing/js-third-age/">The Third Age of JavaScript</a></li>
+  <li><a href="https://csswizardry.com/2020/05/the-fastest-google-fonts/">The Fastest Google Fonts</a></li>
+  <li><a href="https://web.dev/idle-detection/">Detect inactive users with the Idle Detection API</a></li>
+  <li>
+    <p><a href="https://dev.to/paolimi/reparenting-is-now-possible-with-react-3ci0">Reparenting is now possible with React</a></p>
+  </li>
+  <li><a href="https://modernweb.com/learn-vue-2-wait-release-vue-3/">Should You Still Learn Vue 2 Or Just Wait For The Release Of Vue 3?</a></li>
+  <li><a href="https://github.com/devforth/painterro">Painterro - JavaScript painting plugin</a></li>
+  <li><a href="https://revealjs.com/#/">Reveal.js 4.0 - a HTML Presentation Framework</a></li>
+  <li><a href="https://simonwep.github.io/nanopop/">NanoPop - Minimalisic, Small Positioning Engine</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://robrace.dev/must-have-gems-for-saas-2020/">19 Must-Have Gems for 2020</a></li>
+  <li><a href="https://www.botreetechnologies.com/blog/extracting-text-from-image-using-google-cloud-vision-ocr-with-ruby">Extracting text from image using Google Cloud vision OCR with Ruby</a></li>
+  <li>
+    <p><a href="https://julienchien.com/posts/assignments-in-conditional-expressions/">Ruby Assignments in Conditional Expressions</a></p>
+  </li>
+  <li><a href="https://www.davydovanton.com/2020/05/19/five-common-issues-with-services-and-dry-monads/">Five common issues with services and dry-monads</a></li>
+  <li><a href="https://hint.io/blog/5-ways-to-splat-in-ruby">5 Ways to Splat in Ruby</a></li>
+  <li><a href="https://github.com/k1LoW/awspec">Awspec - RSpec tests for your AWS resources</a></li>
+  <li><a href="https://github.com/bongloy/cursor_paginator">CursorPaginator - Cursor Paginator for Ruby</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://www.swyx.io/writing/js-third-age/">The Third Age of JavaScript</a></li>
+  <li><a href="https://csswizardry.com/2020/05/the-fastest-google-fonts/">The Fastest Google Fonts</a></li>
+  <li><a href="https://web.dev/idle-detection/">Detect inactive users with the Idle Detection API</a></li>
+  <li>
+    <p><a href="https://dev.to/paolimi/reparenting-is-now-possible-with-react-3ci0">Reparenting is now possible with React</a></p>
+  </li>
+  <li><a href="https://modernweb.com/learn-vue-2-wait-release-vue-3/">Should You Still Learn Vue 2 Or Just Wait For The Release Of Vue 3?</a></li>
+  <li><a href="https://github.com/devforth/painterro">Painterro - JavaScript painting plugin</a></li>
+  <li><a href="https://revealjs.com/#/">Reveal.js 4.0 - a HTML Presentation Framework</a></li>
+  <li><a href="https://simonwep.github.io/nanopop/">NanoPop - Minimalisic, Small Positioning Engine</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 25 May 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/05/25/podcast-08-20.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/05/25/podcast-08-20.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0820.mp3" length="41649128" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0820.mp3" fileSize="41649128" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  19 Must-Have Gems for 2020
+  Extracting text f...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  19 Must-Have Gems for 2020
+  Extracting text from image using Google Cloud vision OCR with Ruby
+  
+    Ruby Assignments in Conditional Expressions
+  
+  Five common issues with services and dry-monads
+  5 Ways to Splat in Ruby
+  Awspec - RSpec tests for your AWS resources
+  CursorPaginator - Cursor Paginator for Ruby
+
+
+Web
+
+
+  The Third Age of JavaScript
+  The Fastest Google Fonts
+  Detect inactive users with the Idle Detection API
+  
+    Reparenting is now possible with React
+  
+  Should You Still Learn Vue 2 Or Just Wait For The Release Of Vue 3?
+  Painterro - JavaScript painting plugin
+  Reveal.js 4.0 - a HTML Presentation Framework
+  NanoPop - Minimalisic, Small Positioning Engine
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0820.png"/>
+  <itunes:duration>00:41:30</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>19 выпуск 08 сезона. Rails 5.2.4.3, 6.0.3.1, Deno 1.0, ESLint 7.0.0, Recoil, SHA-256 Animation, WebGL guide, Shifty и прочее</title>
   <description>
@@ -4205,90 +4327,6 @@ SortableJS 1.10.0, Vue Select и Geometric.js - a JavaScript library for doing g
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0738.png"/>
   <itunes:duration>00:40:36</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>37 выпуск 07 сезона. Running GitHub on Rails 6.0, A lighter V8, Rbnacl, Noticent, Spacekit, NanoSQL, React Suite и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/09/11/rails-6-marks-arrays-of-translations-as-trusted-safe-by-using-the-_html-suffix.html">Rails 6 marks arrays of translations as trusted safe by using the ‘_html’ suffix</a>, <a href="https://blog.saeloun.com/2019/09/11/rails-6-custom-serializers-for-activejob-arguments.html">Rails 6 - Custom Serializers for ActiveJob arguments</a>, <a href="https://blog.saeloun.com/2019/09/10/rails-6-adds-hash-deep_transform_values.html">Rails 6 adds Hash#deep_transform_values and Hash#deep_transform_values!</a>, <a href="https://blog.saeloun.com/2019/09/09/rails-6-disable-advisory-locks.html">Rails 6 adds support for disabling database advisory locks</a> и <a href="https://github.blog/2019-09-09-running-github-on-rails-6-0/">Running GitHub on Rails 6.0</a></li>
-  <li><a href="https://medium.com/@igkuz/managing-unicorn-puma-with-systemd-93e95f75d1ae">Managing Unicorn &amp; Puma web servers with systemd</a>, <a href="https://blog.cloud66.com/introducing-noticent-a-ruby-gem-for-notification-management/">Introducing Noticent. A Ruby Gem for Notification Management</a>, <a href="https://github.com/crypto-rb/rbnacl">Rbnacl - Ruby FFI binding to the Networking and Cryptography (NaCl) library</a> и <a href="https://www.vimfromscratch.com/articles/vim-for-ruby-and-rails-in-2019/">Vim for Ruby and Rails in 2019</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://v8.dev/blog/v8-lite">A lighter V8</a>, <a href="https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231">Contemporary Front-end Architectures</a>, <a href="https://css-tricks.com/logical-operations-with-css-variables/">Logical Operations with CSS Variables</a> и <a href="https://www.caniemail.com/news/2019-09-09-introducing-caniemail/">Introducing caniemail.com</a></li>
-  <li><a href="https://github.com/typpo/spacekit">Spacekit - a JavaScript library for creating interactive 3D space visualizations</a>, <a href="https://nanosql.io/">NanoSQL - universal database layer for the client, server &amp; mobile devices</a>, <a href="https://rsuitejs.com/en/">React Suite</a> и <a href="http://wicky.nillia.ms/headroom.js/">Headroom.js - hide your header until you need it</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/09/11/rails-6-marks-arrays-of-translations-as-trusted-safe-by-using-the-_html-suffix.html">Rails 6 marks arrays of translations as trusted safe by using the ‘_html’ suffix</a>, <a href="https://blog.saeloun.com/2019/09/11/rails-6-custom-serializers-for-activejob-arguments.html">Rails 6 - Custom Serializers for ActiveJob arguments</a>, <a href="https://blog.saeloun.com/2019/09/10/rails-6-adds-hash-deep_transform_values.html">Rails 6 adds Hash#deep_transform_values and Hash#deep_transform_values!</a>, <a href="https://blog.saeloun.com/2019/09/09/rails-6-disable-advisory-locks.html">Rails 6 adds support for disabling database advisory locks</a> и <a href="https://github.blog/2019-09-09-running-github-on-rails-6-0/">Running GitHub on Rails 6.0</a></li>
-  <li><a href="https://medium.com/@igkuz/managing-unicorn-puma-with-systemd-93e95f75d1ae">Managing Unicorn &amp; Puma web servers with systemd</a>, <a href="https://blog.cloud66.com/introducing-noticent-a-ruby-gem-for-notification-management/">Introducing Noticent. A Ruby Gem for Notification Management</a>, <a href="https://github.com/crypto-rb/rbnacl">Rbnacl - Ruby FFI binding to the Networking and Cryptography (NaCl) library</a> и <a href="https://www.vimfromscratch.com/articles/vim-for-ruby-and-rails-in-2019/">Vim for Ruby and Rails in 2019</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://v8.dev/blog/v8-lite">A lighter V8</a>, <a href="https://blog.webf.zone/contemporary-front-end-architectures-fb5b500b0231">Contemporary Front-end Architectures</a>, <a href="https://css-tricks.com/logical-operations-with-css-variables/">Logical Operations with CSS Variables</a> и <a href="https://www.caniemail.com/news/2019-09-09-introducing-caniemail/">Introducing caniemail.com</a></li>
-  <li><a href="https://github.com/typpo/spacekit">Spacekit - a JavaScript library for creating interactive 3D space visualizations</a>, <a href="https://nanosql.io/">NanoSQL - universal database layer for the client, server &amp; mobile devices</a>, <a href="https://rsuitejs.com/en/">React Suite</a> и <a href="http://wicky.nillia.ms/headroom.js/">Headroom.js - hide your header until you need it</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 16 Sep 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/09/16/podcast-07-37.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/09/16/podcast-07-37.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0737.mp3" length="45845940" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0737.mp3" fileSize="45845940" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 marks arrays of translations as truste...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 marks arrays of translations as trusted safe by using the ‘_html’ suffix, Rails 6 - Custom Serializers for ActiveJob arguments, Rails 6 adds Hash#deep_transform_values and Hash#deep_transform_values!, Rails 6 adds support for disabling database advisory locks и Running GitHub on Rails 6.0
-
-  
-Managing Unicorn &amp; Puma web servers with systemd, Introducing Noticent. A Ruby Gem for Notification Management, Rbnacl - Ruby FFI binding to the Networking and Cryptography (NaCl) library и Vim for Ruby and Rails in 2019
-
-
-
-Web
-
-
-  
-A lighter V8, Contemporary Front-end Architectures, Logical Operations with CSS Variables и Introducing caniemail.com
-
-  
-Spacekit - a JavaScript library for creating interactive 3D space visualizations, NanoSQL - universal database layer for the client, server &amp; mobile devices, React Suite и Headroom.js - hide your header until you need it
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0737.png"/>
-  <itunes:duration>00:38:11</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
