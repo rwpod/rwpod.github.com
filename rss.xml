@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 25 May 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 25 May 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 01 Jun 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,139 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>21 выпуск 08 сезона. VCR 6.0.0, Snowpack 2.0, Brotli and Gzip Compression, AudioMass, AutoPilot, Dynamoid, Rough Notation и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/05/20/rails-6-1-adds-support-for-signed-ids-to-active-record.html">Rails 6.1 adds support for signed ids to Active Record</a></li>
+  <li><a href="https://pawelurbanek.com/rails-gzip-brotli-compression">Brotli and Gzip Compression for Assets and JSON API in Rails</a></li>
+  <li><a href="https://medium.com/one-medical-technology/building-a-decision-engine-54f6640dd3d">Test-Driving a Decision Engine</a></li>
+  <li><a href="https://www.fastruby.io/blog/rails/upgrades/rails-upgrade-strategies.html">Two Commonly Used Rails Upgrade Strategies</a></li>
+  <li>
+    <p><a href="https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/">Comparison of approaches to multitenancy in Rails apps</a></p>
+  </li>
+  <li><a href="https://johnnunemaker.com/never-query-the-same-thing-more-than-once/">Never Query the Same Thing More Than Once</a></li>
+  <li><a href="https://richardpatching.com/2020/05/22/creating-a-ruby-gem-with-rust.html">Creating a Ruby Gem with Rust</a></li>
+  <li><a href="https://github.com/vcr/vcr/releases/tag/v6.0.0">VCR 6.0.0</a></li>
+  <li><a href="https://github.com/ankane/delete_in_batches">Delete_in_batches - the fastest way to delete 100k+ rows with ActiveRecord</a></li>
+  <li><a href="https://github.com/Dynamoid/dynamoid">Dynamoid - an ORM for Amazon’s DynamoDB for Ruby applications</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://insights.stackoverflow.com/survey/2020">Stack Overflow Developer Survey 2020</a></li>
+  <li><a href="https://2ality.com/2020/05/records-tuples-first-look.html">A first look at records and tuples in JavaScript</a></li>
+  <li><a href="https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/">Snowpack 2.0</a></li>
+  <li>
+    <p><a href="https://htmx.org/">htmx allows you to access AJAX, WebSockets and Server Sent Events directly in HTML, using attributes</a></p>
+  </li>
+  <li><a href="https://audiomass.co/">AudioMass - a free, open source, web-based Audio and Waveform Editor</a></li>
+  <li><a href="https://fluorjs.github.io/">Fluor.js - sprinkle interactivity on your design</a></li>
+  <li><a href="https://github.com/divy-work/autopilot-deno">AutoPilot - a simple cross-platform desktop automation library for Deno</a></li>
+  <li><a href="https://roughnotation.com/">Rough Notation - a small JavaScript library to create and animate annotations on a web page</a></li>
+  <li><a href="https://perspective.finos.org/">Perspective - an interactive visualization component for large, real-time datasets</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/05/20/rails-6-1-adds-support-for-signed-ids-to-active-record.html">Rails 6.1 adds support for signed ids to Active Record</a></li>
+  <li><a href="https://pawelurbanek.com/rails-gzip-brotli-compression">Brotli and Gzip Compression for Assets and JSON API in Rails</a></li>
+  <li><a href="https://medium.com/one-medical-technology/building-a-decision-engine-54f6640dd3d">Test-Driving a Decision Engine</a></li>
+  <li><a href="https://www.fastruby.io/blog/rails/upgrades/rails-upgrade-strategies.html">Two Commonly Used Rails Upgrade Strategies</a></li>
+  <li>
+    <p><a href="https://blog.arkency.com/comparison-of-approaches-to-multitenancy-in-rails-apps/">Comparison of approaches to multitenancy in Rails apps</a></p>
+  </li>
+  <li><a href="https://johnnunemaker.com/never-query-the-same-thing-more-than-once/">Never Query the Same Thing More Than Once</a></li>
+  <li><a href="https://richardpatching.com/2020/05/22/creating-a-ruby-gem-with-rust.html">Creating a Ruby Gem with Rust</a></li>
+  <li><a href="https://github.com/vcr/vcr/releases/tag/v6.0.0">VCR 6.0.0</a></li>
+  <li><a href="https://github.com/ankane/delete_in_batches">Delete_in_batches - the fastest way to delete 100k+ rows with ActiveRecord</a></li>
+  <li><a href="https://github.com/Dynamoid/dynamoid">Dynamoid - an ORM for Amazon’s DynamoDB for Ruby applications</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://insights.stackoverflow.com/survey/2020">Stack Overflow Developer Survey 2020</a></li>
+  <li><a href="https://2ality.com/2020/05/records-tuples-first-look.html">A first look at records and tuples in JavaScript</a></li>
+  <li><a href="https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/">Snowpack 2.0</a></li>
+  <li>
+    <p><a href="https://htmx.org/">htmx allows you to access AJAX, WebSockets and Server Sent Events directly in HTML, using attributes</a></p>
+  </li>
+  <li><a href="https://audiomass.co/">AudioMass - a free, open source, web-based Audio and Waveform Editor</a></li>
+  <li><a href="https://fluorjs.github.io/">Fluor.js - sprinkle interactivity on your design</a></li>
+  <li><a href="https://github.com/divy-work/autopilot-deno">AutoPilot - a simple cross-platform desktop automation library for Deno</a></li>
+  <li><a href="https://roughnotation.com/">Rough Notation - a small JavaScript library to create and animate annotations on a web page</a></li>
+  <li><a href="https://perspective.finos.org/">Perspective - an interactive visualization component for large, real-time datasets</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 01 Jun 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/06/01/podcast-08-21.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/06/01/podcast-08-21.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0821.mp3" length="59054280" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0821.mp3" fileSize="59054280" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6.1 adds support for signed ids to Activ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6.1 adds support for signed ids to Active Record
+  Brotli and Gzip Compression for Assets and JSON API in Rails
+  Test-Driving a Decision Engine
+  Two Commonly Used Rails Upgrade Strategies
+  
+    Comparison of approaches to multitenancy in Rails apps
+  
+  Never Query the Same Thing More Than Once
+  Creating a Ruby Gem with Rust
+  VCR 6.0.0
+  Delete_in_batches - the fastest way to delete 100k+ rows with ActiveRecord
+  Dynamoid - an ORM for Amazon’s DynamoDB for Ruby applications
+
+
+Web
+
+
+  Stack Overflow Developer Survey 2020
+  A first look at records and tuples in JavaScript
+  Snowpack 2.0
+  
+    htmx allows you to access AJAX, WebSockets and Server Sent Events directly in HTML, using attributes
+  
+  AudioMass - a free, open source, web-based Audio and Waveform Editor
+  Fluor.js - sprinkle interactivity on your design
+  AutoPilot - a simple cross-platform desktop automation library for Deno
+  Rough Notation - a small JavaScript library to create and animate annotations on a web page
+  Perspective - an interactive visualization component for large, real-time datasets
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0821.png"/>
+  <itunes:duration>00:58:12</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>20 выпуск 08 сезона. 19 Must-Have Gems for 2020, The Third Age of JavaScript, Awspec, Painterro, Reveal.js, NanoPop и прочее</title>
   <description>
@@ -4243,90 +4376,6 @@ V8 release v7.8, Node v12.11.0, Wikipedia’s JavaScript initialisation on a bud
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0739.png"/>
   <itunes:duration>01:36:57</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>38 выпуск 07 сезона. Storybook 5.2, Textmate 2.0, RubyGems.org and Chef Gem Ownership, TensorFlow, Vue Select и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/09/18/rails-6-adds-actiondispatch-request-session-dig.html">Rails 6 adds ActionDispatch::Request::Session#dig</a>, <a href="https://blog.rubygems.org/2019/09/20/chef-ownership.html">RubyGems.org and Chef Gem Ownership</a>, <a href="http://engineering.appfolio.com/appfolio-engineering/2019/9/13/benchmarking-fibers-threads-and-processes">Benchmarking Fibers, Threads and Processes</a> и <a href="http://blog.headius.com/2019/09/jruby-startup-time-exploration.html">Start It Up: Improving JRuby’s Startup Time</a></li>
-  <li><a href="https://github.com/ankane/tensorflow">TensorFlow - the end-to-end machine learning platform - for Ruby</a>, <a href="https://github.com/whomwah/rqrcode">RQRCode - a library for creating and rendering QR codes into various formats</a> и <a href="https://github.com/textmate/textmate/commit/54b232f6b1fa4257d512987248265acfd567cc13">Textmate 2.0</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/storybookjs/storybook-5-2-794958b9b111">Storybook 5.2</a>, <a href="https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/">Cheat sheet for moving from jQuery to vanilla JavaScript</a>, <a href="https://kentcdodds.com/blog/profile-a-react-app-for-performance">Profile a React App for Performance</a> и <a href="https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada">Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node</a></li>
-  <li><a href="https://sortablejs.github.io/Sortable/">SortableJS 1.10.0</a>, <a href="https://vue-select.org/">Vue Select</a> и <a href="https://github.com/HarryStevens/geometric">Geometric.js - a JavaScript library for doing geometry</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.bigbinary.com/2019/09/18/rails-6-adds-actiondispatch-request-session-dig.html">Rails 6 adds ActionDispatch::Request::Session#dig</a>, <a href="https://blog.rubygems.org/2019/09/20/chef-ownership.html">RubyGems.org and Chef Gem Ownership</a>, <a href="http://engineering.appfolio.com/appfolio-engineering/2019/9/13/benchmarking-fibers-threads-and-processes">Benchmarking Fibers, Threads and Processes</a> и <a href="http://blog.headius.com/2019/09/jruby-startup-time-exploration.html">Start It Up: Improving JRuby’s Startup Time</a></li>
-  <li><a href="https://github.com/ankane/tensorflow">TensorFlow - the end-to-end machine learning platform - for Ruby</a>, <a href="https://github.com/whomwah/rqrcode">RQRCode - a library for creating and rendering QR codes into various formats</a> и <a href="https://github.com/textmate/textmate/commit/54b232f6b1fa4257d512987248265acfd567cc13">Textmate 2.0</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/storybookjs/storybook-5-2-794958b9b111">Storybook 5.2</a>, <a href="https://tobiasahlin.com/blog/move-from-jquery-to-vanilla-javascript/">Cheat sheet for moving from jQuery to vanilla JavaScript</a>, <a href="https://kentcdodds.com/blog/profile-a-react-app-for-performance">Profile a React App for Performance</a> и <a href="https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada">Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node</a></li>
-  <li><a href="https://sortablejs.github.io/Sortable/">SortableJS 1.10.0</a>, <a href="https://vue-select.org/">Vue Select</a> и <a href="https://github.com/HarryStevens/geometric">Geometric.js - a JavaScript library for doing geometry</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 23 Sep 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/09/23/podcast-07-38.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/09/23/podcast-07-38.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0738.mp3" length="48753320" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0738.mp3" fileSize="48753320" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 adds ActionDispatch::Request::Session#...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 adds ActionDispatch::Request::Session#dig, RubyGems.org and Chef Gem Ownership, Benchmarking Fibers, Threads and Processes и Start It Up: Improving JRuby’s Startup Time
-
-  
-TensorFlow - the end-to-end machine learning platform - for Ruby, RQRCode - a library for creating and rendering QR codes into various formats и Textmate 2.0
-
-
-
-Web
-
-
-  
-Storybook 5.2, Cheat sheet for moving from jQuery to vanilla JavaScript, Profile a React App for Performance и Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node
-
-  
-SortableJS 1.10.0, Vue Select и Geometric.js - a JavaScript library for doing geometry
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0738.png"/>
-  <itunes:duration>00:40:36</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
