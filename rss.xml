@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 01 Jun 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 08 Jun 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,125 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>22 выпуск 08 сезона. The RuboCop Name Drama Redux, Some Reminders of Good GitHub Etiquette, Galaaz, Cfndsl, Grid.js и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/rails/rails/pull/39282">Rails new cool_app –minimal</a></li>
+  <li><a href="https://metaredux.com/posts/2020/06/08/the-rubocop-name-drama-redux.html">The RuboCop Name Drama Redux</a></li>
+  <li>
+    <p><a href="https://blog.capsens.eu/why-you-should-avoid-nested-sti-activerecord-rails-6-b180f1bcc029">Why you should avoid nested STI</a></p>
+  </li>
+  <li><a href="https://boringrails.com/articles/better-stimulus-controllers/">Writing better Stimulus controllers</a></li>
+  <li><a href="https://github.com/rbotafogo/galaaz">Galaaz - a system for tightly coupling Ruby and R</a></li>
+  <li><a href="https://github.com/cfndsl/cfndsl">Cfndsl - a DSL for generating Amazon Web Services CloudFormation templates</a></li>
+  <li><a href="https://www.driftingruby.com/episodes/tracking-changes-on-action-text">Tracking Changes on Action Text</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/swlh/chrome-v83-enables-js-module-support-for-sharedworkers-starting-a-new-era-for-multi-browser-dbb20366bddf">Chrome v83 enables JS module support for SharedWorkers → Starting a new era for multi Browser Window Apps with neo.mjs</a></li>
+  <li><a href="https://github.com/kossnocorp/etiquette">Some Reminders of Good GitHub Etiquette</a></li>
+  <li>
+    <p><a href="https://medium.com/swlh/how-jwt-works-in-depth-604c93ec20a4">How JWT works — in depth</a></p>
+  </li>
+  <li><a href="https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html">Yet Another Doom Clone (In 13kb of JavaScript)</a></li>
+  <li><a href="https://gridjs.io/">Grid.js - Advanced Table Plugin</a></li>
+  <li><a href="https://defaced.dev/tools/consoleimg/">Consoleimg - display images in your developer console</a></li>
+  <li><a href="https://github.com/abhiprojectz/motionia">Motionia - a lightweight simplified on demand animation library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://github.com/rails/rails/pull/39282">Rails new cool_app –minimal</a></li>
+  <li><a href="https://metaredux.com/posts/2020/06/08/the-rubocop-name-drama-redux.html">The RuboCop Name Drama Redux</a></li>
+  <li>
+    <p><a href="https://blog.capsens.eu/why-you-should-avoid-nested-sti-activerecord-rails-6-b180f1bcc029">Why you should avoid nested STI</a></p>
+  </li>
+  <li><a href="https://boringrails.com/articles/better-stimulus-controllers/">Writing better Stimulus controllers</a></li>
+  <li><a href="https://github.com/rbotafogo/galaaz">Galaaz - a system for tightly coupling Ruby and R</a></li>
+  <li><a href="https://github.com/cfndsl/cfndsl">Cfndsl - a DSL for generating Amazon Web Services CloudFormation templates</a></li>
+  <li><a href="https://www.driftingruby.com/episodes/tracking-changes-on-action-text">Tracking Changes on Action Text</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://medium.com/swlh/chrome-v83-enables-js-module-support-for-sharedworkers-starting-a-new-era-for-multi-browser-dbb20366bddf">Chrome v83 enables JS module support for SharedWorkers → Starting a new era for multi Browser Window Apps with neo.mjs</a></li>
+  <li><a href="https://github.com/kossnocorp/etiquette">Some Reminders of Good GitHub Etiquette</a></li>
+  <li>
+    <p><a href="https://medium.com/swlh/how-jwt-works-in-depth-604c93ec20a4">How JWT works — in depth</a></p>
+  </li>
+  <li><a href="https://nicholas.carlini.com/writing/2019/javascript-doom-clone-13k.html">Yet Another Doom Clone (In 13kb of JavaScript)</a></li>
+  <li><a href="https://gridjs.io/">Grid.js - Advanced Table Plugin</a></li>
+  <li><a href="https://defaced.dev/tools/consoleimg/">Consoleimg - display images in your developer console</a></li>
+  <li><a href="https://github.com/abhiprojectz/motionia">Motionia - a lightweight simplified on demand animation library</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 08 Jun 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/06/08/podcast-08-22.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/06/08/podcast-08-22.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0822.mp3" length="44481543" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0822.mp3" fileSize="44481543" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails new cool_app –minimal
+  The RuboCop Name...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails new cool_app –minimal
+  The RuboCop Name Drama Redux
+  
+    Why you should avoid nested STI
+  
+  Writing better Stimulus controllers
+  Galaaz - a system for tightly coupling Ruby and R
+  Cfndsl - a DSL for generating Amazon Web Services CloudFormation templates
+  Tracking Changes on Action Text
+
+
+Web
+
+
+  Chrome v83 enables JS module support for SharedWorkers → Starting a new era for multi Browser Window Apps with neo.mjs
+  Some Reminders of Good GitHub Etiquette
+  
+    How JWT works — in depth
+  
+  Yet Another Doom Clone (In 13kb of JavaScript)
+  Grid.js - Advanced Table Plugin
+  Consoleimg - display images in your developer console
+  Motionia - a lightweight simplified on demand animation library
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0822.jpg"/>
+  <itunes:duration>00:43:40</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>21 выпуск 08 сезона. VCR 6.0.0, Snowpack 2.0, Brotli and Gzip Compression, AudioMass, AutoPilot, Dynamoid, Rough Notation и прочее</title>
   <description>
@@ -4292,90 +4411,6 @@ Don’t Use JavaScript Variables Without Knowing Temporal Dead Zone, Keeping it 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0740.png"/>
   <itunes:duration>00:45:51</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>39 выпуск 07 сезона. New Ruby 2.7 IRB, Puma 4.2.0, V8 v7.8, Node v12.11.0, GPU.js 2.0, React-Toastify 5.4.0 и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/09/23/new-irb-features.html">What’s new in Interactive Ruby Shell (IRB) with Ruby 2.7</a>, <a href="https://blog.saeloun.com/2019/09/24/ruby-2-7-integer-with-range.html">Ruby 2.7 adds Integer#[] to support range values</a>, <a href="https://blog.bigbinary.com/2019/09/24/rails-6-adds-add_foreign_key-and-remove_foreign_key-for-sqlite3.html">Rails 6 adds add_foreign_key and remove_foreign_key for SQLite3</a>, <a href="https://github.com/puma/puma/blob/master/History.md#420--2019-09-23">Puma 4.2.0</a> и <a href="https://medium.com/@liroy/geared-pagination-in-rails-behind-the-scenes-61d9e227540e">Behind-the-scenes of ‘Geared Pagination’ in Rails</a></li>
-  <li><a href="https://lipanski.github.io/posts/dockerfile-ruby-best-practices">Best practices when writing a Dockerfile for a Ruby application</a>, <a href="https://github.com/jeremyevans/erubi">Erubi - a ERB template engine for ruby</a> и <a href="https://www.youtube.com/watch?v=Dtn9Uudw4Mo">The Journey to One Million by Samuel Williams (video)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://v8.dev/blog/v8-release-78">V8 release v7.8</a>, <a href="https://nodejs.org/en/blog/release/v12.11.0/">Node v12.11.0</a>, <a href="https://phabricator.wikimedia.org/phame/live/7/post/175/wikipedia_s_javascript_initialisation_on_a_budget/">Wikipedia’s JavaScript initialisation on a budget</a> и <a href="https://www.swyx.io/writing/js-tooling/">Why JavaScript Tooling Sucks</a></li>
-  <li><a href="https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity">15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity</a>, <a href="https://gpu.rocks/">GPU.js 2.0</a>, <a href="https://github.com/oframe/ogl">OGL - a small, effective WebGL framework</a>, <a href="https://repeater.js.org/">Repeater.js - a missing constructor for creating safe async iterators</a>, <a href="https://thisrobot.life/">Robot - fast 1kB functional library for creating Finite State Machines</a> и <a href="https://github.com/fkhadra/react-toastify">React-Toastify 5.4.0</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/09/23/new-irb-features.html">What’s new in Interactive Ruby Shell (IRB) with Ruby 2.7</a>, <a href="https://blog.saeloun.com/2019/09/24/ruby-2-7-integer-with-range.html">Ruby 2.7 adds Integer#[] to support range values</a>, <a href="https://blog.bigbinary.com/2019/09/24/rails-6-adds-add_foreign_key-and-remove_foreign_key-for-sqlite3.html">Rails 6 adds add_foreign_key and remove_foreign_key for SQLite3</a>, <a href="https://github.com/puma/puma/blob/master/History.md#420--2019-09-23">Puma 4.2.0</a> и <a href="https://medium.com/@liroy/geared-pagination-in-rails-behind-the-scenes-61d9e227540e">Behind-the-scenes of ‘Geared Pagination’ in Rails</a></li>
-  <li><a href="https://lipanski.github.io/posts/dockerfile-ruby-best-practices">Best practices when writing a Dockerfile for a Ruby application</a>, <a href="https://github.com/jeremyevans/erubi">Erubi - a ERB template engine for ruby</a> и <a href="https://www.youtube.com/watch?v=Dtn9Uudw4Mo">The Journey to One Million by Samuel Williams (video)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://v8.dev/blog/v8-release-78">V8 release v7.8</a>, <a href="https://nodejs.org/en/blog/release/v12.11.0/">Node v12.11.0</a>, <a href="https://phabricator.wikimedia.org/phame/live/7/post/175/wikipedia_s_javascript_initialisation_on_a_budget/">Wikipedia’s JavaScript initialisation on a budget</a> и <a href="https://www.swyx.io/writing/js-tooling/">Why JavaScript Tooling Sucks</a></li>
-  <li><a href="https://www.telerik.com/blogs/15-must-have-vue-directives-that-will-significantly-maximize-your-productivity">15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity</a>, <a href="https://gpu.rocks/">GPU.js 2.0</a>, <a href="https://github.com/oframe/ogl">OGL - a small, effective WebGL framework</a>, <a href="https://repeater.js.org/">Repeater.js - a missing constructor for creating safe async iterators</a>, <a href="https://thisrobot.life/">Robot - fast 1kB functional library for creating Finite State Machines</a> и <a href="https://github.com/fkhadra/react-toastify">React-Toastify 5.4.0</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Sun, 29 Sep 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/09/29/podcast-07-39.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/09/29/podcast-07-39.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0739.mp3" length="116360232" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0739.mp3" fileSize="116360232" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  What’s new in Interactive Ruby Shell (IRB) wit...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-What’s new in Interactive Ruby Shell (IRB) with Ruby 2.7, Ruby 2.7 adds Integer#[] to support range values, Rails 6 adds add_foreign_key and remove_foreign_key for SQLite3, Puma 4.2.0 и Behind-the-scenes of ‘Geared Pagination’ in Rails
-
-  
-Best practices when writing a Dockerfile for a Ruby application, Erubi - a ERB template engine for ruby и The Journey to One Million by Samuel Williams (video)
-
-
-
-Web
-
-
-  
-V8 release v7.8, Node v12.11.0, Wikipedia’s JavaScript initialisation on a budget и Why JavaScript Tooling Sucks
-
-  
-15 Must-Have Vue Directives That Will Significantly Maximize Your Productivity, GPU.js 2.0, OGL - a small, effective WebGL framework, Repeater.js - a missing constructor for creating safe async iterators, Robot - fast 1kB functional library for creating Finite State Machines и React-Toastify 5.4.0
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0739.png"/>
-  <itunes:duration>01:36:57</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
