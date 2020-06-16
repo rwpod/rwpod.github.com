@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 08 Jun 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,125 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>23 выпуск 08 сезона. DHH Interview, ES Logical assignment operators, TestBench, MyDrive, Jsgrids, Johnny-Five и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/06/10/rails-support-bulk-insert-on-relation">Rails support bulk insert/upsert on relation</a></li>
+  <li><a href="https://evrone.com/dhh-interview">David Heinemeier Hansson Interview</a></li>
+  <li><a href="https://medium.com/javascript-in-plain-english/time-to-up-your-code-review-game-dd94d0325950">Time to up your Code Review game</a></li>
+  <li>
+    <p><a href="https://medium.com/swlh/a-code-review-your-colleagues-would-thank-you-for-b569fea0e3e1">A Code Review Your Colleagues Would Thank You For</a></p>
+  </li>
+  <li><a href="https://www.halcyon.hr/posts/exploring-metaprogramming-in-ruby/">Exploring metaprogramming in ruby</a></li>
+  <li><a href="https://blog.eventide-project.org/articles/introducing-test-bench/">Introducing TestBench</a></li>
+  <li><a href="https://medium.com/@mrgrodo/improve-your-ruby-code-reviews-with-actionable-code-coverage-and-undercover-c4480575ea69">Improve your Ruby code reviews with actionable code coverage and Undercover</a></li>
+  <li><a href="https://www.ramblingcode.dev/posts/adding_index_to_text_columns_in_rails/">Speed up queries on text columns using :gin indices with [Rails &amp; PostgreSQL]</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://2ality.com/2020/06/logical-assignment-operators.html">ECMAScript proposal: Logical assignment operators</a></li>
+  <li>
+    <p><a href="https://www.arbazsiddiqui.me/cors-understanding-cross-origin-resource-sharing/">CORS : Understanding Cross Origin Resource Sharing</a></p>
+  </li>
+  <li><a href="https://github.com/subnub/myDrive">MyDrive - an Open Source Cloud Server</a></li>
+  <li><a href="https://jsgrids.io/">Jsgrids - a list of JavaScript Spreadsheets and Data Grid Libraries</a></li>
+  <li><a href="http://johnny-five.io/">Johnny-Five - a JavaScript Robotics Programming Framework</a></li>
+  <li><a href="https://github.com/KuroLabs/stegcloak">Hide secrets with invisible characters in plain text securely using passwords</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/06/10/rails-support-bulk-insert-on-relation">Rails support bulk insert/upsert on relation</a></li>
+  <li><a href="https://evrone.com/dhh-interview">David Heinemeier Hansson Interview</a></li>
+  <li><a href="https://medium.com/javascript-in-plain-english/time-to-up-your-code-review-game-dd94d0325950">Time to up your Code Review game</a></li>
+  <li>
+    <p><a href="https://medium.com/swlh/a-code-review-your-colleagues-would-thank-you-for-b569fea0e3e1">A Code Review Your Colleagues Would Thank You For</a></p>
+  </li>
+  <li><a href="https://www.halcyon.hr/posts/exploring-metaprogramming-in-ruby/">Exploring metaprogramming in ruby</a></li>
+  <li><a href="https://blog.eventide-project.org/articles/introducing-test-bench/">Introducing TestBench</a></li>
+  <li><a href="https://medium.com/@mrgrodo/improve-your-ruby-code-reviews-with-actionable-code-coverage-and-undercover-c4480575ea69">Improve your Ruby code reviews with actionable code coverage and Undercover</a></li>
+  <li><a href="https://www.ramblingcode.dev/posts/adding_index_to_text_columns_in_rails/">Speed up queries on text columns using :gin indices with [Rails &amp; PostgreSQL]</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://2ality.com/2020/06/logical-assignment-operators.html">ECMAScript proposal: Logical assignment operators</a></li>
+  <li>
+    <p><a href="https://www.arbazsiddiqui.me/cors-understanding-cross-origin-resource-sharing/">CORS : Understanding Cross Origin Resource Sharing</a></p>
+  </li>
+  <li><a href="https://github.com/subnub/myDrive">MyDrive - an Open Source Cloud Server</a></li>
+  <li><a href="https://jsgrids.io/">Jsgrids - a list of JavaScript Spreadsheets and Data Grid Libraries</a></li>
+  <li><a href="http://johnny-five.io/">Johnny-Five - a JavaScript Robotics Programming Framework</a></li>
+  <li><a href="https://github.com/KuroLabs/stegcloak">Hide secrets with invisible characters in plain text securely using passwords</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 16 Jun 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/06/16/podcast-08-23.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/06/16/podcast-08-23.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0823.mp3" length="38026655" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0823.mp3" fileSize="38026655" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails support bulk insert/upsert on relation
+ ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails support bulk insert/upsert on relation
+  David Heinemeier Hansson Interview
+  Time to up your Code Review game
+  
+    A Code Review Your Colleagues Would Thank You For
+  
+  Exploring metaprogramming in ruby
+  Introducing TestBench
+  Improve your Ruby code reviews with actionable code coverage and Undercover
+  Speed up queries on text columns using :gin indices with [Rails &amp; PostgreSQL]
+
+
+Web
+
+
+  ECMAScript proposal: Logical assignment operators
+  
+    CORS : Understanding Cross Origin Resource Sharing
+  
+  MyDrive - an Open Source Cloud Server
+  Jsgrids - a list of JavaScript Spreadsheets and Data Grid Libraries
+  Johnny-Five - a JavaScript Robotics Programming Framework
+  Hide secrets with invisible characters in plain text securely using passwords
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0823.jpg"/>
+  <itunes:duration>00:36:47</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>22 выпуск 08 сезона. The RuboCop Name Drama Redux, Some Reminders of Good GitHub Etiquette, Galaaz, Cfndsl, Grid.js и прочее</title>
   <description>
@@ -4327,90 +4446,6 @@ Sinuous - a small, blazing fast, reactive UI library, RoughViz.js - a reusable J
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0741.png"/>
   <itunes:duration>00:37:55</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>40 выпуск 07 сезона. Ruby 2.6.5, TensorFlow 2.0, Preact X, Zeitwerk in Rails 6, Carbon, SweetAlert2 и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2019/10/01/ruby-2-6-5-released/">Ruby 2.6.5 Released</a>, <a href="https://blog.saeloun.com/2019/10/03/ruby-2-7-adds-enumerator-lazy-eager.html">Ruby 2.7 adds Enumerator::Lazy#eager</a>, <a href="https://medium.com/cedarcode/understanding-zeitwerk-in-rails-6-f168a9f09a1f">Understanding Zeitwerk in Rails 6</a>, <a href="https://blog.bigbinary.com/2019/10/01/rails-6-adds-active-support-actionable-error.html">Rails 6 adds ActiveSupport::ActionableError</a> и <a href="https://blog.saeloun.com/2019/10/01/rails-6-1-adds-http-feature-policy.html">Rails 6.1 adds HTTP Feature Policy</a></li>
-  <li><a href="https://blog.kiprosh.com/implement-optimistic-locking-in-rails/">Optimistic vs. Pessimistic locking in Rails</a>, <a href="https://www.mskog.com/posts/visual-studio-code-plugins-for-ruby/">Visual Studio Code plugins for Ruby</a> и <a href="https://metaredux.com/posts/2019/10/04/rubocop-meets-minitest.html">RuboCop Meets Minitest</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/tensorflow/tensorflow-2-0-is-now-available-57d706c2a9ab">TensorFlow 2.0 is now available!</a>, <a href="https://github.com/preactjs/preact/releases/tag/10.0.0">Preact X</a>, <a href="https://technology.customink.com/blog/2019/10/05/building-a-cloudfront-cookie-dashboard-using-aws-lambda-at-edge-kinesis-and-quicksight/">Building a CloudFront Cookie Dashboard</a> и <a href="https://lihautan.com/creating-custom-javascript-syntax-with-babel/">Creating custom JavaScript syntax with Babel</a></li>
-  <li><a href="https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/">Don’t Use JavaScript Variables Without Knowing Temporal Dead Zone</a>, <a href="https://hankchizljaw.com/wrote/keeping-it-simple-with-css-that-scales/">Keeping it simple with CSS that scales</a>, <a href="https://carbon.now.sh/">Carbon - create and share beautiful images of your source code </a> и <a href="https://sweetalert2.github.io/">SweetAlert2 - replacement for JavaScript’s popup boxes</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://www.ruby-lang.org/en/news/2019/10/01/ruby-2-6-5-released/">Ruby 2.6.5 Released</a>, <a href="https://blog.saeloun.com/2019/10/03/ruby-2-7-adds-enumerator-lazy-eager.html">Ruby 2.7 adds Enumerator::Lazy#eager</a>, <a href="https://medium.com/cedarcode/understanding-zeitwerk-in-rails-6-f168a9f09a1f">Understanding Zeitwerk in Rails 6</a>, <a href="https://blog.bigbinary.com/2019/10/01/rails-6-adds-active-support-actionable-error.html">Rails 6 adds ActiveSupport::ActionableError</a> и <a href="https://blog.saeloun.com/2019/10/01/rails-6-1-adds-http-feature-policy.html">Rails 6.1 adds HTTP Feature Policy</a></li>
-  <li><a href="https://blog.kiprosh.com/implement-optimistic-locking-in-rails/">Optimistic vs. Pessimistic locking in Rails</a>, <a href="https://www.mskog.com/posts/visual-studio-code-plugins-for-ruby/">Visual Studio Code plugins for Ruby</a> и <a href="https://metaredux.com/posts/2019/10/04/rubocop-meets-minitest.html">RuboCop Meets Minitest</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/tensorflow/tensorflow-2-0-is-now-available-57d706c2a9ab">TensorFlow 2.0 is now available!</a>, <a href="https://github.com/preactjs/preact/releases/tag/10.0.0">Preact X</a>, <a href="https://technology.customink.com/blog/2019/10/05/building-a-cloudfront-cookie-dashboard-using-aws-lambda-at-edge-kinesis-and-quicksight/">Building a CloudFront Cookie Dashboard</a> и <a href="https://lihautan.com/creating-custom-javascript-syntax-with-babel/">Creating custom JavaScript syntax with Babel</a></li>
-  <li><a href="https://dmitripavlutin.com/javascript-variables-and-temporal-dead-zone/">Don’t Use JavaScript Variables Without Knowing Temporal Dead Zone</a>, <a href="https://hankchizljaw.com/wrote/keeping-it-simple-with-css-that-scales/">Keeping it simple with CSS that scales</a>, <a href="https://carbon.now.sh/">Carbon - create and share beautiful images of your source code </a> и <a href="https://sweetalert2.github.io/">SweetAlert2 - replacement for JavaScript’s popup boxes</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 07 Oct 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/10/07/podcast-07-40.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/10/07/podcast-07-40.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0740.mp3" length="55046594" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0740.mp3" fileSize="55046594" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.6.5 Released, Ruby 2.7 adds Enumerator:...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.6.5 Released, Ruby 2.7 adds Enumerator::Lazy#eager, Understanding Zeitwerk in Rails 6, Rails 6 adds ActiveSupport::ActionableError и Rails 6.1 adds HTTP Feature Policy
-
-  
-Optimistic vs. Pessimistic locking in Rails, Visual Studio Code plugins for Ruby и RuboCop Meets Minitest
-
-
-
-Web
-
-
-  
-TensorFlow 2.0 is now available!, Preact X, Building a CloudFront Cookie Dashboard и Creating custom JavaScript syntax with Babel
-
-  
-Don’t Use JavaScript Variables Without Knowing Temporal Dead Zone, Keeping it simple with CSS that scales, Carbon - create and share beautiful images of your source code  и SweetAlert2 - replacement for JavaScript’s popup boxes
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0740.png"/>
-  <itunes:duration>00:45:51</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
