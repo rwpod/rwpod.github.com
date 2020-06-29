@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 22 Jun 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 22 Jun 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,131 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>25 выпуск 08 сезона. Angular 10, TypeScript 4.0 Beta, Ruby 2.7 adds Enumerable#filter_map, Comma, Rando.js, Checkboxland и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2020/05/08/ruby-2-7-adds-enumerable-filter-map.html">Ruby 2.7 adds Enumerable#filter_map</a></li>
+  <li><a href="https://pawelurbanek.com/rails-postgres-join-indexes">Postgres Indexes for ActiveRecord Join Tables in Rails Apps</a></li>
+  <li>
+    <p><a href="https://boringrails.com/articles/hovercards-stimulus/">Building GitHub-style Hovercards with Stimulus and HTML-over-the-wire</a></p>
+  </li>
+  <li><a href="https://medium.com/swlh/9-tips-to-write-better-rspec-5569b45fb1a1">9 tips to improve RSpec maintainability</a></li>
+  <li><a href="https://realptsdengineer.com/ruby-on-rails-multitenancy-in-2020/">Ruby on Rails multitenancy in 2020</a></li>
+  <li><a href="https://github.com/comma-csv/comma">Comma - a small CSV (ie. comma separated values) generation extension for Ruby objects</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.angular.io/version-10-of-angular-now-available-78960babd41">Released Angular 10</a></li>
+  <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/">Announcing TypeScript 4.0 Beta</a></li>
+  <li><a href="https://2ality.com/2020/06/private-static-methods-accessors-in-classes.html">ECMAScript proposal: private static methods and accessors in classes</a></li>
+  <li><a href="https://blog.npmjs.org/post/621733939456933888/npm-v7-series-why-keep-package-lockjson">npm v7 Series - Why Keep package-lock.json?</a></li>
+  <li>
+    <p><a href="https://lea.verou.me/2020/06/refactoring-optional-chaining-into-a-large-codebase-lessons-learned/">Refactoring optional chaining into a large codebase: lessons learned</a></p>
+  </li>
+  <li><a href="https://css-tricks.com/how-to-get-all-custom-properties-on-a-page-in-javascript/">How to Get All Custom Properties on a Page in JavaScript</a></li>
+  <li><a href="https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/">A little bit of plain Javascript can do a lot</a></li>
+  <li><a href="https://randojs.com/">Rando.js - the world’s easiest, most powerful random function</a></li>
+  <li><a href="https://github.com/mehmetsefabalik/onedrive-to-gcs">OneDrive to Google Cloud Storage</a></li>
+  <li><a href="https://www.bryanbraun.com/checkboxland/">Checkboxland - render anything as HTML checkboxes</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2020/05/08/ruby-2-7-adds-enumerable-filter-map.html">Ruby 2.7 adds Enumerable#filter_map</a></li>
+  <li><a href="https://pawelurbanek.com/rails-postgres-join-indexes">Postgres Indexes for ActiveRecord Join Tables in Rails Apps</a></li>
+  <li>
+    <p><a href="https://boringrails.com/articles/hovercards-stimulus/">Building GitHub-style Hovercards with Stimulus and HTML-over-the-wire</a></p>
+  </li>
+  <li><a href="https://medium.com/swlh/9-tips-to-write-better-rspec-5569b45fb1a1">9 tips to improve RSpec maintainability</a></li>
+  <li><a href="https://realptsdengineer.com/ruby-on-rails-multitenancy-in-2020/">Ruby on Rails multitenancy in 2020</a></li>
+  <li><a href="https://github.com/comma-csv/comma">Comma - a small CSV (ie. comma separated values) generation extension for Ruby objects</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://blog.angular.io/version-10-of-angular-now-available-78960babd41">Released Angular 10</a></li>
+  <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-0-beta/">Announcing TypeScript 4.0 Beta</a></li>
+  <li><a href="https://2ality.com/2020/06/private-static-methods-accessors-in-classes.html">ECMAScript proposal: private static methods and accessors in classes</a></li>
+  <li><a href="https://blog.npmjs.org/post/621733939456933888/npm-v7-series-why-keep-package-lockjson">npm v7 Series - Why Keep package-lock.json?</a></li>
+  <li>
+    <p><a href="https://lea.verou.me/2020/06/refactoring-optional-chaining-into-a-large-codebase-lessons-learned/">Refactoring optional chaining into a large codebase: lessons learned</a></p>
+  </li>
+  <li><a href="https://css-tricks.com/how-to-get-all-custom-properties-on-a-page-in-javascript/">How to Get All Custom Properties on a Page in JavaScript</a></li>
+  <li><a href="https://jvns.ca/blog/2020/06/19/a-little-bit-of-plain-javascript-can-do-a-lot/">A little bit of plain Javascript can do a lot</a></li>
+  <li><a href="https://randojs.com/">Rando.js - the world’s easiest, most powerful random function</a></li>
+  <li><a href="https://github.com/mehmetsefabalik/onedrive-to-gcs">OneDrive to Google Cloud Storage</a></li>
+  <li><a href="https://www.bryanbraun.com/checkboxland/">Checkboxland - render anything as HTML checkboxes</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 29 Jun 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/06/29/podcast-08-25.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/06/29/podcast-08-25.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0825.mp3" length="46483578" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0825.mp3" fileSize="46483578" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7 adds Enumerable#filter_map
+  Postgres...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 2.7 adds Enumerable#filter_map
+  Postgres Indexes for ActiveRecord Join Tables in Rails Apps
+  
+    Building GitHub-style Hovercards with Stimulus and HTML-over-the-wire
+  
+  9 tips to improve RSpec maintainability
+  Ruby on Rails multitenancy in 2020
+  Comma - a small CSV (ie. comma separated values) generation extension for Ruby objects
+
+
+Web
+
+
+  Released Angular 10
+  Announcing TypeScript 4.0 Beta
+  ECMAScript proposal: private static methods and accessors in classes
+  npm v7 Series - Why Keep package-lock.json?
+  
+    Refactoring optional chaining into a large codebase: lessons learned
+  
+  How to Get All Custom Properties on a Page in JavaScript
+  A little bit of plain Javascript can do a lot
+  Rando.js - the world’s easiest, most powerful random function
+  OneDrive to Google Cloud Storage
+  Checkboxland - render anything as HTML checkboxes
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0825.png"/>
+  <itunes:duration>00:45:19</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>24 выпуск 08 сезона. Rails 6.0.3.2, Puppeteer 4.0.0, GitHub Super Linter, GitHub::DS, Code Notes, Inkblot, Docx и прочее</title>
   <description>
@@ -4408,108 +4533,6 @@ Svelte Crash Course (in 10 pics!), Building a Typing Game with MelonJS, Peaks.js
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0743.png"/>
   <itunes:duration>00:44:30</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>42 выпуск 07 сезона. Shrine 3.0, fun with each_with_object, Ionic React, TinaCMS, Zero, React-three-fiber game и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/10/17/ruby-2-7-adds-unboundmethod-bind_call-method.html">Ruby 2.7 adds UnboundMethod#bind_call method</a>, <a href="https://blog.saeloun.com/2019/10/15/rails-6-delete-by-destroy-by.html">Rails 6 adds delete_by and destroy_by methods</a>, <a href="https://blog.bigbinary.com/2019/10/15/rails-6-raises-argumenterror-if-custom-param-contains-a-colon.html">Rails 6 raises ArgumentError if custom param contains a colon</a> и <a href="https://twin.github.io/shrine-3-0-released/">Shrine 3.0 Released</a></li>
-  <li><a href="https://zverok.github.io/blog/2019-10-18-each_with_object.html">Fun with each_with_object and other Enumerator adventures</a>, <a href="http://lambdapapers.com/2019/10/14/linux-file-locking-ruby.html">Exploring Linux File Locking Mechanisms in Ruby</a> и <a href="https://samsaffron.com/archive/2019/10/08/debugging-unmanaged-and-hidden-memory-leaks-in-ruby">Debugging hidden memory leaks in Ruby</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://ionicframework.com/blog/announcing-ionic-react/">Announcing Ionic React</a>, <a href="https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/">Firefox’s New WebSocket Inspector</a> и <a href="https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/">7 Simple but Tricky JavaScript Interview Questions</a></li>
-  <li><a href="https://github.com/tinacms/tinacms">TinaCMS - a site editing toolkit for modern React-based sites</a>, <a href="https://github.com/sinclairzx81/zero">Zero - a graphics pipeline implemented in JavaScript and rendered to the terminal</a> и <a href="https://codesandbox.io/s/react-three-fiber-untitled-game-4pp5r">React-three-fiber game</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">RUBY Meditation #28</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/10/17/ruby-2-7-adds-unboundmethod-bind_call-method.html">Ruby 2.7 adds UnboundMethod#bind_call method</a>, <a href="https://blog.saeloun.com/2019/10/15/rails-6-delete-by-destroy-by.html">Rails 6 adds delete_by and destroy_by methods</a>, <a href="https://blog.bigbinary.com/2019/10/15/rails-6-raises-argumenterror-if-custom-param-contains-a-colon.html">Rails 6 raises ArgumentError if custom param contains a colon</a> и <a href="https://twin.github.io/shrine-3-0-released/">Shrine 3.0 Released</a></li>
-  <li><a href="https://zverok.github.io/blog/2019-10-18-each_with_object.html">Fun with each_with_object and other Enumerator adventures</a>, <a href="http://lambdapapers.com/2019/10/14/linux-file-locking-ruby.html">Exploring Linux File Locking Mechanisms in Ruby</a> и <a href="https://samsaffron.com/archive/2019/10/08/debugging-unmanaged-and-hidden-memory-leaks-in-ruby">Debugging hidden memory leaks in Ruby</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://ionicframework.com/blog/announcing-ionic-react/">Announcing Ionic React</a>, <a href="https://hacks.mozilla.org/2019/10/firefoxs-new-websocket-inspector/">Firefox’s New WebSocket Inspector</a> и <a href="https://dmitripavlutin.com/simple-but-tricky-javascript-interview-questions/">7 Simple but Tricky JavaScript Interview Questions</a></li>
-  <li><a href="https://github.com/tinacms/tinacms">TinaCMS - a site editing toolkit for modern React-based sites</a>, <a href="https://github.com/sinclairzx81/zero">Zero - a graphics pipeline implemented in JavaScript and rendered to the terminal</a> и <a href="https://codesandbox.io/s/react-three-fiber-untitled-game-4pp5r">React-three-fiber game</a></li>
-</ul>
-
-<h2 id="conferences">Conferences</h2>
-
-<ul>
-  <li><a href="http://www.rubymeditation.com/">RUBY Meditation #28</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 21 Oct 2019 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2019/10/21/podcast-07-42.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/10/21/podcast-07-42.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0742.mp3" length="44907030" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0742.mp3" fileSize="44907030" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.7 adds UnboundMethod#bind_call method, ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.7 adds UnboundMethod#bind_call method, Rails 6 adds delete_by and destroy_by methods, Rails 6 raises ArgumentError if custom param contains a colon и Shrine 3.0 Released
-
-  
-Fun with each_with_object and other Enumerator adventures, Exploring Linux File Locking Mechanisms in Ruby и Debugging hidden memory leaks in Ruby
-
-
-
-Web
-
-
-  
-Announcing Ionic React, Firefox’s New WebSocket Inspector и 7 Simple but Tricky JavaScript Interview Questions
-
-  
-TinaCMS - a site editing toolkit for modern React-based sites, Zero - a graphics pipeline implemented in JavaScript and rendered to the terminal и React-three-fiber game
-
-
-
-Conferences
-
-
-  RUBY Meditation #28
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0742.png"/>
-  <itunes:duration>00:37:24</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
