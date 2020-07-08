@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 06 Jul 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 06 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,133 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>RWPod Кафе 17: Bozhidar Batsov</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Bozhidar Batsov:</p>
+
+<ul>
+  <li>Hey. Who are you?</li>
+  <li>How did you become a developer?</li>
+  <li>How did you get to know the Ruby language?</li>
+  <li>How did you come up with the idea of rubocop?</li>
+  <li>Some interesting words about your also popular projects: Cider, nrepl, prelude, clojure-style-guide</li>
+  <li>What is your developer toolbox?</li>
+  <li>How you work environment changed by Covid-19?</li>
+  <li>Where will move current projects?</li>
+  <li>You thoughts about future of a Ruby community</li>
+  <li>Wish to listeners</li>
+</ul>
+
+<h4 id="links">Links</h4>
+
+<ul>
+  <li><a href="https://github.com/bbatsov/emacs.d">Bozhidar’s Emacs config</a></li>
+  <li><a href="https://metaredux.com/posts/2019/04/02/ruby-s-creed.html">Ruby’s Creed</a></li>
+  <li><a href="https://www.youtube.com/watch?v=aFSuXUXRySc">Ruby 4.0: To Infinity and Beyond @ EuRuKo2017</a></li>
+  <li><a href="https://www.toptal.com/remote-work-playbook">Toptal Remote Playbook</a></li>
+</ul>
+
+<h4 id="pages">Pages</h4>
+
+<ul>
+  <li><a href="https://metaredux.com/">Personal blog</a></li>
+  <li><a href="https://emacsredux.com/">Emacs blog</a></li>
+  <li><a href="https://github.com/bbatsov">Github</a></li>
+  <li><a href="https://twitter.com/bbatsov">Twitter</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Bozhidar Batsov:</p>
+
+<ul>
+  <li>Hey. Who are you?</li>
+  <li>How did you become a developer?</li>
+  <li>How did you get to know the Ruby language?</li>
+  <li>How did you come up with the idea of rubocop?</li>
+  <li>Some interesting words about your also popular projects: Cider, nrepl, prelude, clojure-style-guide</li>
+  <li>What is your developer toolbox?</li>
+  <li>How you work environment changed by Covid-19?</li>
+  <li>Where will move current projects?</li>
+  <li>You thoughts about future of a Ruby community</li>
+  <li>Wish to listeners</li>
+</ul>
+
+<h4 id="links">Links</h4>
+
+<ul>
+  <li><a href="https://github.com/bbatsov/emacs.d">Bozhidar’s Emacs config</a></li>
+  <li><a href="https://metaredux.com/posts/2019/04/02/ruby-s-creed.html">Ruby’s Creed</a></li>
+  <li><a href="https://www.youtube.com/watch?v=aFSuXUXRySc">Ruby 4.0: To Infinity and Beyond @ EuRuKo2017</a></li>
+  <li><a href="https://www.toptal.com/remote-work-playbook">Toptal Remote Playbook</a></li>
+</ul>
+
+<h4 id="pages">Pages</h4>
+
+<ul>
+  <li><a href="https://metaredux.com/">Personal blog</a></li>
+  <li><a href="https://emacsredux.com/">Emacs blog</a></li>
+  <li><a href="https://github.com/bbatsov">Github</a></li>
+  <li><a href="https://twitter.com/bbatsov">Twitter</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Wed, 08 Jul 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/07/08/cafe-017.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/07/08/cafe-017.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/cafe/017.mp3" length="65747541" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/cafe/017.mp3" fileSize="65747541" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Bozhidar Batsov:
+
+
+  Hey. Who are you?
+  How did you become a developer?
+  How did you...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Bozhidar Batsov:
+
+
+  Hey. Who are you?
+  How did you become a developer?
+  How did you get to know the Ruby language?
+  How did you come up with the idea of rubocop?
+  Some interesting words about your also popular projects: Cider, nrepl, prelude, clojure-style-guide
+  What is your developer toolbox?
+  How you work environment changed by Covid-19?
+  Where will move current projects?
+  You thoughts about future of a Ruby community
+  Wish to listeners
+
+
+Links
+
+
+  Bozhidar’s Emacs config
+  Ruby’s Creed
+  Ruby 4.0: To Infinity and Beyond @ EuRuKo2017
+  Toptal Remote Playbook
+
+
+Pages
+
+
+  Personal blog
+  Emacs blog
+  Github
+  Twitter
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/cafe/017.jpg"/>
+  <itunes:duration>01:07:19</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>26 выпуск 08 сезона. AnyCable 1.0, Trailblazer 2.1, React Hook Form, Rubocop::GraphQL, Caporal, Vest и прочее</title>
   <description>
@@ -4483,90 +4610,6 @@ Build FFmpeg WebAssembly version (= ffmpeg.js): Part.5 ffmpeg.js v0.3 — pre-js
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0745.png"/>
   <itunes:duration>00:45:52</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>44 выпуск 07 сезона. Firefox 70, React.js Concurrent Mode, HTTPX, Deimos, Madge, Web-extension-starter и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/10/29/rails-6-after-save-commit">Rails 6 adds after_save_commit</a>, <a href="https://blog.bigbinary.com/2019/10/30/rails-6-adds-activestorage-blob-open.html">Rails 6 adds ActiveStorage::Blob#open</a> и <a href="https://blog.saeloun.com/2019/10/28/bind-parameters-in-activerecord-sql-queries.html">Using bind parameters in Active Record for SQL security and performance</a></li>
-  <li><a href="https://getaround.tech/improving-performance-with-flame-graphs/">Improving Performance with Flame Graphs</a>, <a href="https://gitlab.com/honeyryderchuck/httpx">HTTPX: A Ruby HTTP library for tomorrow… and beyond!</a>, <a href="https://www.honeybadger.io/blog/pg-partition-manager/">Managing PostgreSQL partitioned tables with Ruby</a> и <a href="https://medium.com/flippengineering/introducing-deimos-using-kafka-as-the-data-backbone-for-your-architecture-205bbc248391">Introducing Deimos: Using Kafka as the Data Backbone for your Architecture</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2019/10/firefox-70-a-bountiful-release-for-all/">Firefox 70 — a bountiful release for all</a>, <a href="https://reactjs.org/docs/concurrent-mode-intro.html">React.js - Introducing Concurrent Mode</a> и <a href="http://www.breck-mckye.com/blog/2019/10/modern-javascript-features-you-may-have-missed/">Modern JavaScript features you may have missed</a></li>
-  <li><a href="https://github.com/pahen/madge">Madge - create graphs from your CommonJS, AMD or ES6 module dependencies</a>, <a href="https://github.com/abhijithvijayan/web-extension-starter">Web-extension-starter - Web Extension starter to build “Write Once Run on Any Browser” extension</a> и <a href="https://piet-v.github.io/">Tetris in the URL</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/10/29/rails-6-after-save-commit">Rails 6 adds after_save_commit</a>, <a href="https://blog.bigbinary.com/2019/10/30/rails-6-adds-activestorage-blob-open.html">Rails 6 adds ActiveStorage::Blob#open</a> и <a href="https://blog.saeloun.com/2019/10/28/bind-parameters-in-activerecord-sql-queries.html">Using bind parameters in Active Record for SQL security and performance</a></li>
-  <li><a href="https://getaround.tech/improving-performance-with-flame-graphs/">Improving Performance with Flame Graphs</a>, <a href="https://gitlab.com/honeyryderchuck/httpx">HTTPX: A Ruby HTTP library for tomorrow… and beyond!</a>, <a href="https://www.honeybadger.io/blog/pg-partition-manager/">Managing PostgreSQL partitioned tables with Ruby</a> и <a href="https://medium.com/flippengineering/introducing-deimos-using-kafka-as-the-data-backbone-for-your-architecture-205bbc248391">Introducing Deimos: Using Kafka as the Data Backbone for your Architecture</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2019/10/firefox-70-a-bountiful-release-for-all/">Firefox 70 — a bountiful release for all</a>, <a href="https://reactjs.org/docs/concurrent-mode-intro.html">React.js - Introducing Concurrent Mode</a> и <a href="http://www.breck-mckye.com/blog/2019/10/modern-javascript-features-you-may-have-missed/">Modern JavaScript features you may have missed</a></li>
-  <li><a href="https://github.com/pahen/madge">Madge - create graphs from your CommonJS, AMD or ES6 module dependencies</a>, <a href="https://github.com/abhijithvijayan/web-extension-starter">Web-extension-starter - Web Extension starter to build “Write Once Run on Any Browser” extension</a> и <a href="https://piet-v.github.io/">Tetris in the URL</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 05 Nov 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/11/05/podcast-07-44.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/11/05/podcast-07-44.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0744.mp3" length="48519962" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0744.mp3" fileSize="48519962" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 adds after_save_commit, Rails 6 adds A...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 adds after_save_commit, Rails 6 adds ActiveStorage::Blob#open и Using bind parameters in Active Record for SQL security and performance
-
-  
-Improving Performance with Flame Graphs, HTTPX: A Ruby HTTP library for tomorrow… and beyond!, Managing PostgreSQL partitioned tables with Ruby и Introducing Deimos: Using Kafka as the Data Backbone for your Architecture
-
-
-
-Web
-
-
-  
-Firefox 70 — a bountiful release for all, React.js - Introducing Concurrent Mode и Modern JavaScript features you may have missed
-
-  
-Madge - create graphs from your CommonJS, AMD or ES6 module dependencies, Web-extension-starter - Web Extension starter to build “Write Once Run on Any Browser” extension и Tetris in the URL
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0744.png"/>
-  <itunes:duration>00:47:21</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
