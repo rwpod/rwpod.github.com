@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Wed, 08 Jul 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Wed, 08 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,134 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>27 выпуск 08 сезона. Developer Handbook 2020, Polyphony, WahWah, Perf TrackFlame, Malina.js, N3.js, Shareon и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://syndicode.com/2020/07/08/why-is-ruby-still-our-choice-in-2020-2/">Why is Ruby still our choice in 2020?</a></li>
+  <li><a href="https://blog.heroku.com/rate-throttle-api-client">A Fast Car Needs Good Brakes: How We Added Client Rate Throttling to the Platform API Gem</a></li>
+  <li><a href="https://m.signalvnoise.com/running-spot-instances-effectively-with-amazon-eks/">Running spot instances effectively with Amazon EKS</a></li>
+  <li>
+    <p><a href="https://medium.com/swlh/a-ruby-developers-adventures-in-elixir-515380986bc3">A Ruby Developer’s Adventures in Elixir</a></p>
+  </li>
+  <li><a href="https://digital-fabric.github.io/polyphony/">Polyphony - fine-grained concurrency for Ruby</a></li>
+  <li><a href="https://github.com/aidewoode/wahwah">WahWah - an audio metadata reader ruby gem</a></li>
+  <li><a href="https://github.com/anilmaurya/fast_jsonparser">FastJsonparser - Fastest Json parser for Ruby, wrapper for simdjson</a></li>
+  <li><a href="https://redis.pjam.me/">Redis in Ruby (book)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/puppeteer/puppeteer/releases/tag/v5.1.0">Puppeteer 5.1.0</a></li>
+  <li><a href="https://github.com/apptension/developer-handbook">Developer Handbook 2020</a></li>
+  <li><a href="https://www.smashingmagazine.com/2020/07/tiny-desktop-apps-tauri-vuejs/">Creating Tiny Desktop Apps With Tauri And Vue.js</a></li>
+  <li>
+    <p><a href="https://nicolodavis.com/blog/typescript-to-rust/">Moving from TypeScript to Rust / WebAssembly</a></p>
+  </li>
+  <li><a href="https://perf-track.web.app/">Perf TrackFlame - tracking framework performance at scale</a></li>
+  <li><a href="https://github.com/malinajs/malinajs">Malina.js - builds your web-application to use it without framework on frontend side</a></li>
+  <li><a href="https://github.com/rdfjs/N3.js">N3.js - lightning fast, spec-compatible, streaming RDF for JavaScript</a></li>
+  <li><a href="https://github.com/lmammino/financial">Financial - a zero-dependency TypeScript/JavaScript financial library</a></li>
+  <li><a href="https://shareon.js.org/">Shareon - Lightweight, stylish and ethical share buttons</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://syndicode.com/2020/07/08/why-is-ruby-still-our-choice-in-2020-2/">Why is Ruby still our choice in 2020?</a></li>
+  <li><a href="https://blog.heroku.com/rate-throttle-api-client">A Fast Car Needs Good Brakes: How We Added Client Rate Throttling to the Platform API Gem</a></li>
+  <li><a href="https://m.signalvnoise.com/running-spot-instances-effectively-with-amazon-eks/">Running spot instances effectively with Amazon EKS</a></li>
+  <li>
+    <p><a href="https://medium.com/swlh/a-ruby-developers-adventures-in-elixir-515380986bc3">A Ruby Developer’s Adventures in Elixir</a></p>
+  </li>
+  <li><a href="https://digital-fabric.github.io/polyphony/">Polyphony - fine-grained concurrency for Ruby</a></li>
+  <li><a href="https://github.com/aidewoode/wahwah">WahWah - an audio metadata reader ruby gem</a></li>
+  <li><a href="https://github.com/anilmaurya/fast_jsonparser">FastJsonparser - Fastest Json parser for Ruby, wrapper for simdjson</a></li>
+  <li><a href="https://redis.pjam.me/">Redis in Ruby (book)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://github.com/puppeteer/puppeteer/releases/tag/v5.1.0">Puppeteer 5.1.0</a></li>
+  <li><a href="https://github.com/apptension/developer-handbook">Developer Handbook 2020</a></li>
+  <li><a href="https://www.smashingmagazine.com/2020/07/tiny-desktop-apps-tauri-vuejs/">Creating Tiny Desktop Apps With Tauri And Vue.js</a></li>
+  <li>
+    <p><a href="https://nicolodavis.com/blog/typescript-to-rust/">Moving from TypeScript to Rust / WebAssembly</a></p>
+  </li>
+  <li><a href="https://perf-track.web.app/">Perf TrackFlame - tracking framework performance at scale</a></li>
+  <li><a href="https://github.com/malinajs/malinajs">Malina.js - builds your web-application to use it without framework on frontend side</a></li>
+  <li><a href="https://github.com/rdfjs/N3.js">N3.js - lightning fast, spec-compatible, streaming RDF for JavaScript</a></li>
+  <li><a href="https://github.com/lmammino/financial">Financial - a zero-dependency TypeScript/JavaScript financial library</a></li>
+  <li><a href="https://shareon.js.org/">Shareon - Lightweight, stylish and ethical share buttons</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 13 Jul 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/07/13/podcast-08-27.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/07/13/podcast-08-27.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0827.mp3" length="40818413" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0827.mp3" fileSize="40818413" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Why is Ruby still our choice in 2020?
+  A Fast...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Why is Ruby still our choice in 2020?
+  A Fast Car Needs Good Brakes: How We Added Client Rate Throttling to the Platform API Gem
+  Running spot instances effectively with Amazon EKS
+  
+    A Ruby Developer’s Adventures in Elixir
+  
+  Polyphony - fine-grained concurrency for Ruby
+  WahWah - an audio metadata reader ruby gem
+  FastJsonparser - Fastest Json parser for Ruby, wrapper for simdjson
+  Redis in Ruby (book)
+
+
+Web
+
+
+  Puppeteer 5.1.0
+  Developer Handbook 2020
+  Creating Tiny Desktop Apps With Tauri And Vue.js
+  
+    Moving from TypeScript to Rust / WebAssembly
+  
+  Perf TrackFlame - tracking framework performance at scale
+  Malina.js - builds your web-application to use it without framework on frontend side
+  N3.js - lightning fast, spec-compatible, streaming RDF for JavaScript
+  Financial - a zero-dependency TypeScript/JavaScript financial library
+  Shareon - Lightweight, stylish and ethical share buttons
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0827.png"/>
+  <itunes:duration>00:40:00</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>RWPod Кафе 17: Bozhidar Batsov</title>
   <description>
@@ -4526,90 +4654,6 @@ Making instagram.com faster: Code size and execution optimizations (Part 4), Bui
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0746.png"/>
   <itunes:duration>00:57:08</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>45 выпуск 07 сезона. Rails 6.0.1, TypeScript 3.7, ANTLR, Prism, Skunk, FFmpeg.js, Sharp, Tenko, Proton и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://weblog.rubyonrails.org/2019/11/5/Rails-6-0-1-released/">Rails 6.0.1 released</a>, <a href="https://www.schneems.com/2019/11/07/why-does-my-apps-memory-usage-grow-asymptotically-over-time/">Why does my App’s Memory Use Grow Over Time?</a>, <a href="https://mensfeld.pl/2019/11/the-hidden-cost-of-the-ruby-2-7-dot-colon-method-reference-usage/">The hidden cost of the Ruby 2.7 dot-colon method reference usage</a> и <a href="https://blog.heroku.com/static-typing-ruby-with-sorbet">Static Typing in Ruby with a Side of Sorbet</a></li>
-  <li><a href="https://github.com/prism-rb/prism">Prism - build frontend web apps with Ruby and WebAssembly</a>, <a href="https://www.fastruby.io/blog/code-quality/intruducing-skunk-stink-score-calculator.html">Introducing Skunk: Combine Code Quality and Coverage to Calculate a Stink Score</a>, <a href="https://github.com/matt-harvey/tabulo">Tabulo - a terminal table generator for Ruby</a> и <a href="https://www.driftingruby.com/episodes/plugging-in-anycable">Plugging in AnyCable (video)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-7/">Announcing TypeScript 3.7</a>, <a href="https://ayushgp.github.io/scaling-websockets-using-sharedworkers/">Scaling WebSocket Connections using Shared Workers</a> и <a href="https://rockset.com/blog/client-side-sql-query-parsing-with-antlr/">Client-Side SQL Query Parsing with ANTLR</a></li>
-  <li><a href="https://medium.com/@jeromewus/build-ffmpeg-webassembly-version-ffmpeg-js-part-5-ffmpeg-js-v0-3-pre-js-and-live-streaming-c1498939a74c">Build FFmpeg WebAssembly version (= ffmpeg.js): Part.5 ffmpeg.js v0.3 — pre-js and live streaming</a>, <a href="https://sharp.pixelplumbing.com/en/stable/">Sharp - a high performance Node.js image processing</a>, <a href="https://github.com/pvdz/tenko">Tenko - 100% spec compliant JavaScript parser written in JavaScript</a> и <a href="http://a-jie.github.io/Proton/">Proton - a Javascript particle animation engine</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://weblog.rubyonrails.org/2019/11/5/Rails-6-0-1-released/">Rails 6.0.1 released</a>, <a href="https://www.schneems.com/2019/11/07/why-does-my-apps-memory-usage-grow-asymptotically-over-time/">Why does my App’s Memory Use Grow Over Time?</a>, <a href="https://mensfeld.pl/2019/11/the-hidden-cost-of-the-ruby-2-7-dot-colon-method-reference-usage/">The hidden cost of the Ruby 2.7 dot-colon method reference usage</a> и <a href="https://blog.heroku.com/static-typing-ruby-with-sorbet">Static Typing in Ruby with a Side of Sorbet</a></li>
-  <li><a href="https://github.com/prism-rb/prism">Prism - build frontend web apps with Ruby and WebAssembly</a>, <a href="https://www.fastruby.io/blog/code-quality/intruducing-skunk-stink-score-calculator.html">Introducing Skunk: Combine Code Quality and Coverage to Calculate a Stink Score</a>, <a href="https://github.com/matt-harvey/tabulo">Tabulo - a terminal table generator for Ruby</a> и <a href="https://www.driftingruby.com/episodes/plugging-in-anycable">Plugging in AnyCable (video)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-3-7/">Announcing TypeScript 3.7</a>, <a href="https://ayushgp.github.io/scaling-websockets-using-sharedworkers/">Scaling WebSocket Connections using Shared Workers</a> и <a href="https://rockset.com/blog/client-side-sql-query-parsing-with-antlr/">Client-Side SQL Query Parsing with ANTLR</a></li>
-  <li><a href="https://medium.com/@jeromewus/build-ffmpeg-webassembly-version-ffmpeg-js-part-5-ffmpeg-js-v0-3-pre-js-and-live-streaming-c1498939a74c">Build FFmpeg WebAssembly version (= ffmpeg.js): Part.5 ffmpeg.js v0.3 — pre-js and live streaming</a>, <a href="https://sharp.pixelplumbing.com/en/stable/">Sharp - a high performance Node.js image processing</a>, <a href="https://github.com/pvdz/tenko">Tenko - 100% spec compliant JavaScript parser written in JavaScript</a> и <a href="http://a-jie.github.io/Proton/">Proton - a Javascript particle animation engine</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 11 Nov 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/11/11/podcast-07-45.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/11/11/podcast-07-45.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0745.mp3" length="47473480" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0745.mp3" fileSize="47473480" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6.0.1 released, Why does my App’s Memory...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6.0.1 released, Why does my App’s Memory Use Grow Over Time?, The hidden cost of the Ruby 2.7 dot-colon method reference usage и Static Typing in Ruby with a Side of Sorbet
-
-  
-Prism - build frontend web apps with Ruby and WebAssembly, Introducing Skunk: Combine Code Quality and Coverage to Calculate a Stink Score, Tabulo - a terminal table generator for Ruby и Plugging in AnyCable (video)
-
-
-
-Web
-
-
-  
-Announcing TypeScript 3.7, Scaling WebSocket Connections using Shared Workers и Client-Side SQL Query Parsing with ANTLR
-
-  
-Build FFmpeg WebAssembly version (= ffmpeg.js): Part.5 ffmpeg.js v0.3 — pre-js and live streaming, Sharp - a high performance Node.js image processing, Tenko - 100% spec compliant JavaScript parser written in JavaScript и Proton - a Javascript particle animation engine
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0745.png"/>
-  <itunes:duration>00:45:52</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
