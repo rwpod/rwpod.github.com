@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 13 Jul 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 13 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,124 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>28 выпуск 08 сезона. Stimulus.js, Egis, Deimos, Puppeteer recorder, RecordRTC.js, Super Expressive, Bumblebee и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2020/07/21/rails-6-1-allows-enums-attributes-to-have-default-value.html">Rails 6.1 allows enums attributes to configure the default value</a></li>
+  <li><a href="https://blog.bigbinary.com/2020/07/14/rails-6-1-adds-support-for-where-with-comparison-operator.html">Rails 6.1 adds support for where with a comparison operator</a></li>
+  <li><a href="https://about.gitlab.com/blog/2020/07/08/migrating-to-puma-on-gitlab/">How we migrated application servers from Unicorn to Puma</a></li>
+  <li>
+    <p><a href="https://evilmartians.com/chronicles/system-of-a-test-setting-up-end-to-end-rails-testing">System of a test: Proper browser testing in Ruby on Rails</a></p>
+  </li>
+  <li><a href="https://www.honeybadger.io/blog/building-lexer-ruby/">Building a Toy Lexer in Ruby</a></li>
+  <li><a href="https://medium.com/flippengineering/introducing-deimos-using-kafka-as-the-data-backbone-for-your-architecture-205bbc248391">Introducing Deimos: Using Kafka as the Data Backbone for your Architecture</a></li>
+  <li><a href="https://github.com/u2i/egis">Egis (aegis) - a handy wrapper for AWS Athena Ruby SDK</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://www.smashingmagazine.com/2020/07/introduction-stimulusjs/">An Introduction To Stimulus.js</a></li>
+  <li><a href="https://pganalyze.com/blog/building-svg-components-in-react">Building SVG Components in React</a></li>
+  <li>
+    <p><a href="https://css-irl.info/from-gatsby-to-eleventy/">From Gatsby to Eleventy: Choosing a Static Site Generator for a Personal Site</a></p>
+  </li>
+  <li><a href="https://github.com/checkly/puppeteer-recorder">Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script</a></li>
+  <li><a href="https://recordrtc.org/">RecordRTC.js - WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording</a></li>
+  <li><a href="https://github.com/francisrstokes/super-expressive">Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language</a></li>
+  <li><a href="https://github.com/jaxcore/bumblebee">Bumblebee - a JavaScript voice application framework</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.bigbinary.com/2020/07/21/rails-6-1-allows-enums-attributes-to-have-default-value.html">Rails 6.1 allows enums attributes to configure the default value</a></li>
+  <li><a href="https://blog.bigbinary.com/2020/07/14/rails-6-1-adds-support-for-where-with-comparison-operator.html">Rails 6.1 adds support for where with a comparison operator</a></li>
+  <li><a href="https://about.gitlab.com/blog/2020/07/08/migrating-to-puma-on-gitlab/">How we migrated application servers from Unicorn to Puma</a></li>
+  <li>
+    <p><a href="https://evilmartians.com/chronicles/system-of-a-test-setting-up-end-to-end-rails-testing">System of a test: Proper browser testing in Ruby on Rails</a></p>
+  </li>
+  <li><a href="https://www.honeybadger.io/blog/building-lexer-ruby/">Building a Toy Lexer in Ruby</a></li>
+  <li><a href="https://medium.com/flippengineering/introducing-deimos-using-kafka-as-the-data-backbone-for-your-architecture-205bbc248391">Introducing Deimos: Using Kafka as the Data Backbone for your Architecture</a></li>
+  <li><a href="https://github.com/u2i/egis">Egis (aegis) - a handy wrapper for AWS Athena Ruby SDK</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://www.smashingmagazine.com/2020/07/introduction-stimulusjs/">An Introduction To Stimulus.js</a></li>
+  <li><a href="https://pganalyze.com/blog/building-svg-components-in-react">Building SVG Components in React</a></li>
+  <li>
+    <p><a href="https://css-irl.info/from-gatsby-to-eleventy/">From Gatsby to Eleventy: Choosing a Static Site Generator for a Personal Site</a></p>
+  </li>
+  <li><a href="https://github.com/checkly/puppeteer-recorder">Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script</a></li>
+  <li><a href="https://recordrtc.org/">RecordRTC.js - WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording</a></li>
+  <li><a href="https://github.com/francisrstokes/super-expressive">Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language</a></li>
+  <li><a href="https://github.com/jaxcore/bumblebee">Bumblebee - a JavaScript voice application framework</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Tue, 21 Jul 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/07/21/podcast-08-28.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/07/21/podcast-08-28.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0828.mp3" length="45414472" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0828.mp3" fileSize="45414472" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6.1 allows enums attributes to configure...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Rails 6.1 allows enums attributes to configure the default value
+  Rails 6.1 adds support for where with a comparison operator
+  How we migrated application servers from Unicorn to Puma
+  
+    System of a test: Proper browser testing in Ruby on Rails
+  
+  Building a Toy Lexer in Ruby
+  Introducing Deimos: Using Kafka as the Data Backbone for your Architecture
+  Egis (aegis) - a handy wrapper for AWS Athena Ruby SDK
+
+
+Web
+
+
+  An Introduction To Stimulus.js
+  Building SVG Components in React
+  
+    From Gatsby to Eleventy: Choosing a Static Site Generator for a Personal Site
+  
+  Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script
+  RecordRTC.js - WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording
+  Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language
+  Bumblebee - a JavaScript voice application framework
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0828.png"/>
+  <itunes:duration>00:44:15</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>27 выпуск 08 сезона. Developer Handbook 2020, Polyphony, WahWah, Perf TrackFlame, Malina.js, N3.js, Shareon и прочее</title>
   <description>
@@ -4570,90 +4688,6 @@ Postwoman - API request builder, GraphQuill - a VS Code extension that performs 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0747.png"/>
   <itunes:duration>00:45:08</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>46 выпуск 07 сезона. Bytecode Alliance, Scalable Concurrency, Front-End Tooling Survey 2019, Top-level await, Ky и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/11/12/rails-6-adds-purpose-metadata-to-cookies">Rails 6 adds Purpose Metadata to Cookies</a>, <a href="https://eregon.me/blog/2019/11/10/the-delegation-challenge-of-ruby27.html">The Delegation Challenge of Ruby 2.7</a> и <a href="https://medium.com/better-programming/scalable-concurrency-meet-non-blocking-i-o-edb6b39c59d7">Scalable Concurrency — Meet Non-Blocking I/O</a></li>
-  <li><a href="https://blog.saeloun.com/2019/11/12/attachments-in-action-text-rails-6">Handling attachments in Action Text in Rails 6</a>, <a href="https://www.fastruby.io/blog/rails/simplecov/upgrades/merging-multiple-simpleCov-coverage-results.html">Merging Multiple SimpleCov Coverage Results</a> и <a href="https://github.com/fnix/activestorage-resumable">Active Storage Resumable allow you to continue an upload even after a browser restart</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/">Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly</a>, <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results">The Front-End Tooling Survey 2019 - Results</a>, <a href="https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502">How Discord achieves native iOS performance with React Native</a> и <a href="https://v8.dev/features/top-level-await">Top-level await</a></li>
-  <li><a href="https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8">Making instagram.com faster: Code size and execution optimizations (Part 4)</a>, <a href="https://pomb.us/build-your-own-react/">Build your own React</a>, <a href="https://github.com/doodlewind/react-ssd1306/blob/master/docs/tutorial.md">Render React to Embedded LCD</a> и <a href="https://github.com/sindresorhus/ky">Ky is a tiny and elegant HTTP client based on the browser Fetch API</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/11/12/rails-6-adds-purpose-metadata-to-cookies">Rails 6 adds Purpose Metadata to Cookies</a>, <a href="https://eregon.me/blog/2019/11/10/the-delegation-challenge-of-ruby27.html">The Delegation Challenge of Ruby 2.7</a> и <a href="https://medium.com/better-programming/scalable-concurrency-meet-non-blocking-i-o-edb6b39c59d7">Scalable Concurrency — Meet Non-Blocking I/O</a></li>
-  <li><a href="https://blog.saeloun.com/2019/11/12/attachments-in-action-text-rails-6">Handling attachments in Action Text in Rails 6</a>, <a href="https://www.fastruby.io/blog/rails/simplecov/upgrades/merging-multiple-simpleCov-coverage-results.html">Merging Multiple SimpleCov Coverage Results</a> и <a href="https://github.com/fnix/activestorage-resumable">Active Storage Resumable allow you to continue an upload even after a browser restart</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://hacks.mozilla.org/2019/11/announcing-the-bytecode-alliance/">Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly</a>, <a href="https://ashleynolan.co.uk/blog/frontend-tooling-survey-2019-results">The Front-End Tooling Survey 2019 - Results</a>, <a href="https://blog.discordapp.com/how-discord-achieves-native-ios-performance-with-react-native-390c84dcd502">How Discord achieves native iOS performance with React Native</a> и <a href="https://v8.dev/features/top-level-await">Top-level await</a></li>
-  <li><a href="https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8">Making instagram.com faster: Code size and execution optimizations (Part 4)</a>, <a href="https://pomb.us/build-your-own-react/">Build your own React</a>, <a href="https://github.com/doodlewind/react-ssd1306/blob/master/docs/tutorial.md">Render React to Embedded LCD</a> и <a href="https://github.com/sindresorhus/ky">Ky is a tiny and elegant HTTP client based on the browser Fetch API</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 18 Nov 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/11/18/podcast-07-46.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/11/18/podcast-07-46.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0746.mp3" length="58985968" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0746.mp3" fileSize="58985968" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Rails 6 adds Purpose Metadata to Cookies, The ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Rails 6 adds Purpose Metadata to Cookies, The Delegation Challenge of Ruby 2.7 и Scalable Concurrency — Meet Non-Blocking I/O
-
-  
-Handling attachments in Action Text in Rails 6, Merging Multiple SimpleCov Coverage Results и Active Storage Resumable allow you to continue an upload even after a browser restart
-
-
-
-Web
-
-
-  
-Announcing the Bytecode Alliance: Building a secure by default, composable future for WebAssembly, The Front-End Tooling Survey 2019 - Results, How Discord achieves native iOS performance with React Native и Top-level await
-
-  
-Making instagram.com faster: Code size and execution optimizations (Part 4), Build your own React, Render React to Embedded LCD и Ky is a tiny and elegant HTTP client based on the browser Fetch API
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0746.png"/>
-  <itunes:duration>00:57:08</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
