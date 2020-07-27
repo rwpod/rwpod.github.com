@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 21 Jul 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 21 Jul 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,118 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>29 выпуск 08 сезона. 2021 Fukuoka Ruby Award Competition, GoodJob, Rollout::UI, Futurism, React Guitar и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2020/07/16/fukuoka-ruby-award-2021/">2021 Fukuoka Ruby Award Competition - Entries to be judged by Matz</a></li>
+  <li><a href="https://lucaguidi.com/2020/07/22/ruby-method-overloading/">Ruby Method Overloading</a></li>
+  <li>
+    <p><a href="https://marouenbousnina.com/tutorials/2020-07-20-to-call-or-not-to-callback/">To Call or not to Callback</a></p>
+  </li>
+  <li><a href="https://island94.org/2020/07/introducing-goodjob-1-0">Introducing GoodJob 1.0, a new Postgres-based, multithreaded, ActiveJob backend for Ruby on Rails</a></li>
+  <li><a href="https://github.com/fetlife/rollout-ui">Rollout::UI - minimalist UI for Rollout</a></li>
+  <li><a href="https://github.com/julianrubisch/futurism">Futurism - Lazy-load Rails partials via CableReady</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://dev.to/hemanth/stage-4-features-5a26">JavaScript: Latest Stage-4 features</a></li>
+  <li><a href="https://ui.dev/webpack/">Webpack: A gentle introduction</a></li>
+  <li>
+    <p><a href="https://svelte.dev/blog/svelte-and-typescript">Svelte &lt;3 TypeScript</a></p>
+  </li>
+  <li><a href="https://fabdevgit.github.io/barchartrace/">Bar chart race generator</a></li>
+  <li><a href="https://react-guitar.com/">React Guitar - a beautiful and flexible guitar component for React</a></li>
+  <li><a href="https://3d-book-css.netlify.app/">3D Book Image CSS Generator</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://www.ruby-lang.org/en/news/2020/07/16/fukuoka-ruby-award-2021/">2021 Fukuoka Ruby Award Competition - Entries to be judged by Matz</a></li>
+  <li><a href="https://lucaguidi.com/2020/07/22/ruby-method-overloading/">Ruby Method Overloading</a></li>
+  <li>
+    <p><a href="https://marouenbousnina.com/tutorials/2020-07-20-to-call-or-not-to-callback/">To Call or not to Callback</a></p>
+  </li>
+  <li><a href="https://island94.org/2020/07/introducing-goodjob-1-0">Introducing GoodJob 1.0, a new Postgres-based, multithreaded, ActiveJob backend for Ruby on Rails</a></li>
+  <li><a href="https://github.com/fetlife/rollout-ui">Rollout::UI - minimalist UI for Rollout</a></li>
+  <li><a href="https://github.com/julianrubisch/futurism">Futurism - Lazy-load Rails partials via CableReady</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://dev.to/hemanth/stage-4-features-5a26">JavaScript: Latest Stage-4 features</a></li>
+  <li><a href="https://ui.dev/webpack/">Webpack: A gentle introduction</a></li>
+  <li>
+    <p><a href="https://svelte.dev/blog/svelte-and-typescript">Svelte &lt;3 TypeScript</a></p>
+  </li>
+  <li><a href="https://fabdevgit.github.io/barchartrace/">Bar chart race generator</a></li>
+  <li><a href="https://react-guitar.com/">React Guitar - a beautiful and flexible guitar component for React</a></li>
+  <li><a href="https://3d-book-css.netlify.app/">3D Book Image CSS Generator</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 27 Jul 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/07/27/podcast-08-29.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/07/27/podcast-08-29.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0829.mp3" length="33177000" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0829.mp3" fileSize="33177000" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  2021 Fukuoka Ruby Award Competition - Entries ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  2021 Fukuoka Ruby Award Competition - Entries to be judged by Matz
+  Ruby Method Overloading
+  
+    To Call or not to Callback
+  
+  Introducing GoodJob 1.0, a new Postgres-based, multithreaded, ActiveJob backend for Ruby on Rails
+  Rollout::UI - minimalist UI for Rollout
+  Futurism - Lazy-load Rails partials via CableReady
+
+
+Web
+
+
+  JavaScript: Latest Stage-4 features
+  Webpack: A gentle introduction
+  
+    Svelte &lt;3 TypeScript
+  
+  Bar chart race generator
+  React Guitar - a beautiful and flexible guitar component for React
+  3D Book Image CSS Generator
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0829.png"/>
+  <itunes:duration>00:32:24</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>28 выпуск 08 сезона. Stimulus.js, Egis, Deimos, Puppeteer recorder, RecordRTC.js, Super Expressive, Bumblebee и прочее</title>
   <description>
@@ -4604,90 +4716,6 @@ Scaling SVG Elements, Redux Style Guide, NeatJS - a JavaScript implementation of
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0748.png"/>
   <itunes:duration>00:47:08</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>47 выпуск 07 сезона. 10 New Things in Active Record, Ruby Next, Postwoman, Chatwoot, GraphQuill, SiriwaveJS и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://hint.io/blog/10-New-Things-in-Active-Record">10 New Things in Active Record</a>, <a href="https://evilmartians.com/chronicles/pulling-the-trigger-how-to-update-counter-caches-in-you-rails-app-without-active-record-callbacks">Pulling the trigger: How to update counter caches in your Rails app without Active Record callbacks</a> и <a href="https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams">Similarity in Postgres and Rails using Trigrams</a></li>
-  <li><a href="https://github.com/chatwoot/chatwoot">Chatwoot - a simple and elegant live chat software</a>, <a href="https://github.com/ruby-next/ruby-next">Ruby Next - makes modern Ruby code run in older versions and alternative implementations</a> и <a href="https://gorails.com/episodes/testing-times-and-dates-with-rails">Testing Times &amp; Dates with Rails (video)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663">Announcing core Node.js support for ECMAScript modules</a>, <a href="https://medium.com/@lakatos/30-tips-tricks-with-the-firefox-developer-tools-2e3f2ca5bc61">30 Tips &amp; Tricks with the Firefox Developer Tools</a> и <a href="https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-svelte-here-are-the-differences-c0bd2cc9b3f8">I created the exact same app in React and Svelte. Here are the differences</a></li>
-  <li><a href="https://github.com/liyasthomas/postwoman">Postwoman - API request builder</a>, <a href="https://github.com/oslabs-beta/GraphQuill">GraphQuill - a VS Code extension that performs GraphQL API endpoint testing</a>, <a href="http://kopiro.github.io/siriwave/">SiriwaveJS - The Apple Siri wave-form replicated in a JS library</a>, <a href="https://github.com/penge/my-notes">My Notes - Chrome Extension that turns your “New Tab” into a note taking tool</a> и <a href="https://www.youtube.com/watch?v=ff4fgQxPaO0">Faster apps with JSON.parse (Chrome Dev Summit 2019)</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://hint.io/blog/10-New-Things-in-Active-Record">10 New Things in Active Record</a>, <a href="https://evilmartians.com/chronicles/pulling-the-trigger-how-to-update-counter-caches-in-you-rails-app-without-active-record-callbacks">Pulling the trigger: How to update counter caches in your Rails app without Active Record callbacks</a> и <a href="https://pganalyze.com/blog/similarity-in-postgres-and-ruby-on-rails-using-trigrams">Similarity in Postgres and Rails using Trigrams</a></li>
-  <li><a href="https://github.com/chatwoot/chatwoot">Chatwoot - a simple and elegant live chat software</a>, <a href="https://github.com/ruby-next/ruby-next">Ruby Next - makes modern Ruby code run in older versions and alternative implementations</a> и <a href="https://gorails.com/episodes/testing-times-and-dates-with-rails">Testing Times &amp; Dates with Rails (video)</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://medium.com/@nodejs/announcing-core-node-js-support-for-ecmascript-modules-c5d6dc29b663">Announcing core Node.js support for ECMAScript modules</a>, <a href="https://medium.com/@lakatos/30-tips-tricks-with-the-firefox-developer-tools-2e3f2ca5bc61">30 Tips &amp; Tricks with the Firefox Developer Tools</a> и <a href="https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-svelte-here-are-the-differences-c0bd2cc9b3f8">I created the exact same app in React and Svelte. Here are the differences</a></li>
-  <li><a href="https://github.com/liyasthomas/postwoman">Postwoman - API request builder</a>, <a href="https://github.com/oslabs-beta/GraphQuill">GraphQuill - a VS Code extension that performs GraphQL API endpoint testing</a>, <a href="http://kopiro.github.io/siriwave/">SiriwaveJS - The Apple Siri wave-form replicated in a JS library</a>, <a href="https://github.com/penge/my-notes">My Notes - Chrome Extension that turns your “New Tab” into a note taking tool</a> и <a href="https://www.youtube.com/watch?v=ff4fgQxPaO0">Faster apps with JSON.parse (Chrome Dev Summit 2019)</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 25 Nov 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/11/25/podcast-07-47.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/11/25/podcast-07-47.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0747.mp3" length="46444322" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0747.mp3" fileSize="46444322" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  10 New Things in Active Record, Pulling the tr...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-10 New Things in Active Record, Pulling the trigger: How to update counter caches in your Rails app without Active Record callbacks и Similarity in Postgres and Rails using Trigrams
-
-  
-Chatwoot - a simple and elegant live chat software, Ruby Next - makes modern Ruby code run in older versions and alternative implementations и Testing Times &amp; Dates with Rails (video)
-
-
-
-Web
-
-
-  
-Announcing core Node.js support for ECMAScript modules, 30 Tips &amp; Tricks with the Firefox Developer Tools и I created the exact same app in React and Svelte. Here are the differences
-
-  
-Postwoman - API request builder, GraphQuill - a VS Code extension that performs GraphQL API endpoint testing, SiriwaveJS - The Apple Siri wave-form replicated in a JS library, My Notes - Chrome Extension that turns your “New Tab” into a note taking tool и Faster apps with JSON.parse (Chrome Dev Summit 2019)
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0747.png"/>
-  <itunes:duration>00:45:08</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
