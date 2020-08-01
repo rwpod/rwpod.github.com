@@ -7,7 +7,7 @@
 	<xsl:template match="/">
 		<html xmlns="http://www.w3.org/1999/xhtml">
 			<head>
-				<title>{{ .Site.Data.helpers.default.title }}</title>
+				<title>{{ .Site.Params.default.title }}</title>
 				<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 				<style type="text/css">
 					body {
@@ -61,10 +61,10 @@
 				</style>
 			</head>
 			<body>
-				<h1>{{ .Site.Data.helpers.default.title }}</h1>
+				<h1>{{ .Site.Params.default.title }}</h1>
 				<div id="intro">
-          <img title="{{ .Site.Data.helpers.default.title }}" alt="{{ .Site.Data.helpers.default.title }}" src="/images/logo200.png" />
-					<p>{{ .Site.Data.helpers.default.long_description }}</p>
+          <img title="{{ .Site.Params.default.title }}" alt="{{ .Site.Params.default.title }}" src="/images/logo200.png" />
+					<p>{{ .Site.Params.default.long_description }}</p>
 				</div>
 				<div id="content">
 					<table cellpadding="5">
@@ -103,7 +103,7 @@
 					</table>
 				</div>
 				<div id="footer">
-					{{ .Site.Data.helpers.default.footer_copyright }}
+					{{ .Site.Params.default.footer_copyright }}
 				</div>
 			</body>
 		</html>

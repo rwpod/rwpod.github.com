@@ -1,15 +1,35 @@
 baseURL = "https://www.rwpod.com/"
 languageCode = "ru-ru"
 title = "RWpod"
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License"
 staticDir = ["static"]
+
+paginate = 10
+paginatePath = "page"
 
 enableRobotsTXT = true
 uglyurls = true
 
 [permalinks]
-  posts = "/:year/:month/:day/:filename/"
+  posts = "/posts/:year/:month/:day/:filename/"
+  pages = "/:filename/"
 
 [sitemap]
   changefreq = "weekly"
   filename = "sitemap.xml"
   priority = 0.6
+
+[params]
+  itune_url = "https://itunes.apple.com/ru/podcast/rwpod-podkast-pro-mir-ruby/id597248066"
+
+  [params.default]
+    title = "RWpod - подкаст про мир Ruby и Web технологии"
+    keywords = "RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование"
+    description = "RWpod - подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле)."
+    long_description = "RWpod - подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле)."
+    main_description = "Подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле)."
+    footer_copyright = "Copyright RWpod."
+    author = "RWpod команда"
+    email = "rwpod.com@gmail.com"
+
+
