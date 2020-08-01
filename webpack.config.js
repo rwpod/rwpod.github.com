@@ -7,8 +7,7 @@ const TerserPlugin = require('terser-webpack-plugin');
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 const ManifestPlugin = require('webpack-manifest-plugin');
 
-const packageJSON = require('./package.json');
-const browserList = packageJSON.babel.presets[0][1].targets.browsers;
+const browserList = require('./browserslist.config');
 
 // set NODE_ENV=production on the environment to add asset fingerprints
 const currentEnv = process.env.NODE_ENV || 'development';
@@ -98,7 +97,7 @@ const config = {
     // that all webpacked assets start with webpack/
 
     // must match config.webpack.output_dir
-    path: path.join(__dirname, '.tmp', 'dist'),
+    path: path.join(__dirname, 'public', 'assets'),
     publicPath: '/',
     filename: isProduction ? '[name]-[chunkhash].js' : '[name].js'
   },
@@ -106,7 +105,7 @@ const config = {
   resolve: {
     modules: [
       path.join(__dirname, 'webpack'),
-      path.join(__dirname, 'source/images'),
+      path.join(__dirname, 'static/images'),
       path.join(__dirname, 'node_modules')
     ],
     extensions: ['.js', '.jsx', '.json']

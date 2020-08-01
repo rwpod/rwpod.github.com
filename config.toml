@@ -1,0 +1,15 @@
+baseURL = "https://www.rwpod.com/"
+languageCode = "ru-ru"
+title = "RWpod"
+staticDir = ["static"]
+
+enableRobotsTXT = true
+uglyurls = true
+
+[permalinks]
+  posts = "/:year/:month/:day/:filename/"
+
+[sitemap]
+  changefreq = "weekly"
+  filename = "sitemap.xml"
+  priority = 0.6

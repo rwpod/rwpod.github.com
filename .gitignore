@@ -9,6 +9,7 @@
 
 # Ignore the build directory
 /build
+/public
 
 # Ignore Sass' cache
 /.sass-cache
@@ -16,5 +17,6 @@
 .DS_Store
 .cache
 .tmp/
-node_modules/
+/node_modules/
 yarn-error.log
+

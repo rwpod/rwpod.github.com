@@ -1,0 +1,20 @@
+{{ printf "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"yes\" ?>" | safeHTML }}
+{{- with $style := resources.Get "xsl/sitemap.xsl" | resources.ExecuteAsTemplate "xsl/sitemap.xsl" . }}
+{{ printf "<?xml-stylesheet href=\"%s\" type=\"text/xsl\" ?>" $style.RelPermalink | safeHTML }}
+{{- end }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {{- range first 50000 ((where .Data.Pages.ByDate "Lastmod.IsZero" false).Reverse) }}
+  {{- if not .Params.robotsdisallow }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <lastmod>{{ safeHTML ( .Lastmod.Format "2006-01-02T15:04:05-07:00" ) }}</lastmod>
+    {{- with .Sitemap.ChangeFreq }}
+    <changefreq>{{ . }}</changefreq>
+    {{- end }}
+    {{- if ge .Sitemap.Priority 0.0 }}
+    <priority>{{ .Sitemap.Priority }}</priority>
+    {{- end }}
+  </url>
+  {{- end }}
+  {{- end }}
+</urlset>

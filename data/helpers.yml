@@ -1,0 +1,11 @@
+default:
+  title: "RWpod - подкаст про мир Ruby и Web технологии"
+  keywords: "RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование"
+  description: "RWpod - подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле)."
+  long_description: "RWpod - подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле)."
+  main_description: "Подкаст про мир Ruby и Web технологии (для тех, кому нравится мыслить в Ruby стиле)."
+  footer_copyright: "Copyright RWpod."
+  author: "RWpod команда"
+  email: "rwpod.com@gmail.com"
+
+itune_url: "https://itunes.apple.com/ru/podcast/rwpod-podkast-pro-mir-ruby/id597248066"
