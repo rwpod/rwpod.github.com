@@ -10,23 +10,22 @@
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
 
+  <link rel="canonical" href="{{ .Permalink }}" />
+  <link href="/rss" rel="alternate" title="{{ .Site.Params.default.title }}" type="application/rss+xml" />
+
+  {{ partial "favicons.html" . }}
   {{ partial "favicons.html" . }}
   {{ partial "head.html" . }}
   {{ block "head" . }}{{ end }}
 </head>
-
 <body>
   <div class="wrapper">
     {{ partial "header.html" . }}
     <div class="body">
-      {{ block "main" . }}
-        <!-- The part of the page that begins to differ between templates -->
-      {{ end }}
+      {{ block "main" . }}{{ end }}
     </div>
   </div>
-
   {{ partial "footer.html" . }}
   {{ partial "svg/svg_sprite_icons.html" . }}
 </body>
-
 </html>

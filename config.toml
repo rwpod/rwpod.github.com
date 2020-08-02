@@ -29,6 +29,9 @@ disqusShortname = "rwpod"
     keepQuotes = false
     keepWhitespace = false
 
+  [minify.tdewolff.xml]
+    keepWhitespace = false
+
 [permalinks]
   posts = "/posts/:year/:month/:day/:filename/"
   pages = "/:filename/"
@@ -40,6 +43,7 @@ disqusShortname = "rwpod"
 
 [params]
   itune_url = "https://itunes.apple.com/ru/podcast/rwpod-podkast-pro-mir-ruby/id597248066"
+  screencasts_url = "https://www.youtube.com/rwpod"
 
   [params.default]
     title = "RWpod - подкаст про мир Ruby и Web технологии"
