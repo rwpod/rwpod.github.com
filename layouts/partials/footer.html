@@ -1,0 +1,13 @@
+<footer class="footer">
+  <div class="container row pam">
+    <div class="col1of2">&copy;{{- .Site.Params.default.footer_copyright -}}&nbsp;
+      <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <img alt="{{ .Site.Copyright }}" style="border-width:0"
+          src="https://licensebuttons.net/l/by-nc-nd/4.0/80x15.png" width="80" height="15" />
+      </a>
+    </div>
+    <div class="col1of2">
+      {{- partial "footer/links.html" . -}}
+    </div>
+  </div>
+</footer>

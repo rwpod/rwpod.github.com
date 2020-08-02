@@ -1,0 +1,24 @@
+<div class="left-side">
+  <a href="#" class="menu-toggle" aria-label="Toggle mobile menu link">
+    {{ partial "svg/svg_icon.html" (dict "context" . "icon" "menu") }}
+  </a>
+  <ul class="navigation">
+    <li class="name{{- if eq .RelPermalink "/" }} active{{- end}}">
+      <a href="/">Главная</a>
+    </li>
+    <li class="name{{- if eq .RelPermalink (relref . "pages/about.html") }} active{{- end}}">
+      <a href="{{ relref . "pages/about.html" }}">О нас</a>
+    </li>
+    <!-- Remove the class "menu-icon" to get rid of menu icon. Take out "Menu" to just have icon alone -->
+  </ul>
+</div>
+<div class="right-side">
+  <ul class="navigation">
+    <li class="{{- if eq .RelPermalink "/podcasts" }} active{{- end}}">
+      <a href="/">Подкасты</a>
+    </li>
+    <li>
+      <a href="https://www.youtube.com/rwpod">Скринкасты</a>
+    </li>
+  </ul>
+</div>

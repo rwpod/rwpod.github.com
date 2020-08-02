@@ -1,0 +1,12 @@
+{{ $manifestFile := "static/assets/assets-manifest.json" }}
+
+{{- if (fileExists $manifestFile) -}}
+{{ $assets := getJSON $manifestFile }}
+
+{{- if .IsNamedParams }}
+  {{ index $assets (.Get "name") }}
+{{- else }}
+  {{ index $assets (.Get 0) }}
+{{- end }}
+
+{{- end }}

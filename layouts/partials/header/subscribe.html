@@ -1,0 +1,19 @@
+<div class="subscribe">
+  <div class="subscribe-first"></div>
+  <div class="subscribe-left">
+    <a href="{{ .Site.Params.itune_url}}" class="link" title="itunes" aria-label="Subscribe by itunes">
+      {{- partial "svg/svg_icon.html" (dict "context" . "icon" "apple") -}}
+    </a>
+    <a href="/rss" class="link" title="rss" aria-label="Subscribe by rss">
+      {{- partial "svg/svg_icon.html" (dict "context" . "icon" "rss") -}}
+    </a>
+  </div>
+  <div class="subscribe-right">
+    <a href="https://twitter.com/rwpod" class="link" title="twitter" aria-label="Follow us at twitter">
+      {{- partial "svg/svg_icon.html" (dict "context" . "icon" "twitter") -}}
+    </a>
+    <a href="http://www.facebook.com/rwpod" class="link" title="facebook" aria-label="Follow us at facebook">
+      {{- partial "svg/svg_icon.html" (dict "context" . "icon" "facebook") -}}
+    </a>
+  </div>
+</div>

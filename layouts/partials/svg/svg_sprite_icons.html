@@ -1,0 +1,5 @@
+{{ $svgSpritesFile := "static/svg/sprite.svg" }}
+
+{{- if (fileExists $svgSpritesFile) -}}
+{{ readFile $svgSpritesFile | safeHTML }}
+{{- end }}

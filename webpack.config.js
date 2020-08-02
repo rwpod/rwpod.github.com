@@ -93,12 +93,12 @@ const config = {
   },
 
   output: {
-    // Build assets directly in to public/webpack/, let webpack know
+    // Build assets directly in to static/assets/, let webpack know
     // that all webpacked assets start with webpack/
 
     // must match config.webpack.output_dir
-    path: path.join(__dirname, 'public', 'assets'),
-    publicPath: '/',
+    path: path.join(__dirname, 'static', 'assets'),
+    publicPath: '/assets/',
     filename: isProduction ? '[name]-[chunkhash].js' : '[name].js'
   },
 

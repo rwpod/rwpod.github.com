@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:fb="http://ogp.me/ns/fb#">
+<head>
+  <meta charset="utf-8" />
+  <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+  <title></title>
+  <meta name="keywords" content="{{ .Site.Params.default.keywords }}">
+  <meta name="description" content="{{ .Site.Params.default.description }}">
+  <link type="text/plain" rel="author" href="/humans.txt" />
+  <!-- Set the viewport width to device width for mobile -->
+  <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1" />
+
+  {{ partial "favicons.html" . }}
+  {{ partial "head.html" . }}
+  {{ block "head" . }}{{ end }}
+</head>
+
+<body>
+  <div class="wrapper">
+    {{ partial "header.html" . }}
+    <div class="body">
+      {{ block "main" . }}
+        <!-- The part of the page that begins to differ between templates -->
+      {{ end }}
+    </div>
+  </div>
+
+  {{ partial "footer.html" . }}
+  {{ partial "svg/svg_sprite_icons.html" . }}
+</body>
+
+</html>

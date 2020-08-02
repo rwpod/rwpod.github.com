@@ -1,0 +1,11 @@
+{{ $manifestFile := "static/assets/assets-manifest.json" }}
+
+{{- if (fileExists $manifestFile) -}}
+{{ $assets := getJSON $manifestFile }}
+<!-- preloads -->
+<link rel="preload" href="{{ index $assets "app.js" }}" as="script" />
+<link rel="preload" href="/images/logo.svg" as="image" />
+
+<link href="{{ index $assets "app.css" }}" rel="stylesheet" media="all" />
+<script src="{{ index $assets "app.js" }}" defer="defer" async="async" data-turbolinks-track="true"></script>
+{{- end }}

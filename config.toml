@@ -10,6 +10,25 @@ paginatePath = "page"
 enableRobotsTXT = true
 uglyurls = true
 
+disqusShortname = "rwpod"
+
+[minify]
+  minifyOutput = true
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+
+  [minify.tdewolff.html]
+    keepConditionalComments = true
+    keepDefaultAttrVals = true
+    keepDocumentTags = true
+    keepEndTags = true
+    keepQuotes = false
+    keepWhitespace = false
+
 [permalinks]
   posts = "/posts/:year/:month/:day/:filename/"
   pages = "/:filename/"
@@ -31,5 +50,6 @@ uglyurls = true
     footer_copyright = "Copyright RWpod."
     author = "RWpod команда"
     email = "rwpod.com@gmail.com"
+    email_hex = "%72%77%70%6f%64.%63%6f%6d@%67%6d%61%69%6c.%63%6f%6d"
 
 
