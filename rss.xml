@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 04 Aug 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 04 Aug 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,127 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>31 выпуск 08 сезона. How to Test Ruby Code That Depends on External APIs, 1Keys, Noticed, Ancestry, Fast, Hopi и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/08/03/ruby-3.0-change_of_behaviour-for-procs-auto-splatting">Ruby 3.0 - Procs accepting a single rest argument and keyword arguments are no longer subject to autosplatting</a></li>
+  <li><a href="https://blog.bigbinary.com/2020/08/04/rails-6-1-automatically-generates-abstract-class-when-using-multiple-databases.html">Rails 6.1 automatically generates an abstract class when using multiple databases</a></li>
+  <li><a href="https://blog.bigbinary.com/2020/08/04/rails-6-1-deprecates-the-use-of-return-break-or-throw-to-exit-a-transaction-block.html">Rails 6.1 deprecates the use of return, break or throw to exit a transaction block</a></li>
+  <li><a href="https://www.honeybadger.io/blog/ruby-external-api-test/">How to Test Ruby Code That Depends on External APIs</a></li>
+  <li>
+    <p><a href="https://blog.saeloun.com/2020/08/04/how-to-investigate-your-build-size-in-webpack">How to investigate your build size in Webpack</a></p>
+  </li>
+  <li><a href="https://idiosyncratic-ruby.com/68-assignments-in-style.html">Assignments In-Style</a></li>
+  <li><a href="https://github.com/excid3/noticed">Noticed - Notifications for your Ruby on Rails app</a></li>
+  <li><a href="https://github.com/stefankroes/ancestry">Ancestry - a gem that allows the records of a Ruby on Rails ActiveRecord model to be organised as a tree structure</a></li>
+  <li><a href="https://github.com/delonnewman/invokable">Invokable - Objects are functions! Treat any Object, Classes, Hashes, Arrays, and Sets as Procs (like Enumerable but for Procs)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://frankforce.com/?p=7617#pianostory">1Keys – How I Made a Piano in only 1kb of JavaScript</a></li>
+  <li><a href="https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/">Announcing the new TypeScript Website</a></li>
+  <li>
+    <p><a href="https://dev.to/lloyds-digital/comparing-reactivity-models-react-vs-vue-vs-svelte-vs-mobx-vs-solid-29m8">Comparing reactivity models - React vs Vue vs Svelte vs MobX vs Solid vs Redux</a></p>
+  </li>
+  <li><a href="https://www.vinaybhinde.in/2020/08/a-curious-case-of-content-security-policy-csp/">Curious case of Content Security Policy (CSP)</a></li>
+  <li><a href="https://www.fast.design/">Fast - the adaptive interface system for modern web experiences</a></li>
+  <li><a href="https://github.com/itajaja/hopi">Hopi - python-in-node interop</a></li>
+</ul>
+
+<p></p>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
+
+<h2 id="ruby">Ruby</h2>
+
+<ul>
+  <li><a href="https://blog.saeloun.com/2020/08/03/ruby-3.0-change_of_behaviour-for-procs-auto-splatting">Ruby 3.0 - Procs accepting a single rest argument and keyword arguments are no longer subject to autosplatting</a></li>
+  <li><a href="https://blog.bigbinary.com/2020/08/04/rails-6-1-automatically-generates-abstract-class-when-using-multiple-databases.html">Rails 6.1 automatically generates an abstract class when using multiple databases</a></li>
+  <li><a href="https://blog.bigbinary.com/2020/08/04/rails-6-1-deprecates-the-use-of-return-break-or-throw-to-exit-a-transaction-block.html">Rails 6.1 deprecates the use of return, break or throw to exit a transaction block</a></li>
+  <li><a href="https://www.honeybadger.io/blog/ruby-external-api-test/">How to Test Ruby Code That Depends on External APIs</a></li>
+  <li>
+    <p><a href="https://blog.saeloun.com/2020/08/04/how-to-investigate-your-build-size-in-webpack">How to investigate your build size in Webpack</a></p>
+  </li>
+  <li><a href="https://idiosyncratic-ruby.com/68-assignments-in-style.html">Assignments In-Style</a></li>
+  <li><a href="https://github.com/excid3/noticed">Noticed - Notifications for your Ruby on Rails app</a></li>
+  <li><a href="https://github.com/stefankroes/ancestry">Ancestry - a gem that allows the records of a Ruby on Rails ActiveRecord model to be organised as a tree structure</a></li>
+  <li><a href="https://github.com/delonnewman/invokable">Invokable - Objects are functions! Treat any Object, Classes, Hashes, Arrays, and Sets as Procs (like Enumerable but for Procs)</a></li>
+</ul>
+
+<h2 id="web">Web</h2>
+
+<ul>
+  <li><a href="https://frankforce.com/?p=7617#pianostory">1Keys – How I Made a Piano in only 1kb of JavaScript</a></li>
+  <li><a href="https://devblogs.microsoft.com/typescript/announcing-the-new-typescript-website/">Announcing the new TypeScript Website</a></li>
+  <li>
+    <p><a href="https://dev.to/lloyds-digital/comparing-reactivity-models-react-vs-vue-vs-svelte-vs-mobx-vs-solid-29m8">Comparing reactivity models - React vs Vue vs Svelte vs MobX vs Solid vs Redux</a></p>
+  </li>
+  <li><a href="https://www.vinaybhinde.in/2020/08/a-curious-case-of-content-security-policy-csp/">Curious case of Content Security Policy (CSP)</a></li>
+  <li><a href="https://www.fast.design/">Fast - the adaptive interface system for modern web experiences</a></li>
+  <li><a href="https://github.com/itajaja/hopi">Hopi - python-in-node interop</a></li>
+</ul>
+
+<p></p>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 10 Aug 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/08/10/podcast-08-31.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/08/10/podcast-08-31.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0831.mp3" length="54869708" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0831.mp3" fileSize="54869708" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 3.0 - Procs accepting a single rest argum...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
+
+Ruby
+
+
+  Ruby 3.0 - Procs accepting a single rest argument and keyword arguments are no longer subject to autosplatting
+  Rails 6.1 automatically generates an abstract class when using multiple databases
+  Rails 6.1 deprecates the use of return, break or throw to exit a transaction block
+  How to Test Ruby Code That Depends on External APIs
+  
+    How to investigate your build size in Webpack
+  
+  Assignments In-Style
+  Noticed - Notifications for your Ruby on Rails app
+  Ancestry - a gem that allows the records of a Ruby on Rails ActiveRecord model to be organised as a tree structure
+  Invokable - Objects are functions! Treat any Object, Classes, Hashes, Arrays, and Sets as Procs (like Enumerable but for Procs)
+
+
+Web
+
+
+  1Keys – How I Made a Piano in only 1kb of JavaScript
+  Announcing the new TypeScript Website
+  
+    Comparing reactivity models - React vs Vue vs Svelte vs MobX vs Solid vs Redux
+  
+  Curious case of Content Security Policy (CSP)
+  Fast - the adaptive interface system for modern web experiences
+  Hopi - python-in-node interop
+
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0831.png"/>
+  <itunes:duration>00:53:19</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>30 выпуск 08 сезона. The State of Ruby 3 Typing, Infinite Scroll without Layout Shifts, Minesweeper, Starboard Notebook и прочее</title>
   <description>
@@ -4678,90 +4799,6 @@ Electron joins the OpenJS Foundation, Raw WebGL, JavaScript component-level CPU 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0750.png"/>
   <itunes:duration>00:25:08</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>49 выпуск 07 сезона. What's new in Ruby 2.7, Rubyfmt with Atom, ImageProcessing, NanoNeuron, Creepyface и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/12/04/ruby-2-7-adds-new-operator-for-arguments-forwarding.html">Ruby 2.7 adds shorthand syntax for arguments forwarding</a>, <a href="https://medium.com/rubyinside/whats-new-in-ruby-2-7-79c98b265502">What’s new in Ruby 2.7?</a> и <a href="https://blog.saeloun.com/2019/12/03/rails-6-adds-activesupport-parameter-filter">Rails 6 adds ActiveSupport::ParameterFilter</a></li>
-  <li><a href="https://schwad.github.io/ruby/rails/tutorials/2019/12/02/using-rubyfmt-on-atom.html">Using Rubyfmt with Atom</a> и <a href="https://github.com/janko/image_processing">ImageProcessing - a high-level image processing wrapper for libvips and ImageMagick/GraphicsMagick</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://twitter.com/robpalmer2/status/1202312626891452416">Optional Chaining Has Reached Stage 4 at TC39</a>, <a href="https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en">WebAssembly is Now a W3C Recommendation</a> и <a href="https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/">Разбираемся в алгоритмах и структурах данных. Доступно и понятно</a></li>
-  <li><a href="https://github.com/trekhleb/nano-neuron">NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually “learn”</a>, <a href="https://simpleparallax.com/">SimplePARALLAX - the easiest way to get a parallax effect with javascript</a> и <a href="https://creepyface.io/">Creepyface - makes face images follow the pointer</a></li>
-</ul>
-
-<p></p>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p>
-
-<h2 id="ruby">Ruby</h2>
-
-<ul>
-  <li><a href="https://blog.saeloun.com/2019/12/04/ruby-2-7-adds-new-operator-for-arguments-forwarding.html">Ruby 2.7 adds shorthand syntax for arguments forwarding</a>, <a href="https://medium.com/rubyinside/whats-new-in-ruby-2-7-79c98b265502">What’s new in Ruby 2.7?</a> и <a href="https://blog.saeloun.com/2019/12/03/rails-6-adds-activesupport-parameter-filter">Rails 6 adds ActiveSupport::ParameterFilter</a></li>
-  <li><a href="https://schwad.github.io/ruby/rails/tutorials/2019/12/02/using-rubyfmt-on-atom.html">Using Rubyfmt with Atom</a> и <a href="https://github.com/janko/image_processing">ImageProcessing - a high-level image processing wrapper for libvips and ImageMagick/GraphicsMagick</a></li>
-</ul>
-
-<h2 id="web">Web</h2>
-
-<ul>
-  <li><a href="https://twitter.com/robpalmer2/status/1202312626891452416">Optional Chaining Has Reached Stage 4 at TC39</a>, <a href="https://www.w3.org/2019/12/pressrelease-wasm-rec.html.en">WebAssembly is Now a W3C Recommendation</a> и <a href="https://dou.ua/lenta/articles/what-you-should-know-about-algorithms/">Разбираемся в алгоритмах и структурах данных. Доступно и понятно</a></li>
-  <li><a href="https://github.com/trekhleb/nano-neuron">NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually “learn”</a>, <a href="https://simpleparallax.com/">SimplePARALLAX - the easiest way to get a parallax effect with javascript</a> и <a href="https://creepyface.io/">Creepyface - makes face images follow the pointer</a></li>
-</ul>
-
-<p></p>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 09 Dec 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/12/09/podcast-07-49.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/12/09/podcast-07-49.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0749.mp3" length="25139252" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0749.mp3" fileSize="25139252" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  Ruby 2.7 adds shorthand syntax for arguments f...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:
-
-Ruby
-
-
-  
-Ruby 2.7 adds shorthand syntax for arguments forwarding, What’s new in Ruby 2.7? и Rails 6 adds ActiveSupport::ParameterFilter
-
-  
-Using Rubyfmt with Atom и ImageProcessing - a high-level image processing wrapper for libvips and ImageMagick/GraphicsMagick
-
-
-
-Web
-
-
-  
-Optional Chaining Has Reached Stage 4 at TC39, WebAssembly is Now a W3C Recommendation и Разбираемся в алгоритмах и структурах данных. Доступно и понятно
-
-  
-NanoNeuron is 7 simple JavaScript functions that will give you a feeling of how machines can actually “learn”, SimplePARALLAX - the easiest way to get a parallax effect with javascript и Creepyface - makes face images follow the pointer
-
-
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0749.png"/>
-  <itunes:duration>00:24:37</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
