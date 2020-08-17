@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 10 Aug 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,27 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>32 выпуск 08 сезона. React v17.0 RC, Storybook 6.0, Deno 1.3.0, Rome, How Sidekiq really works, Strings, Terrain Builder и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="http://codefol.io/posts/when-should-you-not-use-rails/">When Should You NOT Use Rails?</a></li> <li><a href="https://pdabrowski.com/articles/how-sidekiq-really-works">How Sidekiq really works</a></li> <li> <p><a href="https://prathamesh.tech/2020/08/10/creating-unlogged-tables-in-rails/">Creating unlogged (PostgreSQL) tables in Rails</a></p> </li> <li><a href="https://www.mskog.com/posts/autocomplete-in-ruby-on-rails-using-stimulus/">Autocomplete in Ruby on Rails using Stimulus</a></li> <li><a href="https://www.notonlycode.org/12-ways-to-call-a-method-in-ruby/">12 ways to call a method in Ruby</a></li> <li><a href="https://idiosyncratic-ruby.com/70-nothing-to-escape.html">Nothing to Escape: 43 Ways to Encode a NULL Character</a></li> <li><a href="https://github.com/piotrmurach/strings">Strings - a set of useful methods for working with strings such as align, truncate, wrap, and many more</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://reactjs.org/blog/2020/08/10/react-v17-rc.html">React v17.0 Release Candidate: No New Features</a></li> <li><a href="https://medium.com/better-programming/the-6-major-changes-in-react-v17-0-d14fed5b0529">The 6 Major Changes in React v17.0</a></li> <li><a href="https://medium.com/storybookjs/storybook-6-0-1e14a2071000">Storybook 6.0</a></li> <li><a href="https://github.com/denoland/deno/releases/tag/v1.3.0">Deno 1.3.0</a></li> <li> <p><a href="https://romefrontend.dev/">Rome - unifying the frontend development toolchain</a></p> </li> <li><a href="http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/">Single Page Applications using Rust</a></li> <li><a href="https://pitayan.com/posts/vue-next-features/">Vue 3 new features summary</a></li> <li><a href="https://github.com/FarazzShaikh/Terrain-Builder">Terrain Builder</a></li> </ul> <p></p>]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="http://codefol.io/posts/when-should-you-not-use-rails/">When Should You NOT Use Rails?</a></li> <li><a href="https://pdabrowski.com/articles/how-sidekiq-really-works">How Sidekiq really works</a></li> <li> <p><a href="https://prathamesh.tech/2020/08/10/creating-unlogged-tables-in-rails/">Creating unlogged (PostgreSQL) tables in Rails</a></p> </li> <li><a href="https://www.mskog.com/posts/autocomplete-in-ruby-on-rails-using-stimulus/">Autocomplete in Ruby on Rails using Stimulus</a></li> <li><a href="https://www.notonlycode.org/12-ways-to-call-a-method-in-ruby/">12 ways to call a method in Ruby</a></li> <li><a href="https://idiosyncratic-ruby.com/70-nothing-to-escape.html">Nothing to Escape: 43 Ways to Encode a NULL Character</a></li> <li><a href="https://github.com/piotrmurach/strings">Strings - a set of useful methods for working with strings such as align, truncate, wrap, and many more</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://reactjs.org/blog/2020/08/10/react-v17-rc.html">React v17.0 Release Candidate: No New Features</a></li> <li><a href="https://medium.com/better-programming/the-6-major-changes-in-react-v17-0-d14fed5b0529">The 6 Major Changes in React v17.0</a></li> <li><a href="https://medium.com/storybookjs/storybook-6-0-1e14a2071000">Storybook 6.0</a></li> <li><a href="https://github.com/denoland/deno/releases/tag/v1.3.0">Deno 1.3.0</a></li> <li> <p><a href="https://romefrontend.dev/">Rome - unifying the frontend development toolchain</a></p> </li> <li><a href="http://www.sheshbabu.com/posts/rust-wasm-yew-single-page-application/">Single Page Applications using Rust</a></li> <li><a href="https://pitayan.com/posts/vue-next-features/">Vue 3 new features summary</a></li> <li><a href="https://github.com/FarazzShaikh/Terrain-Builder">Terrain Builder</a></li> </ul> <p></p>]]>
+  </content:encoded>
+  <pubDate>Mon, 17 Aug 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/08/17/podcast-08-32.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/08/17/podcast-08-32.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0832.mp3" length="52658170" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0832.mp3" fileSize="52658170" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  When Should You NOT Use Rails? How Sidekiq really ...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  When Should You NOT Use Rails? How Sidekiq really works  Creating unlogged (PostgreSQL) tables in Rails  Autocomplete in Ruby on Rails using Stimulus </itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0832.png"/>
+  <itunes:duration>00:51:17</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>31 выпуск 08 сезона. How to Test Ruby Code That Depends on External APIs, 1Keys, Noticed, Ancestry, Fast, Hopi и прочее</title>
   <description>
@@ -899,30 +920,6 @@ Ruby 2.7.0 released, Ruby 2.7 comprehensive changelog, JIT development progress 
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0751.png"/>
   <itunes:duration>00:21:20</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>50 выпуск 07 сезона. Bundler 2.1.0, JIT and Ruby's MJIT, JavaScript component-level CPU costs, Snabberb, FX и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://github.com/bundler/bundler/releases/v2.1.0">Bundler 2.1.0</a>, <a href="https://blog.saeloun.com/2019/12/10/rails-block-writes-to-database-connection-while-prevent-writes">Rails 6 adds ability to block writes to a database</a> и <a href="http://engineering.appfolio.com/appfolio-engineering/2019/7/18/jit-and-rubys-mjit">JIT and Ruby’s MJIT</a></li> <li><a href="https://blog.kalina.tech/2019/12/nested-api-parameter-validation-in-rails.html">Nested API parameter validation in Rails with ActiveModel::Validations</a>, <a href="https://blog.capsens.eu/how-to-write-javascript-in-rails-6-webpacker-yarn-and-sprockets-cdf990387463">How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets</a> и <a href="https://github.com/tobymao/snabberb">Snabberb - a simple Ruby view framework built on Opal and Snabbdom</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/">Electron joins the OpenJS Foundation</a>, <a href="https://alain.xyz/blog/raw-webgl">Raw WebGL</a>, <a href="https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/">JavaScript component-level CPU costs</a> и <a href="https://www.bram.us/2019/12/09/esnext-relatively-format-time-with-intl-relativetimeformat/">ESNext: Relatively format time with Intl.RelativeTimeFormat</a></li> <li><a href="https://blog.bitsrc.io/5-top-cloud-ides-for-javascript-developers-62ee672c6e88">5 Top Cloud IDEs for JavaScript Developers</a> и <a href="https://github.com/antonmedv/fx">FX - command-line JSON processing tool</a></li> </ul> <p></p>]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://github.com/bundler/bundler/releases/v2.1.0">Bundler 2.1.0</a>, <a href="https://blog.saeloun.com/2019/12/10/rails-block-writes-to-database-connection-while-prevent-writes">Rails 6 adds ability to block writes to a database</a> и <a href="http://engineering.appfolio.com/appfolio-engineering/2019/7/18/jit-and-rubys-mjit">JIT and Ruby’s MJIT</a></li> <li><a href="https://blog.kalina.tech/2019/12/nested-api-parameter-validation-in-rails.html">Nested API parameter validation in Rails with ActiveModel::Validations</a>, <a href="https://blog.capsens.eu/how-to-write-javascript-in-rails-6-webpacker-yarn-and-sprockets-cdf990387463">How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets</a> и <a href="https://github.com/tobymao/snabberb">Snabberb - a simple Ruby view framework built on Opal and Snabbdom</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/">Electron joins the OpenJS Foundation</a>, <a href="https://alain.xyz/blog/raw-webgl">Raw WebGL</a>, <a href="https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/">JavaScript component-level CPU costs</a> и <a href="https://www.bram.us/2019/12/09/esnext-relatively-format-time-with-intl-relativetimeformat/">ESNext: Relatively format time with Intl.RelativeTimeFormat</a></li> <li><a href="https://blog.bitsrc.io/5-top-cloud-ides-for-javascript-developers-62ee672c6e88">5 Top Cloud IDEs for JavaScript Developers</a> и <a href="https://github.com/antonmedv/fx">FX - command-line JSON processing tool</a></li> </ul> <p></p>]]>
-  </content:encoded>
-  <pubDate>Mon, 16 Dec 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/12/16/podcast-07-50.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/12/16/podcast-07-50.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0750.mp3" length="25662926" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0750.mp3" fileSize="25662926" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Bundler 2.1.0, Rails 6 adds ability to block write...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  
-Bundler 2.1.0, Rails 6 adds ability to block writes to a database и JIT and Ruby’s MJIT
- Nested API parameter validation in Rails with ActiveModel::Validations
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0750.png"/>
-  <itunes:duration>00:25:08</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
