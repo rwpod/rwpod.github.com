@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Fri, 21 Aug 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,29 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>33 выпуск 08 сезона. TypeScript 4.0, Cypress 5.0.0, IE 11 sunset, Gammo, Simdjson, Elder.js, DoppioJVM, BootBot и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://blog.bigbinary.com/2020/08/18/rails-6-adds-array-including-excluding-and-enumerable-including-excluding.html">Rails 6 adds Array#including/excluding and Enumerable#including/excluding</a></li> <li><a href="https://janko.io/rodauth-a-refreshing-authentication-solution-for-ruby/">Rodauth: A Refreshing Authentication Solution for Ruby</a></li> <li> <p><a href="http://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby/">Effective Debugging of Memory Leaks in Ruby</a></p> </li> <li><a href="https://github.com/namusyaka/gammo">Gammo - a pure-Ruby HTML5 parser</a></li> <li><a href="https://github.com/johncallahan/activestorage-horcrux">Activestorage-horcrux - uploads shares across one or more other storage services using Shamir Secret Sharing</a></li> <li><a href="https://github.com/saka1/simdjson_ruby">Simdjson - a Ruby bindings for simdjson</a></li> <li><a href="https://github.com/westonganger/capistrano-precompile-chooser">Capistrano Precompile Chooser - capistrano plugin to precompile your Rails assets locally, remotely, or not at all</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-0/">Announcing TypeScript 4.0</a></li> <li><a href="https://github.com/cypress-io/cypress/releases/tag/v5.0.0">Cypress 5.0.0</a></li> <li><a href="https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666">Microsoft 365 apps say farewell to Internet Explorer 11 and Windows 10 sunsets Microsoft Edge Legacy</a></li> <li> <p><a href="https://firt.dev/phonegap-end/">Is the Phone Gap closed in 2020?</a></p> </li> <li><a href="https://medium.com/better-programming/why-we-moved-from-react-to-svelte-f20afb1dc5d5">Why We Moved From React to Svelte</a></li> <li><a href="https://github.com/elderjs/elderjs">Elder.js - SEO focused, Svelte Framework &amp; Static Site Generator</a></li> <li><a href="https://plasma-umass.org/doppio-demo/">DoppioJVM - a Java Virtual Machine written in 100% JavaScript</a></li> <li><a href="https://github.com/Charca/bootbot">BootBot - a simple but powerful JavaScript Framework to build Facebook Messenger’s Chat bots</a></li> </ul> <p></p>]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://blog.bigbinary.com/2020/08/18/rails-6-adds-array-including-excluding-and-enumerable-including-excluding.html">Rails 6 adds Array#including/excluding and Enumerable#including/excluding</a></li> <li><a href="https://janko.io/rodauth-a-refreshing-authentication-solution-for-ruby/">Rodauth: A Refreshing Authentication Solution for Ruby</a></li> <li> <p><a href="http://stratus3d.com/blog/2020/08/11/effective-debugging-of-memory-leaks-in-ruby/">Effective Debugging of Memory Leaks in Ruby</a></p> </li> <li><a href="https://github.com/namusyaka/gammo">Gammo - a pure-Ruby HTML5 parser</a></li> <li><a href="https://github.com/johncallahan/activestorage-horcrux">Activestorage-horcrux - uploads shares across one or more other storage services using Shamir Secret Sharing</a></li> <li><a href="https://github.com/saka1/simdjson_ruby">Simdjson - a Ruby bindings for simdjson</a></li> <li><a href="https://github.com/westonganger/capistrano-precompile-chooser">Capistrano Precompile Chooser - capistrano plugin to precompile your Rails assets locally, remotely, or not at all</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://devblogs.microsoft.com/typescript/announcing-typescript-4-0/">Announcing TypeScript 4.0</a></li> <li><a href="https://github.com/cypress-io/cypress/releases/tag/v5.0.0">Cypress 5.0.0</a></li> <li><a href="https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666">Microsoft 365 apps say farewell to Internet Explorer 11 and Windows 10 sunsets Microsoft Edge Legacy</a></li> <li> <p><a href="https://firt.dev/phonegap-end/">Is the Phone Gap closed in 2020?</a></p> </li> <li><a href="https://medium.com/better-programming/why-we-moved-from-react-to-svelte-f20afb1dc5d5">Why We Moved From React to Svelte</a></li> <li><a href="https://github.com/elderjs/elderjs">Elder.js - SEO focused, Svelte Framework &amp; Static Site Generator</a></li> <li><a href="https://plasma-umass.org/doppio-demo/">DoppioJVM - a Java Virtual Machine written in 100% JavaScript</a></li> <li><a href="https://github.com/Charca/bootbot">BootBot - a simple but powerful JavaScript Framework to build Facebook Messenger’s Chat bots</a></li> </ul> <p></p>]]>
+  </content:encoded>
+  <pubDate>Mon, 24 Aug 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/08/24/podcast-08-33.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/08/24/podcast-08-33.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0833.mp3" length="48075276" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0833.mp3" fileSize="48075276" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6 adds Array#including/excluding and Enumera...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6 adds Array#including/excluding and Enumerable#including/excluding Rodauth: A Refreshing Authentication Solution for Ruby  Effective Debugging of...
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0833.png"/>
+  <itunes:duration>00:46:30</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>RWPod Кафе 18: Vladimir Metnew</title>
   <description>
@@ -894,30 +917,6 @@ Yukihiro Matsumoto: “Ruby is designed for humans, not machines”, A Migration
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0802.png"/>
   <itunes:duration>00:34:14</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>01 выпуск 08 сезона. Goodbye, Clean Code, Developer Roadmaps, Rails PG Extras, Asdf-vm, IsoCity и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="http://engineering.appfolio.com/appfolio-engineering/2019/12/27/ruby-270s-rails-ruby-bench-speed-is-unchanged-from-260">Ruby 2.7.0’s Rails Ruby Bench Speed is Unchanged from 2.6.0</a>, <a href="https://www.codewithjason.com/rails-performance-tips/">My top five Rails performance tips for performance noobs</a> и <a href="https://piechowski.io/post/why-is-default-scope-bad-rails/">Why is Ruby on Rails’ default_scope bad?</a></li> <li><a href="https://github.com/janko/down">Down - a utility tool for streaming, flexible and safe downloading of remote files</a>, <a href="https://github.com/zverok/fstrings">FStrings - Python-alike fstrings (formatting strings) for Ruby</a> и <a href="https://github.com/pawurb/rails-pg-extras">Rails PG Extras - a rake tasks and Ruby methods can be used to obtain information about a Postgres instance</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://overreacted.io/goodbye-clean-code/">Goodbye, Clean Code</a>, <a href="https://gosink.in/common-javascript-promise-mistakes-beginners/">Common Javascript Promise mistakes every beginner should know and avoid</a>, <a href="https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps/">The unseen performance costs of modern CSS-in-JS libraries in React apps</a> и <a href="https://redd.one/blog/debounce-vs-throttle">Debounce vs Throttle: Definitive Visual Guide</a></li> <li><a href="https://roadmap.sh/roadmaps">Developer Roadmaps</a>, <a href="https://asdf-vm.com/#/">Asdf-vm - manage multiple runtime versions with a single CLI tool</a>, <a href="https://alligator.io/js/dayjs/">Parse, Validate, Manipulate, and Display Dates and Times in JavaScript with Day.js</a>, <a href="https://github.com/victorqribeiro/isocity">IsoCity - an isometric city builder in JavaScript</a> и <a href="https://peekobot.github.io/peekobot/">Peekobot - a simple choice-driven chatbot framework</a></li> </ul> <p></p>]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="http://engineering.appfolio.com/appfolio-engineering/2019/12/27/ruby-270s-rails-ruby-bench-speed-is-unchanged-from-260">Ruby 2.7.0’s Rails Ruby Bench Speed is Unchanged from 2.6.0</a>, <a href="https://www.codewithjason.com/rails-performance-tips/">My top five Rails performance tips for performance noobs</a> и <a href="https://piechowski.io/post/why-is-default-scope-bad-rails/">Why is Ruby on Rails’ default_scope bad?</a></li> <li><a href="https://github.com/janko/down">Down - a utility tool for streaming, flexible and safe downloading of remote files</a>, <a href="https://github.com/zverok/fstrings">FStrings - Python-alike fstrings (formatting strings) for Ruby</a> и <a href="https://github.com/pawurb/rails-pg-extras">Rails PG Extras - a rake tasks and Ruby methods can be used to obtain information about a Postgres instance</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://overreacted.io/goodbye-clean-code/">Goodbye, Clean Code</a>, <a href="https://gosink.in/common-javascript-promise-mistakes-beginners/">Common Javascript Promise mistakes every beginner should know and avoid</a>, <a href="https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps/">The unseen performance costs of modern CSS-in-JS libraries in React apps</a> и <a href="https://redd.one/blog/debounce-vs-throttle">Debounce vs Throttle: Definitive Visual Guide</a></li> <li><a href="https://roadmap.sh/roadmaps">Developer Roadmaps</a>, <a href="https://asdf-vm.com/#/">Asdf-vm - manage multiple runtime versions with a single CLI tool</a>, <a href="https://alligator.io/js/dayjs/">Parse, Validate, Manipulate, and Display Dates and Times in JavaScript with Day.js</a>, <a href="https://github.com/victorqribeiro/isocity">IsoCity - an isometric city builder in JavaScript</a> и <a href="https://peekobot.github.io/peekobot/">Peekobot - a simple choice-driven chatbot framework</a></li> </ul> <p></p>]]>
-  </content:encoded>
-  <pubDate>Mon, 13 Jan 2020 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2020/01/13/podcast-08-01.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/01/13/podcast-08-01.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/08/0801.mp3" length="46808718" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/08/0801.mp3" fileSize="46808718" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 2.7.0’s Rails Ruby Bench Speed is Unchanged f...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  
-Ruby 2.7.0’s Rails Ruby Bench Speed is Unchanged from 2.6.0, My top five Rails performance tips for performance noobs и Why is Ruby on Rails’ default_scope...
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/08/0801.png"/>
-  <itunes:duration>00:45:47</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
