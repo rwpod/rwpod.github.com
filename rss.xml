@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Tue, 01 Sep 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 07 Sep 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,29 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>35 выпуск 08 сезона. NativeScript 7.0, Underscore.js 1.11.0, Ruby Rightward assignments, RubyKaigi Takeout 2020 и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://blog.saeloun.com/2020/08/31/ruby-adds-experimental-rightward-assignment">Ruby adds experimental support for Rightward assignments</a></li> <li><a href="https://blog.bigbinary.com/2020/09/01/rails-6-add-timezone-support-in-active-job.html">Rails 6 adds support to persist timezones of Active Job</a></li> <li> <p><a href="https://evilmartians.com/chronicles/system-of-a-test-2-robust-rails-browser-testing-with-siteprism">System of a test II: Robust Rails browser testing with SitePrism</a></p> </li> <li><a href="https://www.honeybadger.io/blog/rails-low-level-caching/">Mastering Low Level Caching in Rails</a></li> <li><a href="https://semaphoreci.com/blog/what-is-canary-deployment">What Is Canary Deployment?</a></li> <li><a href="https://www.youtube.com/watch?v=2ZcdiVSERuY&amp;feature=youtu.be&amp;t=473">RubyKaigi Takeout 2020 - Ractor presentation by Koichi Sasada</a></li> <li><a href="https://www.driftingruby.com/episodes/github-actions">GitHub Actions (video)</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://nativescript.org/blog/nativescript-7-announcement/">NativeScript 7.0 Released</a></li> <li><a href="https://underscorejs.org/#1.11.0">Underscore.js 1.11.0</a></li> <li> <p><a href="https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20">11 Micro Frontends Frameworks You Should Know</a></p> </li> <li><a href="https://css-tricks.com/designing-a-javascript-plugin-system/">Designing a JavaScript Plugin System</a></li> <li><a href="https://mattperry.is/writing-code/browsers-may-throttle-requestanimationframe-to-30fps">Browsers may throttle requestAnimationFrame</a></li> <li><a href="https://cindyjs.org/">CindyJS - a framework to create interactive (mathematical) content for the web</a></li> <li><a href="https://demo.themesberg.com/volt/">Volt - free Bootstrap 5 dashboard</a></li> <li><a href="https://printjs.crabbly.com/">Print.js - a tiny javascript library to help printing from the web</a></li> </ul> <p></p>]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://blog.saeloun.com/2020/08/31/ruby-adds-experimental-rightward-assignment">Ruby adds experimental support for Rightward assignments</a></li> <li><a href="https://blog.bigbinary.com/2020/09/01/rails-6-add-timezone-support-in-active-job.html">Rails 6 adds support to persist timezones of Active Job</a></li> <li> <p><a href="https://evilmartians.com/chronicles/system-of-a-test-2-robust-rails-browser-testing-with-siteprism">System of a test II: Robust Rails browser testing with SitePrism</a></p> </li> <li><a href="https://www.honeybadger.io/blog/rails-low-level-caching/">Mastering Low Level Caching in Rails</a></li> <li><a href="https://semaphoreci.com/blog/what-is-canary-deployment">What Is Canary Deployment?</a></li> <li><a href="https://www.youtube.com/watch?v=2ZcdiVSERuY&amp;feature=youtu.be&amp;t=473">RubyKaigi Takeout 2020 - Ractor presentation by Koichi Sasada</a></li> <li><a href="https://www.driftingruby.com/episodes/github-actions">GitHub Actions (video)</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://nativescript.org/blog/nativescript-7-announcement/">NativeScript 7.0 Released</a></li> <li><a href="https://underscorejs.org/#1.11.0">Underscore.js 1.11.0</a></li> <li> <p><a href="https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20">11 Micro Frontends Frameworks You Should Know</a></p> </li> <li><a href="https://css-tricks.com/designing-a-javascript-plugin-system/">Designing a JavaScript Plugin System</a></li> <li><a href="https://mattperry.is/writing-code/browsers-may-throttle-requestanimationframe-to-30fps">Browsers may throttle requestAnimationFrame</a></li> <li><a href="https://cindyjs.org/">CindyJS - a framework to create interactive (mathematical) content for the web</a></li> <li><a href="https://demo.themesberg.com/volt/">Volt - free Bootstrap 5 dashboard</a></li> <li><a href="https://printjs.crabbly.com/">Print.js - a tiny javascript library to help printing from the web</a></li> </ul> <p></p>]]>
+  </content:encoded>
+  <pubDate>Mon, 07 Sep 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/09/07/podcast-08-35.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/09/07/podcast-08-35.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0835.mp3" length="47513176" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0835.mp3" fileSize="47513176" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby adds experimental support for Rightward assig...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby adds experimental support for Rightward assignments Rails 6 adds support to persist timezones of Active Job  System of a test II: Robust Rails browser...
+
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0835.png"/>
+  <itunes:duration>00:46:11</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>34 выпуск 08 сезона. D3 6.0, Electron 10.0.0, The great Rubykon Benchmark 2020, Racecar, Danfo.js, Ztext.js, ePaper.js и прочее</title>
   <description>
@@ -892,29 +915,6 @@ Leaflet - идея создания и реализация. Какое само
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0803.png"/>
   <itunes:duration>00:44:34</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>RWPod Кафе 11: Victor Shepelev (zverok)</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Victor Shepelev (zverok):</p> <ul> <li>Привет. Кто ты? Чем занимаешься?</li> <li>Как ты попал в программирование и язык Ruby?</li> <li>Вовлечение в разработку MRI. С чего все началось?</li> <li>Тяжело ли было добавлять <a href="https://ruby-doc.org/core-mruby/Kernel.html#method-i-then">Kernel#then</a>?</li> <li>Судьба <a href="https://blog.saeloun.com/2019/02/26/ruby-2-7-method-shorthand.html">”.:” (Method reference operator)</a> - интересно твое мнение</li> <li>Твое увлечение open data и open source</li> <li>Твои самые последние open source библиотеки. Как пришел к идеи создания?</li> <li>У тебя огромное количество библиотек. Как успеваешь это все поддерживать?</li> <li>Какое думаешь будущее у Ruby и комьюнити</li> <li> <p>Пожелание слушателям</p> </li> <li><a href="https://zverok.github.io">Web page</a></li> <li><a href="https://zverok.github.io/blog/">Блог</a></li> <li><a href="https://github.com/zverok">Github</a></li> <li><a href="https://twitter.com/zverok">Twitter</a></li> <li><a href="https://zverok.github.io/public.html">Public contributions</a></li> </ul> <p></p>]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Victor Shepelev (zverok):</p> <ul> <li>Привет. Кто ты? Чем занимаешься?</li> <li>Как ты попал в программирование и язык Ruby?</li> <li>Вовлечение в разработку MRI. С чего все началось?</li> <li>Тяжело ли было добавлять <a href="https://ruby-doc.org/core-mruby/Kernel.html#method-i-then">Kernel#then</a>?</li> <li>Судьба <a href="https://blog.saeloun.com/2019/02/26/ruby-2-7-method-shorthand.html">”.:” (Method reference operator)</a> - интересно твое мнение</li> <li>Твое увлечение open data и open source</li> <li>Твои самые последние open source библиотеки. Как пришел к идеи создания?</li> <li>У тебя огромное количество библиотек. Как успеваешь это все поддерживать?</li> <li>Какое думаешь будущее у Ruby и комьюнити</li> <li> <p>Пожелание слушателям</p> </li> <li><a href="https://zverok.github.io">Web page</a></li> <li><a href="https://zverok.github.io/blog/">Блог</a></li> <li><a href="https://github.com/zverok">Github</a></li> <li><a href="https://twitter.com/zverok">Twitter</a></li> <li><a href="https://zverok.github.io/public.html">Public contributions</a></li> </ul> <p></p>]]>
-  </content:encoded>
-  <pubDate>Sat, 25 Jan 2020 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2020/01/25/cafe-011.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/01/25/cafe-011.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/cafe/011.mp3" length="51718095" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/cafe/011.mp3" fileSize="51718095" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Victor Shepelev (zverok):  Привет. Кто ты? Чем занимаешься? Как ты попал в программиро...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Victor Shepelev (zverok):  Привет. Кто ты? Чем занимаешься? Как ты попал в программирование и язык Ruby? Вовлечение в разработку MRI. С чего все началось? Тяжело ли было добавлять Kernel...
-
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/cafe/011.png"/>
-  <itunes:duration>00:52:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
