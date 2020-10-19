@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 12 Oct 2020 00:00:00 +0300</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2020 00:00:00 +0300</lastBuildDate>
+    <pubDate>Mon, 19 Oct 2020 00:00:00 +0300</pubDate>
+    <lastBuildDate>Mon, 19 Oct 2020 00:00:00 +0300</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,27 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>41 выпуск 08 сезона. World beyond Rails, Async Cookie Store API, Guide to Reactive Rails, Interfaceable, Detect GPU и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://longliveruby.com/articles/rails-alternatives-ruby-web-frameworks">World beyond Rails - web frameworks</a></li> <li><a href="https://brandur.org/nanoglyphs/015-ruby-typing">Bladerunner Day, Ruby Type Signatures, Typing at Stripe</a></li> <li><a href="https://www.hashicorp.com/blog/announcing-waypoint">Announcing HashiCorp Waypoint</a></li> <li> <p><a href="https://www.hashicorp.com/blog/hashicorp-boundary">Announcing HashiCorp Boundary</a></p> </li> <li><a href="https://github.com/obie/guide-to-reactive-rails">Guide to Reactive Rails</a></li> <li><a href="https://github.com/AndyObtiva/glimmer-dsl-swt">Glimmer DSL for SWT 4.17.3.0</a></li> <li><a href="https://github.com/featurist/interfaceable">Interfaceable - strict interfaces in Ruby</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/">Presenting v7.0.0 of the npm CLI</a></li> <li><a href="https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f">Introducing: The Async Cookie Store API</a></li> <li> <p><a href="https://medium.com/javascript-in-plain-english/3-reasons-to-use-fewer-javascript-libraries-7226b64868a4">3 Reasons to Use Fewer JavaScript Libraries</a></p> </li> <li><a href="https://briantracy.xyz/writing/copy-paste-shell.html">Don’t Copy Paste Into A Shell</a></li> <li><a href="https://github.com/TimvanScherpenzeel/detect-gpu">Detect GPU - classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications</a></li> <li><a href="https://github.com/DoneDeal0/Talkr">Talkr - a super small i18n provider for React applications</a></li> <li><a href="https://github.com/knadh/dragmove.js">Dragmove.js - a super tiny Javascript library to make DOM elements draggable and movable</a></li> <li><a href="https://github.com/agenda/human-interval">Human Interval - human-readable interval parser for Javascript</a></li> </ul> <p></p>]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://longliveruby.com/articles/rails-alternatives-ruby-web-frameworks">World beyond Rails - web frameworks</a></li> <li><a href="https://brandur.org/nanoglyphs/015-ruby-typing">Bladerunner Day, Ruby Type Signatures, Typing at Stripe</a></li> <li><a href="https://www.hashicorp.com/blog/announcing-waypoint">Announcing HashiCorp Waypoint</a></li> <li> <p><a href="https://www.hashicorp.com/blog/hashicorp-boundary">Announcing HashiCorp Boundary</a></p> </li> <li><a href="https://github.com/obie/guide-to-reactive-rails">Guide to Reactive Rails</a></li> <li><a href="https://github.com/AndyObtiva/glimmer-dsl-swt">Glimmer DSL for SWT 4.17.3.0</a></li> <li><a href="https://github.com/featurist/interfaceable">Interfaceable - strict interfaces in Ruby</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://github.blog/2020-10-13-presenting-v7-0-0-of-the-npm-cli/">Presenting v7.0.0 of the npm CLI</a></li> <li><a href="https://medium.com/nmc-techblog/introducing-the-async-cookie-store-api-89cbecf401f">Introducing: The Async Cookie Store API</a></li> <li> <p><a href="https://medium.com/javascript-in-plain-english/3-reasons-to-use-fewer-javascript-libraries-7226b64868a4">3 Reasons to Use Fewer JavaScript Libraries</a></p> </li> <li><a href="https://briantracy.xyz/writing/copy-paste-shell.html">Don’t Copy Paste Into A Shell</a></li> <li><a href="https://github.com/TimvanScherpenzeel/detect-gpu">Detect GPU - classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications</a></li> <li><a href="https://github.com/DoneDeal0/Talkr">Talkr - a super small i18n provider for React applications</a></li> <li><a href="https://github.com/knadh/dragmove.js">Dragmove.js - a super tiny Javascript library to make DOM elements draggable and movable</a></li> <li><a href="https://github.com/agenda/human-interval">Human Interval - human-readable interval parser for Javascript</a></li> </ul> <p></p>]]>
+  </content:encoded>
+  <pubDate>Mon, 19 Oct 2020 00:00:00 +0300</pubDate>
+  <link>https://www.rwpod.com/posts/2020/10/19/podcast-08-41.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/10/19/podcast-08-41.html</guid>
+  <enclosure url="https://mp3.rwpod.com/podcasts/08/0841.mp3" length="37568418" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod.com/podcasts/08/0841.mp3" fileSize="37568418" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  World beyond Rails - web frameworks Bladerunner Da...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  World beyond Rails - web frameworks Bladerunner Day, Ruby Type Signatures, Typing at Stripe Announcing HashiCorp Waypoint  Announcing HashiCorp Boundary  Guide to Reactive Rails Glimmer DSL for SWT 4.17.3.0 Interfaceable - strict interfaces in Ruby  Web  Presenting v7.0.0 of the npm CLI Introducing: The Async Cookie Store API  3 Reasons to Use Fewer JavaScript Libraries  Don’t Copy Paste Into A Shell Detect GPU - classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications Talkr - a super small i18n provider for React applications Dragmove.js - a super tiny Javascript library to make DOM elements draggable and movable Human Interval - human-readable interval parser for Javascript  </itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0841.png"/>
+  <itunes:duration>00:36:28</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>40 выпуск 08 сезона. Performance of Ruby 3.0.0-preview1, Webpack 5, Rails 6 and Stimulus.js, ZzFXM, Npmx, Volta и прочее</title>
   <description>
@@ -1056,27 +1077,6 @@
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/07/0751.png"/>
   <itunes:duration>00:21:20</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>50 выпуск 07 сезона. Bundler 2.1.0, JIT and Ruby's MJIT, JavaScript component-level CPU costs, Snabberb, FX и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://github.com/bundler/bundler/releases/v2.1.0">Bundler 2.1.0</a>, <a href="https://blog.saeloun.com/2019/12/10/rails-block-writes-to-database-connection-while-prevent-writes">Rails 6 adds ability to block writes to a database</a> и <a href="http://engineering.appfolio.com/appfolio-engineering/2019/7/18/jit-and-rubys-mjit">JIT and Ruby’s MJIT</a></li> <li><a href="https://blog.kalina.tech/2019/12/nested-api-parameter-validation-in-rails.html">Nested API parameter validation in Rails with ActiveModel::Validations</a>, <a href="https://blog.capsens.eu/how-to-write-javascript-in-rails-6-webpacker-yarn-and-sprockets-cdf990387463">How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets</a> и <a href="https://github.com/tobymao/snabberb">Snabberb - a simple Ruby view framework built on Opal and Snabbdom</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/">Electron joins the OpenJS Foundation</a>, <a href="https://alain.xyz/blog/raw-webgl">Raw WebGL</a>, <a href="https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/">JavaScript component-level CPU costs</a> и <a href="https://www.bram.us/2019/12/09/esnext-relatively-format-time-with-intl-relativetimeformat/">ESNext: Relatively format time with Intl.RelativeTimeFormat</a></li> <li><a href="https://blog.bitsrc.io/5-top-cloud-ides-for-javascript-developers-62ee672c6e88">5 Top Cloud IDEs for JavaScript Developers</a> и <a href="https://github.com/antonmedv/fx">FX - command-line JSON processing tool</a></li> </ul> <p></p>]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://github.com/bundler/bundler/releases/v2.1.0">Bundler 2.1.0</a>, <a href="https://blog.saeloun.com/2019/12/10/rails-block-writes-to-database-connection-while-prevent-writes">Rails 6 adds ability to block writes to a database</a> и <a href="http://engineering.appfolio.com/appfolio-engineering/2019/7/18/jit-and-rubys-mjit">JIT and Ruby’s MJIT</a></li> <li><a href="https://blog.kalina.tech/2019/12/nested-api-parameter-validation-in-rails.html">Nested API parameter validation in Rails with ActiveModel::Validations</a>, <a href="https://blog.capsens.eu/how-to-write-javascript-in-rails-6-webpacker-yarn-and-sprockets-cdf990387463">How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets</a> и <a href="https://github.com/tobymao/snabberb">Snabberb - a simple Ruby view framework built on Opal and Snabbdom</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://openjsf.org/blog/2019/12/11/electron-joins-the-openjs-foundation/">Electron joins the OpenJS Foundation</a>, <a href="https://alain.xyz/blog/raw-webgl">Raw WebGL</a>, <a href="https://calendar.perfplanet.com/2019/javascript-component-level-cpu-costs/">JavaScript component-level CPU costs</a> и <a href="https://www.bram.us/2019/12/09/esnext-relatively-format-time-with-intl-relativetimeformat/">ESNext: Relatively format time with Intl.RelativeTimeFormat</a></li> <li><a href="https://blog.bitsrc.io/5-top-cloud-ides-for-javascript-developers-62ee672c6e88">5 Top Cloud IDEs for JavaScript Developers</a> и <a href="https://github.com/antonmedv/fx">FX - command-line JSON processing tool</a></li> </ul> <p></p>]]>
-  </content:encoded>
-  <pubDate>Mon, 16 Dec 2019 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2019/12/16/podcast-07-50.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2019/12/16/podcast-07-50.html</guid>
-  <enclosure url="https://mp3.rwpod.com/podcasts/07/0750.mp3" length="25662926" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod.com/podcasts/07/0750.mp3" fileSize="25662926" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Bundler 2.1.0, Rails 6 adds ability to block write...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Bundler 2.1.0, Rails 6 adds ability to block writes to a database и JIT and Ruby’s MJIT Nested API parameter validation in Rails with ActiveModel::Validations, How to write Javascript in Rails 6 | Webpacker, Yarn and Sprockets и Snabberb - a simple Ruby view framework built on Opal and Snabbdom  Web  Electron joins the OpenJS Foundation, Raw WebGL, JavaScript component-level CPU costs и ESNext: Relatively format time with Intl.RelativeTimeFormat 5 Top Cloud IDEs for JavaScript Developers и FX - command-line JSON processing tool  </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/07/0750.png"/>
-  <itunes:duration>00:25:08</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
