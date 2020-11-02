@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 26 Oct 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 26 Oct 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 02 Nov 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,27 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>43 выпуск 08 сезона. Context on STM in Ruby, squash N+1 queries, Yarn Workspace, Humanize, Jb, JS paint и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://chrisseaton.com/truffleruby/ruby-stm/">Context on STM in Ruby</a></li> <li><a href="https://evilmartians.com/chronicles/squash-n-plus-one-queries-early-with-n-plus-one-control-test-matchers-for-ruby-and-rails">Squash N+1 queries early with n_plus_one_control test matchers for Ruby and Rails</a></li> <li> <p><a href="https://longliveruby.com/articles/active-record-counting-records">Counting things in Active Record</a></p> </li> <li><a href="https://dev.to/nejremeslnici/split-your-webpacker-bundles-to-speed-up-the-web-2">Split your Webpacker bundles to speed up the web</a></li> <li><a href="https://github.com/amatsuda/jb">Jb - a simpler and faster Jbuilder alternative</a></li> <li><a href="https://github.com/radar/humanize">Humanize - converts numbers to strings</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://macwright.com/2020/10/28/if-not-spas.html">If not SPAs, What?</a></li> <li><a href="https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/">Why npm lockfiles can be a security blindspot for injecting malicious modules</a></li> <li> <p><a href="https://planflow.dev/blog/what-is-a-yarn-workspace">What A Yarn Workspace Is, And The Problem It Solves</a></p> </li> <li><a href="https://felixgerschau.com/javascript-memory-management/">JavaScript’s Memory Management Explained</a></li> <li><a href="https://dwayne.xyz/post/audio-visualizations-web-audio-api">Getting Audio Visualizations working with Web Audio API</a></li> <li><a href="https://hinty.io/devforth/simplest-js-paint/">Simplest JS paint</a></li> </ul> <p></p>]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://chrisseaton.com/truffleruby/ruby-stm/">Context on STM in Ruby</a></li> <li><a href="https://evilmartians.com/chronicles/squash-n-plus-one-queries-early-with-n-plus-one-control-test-matchers-for-ruby-and-rails">Squash N+1 queries early with n_plus_one_control test matchers for Ruby and Rails</a></li> <li> <p><a href="https://longliveruby.com/articles/active-record-counting-records">Counting things in Active Record</a></p> </li> <li><a href="https://dev.to/nejremeslnici/split-your-webpacker-bundles-to-speed-up-the-web-2">Split your Webpacker bundles to speed up the web</a></li> <li><a href="https://github.com/amatsuda/jb">Jb - a simpler and faster Jbuilder alternative</a></li> <li><a href="https://github.com/radar/humanize">Humanize - converts numbers to strings</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://macwright.com/2020/10/28/if-not-spas.html">If not SPAs, What?</a></li> <li><a href="https://snyk.io/blog/why-npm-lockfiles-can-be-a-security-blindspot-for-injecting-malicious-modules/">Why npm lockfiles can be a security blindspot for injecting malicious modules</a></li> <li> <p><a href="https://planflow.dev/blog/what-is-a-yarn-workspace">What A Yarn Workspace Is, And The Problem It Solves</a></p> </li> <li><a href="https://felixgerschau.com/javascript-memory-management/">JavaScript’s Memory Management Explained</a></li> <li><a href="https://dwayne.xyz/post/audio-visualizations-web-audio-api">Getting Audio Visualizations working with Web Audio API</a></li> <li><a href="https://hinty.io/devforth/simplest-js-paint/">Simplest JS paint</a></li> </ul> <p></p>]]>
+  </content:encoded>
+  <pubDate>Mon, 02 Nov 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/11/02/podcast-08-43.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/11/02/podcast-08-43.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/08/0843.mp3" length="39559041" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/08/0843.mp3" fileSize="39559041" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Context on STM in Ruby Squash N+1 queries early wi...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Context on STM in Ruby Squash N+1 queries early with n_plus_one_control test matchers for Ruby and Rails  Counting things in Active Record  Split your Webpacker bundles to speed up the web Jb - a simpler and faster Jbuilder alternative Humanize - converts numbers to strings  Web  If not SPAs, What? Why npm lockfiles can be a security blindspot for injecting malicious modules  What A Yarn Workspace Is, And The Problem It Solves  JavaScript’s Memory Management Explained Getting Audio Visualizations working with Web Audio API Simplest JS paint  </itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0843.png"/>
+  <itunes:duration>00:38:09</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>42 выпуск 08 сезона. RuboCop 1.0, React v17.0, Node.js v15.0.0, Create React App 4.0, Ruby Perf Myths, JSDB, Fingerprintjs и прочее</title>
   <description>
@@ -1056,27 +1077,6 @@
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0802.png"/>
   <itunes:duration>00:34:14</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>01 выпуск 08 сезона. Goodbye, Clean Code, Developer Roadmaps, Rails PG Extras, Asdf-vm, IsoCity и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="http://engineering.appfolio.com/appfolio-engineering/2019/12/27/ruby-270s-rails-ruby-bench-speed-is-unchanged-from-260">Ruby 2.7.0’s Rails Ruby Bench Speed is Unchanged from 2.6.0</a>, <a href="https://www.codewithjason.com/rails-performance-tips/">My top five Rails performance tips for performance noobs</a> и <a href="https://piechowski.io/post/why-is-default-scope-bad-rails/">Why is Ruby on Rails’ default_scope bad?</a></li> <li><a href="https://github.com/janko/down">Down - a utility tool for streaming, flexible and safe downloading of remote files</a>, <a href="https://github.com/zverok/fstrings">FStrings - Python-alike fstrings (formatting strings) for Ruby</a> и <a href="https://github.com/pawurb/rails-pg-extras">Rails PG Extras - a rake tasks and Ruby methods can be used to obtain information about a Postgres instance</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://overreacted.io/goodbye-clean-code/">Goodbye, Clean Code</a>, <a href="https://gosink.in/common-javascript-promise-mistakes-beginners/">Common Javascript Promise mistakes every beginner should know and avoid</a>, <a href="https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps/">The unseen performance costs of modern CSS-in-JS libraries in React apps</a> и <a href="https://redd.one/blog/debounce-vs-throttle">Debounce vs Throttle: Definitive Visual Guide</a></li> <li><a href="https://roadmap.sh/roadmaps">Developer Roadmaps</a>, <a href="https://asdf-vm.com/#/">Asdf-vm - manage multiple runtime versions with a single CLI tool</a>, <a href="https://alligator.io/js/dayjs/">Parse, Validate, Manipulate, and Display Dates and Times in JavaScript with Day.js</a>, <a href="https://github.com/victorqribeiro/isocity">IsoCity - an isometric city builder in JavaScript</a> и <a href="https://peekobot.github.io/peekobot/">Peekobot - a simple choice-driven chatbot framework</a></li> </ul> <p></p>]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="http://engineering.appfolio.com/appfolio-engineering/2019/12/27/ruby-270s-rails-ruby-bench-speed-is-unchanged-from-260">Ruby 2.7.0’s Rails Ruby Bench Speed is Unchanged from 2.6.0</a>, <a href="https://www.codewithjason.com/rails-performance-tips/">My top five Rails performance tips for performance noobs</a> и <a href="https://piechowski.io/post/why-is-default-scope-bad-rails/">Why is Ruby on Rails’ default_scope bad?</a></li> <li><a href="https://github.com/janko/down">Down - a utility tool for streaming, flexible and safe downloading of remote files</a>, <a href="https://github.com/zverok/fstrings">FStrings - Python-alike fstrings (formatting strings) for Ruby</a> и <a href="https://github.com/pawurb/rails-pg-extras">Rails PG Extras - a rake tasks and Ruby methods can be used to obtain information about a Postgres instance</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://overreacted.io/goodbye-clean-code/">Goodbye, Clean Code</a>, <a href="https://gosink.in/common-javascript-promise-mistakes-beginners/">Common Javascript Promise mistakes every beginner should know and avoid</a>, <a href="https://calendar.perfplanet.com/2019/the-unseen-performance-costs-of-css-in-js-in-react-apps/">The unseen performance costs of modern CSS-in-JS libraries in React apps</a> и <a href="https://redd.one/blog/debounce-vs-throttle">Debounce vs Throttle: Definitive Visual Guide</a></li> <li><a href="https://roadmap.sh/roadmaps">Developer Roadmaps</a>, <a href="https://asdf-vm.com/#/">Asdf-vm - manage multiple runtime versions with a single CLI tool</a>, <a href="https://alligator.io/js/dayjs/">Parse, Validate, Manipulate, and Display Dates and Times in JavaScript with Day.js</a>, <a href="https://github.com/victorqribeiro/isocity">IsoCity - an isometric city builder in JavaScript</a> и <a href="https://peekobot.github.io/peekobot/">Peekobot - a simple choice-driven chatbot framework</a></li> </ul> <p></p>]]>
-  </content:encoded>
-  <pubDate>Mon, 13 Jan 2020 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2020/01/13/podcast-08-01.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/01/13/podcast-08-01.html</guid>
-  <enclosure url="https://mp3.rwpod-assets.com/podcasts/08/0801.mp3" length="46808718" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod-assets.com/podcasts/08/0801.mp3" fileSize="46808718" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 2.7.0’s Rails Ruby Bench Speed is Unchanged f...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 2.7.0’s Rails Ruby Bench Speed is Unchanged from 2.6.0, My top five Rails performance tips for performance noobs и Why is Ruby on Rails’ default_scope bad? Down - a utility tool for streaming, flexible and safe downloading of remote files, FStrings - Python-alike fstrings (formatting strings) for Ruby и Rails PG Extras - a rake tasks and Ruby methods can be used to obtain information about a Postgres instance  Web  Goodbye, Clean Code, Common Javascript Promise mistakes every beginner should know and avoid, The unseen performance costs of modern CSS-in-JS libraries in React apps и Debounce vs Throttle: Definitive Visual Guide Developer Roadmaps, Asdf-vm - manage multiple runtime versions with a single CLI tool, Parse, Validate, Manipulate, and Display Dates and Times in JavaScript with Day.js, IsoCity - an isometric city builder in JavaScript и Peekobot - a simple choice-driven chatbot framework  </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/08/0801.png"/>
-  <itunes:duration>00:45:47</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
