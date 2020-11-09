@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 02 Nov 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 02 Nov 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 09 Nov 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 09 Nov 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,27 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>44 выпуск 08 сезона. Rails 6.1 RC1, WTFJS, Supabase, Ffmpeg.wasm, Termplot, Spacetime, Graphery SVG и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://weblog.rubyonrails.org/2020/11/2/Rails-6-1-rc1-release/">Rails 6.1 RC1: Horizontal Sharding, Multi-DB Improvements, Strict Loading, Destroy Associations in Background, Error Objects, and more!</a></li> <li><a href="https://medium.com/@woodpecker21/rails-6-how-to-search-and-filter-index-results-2b7d4b348393">Rails 6: How to search and filter index results</a></li> <li> <p><a href="https://scoutapm.com/blog/performance-impact-of-using-ruby-on-rails-view-partials">Performance Impact of Using Ruby on Rails View Partials</a></p> </li> <li><a href="https://www.fastruby.io/blog/rails/webpack/from-sprockets-to-webpacker.html">How to Migrate your JavaScript from Sprockets to Webpacker</a></li> <li><a href="https://github.com/Martin-Nyaga/termplot">Termplot - a simple terminal plotting tool for visualising streaming data</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://svelte.dev/blog/whats-the-deal-with-sveltekit">What’s the deal with SvelteKit?</a></li> <li> <p><a href="https://github.com/denysdovhan/wtfjs#readme">WTFJS - a list of funny and tricky JavaScript examples</a></p> </li> <li><a href="https://supabase.io/">Supabase - the open source Firebase alternative</a></li> <li><a href="https://ffmpegwasm.github.io/">Ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg</a></li> <li><a href="https://github.com/bbc/simorgh">Simorgh - the BBC’s Open Source Single Page Application</a></li> <li><a href="https://github.com/spencermountain/spacetime">Spacetime - lightweight javascript timezone library</a></li> <li><a href="https://www.graphery.org/svg/">Graphery SVG</a></li> </ul> <p></p>]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://weblog.rubyonrails.org/2020/11/2/Rails-6-1-rc1-release/">Rails 6.1 RC1: Horizontal Sharding, Multi-DB Improvements, Strict Loading, Destroy Associations in Background, Error Objects, and more!</a></li> <li><a href="https://medium.com/@woodpecker21/rails-6-how-to-search-and-filter-index-results-2b7d4b348393">Rails 6: How to search and filter index results</a></li> <li> <p><a href="https://scoutapm.com/blog/performance-impact-of-using-ruby-on-rails-view-partials">Performance Impact of Using Ruby on Rails View Partials</a></p> </li> <li><a href="https://www.fastruby.io/blog/rails/webpack/from-sprockets-to-webpacker.html">How to Migrate your JavaScript from Sprockets to Webpacker</a></li> <li><a href="https://github.com/Martin-Nyaga/termplot">Termplot - a simple terminal plotting tool for visualising streaming data</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://svelte.dev/blog/whats-the-deal-with-sveltekit">What’s the deal with SvelteKit?</a></li> <li> <p><a href="https://github.com/denysdovhan/wtfjs#readme">WTFJS - a list of funny and tricky JavaScript examples</a></p> </li> <li><a href="https://supabase.io/">Supabase - the open source Firebase alternative</a></li> <li><a href="https://ffmpegwasm.github.io/">Ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg</a></li> <li><a href="https://github.com/bbc/simorgh">Simorgh - the BBC’s Open Source Single Page Application</a></li> <li><a href="https://github.com/spencermountain/spacetime">Spacetime - lightweight javascript timezone library</a></li> <li><a href="https://www.graphery.org/svg/">Graphery SVG</a></li> </ul> <p></p>]]>
+  </content:encoded>
+  <pubDate>Mon, 09 Nov 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/11/09/podcast-08-44.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/11/09/podcast-08-44.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/08/0844.mp3" length="31377165" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/08/0844.mp3" fileSize="31377165" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 RC1: Horizontal Sharding, Multi-DB Impro...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 RC1: Horizontal Sharding, Multi-DB Improvements, Strict Loading, Destroy Associations in Background, Error Objects, and more! Rails 6: How to search and filter index results  Performance Impact of Using Ruby on Rails View Partials  How to Migrate your JavaScript from Sprockets to Webpacker Termplot - a simple terminal plotting tool for visualising streaming data  Web  What’s the deal with SvelteKit?  WTFJS - a list of funny and tricky JavaScript examples  Supabase - the open source Firebase alternative Ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg Simorgh - the BBC’s Open Source Single Page Application Spacetime - lightweight javascript timezone library Graphery SVG  </itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0844.png"/>
+  <itunes:duration>00:30:14</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>43 выпуск 08 сезона. Context on STM in Ruby, squash N+1 queries, Yarn Workspace, Humanize, Jb, JS paint и прочее</title>
   <description>
@@ -1056,27 +1077,6 @@
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/011.png"/>
   <itunes:duration>00:52:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>02 выпуск 08 сезона. Microsoft Edge, Git 2.25, Deep dive into Did You Mean, Snowpack, Pxi, Postgres.js, Nano ID и прочее</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://evrone.com/yukihiro-matsumoto-interview">Yukihiro Matsumoto: “Ruby is designed for humans, not machines”</a>, <a href="https://eregon.me/blog/2020/01/13/a-migration-path-to-bundler2.html">A Migration Path to Bundler 2+</a>, <a href="https://pganalyze.com/blog/materialized-views-ruby-rails">Effectively Using Materialized Views in Ruby on Rails</a> и <a href="https://blog.appsignal.com/2020/01/15/the-pros-and-cons-of-using-structure-sql-in-your-ruby-on-rails-application.html">Pros and Cons of Using structure.sql in Your Ruby on Rails Application</a></li> <li><a href="https://shime.sh/deep-dive-into-did-you-mean">Deep dive into Did You Mean</a>, <a href="https://www.mayerdan.com/ruby/2020/01/14/rails-flaky-specs-solutions">Rails Flaky Spec Solutions</a>, <a href="https://goiabada.blog/faster-ruby-apis-with-postgres-238c2f4a272c">Faster Ruby APIs with Postgres</a>, <a href="https://philna.sh/blog/2020/01/15/test-signed-cookies-in-rails/">Testing signed and encrypted cookies in Rails</a> и <a href="https://github.com/digitalocean/droplet_kit">DropletKit - the official DigitalOcean V2 API client</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://www.microsoft.com/en-us/edge">Microsoft Edge released</a> и <a href="https://github.blog/2020-01-13-highlights-from-git-2-25/">Highlights from Git 2.25</a></li> <li><a href="https://www.snowpack.dev/">Snowpack - build web applications with less tooling and 10x faster iteration</a>, <a href="https://github.com/porsager/postgres">Postgres.js - The Fastest full featured PostgreSQL client for Node.js</a>, <a href="https://github.com/Yord/pxi">Pxi (pixie) - a small, fast, and magical command-line data processor</a> и <a href="https://zelark.github.io/nano-id-cc/">Nano ID is a library for generating random IDs</a></li> </ul> <p></p>]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://evrone.com/yukihiro-matsumoto-interview">Yukihiro Matsumoto: “Ruby is designed for humans, not machines”</a>, <a href="https://eregon.me/blog/2020/01/13/a-migration-path-to-bundler2.html">A Migration Path to Bundler 2+</a>, <a href="https://pganalyze.com/blog/materialized-views-ruby-rails">Effectively Using Materialized Views in Ruby on Rails</a> и <a href="https://blog.appsignal.com/2020/01/15/the-pros-and-cons-of-using-structure-sql-in-your-ruby-on-rails-application.html">Pros and Cons of Using structure.sql in Your Ruby on Rails Application</a></li> <li><a href="https://shime.sh/deep-dive-into-did-you-mean">Deep dive into Did You Mean</a>, <a href="https://www.mayerdan.com/ruby/2020/01/14/rails-flaky-specs-solutions">Rails Flaky Spec Solutions</a>, <a href="https://goiabada.blog/faster-ruby-apis-with-postgres-238c2f4a272c">Faster Ruby APIs with Postgres</a>, <a href="https://philna.sh/blog/2020/01/15/test-signed-cookies-in-rails/">Testing signed and encrypted cookies in Rails</a> и <a href="https://github.com/digitalocean/droplet_kit">DropletKit - the official DigitalOcean V2 API client</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="https://www.microsoft.com/en-us/edge">Microsoft Edge released</a> и <a href="https://github.blog/2020-01-13-highlights-from-git-2-25/">Highlights from Git 2.25</a></li> <li><a href="https://www.snowpack.dev/">Snowpack - build web applications with less tooling and 10x faster iteration</a>, <a href="https://github.com/porsager/postgres">Postgres.js - The Fastest full featured PostgreSQL client for Node.js</a>, <a href="https://github.com/Yord/pxi">Pxi (pixie) - a small, fast, and magical command-line data processor</a> и <a href="https://zelark.github.io/nano-id-cc/">Nano ID is a library for generating random IDs</a></li> </ul> <p></p>]]>
-  </content:encoded>
-  <pubDate>Mon, 20 Jan 2020 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2020/01/20/podcast-08-02.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/01/20/podcast-08-02.html</guid>
-  <enclosure url="https://mp3.rwpod-assets.com/podcasts/08/0802.mp3" length="34350430" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod-assets.com/podcasts/08/0802.mp3" fileSize="34350430" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Yukihiro Matsumoto: “Ruby is designed for humans, ...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Yukihiro Matsumoto: “Ruby is designed for humans, not machines”, A Migration Path to Bundler 2+, Effectively Using Materialized Views in Ruby on Rails и Pros and Cons of Using structure.sql in Your Ruby on Rails Application Deep dive into Did You Mean, Rails Flaky Spec Solutions, Faster Ruby APIs with Postgres, Testing signed and encrypted cookies in Rails и DropletKit - the official DigitalOcean V2 API client  Web  Microsoft Edge released и Highlights from Git 2.25 Snowpack - build web applications with less tooling and 10x faster iteration, Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Pxi (pixie) - a small, fast, and magical command-line data processor и Nano ID is a library for generating random IDs  </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/08/0802.png"/>
-  <itunes:duration>00:34:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
