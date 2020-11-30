@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 23 Nov 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 30 Nov 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 30 Nov 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,27 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>47 выпуск 08 сезона. Static Typing for Ruby, How Fast are Ractors?, Back/forward cache, Lib-ruby-parser, Etebase, Zettlr и прочее</title>
+  <description>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://blog.bigbinary.com/2020/11/17/rails-6-1-adds-values_at-attribute-method-for-active-record.html">Rails 6.1 adds values_at attribute method for Active Record</a></li> <li><a href="https://shopify.engineering/static-typing-ruby">Static Typing for Ruby</a></li> <li><a href="https://www.fastruby.io/blog/ruby/performance/how-fast-are-ractors.html">How Fast are Ractors?</a></li> <li> <p><a href="https://blog.peterzhu.ca/ruby-range-bsearch/">1.5 is the midpoint between 0 and infinity in Ruby</a></p> </li> <li><a href="https://frantic.im/back-to-rails">Moving my serverless project to Ruby on Rails</a></li> <li><a href="https://www.moncefbelyamani.com/a-trip-down-memory-lane-with-derailed-benchmarks/">A Trip Down Memory Lane With Derailed Benchmarks</a></li> <li><a href="https://github.com/lib-ruby-parser/lib-ruby-parser">Lib-ruby-parser - a Ruby parser written in Rust</a></li> <li><a href="https://gorails.com/episodes/rails-continuous-deployment-with-github-actions">Continuous Deployment with Rails &amp; GitHub Actions (video)</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/">Flash Animations Live Forever at the Internet Archive</a></li> <li><a href="https://web.dev/bfcache/">Back/forward cache</a></li> <li> <p><a href="https://blog.bitsrc.io/page-lifecycle-api-a-browser-api-every-frontend-developer-should-know-b1c74948bd74">Deep Dive into Page Lifecycle API</a></p> </li> <li><a href="https://umaar.com/dev-tips/241-puppeteer-recorder/">Chrome DevTools: Record tests with the puppeteer recorder</a></li> <li><a href="https://www.etebase.com/">Etebase - an open source and end-to-end encrypted Firebase alternative</a></li> <li><a href="https://github.com/Zettlr/Zettlr">Zettlr - a Markdown Editor for the 21st century</a></li> <li><a href="https://github.com/dmtrKovalenko/odiff">ODIFF - the fastest in the world pixel-by-pixel image difference tool</a></li> <li><a href="https://github.com/ngryman/reading-time">Reading-time - medium’s like reading time estimation</a></li> </ul> <p></p>]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id=ruby>Ruby</h2> <ul> <li><a href="https://blog.bigbinary.com/2020/11/17/rails-6-1-adds-values_at-attribute-method-for-active-record.html">Rails 6.1 adds values_at attribute method for Active Record</a></li> <li><a href="https://shopify.engineering/static-typing-ruby">Static Typing for Ruby</a></li> <li><a href="https://www.fastruby.io/blog/ruby/performance/how-fast-are-ractors.html">How Fast are Ractors?</a></li> <li> <p><a href="https://blog.peterzhu.ca/ruby-range-bsearch/">1.5 is the midpoint between 0 and infinity in Ruby</a></p> </li> <li><a href="https://frantic.im/back-to-rails">Moving my serverless project to Ruby on Rails</a></li> <li><a href="https://www.moncefbelyamani.com/a-trip-down-memory-lane-with-derailed-benchmarks/">A Trip Down Memory Lane With Derailed Benchmarks</a></li> <li><a href="https://github.com/lib-ruby-parser/lib-ruby-parser">Lib-ruby-parser - a Ruby parser written in Rust</a></li> <li><a href="https://gorails.com/episodes/rails-continuous-deployment-with-github-actions">Continuous Deployment with Rails &amp; GitHub Actions (video)</a></li> </ul> <h2 id=web>Web</h2> <ul> <li><a href="http://blog.archive.org/2020/11/19/flash-animations-live-forever-at-the-internet-archive/">Flash Animations Live Forever at the Internet Archive</a></li> <li><a href="https://web.dev/bfcache/">Back/forward cache</a></li> <li> <p><a href="https://blog.bitsrc.io/page-lifecycle-api-a-browser-api-every-frontend-developer-should-know-b1c74948bd74">Deep Dive into Page Lifecycle API</a></p> </li> <li><a href="https://umaar.com/dev-tips/241-puppeteer-recorder/">Chrome DevTools: Record tests with the puppeteer recorder</a></li> <li><a href="https://www.etebase.com/">Etebase - an open source and end-to-end encrypted Firebase alternative</a></li> <li><a href="https://github.com/Zettlr/Zettlr">Zettlr - a Markdown Editor for the 21st century</a></li> <li><a href="https://github.com/dmtrKovalenko/odiff">ODIFF - the fastest in the world pixel-by-pixel image difference tool</a></li> <li><a href="https://github.com/ngryman/reading-time">Reading-time - medium’s like reading time estimation</a></li> </ul> <p></p>]]>
+  </content:encoded>
+  <pubDate>Mon, 30 Nov 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/11/30/podcast-08-47.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/11/30/podcast-08-47.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/08/0847.mp3" length="47002241" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/08/0847.mp3" fileSize="47002241" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 adds values_at attribute method for Acti...</itunes:subtitle>
+  <itunes:summary>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 adds values_at attribute method for Active Record Static Typing for Ruby How Fast are Ractors?  1.5 is the midpoint between 0 and infinity in Ruby  Moving my serverless project to Ruby on Rails A Trip Down Memory Lane With Derailed Benchmarks Lib-ruby-parser - a Ruby parser written in Rust Continuous Deployment with Rails &amp; GitHub Actions (video)  Web  Flash Animations Live Forever at the Internet Archive Back/forward cache  Deep Dive into Page Lifecycle API  Chrome DevTools: Record tests with the puppeteer recorder Etebase - an open source and end-to-end encrypted Firebase alternative Zettlr - a Markdown Editor for the 21st century ODIFF - the fastest in the world pixel-by-pixel image difference tool Reading-time - medium’s like reading time estimation  </itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0847.png"/>
+  <itunes:duration>00:45:44</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>46 выпуск 08 сезона. Benchmarking JSON Parsers, Ractor::TVar, High Voltage, Upptime, Txtai, Jose и прочее</title>
   <description>
@@ -1056,27 +1077,6 @@
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0804.png"/>
   <itunes:duration>00:40:17</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>RWPod Кафе 12: Valentine Zavadskiy</title>
-  <description>
-    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Valentine Zavadskiy:</p> <ul> <li>Привет. Кто ты? Чем занимаешься?</li> <li>Как ты увлекся программированием?</li> <li>Когда начал профессионально заниматься программированием?</li> <li>Получал ли образование в этой сфере и пригодилось ли?</li> <li>Как познакомился с Ruby?</li> <li>Любишь ли фронтенд, как складывались у тебя с ним отношения?</li> <li>Minsk.rb - идея создания, сложности, комьюнити, будующее</li> <li>Подкаст ProConf - идея создания, интересные доклады</li> <li>Вторая любимая технология, после Ruby?</li> <li>Какое думаешь будущее у Ruby и комьюнити</li> <li>Рекоммендации слушателям (книги / фильмы / что угодно)</li> <li> <p>Пожелание слушателям (личное)</p> </li> <li><a href="https://www.facebook.com/saicheg">Facebook</a></li> <li><a href="https://github.com/Saicheg">Github</a></li> <li><a href="https://www.facebook.com/minskruby/">Minsk.rb</a></li> <li><a href="https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw">ProConf</a></li> </ul> <p></p>]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Valentine Zavadskiy:</p> <ul> <li>Привет. Кто ты? Чем занимаешься?</li> <li>Как ты увлекся программированием?</li> <li>Когда начал профессионально заниматься программированием?</li> <li>Получал ли образование в этой сфере и пригодилось ли?</li> <li>Как познакомился с Ruby?</li> <li>Любишь ли фронтенд, как складывались у тебя с ним отношения?</li> <li>Minsk.rb - идея создания, сложности, комьюнити, будующее</li> <li>Подкаст ProConf - идея создания, интересные доклады</li> <li>Вторая любимая технология, после Ruby?</li> <li>Какое думаешь будущее у Ruby и комьюнити</li> <li>Рекоммендации слушателям (книги / фильмы / что угодно)</li> <li> <p>Пожелание слушателям (личное)</p> </li> <li><a href="https://www.facebook.com/saicheg">Facebook</a></li> <li><a href="https://github.com/Saicheg">Github</a></li> <li><a href="https://www.facebook.com/minskruby/">Minsk.rb</a></li> <li><a href="https://www.youtube.com/channel/UCvasfOIImo7D9lQkb1Wc1tw">ProConf</a></li> </ul> <p></p>]]>
-  </content:encoded>
-  <pubDate>Fri, 31 Jan 2020 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2020/01/31/cafe-012.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/01/31/cafe-012.html</guid>
-  <enclosure url="https://mp3.rwpod-assets.com/podcasts/cafe/012.mp3" length="64606287" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod-assets.com/podcasts/cafe/012.mp3" fileSize="64606287" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Valentine Zavadskiy:  Привет. Кто ты? Чем занимаешься? Как ты увлекся программирование...</itunes:subtitle>
-  <itunes:summary>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Valentine Zavadskiy:  Привет. Кто ты? Чем занимаешься? Как ты увлекся программированием? Когда начал профессионально заниматься программированием? Получал ли образование в этой сфере и пригодилось ли? Как познакомился с Ruby? Любишь ли фронтенд, как складывались у тебя с ним отношения? Minsk.rb - идея создания, сложности, комьюнити, будующее Подкаст ProConf - идея создания, интересные доклады Вторая любимая технология, после Ruby? Какое думаешь будущее у Ruby и комьюнити Рекоммендации слушателям (книги / фильмы / что угодно)  Пожелание слушателям (личное)  Facebook Github Minsk.rb ProConf  </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/cafe/012.png"/>
-  <itunes:duration>01:05:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
