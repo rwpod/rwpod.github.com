@@ -1,7 +1,9 @@
 {
-  "app-9acc79f88f9b66d60753.js.LICENSE.txt": "/app-9acc79f88f9b66d60753.js.LICENSE.txt",
-  "app-9acc79f88f9b66d60753.js.map": "/app-9acc79f88f9b66d60753.js.map",
-  "app-eea89402c3ddb1289e45.css.map": "/app-eea89402c3ddb1289e45.css.map",
-  "app.css": "/app-eea89402c3ddb1289e45.css",
-  "app.js": "/app-9acc79f88f9b66d60753.js"
+  "app-2f75b1e2f45ee495ec7d.js.LICENSE.txt": "/app-2f75b1e2f45ee495ec7d.js.LICENSE.txt",
+  "app-2f75b1e2f45ee495ec7d.js.map": "/app-2f75b1e2f45ee495ec7d.js.map",
+  "app-5def0b305a48839627e9.css.map": "/app-5def0b305a48839627e9.css.map",
+  "app.css": "/app-5def0b305a48839627e9.css",
+  "app.js": "/app-2f75b1e2f45ee495ec7d.js",
+  "sw.js": "/sw.js",
+  "sw.js.map": "/sw.js.map"
 }
