@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 21 Dec 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,38 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>51 выпуск 08 сезона. Ruby 3.0.0, Hotwire, JavaScript Frameworks, Performance Comparison 2020, Dann.js и прочее</title>
+  <description>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/" target="_blank" rel="noopener noreferrer">Ruby 3.0.0 Released</a></li> <li><a href="https://coderemixer.com/2020/12/22/ruby-3-fiber-scheduler-evt-dev-log-en/" target="_blank" rel="noopener noreferrer">Ruby 3 Fiber Scheduler</a></li> <li><a href="https://hotwire.dev/" target="_blank" rel="noopener noreferrer">Hotwire</a></li> <li><a href="https://robrace.dev/build-a-twitter-clone-with-rails-hotwire/" target="_blank" rel="noopener noreferrer">How to Build a Twitter Clone with Rails and Hotwire</a></li> <li><a href="https://www.driftingruby.com/episodes/hotwire" target="_blank" rel="noopener noreferrer">Hotwire (video)</a></li> <li><a href="https://kirshatrov.com/2020/12/27/ractor-web-server-part-two/" target="_blank" rel="noopener noreferrer">Writing a Ractor-based web server: part II</a></li> <li><a href="https://github.com/refIekt/reflekt" target="_blank" rel="noopener noreferrer">Reflekt - reflective testing</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/" target="_blank" rel="noopener noreferrer">Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine</a></li> <li><a href="https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce" target="_blank" rel="noopener noreferrer">JavaScript Frameworks, Performance Comparison 2020</a></li> <li><a href="https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html" target="_blank" rel="noopener noreferrer">Introducing Zero-Bundle-Size React Server Components</a></li> <li><a href="https://github.blog/2020-12-21-how-we-built-the-github-globe/" target="_blank" rel="noopener noreferrer">How we built the GitHub globe</a></li> <li><a href="https://dannjs.org/" target="_blank" rel="noopener noreferrer">Dann.js - Neural Network library for Javascript</a></li> <li><a href="https://github.com/RobinLinus/snapdrop" target="_blank" rel="noopener noreferrer">Snapdrop - local file sharing in your browser</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/" target="_blank" rel="noopener noreferrer">Ruby 3.0.0 Released</a></li> <li><a href="https://coderemixer.com/2020/12/22/ruby-3-fiber-scheduler-evt-dev-log-en/" target="_blank" rel="noopener noreferrer">Ruby 3 Fiber Scheduler</a></li> <li><a href="https://hotwire.dev/" target="_blank" rel="noopener noreferrer">Hotwire</a></li> <li><a href="https://robrace.dev/build-a-twitter-clone-with-rails-hotwire/" target="_blank" rel="noopener noreferrer">How to Build a Twitter Clone with Rails and Hotwire</a></li> <li><a href="https://www.driftingruby.com/episodes/hotwire" target="_blank" rel="noopener noreferrer">Hotwire (video)</a></li> <li><a href="https://kirshatrov.com/2020/12/27/ractor-web-server-part-two/" target="_blank" rel="noopener noreferrer">Writing a Ractor-based web server: part II</a></li> <li><a href="https://github.com/refIekt/reflekt" target="_blank" rel="noopener noreferrer">Reflekt - reflective testing</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/" target="_blank" rel="noopener noreferrer">Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine</a></li> <li><a href="https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce" target="_blank" rel="noopener noreferrer">JavaScript Frameworks, Performance Comparison 2020</a></li> <li><a href="https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html" target="_blank" rel="noopener noreferrer">Introducing Zero-Bundle-Size React Server Components</a></li> <li><a href="https://github.blog/2020-12-21-how-we-built-the-github-globe/" target="_blank" rel="noopener noreferrer">How we built the GitHub globe</a></li> <li><a href="https://dannjs.org/" target="_blank" rel="noopener noreferrer">Dann.js - Neural Network library for Javascript</a></li> <li><a href="https://github.com/RobinLinus/snapdrop" target="_blank" rel="noopener noreferrer">Snapdrop - local file sharing in your browser</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/12/28/podcast-08-51.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/12/28/podcast-08-51.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/08/0851.mp3" length="53250767" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/08/0851.mp3" fileSize="53250767" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 3.0.0 Released Ruby 3 Fiber Scheduler Hotwir...</itunes:subtitle>
+  <itunes:summary>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 3.0.0 Released Ruby 3 Fiber Scheduler Hotwire How to Build a Twitter Clone with Rails and Hotwire Hotwire (video) Writing a Ractor-based web server: part II Reflekt - reflective testing  Web  Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine JavaScript Frameworks, Performance Comparison 2020 Introducing Zero-Bundle-Size React Server Components How we built the GitHub globe Dann.js - Neural Network library for Javascript Snapdrop - local file sharing in your browser  
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0851.png"/>
+  <itunes:duration>00:51:32</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>50 выпуск 08 сезона. Ruby 3.0.0 RC1, Kubernetes 1.20, HashiCorp Nomad 1.0, Moiva, Visly, Owncast, Blob Opera и прочее</title>
   <description>
@@ -17368,89 +17400,6 @@ FOAM Framework и Egg.js - a Simple Way to add Easter Eggs to your site
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/03/0316.png"/>
   <itunes:duration>01:02:38</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>15 выпуск 03 сезона. Ruby 2.2.2, RethinkDB 2.0, Ensnare, Amok, Image Formats: the nerdy parts, You Don't Know JS и прочее</title>
-  <description>
-    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li>
-<a href="https://www.ruby-lang.org/en/news/2015/04/13/ruby-2-2-2-released/" target="_blank" rel="noopener noreferrer">Ruby 2.2.2</a>, <a href="http://www.flyoverworks.com/posts/storytime-2-0-a-combined-rails-cms-blog-admin-engine" target="_blank" rel="noopener noreferrer">Storytime 2.0</a> и <a href="http://rethinkdb.com/blog/2.0-release/" target="_blank" rel="noopener noreferrer">RethinkDB 2.0</a>
-</li> <li>
-<a href="http://brewhouse.io/blog/2015/04/13/elegant-tests-with-truth-tables.html" target="_blank" rel="noopener noreferrer">Elegant tests with Truth Tables</a> и <a href="http://rubyfunbox.com/" target="_blank" rel="noopener noreferrer">Ruby Fun Box - a handful of basic ruby problems with solutions</a>
-</li> <li>
-<a href="http://ilyabylich.svbtle.com/redis-cluster-quick-overview" target="_blank" rel="noopener noreferrer">Redis cluster. Quick overview</a> и <a href="http://kubernetes.io/" target="_blank" rel="noopener noreferrer">Kubernetes - manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops</a>
-</li> <li>
-<a href="http://solnic.github.io/transproc/" target="_blank" rel="noopener noreferrer">Transproc - transform Ruby objects in functional style</a>, <a href="https://github.com/ahoernecke/ensnare" target="_blank" rel="noopener noreferrer">Ensnare - rubygem for Ruby on Rails which allow configuring a basic malicious behavior detection and response scheme</a> и <a href="https://github.com/stompesi/gemput" target="_blank" rel="noopener noreferrer">Gemput - freezing Gemfile</a>
-</li> </ul> <h2 id="javascript">JavaScript</h2> <ul> <li>
-<a href="https://www.npmjs.com/private-modules" target="_blank" rel="noopener noreferrer">Npm Private Modules</a>, <a href="http://www.rapydscript.com/" target="_blank" rel="noopener noreferrer">RapydScript - pythonic JavaScript that doesn’t suck</a> и <a href="http://amokjs.com/" target="_blank" rel="noopener noreferrer">Amok - No Reload Live Editing for JavaScript</a>
-</li> <li>
-<a href="http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html" target="_blank" rel="noopener noreferrer">Change And Its Detection In JavaScript Frameworks</a> и <a href="http://ericleads.com/2013/04/youre-optimizing-the-wrong-things/" target="_blank" rel="noopener noreferrer">You’re Optimizing The Wrong Things</a>
-</li> <li>
-<a href="https://speakerdeck.com/lara/image-formats-the-nerdy-parts" target="_blank" rel="noopener noreferrer">Image Formats: the nerdy parts</a> и <a href="http://highlandjs.org/" target="_blank" rel="noopener noreferrer">Highland.js - the high-level streams library for Node.js and the browser</a>
-</li> <li>
-<a href="https://github.com/getify/You-Dont-Know-JS" target="_blank" rel="noopener noreferrer">You Don’t Know JS (book series)</a> и <a href="http://learnjsdata.com/" target="_blank" rel="noopener noreferrer">Learn JS Data: Data manipulation, munging, and processing in JavaScript</a>
-</li> </ul> <p></p>
-</body></html>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li>
-<a href="https://www.ruby-lang.org/en/news/2015/04/13/ruby-2-2-2-released/" target="_blank" rel="noopener noreferrer">Ruby 2.2.2</a>, <a href="http://www.flyoverworks.com/posts/storytime-2-0-a-combined-rails-cms-blog-admin-engine" target="_blank" rel="noopener noreferrer">Storytime 2.0</a> и <a href="http://rethinkdb.com/blog/2.0-release/" target="_blank" rel="noopener noreferrer">RethinkDB 2.0</a>
-</li> <li>
-<a href="http://brewhouse.io/blog/2015/04/13/elegant-tests-with-truth-tables.html" target="_blank" rel="noopener noreferrer">Elegant tests with Truth Tables</a> и <a href="http://rubyfunbox.com/" target="_blank" rel="noopener noreferrer">Ruby Fun Box - a handful of basic ruby problems with solutions</a>
-</li> <li>
-<a href="http://ilyabylich.svbtle.com/redis-cluster-quick-overview" target="_blank" rel="noopener noreferrer">Redis cluster. Quick overview</a> и <a href="http://kubernetes.io/" target="_blank" rel="noopener noreferrer">Kubernetes - manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops</a>
-</li> <li>
-<a href="http://solnic.github.io/transproc/" target="_blank" rel="noopener noreferrer">Transproc - transform Ruby objects in functional style</a>, <a href="https://github.com/ahoernecke/ensnare" target="_blank" rel="noopener noreferrer">Ensnare - rubygem for Ruby on Rails which allow configuring a basic malicious behavior detection and response scheme</a> и <a href="https://github.com/stompesi/gemput" target="_blank" rel="noopener noreferrer">Gemput - freezing Gemfile</a>
-</li> </ul> <h2 id="javascript">JavaScript</h2> <ul> <li>
-<a href="https://www.npmjs.com/private-modules" target="_blank" rel="noopener noreferrer">Npm Private Modules</a>, <a href="http://www.rapydscript.com/" target="_blank" rel="noopener noreferrer">RapydScript - pythonic JavaScript that doesn’t suck</a> и <a href="http://amokjs.com/" target="_blank" rel="noopener noreferrer">Amok - No Reload Live Editing for JavaScript</a>
-</li> <li>
-<a href="http://teropa.info/blog/2015/03/02/change-and-its-detection-in-javascript-frameworks.html" target="_blank" rel="noopener noreferrer">Change And Its Detection In JavaScript Frameworks</a> и <a href="http://ericleads.com/2013/04/youre-optimizing-the-wrong-things/" target="_blank" rel="noopener noreferrer">You’re Optimizing The Wrong Things</a>
-</li> <li>
-<a href="https://speakerdeck.com/lara/image-formats-the-nerdy-parts" target="_blank" rel="noopener noreferrer">Image Formats: the nerdy parts</a> и <a href="http://highlandjs.org/" target="_blank" rel="noopener noreferrer">Highland.js - the high-level streams library for Node.js and the browser</a>
-</li> <li>
-<a href="https://github.com/getify/You-Dont-Know-JS" target="_blank" rel="noopener noreferrer">You Don’t Know JS (book series)</a> и <a href="http://learnjsdata.com/" target="_blank" rel="noopener noreferrer">Learn JS Data: Data manipulation, munging, and processing in JavaScript</a>
-</li> </ul> <p></p>
-</body></html>
-]]>
-  </content:encoded>
-  <pubDate>Tue, 21 Apr 2015 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2015/04/21/podcast-03-15.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2015/04/21/podcast-03-15.html</guid>
-  <enclosure url="https://mp3.rwpod-assets.com/podcasts/03/0315.mp3" length="51101794" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod-assets.com/podcasts/03/0315.mp3" fileSize="51101794" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>
-Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  
-Ruby 2.2.2, Storytime 2.0 и RethinkDB 2.0
- 
-Eleg...</itunes:subtitle>
-  <itunes:summary>
-Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  
-Ruby 2.2.2, Storytime 2.0 и RethinkDB 2.0
- 
-Elegant tests with Truth Tables и Ruby Fun Box - a handful of basic ruby problems with solutions
- 
-Redis cluster. Quick overview и Kubernetes - manage a cluster of Linux containers as a single system to accelerate Dev and simplify Ops
- 
-Transproc - transform Ruby objects in functional style, Ensnare - rubygem for Ruby on Rails which allow configuring a basic malicious behavior detection and response scheme и Gemput - freezing Gemfile
-  JavaScript  
-Npm Private Modules, RapydScript - pythonic JavaScript that doesn’t suck и Amok - No Reload Live Editing for JavaScript
- 
-Change And Its Detection In JavaScript Frameworks и You’re Optimizing The Wrong Things
- 
-Image Formats: the nerdy parts и Highland.js - the high-level streams library for Node.js and the browser
- 
-You Don’t Know JS (book series) и Learn JS Data: Data manipulation, munging, and processing in JavaScript
-  
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/03/0315.png"/>
-  <itunes:duration>00:53:07</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>

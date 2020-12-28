@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 21 Dec 2020 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 21 Dec 2020 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Dec 2020 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,38 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>51 выпуск 08 сезона. Ruby 3.0.0, Hotwire, JavaScript Frameworks, Performance Comparison 2020, Dann.js и прочее</title>
+  <description>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/" target="_blank" rel="noopener noreferrer">Ruby 3.0.0 Released</a></li> <li><a href="https://coderemixer.com/2020/12/22/ruby-3-fiber-scheduler-evt-dev-log-en/" target="_blank" rel="noopener noreferrer">Ruby 3 Fiber Scheduler</a></li> <li><a href="https://hotwire.dev/" target="_blank" rel="noopener noreferrer">Hotwire</a></li> <li><a href="https://robrace.dev/build-a-twitter-clone-with-rails-hotwire/" target="_blank" rel="noopener noreferrer">How to Build a Twitter Clone with Rails and Hotwire</a></li> <li><a href="https://www.driftingruby.com/episodes/hotwire" target="_blank" rel="noopener noreferrer">Hotwire (video)</a></li> <li><a href="https://kirshatrov.com/2020/12/27/ractor-web-server-part-two/" target="_blank" rel="noopener noreferrer">Writing a Ractor-based web server: part II</a></li> <li><a href="https://github.com/refIekt/reflekt" target="_blank" rel="noopener noreferrer">Reflekt - reflective testing</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/" target="_blank" rel="noopener noreferrer">Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine</a></li> <li><a href="https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce" target="_blank" rel="noopener noreferrer">JavaScript Frameworks, Performance Comparison 2020</a></li> <li><a href="https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html" target="_blank" rel="noopener noreferrer">Introducing Zero-Bundle-Size React Server Components</a></li> <li><a href="https://github.blog/2020-12-21-how-we-built-the-github-globe/" target="_blank" rel="noopener noreferrer">How we built the GitHub globe</a></li> <li><a href="https://dannjs.org/" target="_blank" rel="noopener noreferrer">Dann.js - Neural Network library for Javascript</a></li> <li><a href="https://github.com/RobinLinus/snapdrop" target="_blank" rel="noopener noreferrer">Snapdrop - local file sharing in your browser</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/" target="_blank" rel="noopener noreferrer">Ruby 3.0.0 Released</a></li> <li><a href="https://coderemixer.com/2020/12/22/ruby-3-fiber-scheduler-evt-dev-log-en/" target="_blank" rel="noopener noreferrer">Ruby 3 Fiber Scheduler</a></li> <li><a href="https://hotwire.dev/" target="_blank" rel="noopener noreferrer">Hotwire</a></li> <li><a href="https://robrace.dev/build-a-twitter-clone-with-rails-hotwire/" target="_blank" rel="noopener noreferrer">How to Build a Twitter Clone with Rails and Hotwire</a></li> <li><a href="https://www.driftingruby.com/episodes/hotwire" target="_blank" rel="noopener noreferrer">Hotwire (video)</a></li> <li><a href="https://kirshatrov.com/2020/12/27/ractor-web-server-part-two/" target="_blank" rel="noopener noreferrer">Writing a Ractor-based web server: part II</a></li> <li><a href="https://github.com/refIekt/reflekt" target="_blank" rel="noopener noreferrer">Reflekt - reflective testing</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://berthub.eu/articles/posts/reverse-engineering-source-code-of-the-biontech-pfizer-vaccine/" target="_blank" rel="noopener noreferrer">Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine</a></li> <li><a href="https://medium.com/javascript-in-plain-english/javascript-frameworks-performance-comparison-2020-cd881ac21fce" target="_blank" rel="noopener noreferrer">JavaScript Frameworks, Performance Comparison 2020</a></li> <li><a href="https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html" target="_blank" rel="noopener noreferrer">Introducing Zero-Bundle-Size React Server Components</a></li> <li><a href="https://github.blog/2020-12-21-how-we-built-the-github-globe/" target="_blank" rel="noopener noreferrer">How we built the GitHub globe</a></li> <li><a href="https://dannjs.org/" target="_blank" rel="noopener noreferrer">Dann.js - Neural Network library for Javascript</a></li> <li><a href="https://github.com/RobinLinus/snapdrop" target="_blank" rel="noopener noreferrer">Snapdrop - local file sharing in your browser</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 28 Dec 2020 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2020/12/28/podcast-08-51.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/12/28/podcast-08-51.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/08/0851.mp3" length="53250767" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/08/0851.mp3" fileSize="53250767" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 3.0.0 Released Ruby 3 Fiber Scheduler Hotwir...</itunes:subtitle>
+  <itunes:summary>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 3.0.0 Released Ruby 3 Fiber Scheduler Hotwire How to Build a Twitter Clone with Rails and Hotwire Hotwire (video) Writing a Ractor-based web server: part II Reflekt - reflective testing  Web  Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine JavaScript Frameworks, Performance Comparison 2020 Introducing Zero-Bundle-Size React Server Components How we built the GitHub globe Dann.js - Neural Network library for Javascript Snapdrop - local file sharing in your browser  
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/08/0851.png"/>
+  <itunes:duration>00:51:32</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>50 выпуск 08 сезона. Ruby 3.0.0 RC1, Kubernetes 1.20, HashiCorp Nomad 1.0, Moiva, Visly, Owncast, Blob Opera и прочее</title>
   <description>
@@ -1610,38 +1642,6 @@ Ruby Next, ActionPolicy, TestProf, Lite Cable, Isolator, Logidze … Балан�
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0808.png"/>
   <itunes:duration>00:36:08</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-</item>
-<item>
-  <title>07 выпуск 08 сезона. GraphqlRails 1.0.0, Kiba 3.0.0, Gemfile lint, Paged.js, Disappearing-People и прочее</title>
-  <description>
-    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://blog.saeloun.com/2020/02/18/ruby-2-7-access-and-setting-of-safe-warned-will-become-global-variable" target="_blank" rel="noopener noreferrer">Ruby 2.7 removes taint checking mechanism</a></li> <li><a href="https://blog.saeloun.com/2020/02/17/rails-6-1-adds-at-option-to-perform_enqueued_jobs-test-helper" target="_blank" rel="noopener noreferrer">Rails 6.1 adds at option to perform_enqueued_jobs test helper</a></li> <li><a href="https://medium.com/faun/three-methods-to-share-rails-assets-with-nginx-f39c90bb7d68" target="_blank" rel="noopener noreferrer">Three Methods to Share Rails Assets With Nginx</a></li> <li> <p><a href="http://gavinmiller.io/2020/how-i-mitmd-rubygems-org-kinda/" target="_blank" rel="noopener noreferrer">How I MITM’d rubygems.org … Kinda</a></p> </li> <li><a href="https://www.codewithjason.com/used-intelligently-rails-concerns-great/" target="_blank" rel="noopener noreferrer">When used intelligently, Rails concerns are great</a></li> <li><a href="https://dev.to/povilasjurcys/graphqlrails-1-0-0-has-been-released-ko" target="_blank" rel="noopener noreferrer">GraphqlRails 1.0.0 has been released</a></li> <li><a href="https://github.com/thbar/kiba/releases/tag/v3.0.0" target="_blank" rel="noopener noreferrer">Kiba - ETL jobs using Ruby (version 3.0.0)</a></li> <li><a href="https://github.com/kddeisz/gemfilelint" target="_blank" rel="noopener noreferrer">Gemfile lint - check all of your listed sources against known trusted sources</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://alligator.io/js/gotchas/" target="_blank" rel="noopener noreferrer">JavaScript Interview Questions: Common Gotchas</a></li> <li><a href="https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/" target="_blank" rel="noopener noreferrer">Fixing memory leaks in web applications</a></li> <li> <p><a href="https://alexanderell.is/posts/taking-over-my-clipboard/" target="_blank" rel="noopener noreferrer">Don’t touch my clipboard</a></p> </li> <li><a href="https://ishadeed.com/article/styling-the-good-old-button/" target="_blank" rel="noopener noreferrer">Styling The Good Ol’ Button Element</a></li> <li><a href="https://kentcdodds.com/blog/make-your-own-dev-tools" target="_blank" rel="noopener noreferrer">Make your own DevTools</a></li> <li><a href="https://www.pagedjs.org/" target="_blank" rel="noopener noreferrer">Paged.js - a JS library that paginates content in the browser to create PDF output from any HTML content</a></li> <li><a href="https://github.com/jasonmayes/Real-Time-Person-Removal" target="_blank" rel="noopener noreferrer">Disappearing-People - Person removal from complex backgrounds over time</a></li> </ul> <p></p>
-</body></html>
-]]>
-  </description>
-  <content:encoded>
-    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://blog.saeloun.com/2020/02/18/ruby-2-7-access-and-setting-of-safe-warned-will-become-global-variable" target="_blank" rel="noopener noreferrer">Ruby 2.7 removes taint checking mechanism</a></li> <li><a href="https://blog.saeloun.com/2020/02/17/rails-6-1-adds-at-option-to-perform_enqueued_jobs-test-helper" target="_blank" rel="noopener noreferrer">Rails 6.1 adds at option to perform_enqueued_jobs test helper</a></li> <li><a href="https://medium.com/faun/three-methods-to-share-rails-assets-with-nginx-f39c90bb7d68" target="_blank" rel="noopener noreferrer">Three Methods to Share Rails Assets With Nginx</a></li> <li> <p><a href="http://gavinmiller.io/2020/how-i-mitmd-rubygems-org-kinda/" target="_blank" rel="noopener noreferrer">How I MITM’d rubygems.org … Kinda</a></p> </li> <li><a href="https://www.codewithjason.com/used-intelligently-rails-concerns-great/" target="_blank" rel="noopener noreferrer">When used intelligently, Rails concerns are great</a></li> <li><a href="https://dev.to/povilasjurcys/graphqlrails-1-0-0-has-been-released-ko" target="_blank" rel="noopener noreferrer">GraphqlRails 1.0.0 has been released</a></li> <li><a href="https://github.com/thbar/kiba/releases/tag/v3.0.0" target="_blank" rel="noopener noreferrer">Kiba - ETL jobs using Ruby (version 3.0.0)</a></li> <li><a href="https://github.com/kddeisz/gemfilelint" target="_blank" rel="noopener noreferrer">Gemfile lint - check all of your listed sources against known trusted sources</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://alligator.io/js/gotchas/" target="_blank" rel="noopener noreferrer">JavaScript Interview Questions: Common Gotchas</a></li> <li><a href="https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/" target="_blank" rel="noopener noreferrer">Fixing memory leaks in web applications</a></li> <li> <p><a href="https://alexanderell.is/posts/taking-over-my-clipboard/" target="_blank" rel="noopener noreferrer">Don’t touch my clipboard</a></p> </li> <li><a href="https://ishadeed.com/article/styling-the-good-old-button/" target="_blank" rel="noopener noreferrer">Styling The Good Ol’ Button Element</a></li> <li><a href="https://kentcdodds.com/blog/make-your-own-dev-tools" target="_blank" rel="noopener noreferrer">Make your own DevTools</a></li> <li><a href="https://www.pagedjs.org/" target="_blank" rel="noopener noreferrer">Paged.js - a JS library that paginates content in the browser to create PDF output from any HTML content</a></li> <li><a href="https://github.com/jasonmayes/Real-Time-Person-Removal" target="_blank" rel="noopener noreferrer">Disappearing-People - Person removal from complex backgrounds over time</a></li> </ul> <p></p>
-</body></html>
-]]>
-  </content:encoded>
-  <pubDate>Mon, 24 Feb 2020 00:00:00 +0200</pubDate>
-  <link>https://www.rwpod.com/posts/2020/02/24/podcast-08-07.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/02/24/podcast-08-07.html</guid>
-  <enclosure url="https://mp3.rwpod-assets.com/podcasts/08/0807.mp3" length="42264359" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod-assets.com/podcasts/08/0807.mp3" fileSize="42264359" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>
-Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 2.7 removes taint checking mechanism Rails 6...</itunes:subtitle>
-  <itunes:summary>
-Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 2.7 removes taint checking mechanism Rails 6.1 adds at option to perform_enqueued_jobs test helper Three Methods to Share Rails Assets With Nginx  How I MITM’d rubygems.org … Kinda  When used intelligently, Rails concerns are great GraphqlRails 1.0.0 has been released Kiba - ETL jobs using Ruby (version 3.0.0) Gemfile lint - check all of your listed sources against known trusted sources  Web  JavaScript Interview Questions: Common Gotchas Fixing memory leaks in web applications  Don’t touch my clipboard  Styling The Good Ol’ Button Element Make your own DevTools Paged.js - a JS library that paginates content in the browser to create PDF output from any HTML content Disappearing-People - Person removal from complex backgrounds over time  
-</itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
-  <itunes:image href="https://www.rwpod.com/images/static/08/0807.png"/>
-  <itunes:duration>00:41:44</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 </item>
   </channel>
