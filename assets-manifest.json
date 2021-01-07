@@ -1,9 +1,9 @@
 {
-  "app-18343bfae4a66387a1a4.js.LICENSE.txt": "/app-18343bfae4a66387a1a4.js.LICENSE.txt",
-  "app-18343bfae4a66387a1a4.js.map": "/app-18343bfae4a66387a1a4.js.map",
   "app-893af9b805c87c5a0b51.css.map": "/app-893af9b805c87c5a0b51.css.map",
+  "app-c790f372aa4817ec1e7b.js.LICENSE.txt": "/app-c790f372aa4817ec1e7b.js.LICENSE.txt",
+  "app-c790f372aa4817ec1e7b.js.map": "/app-c790f372aa4817ec1e7b.js.map",
   "app.css": "/app-893af9b805c87c5a0b51.css",
-  "app.js": "/app-18343bfae4a66387a1a4.js",
+  "app.js": "/app-c790f372aa4817ec1e7b.js",
   "sw.js": "/sw.js",
   "sw.js.map": "/sw.js.map"
 }
