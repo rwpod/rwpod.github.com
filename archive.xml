@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 11 Jan 2021 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 11 Jan 2021 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 18 Jan 2021 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 18 Jan 2021 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,38 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>02 выпуск 09 сезона. State of JS 2020, Ruby on Google Cloud Functions, Altair GraphQL Client, Compiled и прочее</title>
+  <description>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://blog.saeloun.com/2021/01/08/rails-6-check-constraints-database-migrations" target="_blank" rel="noopener noreferrer">Rails 6.1 adds support for check constraints to database migrations</a></li> <li><a href="https://blog.saeloun.com/2021/01/08/rails-6-1-pre-database-connection-switching" target="_blank" rel="noopener noreferrer">Rails 6.1 adds support for role switching and sharding in database</a></li> <li> <p><a href="https://cloud.google.com/blog/products/application-development/ruby-comes-to-cloud-functions" target="_blank" rel="noopener noreferrer">Introducing Ruby on Google Cloud Functions</a></p> </li> <li><a href="https://boringrails.com/articles/responsive-tables-stimulus-intersection-observer/" target="_blank" rel="noopener noreferrer">Magic Responsive Tables with Stimulus and IntersectionObserver</a></li> <li><a href="https://nextlinklabs.com/insights/most-common-technical-debt-in-rails-projects" target="_blank" rel="noopener noreferrer">Most Common Types of Technical Debt in Rails</a></li> <li><a href="https://dev.to/baweaver/ruby-3-pattern-matching-applied-poker-4b9d" target="_blank" rel="noopener noreferrer">Ruby 3 Pattern Matching Applied: Poker</a></li> <li><a href="https://github.com/omniauth/omniauth/releases/tag/v2.0.0" target="_blank" rel="noopener noreferrer">OmniAuth 2.0.0</a></li> <li><a href="https://github.com/cookpad/omniauth-rails_csrf_protection/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">OmniAuth - Rails CSRF Protection 1.0.0</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://2020.stateofjs.com/en-US/" target="_blank" rel="noopener noreferrer">State of JS 2020</a></li> <li><a href="https://www.jonmellman.com/posts/promise-memoization" target="_blank" rel="noopener noreferrer">Advanced Promise Patterns: Promise Memoization</a></li> <li><a href="https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/" target="_blank" rel="noopener noreferrer">How to implement an exponential backoff retry strategy in Javascript</a></li> <li> <p><a href="https://css-tricks.com/deploying-a-serverless-jamstack-site-with-redwoodjs-fauna-and-vercel/" target="_blank" rel="noopener noreferrer">Deploying a Serverless Jamstack Site with RedwoodJS, Fauna, and Vercel</a></p> </li> <li><a href="https://altair.sirmuel.design/" target="_blank" rel="noopener noreferrer">Altair GraphQL Client</a></li> <li><a href="https://compiledcssinjs.com/" target="_blank" rel="noopener noreferrer">Compiled - build time atomic CSS-in-JS</a></li> <li><a href="https://victordibia.com/handtrack.js/#/" target="_blank" rel="noopener noreferrer">Handtrack.js - a library for prototyping realtime handtracking in the browser</a></li> <li><a href="https://www.albertwalicki.com/fall-in-love-with-single-div-images" target="_blank" rel="noopener noreferrer">How to Fall In Love With Single Div Illustrations</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </description>
+  <content:encoded>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://blog.saeloun.com/2021/01/08/rails-6-check-constraints-database-migrations" target="_blank" rel="noopener noreferrer">Rails 6.1 adds support for check constraints to database migrations</a></li> <li><a href="https://blog.saeloun.com/2021/01/08/rails-6-1-pre-database-connection-switching" target="_blank" rel="noopener noreferrer">Rails 6.1 adds support for role switching and sharding in database</a></li> <li> <p><a href="https://cloud.google.com/blog/products/application-development/ruby-comes-to-cloud-functions" target="_blank" rel="noopener noreferrer">Introducing Ruby on Google Cloud Functions</a></p> </li> <li><a href="https://boringrails.com/articles/responsive-tables-stimulus-intersection-observer/" target="_blank" rel="noopener noreferrer">Magic Responsive Tables with Stimulus and IntersectionObserver</a></li> <li><a href="https://nextlinklabs.com/insights/most-common-technical-debt-in-rails-projects" target="_blank" rel="noopener noreferrer">Most Common Types of Technical Debt in Rails</a></li> <li><a href="https://dev.to/baweaver/ruby-3-pattern-matching-applied-poker-4b9d" target="_blank" rel="noopener noreferrer">Ruby 3 Pattern Matching Applied: Poker</a></li> <li><a href="https://github.com/omniauth/omniauth/releases/tag/v2.0.0" target="_blank" rel="noopener noreferrer">OmniAuth 2.0.0</a></li> <li><a href="https://github.com/cookpad/omniauth-rails_csrf_protection/releases/tag/v1.0.0" target="_blank" rel="noopener noreferrer">OmniAuth - Rails CSRF Protection 1.0.0</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://2020.stateofjs.com/en-US/" target="_blank" rel="noopener noreferrer">State of JS 2020</a></li> <li><a href="https://www.jonmellman.com/posts/promise-memoization" target="_blank" rel="noopener noreferrer">Advanced Promise Patterns: Promise Memoization</a></li> <li><a href="https://advancedweb.hu/how-to-implement-an-exponential-backoff-retry-strategy-in-javascript/" target="_blank" rel="noopener noreferrer">How to implement an exponential backoff retry strategy in Javascript</a></li> <li> <p><a href="https://css-tricks.com/deploying-a-serverless-jamstack-site-with-redwoodjs-fauna-and-vercel/" target="_blank" rel="noopener noreferrer">Deploying a Serverless Jamstack Site with RedwoodJS, Fauna, and Vercel</a></p> </li> <li><a href="https://altair.sirmuel.design/" target="_blank" rel="noopener noreferrer">Altair GraphQL Client</a></li> <li><a href="https://compiledcssinjs.com/" target="_blank" rel="noopener noreferrer">Compiled - build time atomic CSS-in-JS</a></li> <li><a href="https://victordibia.com/handtrack.js/#/" target="_blank" rel="noopener noreferrer">Handtrack.js - a library for prototyping realtime handtracking in the browser</a></li> <li><a href="https://www.albertwalicki.com/fall-in-love-with-single-div-images" target="_blank" rel="noopener noreferrer">How to Fall In Love With Single Div Illustrations</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </content:encoded>
+  <pubDate>Mon, 18 Jan 2021 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2021/01/18/podcast-09-02.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2021/01/18/podcast-09-02.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/09/0902.mp3" length="58995663" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/09/0902.mp3" fileSize="58995663" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 adds support for check constraints to d...</itunes:subtitle>
+  <itunes:summary>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 adds support for check constraints to database migrations Rails 6.1 adds support for role switching and sharding in database  Introducing Ruby on Google Cloud Functions  Magic Responsive Tables with Stimulus and IntersectionObserver Most Common Types of Technical Debt in Rails Ruby 3 Pattern Matching Applied: Poker OmniAuth 2.0.0 OmniAuth - Rails CSRF Protection 1.0.0  Web  State of JS 2020 Advanced Promise Patterns: Promise Memoization How to implement an exponential backoff retry strategy in Javascript  Deploying a Serverless Jamstack Site with RedwoodJS, Fauna, and Vercel  Altair GraphQL Client Compiled - build time atomic CSS-in-JS Handtrack.js - a library for prototyping realtime handtracking in the browser How to Fall In Love With Single Div Illustrations  
+</itunes:summary>
+  <itunes:explicit>no</itunes:explicit>
+  <itunes:image href="https://www.rwpod.com/images/static/09/0902.png"/>
+  <itunes:duration>00:57:01</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+</item>
 <item>
   <title>01 выпуск 09 сезона. The future of Traveling Ruby, Front-end predictions for 2021, The State Of CSS 2020 и прочее</title>
   <description>
