@@ -2515,10 +2515,4 @@
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
-  <url>
-    <loc>https://www.rwpod.com/posts/2013/01/22/rwpod-hello-world.html</loc>
-    <lastmod>2013-01-21T22:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.6</priority>
-  </url>
 </urlset>
