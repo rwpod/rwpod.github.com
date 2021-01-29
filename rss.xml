@@ -12,7 +12,7 @@
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
-    <itunes:explicit>clean</itunes:explicit>
+    <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://www.rwpod.com/images/logo.png"/>
     <itunes:owner>
       <itunes:name>RWpod команда</itunes:name>
@@ -25,6 +25,8 @@
     <media:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
     <googleplay:author>RWpod команда</googleplay:author>
+    <googleplay:owner>rwpod.com@gmail.com</googleplay:owner>
+    <googleplay:explicit>no</googleplay:explicit>
     <googleplay:image href="https://www.rwpod.com/images/logo.png"/>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 <item>
@@ -48,7 +50,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 allows per environment configuration support for Active Storage Rails 6.1 adds support for belongs_to to has_many inversing Rails has added a webpacker Guide  IRB’s Built-in Measure  An Unusual Performance Optimization How ActiveRecord Uses Caching To Avoid Unnecessary Trips To The Database Interesting throw/catch behaviour in Ruby 3 Practical Uses of Ruby’s method_missing You Should Know.  Web  How We Improved SmashingMag Performance An Introduction to the JavaScript Temporal API  Running Rust in WebAssembly in a Pool of Concurrent Web Workers in JavaScript  Forgo - a tiny UI runtime for modern web apps BrowserVM - an efficient X86-64 full-system emulator running in browsers Naming cheatsheet EStimator.dev: The Modern JavaScript Savings Calculator  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/09/0903.png"/>
   <itunes:duration>00:38:57</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -75,7 +76,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 adds support for check constraints to database migrations Rails 6.1 adds support for role switching and sharding in database  Introducing Ruby on Google Cloud Functions  Magic Responsive Tables with Stimulus and IntersectionObserver Most Common Types of Technical Debt in Rails Ruby 3 Pattern Matching Applied: Poker OmniAuth 2.0.0 OmniAuth - Rails CSRF Protection 1.0.0  Web  State of JS 2020 Advanced Promise Patterns: Promise Memoization How to implement an exponential backoff retry strategy in Javascript  Deploying a Serverless Jamstack Site with RedwoodJS, Fauna, and Vercel  Altair GraphQL Client Compiled - build time atomic CSS-in-JS Handtrack.js - a library for prototyping realtime handtracking in the browser How to Fall In Love With Single Div Illustrations  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/09/0902.png"/>
   <itunes:duration>00:57:01</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -102,7 +102,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 allows default_scope to be run on all queries Ruby 3.0 and the new FiberScheduler interface Everything You Need to Know About Destructuring in Ruby 3 The future of Traveling Ruby  Ruby 3, concurrency and the ecosystem  Nokogiri gem now ships with pre-compiled binaries for Linux and Mac Sord - a Sorbet and YARD crossover Yet Another Serialization Library Raytrace-ruby - raytracing in Ruby How to upgrade from Turbolinks to Hotwire &amp; Turbo  Web  Front-end predictions for 2021 The State Of CSS 2020 We rendered a million web pages to find out what makes the web slow  Google PageSpeed Insights: The Truth About Scoring 100/100  MyDrive - a free Open Source Cloud Server (Similar To Google Drive) TabFS - a browser extension that mounts your browser tabs as a filesystem on your computer Xstyled - a utility-first CSS-in-JS framework built for React Project Lightspeed - a self contained OBS -&gt; FTL -&gt; WebRTC live streaming server  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/09/0901.png"/>
   <itunes:duration>01:09:36</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -129,7 +128,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 3.0.0 Released Ruby 3 Fiber Scheduler Hotwire How to Build a Twitter Clone with Rails and Hotwire Hotwire (video) Writing a Ractor-based web server: part II Reflekt - reflective testing  Web  Reverse Engineering the source code of the BioNTech/Pfizer SARS-CoV-2 Vaccine JavaScript Frameworks, Performance Comparison 2020 Introducing Zero-Bundle-Size React Server Components How we built the GitHub globe Dann.js - Neural Network library for Javascript Snapdrop - local file sharing in your browser  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0851.png"/>
   <itunes:duration>00:51:32</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -156,7 +154,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 3.0.0 RC1 Released Encapsulating Ruby on Rails views Kubernetes 1.20: The Raddest Release Announcing General Availability of HashiCorp Nomad 1.0 Rails: insert_all and upsert_all RubyConf 2020 videos  Web  Moiva - Measure and compare JavaScript libraries Visly - Build React components visually Owncast - take control over your live stream video by running it yourself Deep Email Validator - validates regex, typos, disposable, dns and smtp Blob Opera  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0850.png"/>
   <itunes:duration>00:30:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -183,7 +180,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 3.0.0 Preview 2 Released Rails 6.1: Horizontal Sharding, Multi-DB Improvements, Strict Loading, Destroy Associations in Background, Error Objects, and more! Rails 6.1 allows associations to support destroy_async option with dependent key Prettier for Ruby goes v1.0  Omniauth 2.0.0 Release Candidate 1  Climbing Steep hills, or adopting Ruby 3 types with RBS How to Create a AWS Lambda Layer of Your Gemfile / Ruby Gem Dependencies Introducing new features for the aws-sdk-rails gem  Web  Web Almanac 2020 The Import On Interaction Pattern Get ready to up your Apps Script!  How did JavaScript’s console.log get its name?  Debugging WebAssembly with modern tools Sticky Table Header with React Hooks JSitor - an alternative of JSFiddle, Codepen and JSbin Copy Guard - a simple browser extension that warns you when your copy action was hijacked  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0849.png"/>
   <itunes:duration>00:49:07</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -210,7 +206,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Stimulus 2.0.0 The 2020 Ruby Advent Calendar 2020  How to Make Your Code Reviewer Fall in Love with You  Why you shouldn’t inherit from Ruby’s core classes (and what to do instead) Rutie - the tie between Ruby and Rust OmniAuth::Apple - OmniAuth strategy for Sign In with Apple Rubyfu, where Ruby goes evil  Web  Snowpack v3.0 No One Ever Got Fired for Choosing React Puppeteer vs Selenium vs Playwright, a speed comparison  Incremental vs Virtual DOM  Lots of Ways to Use Math.random() in JavaScript JavaScript Algorithms and Data Structures WMR - the tiny all-in-one development tool for modern web apps Firetable - Excel/Google Sheets like UI for Firebase/Firestore  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0848.png"/>
   <itunes:duration>00:52:53</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -237,7 +232,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 adds values_at attribute method for Active Record Static Typing for Ruby How Fast are Ractors?  1.5 is the midpoint between 0 and infinity in Ruby  Moving my serverless project to Ruby on Rails A Trip Down Memory Lane With Derailed Benchmarks Lib-ruby-parser - a Ruby parser written in Rust Continuous Deployment with Rails &amp; GitHub Actions (video)  Web  Flash Animations Live Forever at the Internet Archive Back/forward cache  Deep Dive into Page Lifecycle API  Chrome DevTools: Record tests with the puppeteer recorder Etebase - an open source and end-to-end encrypted Firebase alternative Zettlr - a Markdown Editor for the 21st century ODIFF - the fastest in the world pixel-by-pixel image difference tool Reading-time - medium’s like reading time estimation  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0847.png"/>
   <itunes:duration>00:45:44</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -264,7 +258,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 allows attribute’s default to be configured but keeping its type Reusable development containers with Docker Compose and Dip  Ruby refinements have a second good use case  Benchmarking JSON Parsers (OJ, SimdJson, FastJsonParser) My Beef With RuboCop Ractor::TVar - software transactional memory implementation for Ractor and Thread on Ruby 3.0 High Voltage - rails engine for static pages  Web  Going from JavaScript to WebAssembly in three steps The most accurate way to schedule a function in a web browser  What’s the difference between Event Handlers &amp; addEventListener in JS?  Super simple start to Firebase functions Upptime - is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues Txtai - AI-powered search engine for JavaScript Jose - universal “JSON Web Almost Everything” - JWA, JWS, JWE, JWT, JWK with no dependencies using native crypto runtimes  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0846.png"/>
   <itunes:duration>00:38:11</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -291,7 +284,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  The Leaky Bucket rate limiter The art of errors Building a Programming Language in Ruby: The Parser  Moving from reCAPTCHA to hCaptcha  What are the different kinds of Rails tests and when should I use each? Ruby Refinements Have One Good Use Case Low Hanging Fruits in Frontend Performance Optimization SuperDiff - a gem that hooks into RSpec to intelligently display the differences between two data structures of any type How to Dual Boot Rails Versions (video)  Web  Updating Google Photos’ storage policy to build for the future Version 11 of Angular Now Available  No more free work from Marak  Operator Lookup React Frontload - simple full-stack data loading for React 22120 - an archivist browser controller that caches everything you browse, a library server with full text search to serve your archive  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0845.png"/>
   <itunes:duration>00:47:27</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -318,7 +310,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 RC1: Horizontal Sharding, Multi-DB Improvements, Strict Loading, Destroy Associations in Background, Error Objects, and more! Rails 6: How to search and filter index results  Performance Impact of Using Ruby on Rails View Partials  How to Migrate your JavaScript from Sprockets to Webpacker Termplot - a simple terminal plotting tool for visualising streaming data  Web  What’s the deal with SvelteKit?  WTFJS - a list of funny and tricky JavaScript examples  Supabase - the open source Firebase alternative Ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg Simorgh - the BBC’s Open Source Single Page Application Spacetime - lightweight javascript timezone library Graphery SVG  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0844.png"/>
   <itunes:duration>00:30:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -345,7 +336,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Context on STM in Ruby Squash N+1 queries early with n_plus_one_control test matchers for Ruby and Rails  Counting things in Active Record  Split your Webpacker bundles to speed up the web Jb - a simpler and faster Jbuilder alternative Humanize - converts numbers to strings  Web  If not SPAs, What? Why npm lockfiles can be a security blindspot for injecting malicious modules  What A Yarn Workspace Is, And The Problem It Solves  JavaScript’s Memory Management Explained Getting Audio Visualizations working with Web Audio API Simplest JS paint  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0843.png"/>
   <itunes:duration>00:38:09</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -372,7 +362,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  RuboCop 1.0 Ruby Perf Myths: GC and Concurrency  How We Estimate The Size of a Rails Application  Performance Benchmarks &amp; Considerations between create_or_find_by &amp; find_or_create_by Read-Only Mode For Better Rails Downtime Soft delete records with Paranoia  Web  React v17.0 Node.js v15.0.0 is here! Create React App 4.0  Introducing Microsoft Edge preview builds for Linux  Introducing JSDB Fingerprintjs - modern &amp; flexible browser fingerprinting library Pikaday - a refreshing JavaScript Datepicker - lightweight, no dependencies, modular CSS  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0842.png"/>
   <itunes:duration>00:44:06</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -399,7 +388,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  World beyond Rails - web frameworks Bladerunner Day, Ruby Type Signatures, Typing at Stripe Announcing HashiCorp Waypoint  Announcing HashiCorp Boundary  Guide to Reactive Rails Glimmer DSL for SWT 4.17.3.0 Interfaceable - strict interfaces in Ruby  Web  Presenting v7.0.0 of the npm CLI Introducing: The Async Cookie Store API  3 Reasons to Use Fewer JavaScript Libraries  Don’t Copy Paste Into A Shell Detect GPU - classifies GPUs based on their 3D rendering benchmark score allowing the developer to provide sensible default settings for graphically intensive applications Talkr - a super small i18n provider for React applications Dragmove.js - a super tiny Javascript library to make DOM elements draggable and movable Human Interval - human-readable interval parser for Javascript  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0841.png"/>
   <itunes:duration>00:36:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -426,7 +414,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  How’s the Performance of Ruby 3.0.0-preview1? Some things you should know about eager loading in ActiveRecord Scoped Active Record Associations  Rails 6 and Stimulus.js - a quick launch  Why You Should Migrate your Heroku Postgres Database to AWS RDS How to Fix PostgreSQL Performance Issues with PG Extras Deploy Your Rails App the Easy Way  Web  Webpack 5 release clamp() for Responsive Design Go, WebAssembly, HTTP requests and Promises  Top 10 games from the JS13K 2020 competition  Boa release v0.10 ZzFXM - A tiny JavaScipt music generator Npmx - an advanced CLI interface for npm Volta - hassle-free way to manage your JavaScript command-line tools  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0840.png"/>
   <itunes:duration>00:42:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -453,7 +440,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 2.7.2 Released PostGIS vs. Geocoder in Rails An Unofficial Active Admin Guide  What surprised us in Postgres-schema multitenancy  Rebuilding Redis in Ruby Parsby - a parser combinator library for Ruby inspired by Haskell’s Parsec FasterS3Url - an optimized generation of public and presigned AWS S3 GET URLs in ruby faster Benchmark Ruby Code (video)  Web  Announcing MobX 6 Introducing visx from Airbnb Bringing the Mona Lisa Effect to Life with TensorFlow.js  Detached window memory leaks  Creating Mirrors in React-Three-Fiber and Three.js Elsa - a minimal, fast and secure runtime for Javascript and Typescript written in Go RSLint - a JavaScript linter written in Rust designed to be as fast as possible, customizable, and easy to use  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0839.png"/>
   <itunes:duration>00:47:30</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -480,7 +466,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 3.0.0 Preview 1 Released PostgreSQL 13 Released Rails 6.1 deprecates rails db:structure:dump and rails db:structure:load  DateTime class is considered deprecated in Ruby  Taptag Under Deconstruction: The State of Shopify’s Monolith Packwerk - a Ruby gem used to enforce boundaries and modularize Rails applications Rubyspeed - Compile ruby functions to C  Web  V8 release v8.6 Feature watch: ECMAScript 2021 Introducing the New JSX Transform  Running Go in the Browser with WASM and Web Workers  Visualize Data Structures in VSCode Importabular - minimal spreadsheet javascript component Urlcat - a tiny JavaScript library that makes building URLs very convenient and prevents common mistakes Vime - a customizable, extensible, accessible and framework agnostic media player Smolpxl - a JavaScript library for writing little retro pixelated games Fflate - high performance (de)compression in an 8kB package Big.js - a small, fast, easy-to-use library for arbitrary-precision decimal arithmetic  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0838.png"/>
   <itunes:duration>00:36:03</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -507,7 +492,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby adds support for forwarding arguments to a method, along with the leading arguments We Made Puma Faster With Sleep Sort  Rails Concerns: To Concern Or Not To Concern  Another Reason to Avoid Constantize in Rails Writing a Ractor Base Job Scheduler DuckDB is an embeddable SQL OLAP database management system How to Test Gem Dependencies with Appraisal  Web  Vuejs 3.0.0 One Piece GitHub CLI 1.0 is now available Deno 1.4  Moment.js now to be considered a legacy project in maintenance mode  Halfmoon - a responsive front-end framework that is great for building dashboards and tools Klipse - a Javacript plugin for embedding interactive code snippets in tech blogs  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0837.png"/>
   <itunes:duration>00:35:55</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -534,7 +518,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 5.2.4.4 and 6.0.3.3 have been released Sinatra v2.1.0 Ruby adds ‘Symbol#name’ to return frozen string corresponding to the symbol name  Writing a Ractor-based web server  Continuous Blue-Green Deployments With Kubernetes These Rails apps are overpacking their JavaScript bundles RubyJard - Just Another Ruby Debugger N + 1 Control - RSpec and Minitest matchers to prevent N+1 queries problem  Web  A New Proposal for Decorators for JavaScript Classes AVIF has landed Frustrations with React Hooks 5 most annoying website features I face as a blind person every single day  Designing With Reduced Motion For Motion Sensitivities  Front-end JavaScript performance Rewriting Facebook’s “Recoil” React library from scratch in 100 lines Jotai - a primitive, flexible state management for React React-chrono - a timeline component for React JavaScript for Data Science (book)  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0836.png"/>
   <itunes:duration>00:52:40</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -561,7 +544,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby adds experimental support for Rightward assignments Rails 6 adds support to persist timezones of Active Job  System of a test II: Robust Rails browser testing with SitePrism  Mastering Low Level Caching in Rails What Is Canary Deployment? RubyKaigi Takeout 2020 - Ractor presentation by Koichi Sasada GitHub Actions (video)  Web  NativeScript 7.0 Released Underscore.js 1.11.0  11 Micro Frontends Frameworks You Should Know  Designing a JavaScript Plugin System Browsers may throttle requestAnimationFrame CindyJS - a framework to create interactive (mathematical) content for the web Volt - free Bootstrap 5 dashboard Print.js - a tiny javascript library to help printing from the web  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0835.png"/>
   <itunes:duration>00:46:11</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -588,7 +570,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby Creator Yukihiro Matsumoto on the Challenges of Updating a Programming Language The great Rubykon Benchmark 2020: CRuby vs JRuby vs TruffleRuby Comments Feed  Upgrading GitHub to Ruby 2.7  Multipart file upload to Active Storage using GraphQL-ruby and Apollo Linting Ruby Racecar - a simple framework for Kafka consumers in Ruby Rainbow - a ruby gem for colorizing printed text on ANSI terminals Google Cloud Functions On Ruby  Web  D3 6.0 - The Data-Driven Document Library Electron 10.0.0  5 Projects You Can Build To Become a Better Web Developer  Introducing Danfo.js, a Pandas-like Library in JavaScript Ztext.js - Easy to implement, 3D typography for the web ePaper.js - Node.js library for easily creating an ePaper display on a Raspberry Pi using HTML and Javascript Handwritten.js - convert typed text to realistic handwriting Carbonium - one kilobyte library for easy manipulation of the DOM  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0834.png"/>
   <itunes:duration>00:40:37</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -615,7 +596,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6 adds Array#including/excluding and Enumerable#including/excluding Rodauth: A Refreshing Authentication Solution for Ruby  Effective Debugging of Memory Leaks in Ruby  Gammo - a pure-Ruby HTML5 parser Activestorage-horcrux - uploads shares across one or more other storage services using Shamir Secret Sharing Simdjson - a Ruby bindings for simdjson Capistrano Precompile Chooser - capistrano plugin to precompile your Rails assets locally, remotely, or not at all  Web  Announcing TypeScript 4.0 Cypress 5.0.0 Microsoft 365 apps say farewell to Internet Explorer 11 and Windows 10 sunsets Microsoft Edge Legacy  Is the Phone Gap closed in 2020?  Why We Moved From React to Svelte Elder.js - SEO focused, Svelte Framework &amp; Static Site Generator DoppioJVM - a Java Virtual Machine written in 100% JavaScript BootBot - a simple but powerful JavaScript Framework to build Facebook Messenger’s Chat bots  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0833.png"/>
   <itunes:duration>00:46:30</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -642,7 +622,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Vladimir Metnew:  Привет. Кто ты? Как ты стал инженером по безопасности приложений, или по простому AppSec Engineer? В чем твоя специализация и почему тебе нравится находить уязвимости именно в данном виде софта? Какой твой инструментарий? Самая интересная или завораживающая уязвимость, что ты находил. Баг баунти изнутри и снаружи Работы appsec engineer в дефенсе Проблемы “безопасного продукта” Есть ли вообще комьюнити белых/серых хакеров в Украине? Или это не безопасно выходить на публику? Опасно ли быть “хакером” на сегодняшний день? Твой блог - medium.com/@metnew - что стоит почитать? Что посоветуешь людям, что заинтересовались стать AppSec Engineer? Твои планы :) Пожелание слушателям  Pages  Personal blog Github Twitter Hackerone page  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/018.jpg"/>
   <itunes:duration>01:11:19</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -669,7 +648,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  When Should You NOT Use Rails? How Sidekiq really works  Creating unlogged (PostgreSQL) tables in Rails  Autocomplete in Ruby on Rails using Stimulus 12 ways to call a method in Ruby Nothing to Escape: 43 Ways to Encode a NULL Character Strings - a set of useful methods for working with strings such as align, truncate, wrap, and many more  Web  React v17.0 Release Candidate: No New Features The 6 Major Changes in React v17.0 Storybook 6.0 Deno 1.3.0  Rome - unifying the frontend development toolchain  Single Page Applications using Rust Vue 3 new features summary Terrain Builder  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0832.png"/>
   <itunes:duration>00:51:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -696,7 +674,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 3.0 - Procs accepting a single rest argument and keyword arguments are no longer subject to autosplatting Rails 6.1 automatically generates an abstract class when using multiple databases Rails 6.1 deprecates the use of return, break or throw to exit a transaction block How to Test Ruby Code That Depends on External APIs  How to investigate your build size in Webpack  Assignments In-Style Noticed - Notifications for your Ruby on Rails app Ancestry - a gem that allows the records of a Ruby on Rails ActiveRecord model to be organised as a tree structure Invokable - Objects are functions! Treat any Object, Classes, Hashes, Arrays, and Sets as Procs (like Enumerable but for Procs)  Web  1Keys – How I Made a Piano in only 1kb of JavaScript Announcing the new TypeScript Website  Comparing reactivity models - React vs Vue vs Svelte vs MobX vs Solid vs Redux  Curious case of Content Security Policy (CSP) Fast - the adaptive interface system for modern web experiences Hopi - python-in-node interop  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0831.png"/>
   <itunes:duration>00:53:19</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -723,7 +700,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 adds annotate_rendered_view_with_filenames to annotate HTML output The State of Ruby 3 Typing Be cautious with Ruby coercion methods  A visual guide to Webpacker  Understanding Bundler - To ‘bundle exec’ or not? that is the question Some SQL Tricks of an Application DBA Torch.rb - Deep learning for Ruby, powered by LibTorch S3 Gem Host - a gem for hosting private gems on S3 Apple Silicon Developer Transition Kit  Web  How I made my CV, based on Age of Empires game Infinite Scroll without Layout Shifts  Some CSS comics  Minesweeper - a minesweeper clone for the web Starboard Notebook - in-browser literal notebooks Moment-guess - a utility package for guessing date’s format Ink - React for interactive command-line apps Tinykeys - a tiny &amp; modern library for keybindings Macintosh.js - A virtual Apple Macintosh with System 8, running in Electron  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0830.png"/>
   <itunes:duration>00:42:03</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -750,7 +726,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  2021 Fukuoka Ruby Award Competition - Entries to be judged by Matz Ruby Method Overloading  To Call or not to Callback  Introducing GoodJob 1.0, a new Postgres-based, multithreaded, ActiveJob backend for Ruby on Rails Rollout::UI - minimalist UI for Rollout Futurism - Lazy-load Rails partials via CableReady  Web  JavaScript: Latest Stage-4 features Webpack: A gentle introduction  Svelte &lt;3 TypeScript  Bar chart race generator React Guitar - a beautiful and flexible guitar component for React 3D Book Image CSS Generator  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0829.png"/>
   <itunes:duration>00:32:24</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -777,7 +752,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 allows enums attributes to configure the default value Rails 6.1 adds support for where with a comparison operator How we migrated application servers from Unicorn to Puma  System of a test: Proper browser testing in Ruby on Rails  Building a Toy Lexer in Ruby Introducing Deimos: Using Kafka as the Data Backbone for your Architecture Egis (aegis) - a handy wrapper for AWS Athena Ruby SDK  Web  An Introduction To Stimulus.js Building SVG Components in React  From Gatsby to Eleventy: Choosing a Static Site Generator for a Personal Site  Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script RecordRTC.js - WebRTC JavaScript Library for Audio+Video+Screen+Canvas (2D+3D animation) Recording Super Expressive is a zero-dependency JavaScript library for building regular expressions in (almost) natural language Bumblebee - a JavaScript voice application framework  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0828.png"/>
   <itunes:duration>00:44:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -804,7 +778,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Why is Ruby still our choice in 2020? A Fast Car Needs Good Brakes: How We Added Client Rate Throttling to the Platform API Gem Running spot instances effectively with Amazon EKS  A Ruby Developer’s Adventures in Elixir  Polyphony - fine-grained concurrency for Ruby WahWah - an audio metadata reader ruby gem FastJsonparser - Fastest Json parser for Ruby, wrapper for simdjson Redis in Ruby (book)  Web  Puppeteer 5.1.0 Developer Handbook 2020 Creating Tiny Desktop Apps With Tauri And Vue.js  Moving from TypeScript to Rust / WebAssembly  Perf TrackFlame - tracking framework performance at scale Malina.js - builds your web-application to use it without framework on frontend side N3.js - lightning fast, spec-compatible, streaming RDF for JavaScript Financial - a zero-dependency TypeScript/JavaScript financial library Shareon - Lightweight, stylish and ethical share buttons  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0827.png"/>
   <itunes:duration>00:40:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -831,7 +804,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Bozhidar Batsov:  Hey. Who are you? How did you become a developer? How did you get to know the Ruby language? How did you come up with the idea of rubocop? Some interesting words about your also popular projects: Cider, nrepl, prelude, clojure-style-guide What is your developer toolbox? How you work environment changed by Covid-19? Where will move current projects? You thoughts about future of a Ruby community Wish to listeners  Links  Bozhidar’s Emacs config Ruby’s Creed Ruby 4.0: To Infinity and Beyond @ EuRuKo2017 Toptal Remote Playbook  Pages  Personal blog Emacs blog Github Twitter  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/017.jpg"/>
   <itunes:duration>01:07:19</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -858,7 +830,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  AnyCable 1.0: Four years of real-time web with Ruby and Go Trailblazer 2.1 Rails 6.1 tracks Active Storage variant in the database  Writing Better, Type-safe Code with Sorbet  Overview of running Rails on ECS Fargate Rubocop::GraphQL - rubocop extension for enforcing graphql-ruby best practices Soft Delete with Discard (video)  Web  Understanding Template Literals in JavaScript The 6 Most Common Accessibility Problems (and How to Fix Them)  When Sass and New CSS Features Collide  React Hook Form - performant, flexible and extensible forms with easy-to-use validation Caporal - a full-featured framework for building command line applications (cli) with node.js Vest - declarative validations framework Awesome Node.js Security resources  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0826.png"/>
   <itunes:duration>00:39:31</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -885,7 +856,6 @@
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 2.7 adds Enumerable#filter_map Postgres Indexes for ActiveRecord Join Tables in Rails Apps  Building GitHub-style Hovercards with Stimulus and HTML-over-the-wire  9 tips to improve RSpec maintainability Ruby on Rails multitenancy in 2020 Comma - a small CSV (ie. comma separated values) generation extension for Ruby objects  Web  Released Angular 10 Announcing TypeScript 4.0 Beta ECMAScript proposal: private static methods and accessors in classes npm v7 Series - Why Keep package-lock.json?  Refactoring optional chaining into a large codebase: lessons learned  How to Get All Custom Properties on a Page in JavaScript A little bit of plain Javascript can do a lot Rando.js - the world’s easiest, most powerful random function OneDrive to Google Cloud Storage Checkboxland - render anything as HTML checkboxes  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0825.png"/>
   <itunes:duration>00:45:19</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -916,7 +886,6 @@
 Inkblot - a gem for interacting with Waveshare’s line of E-paper displays on the Raspberry Pi using ruby (more info) SimpleDiscussion - a Rails forum gem extracting the forum from GoRails Ruby Notes for Professionals  Web  Puppeteer 4.0.0 Introducing GitHub Super Linter: one linter to rule them all Why we switched from Yarn to pnpm  Bootstrap version 5 alpha is officially here! What’s new?  Do Not Follow JavaScript Trends Announcing Code Notes Docx - easily generate .docx files with JS/TS with a nice declarative API Repo-Card - showcase repositories on your website  Conferences  
 RubyConfBY Online (July 18-19). Используйте промокод “RWPOD” для получения 15% скидки на билеты.  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0824.png"/>
   <itunes:duration>00:47:26</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -943,7 +912,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails support bulk insert/upsert on relation David Heinemeier Hansson Interview Time to up your Code Review game  A Code Review Your Colleagues Would Thank You For  Exploring metaprogramming in ruby Introducing TestBench Improve your Ruby code reviews with actionable code coverage and Undercover Speed up queries on text columns using :gin indices with [Rails &amp; PostgreSQL]  Web  ECMAScript proposal: Logical assignment operators  CORS : Understanding Cross Origin Resource Sharing  MyDrive - an Open Source Cloud Server Jsgrids - a list of JavaScript Spreadsheets and Data Grid Libraries Johnny-Five - a JavaScript Robotics Programming Framework Hide secrets with invisible characters in plain text securely using passwords  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0823.jpg"/>
   <itunes:duration>00:36:47</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -970,7 +938,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails new cool_app –minimal The RuboCop Name Drama Redux  Why you should avoid nested STI  Writing better Stimulus controllers Galaaz - a system for tightly coupling Ruby and R Cfndsl - a DSL for generating Amazon Web Services CloudFormation templates Tracking Changes on Action Text  Web  Chrome v83 enables JS module support for SharedWorkers → Starting a new era for multi Browser Window Apps with neo.mjs Some Reminders of Good GitHub Etiquette  How JWT works — in depth  Yet Another Doom Clone (In 13kb of JavaScript) Grid.js - Advanced Table Plugin Consoleimg - display images in your developer console Motionia - a lightweight simplified on demand animation library  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0822.jpg"/>
   <itunes:duration>00:43:40</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -997,7 +964,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1 adds support for signed ids to Active Record Brotli and Gzip Compression for Assets and JSON API in Rails Test-Driving a Decision Engine Two Commonly Used Rails Upgrade Strategies  Comparison of approaches to multitenancy in Rails apps  Never Query the Same Thing More Than Once Creating a Ruby Gem with Rust VCR 6.0.0 Delete_in_batches - the fastest way to delete 100k+ rows with ActiveRecord Dynamoid - an ORM for Amazon’s DynamoDB for Ruby applications  Web  Stack Overflow Developer Survey 2020 A first look at records and tuples in JavaScript Snowpack 2.0  htmx allows you to access AJAX, WebSockets and Server Sent Events directly in HTML, using attributes  AudioMass - a free, open source, web-based Audio and Waveform Editor Fluor.js - sprinkle interactivity on your design AutoPilot - a simple cross-platform desktop automation library for Deno Rough Notation - a small JavaScript library to create and animate annotations on a web page Perspective - an interactive visualization component for large, real-time datasets  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0821.png"/>
   <itunes:duration>00:58:12</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1024,7 +990,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  19 Must-Have Gems for 2020 Extracting text from image using Google Cloud vision OCR with Ruby  Ruby Assignments in Conditional Expressions  Five common issues with services and dry-monads 5 Ways to Splat in Ruby Awspec - RSpec tests for your AWS resources CursorPaginator - Cursor Paginator for Ruby  Web  The Third Age of JavaScript The Fastest Google Fonts Detect inactive users with the Idle Detection API  Reparenting is now possible with React  Should You Still Learn Vue 2 Or Just Wait For The Release Of Vue 3? Painterro - JavaScript painting plugin Reveal.js 4.0 - a HTML Presentation Framework NanoPop - Minimalisic, Small Positioning Engine  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0820.png"/>
   <itunes:duration>00:41:30</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1051,7 +1016,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 5.2.4.3 and 6.0.3.1 have been released New 2.7/3.0 keyword argument pain point Improve Ruby Hashing implementation using Tabulation  Why does Rails 6 include both Webpacker and Sprockets?  Limit Everything: Timeouts for Shell Commands in Ruby How to Fix Slow Code in Ruby The Practical Effects of the GVL on Scaling in Ruby SHA-256 Animation - an animation of the SHA-256 hash function in your terminal  Web  Deno 1.0 The Deno Handbook ESLint v7.0.0 released  Recoil - a state management library for React  WebGL guide Perfume.js v5.0.2 RGM - React Google Map Shifty - a JavaScript tweening engine designed to fit all of your animation needs  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0819.png"/>
   <itunes:duration>00:35:55</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1078,7 +1042,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Natalia Tepluhina:  Привет. Кто ты? Выбор программирования как профессии Язык программирование JavaScript. Были ли до него языки? Почему остановилась на JS? Выбор VueJS фреймворка. Он был осознанный или “так получилось”? Расскажи в “чем сила” Vue.js и почему его должны выбирать, а не Angular/Svelte/React/etc? Путь становления “Vue.js core team member” GraphQL + Vue.JS = is love? Работа в Gitlab и remote culture. Влияние пандемии на процессы разработки. Какое думаешь будущее у Vue.JS и JS комьюнити в целом Твои последнии доклады на конференциях или статьи - что стоит обязательно глянуть или прочитать? Твои планы на будущее Пожелание слушателям  Ссылки  Vue.js official website Vue RFCs GitLab handbook  Vue Composition API  Доклад про Composition API Доклад по RxJS Доклад про основы GraphQL+Vue+Apollo Доклад про Apollo client  Страницы  Сайт Github Gitlab Twitter  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/016.jpg"/>
   <itunes:duration>01:16:46</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1105,7 +1068,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.0.3 has been released! A May of WTFs: Let’s hear about all the potholes, roadblocks, and roundabouts! Ruby Next: Make all Rubies quack alike How to debug webpack on Rails  40+ Ruby on Rails Application Monitoring Tools [2020]  How to use AWS SimpleDB from Ruby Lockbox - modern encryption for Rails HealthBit - tiny health check of Rack apps like Rails, Sinatra for use with uptime checking systems like Kubernetes, Docker or Uptimerobot Ruruby - an alternative Ruby implementation by Rust RailsConf 2020 CE  Web  Deno 1.0: What you need to know Introducing Web Vitals: essential metrics for a healthy site  Getting started with Sapper and Svelte  Esbuild - an extremely fast JavaScript bundler and minifier Selecto.js - a component that allows you to select elements in the drag area using the mouse or touch React Flow - A Library for Rendering Interactive Graphs Majestic is a GUI for Jest  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0818.png"/>
   <itunes:duration>00:43:03</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1132,7 +1094,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby adds experimental support for end-less method definition Guild renamed to Ractor Rails adds support for descending order in find_each, find_in_batches and in_batches Why Rubyists Should Consider Learning Go  API for Project Data  Practical use of Ruby PStore Postgres Distinct On Password Protected Zip Using Ruby on Rails CableReady completes the ActionCable story and expands the utility of web sockets in your Rails app Build a Twitter clone in 10 minutes with Rails, CableReady, and StimulusReflex (video)  Web  is-promise post mortem  Detect text toxicity using React  A collection of challenging TypeScript exercises Middy 1.0.0 is here useWorker() - running heavy task, without blocking UI Favorite JavaScript utilities in single line of code DarkMode - a micro library (~360B) for handling dark mode on browsers  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0817.png"/>
   <itunes:duration>00:38:55</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1159,7 +1120,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails adds support for db:rollback:name for multiple database applications How to add SSL to your localhost development environment using Ruby on Rails with Puma  How Trix works  Rails connections, pools and handlers Redis connection pool in Rails Bridgetown - a Webpack-aware, Ruby-powered static site generator for the modern Jamstack era The Ultimate Guide to Ruby Timeouts  Web  Node.js version 14 available now The Cost of Javascript Frameworks Introducing Crank  What is the toJSON() Function in JavaScript?  Vidact - a compiler that converts React-compatible codes to VanillaJS with no Virtual DOM Codedoc - easily create beautiful and modern docs/wiki for your software projects Pico - take browser screenshots in Javascript Eloquent JavaScript, 3rd edition  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0816.png"/>
   <itunes:duration>00:37:03</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1186,7 +1146,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Andrey Sitnik:  Logux Firebase Y.js Automerge Сторибук Амплифера со страницами UIbook Local-first software Визуализация редактирования текста в CRDT Как мы сделали сайт Логакса без Реакта  Страницы  Сайт Github Facebook Twitter  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/015.jpg"/>
   <itunes:duration>01:23:34</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1213,7 +1172,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Over 700 Malicious Typosquatted Libraries Found On RubyGems Repository Feature Flags: The stupid simple way to de-stress production releases Ruby “main”  Full Text Search in Milliseconds with Rails and PostgreSQL  Understanding webpacker.yml Anyway Config: Keep your Ruby configuration sane Global 2.0.0 Tomo - a friendly command-line tool for deploying Rails apps  Web  jQuery 3.5.0 Released! Puppeteer 3.0.0 Vuln Cost: security scanner for VS Code Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)  Profiling React.js Performance  Getting started with Alpine.js Redaxios - the Axios API, as an 800 byte Fetch wrapper Builderz - Zero Configuration JavaScript Bundler Simpsons: Hit &amp; Run API  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0815.png"/>
   <itunes:duration>00:45:21</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1240,7 +1198,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Upgrading Rails: Tracking down deprecated callbacks in Rails 5.0 A Few of My Favorite Things  Heredocs and how to use them in Ruby and Rails  Monitor Delayed Jobs with Prometheus and Grafana 1 How to restart Sidekiq automatically for each deployment Super Bombinhas - an ongoing platformer game project Slack-Ruby-Bot - a generic Slack bot framework written in Ruby  Web  GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly 10 Critical Performance Optimization Steps You Should Take  COVID-19 timeline prediction with Gaussian curve  Franc - detect the language of text Chocolat.js - lightbox candy Markmap-lib - markdown + mindmap + library Hegel - an advanced static type checker  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0814.png"/>
   <itunes:duration>00:35:33</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1267,7 +1224,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Ruby 2.7.1 Released RailsConf 2020.2: Couch edition Why is Rails boot so slow on macOS?  70+ Ruby on Rails Security Best Practices &amp; Vulnerabilities  Animated page transitions with Ruby on Rails and Turbolinks Centralize Your Docker Logging With FluentD Optimism - the missing drop-in solution for realtime remote form validation in Rails Puma-status - command-line tool for puma to display information about running request/process Understanding the Monty Hall Problem through code  Web  ECMAScript 2020: the final feature set A proposal to combine Logical Operators and Assignment Expressions - stage 3 How an anti ad-blocker works: Reverse-engineering BlockAdBlock  5 reasons you should abandon default exports  How to manage HTML DOM with vanilla JavaScript only? Notyf - a minimalistic JavaScript library for toast notifications Perflink - quick and easy JavaScript benchmarks Trianglify - algorithmically generated triangle art  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0813.png"/>
   <itunes:duration>00:35:26</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1298,7 +1254,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
 Leaflet - идея создания и реализация. Какое самое сложное было в реализации библиотеки? 
 https://github.com/mourner/projects - как приходил к идеи создания библиотек? Не тяжело поддерживать такое количество open source? Твои последнии доклады на конференциях - что стоит обязательно глянуть? Немного о группе “Обійми Дощу” Твои планы по проектам Пожелание слушателям  Страницы  Facebook Github Twitter Сайт  Программирование  Leaflet Mapbox GL JS Библиотеки и алгоритмы Быстро по умолчанию: алгоритмическое мышление на практике (видео) Fast By Default: Algorithmic Performance Optimization in Practice (video)  Музыка  Обійми Дощу сайт Обійми Дощу / Obiymy Doschu Facebook Obiymy Doschu — Na Vidstani (Official Video) Apple Music Spotify  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/014.jpg"/>
   <itunes:duration>00:52:12</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1325,7 +1280,6 @@ https://github.com/mourner/projects - как приходил к идеи соз
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.0.2.2 and 5.2.4.2 have been released! Webpacker 5.0 released  Authlogic 6.0.0  RuboCoping with legacy: Bring your Ruby code up to Standard Truemail - configurable framework agnostic plain Ruby email validator. Dry-rails - official dry-rb railtie Pgsync - sync data from one Postgres database to another  Web  Bootstrap 5 dropping IE 10 &amp; 11 browser support: where does that leave us? What happens when the maintainer of a JS library downloaded 26m times a week goes to prison for killing someone with a motorbike? Core-js just found out  Measuring the Performance of JavaScript Functions  Nanoid 3.0.0 CS 253 Web Security - Stanford  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0812.png"/>
   <itunes:duration>00:26:13</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1352,7 +1306,6 @@ https://github.com/mourner/projects - как приходил к идеи соз
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  CVE-2020-10663: Unsafe Object Creation Vulnerability in JSON (Additional fix) Announcing RubyGems.org Stats  Remote Tools and Tips in These Remote Times  Rails - Allows to specify schema cache path in database configuration file StrMetrics - a gem (native extension in Rust) providing implementations of various string metrics Kovid - a small CLI app to fetch data surrounding the coronavirus pandemic of 2019  Web  Babel 7.9.0 Prettier 2.0 “2020” The Coronavirus App  Wikimedia (The Folks Behind Wikipedia) Are Adopting Vue.js  Introduction to AntV VanillaJSChess - Simple Chess Engine Vanilla JS tsParticles - a lightweight TypeScript library for creating particles  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0811.png"/>
   <itunes:duration>00:37:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -1379,7 +1332,6 @@ https://github.com/mourner/projects - как приходил к идеи соз
   <itunes:summary>
 Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  RailsConf 2020 Cancelled  25 reasons to switch to Webpack(er)  Rack-mini-profiler 2.0.0 DeliveryBoy - a simple way to publish messages to Kafka Dyndnsd.rb - a small, lightweight and extensible DynDNS server written with Ruby and Rack  Web  npm is joining GitHub Aborting a signal: How to cancel an asynchronous task in JavaScript  A case for using void in modern JavaScript  Why Svelte is our choice for a large web project in 2020 RedwoodJS - bringing full-stack to the JAMstack μPlot - a fast, memory-efficient Canvas 2D-based chart for plotting time series, lines, areas, ohlc &amp; bars COVID API - API for live information about COVID-19  
 </itunes:summary>
-  <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://www.rwpod.com/images/static/08/0810.png"/>
   <itunes:duration>00:28:47</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
