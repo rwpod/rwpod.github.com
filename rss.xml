@@ -20,11 +20,10 @@
     </itunes:owner>
     <itunes:block>no</itunes:block>
     <itunes:category text="Technology"/>
-    <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+    <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
     <media:thumbnail url="https://www.rwpod.com/images/logo.png"/>
     <media:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</media:keywords>
-    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
-    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
     <googleplay:author>RWpod команда</googleplay:author>
     <googleplay:image href="https://www.rwpod.com/images/logo.png"/>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
@@ -53,7 +52,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/09/0903.png"/>
   <itunes:duration>00:38:57</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>02 выпуск 09 сезона. State of JS 2020, Ruby on Google Cloud Functions, Altair GraphQL Client, Compiled и прочее</title>
@@ -80,7 +79,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/09/0902.png"/>
   <itunes:duration>00:57:01</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>01 выпуск 09 сезона. The future of Traveling Ruby, Front-end predictions for 2021, The State Of CSS 2020 и прочее</title>
@@ -107,7 +106,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/09/0901.png"/>
   <itunes:duration>01:09:36</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>51 выпуск 08 сезона. Ruby 3.0.0, Hotwire, JavaScript Frameworks, Performance Comparison 2020, Dann.js и прочее</title>
@@ -134,7 +133,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0851.png"/>
   <itunes:duration>00:51:32</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>50 выпуск 08 сезона. Ruby 3.0.0 RC1, Kubernetes 1.20, HashiCorp Nomad 1.0, Moiva, Visly, Owncast, Blob Opera и прочее</title>
@@ -161,7 +160,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0850.png"/>
   <itunes:duration>00:30:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>49 выпуск 08 сезона. Ruby 3.0.0 Preview 2, Rails 6.1, Prettier 1.0 for Ruby, Web Almanac 2020, JSitor, Copy Guard и прочее</title>
@@ -188,7 +187,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0849.png"/>
   <itunes:duration>00:49:07</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>48 выпуск 08 сезона. Stimulus 2.0.0, Snowpack v3.0, Incremental vs Virtual DOM, OmniAuth::Apple, WMR, Firetable и прочее</title>
@@ -215,7 +214,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0848.png"/>
   <itunes:duration>00:52:53</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>47 выпуск 08 сезона. Static Typing for Ruby, How Fast are Ractors?, Back/forward cache, Lib-ruby-parser, Etebase, Zettlr и прочее</title>
@@ -242,7 +241,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0847.png"/>
   <itunes:duration>00:45:44</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>46 выпуск 08 сезона. Benchmarking JSON Parsers, Ractor::TVar, High Voltage, Upptime, Txtai, Jose и прочее</title>
@@ -269,7 +268,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0846.png"/>
   <itunes:duration>00:38:11</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>45 выпуск 08 сезона. Angular 11, the Leaky Bucket rate limiter, from reCAPTCHA to hCaptcha, SuperDiff, Operator Lookup и прочее</title>
@@ -296,7 +295,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0845.png"/>
   <itunes:duration>00:47:27</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>44 выпуск 08 сезона. Rails 6.1 RC1, WTFJS, Supabase, Ffmpeg.wasm, Termplot, Spacetime, Graphery SVG и прочее</title>
@@ -323,7 +322,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0844.png"/>
   <itunes:duration>00:30:14</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>43 выпуск 08 сезона. Context on STM in Ruby, squash N+1 queries, Yarn Workspace, Humanize, Jb, JS paint и прочее</title>
@@ -350,7 +349,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0843.png"/>
   <itunes:duration>00:38:09</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>42 выпуск 08 сезона. RuboCop 1.0, React v17.0, Node.js v15.0.0, Create React App 4.0, Ruby Perf Myths, JSDB, Fingerprintjs и прочее</title>
@@ -377,7 +376,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0842.png"/>
   <itunes:duration>00:44:06</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>41 выпуск 08 сезона. World beyond Rails, Async Cookie Store API, Guide to Reactive Rails, Interfaceable, Detect GPU и прочее</title>
@@ -404,7 +403,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0841.png"/>
   <itunes:duration>00:36:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>40 выпуск 08 сезона. Performance of Ruby 3.0.0-preview1, Webpack 5, Rails 6 and Stimulus.js, ZzFXM, Npmx, Volta и прочее</title>
@@ -431,7 +430,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0840.png"/>
   <itunes:duration>00:42:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>39 выпуск 08 сезона. Ruby 2.7.2, MobX 6, Visx from Airbnb, detached window memory leaks, Parsby, FasterS3Url, Elsa, RSLint и прочее</title>
@@ -458,7 +457,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0839.png"/>
   <itunes:duration>00:47:30</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>38 выпуск 08 сезона. Ruby 3.0.0 Preview 1, PostgreSQL 13, ECMAScript 2021, Packwerk, Rubyspeed, Urlcat, Vime и прочее</title>
@@ -485,7 +484,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0838.png"/>
   <itunes:duration>00:36:03</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>37 выпуск 08 сезона. Puma 5, Vuejs 3, GitHub CLI 1.0, Deno 1.4, Rails Concerns, DuckDB, Halfmoon, Klipse и прочее</title>
@@ -512,7 +511,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0837.png"/>
   <itunes:duration>00:35:55</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>36 выпуск 08 сезона. Rails 6.0.3.3, Sinatra 2.1.0, AVIF, RubyJard, N + 1 Control, React-chrono, JavaScript for Data Science и прочее</title>
@@ -539,7 +538,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0836.png"/>
   <itunes:duration>00:52:40</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>35 выпуск 08 сезона. NativeScript 7.0, Underscore.js 1.11.0, Ruby Rightward assignments, RubyKaigi Takeout 2020 и прочее</title>
@@ -566,7 +565,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0835.png"/>
   <itunes:duration>00:46:11</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>34 выпуск 08 сезона. D3 6.0, Electron 10.0.0, The great Rubykon Benchmark 2020, Racecar, Danfo.js, Ztext.js, ePaper.js и прочее</title>
@@ -593,7 +592,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0834.png"/>
   <itunes:duration>00:40:37</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>33 выпуск 08 сезона. TypeScript 4.0, Cypress 5.0.0, IE 11 sunset, Gammo, Simdjson, Elder.js, DoppioJVM, BootBot и прочее</title>
@@ -620,7 +619,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0833.png"/>
   <itunes:duration>00:46:30</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>RWPod Кафе 18: Vladimir Metnew</title>
@@ -647,7 +646,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/cafe/018.jpg"/>
   <itunes:duration>01:11:19</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>32 выпуск 08 сезона. React v17.0 RC, Storybook 6.0, Deno 1.3.0, Rome, How Sidekiq really works, Strings, Terrain Builder и прочее</title>
@@ -674,7 +673,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0832.png"/>
   <itunes:duration>00:51:17</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>31 выпуск 08 сезона. How to Test Ruby Code That Depends on External APIs, 1Keys, Noticed, Ancestry, Fast, Hopi и прочее</title>
@@ -701,7 +700,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0831.png"/>
   <itunes:duration>00:53:19</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>30 выпуск 08 сезона. The State of Ruby 3 Typing, Infinite Scroll without Layout Shifts, Minesweeper, Starboard Notebook и прочее</title>
@@ -728,7 +727,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0830.png"/>
   <itunes:duration>00:42:03</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>29 выпуск 08 сезона. 2021 Fukuoka Ruby Award Competition, GoodJob, Rollout::UI, Futurism, React Guitar и прочее</title>
@@ -755,7 +754,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0829.png"/>
   <itunes:duration>00:32:24</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>28 выпуск 08 сезона. Stimulus.js, Egis, Deimos, Puppeteer recorder, RecordRTC.js, Super Expressive, Bumblebee и прочее</title>
@@ -782,7 +781,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0828.png"/>
   <itunes:duration>00:44:15</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>27 выпуск 08 сезона. Developer Handbook 2020, Polyphony, WahWah, Perf TrackFlame, Malina.js, N3.js, Shareon и прочее</title>
@@ -809,7 +808,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0827.png"/>
   <itunes:duration>00:40:00</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>RWPod Кафе 17: Bozhidar Batsov</title>
@@ -836,7 +835,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/cafe/017.jpg"/>
   <itunes:duration>01:07:19</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>26 выпуск 08 сезона. AnyCable 1.0, Trailblazer 2.1, React Hook Form, Rubocop::GraphQL, Caporal, Vest и прочее</title>
@@ -863,7 +862,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0826.png"/>
   <itunes:duration>00:39:31</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>25 выпуск 08 сезона. Angular 10, TypeScript 4.0 Beta, Ruby 2.7 adds Enumerable#filter_map, Comma, Rando.js, Checkboxland и прочее</title>
@@ -890,7 +889,7 @@
   <itunes:image href="https://www.rwpod.com/images/static/08/0825.png"/>
   <itunes:duration>00:45:19</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>24 выпуск 08 сезона. Rails 6.0.3.2, Puppeteer 4.0.0, GitHub Super Linter, GitHub::DS, Code Notes, Inkblot, Docx и прочее</title>
@@ -921,7 +920,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0824.png"/>
   <itunes:duration>00:47:26</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>23 выпуск 08 сезона. DHH Interview, ES Logical assignment operators, TestBench, MyDrive, Jsgrids, Johnny-Five и прочее</title>
@@ -948,7 +947,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0823.jpg"/>
   <itunes:duration>00:36:47</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>22 выпуск 08 сезона. The RuboCop Name Drama Redux, Some Reminders of Good GitHub Etiquette, Galaaz, Cfndsl, Grid.js и прочее</title>
@@ -975,7 +974,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0822.jpg"/>
   <itunes:duration>00:43:40</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>21 выпуск 08 сезона. VCR 6.0.0, Snowpack 2.0, Brotli and Gzip Compression, AudioMass, AutoPilot, Dynamoid, Rough Notation и прочее</title>
@@ -1002,7 +1001,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0821.png"/>
   <itunes:duration>00:58:12</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>20 выпуск 08 сезона. 19 Must-Have Gems for 2020, The Third Age of JavaScript, Awspec, Painterro, Reveal.js, NanoPop и прочее</title>
@@ -1029,7 +1028,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0820.png"/>
   <itunes:duration>00:41:30</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>19 выпуск 08 сезона. Rails 5.2.4.3, 6.0.3.1, Deno 1.0, ESLint 7.0.0, Recoil, SHA-256 Animation, WebGL guide, Shifty и прочее</title>
@@ -1056,7 +1055,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0819.png"/>
   <itunes:duration>00:35:55</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>RWPod Кафе 16: Natalia Tepluhina</title>
@@ -1083,7 +1082,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/cafe/016.jpg"/>
   <itunes:duration>01:16:46</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>18 выпуск 08 сезона. Rails 6.0.3, Deno 1.0, AWS SimpleDB, RailsConf 2020 CE, Ruruby, Esbuild, React Flow, Majestic и прочее</title>
@@ -1110,7 +1109,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0818.png"/>
   <itunes:duration>00:43:03</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>17 выпуск 08 сезона. Guild renamed to Ractor, is-promise post mortem, CableReady, Middy, useWorker, DarkMode и прочее</title>
@@ -1137,7 +1136,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0817.png"/>
   <itunes:duration>00:38:55</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>16 выпуск 08 сезона. Node.js 14, How Trix works, Crank, Bridgetown, Vidact, Codedoc, Pico, Eloquent JavaScript и прочее</title>
@@ -1164,7 +1163,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0816.png"/>
   <itunes:duration>00:37:03</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>RWPod Кафе 15: Andrey Sitnik</title>
@@ -1191,7 +1190,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/cafe/015.jpg"/>
   <itunes:duration>01:23:34</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>15 выпуск 08 сезона. jQuery 3.5.0, Puppeteer 3.0.0, Anyway Config, Global, Redaxios, Simpsons: Hit &amp; Run API и прочее</title>
@@ -1218,7 +1217,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0815.png"/>
   <itunes:duration>00:45:21</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>14 выпуск 08 сезона. Upgrading Rails, GitHub Protips, Super Bombinhas, COVID-19 timeline prediction, Franc и прочее</title>
@@ -1245,7 +1244,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0814.png"/>
   <itunes:duration>00:35:33</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>13 выпуск 08 сезона. Ruby 2.7.1, ECMAScript 2020, Optimism, Puma-status, Monty Hall problem, Notyf, Perflink и прочее</title>
@@ -1272,7 +1271,7 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
   <itunes:image href="https://www.rwpod.com/images/static/08/0813.png"/>
   <itunes:duration>00:35:26</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>RWPod Кафе 14: Vladimir Agafonkin</title>
@@ -1303,7 +1302,7 @@ https://github.com/mourner/projects - как приходил к идеи соз
   <itunes:image href="https://www.rwpod.com/images/static/cafe/014.jpg"/>
   <itunes:duration>00:52:12</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>12 выпуск 08 сезона. Rails 6.0.2.2, Webpacker 5.0, Nanoid 3.0.0, Truemail, Pgsync, CS 253 Web Security и прочее</title>
@@ -1330,7 +1329,7 @@ https://github.com/mourner/projects - как приходил к идеи соз
   <itunes:image href="https://www.rwpod.com/images/static/08/0812.png"/>
   <itunes:duration>00:26:13</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>11 выпуск 08 сезона. Babel 7.9.0, CVE-2020-10663, The Coronavirus App, StrMetrics, AntV, Kovid и прочее</title>
@@ -1357,7 +1356,7 @@ https://github.com/mourner/projects - как приходил к идеи соз
   <itunes:image href="https://www.rwpod.com/images/static/08/0811.png"/>
   <itunes:duration>00:37:28</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
 <item>
   <title>10 выпуск 08 сезона. RailsConf 2020 Cancelled, npm is joining GitHub, DeliveryBoy, RedwoodJS, COVID API и прочее</title>
@@ -1384,7 +1383,7 @@ https://github.com/mourner/projects - как приходил к идеи соз
   <itunes:image href="https://www.rwpod.com/images/static/08/0810.png"/>
   <itunes:duration>00:28:47</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
   </channel>
 </rss>
