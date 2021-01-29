@@ -25,6 +25,8 @@
     <media:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Tech News</media:category>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Software How-To</media:category>
+    <googleplay:author>RWpod команда</googleplay:author>
+    <googleplay:image href="https://www.rwpod.com/images/logo.png"/>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
 <item>
   <title>03 выпуск 09 сезона. Rails has added a webpacker Guide, JavaScript Temporal API, Forgo, BrowserVM, EStimator.dev и прочее</title>
