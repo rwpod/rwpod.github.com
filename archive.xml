@@ -19,7 +19,7 @@
       <itunes:email>rwpod.com@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:block>no</itunes:block>
-    <itunes:category>Technology</itunes:category>
+    <itunes:category text="Technology"/>
     <media:license type="text/html" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:license>
     <media:thumbnail url="https://www.rwpod.com/images/logo.png"/>
     <media:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</media:keywords>
