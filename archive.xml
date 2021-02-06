@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 01 Feb 2021 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 01 Feb 2021 00:00:00 +0200</lastBuildDate>
+    <pubDate>Sat, 06 Feb 2021 00:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,32 @@
     <googleplay:explicit>no</googleplay:explicit>
     <googleplay:image href="https://www.rwpod.com/images/logo.png"/>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>05 выпуск 09 сезона. Npm 7, Parallelism in Ruby with Ractors, Super Bombinhas 1.1.0, CamanJS, Deskreen и прочее</title>
+  <description>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://lbarasti.com/post/ruby_ractor/" target="_blank" rel="noopener noreferrer">Parallelism in Ruby with Ractors</a></li> <li><a href="https://emmanuelhayford.com/understanding-the-bcrypt-hashing-function-and-its-role-in-rails/" target="_blank" rel="noopener noreferrer">Understanding The bcrypt Hashing Function And Its Role in Rails</a></li> <li><a href="https://dojo4.com/blog/processing-a-compressed-json-feed" target="_blank" rel="noopener noreferrer">Processing a compressed json stream</a></li> <li> <p><a href="https://andycroll.com/ruby/convert-iso-country-code-to-emoji-flag/" target="_blank" rel="noopener noreferrer">Convert a two character ISO country code to an emoji flag</a></p> </li> <li><a href="https://github.com/sonic-pi-net/sonic-pi/releases/tag/v3.3.0" target="_blank" rel="noopener noreferrer">Sonic Pi 3.3 Released: The Rubyish Live Coding Music Synth</a></li> <li><a href="https://cloud.google.com/blog/topics/developers-practitioners/introducing-sqlcommenter-open-source-orm-auto-instrumentation-library" target="_blank" rel="noopener noreferrer">Introducing Sqlcommenter: An open source ORM auto-instrumentation library</a></li> <li><a href="https://github.com/victords/super-bombinhas" target="_blank" rel="noopener noreferrer">Super Bombinhas 1.1.0</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://github.blog/2021-02-02-npm-7-is-now-generally-available/" target="_blank" rel="noopener noreferrer">Npm 7 is now generally available</a></li> <li><a href="https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/" target="_blank" rel="noopener noreferrer">Making GitHub’s new homepage fast and performant</a></li> <li><a href="https://dev.to/alekseiberezkin/3-javascript-features-that-bloat-your-es5-bundle-3aoa" target="_blank" rel="noopener noreferrer">3 JavaScript features that bloat your ES5 bundle</a></li> <li> <p><a href="https://eytanmanor.medium.com/an-architectural-overview-for-web-rtc-a-protocol-for-implementing-video-conferencing-e2a914628d0e" target="_blank" rel="noopener noreferrer">An architectural overview for WebRTC — A protocol for implementing video conferencing</a></p> </li> <li><a href="https://blog.asayer.io/jwt-authentication-best-practices" target="_blank" rel="noopener noreferrer">JWT Authentication Best Practices</a></li> <li><a href="https://piyushsinha.tech/image-editor-using-camanjs" target="_blank" rel="noopener noreferrer">Image Editor using CamanJS</a></li> <li><a href="https://github.com/pavlobu/deskreen" target="_blank" rel="noopener noreferrer">Deskreen turns any device with a web browser into a secondary screen for your computer</a></li> </ul> <h2 id="section">Темы обсуждения</h2> <ul> <li><a href="https://www.ruby-lang.org/en/news/2020/12/25/ruby-3-0-0-released/" target="_blank" rel="noopener noreferrer">Ruby 3.0.0</a></li> <li><a href="https://hotwire.dev/" target="_blank" rel="noopener noreferrer">Hotwire</a></li> </ul> <h2 id="section-1">Прямой эфир</h2> <ul> <li><a href="https://www.youtube.com/watch?v=2GiJdmjXfpk" target="_blank" rel="noopener noreferrer">RWpod - 05 выпуск 09 сезона</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </description>
+  <pubDate>Sat, 06 Feb 2021 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2021/02/06/podcast-09-05.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2021/02/06/podcast-09-05.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/09/0905.mp3" length="101659338" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/09/0905.mp3" fileSize="101659338" type="audio/mpeg"/>
+  <media:content url="https://github.com/rwpod/mirror/releases/download/09.05/0905.mp3" fileSize="101659338" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Parallelism in Ruby with Ractors Understanding Th...</itunes:subtitle>
+  <itunes:summary>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Parallelism in Ruby with Ractors Understanding The bcrypt Hashing Function And Its Role in Rails Processing a compressed json stream  Convert a two character ISO country code to an emoji flag  Sonic Pi 3.3 Released: The Rubyish Live Coding Music Synth Introducing Sqlcommenter: An open source ORM auto-instrumentation library Super Bombinhas 1.1.0  Web  Npm 7 is now generally available Making GitHub’s new homepage fast and performant 3 JavaScript features that bloat your ES5 bundle  An architectural overview for WebRTC — A protocol for implementing video conferencing  JWT Authentication Best Practices Image Editor using CamanJS Deskreen turns any device with a web browser into a secondary screen for your computer  Темы обсуждения  Ruby 3.0.0 Hotwire  Прямой эфир  RWpod - 05 выпуск 09 сезона  
+</itunes:summary>
+  <itunes:image href="https://www.rwpod.com/images/static/09/0905.png"/>
+  <itunes:duration>01:39:58</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
+</item>
 <item>
   <title>04 выпуск 09 сезона. Logidze 1.0, WCAG 3.0, Brakeman 5.0.0, Ruby DnsMock, RBS Syntax Highlighting, RunJS и прочее</title>
   <description>
