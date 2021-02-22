@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 15 Feb 2021 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 22 Feb 2021 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,32 @@
     <googleplay:explicit>no</googleplay:explicit>
     <googleplay:image href="https://www.rwpod.com/images/logo.png"/>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>07 выпуск 09 сезона. Rails 6.1.3, Vite 2.0, interview with Ryan Dahl, Neighbor, Twterm, NetplayJS и прочее</title>
+  <description>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://weblog.rubyonrails.org/2021/2/17/Rails-6-1-3-has-been-released/" target="_blank" rel="noopener noreferrer">Rails 6.1.3 has been released</a></li> <li><a href="https://blog.saeloun.com/2021/02/15/rails-6-1-adds-query-method-associated-to-check-association-presence" target="_blank" rel="noopener noreferrer">Rails 6.1 adds query method associated to check for the association presence</a></li> <li> <p><a href="https://bundler.io/blog/2021/02/15/a-more-secure-bundler-we-fixed-our-source-priorities.html" target="_blank" rel="noopener noreferrer">A more secure bundler: We fixed our source priorities</a> (<a href="https://github.com/rubygems/rubygems/pull/4385" target="_blank" rel="noopener noreferrer">Revert disable_multisource changes</a>)</p> </li> <li><a href="https://blog.codeminer42.com/the-monotonic-clock-and-why-you-should-care-about-it/" target="_blank" rel="noopener noreferrer">The Monotonic Clock and Why You Should Care About It</a></li> <li><a href="https://github.com/ankane/neighbor" target="_blank" rel="noopener noreferrer">Neighbor - nearest neighbor search for Rails and Postgres</a></li> <li><a href="https://github.com/charkost/prosopite" target="_blank" rel="noopener noreferrer">Prosopite is able to auto-detect Rails N+1 queries with zero false positives / false negatives</a></li> <li><a href="https://github.com/ryota-ka/twterm" target="_blank" rel="noopener noreferrer">Twterm - a full-featured TUI Twitter client</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://dev.to/yyx990803/announcing-vite-2-0-2f0a" target="_blank" rel="noopener noreferrer">Announcing Vite 2.0</a></li> <li><a href="https://evrone.com/ryan-dahl-interview" target="_blank" rel="noopener noreferrer">Interview with Ryan Dahl, Creator of Node.js</a></li> <li> <p><a href="https://github.blog/2021-02-12-avoiding-npm-substitution-attacks/" target="_blank" rel="noopener noreferrer">Avoiding npm substitution attacks</a></p> </li> <li><a href="https://hugogiraudel.com/2021/02/17/hiding-content-responsibly/" target="_blank" rel="noopener noreferrer">Hiding Content Responsibly</a></li> <li><a href="https://metascraper.js.org/#/" target="_blank" rel="noopener noreferrer">Metascraper is library to easily scrape metadata from an article on the web using Open Graph metadata, regular HTML metadata, and series of fallbacks</a></li> <li><a href="https://hugogiraudel.github.io/a11y-dialog/#a11y-dialog" target="_blank" rel="noopener noreferrer">A11y Dialog</a></li> <li><a href="https://github.com/rameshvarun/netplayjs" target="_blank" rel="noopener noreferrer">NetplayJS - make P2P multiplayer games in Javascript, no server hosting required</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </description>
+  <pubDate>Mon, 22 Feb 2021 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2021/02/22/podcast-09-07.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2021/02/22/podcast-09-07.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/09/0907.mp3" length="44973827" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/09/0907.mp3" fileSize="44973827" type="audio/mpeg"/>
+  <media:content url="https://github.com/rwpod/mirror/releases/download/09.07/0907.mp3" fileSize="44973827" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1.3 has been released Rails 6.1 adds quer...</itunes:subtitle>
+  <itunes:summary>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 6.1.3 has been released Rails 6.1 adds query method associated to check for the association presence  A more secure bundler: We fixed our source priorities (Revert disable_multisource changes)  The Monotonic Clock and Why You Should Care About It Neighbor - nearest neighbor search for Rails and Postgres Prosopite is able to auto-detect Rails N+1 queries with zero false positives / false negatives Twterm - a full-featured TUI Twitter client  Web  Announcing Vite 2.0 Interview with Ryan Dahl, Creator of Node.js  Avoiding npm substitution attacks  Hiding Content Responsibly Metascraper is library to easily scrape metadata from an article on the web using Open Graph metadata, regular HTML metadata, and series of fallbacks A11y Dialog NetplayJS - make P2P multiplayer games in Javascript, no server hosting required  
+</itunes:summary>
+  <itunes:image href="https://www.rwpod.com/images/static/09/0907.png"/>
+  <itunes:duration>00:43:22</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
+</item>
 <item>
   <title>06 выпуск 09 сезона. Why Wasn't Ruby 3 Faster?, eBay Launches Marko 5, Adornable, Svelte Kit, Remotion, ImageStore и прочее</title>
   <description>
@@ -1304,36 +1330,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
 </itunes:summary>
   <itunes:image href="https://www.rwpod.com/images/static/08/0813.png"/>
   <itunes:duration>00:35:26</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
-</item>
-<item>
-  <title>RWPod Кафе 14: Vladimir Agafonkin</title>
-  <description>
-    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Vladimir Agafonkin:</p> <ul> <li>Привет. Кто ты?</li> <li>Как ты попал в программирование?</li> <li>Что думаешь о JS инфраструктуре и комьюнити?</li> <li>
-<a href="https://leafletjs.com/" target="_blank" rel="noopener noreferrer">Leaflet</a> - идея создания и реализация.</li> <li>Какое самое сложное было в реализации библиотеки?</li> <li>
-<a href="https://github.com/mourner/projects" target="_blank" rel="noopener noreferrer">https://github.com/mourner/projects</a> - как приходил к идеи создания библиотек? Не тяжело поддерживать такое количество open source?</li> <li>Твои последнии доклады на конференциях - что стоит обязательно глянуть?</li> <li>Немного о группе “Обійми Дощу”</li> <li>Твои планы по проектам</li> <li>Пожелание слушателям</li> </ul> <h4 id="section">Страницы</h4> <ul> <li><a href="https://www.facebook.com/agafonkin" target="_blank" rel="noopener noreferrer">Facebook</a></li> <li><a href="https://github.com/mourner" target="_blank" rel="noopener noreferrer">Github</a></li> <li><a href="https://twitter.com/mourner" target="_blank" rel="noopener noreferrer">Twitter</a></li> <li><a href="https://agafonkin.com/" target="_blank" rel="noopener noreferrer">Сайт</a></li> </ul> <h4 id="section-1">Программирование</h4> <ul> <li><a href="https://leafletjs.com/" target="_blank" rel="noopener noreferrer">Leaflet</a></li> <li><a href="https://github.com/mapbox/mapbox-gl-js" target="_blank" rel="noopener noreferrer">Mapbox GL JS</a></li> <li><a href="https://github.com/mourner/projects" target="_blank" rel="noopener noreferrer">Библиотеки и алгоритмы</a></li> <li><a href="https://www.youtube.com/watch?v=kl7a1LWXjtI" target="_blank" rel="noopener noreferrer">Быстро по умолчанию: алгоритмическое мышление на практике (видео)</a></li> <li><a href="https://www.youtube.com/watch?v=owcvg2YZ7Y8" target="_blank" rel="noopener noreferrer">Fast By Default: Algorithmic Performance Optimization in Practice (video)</a></li> </ul> <h4 id="section-2">Музыка</h4> <ul> <li><a href="https://rain.in.ua/" target="_blank" rel="noopener noreferrer">Обійми Дощу сайт</a></li> <li><a href="https://www.facebook.com/obiymydoschu/" target="_blank" rel="noopener noreferrer">Обійми Дощу / Obiymy Doschu Facebook</a></li> <li><a href="https://www.youtube.com/watch?v=yt6PGTyLNVE" target="_blank" rel="noopener noreferrer">Obiymy Doschu — Na Vidstani (Official Video)</a></li> <li><a href="https://apple.co/2OXQMEY" target="_blank" rel="noopener noreferrer">Apple Music</a></li> <li><a href="https://spoti.fi/2A6gHnY" target="_blank" rel="noopener noreferrer">Spotify</a></li> </ul> <p></p>
-</body></html>
-]]>
-  </description>
-  <pubDate>Thu, 02 Apr 2020 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2020/04/02/cafe-014.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/04/02/cafe-014.html</guid>
-  <enclosure url="https://mp3.rwpod-assets.com/podcasts/cafe/014.mp3" length="50910096" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod-assets.com/podcasts/cafe/014.mp3" fileSize="50910096" type="audio/mpeg"/>
-  <media:content url="https://github.com/rwpod/mirror/releases/download/c014/014.mp3" fileSize="50910096" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>
-Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Vladimir Agafonkin:  Привет. Кто ты? Как ты попал в программирование? Что думаешь о J...</itunes:subtitle>
-  <itunes:summary>
-Добрый день уважаемые слушатели. В гостях RWpod Cafe сегодня Vladimir Agafonkin:  Привет. Кто ты? Как ты попал в программирование? Что думаешь о JS инфраструктуре и комьюнити? 
-Leaflet - идея создания и реализация. Какое самое сложное было в реализации библиотеки? 
-https://github.com/mourner/projects - как приходил к идеи создания библиотек? Не тяжело поддерживать такое количество open source? Твои последнии доклады на конференциях - что стоит обязательно глянуть? Немного о группе “Обійми Дощу” Твои планы по проектам Пожелание слушателям  Страницы  Facebook Github Twitter Сайт  Программирование  Leaflet Mapbox GL JS Библиотеки и алгоритмы Быстро по умолчанию: алгоритмическое мышление на практике (видео) Fast By Default: Algorithmic Performance Optimization in Practice (video)  Музыка  Обійми Дощу сайт Обійми Дощу / Obiymy Doschu Facebook Obiymy Doschu — Na Vidstani (Official Video) Apple Music Spotify  
-</itunes:summary>
-  <itunes:image href="https://www.rwpod.com/images/static/cafe/014.jpg"/>
-  <itunes:duration>00:52:12</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
   <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
