@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 22 Feb 2021 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 22 Feb 2021 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 01 Mar 2021 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,32 @@
     <googleplay:explicit>no</googleplay:explicit>
     <googleplay:image href="https://www.rwpod.com/images/logo.png"/>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>08 выпуск 09 сезона. Rails 7 adds Enumerable#maximum, Redis rate limiter, Simple-keyboard, Goober и прочее</title>
+  <description>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://bigbinary.com/blog/rails-7-adds-enumerable-maximum" target="_blank" rel="noopener noreferrer">Rails 7 adds Enumerable#maximum</a></li> <li><a href="https://longliveruby.com/articles/rails-design-patterns-the-big-picture" target="_blank" rel="noopener noreferrer">Rails design patterns</a></li> <li> <p><a href="https://www.honeybadger.io/blog/ruby-code-loader-zeitwerk/" target="_blank" rel="noopener noreferrer">Code Loaders in Ruby: Understanding Zeitwerk</a></p> </li> <li><a href="https://blog.rebased.pl/2021/02/22/redis-rate-limiter.html" target="_blank" rel="noopener noreferrer">Redis rate limiter</a></li> <li><a href="https://mac.install.guide/faq/do-not-use-mac-system-ruby/index.html" target="_blank" rel="noopener noreferrer">Do Not Use the MacOS System Ruby</a></li> <li><a href="https://upgrow.shopify.io/" target="_blank" rel="noopener noreferrer">Upgrow - a sustainable architecture for Ruby on Rails</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="https://alistapart.com/article/the-future-of-web-software-is-html-over-websockets/" target="_blank" rel="noopener noreferrer">The Future of Web Software Is HTML-over-WebSockets</a></li> <li><a href="https://cloudinary.com/blog/time_for_next_gen_codecs_to_dethrone_jpeg" target="_blank" rel="noopener noreferrer">Time for Next-Gen Codecs to Dethrone JPEG</a></li> <li> <p><a href="https://nolanlawson.com/2021/02/23/javascript-performance-beyond-bundle-size/" target="_blank" rel="noopener noreferrer">JavaScript performance beyond bundle size</a></p> </li> <li><a href="https://web.dev/streams/" target="_blank" rel="noopener noreferrer">Streams — the definitive guide</a></li> <li><a href="https://virtual-keyboard.js.org/" target="_blank" rel="noopener noreferrer">Simple-keyboard - a fast, dependency-free and customizable virtual keyboard for rich and snappy web applications</a></li> <li><a href="https://goober.rocks/" target="_blank" rel="noopener noreferrer">Goober - a less than 1KB css-in-js solution</a></li> <li><a href="https://ractive-player.org/" target="_blank" rel="noopener noreferrer">RactivePlayer - create interactive videos in React</a></li> </ul> <h2 id="rwpod-cafe-19-06032021">RWpod Cafe #19 (06.03.2021)</h2> <ul> <li><a href="https://www.youtube.com/watch?v=UM4ETbyHH_4" target="_blank" rel="noopener noreferrer">RWpod Cafe #19</a></li> <li><a href="https://github.com/rwpod/cafe-discussions/discussions/3" target="_blank" rel="noopener noreferrer">Темы для выпуска</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </description>
+  <pubDate>Mon, 01 Mar 2021 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2021/03/01/podcast-09-08.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2021/03/01/podcast-09-08.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/09/0908.mp3" length="52323365" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/09/0908.mp3" fileSize="52323365" type="audio/mpeg"/>
+  <media:content url="https://github.com/rwpod/mirror/releases/download/09.08/0908.mp3" fileSize="52323365" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 7 adds Enumerable#maximum Rails design patt...</itunes:subtitle>
+  <itunes:summary>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Rails 7 adds Enumerable#maximum Rails design patterns  Code Loaders in Ruby: Understanding Zeitwerk  Redis rate limiter Do Not Use the MacOS System Ruby Upgrow - a sustainable architecture for Ruby on Rails  Web  The Future of Web Software Is HTML-over-WebSockets Time for Next-Gen Codecs to Dethrone JPEG  JavaScript performance beyond bundle size  Streams — the definitive guide Simple-keyboard - a fast, dependency-free and customizable virtual keyboard for rich and snappy web applications Goober - a less than 1KB css-in-js solution RactivePlayer - create interactive videos in React  RWpod Cafe #19 (06.03.2021)  RWpod Cafe #19 Темы для выпуска  
+</itunes:summary>
+  <itunes:image href="https://www.rwpod.com/images/static/09/0908.png"/>
+  <itunes:duration>00:50:21</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
+</item>
 <item>
   <title>07 выпуск 09 сезона. Rails 6.1.3, Vite 2.0, interview with Ryan Dahl, Neighbor, Twterm, NetplayJS и прочее</title>
   <description>
