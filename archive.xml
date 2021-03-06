@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Mon, 01 Mar 2021 00:00:00 +0200</pubDate>
-    <lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0200</lastBuildDate>
+    <pubDate>Sat, 06 Mar 2021 00:00:00 +0200</pubDate>
+    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,32 @@
     <googleplay:explicit>no</googleplay:explicit>
     <googleplay:image href="https://www.rwpod.com/images/logo.png"/>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>RWPod Кафе 19: Alexey Vasiliev, Alex Chaplinsky, Valentine Zavadskiy</title>
+  <description>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. В этом выпуске RWpod Cafe:</p> <ul> <li><a href="https://cacm.acm.org/magazines/2021/3/250705-50-years-of-pascal/fulltext" target="_blank" rel="noopener noreferrer">50 Years of Pascal</a></li> <li><a href="https://blogs.embarcadero.com/26-years-of-delphi/" target="_blank" rel="noopener noreferrer">26 Years… of Delphi</a></li> <li><a href="https://www.opennet.ru/opennews/art.shtml?num=54627" target="_blank" rel="noopener noreferrer">Языку Python исполнилось 30 лет</a></li> <li> <p><a href="https://twitter.com/yukihiro_matz/status/1364559848906498049" target="_blank" rel="noopener noreferrer">28 Years of Ruby</a></p> </li> <li><a href="https://www.raspberrypi.org/blog/raspberry-pi-silicon-pico-now-on-sale/" target="_blank" rel="noopener noreferrer">Meet Raspberry Silicon: Raspberry Pi Pico now on sale at $4</a></li> <li> <p><a href="https://mruby.org/releases/2021/03/05/mruby-3.0.0-released.html" target="_blank" rel="noopener noreferrer">Mruby 3.0.0</a></p> </li> <li> <p><a href="https://www.bleepingcomputer.com/news/security/researcher-hacks-over-35-tech-firms-in-novel-supply-chain-attack/" target="_blank" rel="noopener noreferrer">Researcher hacks over 35 tech firms in novel supply chain attack</a></p> </li> <li> <p><a href="https://daniel.haxx.se/blog/2021/02/19/i-will-slaughter-you/" target="_blank" rel="noopener noreferrer">I will slaughter you</a></p> </li> <li> <p><a href="https://upgrow.shopify.io/" target="_blank" rel="noopener noreferrer">Upgrow - a sustainable architecture for Ruby on Rails</a></p> </li> <li> <p><a href="https://m.habr.com/ru/post/519314/" target="_blank" rel="noopener noreferrer">Trunk Based Development – лучшая модель ветвления</a></p> </li> <li> <p><a href="https://matklad.github.io//2021/02/06/ARCHITECTURE.md.html" target="_blank" rel="noopener noreferrer">Why you need ARCHITECTURE.md</a></p> </li> <li><a href="https://arstechnica.com/tech-policy/2021/02/citibank-just-got-a-500-million-lesson-in-the-importance-of-ui-design/" target="_blank" rel="noopener noreferrer">Citibank just got a $500 million lesson in the importance of UI design</a></li> </ul> <h4 id="pages">Pages</h4> <ul> <li><a href="https://youtu.be/UM4ETbyHH_4" target="_blank" rel="noopener noreferrer">Youtube Chat</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </description>
+  <pubDate>Sat, 06 Mar 2021 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2021/03/06/cafe-019.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2021/03/06/cafe-019.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/cafe/019.mp3" length="109666964" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/cafe/019.mp3" fileSize="109666964" type="audio/mpeg"/>
+  <media:content url="https://github.com/rwpod/mirror/releases/download/c019/019.mp3" fileSize="109666964" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>
+Добрый день уважаемые слушатели. В этом выпуске RWpod Cafe:  50 Years of Pascal 26 Years… of Delphi Языку Python исполнилось 30 лет  28 Years of R...</itunes:subtitle>
+  <itunes:summary>
+Добрый день уважаемые слушатели. В этом выпуске RWpod Cafe:  50 Years of Pascal 26 Years… of Delphi Языку Python исполнилось 30 лет  28 Years of Ruby  Meet Raspberry Silicon: Raspberry Pi Pico now on sale at $4  Mruby 3.0.0   Researcher hacks over 35 tech firms in novel supply chain attack   I will slaughter you   Upgrow - a sustainable architecture for Ruby on Rails   Trunk Based Development – лучшая модель ветвления   Why you need ARCHITECTURE.md  Citibank just got a $500 million lesson in the importance of UI design  Pages  Youtube Chat  
+</itunes:summary>
+  <itunes:image href="https://www.rwpod.com/images/static/cafe/019.png"/>
+  <itunes:duration>01:48:40</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
+</item>
 <item>
   <title>08 выпуск 09 сезона. Rails 7 adds Enumerable#maximum, Redis rate limiter, Simple-keyboard, Goober и прочее</title>
   <description>
