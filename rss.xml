@@ -7,8 +7,8 @@
     <language>ru</language>
     <link>https://www.rwpod.com/</link>
     <copyright>Copyright RWpod.</copyright>
-    <pubDate>Sat, 06 Mar 2021 00:00:00 +0200</pubDate>
-    <lastBuildDate>Sat, 06 Mar 2021 00:00:00 +0200</lastBuildDate>
+    <pubDate>Mon, 08 Mar 2021 00:00:00 +0200</pubDate>
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0200</lastBuildDate>
     <atom:link href="https://www.rwpod.com/rss.xml" rel="self" type="application/rss+xml"/>
     <itunes:author>RWpod команда</itunes:author>
     <itunes:keywords>RWpod, Ruby, Web, подкаст, русский подкаст, скринкасты, программирование</itunes:keywords>
@@ -29,6 +29,32 @@
     <googleplay:explicit>no</googleplay:explicit>
     <googleplay:image href="https://www.rwpod.com/images/logo.png"/>
     <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+<item>
+  <title>09 выпуск 09 сезона. Mruby 3.0.0, jQuery 3.6.0, Gatsby 3.0, Gruf, Active Entry, OrbitDB, Glide-data-grid, Web-minecraft и прочее</title>
+  <description>
+    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body>
+<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://mruby.org/releases/2021/03/05/mruby-3.0.0-released.html" target="_blank" rel="noopener noreferrer">Mruby 3.0.0</a></li> <li><a href="https://blog.testdouble.com/posts/2021-03-04-announcing-standard-ruby-1.0/" target="_blank" rel="noopener noreferrer">Announcing Standard Ruby 1.0</a></li> <li><a href="https://blog.saeloun.com/2021/03/01/rails-6.1-adds-config-for-lazy-image-loading" target="_blank" rel="noopener noreferrer">Rails 6.1 adds config option to control image_tag loading attribute</a></li> <li><a href="https://bigbinary.com/blog/rails-6-1-adds-active-record-finder-methods" target="_blank" rel="noopener noreferrer">Rails 6.1 adds ActiveRecord::FinderMethods ‘sole’ and ‘find_sole_by’</a></li> <li> <p><a href="https://jemma.dev/blog/gc-generational" target="_blank" rel="noopener noreferrer">Ruby Garbage Collection Deep Dive: Generational Garbage Collection</a></p> </li> <li><a href="https://www.johnnunemaker.com/resilience-in-ruby-shell-commands/" target="_blank" rel="noopener noreferrer">Resilience in Ruby: Shell Commands</a></li> <li><a href="https://longliveruby.com/articles/bundle-install-deep-dive" target="_blank" rel="noopener noreferrer">Inside Gemfile - intense dive in</a></li> <li><a href="https://boringrails.com/tips/capybara-multiple-user-sessions" target="_blank" rel="noopener noreferrer">Tip: Testing multiple sessions in the same test with Capybara</a></li> <li><a href="https://github.com/bigcommerce/gruf" target="_blank" rel="noopener noreferrer">Gruf - gRPC Ruby Framework</a></li> <li><a href="https://github.com/TFM-Agency/active_entry" target="_blank" rel="noopener noreferrer">Active Entry - simple and flexible authentication and authorization</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="http://blog.jquery.com/2021/03/02/jquery-3-6-0-released/" target="_blank" rel="noopener noreferrer">jQuery 3.6.0 Released</a></li> <li><a href="https://www.gatsbyjs.com/blog/gatsby-v3/" target="_blank" rel="noopener noreferrer">Introducing Gatsby 3.0 – Faster in Every Way that Matters</a></li> <li><a href="https://blog.saeloun.com/2021/03/02/react-17-removes-bubbling-from-onscroll" target="_blank" rel="noopener noreferrer">React 17 stops event bubbling in scroll event</a></li> <li> <p><a href="https://www.eff.org/deeplinks/2021/03/googles-floc-terrible-idea" target="_blank" rel="noopener noreferrer">Google’s FLoC Is a Terrible Idea</a></p> </li> <li><a href="https://orbitdb.org/" target="_blank" rel="noopener noreferrer">OrbitDB is a serverless, distributed, peer-to-peer database</a></li> <li><a href="https://grid.glideapps.com/" target="_blank" rel="noopener noreferrer">Glide-data-grid - a high-performance React grid component, with rich rendering and TypeScript support</a></li> <li><a href="https://github.com/nodegui/svelte-nodegui" target="_blank" rel="noopener noreferrer">Svelte NodeGUI - build performant, native and cross-platform desktop applications with Node.js and Svelte</a></li> <li><a href="https://swiperjs.com/" target="_blank" rel="noopener noreferrer">Swiper - the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior</a></li> <li><a href="https://github.com/michaljaz/web-minecraft" target="_blank" rel="noopener noreferrer">Web-minecraft - minecraft client written in Javascript</a></li> </ul> <p></p>
+</body></html>
+]]>
+  </description>
+  <pubDate>Mon, 08 Mar 2021 00:00:00 +0200</pubDate>
+  <link>https://www.rwpod.com/posts/2021/03/08/podcast-09-09.html</link>
+  <guid isPermaLink="true">https://www.rwpod.com/posts/2021/03/08/podcast-09-09.html</guid>
+  <enclosure url="https://mp3.rwpod-assets.com/podcasts/09/0909.mp3" length="50545257" type="audio/mpeg"/>
+  <media:content url="https://mp3.rwpod-assets.com/podcasts/09/0909.mp3" fileSize="50545257" type="audio/mpeg"/>
+  <media:content url="https://github.com/rwpod/mirror/releases/download/09.09/0909.mp3" fileSize="50545257" type="audio/mpeg"/>
+  <itunes:author>RWpod команда</itunes:author>
+  <itunes:subtitle>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Mruby 3.0.0 Announcing Standard Ruby 1.0 Rails 6....</itunes:subtitle>
+  <itunes:summary>
+Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Mruby 3.0.0 Announcing Standard Ruby 1.0 Rails 6.1 adds config option to control image_tag loading attribute Rails 6.1 adds ActiveRecord::FinderMethods ‘sole’ and ‘find_sole_by’  Ruby Garbage Collection Deep Dive: Generational Garbage Collection  Resilience in Ruby: Shell Commands Inside Gemfile - intense dive in Tip: Testing multiple sessions in the same test with Capybara Gruf - gRPC Ruby Framework Active Entry - simple and flexible authentication and authorization  Web  jQuery 3.6.0 Released Introducing Gatsby 3.0 – Faster in Every Way that Matters React 17 stops event bubbling in scroll event  Google’s FLoC Is a Terrible Idea  OrbitDB is a serverless, distributed, peer-to-peer database Glide-data-grid - a high-performance React grid component, with rich rendering and TypeScript support Svelte NodeGUI - build performant, native and cross-platform desktop applications with Node.js and Svelte Swiper - the most modern free mobile touch slider with hardware accelerated transitions and amazing native behavior Web-minecraft - minecraft client written in Javascript  
+</itunes:summary>
+  <itunes:image href="https://www.rwpod.com/images/static/09/0909.png"/>
+  <itunes:duration>00:49:02</itunes:duration>
+  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
+  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
+</item>
 <item>
   <title>RWPod Кафе 19: Alexey Vasiliev, Alex Chaplinsky, Valentine Zavadskiy</title>
   <description>
@@ -1304,32 +1330,6 @@ RubyConfBY Online (July 18-19). Используйте промокод “RWPOD
 </itunes:summary>
   <itunes:image href="https://www.rwpod.com/images/static/cafe/015.jpg"/>
   <itunes:duration>01:23:34</itunes:duration>
-  <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
-  <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
-</item>
-<item>
-  <title>15 выпуск 08 сезона. jQuery 3.5.0, Puppeteer 3.0.0, Anyway Config, Global, Redaxios, Simpsons: Hit &amp; Run API и прочее</title>
-  <description>
-    <![CDATA[<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
-<html><body>
-<p>Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске:</p> <h2 id="ruby">Ruby</h2> <ul> <li><a href="https://thehackernews.com/2020/04/rubygem-typosquatting-malware.html" target="_blank" rel="noopener noreferrer">Over 700 Malicious Typosquatted Libraries Found On RubyGems Repository</a></li> <li><a href="https://boringrails.com/articles/feature-flags-simplest-thing-that-could-work/" target="_blank" rel="noopener noreferrer">Feature Flags: The stupid simple way to de-stress production releases</a></li> <li><a href="https://medium.com/@igor04/ruby-main-789ff58320f" target="_blank" rel="noopener noreferrer">Ruby “main”</a></li> <li> <p><a href="https://pganalyze.com/blog/full-text-search-ruby-rails-postgres" target="_blank" rel="noopener noreferrer">Full Text Search in Milliseconds with Rails and PostgreSQL</a></p> </li> <li><a href="https://rossta.net/blog/how-to-use-webpacker-yml.html" target="_blank" rel="noopener noreferrer">Understanding webpacker.yml</a></li> <li><a href="https://evilmartians.com/chronicles/anyway-config-keep-your-ruby-configuration-sane" target="_blank" rel="noopener noreferrer">Anyway Config: Keep your Ruby configuration sane</a></li> <li><a href="https://github.com/railsware/global" target="_blank" rel="noopener noreferrer">Global 2.0.0</a></li> <li><a href="https://tomo-deploy.com/" target="_blank" rel="noopener noreferrer">Tomo - a friendly command-line tool for deploying Rails apps</a></li> </ul> <h2 id="web">Web</h2> <ul> <li><a href="http://blog.jquery.com/2020/04/10/jquery-3-5-0-released/" target="_blank" rel="noopener noreferrer">jQuery 3.5.0 Released!</a></li> <li><a href="https://github.com/puppeteer/puppeteer/releases/tag/v3.0.0" target="_blank" rel="noopener noreferrer">Puppeteer 3.0.0</a></li> <li><a href="https://snyk.io/security-scanner-vuln-cost/" target="_blank" rel="noopener noreferrer">Vuln Cost: security scanner for VS Code</a></li> <li><a href="https://www.taniarascia.com/writing-an-emulator-in-javascript-chip8/" target="_blank" rel="noopener noreferrer">Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)</a></li> <li> <p><a href="https://addyosmani.com/blog/profiling-react-js/" target="_blank" rel="noopener noreferrer">Profiling React.js Performance</a></p> </li> <li><a href="https://blog.logrocket.com/getting-started-with-alpine-js/" target="_blank" rel="noopener noreferrer">Getting started with Alpine.js</a></li> <li><a href="https://github.com/developit/redaxios" target="_blank" rel="noopener noreferrer">Redaxios - the Axios API, as an 800 byte Fetch wrapper</a></li> <li><a href="https://jalal246.github.io/builderz/" target="_blank" rel="noopener noreferrer">Builderz - Zero Configuration JavaScript Bundler</a></li> <li><a href="https://github.com/taviso/sharapi" target="_blank" rel="noopener noreferrer">Simpsons: Hit &amp; Run API</a></li> </ul> <p></p>
-</body></html>
-]]>
-  </description>
-  <pubDate>Mon, 20 Apr 2020 00:00:00 +0300</pubDate>
-  <link>https://www.rwpod.com/posts/2020/04/20/podcast-08-15.html</link>
-  <guid isPermaLink="true">https://www.rwpod.com/posts/2020/04/20/podcast-08-15.html</guid>
-  <enclosure url="https://mp3.rwpod-assets.com/podcasts/08/0815.mp3" length="45054724" type="audio/mpeg"/>
-  <media:content url="https://mp3.rwpod-assets.com/podcasts/08/0815.mp3" fileSize="45054724" type="audio/mpeg"/>
-  <media:content url="https://github.com/rwpod/mirror/releases/download/08.15/0815.mp3" fileSize="45054724" type="audio/mpeg"/>
-  <itunes:author>RWpod команда</itunes:author>
-  <itunes:subtitle>
-Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Over 700 Malicious Typosquatted Libraries Found O...</itunes:subtitle>
-  <itunes:summary>
-Добрый день уважаемые слушатели. Представляем новый выпуск подкаста RWpod. В этом выпуске: Ruby  Over 700 Malicious Typosquatted Libraries Found On RubyGems Repository Feature Flags: The stupid simple way to de-stress production releases Ruby “main”  Full Text Search in Milliseconds with Rails and PostgreSQL  Understanding webpacker.yml Anyway Config: Keep your Ruby configuration sane Global 2.0.0 Tomo - a friendly command-line tool for deploying Rails apps  Web  jQuery 3.5.0 Released! Puppeteer 3.0.0 Vuln Cost: security scanner for VS Code Writing an Emulator in JavaScript (and Interfacing with Multiple UIs)  Profiling React.js Performance  Getting started with Alpine.js Redaxios - the Axios API, as an 800 byte Fetch wrapper Builderz - Zero Configuration JavaScript Bundler Simpsons: Hit &amp; Run API  
-</itunes:summary>
-  <itunes:image href="https://www.rwpod.com/images/static/08/0815.png"/>
-  <itunes:duration>00:45:21</itunes:duration>
   <creativeCommons:license>http://creativecommons.org/licenses/by-nc-nd/4.0/</creativeCommons:license>
   <media:copyright url="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons - Attribution-NonCommercial-NoDerivatives 4.0 International.</media:copyright>
 </item>
